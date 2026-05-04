@@ -1,0 +1,59 @@
+{
+  "levels": [
+    {
+      "id": "a1",
+      "name": "A1 — Beginner",
+      "description": "Everyday greetings, basic nouns, present tense.",
+      "status": "available",
+      "unlock_threshold": 0,
+      "color_hex": "#4CAF50",
+      "grammar_units": [
+        { "id": "a1-grammar-001", "title": "Nominative Case — Nouns", "order": 1 },
+        { "id": "a1-grammar-002", "title": "Verb być — Present Tense", "order": 2 },
+        { "id": "a1-grammar-003", "title": "Personal Pronouns", "order": 3 }
+      ],
+      "vocabulary_sets": [
+        { "id": "a1-vocab-001", "title": "Greetings & Introductions", "order": 1 },
+        { "id": "a1-vocab-002", "title": "Numbers 1–20", "order": 2 },
+        { "id": "a1-vocab-003", "title": "Colors & Basic Adjectives", "order": 3 }
+      ],
+      "exam_sets": [
+        { "id": "a1-exam-001", "title": "Grammar Practice Set 1", "section_type": "grammar", "order": 1 },
+        { "id": "a1-exam-002", "title": "Reading Practice Set 1", "section_type": "reading", "order": 2 }
+      ]
+    },
+    {
+      "id": "a2",
+      "name": "A2 — Elementary",
+      "description": "Past tense, common phrases, simple conversations.",
+      "status": "available",
+      "unlock_threshold": 70,
+      "color_hex": "#2196F3",
+      "grammar_units": [],
+      "vocabulary_sets": [],
+      "exam_sets": []
+    },
+    {
+      "id": "b1",
+      "name": "B1 — Intermediate",
+      "description": "Complex grammar, formal writing, exam preparation.",
+      "status": "coming_soon",
+      "unlock_threshold": 70,
+      "color_hex": "#FF9800",
+      "grammar_units": [],
+      "vocabulary_sets": [],
+      "exam_sets": []
+    },
+    {
+      "id": "b2",
+      "name": "B2 — Upper Intermediate",
+      "description": "Advanced grammar, nuanced expression, full exam readiness.",
+      "status": "coming_soon",
+      "unlock_threshold": 70,
+      "color_hex": "#9C27B0",
+      "grammar_units": [],
+      "vocabulary_sets": [],
+      "exam_sets": []
+    }
+  ]
+}

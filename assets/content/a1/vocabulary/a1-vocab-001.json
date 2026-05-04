@@ -1,0 +1,174 @@
+{
+  "id": "a1-vocab-001",
+  "level": "a1",
+  "order": 1,
+  "title": "Greetings & Introductions",
+  "description": "Essential Polish phrases for meeting people and introducing yourself.",
+  "cards": [
+    {
+      "id": "a1v001-01",
+      "polish": "dzień dobry",
+      "english": "good morning / good day",
+      "pronunciation": "DJEN DOB-ry",
+      "category": "greeting",
+      "example_polish": "Dzień dobry, jak się pan nazywa?",
+      "example_english": "Good morning, what is your name (formal)?",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v001-02",
+      "polish": "dobry wieczór",
+      "english": "good evening",
+      "pronunciation": "DOB-ry VYER-choor",
+      "category": "greeting",
+      "example_polish": "Dobry wieczór! Miło cię widzieć.",
+      "example_english": "Good evening! Nice to see you.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v001-03",
+      "polish": "dobranoc",
+      "english": "good night",
+      "pronunciation": "dob-RA-nots",
+      "category": "greeting",
+      "example_polish": "Dobranoc! Do zobaczenia jutro.",
+      "example_english": "Good night! See you tomorrow.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v001-04",
+      "polish": "cześć",
+      "english": "hi / bye (informal)",
+      "pronunciation": "cheshch",
+      "category": "greeting",
+      "example_polish": "Cześć, Marta! Co słychać?",
+      "example_english": "Hi, Marta! What's up?",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v001-05",
+      "polish": "do widzenia",
+      "english": "goodbye",
+      "pronunciation": "do vi-DZE-nya",
+      "category": "farewell",
+      "example_polish": "Do widzenia! Do jutra.",
+      "example_english": "Goodbye! Until tomorrow.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v001-06",
+      "polish": "jak się pan/pani nazywa?",
+      "english": "what is your name? (formal)",
+      "pronunciation": "yak sheh pan/PA-ni na-ZY-va",
+      "category": "introduction",
+      "example_polish": "Przepraszam, jak się pan nazywa?",
+      "example_english": "Excuse me, what is your name (sir)?",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v001-07",
+      "polish": "jak się nazywasz?",
+      "english": "what is your name? (informal)",
+      "pronunciation": "yak sheh na-ZY-vash",
+      "category": "introduction",
+      "example_polish": "Hej! Jak się nazywasz?",
+      "example_english": "Hey! What's your name?",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v001-08",
+      "polish": "nazywam się",
+      "english": "my name is",
+      "pronunciation": "na-ZY-vam sheh",
+      "category": "introduction",
+      "example_polish": "Nazywam się Anna Kowalska.",
+      "example_english": "My name is Anna Kowalska.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v001-09",
+      "polish": "miło mi",
+      "english": "nice to meet you",
+      "pronunciation": "MI-wo mi",
+      "category": "introduction",
+      "example_polish": "Nazywam się Piotr. — Miło mi!",
+      "example_english": "My name is Piotr. — Nice to meet you!",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v001-10",
+      "polish": "skąd pan/pani jest?",
+      "english": "where are you from? (formal)",
+      "pronunciation": "skond pan/PA-ni yest",
+      "category": "introduction",
+      "example_polish": "Skąd pan jest? — Jestem z Polski.",
+      "example_english": "Where are you from? — I am from Poland.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v001-11",
+      "polish": "jestem z",
+      "english": "I am from",
+      "pronunciation": "YES-tem z",
+      "category": "introduction",
+      "example_polish": "Jestem z Warszawy.",
+      "example_english": "I am from Warsaw.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v001-12",
+      "polish": "przepraszam",
+      "english": "excuse me / I'm sorry",
+      "pronunciation": "pshe-PRA-sham",
+      "category": "polite",
+      "example_polish": "Przepraszam, gdzie jest dworzec?",
+      "example_english": "Excuse me, where is the train station?",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v001-13",
+      "polish": "dziękuję",
+      "english": "thank you",
+      "pronunciation": "djen-KU-yeh",
+      "category": "polite",
+      "example_polish": "Dziękuję bardzo!",
+      "example_english": "Thank you very much!",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v001-14",
+      "polish": "proszę",
+      "english": "please / here you are / you're welcome",
+      "pronunciation": "PRO-sheh",
+      "category": "polite",
+      "example_polish": "Proszę, oto Twoja kawa.",
+      "example_english": "Here you are, your coffee.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v001-15",
+      "polish": "tak / nie",
+      "english": "yes / no",
+      "pronunciation": "tak / nyeh",
+      "category": "basic",
+      "example_polish": "Czy mówisz po angielsku? — Tak, trochę.",
+      "example_english": "Do you speak English? — Yes, a little.",
+      "gender": null,
+      "audio_asset": null
+    }
+  ]
+}

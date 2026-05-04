@@ -1,0 +1,92 @@
+{
+  "id": "a1-grammar-002",
+  "level": "a1",
+  "order": 2,
+  "title": "Verb być — Present Tense",
+  "explanation": "The verb 'być' (to be) is the most important verb in Polish. Here are all present-tense forms:\n• ja jestem — I am\n• ty jesteś — you are (singular, informal)\n• on/ona/ono jest — he/she/it is\n• my jesteśmy — we are\n• wy jesteście — you are (plural or formal singular)\n• oni/one są — they are\n\nPolish often drops subject pronouns because the verb ending already shows the person. 'Jestem studentem' (I am a student) is more natural than 'Ja jestem studentem'.",
+  "examples": [
+    {
+      "polish": "Jestem studentem.",
+      "english": "I am a student.",
+      "note": "1st person singular — pronoun 'ja' omitted"
+    },
+    {
+      "polish": "Ona jest nauczycielką.",
+      "english": "She is a teacher.",
+      "note": "3rd person singular — pronoun 'ona' used for clarity"
+    },
+    {
+      "polish": "Jesteśmy z Polski.",
+      "english": "We are from Poland.",
+      "note": "1st person plural"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "id": "a1-g002-ex01",
+      "prompt": "Choose the correct form of 'być' for 'She ___ a doctor.'",
+      "options": ["jest", "jestem", "jesteś", "są"],
+      "correct_index": 0,
+      "explanation": "'Ona jest' — she is. The 3rd person singular form of 'być' is 'jest'."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-g002-ex02",
+      "prompt": "Complete: 'We ___ from Warsaw.' (my = we)",
+      "sentence_template": "My ___ z Warszawy.",
+      "accepted_answers": ["jesteśmy"],
+      "explanation": "'Jesteśmy' is the 1st person plural form of 'być'. It means 'we are'."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-g002-ex03",
+      "prompt": "Which sentence means 'I am tired'? (zmęczony/zmęczona = tired)",
+      "options": [
+        "Jestem zmęczony.",
+        "Jest zmęczony.",
+        "Jesteś zmęczony.",
+        "Są zmęczeni."
+      ],
+      "correct_index": 0,
+      "explanation": "'Jestem' = I am. 'Jest' = he/she/it is. 'Jesteś' = you are. 'Są' = they are."
+    },
+    {
+      "type": "sentence_order",
+      "id": "a1-g002-ex04",
+      "prompt": "Order the words to say 'They are students' (oni = they, studenci = students):",
+      "words": ["są", "studenci", "Oni"],
+      "correct_order": [2, 0, 1],
+      "explanation": "Correct: 'Oni są studenci.' — subject (Oni) + verb (są) + predicate noun."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-g002-ex05",
+      "prompt": "How do you say 'You (singular, informal) are Polish'? (Polak/Polka = a Polish person)",
+      "options": [
+        "Jesteś Polakiem.",
+        "Jestem Polakiem.",
+        "Jest Polakiem.",
+        "Jesteście Polakami."
+      ],
+      "correct_index": 0,
+      "explanation": "'Jesteś' is the 2nd person singular (informal 'ty' form) of być. It means 'you are'. Note: 'Polakiem' is the instrumental case used after 'być' for nationality."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-g002-ex06",
+      "prompt": "Complete: 'Are you (formal) ready? — Yes, I ___.' (gotowy = ready)",
+      "sentence_template": "Tak, ___ gotowy.",
+      "accepted_answers": ["jestem"],
+      "explanation": "'Jestem' is the 1st person singular (ja form) of być. It means 'I am'."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-g002-ex07",
+      "prompt": "Complete: 'Where ___ the keys?' (klucze = keys)",
+      "options": ["są", "jest", "jestem", "jesteś"],
+      "correct_index": 0,
+      "explanation": "'Klucze' (keys) is a plural noun, so we use the 3rd person plural form 'są' (are)."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "a1-exam-001",
+  "level": "a1",
+  "order": 1,
+  "section_type": "grammar",
+  "title": "A1 Grammar Practice — PKE Style",
+  "description": "Grammar exercises calibrated to the A1 Polish State Exam (PKE) rubric. Covers verb być, personal pronouns, and basic nominative case.",
+  "time_limit_seconds": 600,
+  "exercises": [
+    {
+      "type": "fill_in_blank",
+      "id": "a1-exam001-ex01",
+      "prompt": "Complete the sentence with the correct form of 'być': 'Ja ___ studentem.'",
+      "sentence_template": "Ja ___ studentem.",
+      "accepted_answers": ["jestem"],
+      "explanation": "'Jestem' is the 1st person singular (ja) form of być. It means 'I am'."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-exam001-ex02",
+      "prompt": "Which form of 'być' correctly completes: 'Ona ___ nauczycielką.'?",
+      "options": ["jest", "jestem", "jesteś", "jesteście"],
+      "correct_index": 0,
+      "explanation": "'Jest' is the 3rd person singular form of być — used for on/ona/ono."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-exam001-ex03",
+      "prompt": "Fill in the pronoun: '___ (we) jesteśmy z Warszawy.'",
+      "sentence_template": "___ jesteśmy z Warszawy.",
+      "accepted_answers": ["My", "my"],
+      "explanation": "'My' is the Polish first-person plural pronoun meaning 'we'."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-exam001-ex04",
+      "prompt": "The noun 'książka' (book) is feminine. Which article-equivalent sentence is correct for 'I have a book'?",
+      "options": [
+        "Mam książkę.",
+        "Mam książka.",
+        "Mam książki.",
+        "Mam książko."
+      ],
+      "correct_index": 0,
+      "explanation": "After 'mam' (I have), the object takes the accusative case. For feminine nouns ending in -a, the accusative ends in -ę: książka → książkę."
+    },
+    {
+      "type": "sentence_order",
+      "id": "a1-exam001-ex05",
+      "prompt": "Put the words in order to say 'They (fem.) are from Poland':",
+      "words": ["z", "One", "Polski.", "są"],
+      "correct_order": [1, 3, 0, 2],
+      "explanation": "Correct: 'One są z Polski.' — 'One' (they, feminine group) + 'są' (are) + 'z Polski' (from Poland)."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-exam001-ex06",
+      "prompt": "How do you say 'You (plural) are students'?",
+      "options": [
+        "Jesteście studentami.",
+        "Jesteś studentem.",
+        "Są studentami.",
+        "Jestem studentem."
+      ],
+      "correct_index": 0,
+      "explanation": "'Jesteście' is the 2nd person plural of być. 'Studentami' is the instrumental plural of 'student', used with być."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-exam001-ex07",
+      "prompt": "Complete: 'Gdzie ___ klucze?' (Where are the keys?)",
+      "sentence_template": "Gdzie ___ klucze?",
+      "accepted_answers": ["są"],
+      "explanation": "'Klucze' (keys) is plural, so we use the 3rd person plural form 'są' (are)."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-exam001-ex08",
+      "prompt": "Which pronoun is correct for a mixed-gender group of people?",
+      "options": ["oni", "one", "on", "ona"],
+      "correct_index": 0,
+      "explanation": "'Oni' is used for groups that include at least one male. 'One' is used for groups of females or non-male mixed groups."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-exam001-ex09",
+      "prompt": "Complete the greeting: '___ dobry!' (formal daytime greeting)",
+      "sentence_template": "___ dobry!",
+      "accepted_answers": ["Dzień", "dzień"],
+      "explanation": "'Dzień dobry' means 'good morning' or 'good day' — the standard formal greeting during the day."
+    },
+    {
+      "type": "sentence_order",
+      "id": "a1-exam001-ex10",
+      "prompt": "Order the words to make: 'I am a Polish person.'",
+      "words": ["Jestem", "Polakiem.", "ja"],
+      "correct_order": [0, 2, 1],
+      "explanation": "Correct: 'Jestem ja Polakiem.' — Though 'Ja jestem Polakiem' or just 'Jestem Polakiem' is more natural, the instrumental 'Polakiem' is correct after być."
+    }
+  ]
+}

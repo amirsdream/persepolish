@@ -1,0 +1,163 @@
+{
+  "id": "a1-vocab-003",
+  "level": "a1",
+  "order": 3,
+  "title": "Colors & Basic Adjectives",
+  "description": "Common Polish colors and basic descriptive adjectives with gender forms.",
+  "cards": [
+    {
+      "id": "a1v003-01",
+      "polish": "czerwony / czerwona / czerwone",
+      "english": "red (m / f / n)",
+      "pronunciation": "cher-VO-ny",
+      "category": "color",
+      "example_polish": "Mam czerwony samochód.",
+      "example_english": "I have a red car.",
+      "gender": "m/f/n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v003-02",
+      "polish": "niebieski / niebieska / niebieskie",
+      "english": "blue (m / f / n)",
+      "pronunciation": "nye-BYES-ki",
+      "category": "color",
+      "example_polish": "Niebo jest niebieskie.",
+      "example_english": "The sky is blue.",
+      "gender": "m/f/n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v003-03",
+      "polish": "zielony / zielona / zielone",
+      "english": "green (m / f / n)",
+      "pronunciation": "zye-LO-ny",
+      "category": "color",
+      "example_polish": "Trawa jest zielona.",
+      "example_english": "The grass is green.",
+      "gender": "m/f/n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v003-04",
+      "polish": "żółty / żółta / żółte",
+      "english": "yellow (m / f / n)",
+      "pronunciation": "ZHOOL-ty",
+      "category": "color",
+      "example_polish": "Słońce jest żółte.",
+      "example_english": "The sun is yellow.",
+      "gender": "m/f/n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v003-05",
+      "polish": "czarny / czarna / czarne",
+      "english": "black (m / f / n)",
+      "pronunciation": "CHAR-ny",
+      "category": "color",
+      "example_polish": "Mam czarnego kota.",
+      "example_english": "I have a black cat.",
+      "gender": "m/f/n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v003-06",
+      "polish": "biały / biała / białe",
+      "english": "white (m / f / n)",
+      "pronunciation": "BYA-wy",
+      "category": "color",
+      "example_polish": "Śnieg jest biały.",
+      "example_english": "Snow is white.",
+      "gender": "m/f/n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v003-07",
+      "polish": "duży / duża / duże",
+      "english": "big / large (m / f / n)",
+      "pronunciation": "DU-zhy",
+      "category": "adjective",
+      "example_polish": "To jest duże miasto.",
+      "example_english": "This is a big city.",
+      "gender": "m/f/n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v003-08",
+      "polish": "mały / mała / małe",
+      "english": "small / little (m / f / n)",
+      "pronunciation": "MA-wy",
+      "category": "adjective",
+      "example_polish": "Mam małego psa.",
+      "example_english": "I have a small dog.",
+      "gender": "m/f/n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v003-09",
+      "polish": "nowy / nowa / nowe",
+      "english": "new (m / f / n)",
+      "pronunciation": "NO-vy",
+      "category": "adjective",
+      "example_polish": "Mam nowy telefon.",
+      "example_english": "I have a new phone.",
+      "gender": "m/f/n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v003-10",
+      "polish": "stary / stara / stare",
+      "english": "old (m / f / n)",
+      "pronunciation": "STA-ry",
+      "category": "adjective",
+      "example_polish": "To jest stary dom.",
+      "example_english": "This is an old house.",
+      "gender": "m/f/n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v003-11",
+      "polish": "dobry / dobra / dobre",
+      "english": "good (m / f / n)",
+      "pronunciation": "DOB-ry",
+      "category": "adjective",
+      "example_polish": "To jest dobra restauracja.",
+      "example_english": "This is a good restaurant.",
+      "gender": "m/f/n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v003-12",
+      "polish": "piękny / piękna / piękne",
+      "english": "beautiful (m / f / n)",
+      "pronunciation": "PYEN-kny",
+      "category": "adjective",
+      "example_polish": "Kraków jest pięknym miastem.",
+      "example_english": "Kraków is a beautiful city.",
+      "gender": "m/f/n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v003-13",
+      "polish": "drogi / droga / drogie",
+      "english": "expensive (m / f / n)",
+      "pronunciation": "DRO-gi",
+      "category": "adjective",
+      "example_polish": "Ten hotel jest drogi.",
+      "example_english": "This hotel is expensive.",
+      "gender": "m/f/n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v003-14",
+      "polish": "tani / tania / tanie",
+      "english": "cheap / affordable (m / f / n)",
+      "pronunciation": "TA-ni",
+      "category": "adjective",
+      "example_polish": "Ten sklep jest tani.",
+      "example_english": "This shop is cheap.",
+      "gender": "m/f/n",
+      "audio_asset": null
+    }
+  ]
+}

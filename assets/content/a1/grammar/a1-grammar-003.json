@@ -1,0 +1,97 @@
+{
+  "id": "a1-grammar-003",
+  "level": "a1",
+  "order": 3,
+  "title": "Personal Pronouns",
+  "explanation": "Polish personal pronouns change form depending on their grammatical role. Here are the nominative (subject) forms:\n• ja — I\n• ty — you (singular, informal)\n• on — he\n• ona — she\n• ono — it (neuter)\n• my — we\n• wy — you (plural, or singular formal)\n• oni — they (group including at least one male)\n• one — they (group of females or mixed non-male)\n\nImportant: In Polish, subject pronouns are often dropped because the verb ending shows the person. You say 'Jestem Anna' not 'Ja jestem Anna' in everyday speech. Pronouns are used for emphasis or contrast.",
+  "examples": [
+    {
+      "polish": "On mówi po polsku.",
+      "english": "He speaks Polish.",
+      "note": "3rd person masculine singular"
+    },
+    {
+      "polish": "My jesteśmy z Krakowa.",
+      "english": "We are from Kraków.",
+      "note": "1st person plural — pronoun used for emphasis"
+    },
+    {
+      "polish": "Ty masz rację.",
+      "english": "You are right.",
+      "note": "2nd person singular — 'ty' used for emphasis"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "id": "a1-g003-ex01",
+      "prompt": "Which pronoun means 'she' in Polish?",
+      "options": ["ona", "on", "ono", "one"],
+      "correct_index": 0,
+      "explanation": "'Ona' = she. 'On' = he. 'Ono' = it (neuter). 'One' = they (feminine/non-male group)."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-g003-ex02",
+      "prompt": "Fill in the pronoun: '___ (we) are students.'",
+      "sentence_template": "___ jesteśmy studentami.",
+      "accepted_answers": ["My", "my"],
+      "explanation": "'My' means 'we' in Polish. It is the 1st person plural nominative pronoun."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-g003-ex03",
+      "prompt": "A group of women at a party. How do you say 'they speak Polish'?",
+      "options": [
+        "One mówią po polsku.",
+        "Oni mówią po polsku.",
+        "On mówi po polsku.",
+        "Ono mówi po polsku."
+      ],
+      "correct_index": 0,
+      "explanation": "'One' is used for groups of females or mixed non-male groups. 'Oni' is used when there is at least one male in the group."
+    },
+    {
+      "type": "sentence_order",
+      "id": "a1-g003-ex04",
+      "prompt": "Order the words to say 'You (plural) are from Poland':",
+      "words": ["z", "Wy", "Polski.", "jesteście"],
+      "correct_order": [1, 3, 0, 2],
+      "explanation": "Correct: 'Wy jesteście z Polski.' — pronoun (Wy) + verb (jesteście) + preposition phrase (z Polski)."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-g003-ex05",
+      "prompt": "When is 'ty' used?",
+      "options": [
+        "When speaking informally to one person",
+        "When speaking formally to one person",
+        "When speaking to a group",
+        "It is never used in modern Polish"
+      ],
+      "correct_index": 0,
+      "explanation": "'Ty' is the informal singular 'you', used with friends, family, and peers. For formal address, Poles use 'Pan' (sir) or 'Pani' (ma'am) with 3rd person verb forms."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-g003-ex06",
+      "prompt": "Choose the correct pronoun: '___ (he) is a doctor.' (lekarzem = doctor, instr.)",
+      "sentence_template": "___ jest lekarzem.",
+      "accepted_answers": ["On", "on"],
+      "explanation": "'On' means 'he'. For a male doctor, the masculine pronoun 'on' is correct."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-g003-ex07",
+      "prompt": "Complete: '___ (I) am not from Poland.' (nie = not)",
+      "options": [
+        "Ja nie jestem z Polski.",
+        "Ty nie jesteś z Polski.",
+        "On nie jest z Polski.",
+        "My nie jesteśmy z Polski."
+      ],
+      "correct_index": 0,
+      "explanation": "'Ja nie jestem z Polski' uses the 1st person singular form 'jestem' with the negation 'nie'. The other options use different pronouns and verb forms."
+    }
+  ]
+}

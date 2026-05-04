@@ -1,0 +1,82 @@
+{
+  "id": "a1-exam-002",
+  "level": "a1",
+  "order": 2,
+  "section_type": "reading",
+  "title": "A1 Reading Comprehension — PKE Style",
+  "description": "Short Polish text followed by multiple-choice comprehension questions, matching the A1 PKE reading section format.",
+  "time_limit_seconds": 900,
+  "passage": {
+    "title": "Moja rodzina",
+    "text": "Nazywam się Marek Nowak. Jestem z Krakowa. Mam trzydzieści lat. Jestem nauczycielem. Moja żona nazywa się Ewa. Ona jest lekarką. Mamy dwoje dzieci — syna i córkę. Syn ma pięć lat, a córka ma osiem lat. Mieszkamy w dużym mieszkaniu w centrum Krakowa. Bardzo lubimy Kraków. To piękne miasto.",
+    "translation": "My name is Marek Nowak. I am from Kraków. I am thirty years old. I am a teacher. My wife's name is Ewa. She is a doctor. We have two children — a son and a daughter. The son is five years old and the daughter is eight years old. We live in a large apartment in the centre of Kraków. We love Kraków very much. It is a beautiful city."
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "id": "a1-exam002-ex01",
+      "prompt": "What is Marek's profession?",
+      "options": ["teacher", "doctor", "student", "engineer"],
+      "correct_index": 0,
+      "explanation": "The text says 'Jestem nauczycielem' — I am a teacher."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-exam002-ex02",
+      "prompt": "Where is Marek from?",
+      "options": ["Kraków", "Warsaw", "Gdańsk", "Wrocław"],
+      "correct_index": 0,
+      "explanation": "The text says 'Jestem z Krakowa' — I am from Kraków."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-exam002-ex03",
+      "prompt": "What is Ewa's job?",
+      "options": ["doctor", "teacher", "lawyer", "nurse"],
+      "correct_index": 0,
+      "explanation": "The text says 'Ona jest lekarką' — She is a doctor. 'Lekarka' is the feminine form of 'lekarz' (doctor)."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-exam002-ex04",
+      "prompt": "How old is the daughter?",
+      "options": ["8 years old", "5 years old", "3 years old", "10 years old"],
+      "correct_index": 0,
+      "explanation": "The text says 'córka ma osiem lat' — the daughter is eight years old. 'Osiem' = eight."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-exam002-ex05",
+      "prompt": "How does Marek describe Kraków?",
+      "options": [
+        "a beautiful city",
+        "a big and noisy city",
+        "a boring city",
+        "an expensive city"
+      ],
+      "correct_index": 0,
+      "explanation": "The text says 'To piękne miasto' — It is a beautiful city. 'Piękne' = beautiful (neuter form)."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-exam002-ex06",
+      "prompt": "According to the text, how many children does Marek have? Answer in Polish digits.",
+      "sentence_template": "Marek ma ___ dzieci.",
+      "accepted_answers": ["dwoje", "2"],
+      "explanation": "The text says 'Mamy dwoje dzieci' — We have two children. 'Dwoje' is the neuter collective numeral used with 'dzieci' (children)."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-exam002-ex07",
+      "prompt": "Where do Marek and Ewa live?",
+      "options": [
+        "in a large apartment in the city centre",
+        "in a small house outside the city",
+        "in a flat in Warsaw",
+        "in Ewa's parents' house"
+      ],
+      "correct_index": 0,
+      "explanation": "The text says 'Mieszkamy w dużym mieszkaniu w centrum Krakowa' — We live in a large apartment in the centre of Kraków."
+    }
+  ]
+}

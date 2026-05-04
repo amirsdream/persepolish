@@ -1,0 +1,229 @@
+{
+  "id": "a1-vocab-002",
+  "level": "a1",
+  "order": 2,
+  "title": "Numbers 1–20",
+  "description": "Cardinal numbers in Polish from one to twenty, with gender notes.",
+  "cards": [
+    {
+      "id": "a1v002-01",
+      "polish": "jeden / jedna",
+      "english": "one (masculine / feminine)",
+      "pronunciation": "YEH-den / YED-na",
+      "category": "number",
+      "example_polish": "Mam jeden kot i jedną rybkę.",
+      "example_english": "I have one cat and one fish.",
+      "gender": "m/f",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-02",
+      "polish": "dwa / dwie",
+      "english": "two (masculine / feminine)",
+      "pronunciation": "dva / dvyeh",
+      "category": "number",
+      "example_polish": "Mam dwa psy i dwie koty.",
+      "example_english": "I have two dogs and two cats.",
+      "gender": "m/f",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-03",
+      "polish": "trzy",
+      "english": "three",
+      "pronunciation": "tshi",
+      "category": "number",
+      "example_polish": "Mam trzy książki.",
+      "example_english": "I have three books.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-04",
+      "polish": "cztery",
+      "english": "four",
+      "pronunciation": "CHTE-ry",
+      "category": "number",
+      "example_polish": "Stół ma cztery nogi.",
+      "example_english": "The table has four legs.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-05",
+      "polish": "pięć",
+      "english": "five",
+      "pronunciation": "pyench",
+      "category": "number",
+      "example_polish": "Mam pięć palców.",
+      "example_english": "I have five fingers.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-06",
+      "polish": "sześć",
+      "english": "six",
+      "pronunciation": "sheshch",
+      "category": "number",
+      "example_polish": "Tydzień ma sześć dni roboczych.",
+      "example_english": "The week has six working days.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-07",
+      "polish": "siedem",
+      "english": "seven",
+      "pronunciation": "SHYE-dem",
+      "category": "number",
+      "example_polish": "Tydzień ma siedem dni.",
+      "example_english": "A week has seven days.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-08",
+      "polish": "osiem",
+      "english": "eight",
+      "pronunciation": "O-shyem",
+      "category": "number",
+      "example_polish": "Śpię osiem godzin.",
+      "example_english": "I sleep eight hours.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-09",
+      "polish": "dziewięć",
+      "english": "nine",
+      "pronunciation": "DZYE-vyench",
+      "category": "number",
+      "example_polish": "Sklep jest otwarty do dziewięć.",
+      "example_english": "The shop is open until nine.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-10",
+      "polish": "dziesięć",
+      "english": "ten",
+      "pronunciation": "DZYE-shyench",
+      "category": "number",
+      "example_polish": "Mam dziesięć złotych.",
+      "example_english": "I have ten zloty.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-11",
+      "polish": "jedenaście",
+      "english": "eleven",
+      "pronunciation": "ye-de-NASH-cheh",
+      "category": "number",
+      "example_polish": "Autobus odjeżdża o jedenaście.",
+      "example_english": "The bus leaves at eleven.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-12",
+      "polish": "dwanaście",
+      "english": "twelve",
+      "pronunciation": "dva-NASH-cheh",
+      "category": "number",
+      "example_polish": "Rok ma dwanaście miesięcy.",
+      "example_english": "A year has twelve months.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-13",
+      "polish": "trzynaście",
+      "english": "thirteen",
+      "pronunciation": "tshy-NASH-cheh",
+      "category": "number",
+      "example_polish": "Mam trzynaście lat.",
+      "example_english": "I am thirteen years old.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-14",
+      "polish": "czternaście",
+      "english": "fourteen",
+      "pronunciation": "chter-NASH-cheh",
+      "category": "number",
+      "example_polish": "Szyna ma czternaście metrów.",
+      "example_english": "The rail is fourteen metres long.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-15",
+      "polish": "piętnaście",
+      "english": "fifteen",
+      "pronunciation": "pyet-NASH-cheh",
+      "category": "number",
+      "example_polish": "Czekam piętnaście minut.",
+      "example_english": "I wait fifteen minutes.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-16",
+      "polish": "szesnaście",
+      "english": "sixteen",
+      "pronunciation": "shes-NASH-cheh",
+      "category": "number",
+      "example_polish": "Ona ma szesnaście lat.",
+      "example_english": "She is sixteen years old.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-17",
+      "polish": "siedemnaście",
+      "english": "seventeen",
+      "pronunciation": "shye-dem-NASH-cheh",
+      "category": "number",
+      "example_polish": "Jest siedemnaście stopni.",
+      "example_english": "It is seventeen degrees.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-18",
+      "polish": "osiemnaście",
+      "english": "eighteen",
+      "pronunciation": "o-shyem-NASH-cheh",
+      "category": "number",
+      "example_polish": "Mam osiemnaście lat, jestem pełnoletni.",
+      "example_english": "I am eighteen, I am of legal age.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-19",
+      "polish": "dziewiętnaście",
+      "english": "nineteen",
+      "pronunciation": "dzye-vyet-NASH-cheh",
+      "category": "number",
+      "example_polish": "Pociąg jedzie o dziewiętnaście.",
+      "example_english": "The train leaves at nineteen hundred.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v002-20",
+      "polish": "dwadzieścia",
+      "english": "twenty",
+      "pronunciation": "dva-DZYES-cha",
+      "category": "number",
+      "example_polish": "Jest dwadzieścia stopni.",
+      "example_english": "It is twenty degrees.",
+      "gender": null,
+      "audio_asset": null
+    }
+  ]
+}
