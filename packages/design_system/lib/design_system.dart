@@ -1,10 +1,5 @@
 library design_system;
 
-export 'components/level_card.dart';
-export 'components/star_rating.dart';
-export 'components/xp_bar.dart';
-export 'components/streak_badge.dart';
-export 'components/exercise_card.dart';
-export 'components/primary_button.dart';
-export 'animations/star_burst_animation.dart';
-export 'animations/confetti_overlay.dart';
+// Design system components are implemented directly in lib/core/
+// and lib/features/ of the main app. This package is a placeholder
+// for future extraction.
