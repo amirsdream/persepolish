@@ -8,9 +8,9 @@ final class ContentLoader {
     try {
       final String raw = await rootBundle.loadString(assetPath);
       return json.decode(raw) as Map<String, dynamic>;
-    } on FlutterError catch (e) {
+    } on Exception catch (e) {
       throw ContentLoadException(
-        'Failed to load asset: $assetPath\n${e.message}',
+        'Failed to load asset: $assetPath\n$e',
       );
     } on FormatException catch (e) {
       throw ContentLoadException(
@@ -23,9 +23,9 @@ final class ContentLoader {
     try {
       final String raw = await rootBundle.loadString(assetPath);
       return json.decode(raw) as List<dynamic>;
-    } on FlutterError catch (e) {
+    } on Exception catch (e) {
       throw ContentLoadException(
-        'Failed to load asset: $assetPath\n${e.message}',
+        'Failed to load asset: $assetPath\n$e',
       );
     }
   }

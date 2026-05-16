@@ -3,6 +3,7 @@ import 'package:flutter_animate/flutter_animate.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../../core/theme/design_tokens.dart';
+import '../domain/models/learner_progress.dart';
 import 'gamification_provider.dart';
 
 class XpStreakHeader extends ConsumerWidget {
@@ -65,7 +66,7 @@ class _XpChip extends StatelessWidget {
               ),
             ],
           ),
-        ).animate(key: ValueKey(xp)).shimmer(duration: Durations.medium),
+        ).animate(key: ValueKey(xp)).shimmer(duration: AppDurations.medium),
       );
 }
 

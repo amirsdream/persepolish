@@ -3,22 +3,30 @@
   "level": "a1",
   "order": 2,
   "title": "Verb być — Present Tense",
+  "title_fa": "فعل być — زمان حال",
   "explanation": "The verb 'być' (to be) is the most important verb in Polish. Here are all present-tense forms:\n• ja jestem — I am\n• ty jesteś — you are (singular, informal)\n• on/ona/ono jest — he/she/it is\n• my jesteśmy — we are\n• wy jesteście — you are (plural or formal singular)\n• oni/one są — they are\n\nPolish often drops subject pronouns because the verb ending already shows the person. 'Jestem studentem' (I am a student) is more natural than 'Ja jestem studentem'.",
+  "explanation_fa": "فعل 'być' (بودن) مهم‌ترین فعل در لهستانی است. صرف زمان حال:\n• ja jestem — من هستم\n• ty jesteś — تو هستی (مفرد، غیررسمی)\n• on/ona/ono jest — او هست (مذکر/مؤنث/خنثی)\n• my jesteśmy — ما هستیم\n• wy jesteście — شما هستید (جمع یا رسمی)\n• oni/one są — آن‌ها هستند\n\nدر لهستانی معمولاً ضمیر فاعلی حذف می‌شود چون پسوند فعل شخص را نشان می‌دهد. 'Jestem studentem' (من دانشجو هستم) طبیعی‌تر از 'Ja jestem studentem' است.",
   "examples": [
     {
       "polish": "Jestem studentem.",
       "english": "I am a student.",
-      "note": "1st person singular — pronoun 'ja' omitted"
+      "persian": "من دانشجو هستم.",
+      "note": "1st person singular — pronoun 'ja' omitted",
+      "note_fa": "شخص اول مفرد — ضمیر 'ja' حذف شده"
     },
     {
       "polish": "Ona jest nauczycielką.",
       "english": "She is a teacher.",
-      "note": "3rd person singular — pronoun 'ona' used for clarity"
+      "persian": "او (مؤنث) معلم است.",
+      "note": "3rd person singular — pronoun 'ona' used for clarity",
+      "note_fa": "شخص سوم مفرد — ضمیر 'ona' برای وضوح ذکر شده"
     },
     {
       "polish": "Jesteśmy z Polski.",
       "english": "We are from Poland.",
-      "note": "1st person plural"
+      "persian": "ما اهل لهستان هستیم.",
+      "note": "1st person plural",
+      "note_fa": "شخص اول جمع"
     }
   ],
   "exercises": [
@@ -26,22 +34,27 @@
       "type": "multiple_choice",
       "id": "a1-g002-ex01",
       "prompt": "Choose the correct form of 'być' for 'She ___ a doctor.'",
+      "prompt_fa": "شکل درست فعل 'być' را برای جمله «او یک دکتر است» انتخاب کنید:",
       "options": ["jest", "jestem", "jesteś", "są"],
       "correct_index": 0,
-      "explanation": "'Ona jest' — she is. The 3rd person singular form of 'być' is 'jest'."
+      "explanation": "'Ona jest' — she is. The 3rd person singular form of 'być' is 'jest'.",
+      "explanation_fa": "'Ona jest' یعنی «او هست». شکل سوم شخص مفرد فعل 'być' برابر است با 'jest'."
     },
     {
       "type": "fill_in_blank",
       "id": "a1-g002-ex02",
       "prompt": "Complete: 'We ___ from Warsaw.' (my = we)",
+      "prompt_fa": "کامل کنید: «ما ___ از ورشو.» (my = ما)",
       "sentence_template": "My ___ z Warszawy.",
       "accepted_answers": ["jesteśmy"],
-      "explanation": "'Jesteśmy' is the 1st person plural form of 'być'. It means 'we are'."
+      "explanation": "'Jesteśmy' is the 1st person plural form of 'być'. It means 'we are'.",
+      "explanation_fa": "'Jesteśmy' شکل اول شخص جمع فعل 'być' است و به معنای «ما هستیم» است."
     },
     {
       "type": "multiple_choice",
       "id": "a1-g002-ex03",
       "prompt": "Which sentence means 'I am tired'? (zmęczony/zmęczona = tired)",
+      "prompt_fa": "کدام جمله به معنای «من خسته‌ام» است؟ (zmęczony/zmęczona = خسته)",
       "options": [
         "Jestem zmęczony.",
         "Jest zmęczony.",
@@ -49,20 +62,24 @@
         "Są zmęczeni."
       ],
       "correct_index": 0,
-      "explanation": "'Jestem' = I am. 'Jest' = he/she/it is. 'Jesteś' = you are. 'Są' = they are."
+      "explanation": "'Jestem' = I am. 'Jest' = he/she/it is. 'Jesteś' = you are. 'Są' = they are.",
+      "explanation_fa": "'Jestem' = من هستم. 'Jest' = او هست. 'Jesteś' = تو هستی. 'Są' = آن‌ها هستند."
     },
     {
       "type": "sentence_order",
       "id": "a1-g002-ex04",
       "prompt": "Order the words to say 'They are students' (oni = they, studenci = students):",
+      "prompt_fa": "کلمات را مرتب کنید تا بگویید «آن‌ها دانشجو هستند» (oni = آن‌ها، studenci = دانشجویان):",
       "words": ["są", "studenci", "Oni"],
       "correct_order": [2, 0, 1],
-      "explanation": "Correct: 'Oni są studenci.' — subject (Oni) + verb (są) + predicate noun."
+      "explanation": "Correct: 'Oni są studenci.' — subject (Oni) + verb (są) + predicate noun.",
+      "explanation_fa": "ترتیب صحیح: 'Oni są studenci.' — فاعل (Oni) + فعل (są) + اسم خبری."
     },
     {
       "type": "multiple_choice",
       "id": "a1-g002-ex05",
       "prompt": "How do you say 'You (singular, informal) are Polish'? (Polak/Polka = a Polish person)",
+      "prompt_fa": "چطور می‌گویید «تو لهستانی هستی»؟ (Polak/Polka = یک لهستانی)",
       "options": [
         "Jesteś Polakiem.",
         "Jestem Polakiem.",
@@ -70,23 +87,28 @@
         "Jesteście Polakami."
       ],
       "correct_index": 0,
-      "explanation": "'Jesteś' is the 2nd person singular (informal 'ty' form) of być. It means 'you are'. Note: 'Polakiem' is the instrumental case used after 'być' for nationality."
+      "explanation": "'Jesteś' is the 2nd person singular (informal 'ty' form) of być. It means 'you are'. Note: 'Polakiem' is the instrumental case used after 'być' for nationality.",
+      "explanation_fa": "'Jesteś' شکل دوم شخص مفرد (شکل غیررسمی 'ty') فعل być است و به معنای «تو هستی» است. توجه: 'Polakiem' حالت ابزاری است که بعد از 'być' برای بیان ملیت استفاده می‌شود."
     },
     {
       "type": "fill_in_blank",
       "id": "a1-g002-ex06",
       "prompt": "Complete: 'Are you (formal) ready? — Yes, I ___.' (gotowy = ready)",
+      "prompt_fa": "کامل کنید: «آیا آماده‌اید؟ — بله، من ___.» (gotowy = آماده)",
       "sentence_template": "Tak, ___ gotowy.",
       "accepted_answers": ["jestem"],
-      "explanation": "'Jestem' is the 1st person singular (ja form) of być. It means 'I am'."
+      "explanation": "'Jestem' is the 1st person singular (ja form) of być. It means 'I am'.",
+      "explanation_fa": "'Jestem' شکل اول شخص مفرد (شکل 'ja') فعل być است و به معنای «من هستم» است."
     },
     {
       "type": "multiple_choice",
       "id": "a1-g002-ex07",
       "prompt": "Complete: 'Where ___ the keys?' (klucze = keys)",
+      "prompt_fa": "کامل کنید: «کلیدها کجا ___ ؟» (klucze = کلیدها)",
       "options": ["są", "jest", "jestem", "jesteś"],
       "correct_index": 0,
-      "explanation": "'Klucze' (keys) is a plural noun, so we use the 3rd person plural form 'są' (are)."
+      "explanation": "'Klucze' (keys) is a plural noun, so we use the 3rd person plural form 'są' (are).",
+      "explanation_fa": "'Klucze' (کلیدها) اسم جمع است، بنابراین از شکل سوم شخص جمع 'są' (هستند) استفاده می‌کنیم."
     }
   ]
 }

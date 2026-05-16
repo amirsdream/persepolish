@@ -3,22 +3,30 @@
   "level": "a1",
   "order": 1,
   "title": "Nominative Case — Nouns",
+  "title_fa": "حالت اسمی — اسم‌ها",
   "explanation": "The nominative case (mianownik) is the base form of a noun and is used for the subject of a sentence — the person or thing performing the action. In Polish, every noun has a grammatical gender: masculine (m), feminine (f), or neuter (n). The nominative singular endings are: masculine nouns often end in a consonant (e.g. kot — cat), feminine nouns usually end in -a (e.g. kobieta — woman), and neuter nouns typically end in -o or -e (e.g. okno — window, morze — sea). To say 'this is...' use: To jest + nominative noun.",
+  "explanation_fa": "حالت اسمی (mianownik) شکل پایه اسم است و برای فاعل جمله — کسی یا چیزی که عمل را انجام می‌دهد — استفاده می‌شود. در لهستانی هر اسمی دارای جنس دستوری است: مذکر (m)، مؤنث (f)، یا خنثی (n).\n\nپسوندهای مفرد حالت اسمی:\n• اسم‌های مذکر اغلب به حرف صامت ختم می‌شوند (مثلاً kot — گربه)\n• اسم‌های مؤنث معمولاً به ـa ختم می‌شوند (مثلاً kobieta — زن)\n• اسم‌های خنثی به ـo یا ـe ختم می‌شوند (مثلاً okno — پنجره، morze — دریا)\n\nبرای گفتن «این است...» از ساختار: To jest + اسم در حالت اسمی استفاده کنید.",
   "examples": [
     {
       "polish": "To jest kot.",
       "english": "This is a cat.",
-      "note": "masculine noun — ends in consonant"
+      "persian": "این یک گربه است.",
+      "note": "masculine noun — ends in consonant",
+      "note_fa": "اسم مذکر — به حرف صامت ختم می‌شود"
     },
     {
       "polish": "To jest kobieta.",
       "english": "This is a woman.",
-      "note": "feminine noun — ends in -a"
+      "persian": "این یک زن است.",
+      "note": "feminine noun — ends in -a",
+      "note_fa": "اسم مؤنث — به ـa ختم می‌شود"
     },
     {
       "polish": "To jest okno.",
       "english": "This is a window.",
-      "note": "neuter noun — ends in -o"
+      "persian": "این یک پنجره است.",
+      "note": "neuter noun — ends in -o",
+      "note_fa": "اسم خنثی — به ـo ختم می‌شود"
     }
   ],
   "exercises": [
@@ -26,6 +34,7 @@
       "type": "multiple_choice",
       "id": "a1-g001-ex01",
       "prompt": "Which sentence correctly uses the nominative case to say 'This is a dog'?",
+      "prompt_fa": "کدام جمله به درستی از حالت اسمی برای گفتن «این یک سگ است» استفاده می‌کند؟",
       "options": [
         "To jest pies.",
         "To jest psa.",
@@ -33,62 +42,86 @@
         "To jest psowi."
       ],
       "correct_index": 0,
-      "explanation": "'Pies' (dog) is a masculine noun. In the nominative case after 'to jest', we use the base form: pies."
+      "explanation": "'Pies' (dog) is a masculine noun. In the nominative case after 'to jest', we use the base form: pies.",
+      "explanation_fa": "'Pies' (سگ) اسم مذکر است. در حالت اسمی بعد از 'to jest'، شکل پایه را به کار می‌بریم: pies."
     },
     {
       "type": "fill_in_blank",
       "id": "a1-g001-ex02",
       "prompt": "Complete the sentence: 'This is a book.' (książka = book, feminine)",
+      "prompt_fa": "جمله را کامل کنید: «این یک کتاب است.» (książka = کتاب، مؤنث)",
       "sentence_template": "To jest ___.",
       "accepted_answers": ["książka"],
-      "explanation": "'Książka' is a feminine noun. Its nominative form ends in -a. We use it unchanged after 'to jest'."
+      "explanation": "'Książka' is a feminine noun. Its nominative form ends in -a. We use it unchanged after 'to jest'.",
+      "explanation_fa": "'Książka' اسم مؤنث است که به ـa ختم می‌شود. در حالت اسمی بعد از 'to jest' بدون تغییر می‌ماند."
     },
     {
       "type": "multiple_choice",
       "id": "a1-g001-ex03",
       "prompt": "What is the gender of the noun 'okno' (window)?",
+      "prompt_fa": "جنس دستوری اسم 'okno' (پنجره) چیست؟",
       "options": [
         "Neuter",
         "Masculine",
         "Feminine",
         "It has no gender"
       ],
+      "options_fa": [
+        "خنثی",
+        "مذکر",
+        "مؤنث",
+        "جنس ندارد"
+      ],
       "correct_index": 0,
-      "explanation": "'Okno' ends in -o, which is a characteristic neuter ending. Polish nouns ending in -o or -e are typically neuter."
+      "explanation": "'Okno' ends in -o, which is a characteristic neuter ending. Polish nouns ending in -o or -e are typically neuter.",
+      "explanation_fa": "'Okno' به ـo ختم می‌شود که نشانه اسم خنثی است. اسم‌های لهستانی با پسوند ـo یا ـe معمولاً خنثی هستند."
     },
     {
       "type": "sentence_order",
       "id": "a1-g001-ex04",
       "prompt": "Put the words in order to say 'This is a teacher' (nauczyciel = teacher, masculine):",
+      "prompt_fa": "کلمات را مرتب کنید تا بگویید «این یک معلم است» (nauczyciel = معلم، مذکر):",
       "words": ["nauczyciel", "To", "jest"],
       "correct_order": [1, 2, 0],
-      "explanation": "Correct word order: 'To jest nauczyciel.' — subject (To) + verb (jest) + nominative noun."
+      "explanation": "Correct word order: 'To jest nauczyciel.' — subject (To) + verb (jest) + nominative noun.",
+      "explanation_fa": "ترتیب صحیح: 'To jest nauczyciel.' — فاعل (To) + فعل (jest) + اسم در حالت اسمی."
     },
     {
       "type": "multiple_choice",
       "id": "a1-g001-ex05",
       "prompt": "Which noun is feminine?",
+      "prompt_fa": "کدام اسم مؤنث است؟",
       "options": [
         "herbata (tea)",
         "dom (house)",
         "auto (car)",
         "pies (dog)"
       ],
+      "options_fa": [
+        "herbata (چای)",
+        "dom (خانه)",
+        "auto (ماشین)",
+        "pies (سگ)"
+      ],
       "correct_index": 0,
-      "explanation": "'Herbata' ends in -a — the typical feminine ending. 'Dom' and 'pies' are masculine (consonant endings), 'auto' is neuter (-o ending)."
+      "explanation": "'Herbata' ends in -a — the typical feminine ending. 'Dom' and 'pies' are masculine (consonant endings), 'auto' is neuter (-o ending).",
+      "explanation_fa": "'Herbata' به ـa ختم می‌شود — پسوند معمول مؤنث. 'Dom' و 'pies' مذکر هستند (پسوند صامت)، 'auto' خنثی است (پسوند ـo)."
     },
     {
       "type": "fill_in_blank",
       "id": "a1-g001-ex06",
       "prompt": "Complete: 'This is a city.' (miasto = city, neuter)",
+      "prompt_fa": "کامل کنید: «این یک شهر است.» (miasto = شهر، خنثی)",
       "sentence_template": "To jest ___.",
       "accepted_answers": ["miasto"],
-      "explanation": "'Miasto' is a neuter noun ending in -o. In the nominative case after 'to jest', it stays in its base form."
+      "explanation": "'Miasto' is a neuter noun ending in -o. In the nominative case after 'to jest', it stays in its base form.",
+      "explanation_fa": "'Miasto' اسم خنثی است که به ـo ختم می‌شود. در حالت اسمی بعد از 'to jest' بدون تغییر می‌ماند."
     },
     {
       "type": "multiple_choice",
       "id": "a1-g001-ex07",
       "prompt": "How do you say 'This is a table' in Polish? (stół = table, masculine)",
+      "prompt_fa": "چطور در لهستانی می‌گویید «این یک میز است»؟ (stół = میز، مذکر)",
       "options": [
         "To jest stół.",
         "To jest stołu.",
@@ -96,7 +129,8 @@
         "Stół to jest."
       ],
       "correct_index": 0,
-      "explanation": "'Stół' is masculine. The nominative form is unchanged after 'to jest'. Word order in Polish declarative sentences is flexible but 'To jest + noun' is the standard 'this is' structure."
+      "explanation": "'Stół' is masculine. The nominative form is unchanged after 'to jest'. Word order in Polish declarative sentences is flexible but 'To jest + noun' is the standard 'this is' structure.",
+      "explanation_fa": "'Stół' مذکر است. شکل اسمی آن بعد از 'to jest' بدون تغییر می‌ماند. ساختار 'To jest + اسم' الگوی استاندارد «این است» در لهستانی است."
     }
   ]
 }

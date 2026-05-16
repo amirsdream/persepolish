@@ -20,7 +20,7 @@ abstract final class Radii {
   static const BorderRadius cardLg = BorderRadius.all(Radius.circular(lg));
 }
 
-abstract final class Durations {
+abstract final class AppDurations {
   static const Duration fastest = Duration(milliseconds: 150);
   static const Duration fast = Duration(milliseconds: 250);
   static const Duration medium = Duration(milliseconds: 400);

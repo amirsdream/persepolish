@@ -35,10 +35,10 @@ class StarBurstAnimation extends StatelessWidget {
                 .scale(
                   begin: const Offset(0.2, 0.2),
                   end: const Offset(1.0, 1.0),
-                  duration: Durations.medium,
+                  duration: AppDurations.medium,
                   curve: Curves.elasticOut,
                 )
-                .fadeIn(duration: Durations.fast),
+                .fadeIn(duration: AppDurations.fast),
           );
         }),
       ),

@@ -1,5 +1,7 @@
 import 'package:drift/drift.dart';
-import 'package:drift_flutter/drift_flutter.dart';
+
+// Conditional import: picks web or native executor automatically
+import 'connection_web.dart' if (dart.library.io) 'connection_native.dart';
 
 part 'app_database.g.dart';
 
@@ -79,6 +81,6 @@ class AppDatabase extends _$AppDatabase {
   int get schemaVersion => 1;
 
   static QueryExecutor _openConnection() {
-    return driftDatabase(name: 'lingualeap_db');
+    return openDatabaseConnection();
   }
 }

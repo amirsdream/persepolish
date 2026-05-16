@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
+import '../../../core/l10n/app_localizations.dart';
 import '../../../core/theme/design_tokens.dart';
 import '../domain/models/level.dart';
 import 'levels_provider.dart';
@@ -40,6 +41,7 @@ class _CurriculumView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
+    final lang = Localizations.localeOf(context).languageCode;
 
     return Scaffold(
       backgroundColor: AppColors.background,
@@ -47,7 +49,7 @@ class _CurriculumView extends StatelessWidget {
         backgroundColor: AppColors.background,
         elevation: 0,
         leading: BackButton(color: AppColors.onSurface),
-        title: Text(level.name, style: theme.textTheme.titleLarge),
+        title: Text(level.localizedName(lang), style: theme.textTheme.titleLarge),
         bottom: PreferredSize(
           preferredSize: const Size.fromHeight(6),
           child: LinearProgressIndicator(
@@ -61,7 +63,9 @@ class _CurriculumView extends StatelessWidget {
         padding: const EdgeInsets.all(Spacing.md),
         children: [
           if (level.grammarUnits.isNotEmpty) ...[
-            _SectionHeader(title: 'Grammar', icon: Icons.auto_stories),
+            _SectionHeader(
+                title: AppLocalizations.of(context)!.curriculumGrammar,
+                icon: Icons.auto_stories),
             const SizedBox(height: Spacing.sm),
             ...level.grammarUnits.map((unit) => _UnitTile(
                   unit: unit,
@@ -76,7 +80,9 @@ class _CurriculumView extends StatelessWidget {
             const SizedBox(height: Spacing.lg),
           ],
           if (level.vocabularySets.isNotEmpty) ...[
-            _SectionHeader(title: 'Vocabulary', icon: Icons.translate),
+            _SectionHeader(
+                title: AppLocalizations.of(context)!.curriculumVocabulary,
+                icon: Icons.translate),
             const SizedBox(height: Spacing.sm),
             ...level.vocabularySets.map((unit) => _UnitTile(
                   unit: unit,
@@ -84,14 +90,16 @@ class _CurriculumView extends StatelessWidget {
                     'vocabulary-set',
                     pathParameters: {
                       'levelId': level.id,
-                      'unitId': unit.id,
+                      'setId': unit.id,
                     },
                   ),
                 )),
             const SizedBox(height: Spacing.lg),
           ],
           if (level.examSets.isNotEmpty) ...[
-            _SectionHeader(title: 'Exam Prep', icon: Icons.quiz),
+            _SectionHeader(
+                title: AppLocalizations.of(context)!.curriculumExamPrep,
+                icon: Icons.quiz),
             const SizedBox(height: Spacing.sm),
             ...level.examSets.map((unit) => _UnitTile(
                   unit: unit,
@@ -135,8 +143,10 @@ class _UnitTile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
+    final lang = Localizations.localeOf(context).languageCode;
+    final title = unit.localizedTitle(lang);
     return Semantics(
-      label: '${unit.title}. ${unit.stars} stars. ${unit.status}',
+      label: '$title. ${unit.stars} stars. ${unit.status}',
       button: true,
       child: Card(
         margin: const EdgeInsets.only(bottom: Spacing.sm),
@@ -147,7 +157,7 @@ class _UnitTile extends StatelessWidget {
             vertical: Spacing.xs,
           ),
           leading: _StatusIcon(status: unit.status),
-          title: Text(unit.title, style: theme.textTheme.titleMedium),
+          title: Text(title, style: theme.textTheme.titleMedium),
           trailing: _StarsMini(stars: unit.stars),
         ),
       ),

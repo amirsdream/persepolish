@@ -3,29 +3,33 @@
     {
       "id": "a1",
       "name": "A1 — Beginner",
+      "name_fa": "A1 — مبتدی",
       "description": "Everyday greetings, basic nouns, present tense.",
+      "description_fa": "احوال‌پرسی روزمره، اسم‌های پایه، زمان حال.",
       "status": "available",
       "unlock_threshold": 0,
       "color_hex": "#4CAF50",
       "grammar_units": [
-        { "id": "a1-grammar-001", "title": "Nominative Case — Nouns", "order": 1 },
-        { "id": "a1-grammar-002", "title": "Verb być — Present Tense", "order": 2 },
-        { "id": "a1-grammar-003", "title": "Personal Pronouns", "order": 3 }
+        { "id": "a1-grammar-001", "title": "Nominative Case — Nouns", "title_fa": "حالت اسمی — اسامی", "order": 1 },
+        { "id": "a1-grammar-002", "title": "Verb być — Present Tense", "title_fa": "فعل być — زمان حال", "order": 2 },
+        { "id": "a1-grammar-003", "title": "Personal Pronouns", "title_fa": "ضمایر شخصی", "order": 3 }
       ],
       "vocabulary_sets": [
-        { "id": "a1-vocab-001", "title": "Greetings & Introductions", "order": 1 },
-        { "id": "a1-vocab-002", "title": "Numbers 1–20", "order": 2 },
-        { "id": "a1-vocab-003", "title": "Colors & Basic Adjectives", "order": 3 }
+        { "id": "a1-vocab-001", "title": "Greetings & Introductions", "title_fa": "سلام و آشنایی", "order": 1 },
+        { "id": "a1-vocab-002", "title": "Numbers 1–20", "title_fa": "اعداد ۱ تا ۲۰", "order": 2 },
+        { "id": "a1-vocab-003", "title": "Colors & Basic Adjectives", "title_fa": "رنگ‌ها و صفات پایه", "order": 3 }
       ],
       "exam_sets": [
-        { "id": "a1-exam-001", "title": "Grammar Practice Set 1", "section_type": "grammar", "order": 1 },
-        { "id": "a1-exam-002", "title": "Reading Practice Set 1", "section_type": "reading", "order": 2 }
+        { "id": "a1-exam-001", "title": "Grammar Practice Set 1", "title_fa": "مجموعه تمرین گرامر ۱", "section_type": "grammar", "order": 1 },
+        { "id": "a1-exam-002", "title": "Reading Practice Set 1", "title_fa": "مجموعه تمرین خواندن ۱", "section_type": "reading", "order": 2 }
       ]
     },
     {
       "id": "a2",
       "name": "A2 — Elementary",
+      "name_fa": "A2 — ابتدایی",
       "description": "Past tense, common phrases, simple conversations.",
+      "description_fa": "زمان گذشته، عبارات رایج، مکالمات ساده.",
       "status": "available",
       "unlock_threshold": 70,
       "color_hex": "#2196F3",
@@ -36,7 +40,9 @@
     {
       "id": "b1",
       "name": "B1 — Intermediate",
+      "name_fa": "B1 — متوسط",
       "description": "Complex grammar, formal writing, exam preparation.",
+      "description_fa": "گرامر پیچیده، نوشتار رسمی، آمادگی آزمون.",
       "status": "coming_soon",
       "unlock_threshold": 70,
       "color_hex": "#FF9800",
@@ -47,7 +53,9 @@
     {
       "id": "b2",
       "name": "B2 — Upper Intermediate",
+      "name_fa": "B2 — بالاتر از متوسط",
       "description": "Advanced grammar, nuanced expression, full exam readiness.",
+      "description_fa": "گرامر پیشرفته، بیان ظریف، آمادگی کامل برای آزمون.",
       "status": "coming_soon",
       "unlock_threshold": 70,
       "color_hex": "#9C27B0",

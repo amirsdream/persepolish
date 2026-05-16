@@ -25,7 +25,7 @@ class _MilestoneCelebrationScreenState
   void initState() {
     super.initState();
     // Auto-dismiss after 4 seconds
-    Future.delayed(Durations.milestone, () {
+    Future.delayed(AppDurations.milestone, () {
       if (mounted) context.pop();
     });
   }
@@ -44,7 +44,7 @@ class _MilestoneCelebrationScreenState
                   .animate()
                   .scale(
                     begin: const Offset(0.0, 0.0),
-                    duration: Durations.slow,
+                    duration: AppDurations.slow,
                     curve: Curves.elasticOut,
                   ),
               const SizedBox(height: Spacing.lg),
@@ -54,7 +54,7 @@ class _MilestoneCelebrationScreenState
                       color: AppColors.starGold,
                     ),
                 textAlign: TextAlign.center,
-              ).animate().fadeIn(delay: Durations.fast, duration: Durations.medium),
+              ).animate().fadeIn(delay: AppDurations.fast, duration: AppDurations.medium),
               const SizedBox(height: Spacing.md),
               Text(
                 _subtitle,
@@ -62,14 +62,14 @@ class _MilestoneCelebrationScreenState
                       color: AppColors.onSurfaceVariant,
                     ),
                 textAlign: TextAlign.center,
-              ).animate().fadeIn(delay: Durations.medium, duration: Durations.medium),
+              ).animate().fadeIn(delay: AppDurations.medium, duration: AppDurations.medium),
               const SizedBox(height: Spacing.xxl),
               const Text(
                 'Tap anywhere to continue',
                 style: TextStyle(color: AppColors.onSurfaceVariant, fontSize: 13),
               ).animate(
                 onPlay: (c) => c.repeat(reverse: true),
-              ).fadeIn(duration: Durations.slow),
+              ).fadeIn(duration: AppDurations.slow),
             ],
           ),
         ),

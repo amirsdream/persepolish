@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
+import '../../../core/l10n/app_localizations.dart';
 import '../../../core/theme/design_tokens.dart';
 import '../../../features/gamification/presentation/xp_streak_header.dart';
 import '../domain/models/level.dart';
@@ -34,14 +35,14 @@ class LevelsScreen extends ConsumerWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        'LinguaLeap',
+                        AppLocalizations.of(context)!.appName,
                         style: theme.textTheme.displayLarge?.copyWith(
                           color: AppColors.primary,
                         ),
                       ),
                       const SizedBox(height: Spacing.xs),
                       Text(
-                        'Learn Polish — A1 to B2',
+                        AppLocalizations.of(context)!.learnSubtitle,
                         style: theme.textTheme.bodyMedium,
                       ),
                     ],

@@ -1,6 +1,6 @@
-import '../../../core/utils/content_loader.dart';
-import '../data/progress_repository.dart';
-import '../domain/models/level.dart';
+import '../../../../core/utils/content_loader.dart';
+import '../../data/progress_repository.dart';
+import '../models/level.dart';
 
 final class GetLevelsUseCase {
   const GetLevelsUseCase(this._progressRepo);
@@ -63,6 +63,7 @@ final class GetLevelsUseCase {
         return UnitSummary(
           id: id,
           title: m['title'] as String,
+          titleFa: m['title_fa'] as String?,
           unitType: type,
           order: m['order'] as int,
           status: statuses[id] ?? 'not_started',
@@ -74,7 +75,9 @@ final class GetLevelsUseCase {
     return Level(
       id: map['id'] as String,
       name: map['name'] as String,
+      nameFa: map['name_fa'] as String?,
       description: map['description'] as String,
+      descriptionFa: map['description_fa'] as String?,
       status: LevelStatus.available,
       unlockThreshold: map['unlock_threshold'] as int,
       colorHex: map['color_hex'] as String,
@@ -92,7 +95,9 @@ final class GetLevelsUseCase {
   Level _buildComingSoon(Map<String, dynamic> map) => Level(
         id: map['id'] as String,
         name: map['name'] as String,
+        nameFa: map['name_fa'] as String?,
         description: map['description'] as String,
+        descriptionFa: map['description_fa'] as String?,
         status: LevelStatus.comingSoon,
         unlockThreshold: map['unlock_threshold'] as int,
         colorHex: map['color_hex'] as String,

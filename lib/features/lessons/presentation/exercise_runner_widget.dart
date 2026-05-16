@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
+import '../../../core/l10n/app_localizations.dart';
+import '../../../core/providers/locale_provider.dart';
 import '../../../core/theme/design_tokens.dart';
 import '../domain/models/exercise.dart';
 import '../domain/use_cases/submit_answer_use_case.dart';
@@ -47,6 +49,8 @@ class _ExerciseRunnerWidgetState extends ConsumerState<ExerciseRunnerWidget> {
   @override
   Widget build(BuildContext context) {
     final session = ref.watch(exerciseSessionProvider);
+    final teachingLang = ref.watch(teachingLanguageProvider);
+    final isFa = teachingLang == 'fa';
 
     if (session.isComplete) {
       // Notify parent on first render after completion
@@ -57,6 +61,7 @@ class _ExerciseRunnerWidgetState extends ConsumerState<ExerciseRunnerWidget> {
     }
 
     final exercise = widget.exercises[session.currentIndex];
+    final prompt = exercise.localizedPrompt(teachingLang);
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
@@ -70,24 +75,27 @@ class _ExerciseRunnerWidgetState extends ConsumerState<ExerciseRunnerWidget> {
 
         // Prompt
         Semantics(
-          label: 'Question: ${exercise.prompt}',
+          label: 'Question: $prompt',
           child: Text(
-            exercise.prompt,
+            prompt,
             style: Theme.of(context).textTheme.titleLarge,
+            textDirection: isFa ? TextDirection.rtl : TextDirection.ltr,
           ),
         ),
         const SizedBox(height: Spacing.lg),
 
         // Exercise input
         AnimatedSwitcher(
-          duration: Durations.fast,
+          duration: AppDurations.fast,
           child: switch (exercise) {
             MultipleChoiceExercise mc => _MultipleChoiceInput(
                 key: ValueKey(exercise.id),
                 exercise: mc,
+                teachingLang: teachingLang,
                 selectedIndex: _selectedOption,
                 answered: _answered,
-                onSelect: _answered ? null : (i) => setState(() => _selectedOption = i),
+                onSelect:
+                    _answered ? null : (i) => setState(() => _selectedOption = i),
               ),
             FillInBlankExercise fill => _FillInBlankInput(
                 key: ValueKey(exercise.id),
@@ -108,9 +116,13 @@ class _ExerciseRunnerWidgetState extends ConsumerState<ExerciseRunnerWidget> {
 
         // Feedback
         if (_answered && _lastResult != null)
-          _FeedbackBanner(result: _lastResult!).animate().slideY(
+          _FeedbackBanner(
+            result: _lastResult!,
+            exercise: exercise,
+            teachingLang: teachingLang,
+          ).animate().slideY(
                 begin: 0.3,
-                duration: Durations.fast,
+                duration: AppDurations.fast,
                 curve: Curves.easeOut,
               ),
 
@@ -169,18 +181,23 @@ class _ExerciseRunnerWidgetState extends ConsumerState<ExerciseRunnerWidget> {
 // ── Sub-widgets ───────────────────────────────────────────────────────────────
 
 class _ProgressIndicator extends StatelessWidget {
-  const _ProgressIndicator({required this.current, required this.total});
+  const _ProgressIndicator({
+    required this.current,
+    required this.total,
+  });
   final int current;
   final int total;
 
   @override
-  Widget build(BuildContext context) => Column(
+  Widget build(BuildContext context) {
+    final label = AppLocalizations.of(context)!.exerciseQuestion(current, total);
+    return Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Semantics(
-            label: 'Question $current of $total',
+            label: label,
             child: Text(
-              'Question $current of $total',
+              label,
               style: Theme.of(context).textTheme.bodyMedium,
             ),
           ),
@@ -194,25 +211,30 @@ class _ProgressIndicator extends StatelessWidget {
           ),
         ],
       );
+  }
 }
 
 class _MultipleChoiceInput extends StatelessWidget {
   const _MultipleChoiceInput({
     super.key,
     required this.exercise,
+    required this.teachingLang,
     required this.selectedIndex,
     required this.answered,
     required this.onSelect,
   });
 
   final MultipleChoiceExercise exercise;
+  final String teachingLang;
   final int? selectedIndex;
   final bool answered;
   final ValueChanged<int>? onSelect;
 
   @override
-  Widget build(BuildContext context) => Column(
-        children: List.generate(exercise.options.length, (i) {
+  Widget build(BuildContext context) {
+    final options = exercise.localizedOptions(teachingLang);
+    return Column(
+        children: List.generate(options.length, (i) {
           final isSelected = selectedIndex == i;
           final isCorrect = answered && i == exercise.correctIndex;
           final isWrong = answered && isSelected && !isCorrect;
@@ -224,10 +246,10 @@ class _MultipleChoiceInput extends StatelessWidget {
           return Padding(
             padding: const EdgeInsets.only(bottom: Spacing.sm),
             child: Semantics(
-              label: 'Option ${i + 1}: ${exercise.options[i]}${isSelected ? ", selected" : ""}',
+              label: 'Option ${i + 1}: ${options[i]}${isSelected ? ", selected" : ""}',
               button: true,
               child: AnimatedContainer(
-                duration: Durations.fast,
+                duration: AppDurations.fast,
                 decoration: BoxDecoration(
                   color: isCorrect
                       ? AppColors.correctGreenLight.withOpacity(0.1)
@@ -242,7 +264,7 @@ class _MultipleChoiceInput extends StatelessWidget {
                 child: ListTile(
                   onTap: onSelect != null ? () => onSelect!(i) : null,
                   title: Text(
-                    exercise.options[i],
+                    options[i],
                     style: Theme.of(context).textTheme.bodyLarge,
                   ),
                   trailing: answered
@@ -255,10 +277,11 @@ class _MultipleChoiceInput extends StatelessWidget {
               ),
             ).animate(
               target: isCorrect || isWrong ? 1 : 0,
-            ).shake(duration: isWrong ? Durations.fast : Duration.zero),
+            ).shake(duration: isWrong ? AppDurations.fast : Duration.zero),
           );
         }),
       );
+  }
 }
 
 class _FillInBlankInput extends StatelessWidget {
@@ -289,7 +312,7 @@ class _FillInBlankInput extends StatelessWidget {
             enabled: enabled,
             autofocus: true,
             decoration: InputDecoration(
-              hintText: 'Type your answer in Polish...',
+              hintText: AppLocalizations.of(context)!.exerciseTypeAnswerHint,
               hintStyle: const TextStyle(color: AppColors.onSurfaceVariant),
               filled: true,
               fillColor: AppColors.surfaceVariant,
@@ -339,7 +362,7 @@ class _SentenceOrderInputState extends State<_SentenceOrderInput> {
         children: [
           // Selected area
           Container(
-            min: const BoxConstraints(minHeight: 56),
+            constraints: const BoxConstraints(minHeight: 56),
             padding: const EdgeInsets.all(Spacing.sm),
             decoration: BoxDecoration(
               color: AppColors.surfaceVariant,
@@ -420,11 +443,23 @@ class _WordChip extends StatelessWidget {
 }
 
 class _FeedbackBanner extends StatelessWidget {
-  const _FeedbackBanner({required this.result});
+  const _FeedbackBanner({
+    required this.result,
+    required this.exercise,
+    required this.teachingLang,
+  });
   final AnswerResult result;
+  final Exercise exercise;
+  final String teachingLang;
 
   @override
   Widget build(BuildContext context) {
+    final l10n = AppLocalizations.of(context)!;
+    final explanation = exercise.localizedExplanation(teachingLang);
+    final correctLabel = l10n.exerciseCorrect;
+    final wrongLabel = l10n.exerciseIncorrect;
+    final isFa = teachingLang == 'fa';
+
     final bg = result.isCorrect
         ? AppColors.correctGreen.withOpacity(0.12)
         : AppColors.incorrectRed.withOpacity(0.12);
@@ -434,7 +469,9 @@ class _FeedbackBanner extends StatelessWidget {
 
     return Semantics(
       liveRegion: true,
-      label: result.isCorrect ? 'Correct! ${result.explanation}' : 'Incorrect. Correct answer: ${result.correctDisplay}. ${result.explanation}',
+      label: result.isCorrect
+          ? '$correctLabel $explanation'
+          : '$wrongLabel ${result.correctDisplay}. $explanation',
       child: Container(
         padding: const EdgeInsets.all(Spacing.md),
         decoration: BoxDecoration(
@@ -449,10 +486,12 @@ class _FeedbackBanner extends StatelessWidget {
               children: [
                 Icon(icon, color: border, size: 20),
                 const SizedBox(width: Spacing.xs),
-                Text(
-                  result.isCorrect ? 'Correct!' : 'Not quite — correct answer:',
-                  style: TextStyle(
-                      color: border, fontWeight: FontWeight.w700, fontSize: 15),
+                Expanded(
+                  child: Text(
+                    result.isCorrect ? correctLabel : wrongLabel,
+                    style: TextStyle(
+                        color: border, fontWeight: FontWeight.w700, fontSize: 15),
+                  ),
                 ),
               ],
             ),
@@ -466,8 +505,9 @@ class _FeedbackBanner extends StatelessWidget {
             ],
             const SizedBox(height: Spacing.xs),
             Text(
-              result.explanation,
+              explanation,
               style: Theme.of(context).textTheme.bodyMedium,
+              textDirection: isFa ? TextDirection.rtl : TextDirection.ltr,
             ),
           ],
         ),
@@ -489,12 +529,13 @@ class _ActionButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final l10n = AppLocalizations.of(context)!;
     if (!answered) {
       return Semantics(
         label: 'Check answer',
         child: ElevatedButton(
           onPressed: onSubmit,
-          child: const Text('Check Answer'),
+          child: Text(l10n.exerciseCheckAnswer),
         ),
       );
     }
@@ -505,7 +546,7 @@ class _ActionButton extends StatelessWidget {
         style: ElevatedButton.styleFrom(
           backgroundColor: AppColors.secondary,
         ),
-        child: const Text('Continue'),
+        child: Text(l10n.exerciseContinue),
       ),
     );
   }

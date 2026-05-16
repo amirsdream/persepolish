@@ -3,11 +3,23 @@ sealed class Exercise {
     required this.id,
     required this.prompt,
     required this.explanation,
+    this.promptFa,
+    this.explanationFa,
   });
 
   final String id;
   final String prompt;
   final String explanation;
+  final String? promptFa;
+  final String? explanationFa;
+
+  /// Returns the prompt in the given teaching language, falling back to English.
+  String localizedPrompt(String lang) =>
+      lang == 'fa' && promptFa != null ? promptFa! : prompt;
+
+  /// Returns the explanation in the given teaching language, falling back to English.
+  String localizedExplanation(String lang) =>
+      lang == 'fa' && explanationFa != null ? explanationFa! : explanation;
 
   static Exercise fromJson(Map<String, dynamic> json) {
     return switch (json['type'] as String) {
@@ -26,10 +38,20 @@ final class MultipleChoiceExercise extends Exercise {
     required super.explanation,
     required this.options,
     required this.correctIndex,
+    super.promptFa,
+    super.explanationFa,
+    this.optionsFa,
   });
 
   final List<String> options;
   final int correctIndex;
+  final List<String>? optionsFa; // Persian translations of option labels (when options are in English)
+
+  /// Returns options in the given teaching language, falling back to English.
+  List<String> localizedOptions(String lang) =>
+      lang == 'fa' && optionsFa != null && optionsFa!.length == options.length
+          ? optionsFa!
+          : options;
 
   factory MultipleChoiceExercise.fromJson(Map<String, dynamic> json) =>
       MultipleChoiceExercise(
@@ -38,6 +60,9 @@ final class MultipleChoiceExercise extends Exercise {
         explanation: json['explanation'] as String,
         options: (json['options'] as List<dynamic>).cast<String>(),
         correctIndex: json['correct_index'] as int,
+        promptFa: json['prompt_fa'] as String?,
+        explanationFa: json['explanation_fa'] as String?,
+        optionsFa: (json['options_fa'] as List<dynamic>?)?.cast<String>(),
       );
 
   bool isCorrect(int selectedIndex) => selectedIndex == correctIndex;
@@ -50,6 +75,8 @@ final class FillInBlankExercise extends Exercise {
     required super.explanation,
     required this.sentenceTemplate,
     required this.acceptedAnswers,
+    super.promptFa,
+    super.explanationFa,
   });
 
   final String sentenceTemplate;
@@ -63,6 +90,8 @@ final class FillInBlankExercise extends Exercise {
         sentenceTemplate: json['sentence_template'] as String,
         acceptedAnswers:
             (json['accepted_answers'] as List<dynamic>).cast<String>(),
+        promptFa: json['prompt_fa'] as String?,
+        explanationFa: json['explanation_fa'] as String?,
       );
 
   bool isCorrect(String answer) => acceptedAnswers
@@ -76,6 +105,8 @@ final class SentenceOrderExercise extends Exercise {
     required super.explanation,
     required this.words,
     required this.correctOrder,
+    super.promptFa,
+    super.explanationFa,
   });
 
   final List<String> words;
@@ -87,8 +118,9 @@ final class SentenceOrderExercise extends Exercise {
         prompt: json['prompt'] as String,
         explanation: json['explanation'] as String,
         words: (json['words'] as List<dynamic>).cast<String>(),
-        correctOrder:
-            (json['correct_order'] as List<dynamic>).cast<int>(),
+        correctOrder: (json['correct_order'] as List<dynamic>).cast<int>(),
+        promptFa: json['prompt_fa'] as String?,
+        explanationFa: json['explanation_fa'] as String?,
       );
 
   bool isCorrect(List<int> selectedOrder) {

@@ -1,8 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 
+import '../../../core/l10n/app_localizations.dart';
 import '../../../core/theme/design_tokens.dart';
 import '../domain/models/level.dart';
+
+// Helper: get current UI language code from context
+String _uiLang(BuildContext context) =>
+    Localizations.localeOf(context).languageCode;
 
 class LevelCardWidget extends StatelessWidget {
   const LevelCardWidget({
@@ -18,13 +23,14 @@ class LevelCardWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
 
+    final lang = _uiLang(context);
     return Semantics(
-      label: '${level.name}. ${level.isComingSoon ? "Coming soon" : level.isUnlocked ? "${level.progressPercent.toInt()}% complete" : "Locked. Complete previous level to unlock."}',
+      label: '${level.localizedName(lang)}. ${level.isComingSoon ? "Coming soon" : level.isUnlocked ? "${level.progressPercent.toInt()}% complete" : "Locked. Complete previous level to unlock."}',
       button: true,
       child: GestureDetector(
         onTap: onTap,
         child: AnimatedContainer(
-          duration: Durations.fast,
+          duration: AppDurations.fast,
           decoration: BoxDecoration(
             borderRadius: Radii.cardLg,
             color: AppColors.surface,
@@ -46,14 +52,14 @@ class LevelCardWidget extends StatelessWidget {
                     _LevelBadge(color: level.color),
                     const SizedBox(height: Spacing.sm),
                     Text(
-                      level.name,
+                      level.localizedName(lang),
                       style: theme.textTheme.titleLarge,
                       maxLines: 1,
                       overflow: TextOverflow.ellipsis,
                     ),
                     const SizedBox(height: Spacing.xs),
                     Text(
-                      level.description,
+                      level.localizedDescription(lang),
                       style: theme.textTheme.bodyMedium,
                       maxLines: 2,
                       overflow: TextOverflow.ellipsis,
@@ -78,7 +84,7 @@ class LevelCardWidget extends StatelessWidget {
                 _ComingSoonOverlay(),
             ],
           ),
-        ).animate().fadeIn(duration: Durations.medium),
+        ).animate().fadeIn(duration: AppDurations.medium),
       ),
     );
   }
@@ -141,15 +147,15 @@ class _LockOverlay extends StatelessWidget {
             borderRadius: Radii.cardLg,
             color: Colors.black.withOpacity(0.55),
           ),
-          child: const Column(
+          child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Icon(Icons.lock, color: AppColors.onSurfaceVariant, size: 32),
-              SizedBox(height: Spacing.xs),
+              const Icon(Icons.lock, color: AppColors.onSurfaceVariant, size: 32),
+              const SizedBox(height: Spacing.xs),
               Text(
-                'Complete previous\nlevel to unlock',
+                AppLocalizations.of(context)!.levelLockMessage,
                 textAlign: TextAlign.center,
-                style: TextStyle(
+                style: const TextStyle(
                   color: AppColors.onSurfaceVariant,
                   fontSize: 13,
                   fontWeight: FontWeight.w600,
@@ -179,9 +185,9 @@ class _ComingSoonOverlay extends StatelessWidget {
                 color: AppColors.secondary.withOpacity(0.9),
                 borderRadius: Radii.cardLg,
               ),
-              child: const Text(
-                'Coming Soon',
-                style: TextStyle(
+              child: Text(
+                AppLocalizations.of(context)!.levelComingSoon,
+                style: const TextStyle(
                   color: Colors.white,
                   fontSize: 14,
                   fontWeight: FontWeight.w700,

@@ -44,7 +44,7 @@ final class GamificationRepository {
           final d = DateTime.tryParse(r.lastAttemptAt ?? '');
           return d != null && d.isAfter(cutoff);
         })
-        .fold(0, (sum, r) => sum + r.xpEarned);
+        .fold<int>(0, (sum, r) => sum + r.xpEarned);
   }
 
   Future<void> addXp(int amount) async {

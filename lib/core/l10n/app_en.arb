@@ -128,5 +128,41 @@
   "@errorLevelLocked": { "description": "Error when navigating to a locked level" },
 
   "audioUnavailable": "Audio unavailable",
-  "@audioUnavailable": { "description": "Label when audio asset is missing" }
+  "@audioUnavailable": { "description": "Label when audio asset is missing" },
+
+  "settingsLanguage": "Interface Language",
+  "@settingsLanguage": { "description": "Language setting section heading" },
+
+  "settingsLearnerMode": "Learner Mode",
+  "@settingsLearnerMode": { "description": "Learner mode switcher heading" },
+
+  "settingsEnglishLearner": "English Learner",
+  "@settingsEnglishLearner": { "description": "English learner mode option" },
+
+  "settingsPersianLearner": "Persian Learner",
+  "@settingsPersianLearner": { "description": "Persian learner mode option" },
+
+  "learnSubtitle": "Learn Polish — A1 to B2",
+  "@learnSubtitle": { "description": "Subtitle on main learn screen" },
+
+  "lessonExplanation": "Explanation",
+  "@lessonExplanation": { "description": "Section heading in lesson explanation view" },
+
+  "lessonExamples": "Examples",
+  "@lessonExamples": { "description": "Section heading in lesson examples view" },
+
+  "exerciseCheckAnswer": "Check Answer",
+  "@exerciseCheckAnswer": { "description": "Button to submit an exercise answer" },
+
+  "exerciseTypeAnswerHint": "Type your answer in Polish...",
+  "@exerciseTypeAnswerHint": { "description": "Hint text in fill-in-blank exercise field" },
+
+  "levelLockMessage": "Complete previous\nlevel to unlock",
+  "@levelLockMessage": { "description": "Lock overlay message on level card" },
+
+  "wordBankTitle": "Word Bank",
+  "@wordBankTitle": { "description": "Title for the word bank screen" },
+
+  "completionAccuracyLabel": "Accuracy",
+  "@completionAccuracyLabel": { "description": "Sublabel on accuracy stat chip in completion screen" }
 }

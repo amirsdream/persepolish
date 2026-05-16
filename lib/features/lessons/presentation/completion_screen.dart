@@ -3,6 +3,7 @@ import 'package:flutter_animate/flutter_animate.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
+import '../../../core/l10n/app_localizations.dart';
 import '../../../core/theme/design_tokens.dart';
 import '../../gamification/data/gamification_repository.dart';
 import '../../gamification/domain/use_cases/award_xp_use_case.dart';
@@ -60,7 +61,7 @@ class _CompletionScreenState extends ConsumerState<CompletionScreen> {
     ref.invalidate(learnerProgressProvider);
 
     if (mounted && result.milestoneReached != null) {
-      await Future.delayed(Durations.starBurst);
+      await Future.delayed(AppDurations.starBurst);
       if (mounted) {
         context.pushNamed(
           'milestone',
@@ -94,10 +95,10 @@ class _CompletionScreenState extends ConsumerState<CompletionScreen> {
 
               // Title
               Text(
-                'Lesson Complete!',
+                AppLocalizations.of(context)!.completionTitle,
                 textAlign: TextAlign.center,
                 style: theme.textTheme.displayLarge,
-              ).animate().fadeIn(duration: Durations.medium),
+              ).animate().fadeIn(duration: AppDurations.medium),
 
               const SizedBox(height: Spacing.xl),
 
@@ -113,18 +114,18 @@ class _CompletionScreenState extends ConsumerState<CompletionScreen> {
                   _StatChip(
                     icon: Icons.percent,
                     label: '${widget.accuracy.toInt()}%',
-                    sublabel: 'Accuracy',
+                    sublabel: AppLocalizations.of(context)!.completionAccuracyLabel,
                     color: AppColors.success,
                   ),
                   const SizedBox(width: Spacing.md),
                   _StatChip(
                     icon: Icons.bolt,
-                    label: '+${widget.xpEarned}',
-                    sublabel: 'XP',
+                    label: AppLocalizations.of(context)!.completionXpEarned(widget.xpEarned),
+                    sublabel: '',
                     color: AppColors.xpColor,
                   ),
                 ],
-              ).animate().fadeIn(delay: Durations.starBurst, duration: Durations.medium),
+              ).animate().fadeIn(delay: AppDurations.starBurst, duration: AppDurations.medium),
 
               const Spacer(),
 
@@ -139,7 +140,7 @@ class _CompletionScreenState extends ConsumerState<CompletionScreen> {
                       'unitId': widget.unitId,
                     },
                   ),
-                  child: const Text('Try Again'),
+                  child: Text(AppLocalizations.of(context)!.completionRetry),
                 ),
               ),
               const SizedBox(height: Spacing.sm),
@@ -152,7 +153,7 @@ class _CompletionScreenState extends ConsumerState<CompletionScreen> {
                     'level-curriculum',
                     pathParameters: {'levelId': widget.levelId},
                   ),
-                  child: const Text('Back to Curriculum'),
+                  child: Text(AppLocalizations.of(context)!.completionBackToCurriculum),
                 ),
               ),
               const SizedBox(height: Spacing.md),

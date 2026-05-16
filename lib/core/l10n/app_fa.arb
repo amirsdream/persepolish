@@ -1,0 +1,168 @@
+{
+  "@@locale": "fa",
+
+  "appName": "LinguaLeap",
+  "@appName": { "description": "Application name" },
+
+  "tabLearn": "یادگیری",
+  "@tabLearn": { "description": "Bottom nav tab: learning levels" },
+
+  "tabWords": "لغات",
+  "@tabWords": { "description": "Bottom nav tab: word bank" },
+
+  "tabProfile": "پروفایل",
+  "@tabProfile": { "description": "Bottom nav tab: profile" },
+
+  "levelLocked": "قفل شده",
+  "@levelLocked": { "description": "Badge on locked level cards" },
+
+  "levelComingSoon": "به زودی",
+  "@levelComingSoon": { "description": "Badge on coming-soon level cards" },
+
+  "levelProgress": "{percent}٪ تکمیل شده",
+  "@levelProgress": {
+    "description": "Progress label on level card",
+    "placeholders": { "percent": { "type": "int" } }
+  },
+
+  "curriculumGrammar": "دستور زبان",
+  "@curriculumGrammar": { "description": "Section heading in curriculum" },
+
+  "curriculumVocabulary": "واژگان",
+  "@curriculumVocabulary": { "description": "Section heading in curriculum" },
+
+  "curriculumExamPrep": "آمادگی آزمون",
+  "@curriculumExamPrep": { "description": "Section heading in curriculum" },
+
+  "lessonStartExercises": "شروع تمرین‌ها",
+  "@lessonStartExercises": { "description": "Button on lesson explanation screen" },
+
+  "exerciseQuestion": "سؤال {current} از {total}",
+  "@exerciseQuestion": {
+    "description": "Exercise progress indicator",
+    "placeholders": {
+      "current": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+
+  "exerciseCorrect": "آفرین! درست بود!",
+  "@exerciseCorrect": { "description": "Feedback on correct answer" },
+
+  "exerciseIncorrect": "نزدیک بود — سعی کن این را به خاطر بسپاری.",
+  "@exerciseIncorrect": { "description": "Feedback on incorrect answer" },
+
+  "exerciseContinue": "ادامه",
+  "@exerciseContinue": { "description": "Button to advance to next exercise" },
+
+  "completionTitle": "درس تکمیل شد!",
+  "@completionTitle": { "description": "Heading on completion screen" },
+
+  "completionAccuracy": "دقت: {percent}٪",
+  "@completionAccuracy": {
+    "description": "Accuracy stat on completion screen",
+    "placeholders": { "percent": { "type": "int" } }
+  },
+
+  "completionXpEarned": "+{xp} XP",
+  "@completionXpEarned": {
+    "description": "XP earned label",
+    "placeholders": { "xp": { "type": "int" } }
+  },
+
+  "completionRetry": "دوباره امتحان کن",
+  "@completionRetry": { "description": "Retry button on completion screen" },
+
+  "completionBackToCurriculum": "بازگشت به برنامه درسی",
+  "@completionBackToCurriculum": { "description": "Back button on completion screen" },
+
+  "streakDays": "{days} روز متوالی",
+  "@streakDays": {
+    "description": "Streak counter label",
+    "placeholders": { "days": { "type": "int" } }
+  },
+
+  "streakBroken": "امروز یک رشته جدید شروع کن!",
+  "@streakBroken": { "description": "Friendly message when streak is broken" },
+
+  "xpTotal": "{xp} XP",
+  "@xpTotal": {
+    "description": "Total XP display",
+    "placeholders": { "xp": { "type": "int" } }
+  },
+
+  "examReadiness": "آمادگی آزمون: {percent}٪",
+  "@examReadiness": {
+    "description": "Readiness percentage label",
+    "placeholders": { "percent": { "type": "int" } }
+  },
+
+  "examTimerLabel": "{minutes}:{seconds}",
+  "@examTimerLabel": {
+    "description": "Countdown timer display",
+    "placeholders": {
+      "minutes": { "type": "String" },
+      "seconds": { "type": "String" }
+    }
+  },
+
+  "examSubmit": "ثبت پاسخ‌ها",
+  "@examSubmit": { "description": "Submit button in exam session" },
+
+  "wordBankEmpty": "هنوز هیچ لغتی یاد نگرفتی. مجموعه‌های واژگان را کامل کن تا بانک لغتت پر شود!",
+  "@wordBankEmpty": { "description": "Empty state in word bank screen" },
+
+  "wordBankSearch": "جستجوی لغات...",
+  "@wordBankSearch": { "description": "Search field placeholder in word bank" },
+
+  "milestoneWeeklyXp": "قهرمان هفته!",
+  "@milestoneWeeklyXp": { "description": "Weekly XP milestone title" },
+
+  "milestoneStreak": "رشته {days} روزه!",
+  "@milestoneStreak": {
+    "description": "Streak milestone title",
+    "placeholders": { "days": { "type": "int" } }
+  },
+
+  "errorLevelLocked": "برای باز کردن این سطح، بخش بیشتری از سطح قبلی را تکمیل کن.",
+  "@errorLevelLocked": { "description": "Error when navigating to a locked level" },
+
+  "audioUnavailable": "صدا در دسترس نیست",
+  "@audioUnavailable": { "description": "Label when audio asset is missing" },
+
+  "settingsLanguage": "زبان رابط کاربری",
+  "@settingsLanguage": { "description": "Language setting section heading" },
+
+  "settingsLearnerMode": "حالت زبان‌آموز",
+  "@settingsLearnerMode": { "description": "Learner mode switcher heading" },
+
+  "settingsEnglishLearner": "زبان‌آموز انگلیسی",
+  "@settingsEnglishLearner": { "description": "English learner mode option" },
+
+  "settingsPersianLearner": "زبان‌آموز فارسی",
+  "@settingsPersianLearner": { "description": "Persian learner mode option" },
+
+  "learnSubtitle": "یادگیری لهستانی — از A1 تا B2",
+  "@learnSubtitle": { "description": "Subtitle on main learn screen" },
+
+  "lessonExplanation": "توضیحات",
+  "@lessonExplanation": { "description": "Section heading in lesson explanation view" },
+
+  "lessonExamples": "مثال‌ها",
+  "@lessonExamples": { "description": "Section heading in lesson examples view" },
+
+  "exerciseCheckAnswer": "بررسی پاسخ",
+  "@exerciseCheckAnswer": { "description": "Button to submit an exercise answer" },
+
+  "exerciseTypeAnswerHint": "پاسخ خود را به لهستانی تایپ کنید...",
+  "@exerciseTypeAnswerHint": { "description": "Hint text in fill-in-blank exercise field" },
+
+  "levelLockMessage": "سطح قبلی را\nتکمیل کن تا باز شود",
+  "@levelLockMessage": { "description": "Lock overlay message on level card" },
+
+  "wordBankTitle": "بانک لغات",
+  "@wordBankTitle": { "description": "Title for the word bank screen" },
+
+  "completionAccuracyLabel": "دقت",
+  "@completionAccuracyLabel": { "description": "Sublabel on accuracy stat chip in completion screen" }
+}
