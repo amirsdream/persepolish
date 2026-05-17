@@ -39,7 +39,8 @@ class LevelsScreen extends ConsumerWidget {
                   Spacing.md, Spacing.lg, Spacing.md, Spacing.sm),
               child: Text(
                 l10n.learnPath,
-                textAlign: isRtl ? TextAlign.right : TextAlign.left,
+                // TextAlign.start = right in RTL, left in LTR — no manual flip needed
+                textAlign: TextAlign.start,
                 style: Theme.of(context).textTheme.labelLarge?.copyWith(
                       color: AppColors.onSurfaceVariant,
                       letterSpacing: 0.8,
@@ -120,83 +121,85 @@ class _BrandingHeaderDelegate extends SliverPersistentHeaderDelegate {
     final t = (shrinkOffset / (_expandedHeight - _collapsedHeight)).clamp(0.0, 1.0);
     final theme = Theme.of(context);
 
-    return Container(
-      color: AppColors.background,
-      child: SafeArea(
-        bottom: false,
-        child: Padding(
-          padding: const EdgeInsets.symmetric(
-              horizontal: Spacing.md, vertical: Spacing.sm),
-          child: Row(
-            textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
-            crossAxisAlignment: CrossAxisAlignment.center,
-            children: [
-              // App icon badge
-              AnimatedContainer(
-                duration: AppDurations.fast,
-                width: lerpDouble(48, 36, t)!,
-                height: lerpDouble(48, 36, t)!,
-                decoration: BoxDecoration(
-                  borderRadius: BorderRadius.circular(12),
-                  boxShadow: [
-                    BoxShadow(
-                      color: AppColors.primary.withOpacity(0.3),
-                      blurRadius: 8,
-                      offset: const Offset(0, 3),
-                    ),
-                  ],
-                ),
-                child: ClipRRect(
-                  borderRadius: BorderRadius.circular(12),
-                  child: Image.asset(
-                    'assets/icon/icon_flat.png',
-                    fit: BoxFit.cover,
-                    errorBuilder: (_, __, ___) => _FallbackIconBadge(size: lerpDouble(48, 36, t)!),
-                  ),
-                ),
-              ),
-
-              const SizedBox(width: Spacing.md),
-
-              // Text block
-              Expanded(
-                child: Column(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  crossAxisAlignment: isRtl
-                      ? CrossAxisAlignment.end
-                      : CrossAxisAlignment.start,
-                  children: [
-                    Text(
-                      l10n.appName,
-                      textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
-                      style: theme.textTheme.titleLarge?.copyWith(
-                        color: AppColors.primary,
-                        fontWeight: FontWeight.w900,
-                        fontSize: lerpDouble(26, 20, t),
-                        letterSpacing: -0.5,
-                        height: 1.1,
-                      ),
-                    ),
-                    if (t < 0.7) ...[
-                      const SizedBox(height: 2),
-                      Opacity(
-                        opacity: (1 - t / 0.7).clamp(0.0, 1.0),
-                        child: Text(
-                          l10n.learnSubtitle,
-                          textDirection:
-                              isRtl ? TextDirection.rtl : TextDirection.ltr,
-                          style: theme.textTheme.bodySmall?.copyWith(
-                            color: AppColors.onSurfaceVariant,
-                            letterSpacing: 0.2,
-                          ),
-                          overflow: TextOverflow.ellipsis,
-                        ),
+    // Wrap in explicit Directionality so Column/Text widgets inherit it
+    // and CrossAxisAlignment.start correctly means "right" in RTL.
+    return Directionality(
+      textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
+      child: Container(
+        color: AppColors.background,
+        child: SafeArea(
+          bottom: false,
+          child: Padding(
+            padding: const EdgeInsets.symmetric(
+                horizontal: Spacing.md, vertical: Spacing.sm),
+            child: Row(
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: [
+                // App icon badge
+                AnimatedContainer(
+                  duration: AppDurations.fast,
+                  width: lerpDouble(48, 36, t)!,
+                  height: lerpDouble(48, 36, t)!,
+                  decoration: BoxDecoration(
+                    borderRadius: BorderRadius.circular(12),
+                    boxShadow: [
+                      BoxShadow(
+                        color: AppColors.primary.withOpacity(0.3),
+                        blurRadius: 8,
+                        offset: const Offset(0, 3),
                       ),
                     ],
-                  ],
+                  ),
+                  child: ClipRRect(
+                    borderRadius: BorderRadius.circular(12),
+                    child: Image.asset(
+                      'assets/icon/icon_flat.png',
+                      fit: BoxFit.cover,
+                      errorBuilder: (_, __, ___) =>
+                          _FallbackIconBadge(size: lerpDouble(48, 36, t)!),
+                    ),
+                  ),
                 ),
-              ),
-            ],
+
+                const SizedBox(width: Spacing.md),
+
+                // Text block — CrossAxisAlignment.start = right in RTL, left in LTR
+                Expanded(
+                  child: Column(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        l10n.appName,
+                        textAlign: TextAlign.start,
+                        style: theme.textTheme.titleLarge?.copyWith(
+                          color: AppColors.primary,
+                          fontWeight: FontWeight.w900,
+                          fontSize: lerpDouble(26, 20, t),
+                          letterSpacing: -0.5,
+                          height: 1.1,
+                        ),
+                      ),
+                      if (t < 0.7) ...[
+                        const SizedBox(height: 2),
+                        Opacity(
+                          opacity: (1 - t / 0.7).clamp(0.0, 1.0),
+                          child: Text(
+                            l10n.learnSubtitle,
+                            textAlign: TextAlign.start,
+                            style: theme.textTheme.bodySmall?.copyWith(
+                              color: AppColors.onSurfaceVariant,
+                              letterSpacing: 0.2,
+                            ),
+                            overflow: TextOverflow.ellipsis,
+                          ),
+                        ),
+                      ],
+                    ],
+                  ),
+                ),
+              ],
+            ),
           ),
         ),
       ),
