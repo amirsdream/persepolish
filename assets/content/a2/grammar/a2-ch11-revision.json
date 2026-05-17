@@ -1,0 +1,130 @@
+{
+  "id": "a2-ch11-revision",
+  "level": "a2",
+  "chapter": 11,
+  "title": "Chapter 11 Revision: Past Tense",
+  "description": "Mixed questions covering masculine, feminine, neuter and plural past tense forms, irregular verbs, and past tense vocabulary.",
+  "passThreshold": 0.70,
+  "questions": [
+    {
+      "id": "a2-ch11-rev-q01",
+      "type": "multiple_choice",
+      "order": 1,
+      "sourceLesson": "a2-ch11-l01",
+      "prompt": "Wczoraj ___ gazetę. (I (m) read a newspaper yesterday.) [czytać, ja m past]",
+      "options": ["czytałem", "czytałam", "czytał", "czytałeś"],
+      "correctIndex": 0,
+      "explanation": "'Czytać' past masculine ja: czytałem (-łem ending). 'Wczoraj' signals past tense."
+    },
+    {
+      "id": "a2-ch11-rev-q02",
+      "type": "multiple_choice",
+      "order": 2,
+      "sourceLesson": "a2-ch11-l02",
+      "prompt": "Moja mama ___ w szpitalu przez trzydzieści lat. (My mum worked in a hospital for thirty years.) [pracować, ona past]",
+      "options": ["pracowała", "pracował", "pracowałam", "pracowałeś"],
+      "correctIndex": 0,
+      "explanation": "'Pracować' past feminine ona: pracowała (-owała ending)."
+    },
+    {
+      "id": "a2-ch11-rev-q03",
+      "type": "multiple_choice",
+      "order": 3,
+      "sourceLesson": "a2-ch11-l03",
+      "prompt": "Dzieci ___ w ogrodzie. (The children played in the garden.) [bawić się, one past]",
+      "options": ["bawiły się", "bawili się", "bawiło się", "bawiłam się"],
+      "correctIndex": 0,
+      "explanation": "'Dzieci' (children, non-virile plural) → bawiły się (-ły ending). If any male child, 'bawili się'."
+    },
+    {
+      "id": "a2-ch11-rev-q04",
+      "type": "multiple_choice",
+      "order": 4,
+      "sourceLesson": "a2-ch11-l04",
+      "prompt": "On ___ do domu o północy. (He walked home at midnight.) [iść, on past]",
+      "options": ["szedł", "idł", "szła", "szli"],
+      "correctIndex": 0,
+      "explanation": "'Iść' past masculine on: szedł (irregular — not 'idł'!). Feminine: szła. Plural: szli/szły."
+    },
+    {
+      "id": "a2-ch11-rev-q05",
+      "type": "multiple_choice",
+      "order": 5,
+      "sourceLesson": "a2-ch11-l01",
+      "prompt": "What is the past tense masculine ending for 'ty'?",
+      "options": ["-łeś", "-łem", "-ł", "-łaś"],
+      "correctIndex": 0,
+      "explanation": "Masculine past: ja → -łem, ty → -łeś, on → -ł. 'Robiłeś' = you (m) did."
+    },
+    {
+      "id": "a2-ch11-rev-q06",
+      "type": "multiple_choice",
+      "order": 6,
+      "sourceLesson": "a2-ch11-l02",
+      "prompt": "___ w Polsce dwa lata. (You (f) lived in Poland for two years.) [mieszkać, ty f past]",
+      "options": ["Mieszkałaś", "Mieszkałeś", "Mieszkałam", "Mieszkała"],
+      "correctIndex": 0,
+      "explanation": "'Mieszkać' past feminine ty: mieszkałaś (-łaś ending). Compare masculine ty: mieszkałeś."
+    },
+    {
+      "id": "a2-ch11-rev-q07",
+      "type": "vocab_translation",
+      "order": 7,
+      "sourceVocab": "a2-ch11-vocab",
+      "prompt": "What does 'ostatnio' mean?",
+      "options": ["recently / lately", "yesterday", "a long time ago", "the next day"],
+      "correctIndex": 0,
+      "explanation": "'Ostatnio' = recently / lately. 'Ostatnio dużo pracowałam' = Lately I've been working a lot."
+    },
+    {
+      "id": "a2-ch11-rev-q08",
+      "type": "multiple_choice",
+      "order": 8,
+      "sourceLesson": "a2-ch11-l03",
+      "prompt": "My (two men) ___ razem na kolację. (We went out for dinner together.) [wychodzić, my m-pers]",
+      "options": ["wychodziliśmy", "wychodziliście", "wychodzilimy", "wychodziliśmy"],
+      "correctIndex": 0,
+      "explanation": "'My' virile (men): wychodziliśmy (-liśmy ending). Group with at least one man → virile form."
+    },
+    {
+      "id": "a2-ch11-rev-q09",
+      "type": "vocab_translation",
+      "order": 9,
+      "sourceVocab": "a2-ch11-vocab",
+      "prompt": "What does 'dawno temu' mean?",
+      "options": ["a long time ago", "the day before yesterday", "recently", "then / afterwards"],
+      "correctIndex": 0,
+      "explanation": "'Dawno temu' = a long time ago. 'To było dawno temu' = That was a long time ago."
+    },
+    {
+      "id": "a2-ch11-rev-q10",
+      "type": "multiple_choice",
+      "order": 10,
+      "sourceLesson": "a2-ch11-l04",
+      "prompt": "Ona nie ___ zasnąć. (She couldn't fall asleep.) [móc, ona past]",
+      "options": ["mogła", "mógł", "mogli", "mogłem"],
+      "correctIndex": 0,
+      "explanation": "'Móc' past feminine ona: mogła. Masculine on: mógł (ó→o alternation). 'Nie mogła zasnąć.'"
+    },
+    {
+      "id": "a2-ch11-rev-q11",
+      "type": "multiple_choice",
+      "order": 11,
+      "sourceLesson": "a2-ch11-l03",
+      "prompt": "Dziecko ___ cały dzień. (The child slept all day.) [spać, ono past]",
+      "options": ["spało", "spała", "spał", "spali"],
+      "correctIndex": 0,
+      "explanation": "'Dziecko' is neuter → past neuter: spało (-ło ending). 'Cały dzień' = accusative (all day)."
+    },
+    {
+      "id": "a2-ch11-rev-q12",
+      "type": "vocab_translation",
+      "order": 12,
+      "sourceVocab": "a2-ch11-vocab",
+      "prompt": "What does 'pamiętać' mean?",
+      "options": ["to remember", "to forget", "to happen", "to tell"],
+      "correctIndex": 0,
+      "explanation": "'Pamiętać' = to remember. 'Czy pamiętasz?' = Do you remember? Contrast: zapomnieć = to forget."
+    }
+  ]
+}

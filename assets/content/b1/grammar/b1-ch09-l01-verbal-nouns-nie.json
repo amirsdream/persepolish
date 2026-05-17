@@ -1,0 +1,71 @@
+{
+  "id": "b1-ch09-l01",
+  "level": "b1",
+  "chapter": 9,
+  "lessonOrder": 1,
+  "title": "Verbal Nouns — -nie Forms",
+  "grammarPoint": "Forming verbal nouns with -nie suffix from imperfective verbs (czytanie, pisanie, mówienie, uczenie się) — gerunds used as nouns",
+  "explanation": {
+    "text": "Polish can convert verbs into nouns using the suffix **-nie** (or **-cie**). These are called **rzeczowniki odczasownikowe** (verbal nouns / gerunds).\n\n## What Are Verbal Nouns?\n\nVerbal nouns express an activity as a concept:\n- *czytać* (to read) → *czytanie* (reading)\n- *pisać* (to write) → *pisanie* (writing)\n- *mówić* (to speak) → *mówienie* (speaking)\n- *uczyć się* (to learn) → *uczenie się* (learning)\n\nThey are **neuter nouns** and decline like neuter adjectives.\n\n## Formation of -nie Verbal Nouns\n\nMost come from **imperfective** verbs:\n\n| Infinitive | Stem | Verbal Noun | English |\n|-----------|------|-------------|--------|\n| czytać | czyta- | czyt**anie** | reading |\n| pisać | pisa- | pis**anie** | writing |\n| mówić | mówi- | mówi**enie** | speaking |\n| uczyć | ucze- | ucz**enie** | teaching |\n| słuchać | słucha- | słuch**anie** | listening |\n| oglądać | ogląda- | ogląd**anie** | watching |\n| gotować | gotuje- | gotow**anie** | cooking |\n| śpiewać | śpiewa- | śpiew**anie** | singing |\n| tańczyć | tańczy- | tańcz**enie** | dancing |\n| pracować | pracuje- | pracow**anie** | working |\n| podróżować | podróżuje- | podróżow**anie** | travelling |\n| mieszkać | mieszka- | mieszk**anie** | living/flat |\n\n## Formation Rule\n\nTake the **3rd person singular present** form → replace **-e/-ie/-y** ending:\n- czyta → czyt**anie**\n- mówi → mówi**enie** (soft consonant + enie)\n- piszę (pisać) → pis**anie**\n\n**Practical shortcut**: Take infinitive stem + -anie / -enie / -ienie:\n- -ać verbs → mostly **-anie**: czyt*anie*, słuch*anie*\n- -ić/-yć verbs → mostly **-enie**: mówi*enie*, ucz*enie*\n\n## Verbal Nouns as Neuter Nouns\n\nThey are **always neuter** and always end in **-nie** or **-cie**:\n\n| Case | Form | Example |\n|------|------|--------|\n| Nominative | czytanie | Czytanie jest ważne. |\n| Genitive | czytania | Nie lubię czytania. |\n| Dative | czytaniu | Poświęcam czas czytaniu. |\n| Accusative | czytanie | Lubię czytanie. |\n| Instrumental | czytaniem | Zajmuję się czytaniem. |\n| Locative | czytaniu | Myślę o czytaniu. |\n\n## Uses in Sentences\n\n**As subject**:\n- *Czytanie* jest zdrowe dla umysłu. (Reading is healthy for the mind.)\n- *Gotowanie* zajmuje dużo czasu. (Cooking takes a lot of time.)\n\n**As object**:\n- Lubię *śpiewanie*. (I like singing.)\n- Nie lubię *czekania*. (I don't like waiting.)\n\n**After prepositions**:\n- Jestem dobry w *gotowaniu*. (I am good at cooking.)\n- Myślę o *podróżowaniu*. (I'm thinking about travelling.)\n- Uczę się przez *słuchanie*. (I learn through listening.)\n\n**Note on mieszkanie**: *Mieszkanie* (from mieszkać) also means 'flat/apartment' — context determines meaning.",
+    "notes": [
+      "Verbal nouns (-nie/-cie) are ALWAYS neuter. They decline like neuter nouns: czytanie → czytania (gen), czytaniem (instr), o czytaniu (loc).",
+      "-ać verbs typically form -anie: czytać→czytanie, pisać→pisanie, słuchać→słuchanie, gotować→gotowanie.",
+      "-ić/-yć verbs typically form -enie: mówić→mówienie, uczyć→uczenie, tańczyć→tańczenie.",
+      "After negation, verbal noun takes genitive: 'nie lubię czytania' (gen), not 'nie lubię czytanie'.",
+      "Reflexive się stays: uczyć się → uczenie się (learning). The się follows the verbal noun."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch09-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Which is the correct verbal noun from 'czytać' (to read)?",
+      "options": ["czytanie", "czytać", "czytanie się", "czytany"],
+      "correctIndex": 0,
+      "explanation": "'Czytać' → verbal noun = 'czytanie'. Remove -ać, add -anie: czyt + anie = czytanie. All verbal nouns from -ać verbs end in -anie. 'Czytanie jest moją pasją.' = Reading is my passion. 'Czytany' = PPP (past passive participle), not a verbal noun."
+    },
+    {
+      "id": "b1-ch09-l01-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "Nie lubię ___. (I don't like waiting.) [czekać → verbal noun, after negation]",
+      "options": ["czekania", "czekanie", "czekać", "czekaniu"],
+      "correctIndex": 0,
+      "explanation": "'Czekać' → verbal noun = 'czekanie'. After negation ('nie lubię'), the verbal noun takes GENITIVE: czekanie → czekania. 'Nie lubię czekania.' = I don't like waiting. 'Lubię czekanie' (positive, accusative) but 'nie lubię czekania' (negative, genitive)."
+    },
+    {
+      "id": "b1-ch09-l01-ex03",
+      "type": "fill_blank",
+      "order": 3,
+      "prompt": "Jestem dobry w ___. (I am good at cooking.) [gotować → verbal noun, w + locative]",
+      "answer": "gotowaniu",
+      "acceptableAnswers": ["gotowaniu"],
+      "explanation": "'Gotować' → verbal noun = 'gotowanie' (gotow + anie). After 'w' (in + locative), gotowanie → gotowaniu. 'Jestem dobry w gotowaniu.' = I am good at cooking. 'W + locative': gotowanie → gotowaniu (locative neuter sg). Same as neuter adjective: 'duże' → 'dużym' (loc)."
+    },
+    {
+      "id": "b1-ch09-l01-ex04",
+      "type": "dictation_mc",
+      "order": 4,
+      "audioAsset": "assets/audio/b1/ch09/b1-ch09-l01-ex04.mp3",
+      "options": ["Mówienie po polsku wymaga dużo ćwiczeń.", "Mówienie po polsku wymaga dużo ćwiczenia.", "Mówieniu po polsku wymaga dużo ćwiczeń.", "Mówić po polsku wymaga dużo ćwiczeń."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Mówienie po polsku wymaga dużo ćwiczeń.' — Speaking Polish requires a lot of practice. 'Mówić' → 'mówienie' (verbal noun, subject in nominative). 'Wymagać' + genitive: 'wymaga czegoś'. 'Ćwiczeń' = genitive plural of 'ćwiczenia' (exercises/practice). 'Mówienie' is the subject (nom neuter)."
+    },
+    {
+      "id": "b1-ch09-l01-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: Learning languages is my hobby. [uczyć się → uczenie się, hobby]",
+      "wordBank": ["Uczenie", "Uczenia", "się", "języków", "język", "jest", "moim", "moją", "hobby", "pasją", "."],
+      "correctSequences": [
+        ["Uczenie", "się", "języków", "jest", "moim", "hobby", "."]
+      ],
+      "explanation": "'Uczenie się języków jest moim hobby.' — Learning languages is my hobby. 'Uczyć się' → 'uczenie się' (verbal noun with się kept). 'Języków' = genitive plural of 'języki' (languages) — after 'uczenie się' (learn languages = uczyć się języków). 'Moim hobby' = instrumental after 'jest' (jest + instrumental for definitions/descriptions). Neuter noun: moim (not moją)."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 13,
+  "tags": ["verbal-nouns", "gerunds", "b1-core", "-nie", "noun-derivation"],
+  "prerequisites": ["b1-ch08-l04"]
+}

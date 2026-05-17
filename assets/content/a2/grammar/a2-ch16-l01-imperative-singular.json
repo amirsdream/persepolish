@@ -1,0 +1,70 @@
+{
+  "id": "a2-ch16-l01",
+  "level": "a2",
+  "chapter": 16,
+  "lessonOrder": 1,
+  "title": "Imperative — Singular",
+  "grammarPoint": "Imperative singular (ty): formation rules — Group 1: stem + -aj; Group 2: stem; Group 3: drop -uje → stem; irregular: idź, bądź, jedz",
+  "explanation": {
+    "text": "The **imperative** (tryb rozkazujący) is used for commands, requests, and instructions.\n\n**Forming the imperative (ty — singular informal):**\n\n**Step 1:** Take the 3rd person plural present (oni/one form)\n**Step 2:** Remove -ją or -ą ending to get the stem\n**Step 3:** Apply the rule:\n\n**Group 1 verbs** (-ają in 3rd pl):\n- czytać → czytaj**ą** → **czytaj!** (read!)\n- pracować → pracuj**ą** → **pracuj!** (work!)\n- słuchać → słuchaj**ą** → **słuchaj!** (listen!)\n\n**Group 2 verbs** (-ią/-ą in 3rd pl, consonant stem):\n- mówić → mówi**ą** → mów**!** (speak!)\n- robić → robi**ą** → rób**!** (do!)\n- pisać → piszą → pisz**!** (write!)\n\n**-ować verbs** (Group 3):\n- pracować → pracują → **pracuj!**\n- kupować → kupują → **kupuj!**\n\n**Key irregular imperatives:**\n\n| Infinitive | Imperative |\n|-----------|------------|\n| być | **bądź!** |\n| iść | **idź!** |\n| jechać | **jedź!** |\n| jeść | **jedz!** |\n| pić | **pij!** |\n\n**Negation:** Nie + imperative (same form)\n- **Nie mów** tak głośno! = Don't speak so loudly!\n- **Nie jedź** tak szybko! = Don't drive so fast!",
+    "notes": [
+      "Most common rule: take 3rd person plural, remove ending, follow consonant/vowel rules.",
+      "After consonant cluster: add -ij: pisz! bierz! ucz!",
+      "Być → bądź (completely irregular). Iść → idź (also irregular).",
+      "Polite imperative: proszę + infinitive (see Ch16-l03)."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch16-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "___ uważnie! (Listen carefully!) [słuchać, imperative ty]",
+      "options": ["Słuchaj", "Słuchasz", "Słuchałeś", "Słuchaj się"],
+      "correctIndex": 0,
+      "explanation": "'Słuchać' Group 1: słuchają → słuchaj! 'Słuchaj uważnie!' = Listen carefully! No reflexive 'się' needed here."
+    },
+    {
+      "id": "a2-ch16-l01-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Nie ___ tak szybko! (Don't drive so fast!) [jechać — imperative, negation]",
+      "answer": "jedź",
+      "acceptableAnswers": ["jedź"],
+      "hint": "Irregular imperative of jechać: jedź! Negation: Nie jedź!"
+    },
+    {
+      "id": "a2-ch16-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a2/ch16/a2-ch16-l01-ex03.mp3",
+      "options": ["Pisz maila do szefa!", "Pisze maila do szefa.", "Pisałeś maila do szefa.", "Napisz maila do szefa!"],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Pisz maila do szefa!' — Write an email to the boss! 'Pisać' → pisz! (imperfective imperative — ongoing action). 'Napisz!' would be perfective (write and finish it)."
+    },
+    {
+      "id": "a2-ch16-l01-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: Don't eat so fast! (negated imperative — jeść)",
+      "wordBank": ["Nie", "jedz", "jedziesz", "tak", "szybko", "szybki", "!"],
+      "correctSequences": [
+        ["Nie", "jedz", "tak", "szybko"]
+      ],
+      "explanation": "'Nie jedz tak szybko!' — Don't eat so fast! Imperative of 'jeść': jedz! (irregular). Negation: Nie jedz. 'Tak szybko' = so fast."
+    },
+    {
+      "id": "a2-ch16-l01-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "___ spokojny! (Be calm! / Stay calm!) [być — imperative ty]",
+      "options": ["Bądź", "Jesteś", "Byłeś", "Będziesz"],
+      "correctIndex": 0,
+      "explanation": "Irregular imperative of 'być': bądź! 'Bądź spokojny!' = Be calm! (m) / 'Bądź spokojna!' (f). Common in reassuring contexts."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["imperative", "commands", "a2-core"],
+  "prerequisites": ["a1-ch05-l01", "a1-ch05-l02"]
+}

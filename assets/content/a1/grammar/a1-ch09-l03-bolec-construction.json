@@ -1,0 +1,70 @@
+{
+  "id": "a1-ch09-l03",
+  "level": "a1",
+  "chapter": 9,
+  "lessonOrder": 3,
+  "title": "The boleć Construction — Body Pain",
+  "grammarPoint": "Boli mnie + body part (dative of person + nominative of pain); boli vs. bolą",
+  "explanation": {
+    "text": "To express pain or aches in Polish, use the special **boleć** (to hurt/ache) construction:\n\n**Structure:** [body part] boli/bolą [person in accusative]\n\nOr equivalently: boli/bolą **mnie/cię/go/ją** [body part]\n\n**Personal pronouns in accusative (after boli):**\n\n| Person | Accusative |\n|--------|----------|\n| mnie/ja | **mnie** (or: boli mnie) |\n| ty | **cię** (or: boli cię) |\n| on/ona | **go / ją** |\n| nas | **nas** |\n| was | **was** |\n| ich/je | **ich / je** |\n\n**boli vs. bolą:**\n- **Boli** mnie głowa. = My head **aches**. (singular body part)\n- **Bolą** mnie nogi. = My legs **ache**. (plural body part)\n\n**Common body parts:**\n- głowa (head), żołądek (stomach), gardło (throat), ząb (tooth), noga (leg), ręka (hand/arm), plecy (back, plural), ucho (ear)\n\n**Examples:**\n- Boli mnie głowa. = I have a headache.\n- Boli ją żołądek. = She has a stomach ache.\n- Bolą mnie nogi. = My legs hurt.\n- Boli cię gardło? = Does your throat hurt?",
+    "notes": [
+      "This is a special impersonal construction — the body part is the grammatical subject.",
+      "boli (singular) vs. bolą (plural) depending on how many body parts: głowa boli, nogi bolą.",
+      "The person experiencing the pain is in accusative: mnie (me), cię (you), go (him), ją (her).",
+      "Common A1 health: Jestem przeziębiony/a (I have a cold), Mam gorączkę (I have a fever), Czuję się źle (I feel bad)."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a1-ch09-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "My head hurts. Which is correct in Polish?",
+      "options": ["Boli mnie głowa.", "Bola mnie głowa.", "Boli mi głowa.", "Bolę głowę."],
+      "correctIndex": 0,
+      "explanation": "'Boli mnie głowa.' = My head hurts. 'Boli' (singular) for single body part. 'Mnie' = accusative of 'ja' (me)."
+    },
+    {
+      "id": "a1-ch09-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Bolą ___ nogi. (My legs hurt.) [person in accusative]",
+      "answer": "mnie",
+      "acceptableAnswers": ["mnie", "go", "ją", "cię", "nas", "was"],
+      "hint": "Person experiencing pain = accusative: mnie (me), cię (you), go (him), ją (her)"
+    },
+    {
+      "id": "a1-ch09-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a1/ch09/a1-ch09-l03-ex03.mp3",
+      "options": ["Boli mnie gardło i głowa.", "Bola mnie gardło i głowa.", "Bolą mnie gardło i głowa.", "Boli mnie gardło i głowy."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Boli mnie gardło i głowa.' — My throat and head hurt. Two singular body parts listed together — 'boli' used for the first item; both are singular."
+    },
+    {
+      "id": "a1-ch09-l03-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: His stomach hurts.",
+      "wordBank": ["Boli", "Bolą", "go", "mu", "jego", "żołądek", "żołądka", "żołądkiem"],
+      "correctSequences": [
+        ["Boli", "go", "żołądek"]
+      ],
+      "explanation": "'Boli go żołądek.' = His stomach hurts. 'Go' = accusative of 'on' (him). 'Żołądek' = singular, so 'boli'."
+    },
+    {
+      "id": "a1-ch09-l03-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "Does your throat hurt? (asking 'ty') Which is correct?",
+      "options": ["Boli cię gardło?", "Boli ci gardło?", "Bola cię gardło?", "Bolisz gardło?"],
+      "correctIndex": 0,
+      "explanation": "'Boli cię gardło?' = Does your throat hurt? 'Cię' = accusative of 'ty'. 'Gardło' (neuter, singular) → 'boli'."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["bolec", "health", "dative", "body", "a1-core"],
+  "prerequisites": ["a1-ch09-l01", "a1-ch09-l02"]
+}

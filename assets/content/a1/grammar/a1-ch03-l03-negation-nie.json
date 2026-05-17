@@ -1,0 +1,75 @@
+{
+  "id": "a1-ch03-l03",
+  "level": "a1",
+  "chapter": 3,
+  "lessonOrder": 3,
+  "title": "Negation with nie",
+  "grammarPoint": "Negating verbs with nie; genitive after negation",
+  "explanation": {
+    "text": "In Polish, you negate a verb by placing **nie** directly before it. This is simple and consistent — nie never changes form.\n\n**Basic negation:**\n- *Jestem studentem.* → *Nie jestem studentem.*\n- *Mam brata.* → *Nie mam brata.*\n- *Mówię po polsku.* → *Nie mówię po polsku.*\n\n**Important: Genitive after negation**\nWhen you negate a verb that takes a direct object (accusative), the object shifts to the **genitive case**:\n- *Mam kota* (accusative) → *Nie mam kota* (genitive)\n- *Mam czas* → *Nie mam czasu*\n- *Widzę psa* → *Nie widzę psa*\n\nFor most A1 nouns the accusative and genitive look similar, so focus on the pattern now and master the forms later.",
+    "notes": [
+      "nie always goes directly before the verb — never separated by other words.",
+      "Double negation is standard in Polish: Nikt nic nie wie = Nobody knows anything (NOT a grammar error).",
+      "After negation, count nouns shift to genitive; the change is automatic with nie mam."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a1-ch03-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Negate: 'Jestem lekarzem.'",
+      "options": ["Nie jestem lekarzem.", "Jestem nie lekarzem.", "Nie lekarzem jestem.", "Jestem lekarzem nie."],
+      "correctIndex": 0,
+      "explanation": "'Nie' goes directly before the verb: 'Nie jestem lekarzem.' = I am not a doctor."
+    },
+    {
+      "id": "a1-ch03-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "___ mówię po angielsku. (I don't speak English.)",
+      "answer": "Nie",
+      "acceptableAnswers": ["Nie", "nie"],
+      "hint": "The Polish negation particle — place it before the verb"
+    },
+    {
+      "id": "a1-ch03-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a1/ch03/a1-ch03-l03-ex03.mp3",
+      "options": ["Nie mam czasu.", "Mam czas.", "Nie ma czasu.", "Mam dużo czasu."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Nie mam czasu.' — I don't have time. 'Nie mam' = I don't have. 'Czasu' is the genitive of 'czas'."
+    },
+    {
+      "id": "a1-ch03-l03-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: She is not a teacher.",
+      "wordBank": ["Ona", "nie", "jest", "nauczycielką", "nauczyciel", "lekarzem"],
+      "correctSequences": [
+        ["Ona", "nie", "jest", "nauczycielką"],
+        ["nie", "jest", "nauczycielką"]
+      ],
+      "explanation": "'Ona nie jest nauczycielką' = She is not a teacher. 'Nie' comes directly before 'jest'. Subject 'Ona' is optional."
+    },
+    {
+      "id": "a1-ch03-l03-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "Which sentence is correctly negated?",
+      "options": [
+        "Nie rozumiem tego.",
+        "Rozumiem nie tego.",
+        "Nie tego rozumiem.",
+        "Rozumiem tego nie."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nie rozumiem tego' = I don't understand this. 'Nie' must come immediately before the verb 'rozumiem'."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 8,
+  "tags": ["negation", "nie", "genitive", "a1-core"],
+  "prerequisites": ["a1-ch01-l01", "a1-ch02-l01"]
+}

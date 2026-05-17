@@ -1,0 +1,141 @@
+{
+  "id": "a2-vocab-004",
+  "level": "a2",
+  "order": 4,
+  "title": "Work & Study",
+  "description": "Polish vocabulary for professional and academic life.",
+  "cards": [
+    {
+      "id": "a2v004-01",
+      "polish": "praca",
+      "english": "work / job",
+      "pronunciation": "PRA-tsa",
+      "category": "noun",
+      "example_polish": "Szukam nowej pracy.",
+      "example_english": "I am looking for a new job.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v004-02",
+      "polish": "biuro",
+      "english": "office",
+      "pronunciation": "BYU-ro",
+      "category": "noun",
+      "example_polish": "Pracuję w biurze na trzecim piętrze.",
+      "example_english": "I work in an office on the third floor.",
+      "gender": "n",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v004-03",
+      "polish": "szkoła",
+      "english": "school",
+      "pronunciation": "SHKO-wa",
+      "category": "noun",
+      "example_polish": "Dzieci idą do szkoły o ósmej.",
+      "example_english": "The children go to school at eight.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v004-04",
+      "polish": "uniwersytet",
+      "english": "university",
+      "pronunciation": "u-ni-ver-SI-tet",
+      "category": "noun",
+      "example_polish": "Studiuję na Uniwersytecie Warszawskim.",
+      "example_english": "I study at the University of Warsaw.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v004-05",
+      "polish": "student / studentka",
+      "english": "student (male / female)",
+      "pronunciation": "stu-DENT / stu-DENT-ka",
+      "category": "noun",
+      "example_polish": "Jestem studentem pierwszego roku.",
+      "example_english": "I am a first-year student.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v004-06",
+      "polish": "profesor / profesorka",
+      "english": "professor (male / female)",
+      "pronunciation": "pro-FE-sor / pro-fe-SOR-ka",
+      "category": "noun",
+      "example_polish": "Profesor Kowalski prowadzi wykład o historii.",
+      "example_english": "Professor Kowalski gives a lecture on history.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v004-07",
+      "polish": "uczyć się",
+      "english": "to learn / to study",
+      "pronunciation": "U-chich sheh",
+      "category": "verb",
+      "example_polish": "Uczę się polskiego od roku.",
+      "example_english": "I have been learning Polish for a year.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a2v004-08",
+      "polish": "egzamin",
+      "english": "exam / examination",
+      "pronunciation": "eg-ZA-min",
+      "category": "noun",
+      "example_polish": "Mam egzamin z matematyki w piątek.",
+      "example_english": "I have a maths exam on Friday.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v004-09",
+      "polish": "dyplom",
+      "english": "diploma / degree",
+      "pronunciation": "DI-plom",
+      "category": "noun",
+      "example_polish": "Obroniłam dyplom w zeszłym roku.",
+      "example_english": "I defended my diploma last year.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v004-10",
+      "polish": "firma",
+      "english": "company / firm",
+      "pronunciation": "FIR-ma",
+      "category": "noun",
+      "example_polish": "Pracuję w dużej firmie technologicznej.",
+      "example_english": "I work at a large technology company.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v004-11",
+      "polish": "spotkanie",
+      "english": "meeting",
+      "pronunciation": "spot-KA-nye",
+      "category": "noun",
+      "example_polish": "Mam ważne spotkanie o jedenastej.",
+      "example_english": "I have an important meeting at eleven.",
+      "gender": "n",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v004-12",
+      "polish": "urlop",
+      "english": "holiday / annual leave",
+      "pronunciation": "UR-lop",
+      "category": "noun",
+      "example_polish": "Idę na urlop w lipcu.",
+      "example_english": "I am going on holiday in July.",
+      "gender": "m",
+      "audio_asset": null
+    }
+  ]
+}

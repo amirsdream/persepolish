@@ -1,0 +1,70 @@
+{
+  "id": "b1-ch02-l02",
+  "level": "b1",
+  "chapter": 2,
+  "lessonOrder": 2,
+  "title": "jeździć vs jechać vs pojechać — Vehicle Motion",
+  "grammarPoint": "Vehicle motion verbs: jeździć (habitual by vehicle) vs jechać (going by vehicle now) vs pojechać (single vehicle trip, perfective)",
+  "explanation": {
+    "text": "The same three-way distinction from walking verbs applies to vehicle motion.\n\n## The Vehicle Motion Triad\n\n| Verb | Type | Meaning |\n|------|------|---------|\n| **jeździć** | multidirectional (imperf) | to go regularly by vehicle / to drive habitually |\n| **jechać** | unidirectional (imperf) | to go by vehicle now (in progress) |\n| **pojechać** | perfective | to go by vehicle (single trip) |\n\n## jeździć — Habitual Vehicle Travel\n\n- Codziennie **jeżdżę** autobusem do pracy. (I take the bus to work every day)\n- Często **jeżdżę** na wakacje do Włoch. (I often go to Italy for holidays)\n- Nie **jeżdżę** samochodem (I don't drive — general habit)\n- **Jeździłam** na nartach jako dziecko. (I used to ski as a child)\n\n## jechać — Right Now by Vehicle\n\n- **Jadę** do Krakowa. (I'm going to Kraków — right now, on the way)\n- Skąd **jedziesz?** (Where are you coming from? — on the way)\n- **Jechałem** pociągiem, kiedy zasnąłem. (I was travelling by train when I fell asleep)\n\n## pojechać — Single Trip\n\n- Wczoraj **pojechałam** do Warszawy. (Yesterday I went to Warsaw — once)\n- Jutro **pojadę** na konferencję. (Tomorrow I'll go to the conference)\n- **Jedźmy!** (Let's go! — by vehicle)\n\n## Key Difference: chodzić/iść vs jeździć/jechać\n\n- chodzić/iść = go ON FOOT (pieszo)\n- jeździć/jechać = go BY VEHICLE (samochodem, pociągiem, autobusem)\n\n## Transport Instrumental\n\nAlways use instrumental for means of transport:\n- **samochodem** (by car), **pociągiem** (by train), **autobusem** (by bus)\n- **rowerem** (by bike), **tramwajem** (by tram), **metrem** (by metro)",
+    "notes": [
+      "jechać (present): jadę, jedziesz, jedzie, jedziemy, jedziecie, jadą.",
+      "jeździć (present): jeżdżę, jeździsz, jeździ, jeździmy, jeździcie, jeżdżą.",
+      "pojechać past: pojechałem (m), pojechałam (f). Future: pojadę, pojedziesz, pojedzie...",
+      "Don't mix iść/chodzić with jechać/jeździć — the foot/vehicle distinction is important in Polish."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch02-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Codziennie ___ do pracy samochodem. (Every day I drive to work.) [habit by vehicle]",
+      "options": ["jeżdżę", "jadę", "pojadę", "pojechałem"],
+      "correctIndex": 0,
+      "explanation": "Daily habit by vehicle → 'jeżdżę' (jeździć, multidirectional). 'Jadę' = I'm driving right now (unidirectional). 'Pojadę' = I will go once (perfective future). 'Codziennie jeżdżę' = every day I drive — habitual pattern."
+    },
+    {
+      "id": "b1-ch02-l02-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "Gdzie ___ teraz? (Where are you going right now by vehicle?) [ongoing]",
+      "options": ["jedziesz", "jeździsz", "pojedziesz", "jechałeś"],
+      "correctIndex": 0,
+      "explanation": "'Jedziesz' = you are going/driving right now (jechać, unidirectional, ongoing). 'Jeździsz?' = Do you usually go/drive? (habit). 'Pojedziesz?' = Will you go? (future, single trip)."
+    },
+    {
+      "id": "b1-ch02-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch02/b1-ch02-l02-ex03.mp3",
+      "options": ["W zeszłym roku pojechałam do Włoch pociągiem.", "W zeszłym roku jeździłam do Włoch pociągiem.", "W zeszłym roku jechałam do Włoch pociągiem.", "W przyszłym roku pojadę do Włoch pociągiem."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'W zeszłym roku pojechałam do Włoch pociągiem.' — Last year I went to Italy by train. 'Pojechałam' = perfective past (one specific trip last year). 'Pociągiem' = by train (instrumental). 'W zeszłym roku' = last year."
+    },
+    {
+      "id": "b1-ch02-l02-ex04",
+      "type": "multiple_choice",
+      "order": 4,
+      "prompt": "Jutro ___ na konferencję do Gdańska. (Tomorrow I'll go to a conference in Gdańsk.) [single future trip]",
+      "options": ["pojadę", "jadę", "jeżdżę", "jechałem"],
+      "correctIndex": 0,
+      "explanation": "'Pojadę' = perfective future of pojechać (I will go — one specific trip). 'Jadę' = I'm going right now. 'Jeżdżę' = I go habitually. 'Jutro pojadę' = tomorrow I will go (this one time, to this specific conference)."
+    },
+    {
+      "id": "b1-ch02-l02-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: I often travel to Warsaw by train. (habitual vehicle travel)",
+      "wordBank": ["Często", "jeżdżę", "jadę", "do", "Warszawy", "Warszawa", "pociągiem", "pociąg", "."],
+      "correctSequences": [
+        ["Często", "jeżdżę", "do", "Warszawy", "pociągiem", "."]
+      ],
+      "explanation": "'Często jeżdżę do Warszawy pociągiem.' — I often travel to Warsaw by train. 'Jeżdżę' = habitual (jeździć). 'Do Warszawy' = to Warsaw (do + genitive: Warszawa → Warszawy). 'Pociągiem' = by train (instrumental)."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 12,
+  "tags": ["motion-verbs", "b1-core", "jeździć", "jechać", "pojechać"],
+  "prerequisites": ["b1-ch02-l01"]
+}

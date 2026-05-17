@@ -1,0 +1,70 @@
+{
+  "id": "b1-ch02-l04",
+  "level": "b1",
+  "chapter": 2,
+  "lessonOrder": 4,
+  "title": "Motion Verbs in Context",
+  "grammarPoint": "Choosing the right motion verb in real conversational and narrative contexts — mixed scenarios with foot, vehicle, and transport verbs in dialogues and stories",
+  "explanation": {
+    "text": "Now let's practise choosing motion verbs in full contexts — conversations, stories, and descriptions.\n\n## Dialogue 1: Morning Routine\n\n> – Jak **dochodzisz** do pracy? \n> – Zwykle **jeżdżę** autobusem, ale dzisiaj **idę** pieszo, bo pogoda jest piękna.\n\n- **dochodzisz** = how do you get to work (habitual, foot-reach)\n- **jeżdżę** = I go by bus (habitual vehicle)\n- **idę** = I'm going on foot (right now, today)\n\n## Dialogue 2: Travel Plans\n\n> – Kiedy **polecisz** do Nowego Jorku?\n> – **Polecę** w przyszłym tygodniu. A ty **latasz** tam często?\n> – Tak, **latam** tam kilka razy w roku.\n\n## Narrative: A Day in the Life\n\n> Marek **wstał** rano i **pobiegł** do parku. Przez godzinę **biegał** po parku, a potem **wrócił** do domu. Po śniadaniu **wsiadł** do samochodu i **pojechał** do pracy. **Jechał** autostradą, kiedy zauważył wypadek.\n\n- **pobiegł** = ran to the park (once, to a destination)\n- **biegał** = ran around (in various directions, multidirectional)\n- **pojechał** = drove to work (single completed trip)\n- **jechał** = was driving (ongoing background when event happened)\n\n## Key Prefix Verbs of Motion\n\n| Prefix | Meaning | Example |\n|--------|---------|--------|\n| **do-** | reach/arrive | dojść do/dojechać do |\n| **od-** | go away from | odejść/odjechać |\n| **prze-** | cross/pass through | przejść/przejechać |\n| **wy-** | go out | wyjść/wyjechać |\n| **wejść/wjechać** | go in | wejść/wjechać |\n| **przy-** | arrive (coming) | przyjść/przyjechać |\n| **za-** | stop by/drop in | zajść/zajechać |\n\nThese prefixed verbs are always perfective in their basic form!",
+    "notes": [
+      "Prefixed motion verbs (dojść, pojechać, wyjść) are perfective. They have imperfective counterparts with -wać suffix: dochodzić, dojeżdżać, wychodzić.",
+      "Wsiadać/wsiąść = to get in/on (imperf/perf). Wysiadać/wysiąść = to get out/off. Always use these for getting in/out of vehicles.",
+      "In narrative, motion verbs switch: ongoing motion = imperfective, completed trip = perfective.",
+      "'Jechałem, kiedy...' = I was driving when... (imperfective background in past). 'Pojechałem' = I drove (once, done)."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch02-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "– Jak ___ do szkoły? – ___ autobusem, ale dzisiaj ___ pieszo. [routine / habit / today exception]",
+      "options": ["dojeżdżasz / Jeżdżę / idę", "dojechałeś / Jadę / szłam", "jedziesz / Jadę / chodzę", "dojeżdżasz / Jadę / idę"],
+      "correctIndex": 0,
+      "explanation": "'Jak dojeżdżasz?' = How do you get (to school, regularly)? 'Jeżdżę autobusem' = I go by bus (habit). 'Dzisiaj idę pieszo' = today I'm going on foot (right now, exception). Mixed: habitual + today's unidirectional."
+    },
+    {
+      "id": "b1-ch02-l04-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "In the narrative: 'Marek wstał, ___ szybko do parku, i przez godzinę ___ po alejkach.' [ran to / ran around]",
+      "options": ["pobiegł / biegał", "biegał / pobiegł", "biegnął / biegał", "pobiegł / pobiegał"],
+      "correctIndex": 0,
+      "explanation": "'Pobiegł' = he ran to (one direction, completed arrival at park — perfective). 'Biegał' = he ran around (multi-directional, various paths — imperfective). Classic perf → imperf narrative switch: first arrive (perf), then activity there (imperf)."
+    },
+    {
+      "id": "b1-ch02-l04-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch02/b1-ch02-l04-ex03.mp3",
+      "options": ["Jechałem autostradą, kiedy zobaczyłem wypadek.", "Pojechałem autostradą, kiedy zobaczyłem wypadek.", "Jeździłem autostradą, kiedy zobaczyłem wypadek.", "Jechałem autostradą i zobaczyłem wypadek."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Jechałem autostradą, kiedy zobaczyłem wypadek.' — I was driving on the motorway when I saw an accident. 'Jechałem' = ongoing vehicle motion (imperfective, background). 'Zobaczyłem' = I saw (perfective, single event). 'Kiedy' + imperf / perf pattern."
+    },
+    {
+      "id": "b1-ch02-l04-ex04",
+      "type": "multiple_choice",
+      "order": 4,
+      "prompt": "What does 'dojść do + genitive' mean?",
+      "options": ["to reach / to arrive at (on foot)", "to walk away from", "to walk past", "to walk regularly to"],
+      "correctIndex": 0,
+      "explanation": "'Dojść do + genitive' = to reach/arrive at (on foot, perfective). 'Dojść do muzeum' = to reach the museum (on foot). 'Dojechać do + gen' = to reach by vehicle. These are perfective, destination-reaching verbs."
+    },
+    {
+      "id": "b1-ch02-l04-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: She got on the bus and went to the centre. (wsiąść + pojechać)",
+      "wordBank": ["Wsiadła", "Wsiadła", "do", "autobusu", "autobusem", "i", "pojechała", "jechała", "do", "centrum", "centrem", "."],
+      "correctSequences": [
+        ["Wsiadła", "do", "autobusu", "i", "pojechała", "do", "centrum", "."]
+      ],
+      "explanation": "'Wsiadła do autobusu i pojechała do centrum.' — She got on the bus and went to the centre. 'Wsiadła do' = got onto (wsiąść do + genitive: autobusu). 'Pojechała do centrum' = went to the centre (perfective, single trip). Both sequential completed events."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 12,
+  "tags": ["motion-verbs", "b1-core", "context", "narrative"],
+  "prerequisites": ["b1-ch02-l01", "b1-ch02-l02", "b1-ch02-l03"]
+}

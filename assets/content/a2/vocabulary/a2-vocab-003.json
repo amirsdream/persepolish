@@ -1,0 +1,141 @@
+{
+  "id": "a2-vocab-003",
+  "level": "a2",
+  "order": 3,
+  "title": "Health & Body",
+  "description": "Polish vocabulary for health, the body, and medical situations.",
+  "cards": [
+    {
+      "id": "a2v003-01",
+      "polish": "głowa",
+      "english": "head",
+      "pronunciation": "GWO-va",
+      "category": "noun",
+      "example_polish": "Boli mnie głowa.",
+      "example_english": "I have a headache. (My head hurts.)",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v003-02",
+      "polish": "serce",
+      "english": "heart",
+      "pronunciation": "SER-tse",
+      "category": "noun",
+      "example_polish": "Mam problemy z sercem.",
+      "example_english": "I have heart problems.",
+      "gender": "n",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v003-03",
+      "polish": "ból",
+      "english": "pain / ache",
+      "pronunciation": "bool",
+      "category": "noun",
+      "example_polish": "Czuję silny ból pleców.",
+      "example_english": "I feel a strong back pain.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v003-04",
+      "polish": "lekarz",
+      "english": "doctor / physician",
+      "pronunciation": "LE-kash",
+      "category": "noun",
+      "example_polish": "Muszę umówić się do lekarza.",
+      "example_english": "I need to make an appointment with the doctor.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v003-05",
+      "polish": "szpital",
+      "english": "hospital",
+      "pronunciation": "SHPI-tal",
+      "category": "noun",
+      "example_polish": "Zawieźli go do szpitala.",
+      "example_english": "They took him to hospital.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v003-06",
+      "polish": "lek / lekarstwo",
+      "english": "medicine / medication",
+      "pronunciation": "lek / le-KAR-stvo",
+      "category": "noun",
+      "example_polish": "Biorę leki dwa razy dziennie.",
+      "example_english": "I take medicine twice a day.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v003-07",
+      "polish": "recepta",
+      "english": "prescription",
+      "pronunciation": "re-TSEP-ta",
+      "category": "noun",
+      "example_polish": "Potrzebuję receptę na ten lek.",
+      "example_english": "I need a prescription for this medicine.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v003-08",
+      "polish": "chorować",
+      "english": "to be ill / to be sick",
+      "pronunciation": "ho-RO-vach",
+      "category": "verb",
+      "example_polish": "Choruję od tygodnia.",
+      "example_english": "I have been ill for a week.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a2v003-09",
+      "polish": "zdrowy / zdrowa",
+      "english": "healthy / well",
+      "pronunciation": "ZDRO-vi / ZDRO-va",
+      "category": "noun",
+      "example_polish": "Czuję się dziś zdrowy.",
+      "example_english": "I feel healthy today.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a2v003-10",
+      "polish": "boleć",
+      "english": "to hurt / to ache",
+      "pronunciation": "BO-lech",
+      "category": "verb",
+      "example_polish": "Boli mnie gardło.",
+      "example_english": "My throat hurts.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a2v003-11",
+      "polish": "temperatura",
+      "english": "temperature / fever",
+      "pronunciation": "tem-pe-ra-TU-ra",
+      "category": "noun",
+      "example_polish": "Mam temperaturę 38 stopni.",
+      "example_english": "I have a temperature of 38 degrees.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v003-12",
+      "polish": "apteka",
+      "english": "pharmacy / chemist's",
+      "pronunciation": "ap-TE-ka",
+      "category": "noun",
+      "example_polish": "Gdzie jest najbliższa apteka?",
+      "example_english": "Where is the nearest pharmacy?",
+      "gender": "f",
+      "audio_asset": null
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "a2-ch15-l02",
+  "level": "a2",
+  "chapter": 15,
+  "lessonOrder": 2,
+  "title": "Sobie Constructions",
+  "grammarPoint": "The reflexive dative 'sobie': kupić sobie, poradzić sobie, wyobrazić sobie, pozwolić sobie na",
+  "explanation": {
+    "text": "**Sobie** is the dative/locative form of the reflexive pronoun 'się'. It means roughly **'for oneself'** or **'to oneself'** and appears in many common expressions.\n\n**Sobie = dative reflexive (for/to oneself):**\n\n| Expression | Meaning | Example |\n|-----------|---------|--------|\n| **kupić sobie** | to buy (for) oneself | Kupiłam sobie nową sukienkę. |\n| **poradzić sobie** | to manage / cope | Poradzę sobie z tym. |\n| **wyobrazić sobie** | to imagine | Wyobraź sobie! |\n| **pozwolić sobie na** | to afford / to allow oneself | Nie mogę sobie na to pozwolić. |\n| **przypomnieć sobie** | to remember (recall) | Przypomniałem sobie! |\n| **zdać sobie sprawę** | to realize | Zdałam sobie sprawę. |\n| **zrobić sobie** | to make/do for oneself | Zrobiłem sobie kawę. |\n\n**Poradzić sobie** is particularly important:\n- **Poradzę sobie.** = I'll manage. / I'll cope.\n- **Poradziłeś sobie?** = Did you manage?\n- Nie mogę sobie z tym poradzić. = I can't cope with this.\n\n**Wyobraź sobie!** = Imagine! (polite/ty imperative)\n- **Wyobraź sobie**, że wygrałem na loterii! = Imagine, I won the lottery!",
+    "notes": [
+      "'Sobie' is dative reflexive — it refers back to the subject of the sentence.",
+      "'Poradzić sobie' = to manage/cope — one of the most useful A2 expressions.",
+      "'Wyobraź sobie!' = Imagine! — a fixed exclamatory phrase.",
+      "'Nie mogę sobie pozwolić na...' = I can't afford... (na + accusative)."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch15-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Nie martw się, ___ sobie z tym. (Don't worry, I'll manage with it.) [poradzić sobie, ja]",
+      "options": ["poradzę", "poradziłem", "radzę", "radzę sobie"],
+      "correctIndex": 0,
+      "explanation": "'Poradzić sobie' (perf): ja future: poradzę. 'Poradzę sobie z tym' = I'll cope/manage with it. 'Nie martw się' = Don't worry (imperative)."
+    },
+    {
+      "id": "a2-ch15-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Kupiłam ___ nowy sweter. (I bought myself a new sweater.) [sobie — dative reflexive]",
+      "answer": "sobie",
+      "acceptableAnswers": ["sobie"],
+      "hint": "Dative reflexive 'for oneself': sobie"
+    },
+    {
+      "id": "a2-ch15-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a2/ch15/a2-ch15-l02-ex03.mp3",
+      "options": ["Wyobraź sobie, że wygrałem na loterii!", "Wyobraź sobie, że wygrałam na loterii!", "Wyobraź sobie, że wygraliśmy na loterii!", "Wyobraź sobie, że wygrywa na loterii!"],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Wyobraź sobie, że wygrałem na loterii!' — Imagine, I (m) won the lottery! 'Wyobraź sobie' = imagine! (imperative). 'Wygrałem' = m past (I won)."
+    },
+    {
+      "id": "a2-ch15-l02-ex04",
+      "type": "multiple_choice",
+      "order": 4,
+      "prompt": "Nie mogę ___ pozwolić na nowe auto. (I can't afford a new car.) [sobie — position in sentence]",
+      "options": ["sobie", "się", "mi", "mu"],
+      "correctIndex": 0,
+      "explanation": "'Nie mogę sobie pozwolić na + accusative' = I can't afford. 'Sobie' is the dative reflexive. 'Na nowe auto' = accusative (new car)."
+    },
+    {
+      "id": "a2-ch15-l02-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: She finally realized the truth. [zdać sobie sprawę]",
+      "wordBank": ["W", "końcu", "zdała", "sobie", "sprawę", "prawdy", "z", "prawdą", "prawdy"],
+      "correctSequences": [
+        ["W", "końcu", "zdała", "sobie", "sprawę", "z", "prawdy"]
+      ],
+      "explanation": "'W końcu zdała sobie sprawę z prawdy.' — She finally realized the truth. 'Zdać sobie sprawę z + genitive' = to realize. 'Prawda' → genitive: prawdy."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["sobie", "reflexive", "dative", "a2-core"],
+  "prerequisites": ["a2-ch15-l01", "a1-ch09-l02"]
+}

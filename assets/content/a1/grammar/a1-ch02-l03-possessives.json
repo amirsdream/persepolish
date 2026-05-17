@@ -1,0 +1,69 @@
+{
+  "id": "a1-ch02-l03",
+  "level": "a1",
+  "chapter": 2,
+  "lessonOrder": 3,
+  "title": "Possessive Pronouns",
+  "grammarPoint": "mój, moja, moje / twój, twoja, twoje — agreement with noun gender",
+  "explanation": {
+    "text": "Polish possessive pronouns agree with the **gender of the noun they modify**, not the gender of the owner. The most important ones for beginners are the 1st and 2nd person singular forms:\n\n| Possessive | Masculine | Feminine | Neuter |\n|------------|-----------|----------|--------|\n| my (1st sg.) | **mój** | **moja** | **moje** |\n| your (2nd sg.) | **twój** | **twoja** | **twoje** |\n| his | **jego** | **jego** | **jego** |\n| her | **jej** | **jej** | **jej** |\n| our | **nasz** | **nasza** | **nasze** |\n| your (pl.) | **wasz** | **wasza** | **wasze** |\n\nRemember: choose the form to match the noun, not the speaker.",
+    "notes": [
+      "mój/twój have a special plural: moi/twoi (virile), moje/twoje (non-virile).",
+      "jego/jej do not change — they are indeclinable.",
+      "In practice, Poles often drop the possessive when context is clear: 'Gdzie jest mama?' not 'Gdzie jest moja mama?'"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a1-ch02-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Choose the correct possessive: To jest ___ brat. (This is my brother.)",
+      "options": ["mój", "moja", "moje", "moją"],
+      "correctIndex": 0,
+      "explanation": "'Brat' (brother) is masculine, so the possessive is 'mój'. 'To jest mój brat' = This is my brother."
+    },
+    {
+      "id": "a1-ch02-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "To jest ___ siostra. (This is your sister.) [siostra = feminine]",
+      "answer": "twoja",
+      "acceptableAnswers": ["twoja"],
+      "hint": "Feminine form of 'your' (2nd person singular)"
+    },
+    {
+      "id": "a1-ch02-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a1/ch02/a1-ch02-l03-ex03.mp3",
+      "options": ["To jest nasze dziecko.", "To jest nasza córka.", "To jest nasz syn.", "To są nasze dzieci."],
+      "correctIndex": 2,
+      "explanation": "You heard: 'To jest nasz syn.' — This is our son. 'Syn' is masculine → 'nasz' (not nasza/nasze)."
+    },
+    {
+      "id": "a1-ch02-l03-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: This is my dog. [pies = masculine]",
+      "wordBank": ["To", "jest", "mój", "moja", "moje", "pies"],
+      "correctSequences": [
+        ["To", "jest", "mój", "pies"]
+      ],
+      "explanation": "'To jest mój pies' = This is my dog. 'Pies' is masculine → use 'mój'."
+    },
+    {
+      "id": "a1-ch02-l03-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "To jest ___ auto. (This is her car.) [auto = neuter]",
+      "options": ["jej", "jego", "jej/jego", "je"],
+      "correctIndex": 0,
+      "explanation": "'Jej' = her (possessive, 3rd feminine). Since 'jej' is indeclinable, it stays the same regardless of the noun's gender: 'To jest jej auto'."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 9,
+  "tags": ["possessives", "pronouns", "gender-agreement", "a1-core"],
+  "prerequisites": ["a1-ch01-l03", "a1-ch01-l04"]
+}

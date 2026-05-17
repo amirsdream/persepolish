@@ -1,0 +1,70 @@
+{
+  "id": "b1-ch04-l02",
+  "level": "b1",
+  "chapter": 4,
+  "lessonOrder": 2,
+  "title": "Agentless Passive & przez + Instrumental",
+  "grammarPoint": "Passive without an agent (most common) vs. passive with agent (przez + instrumental): list został napisany (by whom?) vs. list został napisany przez sekretarkę",
+  "explanation": {
+    "text": "Most Polish passive sentences **omit the agent** (the person who performed the action). When the agent IS mentioned, use **przez + accusative**.\n\n## Most Passive Is Agentless\n\nThe biggest difference from English: Polish passive very rarely specifies 'by whom.' The focus is on what happened, not who did it:\n\n- **Decyzja została podjęta.** (The decision was made. — by whom? not stated)\n- **Most został zbudowany w 1990 roku.** (The bridge was built in 1990. — by whom? not stated)\n- **Pacjent został przyjęty.** (The patient was admitted. — by whom? not stated)\n- **Złodziej został aresztowany.** (The thief was arrested. — by whom? not stated)\n\nThis is **agentless passive** — the most common type in Polish.\n\n## Adding the Agent: przez + Accusative\n\nTo say WHO did the action, add **przez** + **accusative**:\n\n| Passive sentence | + Agent (przez + acc) |\n|-----------------|----------------------|\n| List został napisany. | przez sekretarkę (by the secretary) |\n| Książka została napisana. | przez słynnego autora (by a famous author) |\n| Most został zbudowany. | przez firmę budowlaną (by a construction company) |\n| Prezydent został wybrany. | przez wszystkich obywateli (by all citizens) |\n| Wyrok został ogłoszony. | przez sędziego (by the judge) |\n\n**Full examples**:\n- List **został napisany przez sekretarkę**. (The letter was written by the secretary.)\n- Powieść **została napisana przez Sienkiewicza**. (The novel was written by Sienkiewicz.)\n- Dom **został zbudowany przez naszego ojca**. (The house was built by our father.)\n\n## przez + Accusative: Forms\n\n'przez' always takes **accusative case**:\n\n| Noun type | Nominative | Accusative (after przez) |\n|-----------|-----------|-------------------------|\n| masculine animate | ojciec | przez ojca |\n| masculine animate | prezydent | przez prezydenta |\n| feminine | sekretarka | przez sekretarkę |\n| feminine | firma | przez firmę |\n| neuter | dziecko | przez dziecko |\n\n## Why Polish Avoids the Agent\n\nPolish uses passive WITHOUT agent when:\n1. The agent is **unknown**: Okno zostało stłuczone. (The window got broken — by someone unknown)\n2. The agent is **obvious**: Pacjent został przyjęty. (The patient was admitted — obviously by staff)\n3. The agent is **irrelevant**: Decyzja została podjęta. (A decision was made — who cares by whom)\n4. The speaker wants to **avoid responsibility**: Błąd został popełniony. (A mistake was made — passive evasion)\n\n## Passive Evasion (formal/political language)\n\nAgentless passive is famously used to avoid blame:\n- *Błąd został popełniony.* (A mistake was made. — not saying by whom!)\n- *Środki zostały wydane.* (The funds were spent. — not saying who spent them!)\n- *Decyzja została podjęta.* (A decision was made. — responsibility unclear!)\n\nThis is common in bureaucratic and political Polish.",
+    "notes": [
+      "przez + ACCUSATIVE for the agent — not instrumental! English 'by' → Polish 'przez + acc'. Don't confuse with instrumental (which shows means/instrument).",
+      "Agentless passive is the default in Polish — if you're translating from English, you often don't need to specify the agent.",
+      "The PPP still agrees with the subject even with przez: 'Powieść została napisana przez autora' (f PPP for 'powieść').",
+      "przez can also mean 'through' or 'for (time period)' — context determines meaning: 'przez las' (through the forest), 'przez godzinę' (for an hour), 'przez prezydenta' (by the president = agent)."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch04-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Powieść ___ napisana przez Mickiewicza. (The novel was written by Mickiewicz.) [f past, przez + acc agent]",
+      "options": ["została", "został", "zostało", "zostaną"],
+      "correctIndex": 0,
+      "explanation": "'Powieść' (novel) is feminine → zostać past feminine: 'została'. 'Powieść została napisana przez Mickiewicza' = event passive with agent (przez + accusative: Mickiewicz → Mickiewicza). PPP 'napisana' also feminine — both agree with 'powieść' (f)."
+    },
+    {
+      "id": "b1-ch04-l02-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "Which sentence correctly uses 'przez + accusative' for the agent?",
+      "options": ["Most został zbudowany przez firmę.", "Most został zbudowany od firmy.", "Most został zbudowany z firmą.", "Most został zbudowany dla firmy."],
+      "correctIndex": 0,
+      "explanation": "'przez + accusative' = by (agent): 'przez firmę' (accusative of 'firma'). 'Od firmy' = from the company (genitive). 'Z firmą' = with the company (instrumental). 'Dla firmy' = for the company (genitive). Only 'przez + acc' introduces a passive agent in Polish."
+    },
+    {
+      "id": "b1-ch04-l02-ex03",
+      "type": "fill_blank",
+      "order": 3,
+      "prompt": "Complete with przez + correct case: Dom został zbudowany ___ naszego ojca. (by our father) [ojciec → ?]",
+      "answer": "przez naszego ojca",
+      "acceptableAnswers": ["przez naszego ojca", "przez ojca"],
+      "explanation": "'Ojciec' (father) → accusative: 'ojca'. After 'przez': 'przez naszego ojca' (masculine animate accusative = genitive form: ojca). Full sentence: 'Dom został zbudowany przez naszego ojca' = The house was built by our father."
+    },
+    {
+      "id": "b1-ch04-l02-ex04",
+      "type": "dictation_mc",
+      "order": 4,
+      "audioAsset": "assets/audio/b1/ch04/b1-ch04-l02-ex04.mp3",
+      "options": ["Błąd został popełniony przez nowego pracownika.", "Błąd został popełniony od nowego pracownika.", "Błąd został popełniony z nowym pracownikiem.", "Błąd został popełniony przez nowym pracownikiem."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Błąd został popełniony przez nowego pracownika.' — The mistake was made by the new employee. 'Przez + accusative': 'nowy pracownik' → accusative 'nowego pracownika' (animate masculine). PPP 'popełniony' (m) agrees with 'błąd' (m)."
+    },
+    {
+      "id": "b1-ch04-l02-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: The book was published by a famous publisher. (książka=f, opublikować→opublikowana, wydawca=masc)",
+      "wordBank": ["Książka", "została", "został", "opublikowana", "opublikowany", "przez", "od", "słynnego", "wydawcę", "wydawca", "."],
+      "correctSequences": [
+        ["Książka", "została", "opublikowana", "przez", "słynnego", "wydawcę", "."]
+      ],
+      "explanation": "'Książka została opublikowana przez słynnego wydawcę.' — The book was published by a famous publisher. 'Książka' (f) → 'została' (f past) + 'opublikowana' (PPP f). Agent: 'przez + acc': 'słynny wydawca' → accusative 'słynnego wydawcę' (masc animate acc = gen form)."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 13,
+  "tags": ["passive-voice", "b1-core", "agentless", "przez", "accusative"],
+  "prerequisites": ["b1-ch04-l01"]
+}

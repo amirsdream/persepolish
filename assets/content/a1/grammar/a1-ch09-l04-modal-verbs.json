@@ -1,0 +1,71 @@
+{
+  "id": "a1-ch09-l04",
+  "level": "a1",
+  "chapter": 9,
+  "lessonOrder": 4,
+  "title": "Modal Verbs — musieć, móc, chcieć, trzeba",
+  "grammarPoint": "Modal verbs: musieć (must), móc (can/may), chcieć (want), trzeba (one must) + infinitive",
+  "explanation": {
+    "text": "**Modal verbs** express necessity, possibility, or desire. In Polish they are followed by the **infinitive**.\n\n**Key modal verbs:**\n\n| Verb | Meaning | ja form | ty form |\n|------|---------|---------|--------|\n| **musieć** | must / have to | muszę | musisz |\n| **móc** | can / may / be able to | mogę | możesz |\n| **chcieć** | want to | chcę | chcesz |\n| **trzeba** | one must / it is necessary | — | — |\n| **można** | one can / it is allowed | — | — |\n\n**trzeba and można** are impersonal (no subject conjugation):\n- Trzeba iść. = One must go. / You need to go.\n- Nie można palić. = Smoking is not allowed.\n\n**Examples:**\n- Muszę iść do lekarza. = I must go to the doctor.\n- Możesz mi pomóc? = Can you help me?\n- Chcę się napić wody. = I want to drink some water.\n- Trzeba odpocząć. = You need to rest.\n- Nie możemy tu parkować. = We can't park here.\n\n**In health context:**\n- Musisz wziąć lekarstwo. = You must take the medicine.\n- Trzeba odpocząć w domu. = You need to rest at home.",
+    "notes": [
+      "musieć: muszę, musisz, musi, musimy, musicie, muszą.",
+      "móc: mogę, możesz, może, możemy, możecie, mogą.",
+      "chcieć: chcę, chcesz, chce, chcemy, chcecie, chcą.",
+      "trzeba/można = impersonal, used with infinitive: Trzeba jeść. Można wejść?"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a1-ch09-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "I must go to the doctor. Which is correct?",
+      "options": ["Muszę iść do lekarza.", "Musię iść do lekarza.", "Musze iść do lekarza.", "Muszę do lekarza."],
+      "correctIndex": 0,
+      "explanation": "'Muszę iść do lekarza.' = I must go to the doctor. 'Musieć' → ja: muszę. Always followed by infinitive: iść."
+    },
+    {
+      "id": "a1-ch09-l04-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Czy ___ mi pomóc? (Can you help me?) [móc, ty form]",
+      "answer": "możesz",
+      "acceptableAnswers": ["możesz"],
+      "hint": "móc, ty form: możesz"
+    },
+    {
+      "id": "a1-ch09-l04-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a1/ch09/a1-ch09-l04-ex03.mp3",
+      "options": ["Trzeba odpocząć i dużo pić.", "Trzeba odpocząć i dużo picie.", "Musisz odpocząć i dużo pić.", "Trzeba odpocząć i dużo pijesz."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Trzeba odpocząć i dużo pić.' — You need to rest and drink a lot. 'Trzeba' (impersonal) + infinitive. 'Dużo pić' = drink a lot."
+    },
+    {
+      "id": "a1-ch09-l04-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: I want to drink some water.",
+      "wordBank": ["Chcę", "Chcesz", "się", "napić", "wypić", "wody", "wodę", "woda"],
+      "correctSequences": [
+        ["Chcę", "się", "napić", "wody"],
+        ["Chcę", "wypić", "wodę"]
+      ],
+      "explanation": "'Chcę się napić wody' = I want to drink some water. 'Chcieć → ja: chcę + infinitive'. 'Napić się + genitive': wody."
+    },
+    {
+      "id": "a1-ch09-l04-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "Nie ___ tu palić. (You can't/are not allowed to smoke here.) [impersonal prohibition]",
+      "options": ["można", "musisz", "masz", "trzeba"],
+      "correctIndex": 0,
+      "explanation": "'Nie można tu palić' = Smoking is not allowed here. 'Nie można' = it is not permitted (impersonal negative). 'Trzeba' = one must (obligation)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["modal-verbs", "musiec", "moc", "chciec", "trzeba", "a1-core"],
+  "prerequisites": ["a1-ch05-l01", "a1-ch09-l01"]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "a2-vocab-001",
+  "level": "a2",
+  "order": 1,
+  "title": "Travel & Transport",
+  "description": "Polish vocabulary for travelling and getting around.",
+  "cards": [
+    {
+      "id": "a2v001-01",
+      "polish": "samolot",
+      "english": "aeroplane / airplane",
+      "pronunciation": "sa-MO-lot",
+      "category": "noun",
+      "example_polish": "Lecimy samolotem do Londynu.",
+      "example_english": "We are flying to London by plane.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v001-02",
+      "polish": "pociąg",
+      "english": "train",
+      "pronunciation": "PO-chonk",
+      "category": "noun",
+      "example_polish": "Pociąg odjeżdża o dziesiątej.",
+      "example_english": "The train departs at ten.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v001-03",
+      "polish": "autobus",
+      "english": "bus",
+      "pronunciation": "ow-TO-bus",
+      "category": "noun",
+      "example_polish": "Jadę autobusem do centrum.",
+      "example_english": "I am going by bus to the centre.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v001-04",
+      "polish": "bilet",
+      "english": "ticket",
+      "pronunciation": "BI-let",
+      "category": "noun",
+      "example_polish": "Proszę jeden bilet w jedną stronę.",
+      "example_english": "One single ticket, please.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v001-05",
+      "polish": "lotnisko",
+      "english": "airport",
+      "pronunciation": "lot-NIS-ko",
+      "category": "noun",
+      "example_polish": "Lotnisko jest daleko od centrum.",
+      "example_english": "The airport is far from the centre.",
+      "gender": "n",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v001-06",
+      "polish": "dworzec",
+      "english": "station (train/bus)",
+      "pronunciation": "DVO-zhets",
+      "category": "noun",
+      "example_polish": "Dworzec Centralny jest w centrum Warszawy.",
+      "example_english": "Central Station is in the centre of Warsaw.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v001-07",
+      "polish": "paszport",
+      "english": "passport",
+      "pronunciation": "PASH-port",
+      "category": "noun",
+      "example_polish": "Proszę pokazać paszport.",
+      "example_english": "Please show your passport.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v001-08",
+      "polish": "walizka",
+      "english": "suitcase",
+      "pronunciation": "va-LIZ-ka",
+      "category": "noun",
+      "example_polish": "Moja walizka jest za ciężka.",
+      "example_english": "My suitcase is too heavy.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v001-09",
+      "polish": "podróż",
+      "english": "journey / trip / travel",
+      "pronunciation": "PO-droosh",
+      "category": "noun",
+      "example_polish": "Życzę miłej podróży!",
+      "example_english": "Have a pleasant journey!",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v001-10",
+      "polish": "hotel",
+      "english": "hotel",
+      "pronunciation": "HO-tel",
+      "category": "noun",
+      "example_polish": "Mieszkamy w hotelu przy rynku.",
+      "example_english": "We are staying in a hotel near the market square.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v001-11",
+      "polish": "taksówka",
+      "english": "taxi",
+      "pronunciation": "tak-SOOV-ka",
+      "category": "noun",
+      "example_polish": "Zamów taksówkę na siódmą.",
+      "example_english": "Order a taxi for seven.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v001-12",
+      "polish": "odlot / przylot",
+      "english": "departure / arrival (by air)",
+      "pronunciation": "OD-lot / PSHI-lot",
+      "category": "noun",
+      "example_polish": "Odlot jest o piętnastej.",
+      "example_english": "The departure is at fifteen hundred (3 pm).",
+      "gender": "m",
+      "audio_asset": null
+    }
+  ]
+}

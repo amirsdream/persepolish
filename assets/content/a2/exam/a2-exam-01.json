@@ -1,0 +1,299 @@
+{
+  "id": "a2-exam-01",
+  "level": "a2",
+  "title": "A2 Level Exam — PKE-style",
+  "description": "PKE-style A2 certification exam covering all grammar and vocabulary from Chapters 11–20. Four sections: grammar, reading comprehension, listening, and writing.",
+  "timeLimitSeconds": 9600,
+  "passThresholdOverall": 0.50,
+  "passThresholdPerSection": 0.40,
+  "sections": [
+    {
+      "id": "a2-exam-01-s01",
+      "type": "grammar",
+      "title": "Grammar",
+      "weightPercent": 35,
+      "timeLimitSeconds": 3360,
+      "exercises": [
+        {
+          "id": "a2-exam-01-s01-ex01",
+          "type": "multiple_choice",
+          "order": 1,
+          "prompt": "Wczoraj ona ___ do biblioteki i ___ trzy godziny. (Yesterday she went to the library and stayed three hours.) [past tense]",
+          "options": ["poszła / spędziła", "poszła / spędzała", "szła / spędziła", "szła / spędzała"],
+          "correctIndex": 0,
+          "explanation": "Two sequential completed events → both perfective: 'poszła' (went = arrived there) and 'spędziła' (spent = completed the time). 'Szła' = was walking (ongoing process, not arrival)."
+        },
+        {
+          "id": "a2-exam-01-s01-ex02",
+          "type": "multiple_choice",
+          "order": 2,
+          "prompt": "Codziennie ___ gazety i ___ kawę. (Every day she reads newspapers and drinks coffee.) [habit]",
+          "options": ["czyta / pije", "przeczyta / wypije", "czyta / wypiła", "przeczytała / piła"],
+          "correctIndex": 0,
+          "explanation": "Daily habit → present imperfective: 'czyta' (reads, repeatedly) and 'pije' (drinks, repeatedly). Perfective forms would imply one-time completed action, not habit."
+        },
+        {
+          "id": "a2-exam-01-s01-ex03",
+          "type": "multiple_choice",
+          "order": 3,
+          "prompt": "Chciałbym zarezerwować pokój ___ łazienką i ___ balkonem. [case after z]",
+          "options": ["z łazienką i z balkonem", "z łazienki i z balkonu", "do łazienki i do balkonu", "w łazienką i w balkonem"],
+          "correctIndex": 0,
+          "explanation": "'Z + instrumental' = with. 'łazienka' → instrumental: łazienką. 'balkon' → instrumental: balkonem. 'Pokój z łazienką i z balkonem' = room with bathroom and balcony."
+        },
+        {
+          "id": "a2-exam-01-s01-ex04",
+          "type": "multiple_choice",
+          "order": 4,
+          "prompt": "Przepraszam, czy ___ może mi Pan powiedzieć, gdzie jest poczta?",
+          "options": ["—", "ty", "on", "Pana"],
+          "correctIndex": 0,
+          "explanation": "In formal address 'Czy Pan może mi powiedzieć?' the subject 'Pan' is already present — no additional pronoun needed. The 'może' is 3rd person singular (formal). Full: 'Czy może mi Pan powiedzieć, gdzie jest poczta?'"
+        },
+        {
+          "id": "a2-exam-01-s01-ex05",
+          "type": "fill_blank",
+          "order": 5,
+          "prompt": "Gdybym ___ więcej czasu, nauczyłbym się lepiej polskiego. (If I had more time, I would learn Polish better.) [gdyby + past]",
+          "answer": "miał",
+          "acceptableAnswers": ["miał", "miała"],
+          "hint": "Gdybym + past l-form: mieć → miał (masc) / miała (fem). Gdybym miał/miała = if I had."
+        },
+        {
+          "id": "a2-exam-01-s01-ex06",
+          "type": "multiple_choice",
+          "order": 6,
+          "prompt": "Nie ma ___ w lodówce. (There's no butter in the fridge.) [genitive after negation]",
+          "options": ["masła", "masło", "masłem", "maśle"],
+          "correctIndex": 0,
+          "explanation": "After 'nie ma' → genitive: masło (n) → masła. 'Nie ma masła' = There's no butter. Genitive after negation is one of the most tested A2 grammar points."
+        },
+        {
+          "id": "a2-exam-01-s01-ex07",
+          "type": "multiple_choice",
+          "order": 7,
+          "prompt": "Podoba ___ się ta muzyka? (Do you like this music?) [dative of interest]",
+          "options": ["ci", "ty", "cię", "tobie"],
+          "correctIndex": 0,
+          "explanation": "Podoba + dative of person. 'Ci' = dative of 'ty' (short form). 'Podoba ci się ta muzyka?' = Do you like this music? 'Cię' = accusative of ty. 'Ty' = nominative. 'Tobie' = full dative (emphatic: 'Tobie podoba się?')"
+        },
+        {
+          "id": "a2-exam-01-s01-ex08",
+          "type": "multiple_choice",
+          "order": 8,
+          "prompt": "Jestem ___ z zawodu. (I am a doctor by profession.)",
+          "options": ["lekarzem", "lekarz", "lekarza", "lekarzowi"],
+          "correctIndex": 0,
+          "explanation": "After 'być' with profession → instrumental: lekarz → lekarzem. 'Jestem lekarzem z zawodu' = I am a doctor by profession. Nominative (Jestem lekarz) is a common error."
+        },
+        {
+          "id": "a2-exam-01-s01-ex09",
+          "type": "multiple_choice",
+          "order": 9,
+          "prompt": "Mam rezerwację ___ nazwisko Kowalska. [fixed phrase]",
+          "options": ["na", "pod", "w", "do"],
+          "correctIndex": 0,
+          "explanation": "'Rezerwacja na nazwisko' = reservation under the name (fixed phrase). 'Na + accusative': na nazwisko Kowalska. Used at hotel receptions, restaurants, etc."
+        },
+        {
+          "id": "a2-exam-01-s01-ex10",
+          "type": "multiple_choice",
+          "order": 10,
+          "prompt": "Napisałam list, ___ go wysłałam. (I wrote the letter, then I sent it.) [sequential]",
+          "options": ["a potem", "kiedy", "dlatego", "chociaż"],
+          "correctIndex": 0,
+          "explanation": "'A potem' = and then (sequential events). Two perfective past forms: 'napisałam' (wrote = completed) + 'wysłałam' (sent = completed). 'A potem' connects sequential completed events."
+        }
+      ]
+    },
+    {
+      "id": "a2-exam-01-s02",
+      "type": "reading",
+      "title": "Reading Comprehension",
+      "weightPercent": 35,
+      "timeLimitSeconds": 3360,
+      "exercises": [
+        {
+          "id": "a2-exam-01-s02-ex01",
+          "type": "multiple_choice",
+          "order": 1,
+          "prompt": "Read: 'Anna pracuje w biurze od poniedziałku do piątku. W weekendy lubi chodzić na wycieczki z rodziną.' — Where does Anna work?",
+          "options": ["In an office", "At home", "In a school", "In a shop"],
+          "correctIndex": 0,
+          "explanation": "The text states 'pracuje w biurze' = works in an office. Reading comprehension: locate key information directly stated in the text."
+        },
+        {
+          "id": "a2-exam-01-s02-ex02",
+          "type": "multiple_choice",
+          "order": 2,
+          "prompt": "Read: 'Marcin zamówił bilet powrotny do Wrocławia na piątek wieczór. Wróci w niedzielę rano.' — When is Marcin returning?",
+          "options": ["Sunday morning", "Friday evening", "Saturday afternoon", "Monday morning"],
+          "correctIndex": 0,
+          "explanation": "'Wróci w niedzielę rano' = will return on Sunday morning. Reading comprehension: distinguish between departure time (piątek wieczór = Friday evening) and return time."
+        },
+        {
+          "id": "a2-exam-01-s02-ex03",
+          "type": "multiple_choice",
+          "order": 3,
+          "prompt": "Read: 'Hotel oferuje śniadanie w cenie pokoju. Wymeldowanie jest do godziny 11:00. Parkowanie jest bezpłatne.' — What is NOT included in the room price?",
+          "options": ["Parking fee (parking IS free)", "Breakfast", "Check-out time", "Room"],
+          "correctIndex": 0,
+          "explanation": "Trick question — all listed items ARE part of the hotel offer. Parking is free ('bezpłatne' = free of charge). Breakfast is included ('w cenie pokoju'). So nothing is NOT included from the list — but parking being free is specified separately, not 'in room price'."
+        },
+        {
+          "id": "a2-exam-01-s02-ex04",
+          "type": "multiple_choice",
+          "order": 4,
+          "prompt": "Read the email: 'Szanowna Pani, piszę w sprawie ogłoszenia o pracę. Mam pięć lat doświadczenia w branży IT. W załączeniu przesyłam moje CV. Z poważaniem, Marek Nowak.' — What is attached to the email?",
+          "options": ["CV / résumé", "A job advertisement", "A reference letter", "Work experience certificate"],
+          "correctIndex": 0,
+          "explanation": "'W załączeniu przesyłam moje CV' = I am attaching my CV. 'Załączenie' = attachment. The email is a job application (responding to 'ogłoszenie o pracę' = job advertisement)."
+        },
+        {
+          "id": "a2-exam-01-s02-ex05",
+          "type": "multiple_choice",
+          "order": 5,
+          "prompt": "True or False: 'Gdybym wygrała na loterii, kupiłabym dom nad morzem.' — This sentence describes something the speaker has already done.",
+          "options": ["False — it's a hypothetical wish", "True — she already won", "True — she already bought a house", "False — she hates the seaside"],
+          "correctIndex": 0,
+          "explanation": "Gdyby + conditional = hypothetical/unreal situation. 'Gdybym wygrała' = If I won (I haven't). 'Kupiłabym' = I would buy (conditional, not actual). This describes an imaginary scenario, not reality."
+        },
+        {
+          "id": "a2-exam-01-s02-ex06",
+          "type": "multiple_choice",
+          "order": 6,
+          "prompt": "Read: 'Centrum informacji turystycznej jest czynne od poniedziałku do piątku, od 9:00 do 17:00. W weekendy nieczynne.' — Can you visit on Saturday at 10:00?",
+          "options": ["No — closed on weekends", "Yes — it's open 9–17", "Yes — it's always open", "No — it opens at 11:00"],
+          "correctIndex": 0,
+          "explanation": "'W weekendy nieczynne' = closed on weekends. 'Nieczynne' = not open (czynny = open/operating). Saturday is a weekend day, so the tourist information centre is closed."
+        },
+        {
+          "id": "a2-exam-01-s02-ex07",
+          "type": "multiple_choice",
+          "order": 7,
+          "prompt": "Read: 'Kurs języka polskiego trwa 8 tygodni. Zajęcia odbywają się dwa razy w tygodniu, we wtorek i w czwartek, od 18:00 do 20:00.' — How many hours of class per week?",
+          "options": ["4 hours", "2 hours", "8 hours", "16 hours"],
+          "correctIndex": 0,
+          "explanation": "2 sessions × 2 hours (18:00–20:00) = 4 hours per week. Reading comprehension: extract and calculate from text data."
+        },
+        {
+          "id": "a2-exam-01-s02-ex08",
+          "type": "multiple_choice",
+          "order": 8,
+          "prompt": "Read: 'Mimo że byłam bardzo zmęczona, poszłam na zebranie. Chciałam być profesjonalna.' — Why did she go to the meeting?",
+          "options": ["She wanted to be professional", "She wasn't tired", "She had to go", "She was asked by her boss"],
+          "correctIndex": 0,
+          "explanation": "'Chciałam być profesjonalna' = She wanted to be professional (explicitly stated). 'Mimo że byłam zmęczona' = despite being tired — she went anyway. The reason given is professionalism."
+        }
+      ]
+    },
+    {
+      "id": "a2-exam-01-s03",
+      "type": "listening",
+      "title": "Listening",
+      "weightPercent": 20,
+      "timeLimitSeconds": 1920,
+      "exercises": [
+        {
+          "id": "a2-exam-01-s03-ex01",
+          "type": "dictation_mc",
+          "order": 1,
+          "audioAsset": "assets/audio/a2/exam/a2-exam-01-s03-ex01.mp3",
+          "options": ["Kiedy mieszkałam w Krakowie, pracowałam w teatrze.", "Kiedy mieszkałam w Krakowie, pracuję w teatrze.", "Gdy mieszkałam w Krakowie, pracowałam w bibliotece.", "Kiedy mieszkałam we Wrocławiu, pracowałam w teatrze."],
+          "correctIndex": 0,
+          "explanation": "You heard: 'Kiedy mieszkałam w Krakowie, pracowałam w teatrze.' — When I lived in Kraków, I worked in a theatre. Both verbs: imperfective past (ongoing states). Key: w Krakowie (not Wrocławiu), teatrze (not bibliotece)."
+        },
+        {
+          "id": "a2-exam-01-s03-ex02",
+          "type": "dictation_mc",
+          "order": 2,
+          "audioAsset": "assets/audio/a2/exam/a2-exam-01-s03-ex02.mp3",
+          "options": ["Chciałbym zarezerwować pokój dwuosobowy na trzy noce.", "Chciałabym zarezerwować pokój dwuosobowy na trzy noce.", "Chciałbym zarezerwować pokój jednoosobowy na trzy noce.", "Chciałbym zarezerwować pokój dwuosobowy na dwie noce."],
+          "correctIndex": 0,
+          "explanation": "You heard: 'Chciałbym zarezerwować pokój dwuosobowy na trzy noce.' — I'd like to reserve a double room for three nights. Masc conditional: chciałbym. Key details: dwuosobowy (double, not jednoosobowy), trzy noce (3 nights, not dwie)."
+        },
+        {
+          "id": "a2-exam-01-s03-ex03",
+          "type": "dictation_mc",
+          "order": 3,
+          "audioAsset": "assets/audio/a2/exam/a2-exam-01-s03-ex03.mp3",
+          "options": ["Uprzejmie proszę o potwierdzenie terminu spotkania.", "Uprzejmie proszę potwierdzić termin spotkania.", "Proszę o potwierdzenie terminu spotkania.", "Uprzejmie proszę o zmianę terminu spotkania."],
+          "correctIndex": 0,
+          "explanation": "You heard: 'Uprzejmie proszę o potwierdzenie terminu spotkania.' — I kindly request confirmation of the meeting date. Formal request: 'uprzejmie proszę o + noun'. 'Potwierdzenie' (not zmianę = change). 'Terminu spotkania' = genitive (of the meeting's date)."
+        },
+        {
+          "id": "a2-exam-01-s03-ex04",
+          "type": "multiple_choice",
+          "order": 4,
+          "audioAsset": "assets/audio/a2/exam/a2-exam-01-s03-ex04.mp3",
+          "options": ["She went to the doctor because she had a headache", "She went to the doctor for a check-up", "She went to the pharmacy", "She stayed at home"],
+          "correctIndex": 0,
+          "explanation": "Listening comprehension — you heard a dialogue about visiting the doctor due to a headache. Key phrase: 'boli mnie głowa' = I have a headache (my head hurts), leading to the doctor visit."
+        },
+        {
+          "id": "a2-exam-01-s03-ex05",
+          "type": "dictation_mc",
+          "order": 5,
+          "audioAsset": "assets/audio/a2/exam/a2-exam-01-s03-ex05.mp3",
+          "options": ["Jutro skończymy ten projekt i wyślemy go klientowi.", "Jutro skończymy ten projekt i wysyłamy go klientowi.", "Pojutrze skończymy ten projekt i wyślemy go klientowi.", "Jutro kończymy ten projekt i wyślemy go klientowi."],
+          "correctIndex": 0,
+          "explanation": "You heard: 'Jutro skończymy ten projekt i wyślemy go klientowi.' — Tomorrow we will finish this project and send it to the client. Jutro + perfective: skończymy (will finish) + wyślemy (will send). Sequential completed future events."
+        }
+      ]
+    },
+    {
+      "id": "a2-exam-01-s04",
+      "type": "writing",
+      "title": "Writing (Multiple Choice)",
+      "weightPercent": 10,
+      "timeLimitSeconds": 960,
+      "exercises": [
+        {
+          "id": "a2-exam-01-s04-ex01",
+          "type": "multiple_choice",
+          "order": 1,
+          "prompt": "You want to write a postcard to a friend. Which opening is correct?",
+          "options": ["Cześć Aniu!", "Szanowna Pani Ania,", "Droga Pani Nowak,", "Z poważaniem, Ania"],
+          "correctIndex": 0,
+          "explanation": "Postcard to a friend = informal register. 'Cześć Aniu!' = Hi Ania! (vocative of Ania = Aniu). 'Szanowna Pani' and 'Droga Pani Nowak' = formal salutations (wrong for friend). 'Z poważaniem' = formal closing (not opening)."
+        },
+        {
+          "id": "a2-exam-01-s04-ex02",
+          "type": "multiple_choice",
+          "order": 2,
+          "prompt": "Which sentence is appropriate for a formal complaint letter?",
+          "options": ["Pragnę złożyć skargę na jakość obsługi.", "Hej, chcę powiedzieć, że obsługa była kiepska.", "To było bez sensu, naprawdę!", "Nie podobało mi się, bo to było złe."],
+          "correctIndex": 0,
+          "explanation": "'Pragnę złożyć skargę na jakość obsługi.' = I wish to lodge a complaint about the quality of service. Formal: pragnąć (not chcieć), złożyć skargę (lodge a complaint), jakość obsługi (quality of service)."
+        },
+        {
+          "id": "a2-exam-01-s04-ex03",
+          "type": "multiple_choice",
+          "order": 3,
+          "prompt": "You want to tell a friend about your holiday. Which sentence sounds natural?",
+          "options": ["Byliśmy nad morzem przez dwa tygodnie i było super!", "Spędziliśmy dwa tygodnie nad morzem z wyrazami szacunku.", "Przebywaliśmy nad morzem przez dwa tygodnie. Z poważaniem.", "W nawiązaniu do wakacji, byliśmy nad morzem."],
+          "correctIndex": 0,
+          "explanation": "Friendly/informal register: 'Byliśmy nad morzem przez dwa tygodnie i było super!' — We were at the seaside for two weeks and it was great! Natural mix of past tense + informal exclamation. Other options mix formal phrases (z wyrazami szacunku, z poważaniem, w nawiązaniu do) that belong in letters, not friendly chat."
+        },
+        {
+          "id": "a2-exam-01-s04-ex04",
+          "type": "multiple_choice",
+          "order": 4,
+          "prompt": "Which is the best closing for a formal email to a company?",
+          "options": ["Z poważaniem,", "Pa pa!", "Pozdrowienia,", "Hej,"],
+          "correctIndex": 0,
+          "explanation": "'Z poważaniem,' = Yours faithfully/Sincerely — standard formal email closing. 'Pozdrowienia' = Regards (semi-formal, appropriate for emails to people you know). 'Pa pa' and 'Hej' are very informal."
+        },
+        {
+          "id": "a2-exam-01-s04-ex05",
+          "type": "multiple_choice",
+          "order": 5,
+          "prompt": "Complete the note to your flatmate: 'Wróciłam późno i ___ okno w kuchni, bo było gorąco.'",
+          "options": ["otworzyłam", "otwierałam", "otworzy", "otwierać"],
+          "correctIndex": 0,
+          "explanation": "'Otworzyłam' = I opened (perfective past, fem) — a one-time completed action (opened the window). 'Otwierałam' = was opening (imperfective, ongoing — less natural for this context). The note describes what was done (past, single action)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "b1-ch04-l04",
+  "level": "b1",
+  "chapter": 4,
+  "lessonOrder": 4,
+  "title": "Passive in Formal Texts",
+  "grammarPoint": "Passive voice in journalism, academic writing, and official language: patterns, fixed phrases, and passive with różne czasy (past, present state, future)",
+  "explanation": {
+    "text": "Passive voice dominates **formal written Polish** — news articles, academic papers, official announcements, and legal documents. This lesson gives you the key patterns.\n\n## Passive in News Headlines\n\nPolish newspapers use passive heavily. Key pattern: **zostać + PPP** (event passive):\n\n- **Prezydent został zaprzysiężony.** (The president was sworn in.)\n- **Ustawa została uchwalona przez Sejm.** (The law was passed by parliament.)\n- **Podejrzany został aresztowany.** (The suspect was arrested.)\n- **Wyrok został ogłoszony.** (The verdict was announced.)\n- **Kontrakt został podpisany.** (The contract was signed.)\n- **Budżet został zatwierdzony.** (The budget was approved.)\n\n## Academic and Official Language Patterns\n\n**Formal passive patterns with fixed vocabulary**:\n\n| Polish pattern | English equivalent |\n|----------------|-------------------|\n| Badanie zostało przeprowadzone. | The study was conducted. |\n| Wyniki zostały opublikowane. | The results were published. |\n| Wniosek został rozpatrzony. | The application was reviewed. |\n| Decyzja została podjęta. | The decision was made. |\n| Projekt został zatwierdzony. | The project was approved. |\n| Konferencja została zorganizowana. | The conference was organized. |\n| Raport został przygotowany. | The report was prepared. |\n| Umowa została zawarta. | The agreement was concluded/signed. |\n\n## Passive with All Tenses\n\n**Past** (zostać past + PPP):\n- Wyniki **zostały ogłoszone** wczoraj. (Results were announced yesterday.)\n\n**Present state** (być present + PPP):\n- Projekt **jest zatwierdzony**. (The project is approved — currently approved.)\n\n**Future** (zostać future + PPP):\n- Raport **zostanie opublikowany** w przyszłym tygodniu. (The report will be published next week.)\n\n**Imperfect state** (być imperfect + PPP):\n- Projekt **był zatwierdzony** do ubiegłego roku. (The project was approved until last year.)\n\n## Key Formal Passive Vocabulary\n\n| Verb | PPP (m) | Context |\n|------|---------|--------|\n| przeprowadzić | przeprowadzony | research, studies |\n| opublikować | opublikowany | results, articles |\n| rozpatrzyć | rozpatrzony | applications, cases |\n| zatwierdzić | zatwierdzony | projects, budgets |\n| ogłosić | ogłoszony | announcements |\n| aresztować | aresztowany | crime news |\n| zwolnić | zwolniony | employment |\n| mianować | mianowany | appointments |\n| odwołać | odwołany | dismissals, cancellations |\n| zawrzeć | zawarty | agreements (umowa zawarta) |\n\n## Fixed Phrases in Formal Polish\n\n- **Proszę jest informowany, że...** → better: **Niniejszym informujemy, że...** (You are hereby informed that...)\n- **W odpowiedzi na** Pana wniosek, który **został złożony** w dniu... (In response to your application, which was submitted on the date of...)\n- **Decyzja została podjęta** na podstawie... (The decision was made on the basis of...)\n- **Wyżej wymieniony wniosek** został rozpatrzony pozytywnie. (The aforementioned application was reviewed positively.)\n\n## Reading News: Sample Paragraph\n\n*W środę w Sejmie* **została uchwalona** *nowa ustawa o ochronie środowiska. Projekt* **został przygotowany** *przez Ministerstwo Klimatu i* **był rozpatrywany** *przez komisję przez dwa miesiące. Ustawa* **wejdzie w życie** *po podpisaniu przez Prezydenta.*\n\n(On Wednesday, a new environmental protection law was passed in parliament. The bill was prepared by the Ministry of Climate and was reviewed by a committee for two months. The law will come into force after being signed by the President.)",
+    "notes": [
+      "In journalism, 'zostać + PPP' is the standard event passive. 'Być + PPP' describes states ('projekt jest zatwierdzony' = currently approved).",
+      "The phrase 'decyzja została podjęta' (a decision was made) is a classic bureaucratic evasion — note the missing agent.",
+      "Academic Polish tends to use passive much more than English academic writing. 'Badanie przeprowadzono' (the study was conducted) — note the impersonal form without 'zostało'!",
+      "The short passive 'przeprowadzono' = impersonal past form (3rd person past -no/-to) is even more formal than zostać + PPP. E.g.: 'Stwierdzono, że...' = It was established that..."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch04-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "News headline: ___ nowy rząd. (A new government was formed.) [rząd = m, uformować → uformowany]",
+      "options": ["Został uformowany", "Jest uformowany", "Uformuje się", "Uformował"],
+      "correctIndex": 0,
+      "explanation": "News/journalism uses event passive: 'Został uformowany nowy rząd.' (A new government was formed.) zostać past masc (został) + PPP masc (uformowany). 'Jest uformowany' = state (currently in formed state — less natural for news). News events → zostać."
+    },
+    {
+      "id": "b1-ch04-l04-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "Official announcement: Wniosek ___ rozpatrzony pozytywnie. (The application was reviewed positively.) [wniosek = m]",
+      "options": ["został", "jest", "będzie", "był"],
+      "correctIndex": 0,
+      "explanation": "'Wniosek został rozpatrzony pozytywnie.' — classic official/bureaucratic passive announcing a completed action. 'Został' = event passive past (the reviewing happened and is complete). 'Jest rozpatrzony' = current state; 'będzie' = future. Announcements of completed decisions → 'został'."
+    },
+    {
+      "id": "b1-ch04-l04-ex03",
+      "type": "fill_blank",
+      "order": 3,
+      "prompt": "Future passive: Raport ___ ___ w przyszłym tygodniu. (The report will be published next week.) [raport = m, opublikować]",
+      "answer": "zostanie opublikowany",
+      "acceptableAnswers": ["zostanie opublikowany"],
+      "explanation": "Future event passive: 'zostanie' (zostać future 3rd sg) + 'opublikowany' (PPP masc, from opublikować → opublikowan-y). 'Raport zostanie opublikowany w przyszłym tygodniu.' — The report will be published next week. Future passive = zostanie + PPP."
+    },
+    {
+      "id": "b1-ch04-l04-ex04",
+      "type": "dictation_mc",
+      "order": 4,
+      "audioAsset": "assets/audio/b1/ch04/b1-ch04-l04-ex04.mp3",
+      "options": ["Konferencja została zorganizowana przez Ministerstwo Kultury.", "Konferencja jest zorganizowana przez Ministerstwo Kultury.", "Konferencję zorganizowało Ministerstwo Kultury.", "Konferencja zostanie zorganizowana przez Ministerstwo Kultury."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Konferencja została zorganizowana przez Ministerstwo Kultury.' — The conference was organized by the Ministry of Culture. Event passive: 'konferencja' (f) → 'została' (f past) + 'zorganizowana' (PPP f). Agent: 'przez + acc': 'Ministerstwo Kultury' (neuter, acc = nom for inanimate)."
+    },
+    {
+      "id": "b1-ch04-l04-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build formal news passive: The budget was approved by parliament. (budżet=m, zatwierdzić→zatwierdzony, Sejm=m)",
+      "wordBank": ["Budżet", "został", "jest", "zatwierdzony", "zatwierdzona", "przez", "od", "Sejm", "Sejmu", "parlamentu", "."],
+      "correctSequences": [
+        ["Budżet", "został", "zatwierdzony", "przez", "Sejm", "."]
+      ],
+      "explanation": "'Budżet został zatwierdzony przez Sejm.' — The budget was approved by parliament. Event passive: 'budżet' (m) → 'został' (m past) + 'zatwierdzony' (PPP m). Agent: 'przez Sejm' (inanimate masculine: Sejm → acc = Sejm). Typical parliamentary news language."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 14,
+  "tags": ["passive-voice", "b1-core", "formal-language", "journalism"],
+  "prerequisites": ["b1-ch04-l03"]
+}

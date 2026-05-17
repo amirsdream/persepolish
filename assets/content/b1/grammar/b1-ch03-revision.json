@@ -1,0 +1,130 @@
+{
+  "id": "b1-ch03-revision",
+  "level": "b1",
+  "chapter": 3,
+  "title": "Chapter 3 Revision — Passive Voice (być + PPP)",
+  "description": "Mixed revision quiz covering być + PPP state passive, PPP gender/number agreement, 15 common passive verbs, and passive in real-world contexts (signs, transport, descriptions).",
+  "passThreshold": 0.70,
+  "questions": [
+    {
+      "id": "b1-ch03-rev-q01",
+      "type": "multiple_choice",
+      "order": 1,
+      "sourceLesson": "b1-ch03-l01",
+      "prompt": "Sklep jest ___. (The shop is closed.) [PPP of zamknąć, masc]",
+      "options": ["zamknięty", "zamknięta", "zamknięte", "zamknięci"],
+      "correctIndex": 0,
+      "explanation": "'Sklep' (shop) is masculine → PPP masculine: 'zamknięty'. From zamknąć → zamknięty (irregular: -nąć → -nięty). Compare: 'Restauracja jest zamknięta' (f), 'Muzeum jest zamknięte' (n)."
+    },
+    {
+      "id": "b1-ch03-rev-q02",
+      "type": "multiple_choice",
+      "order": 2,
+      "sourceLesson": "b1-ch03-l01",
+      "prompt": "Okno jest ___. (The window is open.) [PPP of otworzyć, neuter]",
+      "options": ["otwarte", "otwarty", "otwarta", "otwarci"],
+      "correctIndex": 0,
+      "explanation": "'Okno' (window) is neuter → PPP neuter: 'otwarte'. From otworzyć → otwarty/otwarta/otwarte (irregular — stem change). 'Okno jest otwarte' = the window is open (state passive)."
+    },
+    {
+      "id": "b1-ch03-rev-q03",
+      "type": "multiple_choice",
+      "order": 3,
+      "sourceLesson": "b1-ch03-l02",
+      "prompt": "Wszyscy uczestnicy są ___. (All participants are invited.) [virile pl PPP of zaprosić]",
+      "options": ["zaproszeni", "zaproszone", "zaproszony", "zaproszona"],
+      "correctIndex": 0,
+      "explanation": "'Uczestnicy' (participants — mixed/male group = virile plural) → virile PPP: 'zaproszeni'. Non-virile (women-only): 'uczestniczki są zaproszone'. Virile plural -eni/-ani: zaproszeni, budowani, zrobieni."
+    },
+    {
+      "id": "b1-ch03-rev-q04",
+      "type": "multiple_choice",
+      "order": 4,
+      "sourceLesson": "b1-ch03-l02",
+      "prompt": "Drzwi są ___. (The doors are closed.) [drzwi = always plural, non-virile]",
+      "options": ["zamknięte", "zamknięty", "zamknięta", "zamknięci"],
+      "correctIndex": 0,
+      "explanation": "'Drzwi' (doors) is always plural and non-virile → non-virile PPP: 'zamknięte'. NEVER 'zamknięty' (that would be singular masculine). Key fact: drzwi has no singular form in Polish."
+    },
+    {
+      "id": "b1-ch03-rev-q05",
+      "type": "multiple_choice",
+      "order": 5,
+      "sourceLesson": "b1-ch03-l03",
+      "prompt": "Kolacja jest ___. (Dinner/supper is cooked.) [PPP of ugotować — 'kolacja' is feminine]",
+      "options": ["ugotowana", "ugotowany", "ugotowane", "ugotowani"],
+      "correctIndex": 0,
+      "explanation": "'Kolacja' (supper/dinner) is feminine → PPP feminine: 'ugotowana'. Note: 'obiad jest ugotowany' (m — lunch/dinner). 'ugotować' → ugotown-y/-a/-e (regular -ować → -owany pattern)."
+    },
+    {
+      "id": "b1-ch03-rev-q06",
+      "type": "multiple_choice",
+      "order": 6,
+      "sourceLesson": "b1-ch03-l03",
+      "prompt": "Bilety są ___. (The tickets are sold out.) [PPP of wyprzedać — bilety = pl non-virile]",
+      "options": ["wyprzedane", "wyprzedany", "wyprzedana", "wyprzedani"],
+      "correctIndex": 0,
+      "explanation": "'Bilety' (tickets, m inanimate plural) = non-virile plural → PPP non-virile: 'wyprzedane'. Virile (male people) would be 'wyprzedani' — but tickets are objects, not people. Objects are always non-virile."
+    },
+    {
+      "id": "b1-ch03-rev-q07",
+      "type": "multiple_choice",
+      "order": 7,
+      "sourceLesson": "b1-ch03-l04",
+      "prompt": "What does the sign 'ZAREZERWOWANE' mean?",
+      "options": ["RESERVED", "AVAILABLE", "CLOSED", "OCCUPIED"],
+      "correctIndex": 0,
+      "explanation": "'ZAREZERWOWANE' = RESERVED (neuter PPP of zarezerwować — signs use neuter by convention). Compare signs: ZAMKNIĘTE (CLOSED), OTWARTE (OPEN), ZAJĘTE (OCCUPIED/TAKEN), WOLNE (FREE/AVAILABLE — actually an adjective)."
+    },
+    {
+      "id": "b1-ch03-rev-q08",
+      "type": "multiple_choice",
+      "order": 8,
+      "sourceLesson": "b1-ch03-l04",
+      "prompt": "Pociąg do Warszawy jest ___ o 15 minut. (The train to Warsaw is delayed by 15 minutes.) ['pociąg' = m]",
+      "options": ["opóźniony", "opóźniona", "opóźnione", "opóźnieni"],
+      "correctIndex": 0,
+      "explanation": "'Pociąg' (train) is masculine → PPP masculine: 'opóźniony'. From opóźnić → opóźnion-y. Common transport passive: lot odwołany (m), kasa zamknięta (f), metro opóźnione (n)."
+    },
+    {
+      "id": "b1-ch03-rev-q09",
+      "type": "vocab_translation",
+      "order": 9,
+      "sourceVocab": "b1-ch03-vocab",
+      "prompt": "What is the PPP of 'znaleźć' (to find)?",
+      "options": ["znaleziony/znaleziona/znalezione", "znajdnięty/znajdnięta/znajdnięte", "znalazły/znalazła/znalazłe", "znajdywany/znajdywana/znajdywane"],
+      "correctIndex": 0,
+      "explanation": "From 'znaleźć' → PPP: 'znaleziony/znaleziona/znalezione' (irregular — stem change: znaleź- → znalezion-). 'Klucz jest znaleziony' = the key is found. This is one of the most common irregular PPPs — must be memorized."
+    },
+    {
+      "id": "b1-ch03-rev-q10",
+      "type": "multiple_choice",
+      "order": 10,
+      "sourceLesson": "b1-ch03-l01",
+      "prompt": "Which construction expresses a STATE? (The report is done — it describes the current situation.)",
+      "options": ["Raport jest zrobiony.", "Raport zrobi się.", "Raport zostanie zrobiony.", "Raport zrobiła sekretarka."],
+      "correctIndex": 0,
+      "explanation": "'Raport jest zrobiony' = być + PPP → STATE passive (what IS the situation right now). 'Zostanie zrobiony' = zostać + PPP → EVENT passive (the action of it being done — Ch4). 'Zrobi się' = reflexive. 'Zrobiła sekretarka' = active voice."
+    },
+    {
+      "id": "b1-ch03-rev-q11",
+      "type": "multiple_choice",
+      "order": 11,
+      "sourceLesson": "b1-ch03-l03",
+      "prompt": "Which PPP form is INCORRECT for 'wysłać'?",
+      "options": ["wysłaniony", "wysłany", "wysłana", "wysłane"],
+      "correctIndex": 0,
+      "explanation": "'Wysłaniony' does NOT exist — it is wrong! From wysłać → wysłan-y/-a/-e (Pattern 4: -ać with -an stem). The -iony suffix applies to -ić/-yć verbs (robić → robiony). Never mix patterns: wysłać → wysłany (not *wysłaniony)."
+    },
+    {
+      "id": "b1-ch03-rev-q12",
+      "type": "multiple_choice",
+      "order": 12,
+      "sourceLesson": "b1-ch03-l02",
+      "prompt": "Projekt jest skończony i raport jest ___. (The project is finished and the report is written.) ['raport' = m]",
+      "options": ["napisany", "napisana", "napisane", "napisani"],
+      "correctIndex": 0,
+      "explanation": "'Raport' (report) is masculine → PPP masculine: 'napisany'. Both 'projekt' and 'raport' are masculine → both take masculine PPP forms: 'Projekt jest skończony i raport jest napisany.' Full sentence: perfect coordination of two state passives."
+    }
+  ]
+}

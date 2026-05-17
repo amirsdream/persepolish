@@ -1,0 +1,71 @@
+{
+  "id": "a1-ch01-l02",
+  "level": "a1",
+  "chapter": 1,
+  "lessonOrder": 2,
+  "title": "Verb być — plural",
+  "grammarPoint": "Present tense of być: jesteśmy, jesteście, są",
+  "explanation": {
+    "text": "The plural forms of **być** (to be) are used when talking about groups. Note that the third person plural **są** is used for both mixed groups and groups of women.\n\n| Person | Polish | English |\n|--------|--------|---------|\n| 1st pl. (my) | **jesteśmy** | we are |\n| 2nd pl. (wy) | **jesteście** | you (all) are |\n| 3rd pl. (oni/one) | **są** | they are |\n\nThe distinction between *oni* (mixed or male group) and *one* (all-female group) applies only in past tense — in present tense both use **są**.",
+    "notes": [
+      "jesteśmy = we are (1st person plural — includes the speaker)",
+      "jesteście = you are, addressing a group",
+      "są is used for all third-person plural (they) regardless of gender in present tense",
+      "Negation: nie jesteśmy, nie jesteście, nie są"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a1-ch01-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Choose the correct form: My ___ Polakami.",
+      "options": ["jesteśmy", "jesteście", "są", "jest"],
+      "correctIndex": 0,
+      "explanation": "First person plural (my = we) uses jesteśmy. 'My jesteśmy Polakami' = We are Poles."
+    },
+    {
+      "id": "a1-ch01-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Complete: Oni ___ studentami.",
+      "answer": "są",
+      "acceptableAnswers": ["są"],
+      "hint": "Third person plural — same form for all genders in present tense"
+    },
+    {
+      "id": "a1-ch01-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a1/ch01/a1-ch01-l02-ex03.mp3",
+      "options": ["Jesteśmy gotowi.", "Jesteście gotowi.", "Są gotowi.", "Jest gotowy."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Jesteśmy gotowi.' — We are ready. First person plural jesteśmy."
+    },
+    {
+      "id": "a1-ch01-l02-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: You (all) are students.",
+      "wordBank": ["Wy", "jesteście", "jesteśmy", "są", "studentami", "studentem"],
+      "correctSequences": [
+        ["jesteście", "studentami"],
+        ["Wy", "jesteście", "studentami"]
+      ],
+      "explanation": "'Jesteście studentami' = You (all) are students. Wy (you plural) is optional."
+    },
+    {
+      "id": "a1-ch01-l02-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "Anna i Maria ___ nauczycielkami.",
+      "options": ["są", "jest", "jesteśmy", "jesteście"],
+      "correctIndex": 0,
+      "explanation": "Anna i Maria (two people = they) take the third person plural form są. 'Są nauczycielkami' = They are teachers."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 8,
+  "tags": ["verb-byc", "present-tense", "plural", "a1-core"],
+  "prerequisites": ["a1-ch01-l01"]
+}

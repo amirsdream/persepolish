@@ -1,0 +1,130 @@
+{
+  "id": "b1-ch06-revision",
+  "level": "b1",
+  "chapter": 6,
+  "title": "Chapter 6 Revision — Reported Speech",
+  "description": "Mixed revision quiz covering że-clauses (no tense shift), indirect questions (czy/question words), reported commands (żeby/kazać), and hearsay discourse markers.",
+  "passThreshold": 0.70,
+  "questions": [
+    {
+      "id": "b1-ch06-rev-q01",
+      "type": "multiple_choice",
+      "order": 1,
+      "sourceLesson": "b1-ch06-l01",
+      "prompt": "Direct: 'Jestem zmęczona.' → Reported: Powiedziała, że ___ zmęczona. [no tense shift!]",
+      "options": ["jest", "była", "będzie", "byłaby"],
+      "correctIndex": 0,
+      "explanation": "No tense shift in Polish! Direct: 'Jestem' (present) → Reported: 'że jest' (stays present). Unlike English ('she said she WAS tired'), Polish: 'Powiedziała, że jest zmęczona.' Pronoun shifts: ja→ona, but tense stays the same."
+    },
+    {
+      "id": "b1-ch06-rev-q02",
+      "type": "multiple_choice",
+      "order": 2,
+      "sourceLesson": "b1-ch06-l01",
+      "prompt": "Which sentence correctly reports: 'Pojadę do Krakowa.'? [Marek said it]",
+      "options": ["Marek powiedział, że pojedzie do Krakowa.", "Marek powiedział, że pojechał do Krakowa.", "Marek powiedział, że jadę do Krakowa.", "Marek powiedział, żeby pojechał do Krakowa."],
+      "correctIndex": 0,
+      "explanation": "'Marek powiedział, że pojedzie do Krakowa.' — Marek said he would go to Kraków. Direct: 'Pojadę' (1sg future) → Reported: 'że pojedzie' (3sg future — pronoun shifts, tense stays future!). 'Pojechał' = past (wrong tense). 'Jadę' = I am going (wrong person). 'Żeby' = command (not a statement)."
+    },
+    {
+      "id": "b1-ch06-rev-q03",
+      "type": "multiple_choice",
+      "order": 3,
+      "sourceLesson": "b1-ch06-l02",
+      "prompt": "Direct: 'Czy masz czas?' → Indirect: Zapytał, ___ masz czas.",
+      "options": ["czy", "że", "żeby", "jak"],
+      "correctIndex": 0,
+      "explanation": "Yes/no questions → 'czy' in indirect speech: 'Zapytał, czy masz czas.' = He asked whether you have time. 'Że' = that (for statements). 'Żeby' = for commands/wishes. 'Jak' = how (for manner questions). Yes/no → always 'czy'."
+    },
+    {
+      "id": "b1-ch06-rev-q04",
+      "type": "multiple_choice",
+      "order": 4,
+      "sourceLesson": "b1-ch06-l02",
+      "prompt": "Direct: 'Dlaczego płaczesz?' → Indirect: Zapytał, ___ płakała.",
+      "options": ["dlaczego", "że", "czy", "żeby"],
+      "correctIndex": 0,
+      "explanation": "Wh-question (why?) → question word 'dlaczego' becomes conjunction: 'Zapytał, dlaczego płakała.' = He asked why she was crying. 'Płakała' = she cried (past — gender-shifted: ty → ona). No tense shift: past stays past."
+    },
+    {
+      "id": "b1-ch06-rev-q05",
+      "type": "multiple_choice",
+      "order": 5,
+      "sourceLesson": "b1-ch06-l03",
+      "prompt": "Reported command (he told me to leave): Powiedział, ___ wyszedł. [I, male]",
+      "options": ["żebym", "żebyś", "żeby", "że"],
+      "correctIndex": 0,
+      "explanation": "'Żebym' = reported command/wish to 1st person (me): 'Powiedział, żebym wyszedł.' = He told me to leave. 'Żebyś' = to you (2sg). 'Żeby' = to him/her (3sg). 'Że' = that (for statements, not commands). He told me → żebym + l-form of the action."
+    },
+    {
+      "id": "b1-ch06-rev-q06",
+      "type": "multiple_choice",
+      "order": 6,
+      "sourceLesson": "b1-ch06-l03",
+      "prompt": "She ordered us to submit the report. [kazać, nam, złożyć]",
+      "options": ["Kazała nam złożyć raport.", "Kazała nas złożyć raport.", "Prosiła nam złożyć raport.", "Powiedziała nam złożyć raport."],
+      "correctIndex": 0,
+      "explanation": "'Kazać + dative + infinitive': 'Kazała nam złożyć raport.' 'Nam' = dative of 'my' (to us). 'Kazała' = she ordered (3sg f past of kazać). 'Złożyć' = infinitive (to submit). 'Nas' = accusative (wrong case for kazać — dative required). 'Prosiła' = she asked (politer; prosić also takes dative: prosiła nas/nam?)."
+    },
+    {
+      "id": "b1-ch06-rev-q07",
+      "type": "multiple_choice",
+      "order": 7,
+      "sourceLesson": "b1-ch06-l04",
+      "prompt": "What does 'podobno' signal in a sentence?",
+      "options": ["The speaker heard it but is not certain (hearsay)", "The speaker is absolutely certain", "The information is from a textbook", "It's a formal official statement"],
+      "correctIndex": 0,
+      "explanation": "'Podobno' = apparently/reportedly — signals that the speaker heard the information from someone else and is not personally certain. 'Podobno ona jest chora' = Apparently she's ill (I heard this). Contrast with direct knowledge: 'Ona jest chora' (I know she's ill). Hearsay markers: podobno, ponoć, jakoby."
+    },
+    {
+      "id": "b1-ch06-rev-q08",
+      "type": "vocab_translation",
+      "order": 8,
+      "sourceVocab": "b1-ch06-vocab",
+      "prompt": "What does 'zaprzeczyć że' mean?",
+      "options": ["to deny that", "to confirm that", "to ask that", "to add that"],
+      "correctIndex": 0,
+      "explanation": "'Zaprzeczyć że' = to deny that. 'Zaprzeczył, że to zrobił.' = He denied that he did it. Contrast: 'potwierdzić że' = to confirm that. Both are opposite speech acts used in reported speech. 'Zaprzeczyć + że' or 'zaprzeczyć + dative' (zaprzeczył zarzutom = denied the accusations)."
+    },
+    {
+      "id": "b1-ch06-rev-q09",
+      "type": "multiple_choice",
+      "order": 9,
+      "sourceLesson": "b1-ch06-l01",
+      "prompt": "Choose the correct reported speech for a NEWS report: 'The minister announced he is resigning.'",
+      "options": ["Minister oznajmił, że podaje się do dymisji.", "Minister oznajmił, żeby podał się do dymisji.", "Minister oznajmił, czy podaje się do dymisji.", "Minister oznajmił, że podał się do dymisji."],
+      "correctIndex": 0,
+      "explanation": "Statement about current/future action → 'że + present/future': 'Minister oznajmił, że podaje się do dymisji.' = The minister announced he is resigning. 'Podaje się' = is resigning (present — no tense shift). 'Podał się' = past (would mean he already resigned). 'Żeby' = command. 'Czy' = question."
+    },
+    {
+      "id": "b1-ch06-rev-q10",
+      "type": "multiple_choice",
+      "order": 10,
+      "sourceLesson": "b1-ch06-l02",
+      "prompt": "Complete: Nie wiem, ___ to kosztuje. (I don't know how much it costs.)",
+      "options": ["ile", "co", "jak", "że"],
+      "correctIndex": 0,
+      "explanation": "'Nie wiem, ile to kosztuje.' = I don't know how much it costs. 'Ile' = how much (indirect wh-question). 'Co' = what (different question). 'Jak' = how (manner, not quantity). 'Że' = that (for statements, not questions). Question word stays the same in indirect speech."
+    },
+    {
+      "id": "b1-ch06-rev-q11",
+      "type": "multiple_choice",
+      "order": 11,
+      "sourceLesson": "b1-ch06-l03",
+      "prompt": "Mom (politely) asked me (male) to clean my room. [prosić, żebym posprzątał]",
+      "options": ["Mama prosiła, żebym posprzątał pokój.", "Mama kazała, że posprzątam pokój.", "Mama prosiła, żeby posprzątał pokój.", "Mama powiedziała, żebyś posprzątał pokój."],
+      "correctIndex": 0,
+      "explanation": "'Mama prosiła, żebym posprzątał pokój.' — Mom asked me to clean [my] room. 'Prosiła' = she asked (polite). 'Żebym' = to me (1sg). 'Posprzątał' = l-form m (male being asked). 'Kazała, że' = wrong (że for statements, not commands). 'Żeby posprzątał' = to him/3rd person (not me). 'Żebyś' = to you."
+    },
+    {
+      "id": "b1-ch06-rev-q12",
+      "type": "multiple_choice",
+      "order": 12,
+      "sourceLesson": "b1-ch06-l04",
+      "prompt": "Which correctly mixes reported speech types: 'She said she was tired and asked if we could leave.'",
+      "options": ["Powiedziała, że jest zmęczona, i zapytała, czy możemy wyjść.", "Powiedziała, żeby była zmęczona, i zapytała, że możemy wyjść.", "Powiedziała, że jest zmęczona, i kazała nam wyjść.", "Powiedziała, czy jest zmęczona, i że możemy wyjść."],
+      "correctIndex": 0,
+      "explanation": "'Powiedziała, że jest zmęczona, i zapytała, czy możemy wyjść.' — Two reported speech types: (1) 'że jest zmęczona' = statement (że + present, no shift). (2) 'czy możemy wyjść' = yes/no question (czy). Correctly combines statement + question reporting."
+    }
+  ]
+}

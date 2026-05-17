@@ -1,0 +1,89 @@
+{
+  "id": "a1-grammar-005",
+  "level": "a1",
+  "order": 5,
+  "title": "Genitive Case — Negation & Possession",
+  "explanation": "The genitive case (dopełniacz) is used after negation (nie + verb), to express possession (belonging), and after certain prepositions like 'z' (from/with) and 'do' (to/into). When negating a verb that would normally take the accusative, the direct object switches to the genitive. Masculine animate genitive: -a (kot → kota). Masculine inanimate: -u or -a. Feminine: -y or -i (kawa → kawy). Neuter: -a (okno → okna).",
+  "examples": [
+    {
+      "polish": "Nie mam psa.",
+      "english": "I don't have a dog.",
+      "note": "negation switches accusative to genitive: pies → psa"
+    },
+    {
+      "polish": "To jest książka Anny.",
+      "english": "This is Anna's book.",
+      "note": "possession — Anna → Anny (feminine genitive)"
+    },
+    {
+      "polish": "Jestem z Polski.",
+      "english": "I am from Poland.",
+      "note": "preposition 'z' (from) takes genitive: Polska → Polski"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "id": "a1-g005-ex01",
+      "prompt": "Which sentence correctly expresses 'I don't have a cat' (kot = cat, masculine animate)?",
+      "options": [
+        "Nie mam kota.",
+        "Nie mam kot.",
+        "Nie mam kotu.",
+        "Nie mam kotem."
+      ],
+      "correct_index": 0,
+      "explanation": "After negation with 'nie', the object shifts from accusative to genitive. Masculine animate genitive of 'kot' is 'kota'."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-g005-ex02",
+      "prompt": "Complete: 'I don't have coffee.' (kawa = coffee, feminine — genitive: kawy)",
+      "sentence_template": "Nie mam ___.",
+      "accepted_answers": ["kawy"],
+      "explanation": "Feminine nouns form the genitive by changing -a to -y (or -i after soft consonants): kawa → kawy."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-g005-ex03",
+      "prompt": "How do you express possession: 'This is Piotr's house' (dom = house)?",
+      "options": [
+        "To jest dom Piotra.",
+        "To jest dom Piotr.",
+        "To jest dom Piotrowi.",
+        "To jest dom Piotrem."
+      ],
+      "correct_index": 0,
+      "explanation": "Possession is expressed with the genitive. Male name 'Piotr' forms genitive as 'Piotra'. The owned item precedes the owner's name in genitive."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-g005-ex04",
+      "prompt": "Complete: 'I am from Poland.' (Polska → Polski in genitive)",
+      "sentence_template": "Jestem z ___.",
+      "accepted_answers": ["Polski"],
+      "explanation": "The preposition 'z' (from) requires the genitive case. 'Polska' (Poland) → 'Polski' in the genitive."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-g005-ex05",
+      "prompt": "Which sentence uses the genitive correctly?",
+      "options": [
+        "Nie ma mleka.",
+        "Nie ma mleko.",
+        "Nie ma mlekiem.",
+        "Nie ma mleku."
+      ],
+      "correct_index": 0,
+      "explanation": "'Mleko' (milk) is neuter. Genitive of neuter nouns ending in -o is formed by changing -o to -a: mleko → mleka. 'Nie ma' (there is no / he/she doesn't have) always takes the genitive."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-g005-ex06",
+      "prompt": "Complete: 'I don't have time.' (czas = time, masculine inanimate — genitive: czasu)",
+      "sentence_template": "Nie mam ___.",
+      "accepted_answers": ["czasu"],
+      "explanation": "Masculine inanimate nouns often form the genitive with -u: czas → czasu. Negation requires the genitive."
+    }
+  ]
+}

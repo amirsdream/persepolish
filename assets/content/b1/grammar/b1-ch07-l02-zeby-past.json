@@ -1,0 +1,70 @@
+{
+  "id": "b1-ch07-l02",
+  "level": "b1",
+  "chapter": 7,
+  "lessonOrder": 2,
+  "title": "Żeby + Past Subjunctive (Different Subjects)",
+  "grammarPoint": "żeby + l-form (past tense form) when subjects differ: Mówię wolno, żebyś rozumiał — so that you understand (I speak, you understand = different subjects)",
+  "explanation": {
+    "text": "When the subject of the main clause and the purpose/desire clause are **different**, use **żeby + l-form** (the past tense form, which acts as a subjunctive).\n\n## The Key Rule: Different Subjects → żeby + l-form\n\n| Situation | Form | Example |\n|-----------|------|---------|\n| Same subject | żeby + infinitive | Idę, **żeby kupić** (I go in order to buy) |\n| Different subjects | żeby + l-form | Idę, **żebyś kupił** (I go so that you buy) |\n\n## The żeby + l-form Paradigm\n\n| Person | Form | Example |\n|--------|------|---------|\n| żebym | I (m) | Chcę, **żebyś wiedział** [not żebym — you know!] |\n| żebyś | you | Mówię, **żebyś zrozumiał**. |\n| żeby | he/she | Chcę, **żeby on to zrobił**. |\n| żebyśmy | we | Chciał, **żebyśmy zostali**. |\n| żebyście | you pl | Prosiłam, **żebyście wrócili**. |\n| żeby | they | Chcę, **żeby oni przyszli**. |\n\nRemember: **gender of l-form agrees with the subordinate subject**:\n- żebyś zrozumiał (you, male)\n- żebyś zrozumiała (you, female)\n- żeby on zrobił (he)\n- żeby ona zrobiła (she)\n\n## Examples: Purpose with Different Subjects\n\n**Mówię wolno, żebyś rozumiał.** (I speak slowly so that you [m] understand.)\n**Kupiłam prezent, żeby on był szczęśliwy.** (I bought a present so that he would be happy.)\n**Wyszłam, żebyście mogli porozmawiać.** (I left so that you [pl] could talk.)\n**Zamknęłam okno, żeby dzieci nie zmarzły.** (I closed the window so that the children wouldn't get cold.)\n\n## Desire Clauses with Different Subjects\n\nAfter **chcieć** (to want), when the action is by someone else:\n\n- Chcę, **żebyś przyszedł**. (I want you [m] to come.)\n- Chcę, **żeby ona zadzwoniła**. (I want her to call.)\n- Mama chce, **żebyśmy wrócili** wcześnie. (Mom wants us to come back early.)\n- Nie chcę, **żebyś był smutny**. (I don't want you [m] to be sad.)\n\n## żeby vs że After Verbs of Wanting\n\n| Construction | Meaning | Example |\n|-------------|---------|--------|\n| Chcę, żebyś zrobił. | I want you to do (desire, different subjects) | Different subjects → żeby + l-form |\n| Chcę, żeby to było zrobione. | I want this to be done (state) | Passive state |\n| Myślę, że to zrobisz. | I think you will do it (belief/prediction) | Belief → że |\n\n**Key difference**: żeby = desire/purpose/command; że = belief/statement\n\n## Prosić + żeby (requests)\n\nAfter **prosić** (to ask/request), always use **żeby + l-form**:\n\n- Proszę, **żebyś mi pomógł**. (I'm asking you [m] to help me.)\n- Prosiłam, **żeby on nie przychodził**. (I asked him not to come.)\n- Proszę, **żebyście byli cicho**. (I'm asking you [pl m] to be quiet.)",
+    "notes": [
+      "The critical choice: same subject → żeby + infinitive; different subjects → żeby + l-form. This distinction is fundamental to advanced Polish.",
+      "The l-form in żeby clauses agrees with the SUBORDINATE CLAUSE subject (not the main clause subject): 'Chcę, żebyś przyszedł' — the l-form 'przyszedł' agrees with 'ty' (you, male).",
+      "After chcieć, prosić, mówić (commanding), życzyć, marzyć + żeby — always with l-form when subjects differ.",
+      "Common error: 'Chcę, żeby ty przyjdziesz' = WRONG (future tense after żeby is incorrect). Correct: 'Chcę, żebyś przyszedł' (l-form, subjunctive)."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch07-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "I speak slowly so that you [m] understand. [different subjects: I speak / you understand]",
+      "options": ["Mówię wolno, żebyś rozumiał.", "Mówię wolno, żeby rozumieć.", "Mówię wolno, żebym rozumiał.", "Mówię wolno, że rozumiesz."],
+      "correctIndex": 0,
+      "explanation": "Different subjects (I speak / you understand) → żeby + l-form: 'Mówię wolno, żebyś rozumiał.' 'Żebyś' = 2sg + 'rozumiał' = m l-form. 'Żeby rozumieć' = same subject form (infinitive). 'Żebym rozumiał' = so that I understand (1sg — wrong person). 'Że rozumiesz' = that you understand (statement, not purpose)."
+    },
+    {
+      "id": "b1-ch07-l02-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "I want her to call me. [chcieć + żeby + l-form f 3sg]",
+      "options": ["Chcę, żeby zadzwoniła do mnie.", "Chcę, żeby zadzwonić do mnie.", "Chcę, żebyś zadzwoniła do mnie.", "Chcę, że zadzwoni do mnie."],
+      "correctIndex": 0,
+      "explanation": "I want HER (different subject) → żeby + l-form: 'Chcę, żeby zadzwoniła do mnie.' 'Żeby' = 3sg (no personal suffix for 3rd person). 'Zadzwoniła' = l-form f (she, female). 'Zadzwonić' = infinitive (wrong — different subjects). 'Żebyś' = you (2sg). 'Że zadzwoni' = I think she will call (not desire)."
+    },
+    {
+      "id": "b1-ch07-l02-ex03",
+      "type": "fill_blank",
+      "order": 3,
+      "prompt": "Mom wants us (mixed group) to come back early. → Mama chce, ___ wcześnie wrócili.",
+      "answer": "żebyśmy",
+      "acceptableAnswers": ["żebyśmy"],
+      "explanation": "'Mama chce, żebyśmy wcześnie wrócili.' — Mom wants us to come back early. Different subjects (mama/my). 'Żebyśmy' = 1pl marker + 'wrócili' = l-form virile pl. 'Wrócili' = they/we (virile/mixed group) returned. If women-only: 'żebyśmy wcześnie wróciły'."
+    },
+    {
+      "id": "b1-ch07-l02-ex04",
+      "type": "dictation_mc",
+      "order": 4,
+      "audioAsset": "assets/audio/b1/ch07/b1-ch07-l02-ex04.mp3",
+      "options": ["Kupiłam prezent, żeby on był szczęśliwy.", "Kupiłam prezent, żeby być szczęśliwa.", "Kupiłam prezent, żebyś był szczęśliwy.", "Kupiłam prezent, że on jest szczęśliwy."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Kupiłam prezent, żeby on był szczęśliwy.' — I (f) bought a present so that he would be happy. 'Kupiłam' = I bought (f past). 'Żeby on był' = so that he (3sg m) would be. 'Był' = l-form m of być. Different subjects (I bought / he is happy) → żeby + l-form."
+    },
+    {
+      "id": "b1-ch07-l02-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: I ask you (male) to be quiet. [prosić + żebyś, być cicho]",
+      "wordBank": ["Proszę", "Proszę", "żebyś", "żebym", "był", "była", "cicho", "cicha", "."],
+      "correctSequences": [
+        ["Proszę", "żebyś", "był", "cicho", "."]
+      ],
+      "explanation": "'Proszę, żebyś był cicho.' — I'm asking you (male) to be quiet. 'Proszę' = I ask/request (present). 'Żebyś' = 2sg (you). 'Był' = l-form m (male subject — you, male). 'Cicho' = quietly/silent. Different subjects (I ask / you be quiet) → żeby + l-form matching the person commanded."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 13,
+  "tags": ["żeby", "b1-core", "subjunctive", "l-form", "different-subjects"],
+  "prerequisites": ["b1-ch07-l01"]
+}

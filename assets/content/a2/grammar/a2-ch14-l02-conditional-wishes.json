@@ -1,0 +1,70 @@
+{
+  "id": "a2-ch14-l02",
+  "level": "a2",
+  "chapter": 14,
+  "lessonOrder": 2,
+  "title": "Conditional — Wishes & Preferences",
+  "grammarPoint": "Expressing wishes with chciałbym/chciałabym + infinitive; wolałbym/wolałabym + infinitive; wolę + infinitive",
+  "explanation": {
+    "text": "The conditional is widely used for **polite wishes** and **preferences**.\n\n**Chcieć (to want) — conditional:**\n\n| Person | Masculine | Feminine |\n|--------|-----------|----------|\n| ja | **chciałbym** | **chciałabym** |\n| ty | **chciałbyś** | **chciałabyś** |\n| on/ona | **chciałby** | **chciałaby** |\n\n**Chciałbym/Chciałabym + infinitive** = I would like to...\n- **Chciałbym** zamówić kawę. = I would like to order a coffee. (m)\n- **Chciałabym** pojechać do Paryża. = I would like to go to Paris. (f)\n\n**Woleć (to prefer) — conditional:**\n\n| Person | Masculine | Feminine |\n|--------|-----------|----------|\n| ja | **wolałbym** | **wolałabym** |\n| ty | **wolałbyś** | **wolałabyś** |\n| on/ona | **wolałby** | **wolałaby** |\n\n**Wolałbym + infinitive** = I would prefer to...\n- **Wolałbym** zostać w domu. = I would prefer to stay at home.\n- **Wolałabym** herbatę niż kawę. = I would prefer tea to coffee.\n\n**In a restaurant / shop / formal context:**\n- Chciałbym poprosić o... = I would like to ask for...\n- Czy mógłbym/mogłabym...? = Could I...?",
+    "notes": [
+      "Chciałbym (m) / chciałabym (f) = the most polite way to say 'I would like'.",
+      "In restaurants/shops: 'Chciałbym zamówić...' is more polite than 'Chcę...'.",
+      "Wolałbym + infinitive OR + accusative noun: Wolałbym herbatę.",
+      "Wolałbym...niż... = I would prefer...rather than... (comparison with 'niż')"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch14-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "___ zamówić stolik na dwie osoby. (I (f) would like to book a table for two.) [chcieć, ja f conditional]",
+      "options": ["Chciałabym", "Chciałbym", "Chcę", "Chciałam"],
+      "correctIndex": 0,
+      "explanation": "Female speaker → 'chciałabym' (f conditional). 'Chciałbym' = masculine. 'Chcę' = present (less polite). 'Chciałam' = past (wanted, not conditional)."
+    },
+    {
+      "id": "a2-ch14-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "___ pojechać nad morze niż w góry. (I (m) would prefer to go to the sea rather than to the mountains.)",
+      "answer": "Wolałbym",
+      "acceptableAnswers": ["Wolałbym"],
+      "hint": "Masculine preference conditional: wolałbym (woleć → wolał + bym)"
+    },
+    {
+      "id": "a2-ch14-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a2/ch14/a2-ch14-l02-ex03.mp3",
+      "options": ["Chciałbym poprosić o rachunek.", "Chciałam poprosić o rachunek.", "Chcę prosić o rachunek.", "Proszę o rachunek."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Chciałbym poprosić o rachunek.' — I (m) would like to ask for the bill. 'Chciałbym' + infinitive 'poprosić' = polite conditional request."
+    },
+    {
+      "id": "a2-ch14-l02-ex04",
+      "type": "multiple_choice",
+      "order": 4,
+      "prompt": "She would prefer tea. (wolałaby + noun) [woleć, ona conditional]",
+      "options": ["Wolałaby herbatę.", "Wolałby herbatę.", "Woli herbatę.", "Wolała herbatę."],
+      "correctIndex": 0,
+      "explanation": "'Woleć' feminine conditional ona: wolałaby. 'Wolałby' = masculine. 'Woli' = present (she prefers). 'Wolała' = past (she preferred)."
+    },
+    {
+      "id": "a2-ch14-l02-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: I (m) would like to order a soup and a salad.",
+      "wordBank": ["Chciałbym", "Chciałabym", "zamówić", "zamówiłem", "zupę", "zupy", "i", "sałatkę", "sałatki"],
+      "correctSequences": [
+        ["Chciałbym", "zamówić", "zupę", "i", "sałatkę"]
+      ],
+      "explanation": "'Chciałbym zamówić zupę i sałatkę.' — I (m) would like to order a soup and a salad. 'Chciałbym' + infinitive 'zamówić'. Accusative objects: zupę (f acc) + sałatkę (f acc)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["conditional", "wishes", "politeness", "a2-core"],
+  "prerequisites": ["a2-ch14-l01"]
+}

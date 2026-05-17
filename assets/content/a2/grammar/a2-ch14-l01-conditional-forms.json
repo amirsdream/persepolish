@@ -1,0 +1,70 @@
+{
+  "id": "a2-ch14-l01",
+  "level": "a2",
+  "chapter": 14,
+  "lessonOrder": 1,
+  "title": "Conditional Mood — Forms",
+  "grammarPoint": "Conditional: past l-form + by + personal ending (robiłbym/robiłbyś/robiłby; robiłabym/robiłabyś/robiłaby)",
+  "explanation": {
+    "text": "The Polish **conditional mood** (tryb warunkowy) is formed from the past l-form + **by** + personal ending.\n\n**Formula:** past l-form + **by** + personal ending\n\n**Masculine singular conditional:**\n\n| Person | Form | Example (robić) |\n|--------|------|----------------|\n| ja (m) | l-form + **bym** | robił**bym** |\n| ty (m) | l-form + **byś** | robił**byś** |\n| on | l-form + **by** | robił**by** |\n\n**Feminine singular conditional:**\n\n| Person | Form | Example (robić) |\n|--------|------|----------------|\n| ja (f) | l-form + **bym** | robiła**bym** |\n| ty (f) | l-form + **byś** | robiła**byś** |\n| ona | l-form + **by** | robiła**by** |\n\n**Plural conditional:**\n\n| Person | Form | Example |\n|--------|------|--------|\n| my (m-pers) | -liby**śmy** | robiliby**śmy** |\n| my (f) | -łyby**śmy** | robiłyby**śmy** |\n| wy (m-pers) | -liby**ście** | robiliby**ście** |\n| oni | -liby | robiliby |\n| one | -łyby | robiłyby |\n\n**Usage — hypothetical/unreal situations:**\n- **Zrobiłbym** to, ale nie mam czasu. = I would do it, but I don't have time.\n- Co **byś** chciał jeść? = What would you like to eat?\n- Ona **pojechałaby** do Paryża. = She would go to Paris.",
+    "notes": [
+      "Conditional = past l-form + by + ending: robiłbym, robiłabyś, robiłby.",
+      "The 'by' particle can be written together with the l-form or moved in the sentence.",
+      "Conditional is used for: hypotheticals, wishes, polite requests.",
+      "Masculine: robiłbym. Feminine: robiłabym. The gender comes from the l-form, not 'by'."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch14-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "___ do Włoch, gdybym miał pieniądze. (I (m) would go to Italy if I had money.) [jechać, ja m conditional]",
+      "options": ["Pojechałbym", "Pojadę", "Pojechałem", "Pojechałabym"],
+      "correctIndex": 0,
+      "explanation": "'Conditional: jechać → pojechał + bym = pojechałbym (m). 'Pojechałabym' is feminine. 'Gdybym miał' = if I had (conditional clause)."
+    },
+    {
+      "id": "a2-ch14-l01-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Ona ___ tam, ale jest zbyt zmęczona. (She would go there, but she's too tired.) [pójść, ona conditional]",
+      "answer": "poszłaby",
+      "acceptableAnswers": ["poszłaby"],
+      "hint": "pójść → szła (f l-form) + by = poszłaby"
+    },
+    {
+      "id": "a2-ch14-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a2/ch14/a2-ch14-l01-ex03.mp3",
+      "options": ["Co byś chciał zjeść?", "Co chciałeś zjeść?", "Co chcesz zjeść?", "Co będziesz chciał zjeść?"],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Co byś chciał zjeść?' — What would you (m) like to eat? 'Byś chciał' = conditional of 'chcieć', ty m. Note: 'by' moved before the l-form."
+    },
+    {
+      "id": "a2-ch14-l01-ex04",
+      "type": "multiple_choice",
+      "order": 4,
+      "prompt": "Which is the correct feminine conditional for 'I (f) would buy that dress'? [kupić]",
+      "options": ["Kupiłabym tę sukienkę.", "Kupiłbym tę sukienkę.", "Kupię tę sukienkę.", "Kupiłam tę sukienkę."],
+      "correctIndex": 0,
+      "explanation": "Feminine conditional ja: 'kupiła' (f l-form) + bym = kupiłabym. 'Kupiłbym' is masculine. 'Kupię' = perfective future. 'Kupiłam' = past."
+    },
+    {
+      "id": "a2-ch14-l01-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: We (m-pers) would help you, but we don't have time.",
+      "wordBank": ["Pomoglibyśmy", "Pomogłybyśmy", "ci", "tobie", "ale", "nie", "mamy", "mamy", "czasu", "czas"],
+      "correctSequences": [
+        ["Pomoglibyśmy", "ci", "ale", "nie", "mamy", "czasu"]
+      ],
+      "explanation": "'Pomoglibyśmy ci, ale nie mamy czasu.' — We (m-pers) would help you, but we don't have time. 'Pomagać → pomóc' → pomoglibyśmy (virile plural conditional). 'Nie mamy czasu' = we don't have time (genitive after negation)."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 12,
+  "tags": ["conditional", "mood", "a2-core"],
+  "prerequisites": ["a2-ch11-l01", "a2-ch11-l02", "a2-ch11-l03"]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "a1-ch09-revision",
+  "level": "a1",
+  "chapter": 9,
+  "title": "Chapter 9 Revision: Health & Body",
+  "description": "Mixed questions covering dative case, reflexive verbs się, boleć construction, modal verbs, and health vocabulary.",
+  "passThreshold": 0.70,
+  "questions": [
+    {
+      "id": "a1-ch09-rev-q01",
+      "type": "multiple_choice",
+      "order": 1,
+      "sourceLesson": "a1-ch09-l01",
+      "prompt": "Daję prezent ___ (I give a gift to my friend — m). [przyjaciel → dative]",
+      "options": ["przyjacielowi", "przyjaciela", "przyjacielem", "przyjacielu"],
+      "correctIndex": 0,
+      "explanation": "'Przyjaciel' → dative 'przyjacielowi' (-owi). Indirect object (to whom) = dative."
+    },
+    {
+      "id": "a1-ch09-rev-q02",
+      "type": "multiple_choice",
+      "order": 2,
+      "sourceLesson": "a1-ch09-l01",
+      "prompt": "Pomagam ___ (I help my sister). [siostra → dative]",
+      "options": ["siostrze", "siostry", "siostrę", "siostrą"],
+      "correctIndex": 0,
+      "explanation": "'Siostra' → dative 'siostrze'. Feminine -a nouns: dative -ie/-e (with softening). 'Pomagam siostrze.'"
+    },
+    {
+      "id": "a1-ch09-rev-q03",
+      "type": "multiple_choice",
+      "order": 3,
+      "sourceLesson": "a1-ch09-l02",
+      "prompt": "Jak ___ czujesz? (How do you feel?)",
+      "options": ["się", "siebie", "sobie", "swój"],
+      "correctIndex": 0,
+      "explanation": "'Jak się czujesz?' = How do you feel? Reflexive particle 'się' — same for all persons."
+    },
+    {
+      "id": "a1-ch09-rev-q04",
+      "type": "vocab_translation",
+      "order": 4,
+      "sourceVocab": "a1-ch09-vocab",
+      "prompt": "What does 'gorączka' mean?",
+      "options": ["headache", "cold", "fever / temperature", "allergy"],
+      "correctIndex": 2,
+      "explanation": "'Gorączka' = fever / high temperature. 'Mam gorączkę' = I have a fever."
+    },
+    {
+      "id": "a1-ch09-rev-q05",
+      "type": "multiple_choice",
+      "order": 5,
+      "sourceLesson": "a1-ch09-l03",
+      "prompt": "My head hurts. Which is correct?",
+      "options": ["Boli mnie głowa.", "Bolą mnie głowę.", "Bola mnie głowa.", "Boli mi głowa."],
+      "correctIndex": 0,
+      "explanation": "'Boli mnie głowa.' — boli (singular), mnie (accusative of ja), głowa (subject). The person = accusative!"
+    },
+    {
+      "id": "a1-ch09-rev-q06",
+      "type": "multiple_choice",
+      "order": 6,
+      "sourceLesson": "a1-ch09-l03",
+      "prompt": "My legs hurt. Which is correct?",
+      "options": ["Bolą mnie nogi.", "Boli mnie nogi.", "Bolą mi nogi.", "Boli mnie nogę."],
+      "correctIndex": 0,
+      "explanation": "'Bolą mnie nogi.' — bolą (plural body parts), mnie (accusative). 'Nogi' = plural, so 'bolą' not 'boli'."
+    },
+    {
+      "id": "a1-ch09-rev-q07",
+      "type": "multiple_choice",
+      "order": 7,
+      "sourceLesson": "a1-ch09-l04",
+      "prompt": "I must see a doctor. Which is correct?",
+      "options": ["Muszę iść do lekarza.", "Musię do lekarza.", "Mogę iść do lekarza.", "Trzeba lekarzowi."],
+      "correctIndex": 0,
+      "explanation": "'Muszę iść do lekarza.' = I must go to the doctor. 'Musieć → ja: muszę + infinitive (iść)'. 'Do lekarza' = genitive."
+    },
+    {
+      "id": "a1-ch09-rev-q08",
+      "type": "vocab_translation",
+      "order": 8,
+      "sourceVocab": "a1-ch09-vocab",
+      "prompt": "What does 'apteka' mean?",
+      "options": ["hospital", "doctor's surgery", "pharmacy / chemist", "clinic"],
+      "correctIndex": 2,
+      "explanation": "'Apteka' = pharmacy / chemist. 'Idę do apteki' = I'm going to the pharmacy."
+    },
+    {
+      "id": "a1-ch09-rev-q09",
+      "type": "multiple_choice",
+      "order": 9,
+      "sourceLesson": "a1-ch09-l04",
+      "prompt": "Nie ___ tu palić. (Smoking is not allowed here.)",
+      "options": ["można", "musisz", "trzeba", "masz"],
+      "correctIndex": 0,
+      "explanation": "'Nie można' = it is not allowed (impersonal). 'Nie można tu palić' = smoking is not allowed here."
+    },
+    {
+      "id": "a1-ch09-rev-q10",
+      "type": "multiple_choice",
+      "order": 10,
+      "sourceLesson": "a1-ch09-l02",
+      "prompt": "We laugh. Which is correct? [śmiać się]",
+      "options": ["Śmiejemy się.", "Śmiejemy.", "Śmieję się.", "Śmieje się."],
+      "correctIndex": 0,
+      "explanation": "'Śmiejemy się' = We laugh. 'Śmiać się' → my: śmiejemy się. 'Się' stays with the verb."
+    },
+    {
+      "id": "a1-ch09-rev-q11",
+      "type": "vocab_translation",
+      "order": 11,
+      "sourceVocab": "a1-ch09-vocab",
+      "prompt": "What does 'chory' mean?",
+      "options": ["healthy", "tired", "ill / sick", "hungry"],
+      "correctIndex": 2,
+      "explanation": "'Chory/chora' = ill / sick. Antonym: 'zdrowy/zdrowa' = healthy."
+    },
+    {
+      "id": "a1-ch09-rev-q12",
+      "type": "multiple_choice",
+      "order": 12,
+      "sourceLesson": "a1-ch09-l04",
+      "prompt": "Czy ___ mi pomóc? (Can you help me?)",
+      "options": ["możesz", "musisz", "chcesz", "trzeba"],
+      "correctIndex": 0,
+      "explanation": "'Możesz mi pomóc?' = Can you help me? 'Móc → ty: możesz'. 'Mi' = dative of 'ja'."
+    }
+  ]
+}

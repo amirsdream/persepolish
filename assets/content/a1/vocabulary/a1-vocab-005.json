@@ -1,0 +1,152 @@
+{
+  "id": "a1-vocab-005",
+  "level": "a1",
+  "order": 5,
+  "title": "Food & Drink",
+  "description": "Common Polish words for food and beverages.",
+  "cards": [
+    {
+      "id": "a1v005-01",
+      "polish": "chleb",
+      "english": "bread",
+      "pronunciation": "hlep",
+      "category": "noun",
+      "example_polish": "Proszę jeden chleb.",
+      "example_english": "One loaf of bread, please.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v005-02",
+      "polish": "mleko",
+      "english": "milk",
+      "pronunciation": "MLE-ko",
+      "category": "noun",
+      "example_polish": "Piję mleko każdego ranka.",
+      "example_english": "I drink milk every morning.",
+      "gender": "n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v005-03",
+      "polish": "kawa",
+      "english": "coffee",
+      "pronunciation": "KA-va",
+      "category": "noun",
+      "example_polish": "Chcę kawę z mlekiem.",
+      "example_english": "I want coffee with milk.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v005-04",
+      "polish": "herbata",
+      "english": "tea",
+      "pronunciation": "her-BA-ta",
+      "category": "noun",
+      "example_polish": "Czy chcesz herbatę?",
+      "example_english": "Do you want tea?",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v005-05",
+      "polish": "woda",
+      "english": "water",
+      "pronunciation": "VO-da",
+      "category": "noun",
+      "example_polish": "Poproszę szklankę wody.",
+      "example_english": "Could I have a glass of water?",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v005-06",
+      "polish": "mięso",
+      "english": "meat",
+      "pronunciation": "MYEN-so",
+      "category": "noun",
+      "example_polish": "Nie jem mięsa.",
+      "example_english": "I don't eat meat.",
+      "gender": "n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v005-07",
+      "polish": "ryba",
+      "english": "fish",
+      "pronunciation": "RI-ba",
+      "category": "noun",
+      "example_polish": "W piątek jemy rybę.",
+      "example_english": "On Friday we eat fish.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v005-08",
+      "polish": "warzywa",
+      "english": "vegetables",
+      "pronunciation": "va-ZHI-va",
+      "category": "noun",
+      "example_polish": "Lubię warzywa, szczególnie marchewkę.",
+      "example_english": "I like vegetables, especially carrots.",
+      "gender": "n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v005-09",
+      "polish": "owoce",
+      "english": "fruit",
+      "pronunciation": "o-VO-tse",
+      "category": "noun",
+      "example_polish": "Jem dużo owoców.",
+      "example_english": "I eat a lot of fruit.",
+      "gender": "n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v005-10",
+      "polish": "zupa",
+      "english": "soup",
+      "pronunciation": "ZU-pa",
+      "category": "noun",
+      "example_polish": "Ta zupa jest bardzo smaczna.",
+      "example_english": "This soup is very tasty.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v005-11",
+      "polish": "obiad",
+      "english": "lunch / dinner (main meal)",
+      "pronunciation": "O-byad",
+      "category": "noun",
+      "example_polish": "Obiad jest o drugiej.",
+      "example_english": "Dinner is at two o'clock.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v005-12",
+      "polish": "śniadanie",
+      "english": "breakfast",
+      "pronunciation": "shnya-DA-nye",
+      "category": "noun",
+      "example_polish": "Jem śniadanie o siódmej rano.",
+      "example_english": "I have breakfast at seven in the morning.",
+      "gender": "n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v005-13",
+      "polish": "kolacja",
+      "english": "supper / dinner (evening meal)",
+      "pronunciation": "ko-LA-tsya",
+      "category": "noun",
+      "example_polish": "Kolacja jest o ósmej wieczór.",
+      "example_english": "Supper is at eight in the evening.",
+      "gender": "f",
+      "audio_asset": null
+    }
+  ]
+}

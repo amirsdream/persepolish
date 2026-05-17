@@ -1,0 +1,89 @@
+{
+  "id": "a1-grammar-007",
+  "level": "a1",
+  "order": 7,
+  "title": "Numbers & Counting — Numerals 1–100",
+  "explanation": "Polish numerals are complex — they affect the case of the nouns that follow them. After 1 (jeden/jedna/jedno), the nominative is used. After 2, 3, 4 (dwa, trzy, cztery), the nominative plural is used. After 5 and higher, the genitive plural is required. For telling age, use 'Mam X lat' (I have X years). Numerals 11–19 are formed with -naście. Tens: dwadzieścia (20), trzydzieści (30), czterdzieści (40), pięćdziesiąt (50), sześćdziesiąt (60), siedemdziesiąt (70), osiemdziesiąt (80), dziewięćdziesiąt (90), sto (100).",
+  "examples": [
+    {
+      "polish": "Mam dwadzieścia lat.",
+      "english": "I am 20 years old.",
+      "note": "age expression: mam + numeral + lat (genitive plural)"
+    },
+    {
+      "polish": "To kosztuje pięć złotych.",
+      "english": "This costs 5 zloty.",
+      "note": "5 and above + genitive plural: złoty → złotych"
+    },
+    {
+      "polish": "Mam dwie siostry.",
+      "english": "I have two sisters.",
+      "note": "2 (feminine: dwie) + nominative plural: siostry"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "id": "a1-g007-ex01",
+      "prompt": "How do you say 'I am 25 years old'?",
+      "options": [
+        "Mam dwadzieścia pięć lat.",
+        "Jestem dwadzieścia pięć lat.",
+        "Mam dwadzieścia pięć lata.",
+        "Mam dwadzieścia pięć roku."
+      ],
+      "correct_index": 0,
+      "explanation": "Age is expressed with 'Mam X lat' in Polish. After numerals 5 and above, 'rok' (year) takes the genitive plural form 'lat'."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-g007-ex02",
+      "prompt": "Write the Polish number: 'fifteen' (15)",
+      "sentence_template": "Mam ___ złotych.",
+      "accepted_answers": ["piętnaście"],
+      "explanation": "15 = piętnaście. Numbers 11–19 are formed with -naście: jedenaście, dwanaście, trzynaście, czternaście, piętnaście..."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-g007-ex03",
+      "prompt": "How much is 'three' in Polish?",
+      "options": [
+        "trzy",
+        "trzech",
+        "troje",
+        "trzecia"
+      ],
+      "correct_index": 0,
+      "explanation": "The cardinal numeral for 3 is 'trzy'. The other forms are used in specific grammatical contexts (genitive, collective, ordinal)."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-g007-ex04",
+      "prompt": "Complete: 'This costs ten zloty.' (10 = dziesięć)",
+      "sentence_template": "To kosztuje ___ złotych.",
+      "accepted_answers": ["dziesięć"],
+      "explanation": "'Dziesięć' = 10. After 5 and above, 'złoty' takes the genitive plural form 'złotych'."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-g007-ex05",
+      "prompt": "How do you say 'fifty' in Polish?",
+      "options": [
+        "pięćdziesiąt",
+        "pięćset",
+        "pięćdziesiąty",
+        "pięćdziesiątek"
+      ],
+      "correct_index": 0,
+      "explanation": "50 = pięćdziesiąt. The tens in Polish: dwadzieścia (20), trzydzieści (30), czterdzieści (40), pięćdziesiąt (50)..."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-g007-ex06",
+      "prompt": "Complete: 'I have two brothers.' (brat = brother; 2 = dwa/dwóch; nom. plural: bracia)",
+      "sentence_template": "Mam ___ braci.",
+      "accepted_answers": ["dwóch", "dwu"],
+      "explanation": "After 2 with masculine personal nouns in the accusative, we use 'dwóch' + genitive plural: dwóch braci."
+    }
+  ]
+}

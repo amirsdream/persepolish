@@ -1,0 +1,70 @@
+{
+  "id": "b1-ch03-l03",
+  "level": "b1",
+  "chapter": 3,
+  "lessonOrder": 3,
+  "title": "Passive — 15 Common Verbs",
+  "grammarPoint": "Passive constructions with the 15 most common Polish verbs: napisać, zrobić, zbudować, zaprosić, ugotować, zamknąć, otworzyć, znaleźć, kupić, sprzedać, przeczytać, napisać, wybrać, wysłać, zorganizować",
+  "explanation": {
+    "text": "Mastering the PPP forms of the most common Polish verbs lets you handle most real-life passive sentences.\n\n## The 15 Most Common Passive Verbs\n\n| Verb | PPP (m) | PPP (f) | PPP (n) | PPP (pl non-virile) | PPP (pl virile) |\n|------|---------|---------|---------|---------------------|------------------|\n| napisać | napisany | napisana | napisane | napisane | napisani |\n| zrobić | zrobiony | zrobiona | zrobione | zrobione | zrobieni |\n| zbudować | zbudowany | zbudowana | zbudowane | zbudowane | zbudowani |\n| zaprosić | zaproszony | zaproszona | zaproszone | zaproszone | zaproszeni |\n| ugotować | ugotowany | ugotowana | ugotowane | ugotowane | ugotowani |\n| zamknąć | zamknięty | zamknięta | zamknięte | zamknięte | zamknięci |\n| otworzyć | otwarty | otwarta | otwarte | otwarte | otwarci |\n| znaleźć | znaleziony | znaleziona | znalezione | znalezione | znalezieni |\n| kupić | kupiony | kupiona | kupione | kupione | kupieni |\n| sprzedać | sprzedany | sprzedana | sprzedane | sprzedane | sprzedani |\n| przeczytać | przeczytany | przeczytana | przeczytane | przeczytane | przeczytani |\n| wybrać | wybrany | wybrana | wybrane | wybrane | wybrani |\n| wysłać | wysłany | wysłana | wysłane | wysłane | wysłani |\n| zorganizować | zorganizowany | zorganizowana | zorganizowane | zorganizowane | zorganizowani |\n| zrozumieć | zrozumiany | zrozumiana | zrozumiane | zrozumiane | zrozumiani |\n\n## PPP Formation Patterns\n\n**Pattern 1: -any/-ana/-ane** (verbs in -ać, -ować)\n- pisać → pis-any (napisany)\n- gotować → gotowan-y (ugotowany)\n- budować → budowan-y (zbudowany)\n- organizować → organizowan-y (zorganizowany)\n\n**Pattern 2: -iony/-iona/-ione** (verbs in -ić/-yć)\n- zrobić → zrobi → zrobiony\n- zaprosić → zaprosi → zaproszony (+ consonant change: s→sz)\n- kupić → kupi → kupiony\n\n**Pattern 3: -ty/-ta/-te** (irregular)\n- zamknąć → zamknięty (nasal vowel appears)\n- otworzyć → otwarty (stem change)\n\n**Pattern 4: -ny/-na/-ne** (verbs in -ać — slightly different)\n- napisać → napisan-y (stems ending in -s)\n- wysłać → wysłan-y\n- wybrać → wybran-y (stems ending in -r)\n- przeczytać → przeczyta-ny\n\n## Real Examples in Sentences\n\n- **List jest napisany.** (The letter is written. — m)\n- **Praca jest zrobiona.** (The work is done. — f)\n- **Okno jest zamknięte.** (The window is closed. — n)\n- **Goście są zaproszeni.** (The guests are invited. — virile pl)\n- **Prace są przeczytane.** (The papers are read. — non-virile pl)\n- **Dom jest zbudowany.** (The house is built. — m)\n- **Kolacja jest ugotowana.** (Dinner is cooked. — f)\n- **Klucz jest znaleziony.** (The key is found. — m)\n- **Bilet jest kupiony.** (The ticket is bought. — m)\n- **E-mail jest wysłany.** (The e-mail is sent. — m)\n\n## Memory Tips\n\n| Ending of infinitive | PPP suffix | Example |\n|---------------------|-----------|--------|\n| -ać (regular) | -any | czytać → czytany |\n| -ować | -owany | kupować → kupowany* |\n| -ić/-yć | -iony/-ony | robić → robiony |\n| -nąć | -nięty | ciągnąć → ciągnięty |\n| irregular | memorize | otworzyć → otwarty |\n\n*Note: kupić (perf) → kupiony; but kupować (imperf) → kupowany. Most PPPs use perfective verbs.",
+    "notes": [
+      "The PPP must agree with the subject: list napisany (m), wiadomość napisana (f), zadanie napisane (n), studenci napisani — but for objects: prace napisane (non-virile pl).",
+      "Verbs in -ić/-yć often show consonant changes in PPP: zaprosić → zaproszony (s→sz); kupić → kupiony (no change); robić → robiony (no change); wozić → wożony (z→ż).",
+      "Verbs ending in -ać with stem in -an-: napisać → napisany (not *napisany-ić). The -n- merges: napisa+ny = napisany.",
+      "Irregular PPPs: otworzyć → otwarty (not *otworzony!), zamknąć → zamknięty, zrozumieć → zrozumiany."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch03-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Kolacja jest ___. (Dinner is cooked.) [PPP of ugotować, f — 'kolacja' is feminine]",
+      "options": ["ugotowana", "ugotowany", "ugotowane", "ugotowani"],
+      "correctIndex": 0,
+      "explanation": "'Kolacja' (dinner/supper) is feminine → PPP must be feminine: 'ugotowana'. From ugotować → ugotown-a (feminine). Compare: 'Obiad jest ugotowany' (m) and 'Jedzenie jest ugotowane' (n)."
+    },
+    {
+      "id": "b1-ch03-l03-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "Bilety są ___. (The tickets are bought.) [PPP of kupić, pl non-virile — bilety = tickets, m inan]",
+      "options": ["kupione", "kupiony", "kupiona", "kupieni"],
+      "correctIndex": 0,
+      "explanation": "'Bilety' (tickets) = masculine inanimate plural → NON-virile plural PPP: 'kupione'. Virile (only animate men/mixed) → 'kupieni' (e.g., pracownicy są kupieni = bribed). Objects/inanimate → non-virile -e: kupione."
+    },
+    {
+      "id": "b1-ch03-l03-ex03",
+      "type": "fill_blank",
+      "order": 3,
+      "prompt": "Dom jest ___ (zbudować — m). Wiadomość jest ___ (wysłać — f).",
+      "answer": "zbudowany / wysłana",
+      "acceptableAnswers": ["zbudowany / wysłana", "zbudowany/wysłana"],
+      "explanation": "'Dom' (house, m) → PPP masculine 'zbudowany' (from zbudować → zbudowan-y). 'Wiadomość' (message, f) → PPP feminine 'wysłana' (from wysłać → wysłan-a). Both regular -any/-ana patterns."
+    },
+    {
+      "id": "b1-ch03-l03-ex04",
+      "type": "dictation_mc",
+      "order": 4,
+      "audioAsset": "assets/audio/b1/ch03/b1-ch03-l03-ex04.mp3",
+      "options": ["Projekt jest wybrany i raport jest przeczytany.", "Projekt jest wybrana i raport jest przeczytana.", "Projekt jest wybrane i raport jest przeczytane.", "Projekt jest wybrany i raport jest przeczytana."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Projekt jest wybrany i raport jest przeczytany.' — The project is selected and the report is read. 'Projekt' (m) → 'wybrany' (from wybrać → wybran-y). 'Raport' (m) → 'przeczytany' (from przeczytać → przeczyta-ny). Both masculine."
+    },
+    {
+      "id": "b1-ch03-l03-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: The meeting is organized and all guests are invited. (zebranie=n, goście=virile pl)",
+      "wordBank": ["Zebranie", "jest", "zorganizowane", "zorganizowany", "i", "wszyscy", "goście", "są", "zaproszeni", "zaproszone", "zaproszony", "."],
+      "correctSequences": [
+        ["Zebranie", "jest", "zorganizowane", "i", "wszyscy", "goście", "są", "zaproszeni", "."]
+      ],
+      "explanation": "'Zebranie jest zorganizowane' — 'zebranie' (meeting, n) → PPP neuter: 'zorganizowane'. 'Wszyscy goście są zaproszeni' — 'goście' (guests, virile plural — includes men) → PPP virile pl: 'zaproszeni' (not zaproszone which would be for women-only guests)."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 12,
+  "tags": ["passive-voice", "b1-core", "ppp", "common-verbs"],
+  "prerequisites": ["b1-ch03-l02"]
+}

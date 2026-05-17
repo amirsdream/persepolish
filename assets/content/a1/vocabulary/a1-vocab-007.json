@@ -1,0 +1,174 @@
+{
+  "id": "a1-vocab-007",
+  "level": "a1",
+  "order": 7,
+  "title": "Common Verbs",
+  "description": "The most important Polish verbs for beginners.",
+  "cards": [
+    {
+      "id": "a1v007-01",
+      "polish": "być",
+      "english": "to be",
+      "pronunciation": "bich",
+      "category": "verb",
+      "example_polish": "Jestem z Polski.",
+      "example_english": "I am from Poland.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v007-02",
+      "polish": "mieć",
+      "english": "to have",
+      "pronunciation": "myech",
+      "category": "verb",
+      "example_polish": "Mam dwie siostry.",
+      "example_english": "I have two sisters.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v007-03",
+      "polish": "chcieć",
+      "english": "to want",
+      "pronunciation": "hchyech",
+      "category": "verb",
+      "example_polish": "Chcę kawę, proszę.",
+      "example_english": "I want a coffee, please.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v007-04",
+      "polish": "móc",
+      "english": "to be able to / can",
+      "pronunciation": "moots",
+      "category": "verb",
+      "example_polish": "Czy możesz mi pomóc?",
+      "example_english": "Can you help me?",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v007-05",
+      "polish": "musieć",
+      "english": "to have to / must",
+      "pronunciation": "MU-shyech",
+      "category": "verb",
+      "example_polish": "Muszę iść do pracy.",
+      "example_english": "I have to go to work.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v007-06",
+      "polish": "wiedzieć",
+      "english": "to know (a fact)",
+      "pronunciation": "VYE-dzhyech",
+      "category": "verb",
+      "example_polish": "Wiem, gdzie to jest.",
+      "example_english": "I know where it is.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v007-07",
+      "polish": "znać",
+      "english": "to know (a person / language)",
+      "pronunciation": "znach",
+      "category": "verb",
+      "example_polish": "Znam trochę polskiego.",
+      "example_english": "I know a little Polish.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v007-08",
+      "polish": "lubić",
+      "english": "to like",
+      "pronunciation": "LU-bich",
+      "category": "verb",
+      "example_polish": "Lubię muzykę klasyczną.",
+      "example_english": "I like classical music.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v007-09",
+      "polish": "rozumieć",
+      "english": "to understand",
+      "pronunciation": "ro-ZU-myech",
+      "category": "verb",
+      "example_polish": "Rozumiem po polsku.",
+      "example_english": "I understand Polish.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v007-10",
+      "polish": "mówić",
+      "english": "to speak / to say",
+      "pronunciation": "MOO-vich",
+      "category": "verb",
+      "example_polish": "Mówię po angielsku i po polsku.",
+      "example_english": "I speak English and Polish.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v007-11",
+      "polish": "słuchać",
+      "english": "to listen",
+      "pronunciation": "SWU-hach",
+      "category": "verb",
+      "example_polish": "Słucham radia w samochodzie.",
+      "example_english": "I listen to the radio in the car.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v007-12",
+      "polish": "czytać",
+      "english": "to read",
+      "pronunciation": "CHI-tach",
+      "category": "verb",
+      "example_polish": "Czytam książkę przed snem.",
+      "example_english": "I read a book before sleep.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v007-13",
+      "polish": "pisać",
+      "english": "to write",
+      "pronunciation": "PI-sach",
+      "category": "verb",
+      "example_polish": "Piszę maila do szefa.",
+      "example_english": "I am writing an email to my boss.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v007-14",
+      "polish": "kupować",
+      "english": "to buy",
+      "pronunciation": "ku-PO-vach",
+      "category": "verb",
+      "example_polish": "Kupuję warzywa na targu.",
+      "example_english": "I buy vegetables at the market.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v007-15",
+      "polish": "sprzedawać",
+      "english": "to sell",
+      "pronunciation": "spzhe-DA-vach",
+      "category": "verb",
+      "example_polish": "Sprzedają świeże owoce.",
+      "example_english": "They sell fresh fruit.",
+      "gender": null,
+      "audio_asset": null
+    }
+  ]
+}

@@ -3,30 +3,22 @@
   "level": "a1",
   "order": 3,
   "title": "Personal Pronouns",
-  "title_fa": "ضمایر شخصی",
   "explanation": "Polish personal pronouns change form depending on their grammatical role. Here are the nominative (subject) forms:\n• ja — I\n• ty — you (singular, informal)\n• on — he\n• ona — she\n• ono — it (neuter)\n• my — we\n• wy — you (plural, or singular formal)\n• oni — they (group including at least one male)\n• one — they (group of females or mixed non-male)\n\nImportant: In Polish, subject pronouns are often dropped because the verb ending shows the person. You say 'Jestem Anna' not 'Ja jestem Anna' in everyday speech. Pronouns are used for emphasis or contrast.",
-  "explanation_fa": "ضمایر شخصی لهستانی بسته به نقش دستوری‌شان تغییر شکل می‌دهند. اشکال حالت اسمی (فاعلی):\n• ja — من\n• ty — تو (مفرد، غیررسمی)\n• on — او (مذکر)\n• ona — او (مؤنث)\n• ono — آن (خنثی)\n• my — ما\n• wy — شما (جمع، یا مفرد رسمی)\n• oni — آن‌ها (گروه شامل حداقل یک مرد)\n• one — آن‌ها (گروه زنان یا گروه غیرمذکر)\n\nنکته مهم: در لهستانی معمولاً ضمیر فاعلی حذف می‌شود چون پسوند فعل شخص را نشان می‌دهد. در گفتار روزانه 'Jestem Anna' می‌گویند نه 'Ja jestem Anna'. ضمیر فقط برای تأکید یا تضاد استفاده می‌شود.",
   "examples": [
     {
       "polish": "On mówi po polsku.",
       "english": "He speaks Polish.",
-      "persian": "او لهستانی صحبت می‌کند.",
-      "note": "3rd person masculine singular",
-      "note_fa": "شخص سوم مفرد مذکر"
+      "note": "3rd person masculine singular"
     },
     {
       "polish": "My jesteśmy z Krakowa.",
       "english": "We are from Kraków.",
-      "persian": "ما اهل کراکوف هستیم.",
-      "note": "1st person plural — pronoun used for emphasis",
-      "note_fa": "شخص اول جمع — ضمیر برای تأکید استفاده شده"
+      "note": "1st person plural — pronoun used for emphasis"
     },
     {
       "polish": "Ty masz rację.",
       "english": "You are right.",
-      "persian": "تو حق داری.",
-      "note": "2nd person singular — 'ty' used for emphasis",
-      "note_fa": "شخص دوم مفرد — 'ty' برای تأکید استفاده شده"
+      "note": "2nd person singular — 'ty' used for emphasis"
     }
   ],
   "exercises": [
@@ -34,27 +26,22 @@
       "type": "multiple_choice",
       "id": "a1-g003-ex01",
       "prompt": "Which pronoun means 'she' in Polish?",
-      "prompt_fa": "کدام ضمیر در لهستانی به معنای «او» (مؤنث) است؟",
       "options": ["ona", "on", "ono", "one"],
       "correct_index": 0,
-      "explanation": "'Ona' = she. 'On' = he. 'Ono' = it (neuter). 'One' = they (feminine/non-male group).",
-      "explanation_fa": "'Ona' = او (مؤنث). 'On' = او (مذکر). 'Ono' = آن (خنثی). 'One' = آن‌ها (گروه مؤنث/غیرمذکر)."
+      "explanation": "'Ona' = she. 'On' = he. 'Ono' = it (neuter). 'One' = they (feminine/non-male group)."
     },
     {
       "type": "fill_in_blank",
       "id": "a1-g003-ex02",
       "prompt": "Fill in the pronoun: '___ (we) are students.'",
-      "prompt_fa": "ضمیر را پر کنید: '___ (ما) دانشجو هستیم.'",
       "sentence_template": "___ jesteśmy studentami.",
       "accepted_answers": ["My", "my"],
-      "explanation": "'My' means 'we' in Polish. It is the 1st person plural nominative pronoun.",
-      "explanation_fa": "'My' در لهستانی به معنای «ما» است. این ضمیر شخص اول جمع در حالت اسمی است."
+      "explanation": "'My' means 'we' in Polish. It is the 1st person plural nominative pronoun."
     },
     {
       "type": "multiple_choice",
       "id": "a1-g003-ex03",
       "prompt": "A group of women at a party. How do you say 'they speak Polish'?",
-      "prompt_fa": "یک گروه از زنان در یک مهمانی هستند. چطور می‌گویید «آن‌ها لهستانی صحبت می‌کنند»؟",
       "options": [
         "One mówią po polsku.",
         "Oni mówią po polsku.",
@@ -62,55 +49,41 @@
         "Ono mówi po polsku."
       ],
       "correct_index": 0,
-      "explanation": "'One' is used for groups of females or mixed non-male groups. 'Oni' is used when there is at least one male in the group.",
-      "explanation_fa": "'One' برای گروه زنان یا گروه‌های غیرمذکر استفاده می‌شود. 'Oni' وقتی در گروه حداقل یک مرد باشد استفاده می‌شود."
+      "explanation": "'One' is used for groups of females or mixed non-male groups. 'Oni' is used when there is at least one male in the group."
     },
     {
       "type": "sentence_order",
       "id": "a1-g003-ex04",
       "prompt": "Order the words to say 'You (plural) are from Poland':",
-      "prompt_fa": "کلمات را مرتب کنید تا بگویید «شما اهل لهستان هستید»:",
       "words": ["z", "Wy", "Polski.", "jesteście"],
       "correct_order": [1, 3, 0, 2],
-      "explanation": "Correct: 'Wy jesteście z Polski.' — pronoun (Wy) + verb (jesteście) + preposition phrase (z Polski).",
-      "explanation_fa": "ترتیب صحیح: 'Wy jesteście z Polski.' — ضمیر (Wy) + فعل (jesteście) + عبارت حرف اضافه (z Polski)."
+      "explanation": "Correct: 'Wy jesteście z Polski.' — pronoun (Wy) + verb (jesteście) + preposition phrase (z Polski)."
     },
     {
       "type": "multiple_choice",
       "id": "a1-g003-ex05",
       "prompt": "When is 'ty' used?",
-      "prompt_fa": "از 'ty' در چه مواردی استفاده می‌شود؟",
       "options": [
         "When speaking informally to one person",
         "When speaking formally to one person",
         "When speaking to a group",
         "It is never used in modern Polish"
       ],
-      "options_fa": [
-        "هنگام صحبت غیررسمی با یک نفر",
-        "هنگام صحبت رسمی با یک نفر",
-        "هنگام صحبت با یک گروه",
-        "در لهستانی مدرن اصلاً استفاده نمی‌شود"
-      ],
       "correct_index": 0,
-      "explanation": "'Ty' is the informal singular 'you', used with friends, family, and peers. For formal address, Poles use 'Pan' (sir) or 'Pani' (ma'am) with 3rd person verb forms.",
-      "explanation_fa": "'Ty' شکل غیررسمی مفرد «تو» است که با دوستان، خانواده و همسالان استفاده می‌شود. برای خطاب رسمی، لهستانی‌ها از 'Pan' (آقا) یا 'Pani' (خانم) با فعل سوم شخص استفاده می‌کنند."
+      "explanation": "'Ty' is the informal singular 'you', used with friends, family, and peers. For formal address, Poles use 'Pan' (sir) or 'Pani' (ma'am) with 3rd person verb forms."
     },
     {
       "type": "fill_in_blank",
       "id": "a1-g003-ex06",
       "prompt": "Choose the correct pronoun: '___ (he) is a doctor.' (lekarzem = doctor, instr.)",
-      "prompt_fa": "ضمیر درست را انتخاب کنید: '___ (او-مذکر) یک دکتر است.' (lekarzem = دکتر، حالت ابزاری)",
       "sentence_template": "___ jest lekarzem.",
       "accepted_answers": ["On", "on"],
-      "explanation": "'On' means 'he'. For a male doctor, the masculine pronoun 'on' is correct.",
-      "explanation_fa": "'On' به معنای «او» (مذکر) است. برای یک دکتر مرد، ضمیر مذکر 'on' درست است."
+      "explanation": "'On' means 'he'. For a male doctor, the masculine pronoun 'on' is correct."
     },
     {
       "type": "multiple_choice",
       "id": "a1-g003-ex07",
       "prompt": "Complete: '___ (I) am not from Poland.' (nie = not)",
-      "prompt_fa": "کامل کنید: '___ (من) اهل لهستان نیستم.' (nie = نه/نیست)",
       "options": [
         "Ja nie jestem z Polski.",
         "Ty nie jesteś z Polski.",
@@ -118,8 +91,7 @@
         "My nie jesteśmy z Polski."
       ],
       "correct_index": 0,
-      "explanation": "'Ja nie jestem z Polski' uses the 1st person singular form 'jestem' with the negation 'nie'. The other options use different pronouns and verb forms.",
-      "explanation_fa": "'Ja nie jestem z Polski' از شکل اول شخص مفرد 'jestem' با نفی 'nie' استفاده می‌کند. سایر گزینه‌ها ضمایر و اشکال فعلی متفاوت دارند."
+      "explanation": "'Ja nie jestem z Polski' uses the 1st person singular form 'jestem' with the negation 'nie'. The other options use different pronouns and verb forms."
     }
   ]
 }

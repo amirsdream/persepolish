@@ -1,0 +1,130 @@
+{
+  "id": "b1-ch05-revision",
+  "level": "b1",
+  "chapter": 5,
+  "title": "Chapter 5 Revision — Conditional Mood",
+  "description": "Mixed revision quiz covering conditional paradigm (robiłbym/robiłabym), polite requests (chciałbym, mógłby Pan/Pani), formal address, and gdyby hypothetical clauses.",
+  "passThreshold": 0.70,
+  "questions": [
+    {
+      "id": "b1-ch05-rev-q01",
+      "type": "multiple_choice",
+      "order": 1,
+      "sourceLesson": "b1-ch05-l01",
+      "prompt": "A male speaker says: 'I would read this.' [czytać, 1sg m]",
+      "options": ["Czytałbym to.", "Czytałabym to.", "Czytałby to.", "Czytałbyś to."],
+      "correctIndex": 0,
+      "explanation": "1sg male conditional: 'czytałbym' (l-form m 'czytał' + 'bym'). 'Czytałabym' = female 1sg. 'Czytałby' = 3sg m (he). 'Czytałbyś' = 2sg m (you). Male speaker, 1st person → 'czytałbym'."
+    },
+    {
+      "id": "b1-ch05-rev-q02",
+      "type": "multiple_choice",
+      "order": 2,
+      "sourceLesson": "b1-ch05-l01",
+      "prompt": "A female speaker says: 'She would come.' [przyjść, 3sg f]",
+      "options": ["Przyszłaby.", "Przyszedłby.", "Przyszłabym.", "Przyszłyby."],
+      "correctIndex": 0,
+      "explanation": "3sg female conditional: 'przyszłaby' (l-form f 'przyszła' + 'by'). 3rd person singular takes just 'by' (no personal suffix). 'Przyszedłby' = he (3sg m). 'Przyszłabym' = I (1sg f). 'Przyszłyby' = they (3pl non-virile f)."
+    },
+    {
+      "id": "b1-ch05-rev-q03",
+      "type": "multiple_choice",
+      "order": 3,
+      "sourceLesson": "b1-ch05-l02",
+      "prompt": "A female guest at a hotel says: 'I'd like to book a single room.' [chciałabym, zarezerwować pokój jednosobowy]",
+      "options": ["Chciałabym zarezerwować pokój jednosobowy.", "Chciałbym zarezerwować pokój jednosobowy.", "Chciałaby zarezerwować pokój jednosobowy.", "Chcę zarezerwować pokój jednosobowy."],
+      "correctIndex": 0,
+      "explanation": "Female speaker 1sg polite: 'Chciałabym zarezerwować pokój jednosobowy.' 'Chciałabym' = 1sg female conditional (most polite). 'Chciałbym' = male speaker. 'Chciałaby' = she (3sg f). 'Chcę' = blunt present (less polite). Hotel requests → conditional."
+    },
+    {
+      "id": "b1-ch05-rev-q04",
+      "type": "multiple_choice",
+      "order": 4,
+      "sourceLesson": "b1-ch05-l02",
+      "prompt": "Express preference (male): I'd prefer tea to coffee. [wolałbym, niż]",
+      "options": ["Wolałbym herbatę niż kawę.", "Wolałabym herbatę niż kawę.", "Chciałbym herbatę niż kawę.", "Wolę herbatę niż kawę."],
+      "correctIndex": 0,
+      "explanation": "'Wolałbym herbatę niż kawę.' — I'd prefer tea to coffee (male). 'Wolałbym' = conditional of wolić (1sg m). 'Niż' = than. 'Wolałabym' = female speaker. 'Chciałbym' = I'd like (wanting, not comparing). 'Wolę' = I prefer (present, not conditional)."
+    },
+    {
+      "id": "b1-ch05-rev-q05",
+      "type": "multiple_choice",
+      "order": 5,
+      "sourceLesson": "b1-ch05-l03",
+      "prompt": "Formal request to a male colleague: 'Could you open the window?'",
+      "options": ["Czy mógłby Pan otworzyć okno?", "Czy mogłaby Pani otworzyć okno?", "Czy mógłbyś otworzyć okno?", "Proszę otworzyć okno!"],
+      "correctIndex": 0,
+      "explanation": "Formal request to a man: 'Czy mógłby Pan otworzyć okno?' 'Mógłby Pan' = formal male address (mógłby = 3sg m conditional). 'Mogłaby Pani' = to a woman. 'Mógłbyś' = semi-formal (no Pan/Pani). 'Proszę otworzyć' = polite imperative (less deferential than conditional)."
+    },
+    {
+      "id": "b1-ch05-rev-q06",
+      "type": "multiple_choice",
+      "order": 6,
+      "sourceLesson": "b1-ch05-l03",
+      "prompt": "Which is the MOST formal way to request something?",
+      "options": ["Czy zechciałby Pan...?", "Czy mógłby Pan...?", "Czy mógłbyś...?", "Poproszę..."],
+      "correctIndex": 0,
+      "explanation": "Most formal: 'Czy zechciałby Pan...?' (Would you kindly...?) — very formal, almost archaic, used in very official contexts. 'Czy mógłby Pan...?' = formal but standard. 'Czy mógłbyś...?' = semi-formal (no Pan). 'Poproszę' = polite but casual. Formality scale: zechciałby > mógłby Pan > mógłbyś > Poproszę."
+    },
+    {
+      "id": "b1-ch05-rev-q07",
+      "type": "multiple_choice",
+      "order": 7,
+      "sourceLesson": "b1-ch05-l04",
+      "prompt": "Complete: 'If I had money, I would travel.' [male speaker, mieć/podróżować]",
+      "options": ["Gdybym miał pieniądze, podróżowałbym.", "Gdybym miała pieniądze, podróżowałbym.", "Gdybym miał pieniądze, podróżowałabym.", "Gdybyś miał pieniądze, podróżowałbym."],
+      "correctIndex": 0,
+      "explanation": "Male speaker hypothetical: 'Gdybym miał pieniądze, podróżowałbym.' Both l-forms are masculine: 'miał' (had — m l-form) and 'podróżowałbym' (I would travel — 1sg m). Consistency: same gender throughout. 'Gdybym miała' = female had, inconsistent with male 'podróżowałbym'."
+    },
+    {
+      "id": "b1-ch05-rev-q08",
+      "type": "vocab_translation",
+      "order": 8,
+      "sourceVocab": "b1-ch05-vocab",
+      "prompt": "What does 'na twoim miejscu poszedłbym do lekarza' mean?",
+      "options": ["If I were you, I'd go to the doctor.", "You should go to the doctor.", "In your place at the doctor's.", "I went to the doctor for you."],
+      "correctIndex": 0,
+      "explanation": "'Na twoim miejscu poszedłbym do lekarza.' = If I were you, I'd go to the doctor. 'Na twoim miejscu' = in your place / if I were you (fixed phrase with locative). 'Poszedłbym' = I would go (1sg m conditional of pójść). Very common advice-giving construction."
+    },
+    {
+      "id": "b1-ch05-rev-q09",
+      "type": "multiple_choice",
+      "order": 9,
+      "sourceLesson": "b1-ch05-l04",
+      "prompt": "What does the sentence 'Gdyby nie ty, zgubiłbym się' mean?",
+      "options": ["If it weren't for you, I would have gotten lost.", "If you were lost, I would find you.", "If you hadn't been there, I would lose you.", "Without getting lost, you would find me."],
+      "correctIndex": 0,
+      "explanation": "'Gdyby nie ty, zgubiłbym się.' = If it weren't for you, I would have gotten lost. 'Gdyby nie' = if it weren't for / but for. 'Zgubiłbym się' = I would have gotten lost (zgubić się conditional 1sg m). Counterfactual expressing gratitude: something didn't happen because of 'ty'."
+    },
+    {
+      "id": "b1-ch05-rev-q10",
+      "type": "multiple_choice",
+      "order": 10,
+      "sourceLesson": "b1-ch05-l01",
+      "prompt": "We (male/mixed group) would go: [jechać, imperfective, 1pl virile]",
+      "options": ["Jechalibyśmy.", "Jechałybyśmy.", "Jechaliby.", "Jechałabym."],
+      "correctIndex": 0,
+      "explanation": "1pl virile conditional: l-form virile 'jechali' + 'byśmy' = 'jechalibyśmy'. 'Jechałybyśmy' = non-virile/female group (1pl f: jechały + byśmy). 'Jechaliby' = they (3pl virile). 'Jechałabym' = I, female (1sg f)."
+    },
+    {
+      "id": "b1-ch05-rev-q11",
+      "type": "multiple_choice",
+      "order": 11,
+      "sourceLesson": "b1-ch05-l04",
+      "prompt": "Which gdyby form goes with 'Pani' (female formal)?",
+      "options": ["gdyby", "gdybym", "gdybyś", "gdybyśmy"],
+      "correctIndex": 0,
+      "explanation": "'Pan/Pani' are addressed in 3rd person singular → gdyby (no personal ending, same as for on/ona). 'Gdyby Pani chciała...' = If you (formal f) wanted... 'Gdybym' = if I. 'Gdybyś' = if you (informal). 'Gdybyśmy' = if we. Formal Pan/Pani → always 3rd person forms."
+    },
+    {
+      "id": "b1-ch05-rev-q12",
+      "type": "multiple_choice",
+      "order": 12,
+      "sourceLesson": "b1-ch05-l02",
+      "prompt": "What is the most polite way to ask for a coffee in a café?",
+      "options": ["Poproszę kawę.", "Chcę kawę.", "Daj mi kawę!", "Kawa, proszę."],
+      "correctIndex": 0,
+      "explanation": "'Poproszę kawę.' = I'll have a coffee, please (very natural and polite). 'Poproszę + acc' is the most common polite way to order anything in Polish. 'Chcę kawę' = blunt/impolite. 'Daj mi kawę!' = rude. 'Kawa, proszę' = acceptable but less elegant than 'poproszę'. In cafés: poproszę!"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "b1-ch02-l01",
+  "level": "b1",
+  "chapter": 2,
+  "lessonOrder": 1,
+  "title": "chodzić vs pójść — Habitual vs Single",
+  "grammarPoint": "Polish motion verb distinction: chodzić (walk habitually/repeatedly) vs iść (walk now/on one occasion) vs pójść (go once, perfective) — the multidirectional/unidirectional/perfective triad",
+  "explanation": {
+    "text": "Polish motion verbs have a three-way distinction that doesn't exist in English.\n\n## The Three-Way System\n\n| Verb | Type | Meaning |\n|------|------|---------|\n| **chodzić** | multidirectional (imperf) | to go regularly / habitually / in multiple directions |\n| **iść** | unidirectional (imperf) | to go (now, in one direction, ongoing) |\n| **pójść** | perfective | to go (one specific occasion, completed) |\n\n## chodzić — Multidirectional (Habitual)\n\n- Codziennie **chodzę** do pracy. (I go to work every day — routine)\n- Często **chodzimy** do kina. (We often go to the cinema — habit)\n- **Chodziłem** do tej szkoły. (I used to go to that school — past habit)\n- **Chódź!** (Come on! / Used to express repeated request)\n\n## iść — Unidirectional (Right Now, Ongoing)\n\n- **Idę** do sklepu. (I'm going to the shop — right now, on my way)\n- Gdzie **idziesz?** (Where are you going? — right now)\n- **Szłam** przez park, kiedy... (I was walking through the park when...)\n\n## pójść — Perfective (Single, Completed/Intended)\n\n- Jutro **pójdę** do lekarza. (Tomorrow I'll go to the doctor — one time)\n- Wczoraj **poszłam** do sklepu. (Yesterday I went to the shop — once, done)\n- Chodź, **pójdziemy** razem! (Come on, let's go together — one occasion)\n\n## Decision Chart\n\n1. Is it a habit? → **chodzić**\n2. Is it happening right now, on the way? → **iść**\n3. Is it a single event (past or future)? → **pójść**\n\n## Important: Conjugations\n\n**iść** (unidirectional present):\n- idę, idziesz, idzie, idziemy, idziecie, idą\n\n**chodzić** (multidirectional present):\n- chodzę, chodzisz, chodzi, chodzimy, chodzicie, chodzą\n\n**pójść** (perfective — future forms):\n- pójdę, pójdziesz, pójdzie, pójdziemy, pójdziecie, pójdą",
+    "notes": [
+      "iść (present) = I am going right now, in one direction. Idę do sklepu = I'm on my way to the shop.",
+      "chodzić (present) = I go habitually. Chodzę na siłownię = I go to the gym (regularly).",
+      "pójść (perf) = go once. Past: poszedłem/poszłam. Future: pójdę. Imperative: chodź!/pójdźmy!",
+      "Szedłem/szłam = imperfective past of iść (I was walking). Past of chodzić = chodziłem/chodziłam."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch02-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Codziennie ___ do szkoły piechotą. (Every day I walk to school on foot.) [habit]",
+      "options": ["chodzę", "idę", "pójdę", "szłam"],
+      "correctIndex": 0,
+      "explanation": "Daily habit → 'chodzę' (chodzić, multidirectional). 'Idę' = I'm going right now. 'Pójdę' = I will go (once, future). 'Codziennie chodzę' = every day I walk — typical habitual pattern."
+    },
+    {
+      "id": "b1-ch02-l01-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "Gdzie ___ teraz? (Where are you going right now?) [ongoing, unidirectional]",
+      "options": ["idziesz", "chodzisz", "pójdziesz", "szedłeś"],
+      "correctIndex": 0,
+      "explanation": "'Idziesz' = you are going (right now, unidirectional, ongoing). 'Chodzisz?' would mean 'Do you usually go there?' (habit). 'Pójdziesz?' = will you go? (future, single event)."
+    },
+    {
+      "id": "b1-ch02-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch02/b1-ch02-l01-ex03.mp3",
+      "options": ["Wczoraj poszłam do centrum i kupiłam nowe buty.", "Wczoraj chodziłam do centrum i kupiłam nowe buty.", "Wczoraj szłam do centrum i kupiłam nowe buty.", "Wczoraj pójdę do centrum i kupię nowe buty."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Wczoraj poszłam do centrum i kupiłam nowe buty.' — Yesterday I went to the centre and bought new shoes. 'Poszłam' = perfective past (went once, completed trip). 'Kupiłam' = bought (perfective). Both sequential completed events."
+    },
+    {
+      "id": "b1-ch02-l01-ex04",
+      "type": "multiple_choice",
+      "order": 4,
+      "prompt": "Jutro ___ do dentysty — mam umówioną wizytę. (Tomorrow I'll go to the dentist — I have an appointment.) [single future event]",
+      "options": ["pójdę", "idę", "chodzę", "szłam"],
+      "correctIndex": 0,
+      "explanation": "'Pójdę' = perfective future of pójść (I will go — once, this specific appointment). 'Idę do dentysty' would mean 'I'm going to the dentist right now'. 'Chodzę do dentysty' = I go to the dentist regularly (habit)."
+    },
+    {
+      "id": "b1-ch02-l01-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: Do you often go to the theatre? (habitual, chodzić)",
+      "wordBank": ["Czy", "często", "chodzisz", "idziesz", "do", "teatru", "teatrem", "teatrze", "?"],
+      "correctSequences": [
+        ["Czy", "często", "chodzisz", "do", "teatru", "?"]
+      ],
+      "explanation": "'Czy często chodzisz do teatru?' — Do you often go to the theatre? 'Chodzisz' = habitual (chodzić). 'Często' = often (signal of habit). 'Do teatru' = to the theatre (do + genitive: teatr → teatru)."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 12,
+  "tags": ["motion-verbs", "b1-core", "chodzić", "iść", "pójść"],
+  "prerequisites": ["b1-ch01-l01", "b1-ch01-l02"]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "a2-ch14-l04",
+  "level": "a2",
+  "chapter": 14,
+  "lessonOrder": 4,
+  "title": "Gdyby Clauses in Context",
+  "grammarPoint": "Extended gdyby constructions: Gdybym mógł..., Gdybym wiedział..., Na twoim miejscu + conditional, Żałuję, że...",
+  "explanation": {
+    "text": "Here we practise **gdyby** in richer contexts, including common set expressions.\n\n**Common gdyby constructions:**\n\n**1. Gdybym mógł/mogła (if I could):**\n- **Gdybym mógł**, pojechałbym wszędzie. = If I could, I'd go everywhere.\n- **Gdybym mogła**, zostałabym tu na zawsze. = If I could, I'd stay here forever.\n\n**2. Gdybym wiedział/wiedziała (if I knew):**\n- **Gdybym wiedział**, zadzwoniłbym wcześniej. = If I'd known, I'd have called earlier.\n\n**3. Na twoim miejscu + conditional (In your place / If I were you):**\n- **Na twoim miejscu** pojechałbym do lekarza. = If I were you, I'd go to the doctor.\n- **Na twoim miejscu** nie robiłabym tego. = If I were you, I wouldn't do that.\n\n**4. Żałuję, że... / Szkoda, że... (I'm sorry that / It's a pity that):**\n- **Żałuję, że** nie przyszedłeś. = I'm sorry you didn't come.\n- **Szkoda, że** nie ma cię tutaj. = It's a pity you're not here.\n\n**5. Chciałbym żeby... (I wish that...):**\n- **Chciałbym, żeby** pogoda była lepsza. = I wish the weather were better.\n- **Chciałabym, żeby** on wrócił. = I wish he'd come back.",
+    "notes": [
+      "'Na twoim miejscu' (in your place) = 'If I were you' — takes conditional in the main clause.",
+      "'Żałuję, że + past' expresses regret about real past events (not conditional).",
+      "'Chciałbym, żeby + past' = I wish that... (żeby + past form expresses a wish).",
+      "Gdyby constructions are the heart of Polish conditional — master these set phrases."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch14-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "___ mógł, spałbym do południa. (If I could, I'd sleep till noon.) [gdyby, ja m]",
+      "options": ["Gdybym", "Gdybyś", "Gdyby", "Gdybyśmy"],
+      "correctIndex": 0,
+      "explanation": "'Gdybym' = if I (1st person singular conditional 'if'). 'Gdybym mógł' = if I could. 'Spałbym' = I would sleep (conditional)."
+    },
+    {
+      "id": "a2-ch14-l04-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Na twoim miejscu ___ do lekarza. (If I were you, I (m) would go to the doctor.) [pójść, ja m conditional]",
+      "answer": "poszedłbym",
+      "acceptableAnswers": ["poszedłbym"],
+      "hint": "pójść → szedł (m l-form) + bym = poszedłbym"
+    },
+    {
+      "id": "a2-ch14-l04-ex03",
+      "type": "multiple_choice",
+      "order": 3,
+      "prompt": "Chciałabym, żeby ___ tu z nami. (I wish he were here with us.) [być, on — żeby + past form]",
+      "options": ["był", "jest", "będzie", "byłby"],
+      "correctIndex": 0,
+      "explanation": "'Chciałabym, żeby + past form': żeby był. The 'żeby + past' pattern expresses a wish about present/future. 'Żeby był tu' = (for him) to be here."
+    },
+    {
+      "id": "a2-ch14-l04-ex04",
+      "type": "dictation_mc",
+      "order": 4,
+      "audioAsset": "assets/audio/a2/ch14/a2-ch14-l04-ex04.mp3",
+      "options": ["Szkoda, że nie mogłeś przyjść.", "Szkoda, że nie możesz przyjść.", "Szkoda, że nie przyjdziesz.", "Szkoda, że nie przyszedłeś."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Szkoda, że nie mogłeś przyjść.' — It's a pity you couldn't come. 'Szkoda, że' + past tense of real event: 'mogłeś' (ty m, past of móc)."
+    },
+    {
+      "id": "a2-ch14-l04-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: If I were you, I (f) wouldn't do that.",
+      "wordBank": ["Na", "twoim", "miejscu", "nie", "robiłabym", "robiłbym", "tego", "to", "temu"],
+      "correctSequences": [
+        ["Na", "twoim", "miejscu", "nie", "robiłabym", "tego"]
+      ],
+      "explanation": "'Na twoim miejscu nie robiłabym tego.' — If I were you, I (f) wouldn't do that. 'Na twoim miejscu' = in your place. 'Robiłabym' = f conditional. 'Tego' = genitive after negation (nie robić + gen)."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 12,
+  "tags": ["conditional", "gdyby", "wishes", "a2-core"],
+  "prerequisites": ["a2-ch14-l01", "a2-ch14-l02", "a2-ch14-l03"]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "b1-ch04-revision",
+  "level": "b1",
+  "chapter": 4,
+  "title": "Chapter 4 Revision — Advanced Passive Voice",
+  "description": "Mixed revision quiz covering zostać + PPP (event passive), agentless passive vs. przez + accusative, passive vs. active vs. reflexive się, and passive in formal texts.",
+  "passThreshold": 0.70,
+  "questions": [
+    {
+      "id": "b1-ch04-rev-q01",
+      "type": "multiple_choice",
+      "order": 1,
+      "sourceLesson": "b1-ch04-l01",
+      "prompt": "Raport ___ napisany wczoraj. (The report was written yesterday — event, past.) ['raport' = m]",
+      "options": ["został", "jest", "będzie", "był"],
+      "correctIndex": 0,
+      "explanation": "Event passive past → 'został' (zostać past masc). 'Raport został napisany wczoraj.' 'Wczoraj' signals a past completed event → zostać. 'Jest napisany' = state (current state). 'Był napisany' = was in written state (imperfective być past). Event in the past = 'został'."
+    },
+    {
+      "id": "b1-ch04-rev-q02",
+      "type": "multiple_choice",
+      "order": 2,
+      "sourceLesson": "b1-ch04-l01",
+      "prompt": "Wyniki ___ ogłoszone jutro. (The results will be announced tomorrow.) ['wyniki' = pl non-virile]",
+      "options": ["zostaną", "zostały", "są", "będą"],
+      "correctIndex": 0,
+      "explanation": "Future event passive → 'zostaną' (zostać future 3pl) + PPP non-virile 'ogłoszone'. 'Wyniki zostaną ogłoszone jutro.' 'Jutro' = future signal. zostać future plural: zostaną. PPP non-virile: ogłoszone (from ogłosić). 'Zostaną' is the correct future form."
+    },
+    {
+      "id": "b1-ch04-rev-q03",
+      "type": "multiple_choice",
+      "order": 3,
+      "sourceLesson": "b1-ch04-l02",
+      "prompt": "Książka ___ napisana przez słynnego pisarza. (The book was written by a famous writer.) ['książka' = f]",
+      "options": ["została", "jest", "był", "zostało"],
+      "correctIndex": 0,
+      "explanation": "'Książka' (book) is feminine → zostać past feminine: 'została'. Both 'została' and 'napisana' agree with 'książka' (f). Agent: 'przez słynnego pisarza' (przez + accusative: pisarz → pisarza, animate masc). 'Książka została napisana przez słynnego pisarza.'"
+    },
+    {
+      "id": "b1-ch04-rev-q04",
+      "type": "multiple_choice",
+      "order": 4,
+      "sourceLesson": "b1-ch04-l02",
+      "prompt": "How do you say 'by the committee' as a passive agent? [komisja = f]",
+      "options": ["przez komisję", "od komisji", "przez komisja", "z komisją"],
+      "correctIndex": 0,
+      "explanation": "Agent in passive = 'przez + accusative': komisja (f nom) → komisję (f acc). 'Przez komisję' = by the committee. 'Od komisji' = from the committee (genitive). 'Z komisją' = with the committee (instrumental). Only 'przez + acc' marks a passive agent."
+    },
+    {
+      "id": "b1-ch04-rev-q05",
+      "type": "multiple_choice",
+      "order": 5,
+      "sourceLesson": "b1-ch04-l03",
+      "prompt": "Which is most natural in everyday conversation about dinner?",
+      "options": ["Mama ugotowała obiad.", "Obiad został ugotowany przez mamę.", "Obiad jest ugotowany przez mamę.", "Obiad ugotowuje się przez mamę."],
+      "correctIndex": 0,
+      "explanation": "Everyday conversation → active voice: 'Mama ugotowała obiad.' (Mom cooked dinner.) The passive 'przez mamę' sounds bureaucratic in conversation. Polish uses passive mainly for formal contexts, news, or when the agent is unknown. In conversation: active voice."
+    },
+    {
+      "id": "b1-ch04-rev-q06",
+      "type": "multiple_choice",
+      "order": 6,
+      "sourceLesson": "b1-ch04-l03",
+      "prompt": "Recipe instruction: Pierogi ___ z mąki i wody. (Pierogi are made with flour and water.) [general process]",
+      "options": ["robi się", "robią się", "zostają zrobione", "są zrobione"],
+      "correctIndex": 0,
+      "explanation": "Reflexive się passive for recipe (general process): 'Pierogi robi się z mąki i wody.' Note: 'robi się' not 'robią się' — the reflexive się passive uses 3rd person singular regardless of the subject (recipe convention). 'Zostają zrobione' = event passive (specific instances). 'Robi się' = how it's done in general."
+    },
+    {
+      "id": "b1-ch04-rev-q07",
+      "type": "multiple_choice",
+      "order": 7,
+      "sourceLesson": "b1-ch04-l04",
+      "prompt": "News headline: Prezydent ___ zaprzysiężony. (The president was sworn in.) [m, news]",
+      "options": ["został", "jest", "będzie", "był"],
+      "correctIndex": 0,
+      "explanation": "News event in past → event passive: 'Prezydent został zaprzysiężony.' 'Został' = zostać past masc (event passive). In headlines and news, zostać + PPP is the standard. 'Jest zaprzysiężony' = current state. 'Był zaprzysiężony' = was in sworn-in state. News = event → 'został'."
+    },
+    {
+      "id": "b1-ch04-rev-q08",
+      "type": "vocab_translation",
+      "order": 8,
+      "sourceVocab": "b1-ch04-vocab",
+      "prompt": "What does 'wniosek został rozpatrzony pozytywnie' mean?",
+      "options": ["The application was reviewed positively.", "The application will be reviewed positively.", "The application is reviewed positively.", "The application was submitted positively."],
+      "correctIndex": 0,
+      "explanation": "'Wniosek został rozpatrzony pozytywnie.' = The application was reviewed positively. 'Został' = past event passive. 'Rozpatrzony' = PPP of rozpatrzyć (to review/consider). 'Pozytywnie' = positively. Classic bureaucratic Polish for a successful application result."
+    },
+    {
+      "id": "b1-ch04-rev-q09",
+      "type": "multiple_choice",
+      "order": 9,
+      "sourceLesson": "b1-ch04-l02",
+      "prompt": "Which sentence uses agentless passive correctly?",
+      "options": ["Błąd został popełniony.", "Błąd został popełniony przez błąd.", "Błąd był popełniony przez kogoś.", "Błąd popełnił się."],
+      "correctIndex": 0,
+      "explanation": "'Błąd został popełniony.' = A mistake was made. — classic agentless passive (no przez phrase). Agentless = no agent mentioned. 'Przez błąd' makes no sense (błąd can't commit a mistake). 'Był popełniony' = state passive in past. 'Popełnił się' = unnatural. Bureaucratic evasion: agentless passive."
+    },
+    {
+      "id": "b1-ch04-rev-q10",
+      "type": "multiple_choice",
+      "order": 10,
+      "sourceLesson": "b1-ch04-l01",
+      "prompt": "What is the difference between 'Drzwi są zamknięte' and 'Drzwi zostały zamknięte'?",
+      "options": ["The first is state (currently closed), the second is event (got closed)", "The first is past, the second is present", "They mean the same thing", "The first uses active, the second uses passive"],
+      "correctIndex": 0,
+      "explanation": "'Drzwi są zamknięte' = STATE passive (są + PPP): the doors are currently in a closed state. 'Drzwi zostały zamknięte' = EVENT passive (zostały + PPP): the doors got closed / were closed (the action of closing happened). State vs event is the key być vs zostać distinction."
+    },
+    {
+      "id": "b1-ch04-rev-q11",
+      "type": "multiple_choice",
+      "order": 11,
+      "sourceLesson": "b1-ch04-l04",
+      "prompt": "Academic writing: Badanie ___ przeprowadzone przez zespół badaczy. (The study was conducted by the research team.)",
+      "options": ["zostało", "jest", "było", "będzie"],
+      "correctIndex": 0,
+      "explanation": "'Badanie' (study, n) → zostać past neuter: 'zostało'. 'Badanie zostało przeprowadzone przez zespół badaczy.' — academic passive reporting a completed study. 'Przez zespół badaczy' = by the research team (przez + acc). Academic reporting of past events → 'zostało'."
+    },
+    {
+      "id": "b1-ch04-rev-q12",
+      "type": "multiple_choice",
+      "order": 12,
+      "sourceLesson": "b1-ch04-l03",
+      "prompt": "Transform to event passive: 'Komisja zatwierdziła projekt.' (The committee approved the project.)",
+      "options": ["Projekt został zatwierdzony przez komisję.", "Projekt jest zatwierdzony przez komisję.", "Komisja jest zatwierdzona przez projekt.", "Projekt zatwierdzony przez komisję."],
+      "correctIndex": 0,
+      "explanation": "Active → event passive: 'komisja' (subject) → 'przez komisję' (agent, przez + acc). 'projekt' (object, acc 'projekt') → new subject 'projekt' (nom). Verb: zatwierdziła → 'został zatwierdzony' (m). Result: 'Projekt został zatwierdzony przez komisję.'"
+    }
+  ]
+}

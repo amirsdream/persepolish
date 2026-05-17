@@ -1,0 +1,70 @@
+{
+  "id": "a1-ch10-l03",
+  "level": "a1",
+  "chapter": 10,
+  "lessonOrder": 3,
+  "title": "grać w and grać na — Sports and Instruments",
+  "grammarPoint": "grać w + accusative (sports/games); grać na + locative (instruments)",
+  "explanation": {
+    "text": "The verb **grać** (to play) uses different prepositions depending on what you play:\n\n**grać w + accusative** = to play (a sport or game)\n\n| Sport/Game | grać w + acc | Polish |\n|------------|-------------|--------|\n| piłka nożna (football) | gram w piłkę nożną | I play football |\n| tenis | gram w tenisa | I play tennis |\n| koszykówka (basketball) | gram w koszykówkę | I play basketball |\n| szachy (chess, pl) | gram w szachy | I play chess |\n| karty (cards, pl) | gram w karty | I play cards |\n\n**grać na + locative** = to play (a musical instrument)\n\n| Instrument | grać na + loc | Polish |\n|-----------|--------------|--------|\n| gitara (guitar) | gram na gitarze | I play guitar |\n| piano / fortepian | gram na pianinie | I play piano |\n| skrzypce (violin, pl) | gram na skrzypcach | I play violin |\n| flet (flute) | gram na flecie | I play flute |\n| perkusja (drums) | gram na perkusji | I play drums |\n\n**Conjugation of grać (Group 1):**\n\n| Person | Form |\n|--------|------|\n| ja | **gram** |\n| ty | **grasz** |\n| on/ona | **gra** |\n| my | **gramy** |\n| wy | **gracie** |\n| oni/one | **grają** |",
+    "notes": [
+      "grać w + accusative for sports: piłka nożna → w piłkę nożną.",
+      "grać na + locative for instruments: gitara → na gitarze.",
+      "'Uprawiać sport' = to do sport (general). 'Grać' is for team sports and games with winners.",
+      "grać is Group 1: gram/grasz/gra/gramy/gracie/grają."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a1-ch10-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Gram ___ (I play tennis). [tenis → w + accusative]",
+      "options": ["w tenisa", "na tenisie", "w tenis", "na tenis"],
+      "correctIndex": 0,
+      "explanation": "'Grać w + accusative': tenis (m inanimate) → 'w tenisa' (acc of tenis). 'Gram w tenisa' = I play tennis."
+    },
+    {
+      "id": "a1-ch10-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Ona gra ___ gitarze. (She plays guitar.) [na + locative]",
+      "answer": "na",
+      "acceptableAnswers": ["na"],
+      "hint": "Instruments use 'na + locative'"
+    },
+    {
+      "id": "a1-ch10-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a1/ch10/a1-ch10-l03-ex03.mp3",
+      "options": ["Gram w piłkę nożną i na pianinie.", "Gram w piłkę nożną i na piano.", "Gram w piłkę nożną i gram pianino.", "Gram piłkę nożną i na pianino."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Gram w piłkę nożną i na pianinie.' — I play football and piano. 'W + acc' for sport; 'na + locative' for instrument: pianino → pianinie."
+    },
+    {
+      "id": "a1-ch10-l03-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: My brother plays chess.",
+      "wordBank": ["Mój", "brat", "gra", "gram", "w", "na", "szachy", "szachach", "szacha"],
+      "correctSequences": [
+        ["Mój", "brat", "gra", "w", "szachy"]
+      ],
+      "explanation": "'Mój brat gra w szachy' = My brother plays chess. 'Szachy' (plural) + 'w' + accusative (same as nominative for this noun)."
+    },
+    {
+      "id": "a1-ch10-l03-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "Czy ___ na jakimś instrumencie? (Do you play any instrument?)",
+      "options": ["grasz", "gram", "gra", "gramy"],
+      "correctIndex": 0,
+      "explanation": "'Grasz' = you play (ty form of grać). 'Czy grasz na jakimś instrumencie?' = Do you play any instrument?"
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 9,
+  "tags": ["grac", "sports", "instruments", "prepositions", "a1-core"],
+  "prerequisites": ["a1-ch06-l01", "a1-ch05-l01"]
+}

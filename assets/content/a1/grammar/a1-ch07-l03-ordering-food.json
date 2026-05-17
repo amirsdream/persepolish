@@ -1,0 +1,72 @@
+{
+  "id": "a1-ch07-l03",
+  "level": "a1",
+  "chapter": 7,
+  "lessonOrder": 3,
+  "title": "Ordering Food — In a Restaurant",
+  "grammarPoint": "Restaurant phrases: poproszę + acc, chciałbym/chciałabym + acc, czy mogę prosić o + acc",
+  "explanation": {
+    "text": "In a Polish restaurant or café, you need a few essential phrases. These all use the **accusative case** for the thing ordered.\n\n**Ordering phrases:**\n\n| Polish | English | Register |\n|--------|---------|----------|\n| **Poproszę** + accusative | I'd like / Could I have | polite, standard |\n| **Proszę** + accusative | I'd like (in shop) | polite |\n| **Chciałbym** (m) / **Chciałabym** (f) + accusative | I would like | formal/polite |\n| **Czy mogę prosić o** + accusative? | Could I please have? | very polite |\n| **Co polecacie?** | What do you recommend? | — |\n\n**Menu vocabulary:**\n- pierwsze danie = starter / first course\n- drugie danie = main course\n- deser = dessert\n- rachunek / paragon = bill / receipt\n\n**Useful restaurant exchanges:**\n- Stolik dla dwóch osób, proszę. = A table for two, please.\n- Co to jest? = What is this?\n- Czy jest...? = Is there...?\n- Smacznego! = Enjoy your meal! (like Bon appétit)\n- Poproszę rachunek. = The bill, please.",
+    "notes": [
+      "'Poproszę' is the most natural ordering word — use it confidently: Poproszę kawę. = A coffee, please.",
+      "'Chciałbym' (m) / 'chciałabym' (f) = I would like (conditional of chcieć). Very polite.",
+      "Accusative after ordering: kawa (f) → kawę; piwo (n) → piwo; sok (m inan) → sok.",
+      "Smacznego! is said before/during eating — reply: Dziękuję! or Dzięki!"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a1-ch07-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "How do you order 'a coffee' politely in Polish?",
+      "options": ["Poproszę kawę.", "Chcę kawa.", "Proszę kawą.", "Daj mi kawę."],
+      "correctIndex": 0,
+      "explanation": "'Poproszę kawę.' = A coffee, please. 'Kawa' (f) → accusative 'kawę'. 'Poproszę' is the standard polite ordering word."
+    },
+    {
+      "id": "a1-ch07-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Poproszę ___. (I'd like the bill, please.) [rachunek → accusative]",
+      "answer": "rachunek",
+      "acceptableAnswers": ["rachunek"],
+      "hint": "Masculine inanimate nouns = same in accusative as nominative"
+    },
+    {
+      "id": "a1-ch07-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a1/ch07/a1-ch07-l03-ex03.mp3",
+      "options": ["Stolik dla dwóch osób, proszę.", "Stolik dla dwa osoby, proszę.", "Stolik dla dwoje osób, proszę.", "Stolik dla dwa osób, proszę."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Stolik dla dwóch osób, proszę.' — A table for two, please. 'Dla + genitive': dwóch osób (genitive plural). 'Dwóch' is the genitive of 'dwa' for virile/persons."
+    },
+    {
+      "id": "a1-ch07-l03-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: I would like a beer, please. (male speaker)",
+      "wordBank": ["Chciałbym", "Chciałabym", "poproszę", "piwo", "piwa", "piwem", "proszę"],
+      "correctSequences": [
+        ["Chciałbym", "piwo"],
+        ["Chciałbym", "piwo", "proszę"],
+        ["Poproszę", "piwo"]
+      ],
+      "explanation": "'Chciałbym piwo' = I would like a beer (m speaker). 'Piwo' (neuter inanimate) = same in accusative. Or 'Poproszę piwo' = A beer, please."
+    },
+    {
+      "id": "a1-ch07-l03-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "What do you say before someone starts eating in Polish?",
+      "options": ["Smacznego!", "Dziękuję!", "Proszę!", "Na zdrowie!"],
+      "correctIndex": 0,
+      "explanation": "'Smacznego!' = Enjoy your meal! / Bon appétit! (genitive of 'smaczny'). Used before or during eating. 'Na zdrowie!' = Cheers! (for drinking)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 9,
+  "tags": ["restaurant", "ordering", "accusative", "phrases", "a1-core"],
+  "prerequisites": ["a1-ch04-l03", "a1-ch07-l01"]
+}

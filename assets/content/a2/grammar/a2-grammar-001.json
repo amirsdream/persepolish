@@ -1,0 +1,81 @@
+{
+  "id": "a2-grammar-001",
+  "level": "a2",
+  "order": 1,
+  "title": "Past Tense — Masculine (Czas przeszły)",
+  "explanation": "The Polish past tense (czas przeszły) is formed from the past stem of the verb. For masculine singular subjects (ja, ty, on), the endings are: -łem (ja), -łeś (ty), -ł (on). For example: robić (to do) → robiłem (I did, m), robiłeś (you did, m), robił (he did). The stem is formed by removing -ć from the infinitive and adding -ł-. Note: irregular verbs like iść (to go) have stems: szedłem, szedłeś, szedł.",
+  "examples": [
+    {
+      "polish": "Wczoraj pracowałem cały dzień.",
+      "english": "Yesterday I worked all day.",
+      "note": "masculine 1st person singular: pracować → pracowałem"
+    },
+    {
+      "polish": "On jadł obiad o drugiej.",
+      "english": "He ate dinner at two.",
+      "note": "masculine 3rd person singular: jeść → jadł"
+    },
+    {
+      "polish": "Czytałeś tę książkę?",
+      "english": "Did you read that book?",
+      "note": "masculine 2nd person singular: czytać → czytałeś"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "id": "a2-g001-ex01",
+      "prompt": "Which is the correct past tense form of 'pracować' for 'ja' (I, male)?",
+      "options": [
+        "pracowałem",
+        "pracowałam",
+        "pracował",
+        "pracowałeś"
+      ],
+      "correct_index": 0,
+      "explanation": "Masculine 1st person singular past: -łem ending. Pracować → pracowałem."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a2-g001-ex02",
+      "prompt": "Complete with the past tense of 'czytać' (to read) for 'on' (he):",
+      "sentence_template": "On ___ gazetę.",
+      "accepted_answers": ["czytał"],
+      "explanation": "Masculine 3rd person singular past: -ł ending. Czytać → czytał."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a2-g001-ex03",
+      "prompt": "How do you say 'You (male, informal) went to school'?",
+      "options": [
+        "Szedłeś do szkoły.",
+        "Szedłam do szkoły.",
+        "Szedł do szkoły.",
+        "Idziesz do szkoły."
+      ],
+      "correct_index": 0,
+      "explanation": "Iść (to go on foot) has an irregular past stem: szedł-. Masculine 2nd person: szedłeś."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a2-g001-ex04",
+      "prompt": "Complete with the past tense of 'robić' (to do) for 'ja' (I, male):",
+      "sentence_template": "Co ___ wczoraj?",
+      "accepted_answers": ["robiłem"],
+      "explanation": "Masculine 1st person singular past: robiłem (robić → robił- + -em)."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a2-g001-ex05",
+      "prompt": "Which sentence means 'He ate breakfast'?",
+      "options": [
+        "Zjadł śniadanie.",
+        "Zjadłem śniadanie.",
+        "Zjadłeś śniadanie.",
+        "Zjadł śniadania."
+      ],
+      "correct_index": 0,
+      "explanation": "3rd person masculine singular past of 'zjeść' (to eat up) is 'zjadł'. The object 'śniadanie' (breakfast) stays in the accusative."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "a2-ch19-l03",
+  "level": "a2",
+  "chapter": 19,
+  "lessonOrder": 3,
+  "title": "Formal vs Informal Vocabulary",
+  "grammarPoint": "Formal/informal vocabulary register pairs: rozmawiać vs gadać, kupić vs nabyć, powiedzieć vs rzec, prosić vs chcieć — matching register to context",
+  "explanation": {
+    "text": "Polish has a clear split between formal (oficjalny) and informal (potoczny) register. The same concept often has two words — one for formal writing/speech and one for everyday conversation.\n\n## Formal vs Informal Pairs\n\n| Informal | Formal | English |\n|---------|--------|--------|\n| **gadać** | **rozmawiać / mówić** | to talk/chat |\n| **chcieć** | **pragnąć / życzyć sobie** | to want / wish |\n| **dostać** | **otrzymać** | to receive / get |\n| **powiedzieć** | **stwierdzić / oświadczyć** | to say / state |\n| **kupić** | **nabyć** | to buy / acquire |\n| **dać** | **przekazać / wręczyć** | to give / hand over |\n| **pokazać** | **przedstawić / zaprezentować** | to show / present |\n| **zrobić** | **wykonać / przeprowadzić** | to do / carry out |\n| **skończyć** | **zakończyć / zakończyć** | to finish / conclude |\n| **pytać** | **zapytać / zwrócić się z pytaniem** | to ask / inquire |\n| **OK / dobra** | **w porządku / oczywiście** | OK / certainly |\n| **facet / koleś** | **pan / mężczyzna** | guy / man |\n\n## Formal Adjectives\n\n| Informal | Formal | English |\n|---------|--------|--------|\n| **dobry** | **znakomity / doskonały** | excellent |\n| **stary** | **doświadczony** | experienced |\n| **ważny** | **istotny / kluczowy** | important / key |\n| **nowy** | **aktualny / bieżący** | current / latest |\n\n## Formal Phrases vs Informal\n\n| Informal | Formal |\n|---------|--------|\n| Chcę... | Pragnę... / Chciałbym/Chciałabym... |\n| Przepraszam | Przepraszam uprzejmie / Proszę wybaczyć |\n| Nie wiem | Nie jestem w stanie powiedzieć |\n| OK, zrobię | Oczywiście, wykonam to |\n| Hej, cześć | Dzień dobry, dobry wieczór |\n\n## Register Tips\n\n- Formal = offices, emails, shops (first contact), letters, job interviews\n- Informal = friends, family, peers, social media (informal)",
+    "notes": [
+      "Otrzymać (formal) vs dostać (informal) — both mean 'to receive'. Prefer otrzymać in writing.",
+      "Pragnąć = to desire/wish (formal, literary). Chcieć = to want (neutral/informal).",
+      "Wykonać = to carry out/execute (formal). Zrobić = to do (informal, everyday).",
+      "At A2 level, focus on recognising register differences rather than always using formal forms."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch19-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Formal equivalent of 'dostać' (to get/receive)?",
+      "options": ["otrzymać", "wziąć", "mieć", "zdobyć"],
+      "correctIndex": 0,
+      "explanation": "'Otrzymać' = to receive (formal). 'Dostać' = to get (informal). In formal letters: 'Otrzymałam Pańskie pismo' = I received your letter. 'Dostałam list' = informal equivalent."
+    },
+    {
+      "id": "a2-ch19-l03-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "Formal equivalent of 'zrobić' (to do)?",
+      "options": ["wykonać", "nabyć", "zabrać", "oddać"],
+      "correctIndex": 0,
+      "explanation": "'Wykonać' = to carry out / execute (formal). 'Zrobić' = to do (everyday). 'Proszę wykonać zadanie' (formal instruction) vs 'Zrób to!' (informal command)."
+    },
+    {
+      "id": "a2-ch19-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a2/ch19/a2-ch19-l03-ex03.mp3",
+      "options": ["Pragnę złożyć skargę na obsługę.", "Chcę złożyć skargę na obsługę.", "Chciałbym złożyć skargę na obsługę.", "Mogę złożyć skargę na obsługę?"],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Pragnę złożyć skargę na obsługę.' — I wish to lodge a complaint about the service. 'Pragnąć' (formal) vs 'chcieć' (informal). 'Złożyć skargę' = to lodge a complaint (formal expression). 'Obsługa' = service (customer service)."
+    },
+    {
+      "id": "a2-ch19-l03-ex04",
+      "type": "multiple_choice",
+      "order": 4,
+      "prompt": "Which greeting is appropriate in a formal business email?",
+      "options": ["Dzień dobry,", "Hej,", "Cześć,", "Witaj,"],
+      "correctIndex": 0,
+      "explanation": "'Dzień dobry,' = Good day/Hello — appropriate formal email opening. 'Hej' and 'Cześć' are informal (hi/hey). 'Witaj' is semi-formal but mostly informal. In very formal contexts, use 'Szanowny Panie/Szanowna Pani'."
+    },
+    {
+      "id": "a2-ch19-l03-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build a formal sentence: I would like to inquire about the price. (zapytać / cena)",
+      "wordBank": ["Chciałbym", "Chciałabym", "zapytać", "o", "cenę", "ceny", "cena", "usługi", "usługę", "."],
+      "correctSequences": [
+        ["Chciałbym", "zapytać", "o", "cenę", "usługi", "."],
+        ["Chciałabym", "zapytać", "o", "cenę", "usługi", "."]
+      ],
+      "explanation": "'Chciałbym/Chciałabym zapytać o cenę usługi.' — I would like to inquire about the price of the service. Conditional 'chciałbym' is polite/formal. 'Zapytać o + accusative': cenę. 'Usługi' = genitive (of the service)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["formal-register", "vocabulary", "a2-core"],
+  "prerequisites": ["a2-ch19-l01", "a2-ch19-l02"]
+}

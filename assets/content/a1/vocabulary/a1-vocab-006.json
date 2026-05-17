@@ -1,0 +1,141 @@
+{
+  "id": "a1-vocab-006",
+  "level": "a1",
+  "order": 6,
+  "title": "Daily Routine",
+  "description": "Polish vocabulary for everyday activities and time expressions.",
+  "cards": [
+    {
+      "id": "a1v006-01",
+      "polish": "rano",
+      "english": "morning / in the morning",
+      "pronunciation": "RA-no",
+      "category": "noun",
+      "example_polish": "Wstaję rano o siódmej.",
+      "example_english": "I get up in the morning at seven.",
+      "gender": "n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v006-02",
+      "polish": "wieczór",
+      "english": "evening",
+      "pronunciation": "VYEH-choor",
+      "category": "noun",
+      "example_polish": "Oglądam telewizję wieczorem.",
+      "example_english": "I watch television in the evening.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v006-03",
+      "polish": "spać",
+      "english": "to sleep",
+      "pronunciation": "spach",
+      "category": "verb",
+      "example_polish": "Śpię osiem godzin.",
+      "example_english": "I sleep eight hours.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v006-04",
+      "polish": "wstawać",
+      "english": "to get up / to rise",
+      "pronunciation": "fsta-VACH",
+      "category": "verb",
+      "example_polish": "Wstaję o szóstej rano.",
+      "example_english": "I get up at six in the morning.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v006-05",
+      "polish": "jeść śniadanie",
+      "english": "to have breakfast / to eat breakfast",
+      "pronunciation": "yeshch shnya-DA-nye",
+      "category": "verb",
+      "example_polish": "Jem śniadanie z rodziną.",
+      "example_english": "I have breakfast with my family.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v006-06",
+      "polish": "pracować",
+      "english": "to work",
+      "pronunciation": "pra-TSO-vach",
+      "category": "verb",
+      "example_polish": "Pracuję od dziewiątej do piątej.",
+      "example_english": "I work from nine to five.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v006-07",
+      "polish": "iść do szkoły",
+      "english": "to go to school",
+      "pronunciation": "eeshch do SHKO-wi",
+      "category": "verb",
+      "example_polish": "Idę do szkoły o ósmej.",
+      "example_english": "I go to school at eight.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v006-08",
+      "polish": "odpoczywać",
+      "english": "to rest / to relax",
+      "pronunciation": "od-po-CHI-vach",
+      "category": "verb",
+      "example_polish": "Odpoczywam po pracy.",
+      "example_english": "I rest after work.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v006-09",
+      "polish": "gotować",
+      "english": "to cook",
+      "pronunciation": "go-TO-vach",
+      "category": "verb",
+      "example_polish": "Gotuję obiad co dzień.",
+      "example_english": "I cook dinner every day.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v006-10",
+      "polish": "robić zakupy",
+      "english": "to go shopping / to do the shopping",
+      "pronunciation": "RO-bich ZA-ku-pi",
+      "category": "verb",
+      "example_polish": "Robię zakupy w sobotę.",
+      "example_english": "I do the shopping on Saturday.",
+      "gender": null,
+      "audio_asset": null
+    },
+    {
+      "id": "a1v006-11",
+      "polish": "południe",
+      "english": "noon / midday",
+      "pronunciation": "po-WUD-nye",
+      "category": "noun",
+      "example_polish": "Jem lunch w południe.",
+      "example_english": "I have lunch at noon.",
+      "gender": "n",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v006-12",
+      "polish": "myć się",
+      "english": "to wash oneself / to have a wash",
+      "pronunciation": "mich sheh",
+      "category": "verb",
+      "example_polish": "Myję się przed śniadaniem.",
+      "example_english": "I wash myself before breakfast.",
+      "gender": null,
+      "audio_asset": null
+    }
+  ]
+}

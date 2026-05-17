@@ -1,0 +1,70 @@
+{
+  "id": "a1-ch02-l02",
+  "level": "a1",
+  "chapter": 2,
+  "lessonOrder": 2,
+  "title": "Nominative Plural — Nouns",
+  "grammarPoint": "Forming nominative plural: -i/-y/-e/-owie endings by gender and type",
+  "explanation": {
+    "text": "Polish nouns change their ending in the plural. The plural form depends on the noun's gender and its final consonant. Here are the main patterns:\n\n| Type | Singular → Plural | Example |\n|------|------------------|---------|\n| Masculine personal (virile) | consonant → **-i/-y** | student → studenci |\n| Masculine non-personal | consonant → **-y/-i** | kot → koty |\n| Feminine -a | -a → **-y/-i** | kobieta → kobiety |\n| Neuter -o | -o → **-a** | okno → okna |\n| Neuter -e | -e → **-a** | morze → morza |\n\nNote: masculine personal nouns (men, male animate beings) use **virile** plural — a special form that often triggers a consonant change (student → studenci, Polak → Polacy).",
+    "notes": [
+      "Virile plural (masculine personal) often causes a consonant softening: t→c, k→c, d→dz, r→rz.",
+      "Non-virile masculine and feminine -a nouns take -y or -i (after soft/k/g consonants).",
+      "Neuter -o nouns simply change -o → -a in the plural.",
+      "Irregular plurals must be learned individually (e.g. człowiek → ludzie)."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a1-ch02-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "What is the nominative plural of 'okno' (window)?",
+      "options": ["okna", "okny", "okni", "oknie"],
+      "correctIndex": 0,
+      "explanation": "Neuter nouns ending in -o form the plural with -a: okno → okna."
+    },
+    {
+      "id": "a1-ch02-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Te ___ są bardzo miłe. (These women are very nice.) [kobieta → ?]",
+      "answer": "kobiety",
+      "acceptableAnswers": ["kobiety"],
+      "hint": "Feminine noun ending -a → -y in the plural"
+    },
+    {
+      "id": "a1-ch02-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a1/ch02/a1-ch02-l02-ex03.mp3",
+      "options": ["Studenci są tutaj.", "Studentki są tutaj.", "Student jest tutaj.", "Studenta są tutaj."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Studenci są tutaj.' — The students (male/mixed) are here. Virile plural: student → studenci."
+    },
+    {
+      "id": "a1-ch02-l02-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: The cats are black. [kot → koty, czarny → czarne]",
+      "wordBank": ["Koty", "Kota", "są", "jest", "czarne", "czarny"],
+      "correctSequences": [
+        ["Koty", "są", "czarne"]
+      ],
+      "explanation": "'Koty są czarne' = The cats are black. 'Koty' is the non-virile masculine plural of 'kot'. Adjective 'czarne' agrees in plural non-virile."
+    },
+    {
+      "id": "a1-ch02-l02-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "What is the correct virile plural of 'Polak' (a Polish man)?",
+      "options": ["Polacy", "Polaki", "Polakowie", "Polaku"],
+      "correctIndex": 0,
+      "explanation": "'Polak' → 'Polacy' — the k softens to c in the virile plural. This is a common pattern with nouns ending in -k."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 9,
+  "tags": ["nominative", "plural", "noun-declension", "a1-core"],
+  "prerequisites": ["a1-ch01-l04"]
+}

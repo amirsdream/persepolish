@@ -1,0 +1,319 @@
+{
+  "id": "a1-exam-01",
+  "level": "a1",
+  "title": "A1 Level Exam — Polski krok po kroku",
+  "description": "PKE-style A1 proficiency exam covering grammar, reading comprehension, listening, and written production.",
+  "timeLimitSeconds": 7200,
+  "passThresholdOverall": 0.50,
+  "passThresholdPerSection": 0.40,
+  "sections": [
+    {
+      "id": "a1-exam-01-grammar",
+      "type": "grammar",
+      "title": "Grammar — Gramatyka (35%)",
+      "weightPercent": 35,
+      "timeLimitSeconds": 2520,
+      "exercises": [
+        {
+          "id": "a1-exam-01-g01",
+          "type": "multiple_choice",
+          "order": 1,
+          "prompt": "Jestem ___ (I am a student — m).",
+          "options": ["studentem", "student", "studenta", "studencie"],
+          "correctIndex": 0,
+          "explanation": "Być + instrumental for identity: student → studentem."
+        },
+        {
+          "id": "a1-exam-01-g02",
+          "type": "multiple_choice",
+          "order": 2,
+          "prompt": "Nie ma ___ w lodówce. (There is no milk in the fridge.)",
+          "options": ["mleka", "mleko", "mlekiem", "mleku"],
+          "correctIndex": 0,
+          "explanation": "Nie ma + genitive: mleko (neuter) → mleka."
+        },
+        {
+          "id": "a1-exam-01-g03",
+          "type": "multiple_choice",
+          "order": 3,
+          "prompt": "Idę ___ (to Warsaw). [Warszawa → genitive]",
+          "options": ["do Warszawy", "w Warszawie", "na Warszawę", "do Warszawa"],
+          "correctIndex": 0,
+          "explanation": "Destination: do + genitive. Warszawa (f) → Warszawy."
+        },
+        {
+          "id": "a1-exam-01-g04",
+          "type": "multiple_choice",
+          "order": 4,
+          "prompt": "Lubię ___ (I like coffee). [kawa → accusative]",
+          "options": ["kawę", "kawa", "kawy", "kawą"],
+          "correctIndex": 0,
+          "explanation": "Lubić + accusative: kawa (f) → kawę."
+        },
+        {
+          "id": "a1-exam-01-g05",
+          "type": "multiple_choice",
+          "order": 5,
+          "prompt": "Mieszkam ___ Krakowie. (I live in Kraków.)",
+          "options": ["w", "do", "na", "z"],
+          "correctIndex": 0,
+          "explanation": "Location: w + locative. 'Mieszkam w Krakowie.'"
+        },
+        {
+          "id": "a1-exam-01-g06",
+          "type": "multiple_choice",
+          "order": 6,
+          "prompt": "Boli mnie ___ (My head hurts.)",
+          "options": ["głowa", "głowę", "głowy", "głową"],
+          "correctIndex": 0,
+          "explanation": "Boli mnie + nominative of body part: głowa."
+        },
+        {
+          "id": "a1-exam-01-g07",
+          "type": "multiple_choice",
+          "order": 7,
+          "prompt": "Ona ___ po angielsku. (She speaks English.) [mówić, ona]",
+          "options": ["mówi", "mówię", "mówisz", "mówią"],
+          "correctIndex": 0,
+          "explanation": "Mówić Group 2: ona → mówi."
+        },
+        {
+          "id": "a1-exam-01-g08",
+          "type": "multiple_choice",
+          "order": 8,
+          "prompt": "Daję prezent ___ (I give a gift to mum). [mama → dative]",
+          "options": ["mamie", "mama", "mamę", "mamy"],
+          "correctIndex": 0,
+          "explanation": "Indirect object = dative: mama → mamie."
+        },
+        {
+          "id": "a1-exam-01-g09",
+          "type": "multiple_choice",
+          "order": 9,
+          "prompt": "Jadę do Warszawy ___ (by train). [pociąg → instrumental]",
+          "options": ["pociągiem", "pociąg", "pociągu", "pociągowi"],
+          "correctIndex": 0,
+          "explanation": "Transport = instrumental: pociąg → pociągiem."
+        },
+        {
+          "id": "a1-exam-01-g10",
+          "type": "multiple_choice",
+          "order": 10,
+          "prompt": "Muszę ___ do lekarza. (I must go to the doctor.)",
+          "options": ["iść", "idę", "idź", "idy"],
+          "correctIndex": 0,
+          "explanation": "Modal verb musieć + infinitive: iść."
+        },
+        {
+          "id": "a1-exam-01-g11",
+          "type": "multiple_choice",
+          "order": 11,
+          "prompt": "Proszę pięć ___ (Five apples please). [jabłko → genitive plural]",
+          "options": ["jabłek", "jabłka", "jabłko", "jabłkach"],
+          "correctIndex": 0,
+          "explanation": "After 5+: genitive plural. jabłko → jabłek."
+        },
+        {
+          "id": "a1-exam-01-g12",
+          "type": "multiple_choice",
+          "order": 12,
+          "prompt": "To jest ___ restauracja. (This is a good restaurant.) [dobry → f nom]",
+          "options": ["dobra", "dobry", "dobre", "dobrzy"],
+          "correctIndex": 0,
+          "explanation": "Restauracja is feminine → adjective: dobra."
+        }
+      ]
+    },
+    {
+      "id": "a1-exam-01-reading",
+      "type": "reading",
+      "title": "Reading — Czytanie ze zrozumieniem (35%)",
+      "weightPercent": 35,
+      "timeLimitSeconds": 2520,
+      "passage": "Cześć! Nazywam się Ania. Mam dwadzieścia pięć lat i jestem studentką. Studiuję medycynę na Uniwersytecie Jagiellońskim w Krakowie. Mieszkam w małym mieszkaniu w centrum miasta. Moje hobby to gotowanie i czytanie. Lubię też chodzić do kina. Mam kota — nazywa się Puszek. Codziennie rano piję kawę i czytam gazetę. W weekendy gram w tenisa lub chodzę na spacer z Puszkiem.",
+      "passageTranslation": "Hi! My name is Ania. I am twenty-five years old and I am a student. I study medicine at the Jagiellonian University in Kraków. I live in a small flat in the city centre. My hobbies are cooking and reading. I also like going to the cinema. I have a cat — his name is Puszek. Every morning I drink coffee and read a newspaper. At weekends I play tennis or go for a walk with Puszek.",
+      "exercises": [
+        {
+          "id": "a1-exam-01-r01",
+          "type": "multiple_choice",
+          "order": 1,
+          "prompt": "Where does Ania study?",
+          "options": ["Jagiellonian University in Kraków", "Warsaw University", "Poznań University", "AGH University"],
+          "correctIndex": 0,
+          "explanation": "Text: 'Studiuję medycynę na Uniwersytecie Jagiellońskim w Krakowie.'"
+        },
+        {
+          "id": "a1-exam-01-r02",
+          "type": "multiple_choice",
+          "order": 2,
+          "prompt": "What is Ania's hobby?",
+          "options": ["cooking and reading", "tennis and swimming", "cinema and dancing", "travel and photography"],
+          "correctIndex": 0,
+          "explanation": "Text: 'Moje hobby to gotowanie i czytanie.'"
+        },
+        {
+          "id": "a1-exam-01-r03",
+          "type": "multiple_choice",
+          "order": 3,
+          "prompt": "What is the name of Ania's cat?",
+          "options": ["Puszek", "Ania", "Kraków", "Janek"],
+          "correctIndex": 0,
+          "explanation": "Text: 'Mam kota — nazywa się Puszek.'"
+        },
+        {
+          "id": "a1-exam-01-r04",
+          "type": "multiple_choice",
+          "order": 4,
+          "prompt": "What does Ania do every morning?",
+          "options": ["drinks coffee and reads a newspaper", "goes jogging", "goes to university", "cooks breakfast"],
+          "correctIndex": 0,
+          "explanation": "Text: 'Codziennie rano piję kawę i czytam gazetę.'"
+        },
+        {
+          "id": "a1-exam-01-r05",
+          "type": "multiple_choice",
+          "order": 5,
+          "prompt": "What sport does Ania play at weekends?",
+          "options": ["tennis", "football", "basketball", "swimming"],
+          "correctIndex": 0,
+          "explanation": "Text: 'W weekendy gram w tenisa...'"
+        },
+        {
+          "id": "a1-exam-01-r06",
+          "type": "multiple_choice",
+          "order": 6,
+          "prompt": "What kind of flat does Ania have?",
+          "options": ["small flat in the city centre", "big house in the suburbs", "room at university", "flat with a garden"],
+          "correctIndex": 0,
+          "explanation": "Text: 'Mieszkam w małym mieszkaniu w centrum miasta.'"
+        },
+        {
+          "id": "a1-exam-01-r07",
+          "type": "multiple_choice",
+          "order": 7,
+          "prompt": "How old is Ania?",
+          "options": ["25", "20", "30", "22"],
+          "correctIndex": 0,
+          "explanation": "Text: 'Mam dwadzieścia pięć lat' = I am twenty-five years old."
+        },
+        {
+          "id": "a1-exam-01-r08",
+          "type": "multiple_choice",
+          "order": 8,
+          "prompt": "What does Ania do at weekends besides tennis?",
+          "options": ["goes for a walk with her cat", "goes to the cinema", "cooks dinner", "studies at the library"],
+          "correctIndex": 0,
+          "explanation": "Text: '...lub chodzę na spacer z Puszkiem.' (or goes for a walk with Puszek)."
+        }
+      ]
+    },
+    {
+      "id": "a1-exam-01-listening",
+      "type": "listening",
+      "title": "Listening — Rozumienie ze słuchu (20%)",
+      "weightPercent": 20,
+      "timeLimitSeconds": 1440,
+      "exercises": [
+        {
+          "id": "a1-exam-01-l01",
+          "type": "dictation_mc",
+          "order": 1,
+          "audioAsset": "assets/audio/a1/exam/a1-exam-01-l01.mp3",
+          "options": ["Dzień dobry, jak się pan/pani nazywa?", "Cześć, jak masz na imię?", "Dobry wieczór, skąd jesteś?", "Hej, co słychać?"],
+          "correctIndex": 0,
+          "explanation": "You heard: 'Dzień dobry, jak się pan/pani nazywa?' — Good day, what is your name? (formal)."
+        },
+        {
+          "id": "a1-exam-01-l02",
+          "type": "dictation_mc",
+          "order": 2,
+          "audioAsset": "assets/audio/a1/exam/a1-exam-01-l02.mp3",
+          "options": ["Mieszkam w Warszawie od pięciu lat.", "Mieszkam w Krakowie od pięciu lat.", "Mieszkam w Gdańsku od pięciu lat.", "Mieszkam w Poznaniu od pięciu lat."],
+          "correctIndex": 0,
+          "explanation": "You heard: 'Mieszkam w Warszawie od pięciu lat.' — I have lived in Warsaw for five years."
+        },
+        {
+          "id": "a1-exam-01-l03",
+          "type": "dictation_mc",
+          "order": 3,
+          "audioAsset": "assets/audio/a1/exam/a1-exam-01-l03.mp3",
+          "options": ["Pociąg do Krakowa odjeżdża o piętnastej trzydzieści.", "Pociąg do Krakowa odjeżdża o szesnastej.", "Pociąg do Gdańska odjeżdża o piętnastej.", "Autobus do Krakowa odjeżdża o piętnastej trzydzieści."],
+          "correctIndex": 0,
+          "explanation": "You heard: 'Pociąg do Krakowa odjeżdża o piętnastej trzydzieści.' — The train to Kraków departs at 15:30."
+        },
+        {
+          "id": "a1-exam-01-l04",
+          "type": "dictation_mc",
+          "order": 4,
+          "audioAsset": "assets/audio/a1/exam/a1-exam-01-l04.mp3",
+          "options": ["Boli mnie gardło i mam gorączkę.", "Boli mnie głowa i mam kaszel.", "Bolą mnie nogi i jestem zmęczony.", "Nie czuję się dobrze i mam gorączkę."],
+          "correctIndex": 0,
+          "explanation": "You heard: 'Boli mnie gardło i mam gorączkę.' — My throat hurts and I have a fever."
+        },
+        {
+          "id": "a1-exam-01-l05",
+          "type": "dictation_mc",
+          "order": 5,
+          "audioAsset": "assets/audio/a1/exam/a1-exam-01-l05.mp3",
+          "options": ["Poproszę dwie kawy i jeden sok pomarańczowy.", "Poproszę jedną kawę i dwa soki.", "Poproszę dwie herbaty i jeden sok.", "Poproszę trzy kawy."],
+          "correctIndex": 0,
+          "explanation": "You heard: 'Poproszę dwie kawy i jeden sok pomarańczowy.' — Two coffees and one orange juice, please."
+        }
+      ]
+    },
+    {
+      "id": "a1-exam-01-writing",
+      "type": "writing_mc",
+      "title": "Written Production — Produkcja pisemna (10%)",
+      "weightPercent": 10,
+      "timeLimitSeconds": 720,
+      "exercises": [
+        {
+          "id": "a1-exam-01-w01",
+          "type": "multiple_choice",
+          "order": 1,
+          "prompt": "You want to order a beer and a salad at a restaurant. Which is correct?",
+          "options": ["Poproszę piwo i sałatkę.", "Chcę piwa i sałatka.", "Proszę piwem i sałatkę.", "Daj mi piwo i sałatka."],
+          "correctIndex": 0,
+          "explanation": "'Poproszę' + accusative: piwo (n, acc=nom) i sałatkę (f, acc -ę)."
+        },
+        {
+          "id": "a1-exam-01-w02",
+          "type": "multiple_choice",
+          "order": 2,
+          "prompt": "You want to say 'I live in Warsaw, I'm a teacher'. Which is correct?",
+          "options": ["Mieszkam w Warszawie. Jestem nauczycielem.", "Mieszkam Warszawa. Jestem nauczyciel.", "Mieszkam do Warszawy. Jestem nauczycielem.", "Mieszkam w Warszawa. Jestem nauczycielem."],
+          "correctIndex": 0,
+          "explanation": "'Mieszkam w Warszawie' (locative). 'Jestem nauczycielem' (instrumental). Both correct."
+        },
+        {
+          "id": "a1-exam-01-w03",
+          "type": "multiple_choice",
+          "order": 3,
+          "prompt": "You want to explain you have a headache and need to see a doctor. Which is best?",
+          "options": ["Boli mnie głowa. Muszę iść do lekarza.", "Bola mnie głowa. Muszę do lekarza.", "Boli mi głowa. Muszę iść lekarza.", "Boli mnie głowę. Musze iść do lekarza."],
+          "correctIndex": 0,
+          "explanation": "'Boli mnie głowa' (correct boleć construction). 'Muszę iść do lekarza' (modal + infinitive + genitive)."
+        },
+        {
+          "id": "a1-exam-01-w04",
+          "type": "multiple_choice",
+          "order": 4,
+          "prompt": "You're at a shop. How do you ask 'How much does this cost?'",
+          "options": ["Ile kosztuje?", "Jak kosztuje?", "Co to jest?", "Gdzie jest cena?"],
+          "correctIndex": 0,
+          "explanation": "'Ile kosztuje?' = How much does it cost? Essential shopping phrase. 'Ile' = how much, 'kosztuje' = it costs."
+        },
+        {
+          "id": "a1-exam-01-w05",
+          "type": "multiple_choice",
+          "order": 5,
+          "prompt": "Write a sentence to say you like reading and don't like cooking.",
+          "options": ["Lubię czytanie i nie lubię gotowania.", "Lubię czytanie i nie lubię gotowanie.", "Lubię czytania i nie lubię gotowania.", "Lubię czytać i nie lubię gotowanie."],
+          "correctIndex": 0,
+          "explanation": "'Lubię czytanie i nie lubię gotowania.' — Lubić + noun: czytanie (acc=nom for neuter). Nie lubić + genitive: gotowanie → gotowania."
+        }
+      ]
+    }
+  ]
+}

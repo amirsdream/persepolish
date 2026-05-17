@@ -1,0 +1,70 @@
+{
+  "id": "a2-ch19-l01",
+  "level": "a2",
+  "chapter": 19,
+  "lessonOrder": 1,
+  "title": "Pan/Pani — Formal Address",
+  "grammarPoint": "Polish formal address system: Pan (Mr/Sir) and Pani (Mrs/Ma'am) with 3rd person singular verbs — avoiding ty in formal situations",
+  "explanation": {
+    "text": "Polish has a formal address system that differs from most European languages. Instead of a special pronoun like French 'vous', Polish uses **Pan** (Mr/Sir) and **Pani** (Mrs/Ms) with **3rd person singular** verb forms.\n\n## Basic Rule\n\n**Informal (ty)**: Czy **ty** masz czas? → Czy **masz** czas?\n**Formal (Pan/Pani)**: Czy **Pan** ma czas? / Czy **Pani** ma czas?\n\n| Informal | Formal (m) | Formal (f) |\n|---------|-----------|----------|\n| Masz... | Pan ma... | Pani ma... |\n| Idziesz... | Pan idzie... | Pani idzie... |\n| Chcesz... | Pan chce... | Pani chce... |\n| Jesteś... | Pan jest... | Pani jest... |\n| Możesz... | Pan może... | Pani może... |\n| Widzisz... | Pan widzi... | Pani widzi... |\n\n## Key Examples\n\n- Dzień dobry! Jak się Pan/Pani nazywa? (What is your name?)\n- Skąd Pan/Pani pochodzi? (Where are you from?)\n- Czy Pan/Pani mówi po angielsku? (Do you speak English?)\n- Przepraszam, czy Pan/Pani może mi pomóc? (Excuse me, can you help me?)\n- Co Pan/Pani chce zamówić? (What would you like to order?)\n- Proszę Pana/Proszę Pani — excuse me sir/ma'am\n\n## Plural Forms\n\n| Singular | Plural |\n|---------|-------|\n| Pan (m sg) | Panowie (m pl) |\n| Pani (f sg) | Panie (f pl) |\n| — | Państwo (mixed pl = Mr & Mrs, ladies and gentlemen) |\n\n- Dzień dobry Państwu! (Good morning, ladies and gentlemen!)\n- Czy Państwo mają rezerwację? (Do you have a reservation?)\n\n## When to use formal:\n- With strangers, older people, authority figures\n- In shops, offices, restaurants (especially first contact)\n- In professional settings\n- Never required with children or students (peers)",
+    "notes": [
+      "Pan/Pani always takes 3rd person singular: Pan mówi (not mówisz). This is the core rule.",
+      "Państwo = formal plural (both genders mixed). Panowie = male group. Panie = female group.",
+      "'Proszę Pana/Proszę Pani' = formal 'Excuse me, sir/ma'am' — used very frequently.",
+      "Gen of Pan is Pana, Pani stays Pani: 'Dziękuję Pana/Pani' → better: 'Dziękuję Panu/Pani' (dative)."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch19-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Formal question to a man: Skąd ___ pochodzi? (Where are you from?)",
+      "options": ["Pan", "Pani", "ty", "się"],
+      "correctIndex": 0,
+      "explanation": "Addressing a man formally: 'Pan' + 3rd person singular verb. 'Skąd Pan pochodzi?' = Where are you from? (to a man). 'Skąd Pani pochodzi?' = to a woman."
+    },
+    {
+      "id": "a2-ch19-l01-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "Formal to a woman: Czy ___ mówi po angielsku?",
+      "options": ["Pani", "Pan", "ona", "ty"],
+      "correctIndex": 0,
+      "explanation": "Addressing a woman formally: 'Pani' + 3rd person singular. 'Czy Pani mówi po angielsku?' = Do you speak English? (to a woman). Note: the verb 'mówi' is 3rd sg, not 'mówisz'."
+    },
+    {
+      "id": "a2-ch19-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a2/ch19/a2-ch19-l01-ex03.mp3",
+      "options": ["Czy Pan może mi pomóc?", "Czy ty możesz mi pomóc?", "Czy Pani może mi pomóc?", "Czy Pan mógłby mi pomóc?"],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Czy Pan może mi pomóc?' — Can you help me? (formal, to a man). 'Pan może' = 3rd sg formal. Compare informal: 'Czy ty możesz mi pomóc?' or 'Czy możesz mi pomóc?'"
+    },
+    {
+      "id": "a2-ch19-l01-ex04",
+      "type": "multiple_choice",
+      "order": 4,
+      "prompt": "Formal plural address to a mixed group: Dzień dobry ___! (Good morning, ladies and gentlemen!)",
+      "options": ["Państwu", "Panowie", "Panów", "Panie"],
+      "correctIndex": 0,
+      "explanation": "'Państwo' = formal plural (mixed group). In greetings with 'dzień dobry', use dative: 'Dzień dobry Państwu!' 'Panowie' = gentlemen (men only). 'Panie' = ladies (women only)."
+    },
+    {
+      "id": "a2-ch19-l01-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build a formal question to a woman: What is your name? (Jak się Pani nazywa?)",
+      "wordBank": ["Jak", "się", "Pani", "Pan", "nazywa", "nazywasz", "?"],
+      "correctSequences": [
+        ["Jak", "się", "Pani", "nazywa", "?"]
+      ],
+      "explanation": "'Jak się Pani nazywa?' — What is your name? (formal, to a woman). 'Pani' + 3rd singular: nazywa (not 'nazywasz' which is informal ty). To a man: 'Jak się Pan nazywa?'"
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["formal-register", "pan-pani", "a2-core"],
+  "prerequisites": ["a2-ch11-l01", "a2-ch11-l02"]
+}

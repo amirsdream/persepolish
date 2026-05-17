@@ -1,0 +1,70 @@
+{
+  "id": "b1-ch04-l03",
+  "level": "b1",
+  "chapter": 4,
+  "lessonOrder": 3,
+  "title": "Passive vs Active Voice",
+  "grammarPoint": "Choosing between passive and active voice in Polish: when each is appropriate, how to transform active to passive, and the reflexive passive with się",
+  "explanation": {
+    "text": "Polish gives you three ways to express the same idea. Knowing when to use each is key to sounding natural.\n\n## Three Ways to Express an Action\n\nExample: 'Ktoś napisał ten list.' (Someone wrote this letter.)\n\n| Construction | Form | Focus |\n|-------------|------|-------|\n| **Active voice** | Sekretarka napisała list. | who did it (the doer) |\n| **State passive** (być + PPP) | List jest napisany. | current state (the result) |\n| **Event passive** (zostać + PPP) | List został napisany (przez sekretarkę). | the event/action |\n\n## Active → Passive Transformation\n\nTo turn active into passive:\n1. Object becomes subject\n2. Add zostać (event) or być (state)\n3. Verb becomes PPP (agrees with new subject)\n4. Original subject becomes 'przez + accusative' (optional)\n\n**Example transformation**:\n- Active: **Rząd** uchwalił **ustawę**. (The government passed the law.)\n- Passive: **Ustawa** została uchwalona (przez rząd). (The law was passed [by the government].)\n\n| Step | Active | Passive |\n|------|--------|--------|\n| Subject | Rząd (the government) | Ustawa (the law) |\n| Verb | uchwalił (passed) | została uchwalona |\n| Object | ustawę | [becomes subject] |\n| Agent | — | (przez rząd) |\n\n## When to Use Passive in Polish\n\n**Passive is preferred when**:\n- The doer is **unknown**: Okno zostało stłuczone. (Someone broke the window.)\n- The doer is **obvious/irrelevant**: Wyniki zostaną ogłoszone. (Results will be announced.)\n- **Formal/written Polish**: Wniosek został rozpatrzony pozytywnie.\n- **News and journalism**: Prezydent został wybrany.\n- Describing **historical events**: Zamek został zbudowany w XIV wieku.\n\n**Active is preferred when**:\n- You know and want to mention **who did it**: Jan napisał raport.\n- **Conversational Polish**: Mama ugotowała obiad. (Mom cooked dinner.) [not passive!]\n- The subject is a **specific person doing something**: Doktor zbadał pacjenta.\n\n## The Reflexive Passive: się\n\nPolish has another passive-like construction with **się** — used for general truths and impersonal statements:\n\n- **Mówi się, że...** (It is said that... / They say that...)\n- **Tu mówi się po polsku.** (Polish is spoken here.)\n- **To robi się tak.** (This is done like this.)\n- **Jak się to pisze?** (How is this written? / How do you spell this?)\n- **Ta książka dobrze się czyta.** (This book reads well.)\n- **Tutaj nie pali się.** (Smoking is not permitted here.)\n\nThe reflexive się passive is common in **instructions, recipes, and general statements**:\n- Pierogi **robi się** z mąki i wody. (Pierogi are made with flour and water.)\n- Chleb **piecze się** w piekarniku. (Bread is baked in the oven.)\n\n## Summary: Three Passive Types\n\n| Type | Form | Use |\n|------|------|-----|\n| State passive | być + PPP | current state: 'jest napisany' |\n| Event passive | zostać + PPP | action occurred: 'został napisany' |\n| Reflexive passive | się | general truth/process: 'pisze się' |",
+    "notes": [
+      "In everyday spoken Polish, active voice is much more common than passive. Passive is mainly formal/written.",
+      "The reflexive się passive does NOT show gender agreement — it always uses the infinitive/3rd person singular: 'pierogi robi się' (not 'robią się' for recipe context).",
+      "Don't force passive when active sounds natural. 'Mama ugotowała obiad' sounds much better than 'Obiad został ugotowany przez mamę' in conversation.",
+      "zostać + PPP is the most formal and journalistic passive; być + PPP is used for states; się is used for general processes."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch04-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Transform to passive: 'Dyrektor podpisał umowę.' (The director signed the contract.) → ? ['umowa' = f]",
+      "options": ["Umowa została podpisana przez dyrektora.", "Umowa jest podpisana przez dyrektora.", "Umowę podpisano przez dyrektora.", "Dyrektor jest podpisany przez umowę."],
+      "correctIndex": 0,
+      "explanation": "Active: 'Dyrektor podpisał umowę.' → Passive event: 'Umowa została podpisana przez dyrektora.' Object 'umowę' (f acc) → subject 'umowa' (f nom). Verb: podpisał → została podpisana (zostać f past + PPP f). Agent: dyrektor → przez dyrektora (przez + acc)."
+    },
+    {
+      "id": "b1-ch04-l03-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "Which sentence uses reflexive passive (się) correctly for a general recipe instruction?",
+      "options": ["Zupę gotuje się przez 20 minut.", "Zupa została gotowana przez 20 minut.", "Zupa jest gotowana przez 20 minut.", "Zupę gotowali przez 20 minut."],
+      "correctIndex": 0,
+      "explanation": "'Zupę gotuje się przez 20 minut.' = reflexive się passive for recipe instruction (how soup is made). '3rd person sg + się' = general process. 'Została gotowana' = event passive (specific instance). 'Jest gotowana' = state passive. Recipes and instructions → się."
+    },
+    {
+      "id": "b1-ch04-l03-ex03",
+      "type": "multiple_choice",
+      "order": 3,
+      "prompt": "Which is more natural in a conversation about what Mom cooked?",
+      "options": ["Mama ugotowała obiad.", "Obiad został ugotowany przez mamę.", "Obiad jest ugotowany przez mamę.", "Obiad ugotowuje się przez mamę."],
+      "correctIndex": 0,
+      "explanation": "In conversation, active voice is natural: 'Mama ugotowała obiad.' (Mom cooked dinner.) The passive 'Obiad został ugotowany przez mamę' sounds stiff and bureaucratic in everyday speech. Reserve passive for formal contexts, news, historical descriptions, or when the agent is unknown/irrelevant."
+    },
+    {
+      "id": "b1-ch04-l03-ex04",
+      "type": "dictation_mc",
+      "order": 4,
+      "audioAsset": "assets/audio/b1/ch04/b1-ch04-l03-ex04.mp3",
+      "options": ["Jak się to robi po polsku?", "Jak się to robiło po polsku?", "Jak to zostało zrobione po polsku?", "Jak to robi się po Polska?"],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Jak się to robi po polsku?' — How is this done in Polish? / How do you do this in Polish? Reflexive się passive for general inquiry: 'jak się [verb]' = how is [something] done. 'Po polsku' = in Polish. Very common question form."
+    },
+    {
+      "id": "b1-ch04-l03-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build the event passive: The new law was passed by parliament. (ustawa=f, uchwalić→uchwalona, sejm=m)",
+      "wordBank": ["Nowa", "ustawa", "została", "jest", "uchwalona", "uchwalony", "przez", "od", "Sejm", "Sejmu", "."],
+      "correctSequences": [
+        ["Nowa", "ustawa", "została", "uchwalona", "przez", "Sejm", "."]
+      ],
+      "explanation": "'Nowa ustawa została uchwalona przez Sejm.' — The new law was passed by parliament. 'Ustawa' (f) → 'została' (f past) + 'uchwalona' (PPP f). Agent: 'przez + accusative': 'Sejm' stays 'Sejm' (masculine inanimate accusative = nominative). Event passive for news/formal contexts."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 14,
+  "tags": ["passive-voice", "b1-core", "active-passive", "reflexive-sie"],
+  "prerequisites": ["b1-ch04-l02"]
+}

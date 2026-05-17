@@ -1,0 +1,81 @@
+{
+  "id": "a2-grammar-006",
+  "level": "a2",
+  "order": 6,
+  "title": "Conditional Mood — Would (Tryb warunkowy)",
+  "explanation": "The Polish conditional mood (tryb warunkowy) expresses hypothetical situations, wishes, and polite requests. It is formed by adding the conditional particle 'by' to the past tense form of the verb. The particle 'by' fuses with personal endings: bym (ja), byś (ty), by (on/ona/ono), byśmy (my), byście (wy), by (oni/one). Example: chcieć (to want) past: chciał/chciała → chciałbym (I would want, m), chciałabym (I would want, f). Polite requests: Czy mógłbyś mi pomóc? (Could you help me?)",
+  "examples": [
+    {
+      "polish": "Chciałbym kawę, proszę.",
+      "english": "I would like a coffee, please. (male speaker)",
+      "note": "chciał + bym = chciałbym (masculine conditional 1st sg.)"
+    },
+    {
+      "polish": "Czy mogłabyś mi pomóc?",
+      "english": "Could you help me? (addressing a female)",
+      "note": "mogła + byś = mogłabyś (feminine conditional 2nd sg.)"
+    },
+    {
+      "polish": "Pojechałbym do Paryża.",
+      "english": "I would go to Paris. (male speaker)",
+      "note": "pojechał + bym = pojechałbym"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "id": "a2-g006-ex01",
+      "prompt": "How does a male speaker say 'I would like tea'? (chcieć → past m.: chciał)",
+      "options": [
+        "Chciałbym herbatę.",
+        "Chciałabym herbatę.",
+        "Chciałem herbatę.",
+        "Chcę herbatę."
+      ],
+      "correct_index": 0,
+      "explanation": "Male conditional 1st person: chciał + bym = chciałbym. Option B is feminine. C is past indicative. D is present indicative."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a2-g006-ex02",
+      "prompt": "Complete: A female speaker saying 'I would go to the cinema.' (iść → past f.: szła; + bym = szłabym)",
+      "sentence_template": "___ do kina.",
+      "accepted_answers": ["Szłabym"],
+      "explanation": "Feminine conditional 1st person: szła + bym = szłabym."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a2-g006-ex03",
+      "prompt": "Which is a polite way to ask 'Could you (male) close the window'? (zamknąć → past m.: zamknął)",
+      "options": [
+        "Czy zamknąłbyś okno?",
+        "Czy zamknąłeś okno?",
+        "Zamknij okno!",
+        "Czy zamknąłby okno?"
+      ],
+      "correct_index": 0,
+      "explanation": "Masculine conditional 2nd person: zamknął + byś = zamknąłbyś. Option B is past indicative. C is imperative. D is 3rd person conditional."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a2-g006-ex04",
+      "prompt": "Complete: 'We would travel to Italy.' (podróżować → past m.pl.: podróżowali; + byśmy = podróżowalibyśmy)",
+      "sentence_template": "___ do Włoch.",
+      "accepted_answers": ["Podróżowalibyśmy"],
+      "explanation": "Conditional 1st person plural (mixed/virile): podróżowali + byśmy = podróżowalibyśmy."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a2-g006-ex05",
+      "prompt": "Which sentence means 'She would eat at a restaurant'?",
+      "options": [
+        "Jadłaby w restauracji.",
+        "Jadłbym w restauracji.",
+        "Jadła w restauracji.",
+        "Je w restauracji."
+      ],
+      "correct_index": 0,
+      "explanation": "Feminine conditional 3rd person: jadła + by = jadłaby. B is masculine conditional 1st person. C is past indicative. D is present."
+    }
+  ]
+}

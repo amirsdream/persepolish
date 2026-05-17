@@ -1,0 +1,70 @@
+{
+  "id": "b1-ch05-l01",
+  "level": "b1",
+  "chapter": 5,
+  "lessonOrder": 1,
+  "title": "Conditional Mood — Full Paradigm",
+  "grammarPoint": "Forming the Polish conditional mood (tryb warunkowy): l-form + by particle — robiłbym, robiłbyś, robiłby, robiłybyśmy...",
+  "explanation": {
+    "text": "The Polish **conditional mood** (tryb warunkowy) expresses wishes, hypotheticals, and polite requests. It is formed from the **l-form** (past tense form) + the particle **by**.\n\n## Formation: l-form + by\n\nThe **l-form** is the past tense verb stem (ending in -ł/-ła/-ło/-li/-ły).\nThe **by** particle attaches to the l-form and carries person/number endings:\n\n| Pronoun | Masculine | Feminine | English |\n|---------|-----------|----------|---------|\n| ja | robiłbym | robiłabym | I would do |\n| ty | robiłbyś | robiłabyś | you would do |\n| on/pan | robiłby | — | he/you(m) would do |\n| ona/pani | — | robiłaby | she/you(f) would do |\n| ono | — | robiłoby | it would do |\n| my (m) | robiłibyśmy | — | we would do (m/mixed) |\n| my (f) | — | robiłybyśmy | we would do (f) |\n| wy (m) | robiłibyście | — | you pl would do (m) |\n| wy (f) | — | robiłybyście | you pl would do (f) |\n| oni | robiłiby | — | they would do (m/mixed) |\n| one | — | robiłyby | they would do (f) |\n\n## The by Endings (attached to l-form)\n\n| Person | Ending |\n|--------|--------|\n| 1sg | -bym |\n| 2sg | -byś |\n| 3sg | -by |\n| 1pl | -byśmy |\n| 2pl | -byście |\n| 3pl | -by |\n\n## More Examples\n\n**pisać** (to write): l-form → pisał/pisała\n- Pisałbym list. (I would write a letter. — male speaker)\n- Pisałabym list. (I would write a letter. — female speaker)\n- Pisałby list. (He would write a letter.)\n- Pisałaby list. (She would write a letter.)\n- Pisalibyśmy razem. (We would write together. — mixed/male group)\n\n**iść** (to go): l-form → szedł/szła\n- Szedłbym tam. (I would go there. — m)\n- Szłabym tam. (I would go there. — f)\n- Poszedłbym. / Poszłabym. (I would go. — perfective: more definite)\n\n## Perfective vs Imperfective in Conditional\n\n| Aspect | Form | Meaning |\n|--------|------|---------|\n| Imperfective | robiłbym | I would (habitually/repeatedly) do |\n| Perfective | zrobiłbym | I would (on this occasion) do |\n\n- *Jadłbym sushi codziennie.* (I would eat sushi every day — imperfective, habit)\n- *Zjadłbym jeszcze jeden kawałek.* (I would eat one more piece — perfective, specific)\n\n## Key Uses of the Conditional\n\n1. **Wishes**: Chciałbym pojechać do Włoch. (I'd like to go to Italy.)\n2. **Hypotheticals**: Gdybym miał czas, poszedłbym. (If I had time, I'd go.)\n3. **Polite requests**: Czy mógłbyś mi pomóc? (Could you help me?)\n4. **Suggestions**: Powinieneś to zrobić. (You should do this.)\n5. **Regret**: Wolałbym zostać w domu. (I'd rather have stayed home.)",
+    "notes": [
+      "The 'by' particle is mobile — it can attach to the verb OR move to other words in the sentence: 'Chciałbym' OR 'Chciał bym' OR 'Ja bym chciał'. Most commonly attached to the verb.",
+      "Gender matters in l-forms: male speakers use -ł forms (robiłbym), female speakers use -ła forms (robiłabym). This is the same as past tense gender.",
+      "Perfective conditional (zrobiłbym) suggests a more concrete hypothetical; imperfective (robiłbym) suggests repeated/habitual hypothetical.",
+      "The by particle endings: -bym, -byś, -by, -byśmy, -byście, -by (same as in a past conditional context). 1st and 2nd person sg/pl have unique endings; 3rd person uses -by for both sg and pl."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch05-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "A male speaker says: 'I would read this book.' [czytać, imperfective, 1sg male]",
+      "options": ["Czytałbym tę książkę.", "Czytałabym tę książkę.", "Czytałby tę książkę.", "Czytałbyś tę książkę."],
+      "correctIndex": 0,
+      "explanation": "1sg male conditional: l-form male 'czytał' + 'bym' = 'czytałbym'. 'Czytałbym tę książkę' = I would read this book (male speaker). 'Czytałabym' = female speaker (1sg f). 'Czytałby' = he would (3sg m). 'Czytałbyś' = you would (2sg m)."
+    },
+    {
+      "id": "b1-ch05-l01-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "A female speaker says: 'She would come tomorrow.' [przyjść/perfective, 3sg f]",
+      "options": ["Przyszłaby jutro.", "Przyszedłby jutro.", "Przyszłabym jutro.", "Przyszłyby jutro."],
+      "correctIndex": 0,
+      "explanation": "3sg female conditional: l-form fem 'przyszła' + 'by' = 'przyszłaby'. 'Przyszłaby jutro' = she would come tomorrow (3sg f). 'Przyszedłby' = he would come (3sg m: przyszedł + by). 'Przyszłabym' = I would come (1sg f). 'Przyszłyby' = they (f/non-virile) would come (3pl f)."
+    },
+    {
+      "id": "b1-ch05-l01-ex03",
+      "type": "fill_blank",
+      "order": 3,
+      "prompt": "Fill: We (mixed group) would go to Italy. [jechać/imperfective, 1pl virile] → Jechali___ do Włoch.",
+      "answer": "Jechalibyśmy do Włoch",
+      "acceptableAnswers": ["Jechalibyśmy do Włoch", "jechalibyśmy do Włoch"],
+      "explanation": "1pl virile (mixed/male group) conditional: l-form virile 'jechali' + 'byśmy' = 'jechalibyśmy'. 'Jechalibyśmy do Włoch' = We would go to Italy (by vehicle, male/mixed group). Female-only group: 'jechałybyśmy'."
+    },
+    {
+      "id": "b1-ch05-l01-ex04",
+      "type": "dictation_mc",
+      "order": 4,
+      "audioAsset": "assets/audio/b1/ch05/b1-ch05-l01-ex04.mp3",
+      "options": ["Wolałabym zostać w domu.", "Wolałbym zostać w domu.", "Wolałaby zostać w domu.", "Wolałabyś zostać w domu."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Wolałabym zostać w domu.' — I would rather stay home (female speaker). 'Wolałabym' = 1sg female conditional of wolić (to prefer): l-form f 'wolała' + 'bym'. 'Zostać w domu' = to stay at home. The -ła- marks this as a female speaker's utterance."
+    },
+    {
+      "id": "b1-ch05-l01-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build (male speaker): I would eat one more piece of cake. [zjeść, perfective, 1sg m — 'kawałek tortu']",
+      "wordBank": ["Zjadłbym", "Zjadłabym", "jeszcze", "jeden", "kawałek", "tortu", "ciasta", "."],
+      "correctSequences": [
+        ["Zjadłbym", "jeszcze", "jeden", "kawałek", "tortu", "."]
+      ],
+      "explanation": "'Zjadłbym jeszcze jeden kawałek tortu.' — I would eat one more piece of cake (male speaker). Perfective conditional 1sg m: 'zjeść' → l-form m 'zjadł' + 'bym' = 'zjadłbym'. Perfective (zjeść) for a specific one-time action. 'Kawałek tortu' = piece of cake (genitive after kawałek)."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 13,
+  "tags": ["conditional", "b1-core", "tryb-warunkowy", "l-form"],
+  "prerequisites": ["b1-ch04-l04"]
+}

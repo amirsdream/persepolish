@@ -1,0 +1,81 @@
+{
+  "id": "a2-grammar-005",
+  "level": "a2",
+  "order": 5,
+  "title": "Instrumental Case — With & By Means Of",
+  "explanation": "The instrumental case (narzędnik) is used: (1) after the preposition 'z' meaning 'with/together with' (Idę z Anną — I'm going with Anna); (2) to express the means or tool of an action (Piszę ołówkiem — I write with a pencil); (3) after the verb 'być' (to be) in predicate expressions for professions and states (Jestem studentem — I am a student); (4) after certain other prepositions: przed (in front of), za (behind), między (between), nad (above), pod (under). Instrumental endings: masculine/neuter -em/-iem; feminine -ą.",
+  "examples": [
+    {
+      "polish": "Idę z przyjacielem.",
+      "english": "I am going with a friend (male).",
+      "note": "z + instrumental: przyjaciel → przyjacielem"
+    },
+    {
+      "polish": "Jestem studentem.",
+      "english": "I am a student (male).",
+      "note": "być + instrumental for professions: student → studentem"
+    },
+    {
+      "polish": "Piszę długopisem.",
+      "english": "I write with a pen.",
+      "note": "instrumental of means: długopis → długopisem"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "id": "a2-g005-ex01",
+      "prompt": "How do you say 'I go with my sister' (siostra = sister, f)?",
+      "options": [
+        "Idę z siostrą.",
+        "Idę z siostrę.",
+        "Idę z siostry.",
+        "Idę z siostrze."
+      ],
+      "correct_index": 0,
+      "explanation": "The preposition 'z' (with) takes the instrumental case. Feminine instrumental ending: -ą. Siostra → siostrą."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a2-g005-ex02",
+      "prompt": "Complete: 'I am a teacher.' (nauczyciel = teacher, m — instrumental: nauczycielem)",
+      "sentence_template": "Jestem ___.",
+      "accepted_answers": ["nauczycielem"],
+      "explanation": "After 'być' (to be) in predicate position, professions go in the instrumental: nauczyciel → nauczycielem."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a2-g005-ex03",
+      "prompt": "Which sentence says 'She eats with a fork' (widelec = fork, m)?",
+      "options": [
+        "Ona je widelcem.",
+        "Ona je widelec.",
+        "Ona je z widelcem.",
+        "Ona je widelca."
+      ],
+      "correct_index": 0,
+      "explanation": "The instrumental of means (without 'z') is used for tools/instruments: widelec → widelcem. Using 'z' here would imply accompaniment."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a2-g005-ex04",
+      "prompt": "Complete: 'The cat sits under the table.' (stół = table, m — instrumental: stołem)",
+      "sentence_template": "Kot siedzi pod ___.",
+      "accepted_answers": ["stołem"],
+      "explanation": "The preposition 'pod' (under/below) takes the instrumental case: stół → stołem."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a2-g005-ex05",
+      "prompt": "What is the instrumental form of 'kawa' (coffee, f)?",
+      "options": [
+        "kawą",
+        "kawy",
+        "kawę",
+        "kawie"
+      ],
+      "correct_index": 0,
+      "explanation": "Feminine nouns form the instrumental by adding -ą: kawa → kawą. Example: kawa z mlekiem (coffee with milk) → ale: Piję kawą (I drink with coffee — means: using coffee as the beverage)."
+    }
+  ]
+}

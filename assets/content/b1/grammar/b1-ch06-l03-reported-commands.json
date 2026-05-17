@@ -1,0 +1,70 @@
+{
+  "id": "b1-ch06-l03",
+  "level": "b1",
+  "chapter": 6,
+  "lessonOrder": 3,
+  "title": "Reported Commands — żeby & kazać",
+  "grammarPoint": "Reporting commands and requests: żeby + past subjunctive (żebym zrobił), kazać + dative + infinitive, prosić żeby — the two main systems",
+  "explanation": {
+    "text": "When reporting commands, requests, or wishes directed at someone else, Polish uses **żeby** or **kazać** constructions.\n\n## System 1: żeby + past l-form (subjunctive)\n\nThis is the most versatile system. After verbs like prosić, powiedzieć (commanding), chcieć:\n\n**Structure**: [reporting verb] + żeby + [person (dative/acc)] + [l-form]\n\n| Direct command | Reported command |\n|---------------|------------------|\n| \"Chodź tu!\" | Powiedział, żebym przyszedł. |\n| \"Nie spóźnij się!\" | Prosiła, żebym się nie spóźnił. |\n| \"Zrób to!\" | Kazał, żebyś to zrobił. |\n| \"Bądź cicho!\" | Powiedział, żebyś była cicho. |\n\n## The żeby + l-form paradigm (embedded person markers)\n\nThe personal marker is part of 'żeby':\n\n| Person | żeby form | Example |\n|--------|----------|---------|\n| żebym | 1sg | Powiedział, **żebym** przyszedł. |\n| żebyś | 2sg | Prosiła, **żebyś** zadzwonił. |\n| żeby | 3sg | Chciał, **żeby** Jan przyszedł. |\n| żebyśmy | 1pl | Poprosiła, **żebyśmy** poczekali. |\n| żebyście | 2pl | Powiedział, **żebyście** wyszli. |\n| żeby | 3pl | Chcieli, **żeby** oni wrócili. |\n\n**Gender of the l-form still matters**:\n- Powiedział, żebym **przyszedł**. (male speaker commanded to come)\n- Powiedziała, żebym **przyszła**. (female speaker commanded to come)\n\n## System 2: kazać + dative + infinitive\n\n**kazać** (to order/command) uses dative for the person commanded:\n\n**Structure**: kazać + [dative person] + infinitive\n\n- Kazał **mi** wyjść. (He ordered me to leave. — mi = dative of ja)\n- Kazała **ci** czekać. (She ordered you to wait. — ci = dative of ty)\n- Kazali **mu** milczeć. (They ordered him to be silent. — mu = dative of on)\n- Kazała **nam** wrócić. (She ordered us to come back. — nam = dative of my)\n- Kazał **im** wyjść. (He ordered them to leave. — im = dative of oni)\n\n## prosić żeby vs kazać — Level of Authority\n\n| Expression | Politeness | English |\n|-----------|-----------|--------|\n| prosić żeby | polite request | to ask (someone) to |\n| powiedzieć żeby | neutral | to tell (someone) to |\n| kazać + dative | command (authority) | to order/command (someone) to |\n\n- Mama **prosiła**, żebym posprzątał. (Mom asked me to clean up.)\n- Szef **powiedział**, żebyśmy zostali. (The boss told us to stay.)\n- Dyrektor **kazał** nam złożyć raporty. (The director ordered us to submit reports.)\n\n## Common Patterns with żeby\n\n**After chcieć** (to want — different subjects):\n- Chcę, **żebyś to zrobił**. (I want you to do this. — not 'żebym', since I want = first person but action = second person)\n- Mama chce, **żebym wrócił wcześniej**. (Mom wants me to come back earlier.)\n\n**After prosić** (to ask/request):\n- Proszę, **żebyś tu poczekał**. (I'm asking you to wait here.)\n- Prosiliśmy, **żeby Jan przyszedł**. (We asked Jan to come.)\n\n**After powiedzieć** (commanding sense):\n- Powiedział, **żebyś wróciła do domu**. (He told her to go home.)",
+    "notes": [
+      "że vs żeby: 'Powiedział, że jest chory' (statement — he IS sick) vs 'Powiedział, żeby poczekać' (command — wait!). The subordinating conjunction tells you whether it's a statement or command.",
+      "żeby + l-form: the personal markers embed in żeby (żebym, żebyś, żeby, żebyśmy, żebyście, żeby). The l-form MUST still agree in gender with the subject of the subordinate clause.",
+      "kazać + dative: kazał mi (ordered me), kazała ci (ordered you), kazali mu/jej (ordered him/her). Dative for the person, infinitive for the action.",
+      "In colloquial Polish, kazać can sound harsh — prosić żeby is more polite for requests."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch06-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Direct: 'Zadzwoń do mnie!' → Reported: Prosiła, ___ do niej zadzwonił. [he called — 3sg m]",
+      "options": ["żeby", "że", "czy", "żebym"],
+      "correctIndex": 0,
+      "explanation": "Reported command/request → żeby: 'Prosiła, żeby do niej zadzwonił.' (She asked [him] to call her.) 'Żeby' = 3rd person (no personal suffix for 3sg). 'Że' = that (for statements, not commands). 'Żebym' = if I (1sg). Reporting a request about a 3rd person action → 'żeby'."
+    },
+    {
+      "id": "b1-ch06-l03-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "Mom told me (male) to clean my room. [kazać + dative OR żeby]",
+      "options": ["Mama kazała mi posprzątać pokój.", "Mama kazała mnie posprzątać pokój.", "Mama prosiła mnie posprzątać pokój.", "Mama powiedziała, że sprzątam pokój."],
+      "correctIndex": 0,
+      "explanation": "'Mama kazała mi posprzątać pokój.' — Mom ordered me to clean [my] room. 'Kazać + dative': 'mi' = dative of 'ja' (me/to me). 'Posprzątać' = infinitive (to clean). 'Mnie' = accusative (not dative — wrong case). 'Prosiła mnie' = asked me (prosić can take accusative), but kazać requires dative."
+    },
+    {
+      "id": "b1-ch06-l03-ex03",
+      "type": "fill_blank",
+      "order": 3,
+      "prompt": "Complete the reported request: She (f) asked us to wait. [prosić, żebyśmy, poczekać] → Prosiła, ___ chwilę poczekali.",
+      "answer": "żebyśmy",
+      "acceptableAnswers": ["żebyśmy"],
+      "explanation": "'Prosiła, żebyśmy chwilę poczekali.' — She asked us to wait a moment. 'Żebyśmy' = 1pl marker (we — as the people commanded). 'Poczekali' = l-form virile plural of poczekać (waited — virile/mixed group). 'Żebyśmy' covers both male and female groups for 1pl."
+    },
+    {
+      "id": "b1-ch06-l03-ex04",
+      "type": "dictation_mc",
+      "order": 4,
+      "audioAsset": "assets/audio/b1/ch06/b1-ch06-l03-ex04.mp3",
+      "options": ["Chcę, żebyś to zrobił jak najszybciej.", "Chcę, żebyś to zrobiła jak najszybciej.", "Chcę, że to zrobisz jak najszybciej.", "Chcę, żebym to zrobił jak najszybciej."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Chcę, żebyś to zrobił jak najszybciej.' — I want you to do this as quickly as possible (to a male). 'Żebyś' = 2sg marker (you). 'Zrobił' = l-form m (male person commanded). 'Jak najszybciej' = as quickly as possible. 'Żebyś to zrobiła' = to a female. 'Żebym' = I would do (1sg)."
+    },
+    {
+      "id": "b1-ch06-l03-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: The boss ordered them to submit the report. [kazać, im, złożyć, raport — szef (m)]",
+      "wordBank": ["Szef", "kazał", "prosiła", "im", "nich", "złożyć", "złożyli", "raport", "raportu", "."],
+      "correctSequences": [
+        ["Szef", "kazał", "im", "złożyć", "raport", "."]
+      ],
+      "explanation": "'Szef kazał im złożyć raport.' — The boss ordered them to submit the report. 'Kazał' = he ordered (kazać, 3sg m past). 'Im' = dative of 'oni/one' (them/to them). 'Złożyć' = infinitive (to submit/file). 'Raport' = accusative (direct object of złożyć). kazać + dative + infinitive."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 13,
+  "tags": ["reported-speech", "b1-core", "żeby", "kazać", "commands"],
+  "prerequisites": ["b1-ch06-l02"]
+}

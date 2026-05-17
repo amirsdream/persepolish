@@ -1,0 +1,130 @@
+{
+  "id": "a2-ch14-revision",
+  "level": "a2",
+  "chapter": 14,
+  "title": "Chapter 14 Revision: Conditional Mood",
+  "description": "Mixed questions covering conditional forms (masc/fem/plural), wishes with chciałbym/wolałbym, gdyby clauses, and conditional vocabulary.",
+  "passThreshold": 0.70,
+  "questions": [
+    {
+      "id": "a2-ch14-rev-q01",
+      "type": "multiple_choice",
+      "order": 1,
+      "sourceLesson": "a2-ch14-l01",
+      "prompt": "___ do Italii, gdybym miał więcej pieniędzy. (I (m) would go to Italy if I had more money.) [pojechać, ja m conditional]",
+      "options": ["Pojechałbym", "Pojechałabym", "Pojadę", "Pojechałem"],
+      "correctIndex": 0,
+      "explanation": "Masculine conditional ja: pojechałbym (pojechał + bym). 'Pojechałabym' = feminine. 'Pojadę' = future. 'Pojechałem' = past."
+    },
+    {
+      "id": "a2-ch14-rev-q02",
+      "type": "multiple_choice",
+      "order": 2,
+      "sourceLesson": "a2-ch14-l02",
+      "prompt": "___ zamówić stolik na dziś wieczór. (I (f) would like to book a table for tonight.) [chcieć, ja f conditional]",
+      "options": ["Chciałabym", "Chciałbym", "Chcę", "Chciałam"],
+      "correctIndex": 0,
+      "explanation": "Feminine polite request: chciałabym (chciała + bym). 'Chciałbym' = masculine. Restaurant/service context → conditional is more polite than 'chcę'."
+    },
+    {
+      "id": "a2-ch14-rev-q03",
+      "type": "multiple_choice",
+      "order": 3,
+      "sourceLesson": "a2-ch14-l03",
+      "prompt": "Gdyby ___ piękna pogoda, poszlibyśmy na piknik. (If the weather were nice, we'd go on a picnic.) [być, ono/ona — gdyby clause]",
+      "options": ["była", "jest", "będzie", "byłaby"],
+      "correctIndex": 0,
+      "explanation": "Gdyby + past form: 'była' (past of być, f/neuter sing — 'pogoda' is feminine). The entire gdyby clause uses past form. 'Poszlibyśmy' = conditional (we would go)."
+    },
+    {
+      "id": "a2-ch14-rev-q04",
+      "type": "multiple_choice",
+      "order": 4,
+      "sourceLesson": "a2-ch14-l04",
+      "prompt": "___ pojechał na Mazury. (If I were you, I'd go to the Mazury lakes.) [na twoim miejscu]",
+      "options": ["Na twoim miejscu", "Gdybym", "Chciałbym", "Na moim miejscu"],
+      "correctIndex": 0,
+      "explanation": "'Na twoim miejscu' = if I were you / in your place. Followed by conditional: pojechał(bym). A fixed phrase for giving advice."
+    },
+    {
+      "id": "a2-ch14-rev-q05",
+      "type": "vocab_translation",
+      "order": 5,
+      "sourceVocab": "a2-ch14-vocab",
+      "prompt": "What does 'żałować + gen' mean?",
+      "options": ["to regret / to be sorry", "to wish for", "to dream of", "to prefer"],
+      "correctIndex": 0,
+      "explanation": "'Żałować + genitive' = to regret. 'Żałuję, że nie przyszedłem' = I regret not coming / I'm sorry I didn't come."
+    },
+    {
+      "id": "a2-ch14-rev-q06",
+      "type": "multiple_choice",
+      "order": 6,
+      "sourceLesson": "a2-ch14-l02",
+      "prompt": "___ zostać w domu niż iść na tę nudną imprezę. (I (m) would prefer to stay home rather than go to that boring party.) [woleć, ja m conditional]",
+      "options": ["Wolałbym", "Wolałabym", "Wolę", "Wolałem"],
+      "correctIndex": 0,
+      "explanation": "Masculine preference conditional: wolałbym (wolał + bym). 'Wolałabym' = feminine. 'Wolę' = present (I prefer). 'Wolałem' = past (I preferred)."
+    },
+    {
+      "id": "a2-ch14-rev-q07",
+      "type": "multiple_choice",
+      "order": 7,
+      "sourceLesson": "a2-ch14-l03",
+      "prompt": "What is the difference between 'jeśli przyjdziesz' and 'gdybyś przyszedł'?",
+      "options": ["jeśli = real possibility; gdyby = hypothetical/unlikely", "jeśli = past; gdyby = future", "They mean the same thing", "jeśli = formal; gdyby = informal"],
+      "correctIndex": 0,
+      "explanation": "'Jeśli przyjdziesz' = if you come (real, open condition — you might come). 'Gdybyś przyszedł' = if you were to come (hypothetical — I don't really expect you to)."
+    },
+    {
+      "id": "a2-ch14-rev-q08",
+      "type": "vocab_translation",
+      "order": 8,
+      "sourceVocab": "a2-ch14-vocab",
+      "prompt": "What does 'niestety' mean?",
+      "options": ["unfortunately", "luckily", "hopefully", "probably"],
+      "correctIndex": 0,
+      "explanation": "'Niestety' = unfortunately. 'Niestety nie mogę przyjść' = Unfortunately I can't come. Contrast: 'na szczęście' = fortunately."
+    },
+    {
+      "id": "a2-ch14-rev-q09",
+      "type": "multiple_choice",
+      "order": 9,
+      "sourceLesson": "a2-ch14-l04",
+      "prompt": "Chciałbym, żeby ___ lepsza pogoda. (I wish the weather were better.) [być — żeby + past]",
+      "options": ["była", "będzie", "jest", "byłaby"],
+      "correctIndex": 0,
+      "explanation": "'Chciałbym, żeby + past form': żeby była (f past — pogoda is feminine). The 'żeby + past' pattern expresses a present/future wish."
+    },
+    {
+      "id": "a2-ch14-rev-q10",
+      "type": "multiple_choice",
+      "order": 10,
+      "sourceLesson": "a2-ch14-l01",
+      "prompt": "They (women only) would go on holiday. [pojechać, one conditional]",
+      "options": ["Pojechałyby na wakacje.", "Pojechaliby na wakacje.", "Pojadą na wakacje.", "Pojechały na wakacje."],
+      "correctIndex": 0,
+      "explanation": "Non-virile plural conditional: pojechałyby (-łyby ending). 'Pojechaliby' = virile plural. 'Pojadą' = future. 'Pojechały' = past."
+    },
+    {
+      "id": "a2-ch14-rev-q11",
+      "type": "vocab_translation",
+      "order": 11,
+      "sourceVocab": "a2-ch14-vocab",
+      "prompt": "What does 'powodzenia!' mean?",
+      "options": ["Good luck!", "Well done!", "Never mind!", "Congratulations!"],
+      "correctIndex": 0,
+      "explanation": "'Powodzenia!' = Good luck! (literally: of success — genitive). Common on exams, interviews, competitions. 'Dziękuję, będę potrzebować!' = Thanks, I'll need it!"
+    },
+    {
+      "id": "a2-ch14-rev-q12",
+      "type": "multiple_choice",
+      "order": 12,
+      "sourceLesson": "a2-ch14-l03",
+      "prompt": "Complete: 'Gdybym ___ więcej czasu, uczyłbym się więcej.' (If I had more time, I'd study more.) [mieć, ja m]",
+      "options": ["miał", "mam", "będę miał", "miałbym"],
+      "correctIndex": 0,
+      "explanation": "Gdyby + past form: 'miał' (past of mieć, m). The 'gdybym' + past tense form makes the hypothetical. 'Gdybym miał' = if I had. 'Uczyłbym się' = conditional (I would study)."
+    }
+  ]
+}

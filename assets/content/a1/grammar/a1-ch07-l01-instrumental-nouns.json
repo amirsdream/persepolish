@@ -1,0 +1,70 @@
+{
+  "id": "a1-ch07-l01",
+  "level": "a1",
+  "chapter": 7,
+  "lessonOrder": 1,
+  "title": "Instrumental Case — Nouns",
+  "grammarPoint": "Instrumental case (narzędnik): kim/czym; być + instrumental for professions; z + instrumental",
+  "explanation": {
+    "text": "The **instrumental case** (narzędnik) is used in several key situations:\n\n1. **After być (to be) — for identity and professions:**\n   - Jestem studentem. = I am a student. (m)\n   - Jestem studentką. = I am a student. (f)\n\n2. **Means/tool ('with what'):**\n   - Piszę długopisem. = I write with a pen.\n   - Jadę autobusem. = I go by bus.\n\n3. **Together with (z + instrumental):**\n   - Idę z przyjacielem. = I'm going with a friend.\n   - Kawa z mlekiem. = Coffee with milk.\n\n**Instrumental singular endings:**\n\n| Gender | Nominative | Instrumental | Rule |\n|--------|-----------|-------------|------|\n| Masculine | -consonant | **-em** | student → studentem, lekarz → lekarzem |\n| Feminine -a | -a | **-ą** | studentka → studentką, kawa → kawą |\n| Neuter -o | -o | **-em** | miasto → miastem, dziecko → dzieckiem |\n\n**Common instrumental forms:**\n- być + instrumental: jestem Polakiem / Polką = I am Polish\n- Jadę pociągiem. = I'm going by train.\n- Płacę kartą. = I'm paying by card.",
+    "notes": [
+      "Masculine: -em after hard consonants (studentem), -iem after soft (nauczycielem).",
+      "Feminine -a: always → -ą: kobieta → kobietą, mama → mamą.",
+      "Neuter -o: → -em: okno → oknem, dziecko → dzieckiem.",
+      "z + instrumental = together with/and: herbata z cytryną = tea with lemon."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a1-ch07-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Jestem ___ (I am a doctor). [lekarz → instrumental]",
+      "options": ["lekarzem", "lekarz", "lekarza", "lekarzu"],
+      "correctIndex": 0,
+      "explanation": "'Lekarz' (masculine) → instrumental: 'lekarzem'. After 'być', profession takes instrumental: Jestem lekarzem."
+    },
+    {
+      "id": "a1-ch07-l01-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Jadę ___ (by train). [pociąg → instrumental]",
+      "answer": "pociągiem",
+      "acceptableAnswers": ["pociągiem"],
+      "hint": "Masculine noun instrumental: -em suffix"
+    },
+    {
+      "id": "a1-ch07-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a1/ch07/a1-ch07-l01-ex03.mp3",
+      "options": ["Piję kawę z mlekiem.", "Piję kawę z mleko.", "Piję kawę z mleka.", "Piję kawę i mleko."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Piję kawę z mlekiem.' — I drink coffee with milk. 'Mleko' (neuter) → instrumental 'mlekiem'. 'Z + instrumental' = with."
+    },
+    {
+      "id": "a1-ch07-l01-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: I am a teacher. [feminine speaker]",
+      "wordBank": ["Jestem", "Jesteś", "nauczycielem", "nauczycielką", "nauczyciel", "nauczycielka"],
+      "correctSequences": [
+        ["Jestem", "nauczycielką"]
+      ],
+      "explanation": "'Jestem nauczycielką' = I am a teacher (f). Feminine: nauczycielka → instrumental 'nauczycielką' (-ą). 'Być + instrumental' for identity."
+    },
+    {
+      "id": "a1-ch07-l01-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "Idę do szkoły z ___ (with a friend — f). [przyjaciółka → instrumental]",
+      "options": ["przyjaciółką", "przyjaciółka", "przyjaciółki", "przyjaciółce"],
+      "correctIndex": 0,
+      "explanation": "'Przyjaciółka' (f, friend) → instrumental: 'przyjaciółką'. 'Z + instrumental' = with. 'Idę z przyjaciółką' = I go with a (female) friend."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["instrumental", "cases", "professions", "a1-core"],
+  "prerequisites": ["a1-ch03-l02", "a1-ch06-l01"]
+}

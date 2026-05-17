@@ -1,0 +1,70 @@
+{
+  "id": "a1-ch03-l04",
+  "level": "a1",
+  "chapter": 3,
+  "lessonOrder": 4,
+  "title": "Questions — czy and Question Words",
+  "grammarPoint": "Yes/no questions with czy; question words kto, co, gdzie, skąd, jak",
+  "explanation": {
+    "text": "Polish forms questions in two ways:\n\n**1. Yes/No questions with czy**\nAdd **czy** at the beginning of a statement to make a yes/no question. Word order stays the same.\n- *Mówisz po polsku.* → **Czy** *mówisz po polsku?*\n- *Jesteś studentem.* → **Czy** *jesteś studentem?*\n\nAlternatively, you can use rising intonation without 'czy' in informal speech.\n\n**2. Question words (WH-questions)**\n\n| Question word | Polish | Example |\n|---------------|--------|---------|\n| who | **kto** | Kto to jest? |\n| what | **co** | Co to jest? |\n| where | **gdzie** | Gdzie mieszkasz? |\n| where from | **skąd** | Skąd jesteś? |\n| how | **jak** | Jak się masz? |\n| what name | **jak się nazywasz** | Jak się nazywasz? |",
+    "notes": [
+      "czy at the start = yes/no question marker, like English 'do you...?'",
+      "kto = who (takes 3rd person singular verb: Kto to jest?)",
+      "co = what (also 3rd person singular: Co to jest?)",
+      "skąd = from where (Skąd jesteś? = Where are you from?)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a1-ch03-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Turn into a question: 'Mówisz po polsku.'",
+      "options": ["Czy mówisz po polsku?", "Mówisz czy po polsku?", "Po polsku czy mówisz?", "Mówisz po polsku czy?"],
+      "correctIndex": 0,
+      "explanation": "Add 'czy' at the beginning: 'Czy mówisz po polsku?' = Do you speak Polish? The rest of the sentence stays the same."
+    },
+    {
+      "id": "a1-ch03-l04-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "___ jesteś? (Where are you from?)",
+      "answer": "Skąd",
+      "acceptableAnswers": ["Skąd", "skąd"],
+      "hint": "The question word meaning 'from where'"
+    },
+    {
+      "id": "a1-ch03-l04-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a1/ch03/a1-ch03-l04-ex03.mp3",
+      "options": ["Kto to jest?", "Co to jest?", "Gdzie to jest?", "Jak to jest?"],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Kto to jest?' — Who is this? 'Kto' = who. Compare: 'Co to jest?' = What is this?"
+    },
+    {
+      "id": "a1-ch03-l04-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build a question: Do you have a brother?",
+      "wordBank": ["Czy", "masz", "mam", "brata", "brat", "siostrę"],
+      "correctSequences": [
+        ["Czy", "masz", "brata"]
+      ],
+      "explanation": "'Czy masz brata?' = Do you have a brother? 'Brata' is the accusative/genitive of 'brat'."
+    },
+    {
+      "id": "a1-ch03-l04-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "Which question asks 'Where do you live?'",
+      "options": ["Gdzie mieszkasz?", "Skąd jesteś?", "Jak się masz?", "Kto tam jest?"],
+      "correctIndex": 0,
+      "explanation": "'Gdzie mieszkasz?' = Where do you live? 'Gdzie' = where (location). 'Skąd' = from where (origin)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 8,
+  "tags": ["questions", "czy", "question-words", "kto", "co", "a1-core"],
+  "prerequisites": ["a1-ch01-l01", "a1-ch01-l03"]
+}

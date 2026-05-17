@@ -1,0 +1,141 @@
+{
+  "id": "a1-vocab-004",
+  "level": "a1",
+  "order": 4,
+  "title": "Family Members",
+  "description": "Essential Polish vocabulary for family relationships.",
+  "cards": [
+    {
+      "id": "a1v004-01",
+      "polish": "mama / matka",
+      "english": "mum / mother",
+      "pronunciation": "MA-ma / MAT-ka",
+      "category": "noun",
+      "example_polish": "Moja mama jest lekarzem.",
+      "example_english": "My mum is a doctor.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v004-02",
+      "polish": "tata / ojciec",
+      "english": "dad / father",
+      "pronunciation": "TA-ta / OY-chets",
+      "category": "noun",
+      "example_polish": "Mój tata pracuje w biurze.",
+      "example_english": "My dad works in an office.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v004-03",
+      "polish": "brat",
+      "english": "brother",
+      "pronunciation": "brat",
+      "category": "noun",
+      "example_polish": "Mam jednego brata.",
+      "example_english": "I have one brother.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v004-04",
+      "polish": "siostra",
+      "english": "sister",
+      "pronunciation": "SIOS-tra",
+      "category": "noun",
+      "example_polish": "Moja siostra mieszka w Krakowie.",
+      "example_english": "My sister lives in Kraków.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v004-05",
+      "polish": "dziadek",
+      "english": "grandfather / grandad",
+      "pronunciation": "DZA-dek",
+      "category": "noun",
+      "example_polish": "Dziadek ma osiemdziesiąt lat.",
+      "example_english": "Grandad is eighty years old.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v004-06",
+      "polish": "babcia",
+      "english": "grandmother / granny",
+      "pronunciation": "BAB-cha",
+      "category": "noun",
+      "example_polish": "Babcia gotuje pyszny obiad.",
+      "example_english": "Granny cooks a delicious dinner.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v004-07",
+      "polish": "syn",
+      "english": "son",
+      "pronunciation": "sin",
+      "category": "noun",
+      "example_polish": "Mój syn ma pięć lat.",
+      "example_english": "My son is five years old.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v004-08",
+      "polish": "córka",
+      "english": "daughter",
+      "pronunciation": "TSOOR-ka",
+      "category": "noun",
+      "example_polish": "Nasza córka uczy się w szkole.",
+      "example_english": "Our daughter studies at school.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v004-09",
+      "polish": "mąż",
+      "english": "husband",
+      "pronunciation": "monsh",
+      "category": "noun",
+      "example_polish": "Mój mąż jest bardzo miły.",
+      "example_english": "My husband is very kind.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v004-10",
+      "polish": "żona",
+      "english": "wife",
+      "pronunciation": "ZHO-na",
+      "category": "noun",
+      "example_polish": "Jego żona jest z Warszawy.",
+      "example_english": "His wife is from Warsaw.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v004-11",
+      "polish": "wujek",
+      "english": "uncle",
+      "pronunciation": "VUY-ek",
+      "category": "noun",
+      "example_polish": "Wujek mieszka za granicą.",
+      "example_english": "My uncle lives abroad.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a1v004-12",
+      "polish": "ciocia",
+      "english": "aunt",
+      "pronunciation": "TSYO-cha",
+      "category": "noun",
+      "example_polish": "Ciocia ma dwa koty.",
+      "example_english": "My aunt has two cats.",
+      "gender": "f",
+      "audio_asset": null
+    }
+  ]
+}

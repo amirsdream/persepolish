@@ -1,0 +1,70 @@
+{
+  "id": "a2-ch15-l01",
+  "level": "a2",
+  "chapter": 15,
+  "lessonOrder": 1,
+  "title": "Dative of Interest — Podoba mi się",
+  "grammarPoint": "Dative of interest: podoba mi się / podobają mi się; zależy mi na; przeszkadza mi",
+  "explanation": {
+    "text": "Some Polish verbs require the **dative** to express who is affected or interested.\n\n**Podoba mi się** (I like it / it pleases me):\n\nUnlike English 'I like', Polish uses the structure:\n**[thing liked — nominative] + podoba się + [person — dative]**\n\n| Dative pronoun | Person |\n|---------------|--------|\n| **mi** | me |\n| **ci** | you |\n| **mu/jej** | him/her |\n| **nam** | us |\n| **wam** | you (pl) |\n| **im** | them |\n\n**Singular vs. plural subject:**\n- Ten film **podoba** mi się. = I like this film. (one film, singular)\n- Te filmy **podobają** mi się. = I like these films. (plural)\n\n**Other dative of interest verbs:**\n\n| Polish | Meaning | Structure |\n|--------|---------|----------|\n| zależy mi na | I care about | zależy mi na + loc |\n| przeszkadza mi | it bothers me | przeszkadza mi + nom |\n| chodzi mi o | I mean / it's about | chodzi mi o + acc |\n| wychodzi mi | it turns out for me | — |\n\n**Examples:**\n- Podoba mi się ta muzyka. = I like this music.\n- Nie podobają mi się te buty. = I don't like these shoes.\n- Zależy mi na tym projekcie. = I care about this project.\n- Przeszkadza mi hałas. = The noise bothers me.",
+    "notes": [
+      "Podoba MI SIĘ — the thing liked is the SUBJECT (nominative), not the object.",
+      "Singular thing → podoba się. Plural thing → podobają się.",
+      "The person who likes is DATIVE: mi, ci, mu, jej, nam, wam, im.",
+      "Zależy mi na + locative: 'Zależy mi na tobie' = I care about you."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch15-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Ten hotel ___ nam się. (We like this hotel.) [podobać się, singular subject]",
+      "options": ["podoba", "podobają", "lubię", "lubimy"],
+      "correctIndex": 0,
+      "explanation": "Singular subject 'ten hotel' → 'podoba' (singular verb). 'Podoba nam się' = It pleases us / We like it. 'Podobają' would be for plural subjects."
+    },
+    {
+      "id": "a2-ch15-l01-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Podobają ___ te obrazy. (She likes these paintings.) [dative pronoun for 'jej']",
+      "answer": "jej",
+      "acceptableAnswers": ["jej się", "jej"],
+      "hint": "Dative pronoun for 'she/her': jej. 'Podobają jej się' = she likes them."
+    },
+    {
+      "id": "a2-ch15-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a2/ch15/a2-ch15-l01-ex03.mp3",
+      "options": ["Czy podoba ci się ta piosenka?", "Czy lubisz tę piosenkę?", "Czy podoba się ci ta piosenka?", "Czy podobają ci się te piosenki?"],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Czy podoba ci się ta piosenka?' — Do you like this song? Singular 'ta piosenka' → 'podoba' (sing). 'Ci się' = to you (dative)."
+    },
+    {
+      "id": "a2-ch15-l01-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: The noise bothers me. (przeszkadzać, hałas — nominative subject)",
+      "wordBank": ["Przeszkadza", "Przeszkadzają", "mi", "mnie", "hałas", "hałasy", "ci", "się"],
+      "correctSequences": [
+        ["Przeszkadza", "mi", "hałas"]
+      ],
+      "explanation": "'Przeszkadza mi hałas.' — The noise bothers me. 'Hałas' (noise, m sing) = nominative subject → singular verb 'przeszkadza'. 'Mi' = dative (me/to me)."
+    },
+    {
+      "id": "a2-ch15-l01-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "Zależy mi ___ tej przyjaźni. (I care about this friendship.) [zależy na + locative]",
+      "options": ["na", "o", "z", "do"],
+      "correctIndex": 0,
+      "explanation": "'Zależy mi na + locative': 'na tej przyjaźni' (przyjaźń → locative: przyjaźni). 'Zależy mi na' = I care about / it matters to me."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["dative", "emotions", "podoba-sie", "a2-core"],
+  "prerequisites": ["a1-ch09-l01"]
+}

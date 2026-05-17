@@ -1,0 +1,130 @@
+{
+  "id": "a2-ch16-revision",
+  "level": "a2",
+  "chapter": 16,
+  "title": "Chapter 16 Revision: Imperative & Requests",
+  "description": "Mixed questions covering imperative singular/plural, polite requests, irregular imperatives, and city/services vocabulary.",
+  "passThreshold": 0.70,
+  "questions": [
+    {
+      "id": "a2-ch16-rev-q01",
+      "type": "multiple_choice",
+      "order": 1,
+      "sourceLesson": "a2-ch16-l01",
+      "prompt": "___ uważnie! (Listen carefully! — singular informal)",
+      "options": ["Słuchaj", "Słuchajcie", "Słuchajmy", "Słuchasz"],
+      "correctIndex": 0,
+      "explanation": "Singular informal imperative: słuchaj! (słuchać Group 1: słuchają → słuchaj). 'Słuchajcie' = plural. 'Słuchajmy' = let's listen."
+    },
+    {
+      "id": "a2-ch16-rev-q02",
+      "type": "multiple_choice",
+      "order": 2,
+      "sourceLesson": "a2-ch16-l02",
+      "prompt": "___ do kina! (Let's go to the cinema!) [iść, 1st person plural]",
+      "options": ["Idźmy", "Idźcie", "Idź", "Chodź"],
+      "correctIndex": 0,
+      "explanation": "1st person plural 'let's': idźmy (idź + my). 'Idźcie' = plural command (you all go). 'Chodźmy' also works as an invitation."
+    },
+    {
+      "id": "a2-ch16-rev-q03",
+      "type": "multiple_choice",
+      "order": 3,
+      "sourceLesson": "a2-ch16-l04",
+      "prompt": "___ mi prawdę! (Tell me the truth! — irregular imperative)",
+      "options": ["Powiedz", "Mów", "Powiedzmie", "Powiedzcie"],
+      "correctIndex": 0,
+      "explanation": "Irregular imperative of 'powiedzieć': powiedz! A single completed utterance → perfective. 'Mów' = imperfective (speak, keep talking)."
+    },
+    {
+      "id": "a2-ch16-rev-q04",
+      "type": "multiple_choice",
+      "order": 4,
+      "sourceLesson": "a2-ch16-l03",
+      "prompt": "Czy ___ Pan powtórzyć? (Could you (m formal) repeat that?) [polite formal request]",
+      "options": ["mógłby", "możesz", "mógłbyś", "możecie"],
+      "correctIndex": 0,
+      "explanation": "Formal polite: 'Czy mógłby Pan + infinitive?' 'Mógłby' = conditional of 'móc', 3rd person (Pan is treated as he). 'Mógłbyś' = informal (ty)."
+    },
+    {
+      "id": "a2-ch16-rev-q05",
+      "type": "vocab_translation",
+      "order": 5,
+      "sourceVocab": "a2-ch16-vocab",
+      "prompt": "What does 'kolejka' mean?",
+      "options": ["queue / waiting line", "window at office", "form / document", "deadline"],
+      "correctIndex": 0,
+      "explanation": "'Kolejka' = queue/line. 'Stać w kolejce' = to stand in a queue. Also: tramwaj/małpka = slang, but kolejka is standard."
+    },
+    {
+      "id": "a2-ch16-rev-q06",
+      "type": "multiple_choice",
+      "order": 6,
+      "sourceLesson": "a2-ch16-l02",
+      "prompt": "___ tutaj, dzieci! (Come here, children! — plural imperative)",
+      "options": ["Chodźcie", "Chodź", "Chodźmy", "Chodzą"],
+      "correctIndex": 0,
+      "explanation": "Plural informal imperative: chodźcie (chodź + cie). Addressing multiple children. 'Chodź' = singular. 'Chodźmy' = let's come."
+    },
+    {
+      "id": "a2-ch16-rev-q07",
+      "type": "multiple_choice",
+      "order": 7,
+      "sourceLesson": "a2-ch16-l01",
+      "prompt": "___ spokojny! (Be calm! — imperative of być, ty m)",
+      "options": ["Bądź", "Jesteś", "Będziesz", "Byłeś"],
+      "correctIndex": 0,
+      "explanation": "Irregular imperative of 'być': bądź! 'Bądź spokojny!' = Be calm! (m). Feminine: 'Bądź spokojna!'"
+    },
+    {
+      "id": "a2-ch16-rev-q08",
+      "type": "vocab_translation",
+      "order": 8,
+      "sourceVocab": "a2-ch16-vocab",
+      "prompt": "What does 'wypełnić formularz' mean?",
+      "options": ["to fill in a form", "to sign a document", "to apply for a certificate", "to queue up"],
+      "correctIndex": 0,
+      "explanation": "'Wypełnić formularz' = to fill in a form (completed). 'Wypełniać' = imperfective (ongoing). 'Proszę wypełnić formularz' = Please fill in the form."
+    },
+    {
+      "id": "a2-ch16-rev-q09",
+      "type": "multiple_choice",
+      "order": 9,
+      "sourceLesson": "a2-ch16-l03",
+      "prompt": "At a post office: ___ pięć znaczków. (Five stamps please.)",
+      "options": ["Poproszę", "Chcę", "Chciałbym o", "Daj mi"],
+      "correctIndex": 0,
+      "explanation": "'Poproszę + accusative' = I'd like / please give me. 'Poproszę pięć znaczków' = Five stamps please. Very natural at service counters."
+    },
+    {
+      "id": "a2-ch16-rev-q10",
+      "type": "multiple_choice",
+      "order": 10,
+      "sourceLesson": "a2-ch16-l04",
+      "prompt": "___ parasol, bo pada deszcz! (Take an umbrella, because it's raining!) [wziąć, imperative]",
+      "options": ["Weź", "Bierz", "Weźcie", "Wez"],
+      "correctIndex": 0,
+      "explanation": "Irregular imperative of 'wziąć' (perfective = take): weź! 'Bierz' = imperfective (brać → bierz). For a one-time action: weź (perfective)."
+    },
+    {
+      "id": "a2-ch16-rev-q11",
+      "type": "multiple_choice",
+      "order": 11,
+      "sourceLesson": "a2-ch16-l03",
+      "prompt": "Czy ___ mi pożyczyć pióro? (Could you (m, informal) lend me a pen?)",
+      "options": ["mógłbyś", "mógłby", "możesz", "możesz mi"],
+      "correctIndex": 0,
+      "explanation": "Informal conditional request (ty m): 'Czy mógłbyś' (móc → conditional ty m: mógłbyś). 'Mógłby' = formal Pan. 'Możesz' = direct present (less polite)."
+    },
+    {
+      "id": "a2-ch16-rev-q12",
+      "type": "vocab_translation",
+      "order": 12,
+      "sourceVocab": "a2-ch16-vocab",
+      "prompt": "What does 'czynny' mean when describing a shop or office?",
+      "options": ["open (operating)", "closed", "busy", "official"],
+      "correctIndex": 0,
+      "explanation": "'Czynny' = open (operating/in service). 'Nieczynny' = closed. 'Sklep czynny od 9 do 17' = shop open from 9 to 5."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "a2-grammar-004",
+  "level": "a2",
+  "order": 4,
+  "title": "Dative Case — Indirect Objects",
+  "explanation": "The dative case (celownik) is used for the indirect object — the recipient of an action — and after certain verbs expressing emotion or attitude (pomagać — to help, dziękować — to thank, podobać się — to like/please, dawać — to give). Dative singular endings: masculine/neuter nouns change to -owi (kot → kotowi, okno → oknu); feminine nouns change -a to -e or -i (kobieta → kobiecie, mama → mamie). Personal pronouns: mnie (me), tobie/ci (you), jemu/mu (him), jej (her), nam (us), wam (you pl.), im (them).",
+  "examples": [
+    {
+      "polish": "Daję mamie kwiaty.",
+      "english": "I give mum flowers.",
+      "note": "mama (f) → mamie in dative; indirect object"
+    },
+    {
+      "polish": "Dziękuję ci.",
+      "english": "Thank you (informal).",
+      "note": "dziękować takes dative; 'ci' = dative of 'ty'"
+    },
+    {
+      "polish": "Podoba mi się ta muzyka.",
+      "english": "I like this music. (lit. This music pleases me.)",
+      "note": "'mi' = dative of 'ja'; podoba się takes dative"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "id": "a2-g004-ex01",
+      "prompt": "Which sentence correctly says 'I give dad a gift'? (tata → tacie in dative)",
+      "options": [
+        "Daję tacie prezent.",
+        "Daję tatę prezent.",
+        "Daję tata prezent.",
+        "Daję tatą prezent."
+      ],
+      "correct_index": 0,
+      "explanation": "'Tata' is masculine but follows a feminine-like declension: dative is 'tacie'. The verb 'dawać' (to give) requires the recipient in the dative case."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a2-g004-ex02",
+      "prompt": "Complete: 'Thank you!' (dziękować + dative of 'ty', informal = ci/tobie)",
+      "sentence_template": "Dziękuję ___!",
+      "accepted_answers": ["ci", "tobie"],
+      "explanation": "'Dziękować' (to thank) takes the dative. The dative pronoun for 'ty' (you, informal) is 'ci' (short form) or 'tobie' (long form)."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a2-g004-ex03",
+      "prompt": "How do you say 'I like this film'? (podobać się + dative)",
+      "options": [
+        "Podoba mi się ten film.",
+        "Lubię mi się ten film.",
+        "Podoba mnie się ten film.",
+        "Podobam się ten film."
+      ],
+      "correct_index": 0,
+      "explanation": "'Podobać się' (to please/like) uses the dative: 'mi' is the short dative form of 'ja'. The subject is the thing being liked."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a2-g004-ex04",
+      "prompt": "Complete: 'I help my friend.' (przyjaciel → przyjacielowi in dative; pomagać = to help)",
+      "sentence_template": "Pomagam ___.",
+      "accepted_answers": ["przyjacielowi"],
+      "explanation": "'Pomagać' (to help) takes the dative. Masculine noun 'przyjaciel' → dative 'przyjacielowi'."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a2-g004-ex05",
+      "prompt": "What is the dative form of 'kobieta' (woman)?",
+      "options": [
+        "kobiecie",
+        "kobietę",
+        "kobiety",
+        "kobietą"
+      ],
+      "correct_index": 0,
+      "explanation": "Feminine nouns ending in -ta/-da change to -cie/-dzie in the dative: kobieta → kobiecie."
+    }
+  ]
+}

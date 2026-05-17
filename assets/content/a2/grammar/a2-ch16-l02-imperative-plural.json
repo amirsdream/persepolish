@@ -1,0 +1,70 @@
+{
+  "id": "a2-ch16-l02",
+  "level": "a2",
+  "chapter": 16,
+  "lessonOrder": 2,
+  "title": "Imperative — Plural",
+  "grammarPoint": "Imperative plural (wy): singular stem + -cie; pan/pani/państwo imperatives: proszę + infinitive",
+  "explanation": {
+    "text": "The **plural imperative** (for addressing 'wy' — multiple people informally) is formed from the singular imperative + **-cie**.\n\n**Plural imperative = singular imperative + -cie:**\n\n| Infinitive | Singular (ty) | Plural (wy) |\n|-----------|--------------|-------------|\n| czytać | czytaj! | czytaj**cie**! |\n| pracować | pracuj! | pracuj**cie**! |\n| słuchać | słuchaj! | słuchaj**cie**! |\n| mówić | mów! | mów**cie**! |\n| robić | rób! | rób**cie**! |\n| pisać | pisz! | pisz**cie**! |\n| być | bądź! | bądź**cie**! |\n| iść | idź! | idź**cie**! |\n| jeść | jedz! | jedz**cie**! |\n\n**1st person plural imperative (let's...):**\nAdd -my to the plural form:\n- Idź**my**! = Let's go!\n- Jedz**my**! = Let's eat!\n- Pracuj**my**! = Let's work!\n\n**Negation (plural):**\n- Nie mów**cie** tak głośno! = Don't speak (pl) so loudly!\n- Nie jedź**cie** tak szybko! = Don't drive (pl) so fast!\n\n**Examples:**\n- **Chodźcie** tutaj, dzieci! = Come here, children!\n- **Słuchajcie** uważnie! = Listen (all of you) carefully!\n- **Idźmy** do kina! = Let's go to the cinema!",
+    "notes": [
+      "Plural imperative = singular + -cie. Very regular rule.",
+      "1st person plural (let's): add -my to singular form (idźmy, jedzmy).",
+      "Children: chodźcie (come here) — frequent classroom/family command.",
+      "Idźmy! = Let's go! — one of the most useful expressions."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch16-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "___ uważnie, dzieci! (Listen carefully, children!) [słuchać, imperative plural]",
+      "options": ["Słuchajcie", "Słuchaj", "Słuchajmy", "Słuchają"],
+      "correctIndex": 0,
+      "explanation": "Plural informal imperative: słuchajcie (słuchaj + cie). 'Słuchaj' = singular. 'Słuchajmy' = let's listen. 'Słuchają' = they listen (present)."
+    },
+    {
+      "id": "a2-ch16-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "___ do kina! (Let's go to the cinema!) [iść, 1st person plural imperative]",
+      "answer": "Idźmy",
+      "acceptableAnswers": ["Idźmy"],
+      "hint": "1st person plural imperative: idź + my = Idźmy!"
+    },
+    {
+      "id": "a2-ch16-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a2/ch16/a2-ch16-l02-ex03.mp3",
+      "options": ["Chodźcie tutaj, proszę!", "Chodź tutaj, proszę!", "Chodźmy tutaj, proszę!", "Chodzą tutaj."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Chodźcie tutaj, proszę!' — Come here please (all of you)! Plural informal imperative: chodźcie (chodź + cie)."
+    },
+    {
+      "id": "a2-ch16-l02-ex04",
+      "type": "multiple_choice",
+      "order": 4,
+      "prompt": "Nie ___ tak głośno! (Don't speak so loudly — addressing multiple people!)",
+      "options": ["mówcie", "mów", "mówmy", "mówią"],
+      "correctIndex": 0,
+      "explanation": "Negated plural imperative: nie mówcie! (mów + cie, then negate). 'Nie mów' = singular. 'Nie mówmy' = let's not speak."
+    },
+    {
+      "id": "a2-ch16-l02-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: Let's eat! The food is getting cold. (jedzmy + present observation)",
+      "wordBank": ["Jedzmy", "Jedźmy", "Jedzcie", "Jedzenie", "stygnie", "wystygło", "!"],
+      "correctSequences": [
+        ["Jedzmy", "Jedzenie", "stygnie"]
+      ],
+      "explanation": "'Jedzmy! Jedzenie stygnie.' — Let's eat! The food is getting cold. 'Jedzmy' = 1st person plural imperative of jeść. 'Stygnie' = it's getting cold (present)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["imperative", "plural", "commands", "a2-core"],
+  "prerequisites": ["a2-ch16-l01"]
+}

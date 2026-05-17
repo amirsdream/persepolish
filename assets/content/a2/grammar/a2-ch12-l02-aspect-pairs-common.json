@@ -1,0 +1,70 @@
+{
+  "id": "a2-ch12-l02",
+  "level": "a2",
+  "chapter": 12,
+  "lessonOrder": 2,
+  "title": "Common Aspect Pairs",
+  "grammarPoint": "High-frequency imperfective/perfective pairs: pisać/napisać, czytać/przeczytać, robić/zrobić, kupować/kupić, mówić/powiedzieć",
+  "explanation": {
+    "text": "Aspect pairs must be **memorized** — they don't always follow a predictable rule. Here are the most essential pairs at A2 level.\n\n**Essential aspect pairs — Group 1 (prefix adds perfective):**\n\n| Imperfective | Perfective | Meaning |\n|-------------|------------|--------|\n| pisać | na**pisać** | to write |\n| czytać | prze**czytać** | to read |\n| robić | z**robić** | to do/make |\n| gotować | u**gotować** | to cook |\n| uczyć się | na**uczyć się** | to learn |\n| sprzątać | po**sprzątać** | to clean |\n\n**Essential aspect pairs — Group 2 (different stems):**\n\n| Imperfective | Perfective | Meaning |\n|-------------|------------|--------|\n| mówić | po**wiedzieć** | to say/tell |\n| kupować | kupić | to buy |\n| brać | wziąć | to take |\n| jeść | zjeść | to eat |\n| pić | wypić | to drink |\n\n**Both in a sentence (past tense):**\n- Codziennie **pisałem** e-maile. (I wrote emails every day — routine)\n- W końcu **napisałem** raport. (I finally wrote the report — completed)\n- **Kupowałem** książki co tydzień. (I used to buy books every week)\n- Wczoraj **kupiłem** nowy słownik. (Yesterday I bought a new dictionary)",
+    "notes": [
+      "Most common perfective formation: add prefix (na-, za-, prze-, po-, u-, z-) to imperfective.",
+      "Some pairs are completely different words: mówić / powiedzieć, brać / wziąć.",
+      "Купować / kupić: imperfective ends in -ować, perfective is shorter (-ić).",
+      "Learn pairs together: pisać/napisać, czytać/przeczytać — never just one form."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch12-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Co powiedziała? — She said [completed, one utterance] that she's tired. Which verb?",
+      "options": ["powiedzieć (perfective)", "mówić (imperfective)", "Both are identical", "Neither fits"],
+      "correctIndex": 0,
+      "explanation": "A single, completed speech act = perfective: 'powiedzieć'. 'Powiedziała, że jest zmęczona.' 'Mówiła' would imply she kept talking/used to say."
+    },
+    {
+      "id": "a2-ch12-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "W końcu ___ mieszkanie. (I finally cleaned the flat.) [posprzątać — perfective, ja m past]",
+      "answer": "posprzątałem",
+      "acceptableAnswers": ["posprzątałem", "posprzątałam"],
+      "hint": "Perfective of 'sprzątać' = posprzątać → past masc: posprzątałem"
+    },
+    {
+      "id": "a2-ch12-l02-ex03",
+      "type": "multiple_choice",
+      "order": 3,
+      "prompt": "Wczoraj wieczorem ___ całą kolację. (Last night I ate up the whole dinner.) [jeść/zjeść]",
+      "options": ["zjadłem", "jadłem", "jem", "zjem"],
+      "correctIndex": 0,
+      "explanation": "Completed action, single event: perfective 'zjeść' → past zjadłem. 'Jadłem' (imperfective) means I was eating, without emphasis on completion."
+    },
+    {
+      "id": "a2-ch12-l02-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: Every day she cooked dinner for the family. (habitual — imperfective)",
+      "wordBank": ["Codziennie", "ona", "gotowała", "ugotowała", "obiad", "obiadu", "dla", "rodziny", "rodzina"],
+      "correctSequences": [
+        ["Codziennie", "ona", "gotowała", "obiad", "dla", "rodziny"]
+      ],
+      "explanation": "'Codziennie ona gotowała obiad dla rodziny.' — habitual action → imperfective: gotowała. 'Ugotowała' would be a single completed cooking event."
+    },
+    {
+      "id": "a2-ch12-l02-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "Which is the PERFECTIVE partner of 'kupować'?",
+      "options": ["kupić", "nakupować", "zakupować", "pokupić"],
+      "correctIndex": 0,
+      "explanation": "'Kupować' (imperfective) → 'kupić' (perfective). This is a stem change pair, not a prefix pair. 'Kupiłem' = I bought [completed]. 'Kupowałem' = I was buying / I used to buy."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 12,
+  "tags": ["aspect", "perfective", "imperfective", "aspect-pairs", "a2-core"],
+  "prerequisites": ["a2-ch12-l01"]
+}

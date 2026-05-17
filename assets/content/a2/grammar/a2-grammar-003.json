@@ -1,0 +1,81 @@
+{
+  "id": "a2-grammar-003",
+  "level": "a2",
+  "order": 3,
+  "title": "Future Tense — Simple (będę robić)",
+  "explanation": "The imperfective future tense in Polish is formed with the auxiliary verb 'być' (to be) in its future forms plus the infinitive or past participle of the main verb. Future forms of 'być': będę (I will), będziesz (you will), będzie (he/she/it will), będziemy (we will), będziecie (you pl. will), będą (they will). Combine with infinitive: będę pracować (I will work). Alternatively, use będę + past participle (gender-specific): będę pracował/pracowała. Note: perfective verbs form the future tense differently using present-tense endings.",
+  "examples": [
+    {
+      "polish": "Jutro będę pracować w domu.",
+      "english": "Tomorrow I will work at home.",
+      "note": "będę + infinitive of imperfective verb"
+    },
+    {
+      "polish": "Ona będzie czytać wieczorem.",
+      "english": "She will read in the evening.",
+      "note": "będzie + infinitive"
+    },
+    {
+      "polish": "Będziemy podróżować latem.",
+      "english": "We will travel in the summer.",
+      "note": "będziemy + infinitive"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "id": "a2-g003-ex01",
+      "prompt": "How do you say 'I will work tomorrow' (pracować = to work)?",
+      "options": [
+        "Jutro będę pracować.",
+        "Jutro pracuję.",
+        "Jutro pracowałem.",
+        "Jutro będę pracuje."
+      ],
+      "correct_index": 0,
+      "explanation": "The imperfective future is formed with będę + infinitive: będę pracować. Option B is present tense, C is past tense, D is grammatically incorrect."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a2-g003-ex02",
+      "prompt": "Complete with the future tense: 'She will read a book' (czytać = to read)",
+      "sentence_template": "Ona ___ czytać książkę.",
+      "accepted_answers": ["będzie"],
+      "explanation": "3rd person singular future of 'być': będzie. So: Ona będzie czytać książkę."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a2-g003-ex03",
+      "prompt": "Which future form is correct for 'they' (oni) + 'podróżować' (to travel)?",
+      "options": [
+        "Będą podróżować.",
+        "Będzie podróżować.",
+        "Będziemy podróżować.",
+        "Będziesz podróżować."
+      ],
+      "correct_index": 0,
+      "explanation": "3rd person plural future of 'być': będą. Oni będą podróżować (they will travel)."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a2-g003-ex04",
+      "prompt": "Complete: 'We will cook dinner.' (gotować = to cook)",
+      "sentence_template": "___ gotować obiad.",
+      "accepted_answers": ["Będziemy"],
+      "explanation": "1st person plural future of 'być': będziemy. Będziemy gotować obiad."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a2-g003-ex05",
+      "prompt": "How do you say 'You (informal, singular) will listen to music'?",
+      "options": [
+        "Będziesz słuchać muzyki.",
+        "Będę słuchać muzyki.",
+        "Będzie słuchać muzyki.",
+        "Będziecie słuchać muzyki."
+      ],
+      "correct_index": 0,
+      "explanation": "2nd person singular future of 'być': będziesz. Będziesz słuchać muzyki."
+    }
+  ]
+}

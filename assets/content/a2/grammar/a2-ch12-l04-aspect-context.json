@@ -1,0 +1,70 @@
+{
+  "id": "a2-ch12-l04",
+  "level": "a2",
+  "chapter": 12,
+  "lessonOrder": 4,
+  "title": "Aspect in Context",
+  "grammarPoint": "Choosing the correct aspect in past-tense narratives: time words and context as cues",
+  "explanation": {
+    "text": "Context clues help you choose the right aspect. Certain **time expressions** and **connectors** signal which aspect to use.\n\n**Imperfective signals — ongoing, repeated, or background:**\n\n| Signal word | Meaning | Example |\n|------------|---------|--------|\n| codziennie | every day | Codziennie **pisałem** |\n| zawsze | always | Zawsze **kupowała** |\n| często | often | Często **czytałem** |\n| kiedy... | when/while... | Kiedy **spałem**... |\n| przez (czas) | for (duration) | Przez godzinę **gotowałam** |\n| długo | for a long time | Długo **pracowali** |\n\n**Perfective signals — single completed events:**\n\n| Signal word | Meaning | Example |\n|------------|---------|--------|\n| nagle | suddenly | Nagle **zadzwonił** |\n| w końcu | finally | W końcu **napisałem** |\n| już | already | Już **zjadłam** |\n| raz | once | Raz **przeczytałem** |\n| wczoraj (single event) | yesterday | Wczoraj **kupiłem** bilet |\n\n**Mini-narrative example:**\nCodziennie **pisałam** listy. (imperf — habitual)\nWczoraj w końcu **napisałam** ważny list. (perf — completed)\nKiedy **pisałam**, zadzwonił telefon. (imperf — background)\nPotem szybko **skończyłam** i wysłałam. (perf — sequential completed steps)",
+    "notes": [
+      "Kiedy + imperfective = 'while' (background). Kiedy + perfective = 'when' (after completion).",
+      "w końcu (finally) almost always takes perfective.",
+      "Sequential past events (najpierw…potem…) usually take perfective.",
+      "Duration expressions (przez rok, całą noc) usually take imperfective."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch12-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "W końcu ___ do dentysty. (I finally went to the dentist.) [iść → pójść; ja m past]",
+      "options": ["poszedłem", "szedłem", "idę", "pójdę"],
+      "correctIndex": 0,
+      "explanation": "'W końcu' (finally) signals completion → perfective: pójść → poszedłem. 'Szedłem' (imperfective) = I was walking, not completed."
+    },
+    {
+      "id": "a2-ch12-l04-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Kiedy ___ kolację (I was eating dinner — background), mama zadzwoniła. [jeść, ja f imperf past]",
+      "answer": "jadłam",
+      "acceptableAnswers": ["jadłam"],
+      "hint": "Kiedy + background ongoing action = imperfective: jeść → jadłam (ja f)"
+    },
+    {
+      "id": "a2-ch12-l04-ex03",
+      "type": "multiple_choice",
+      "order": 3,
+      "prompt": "Nagle ___ prąd. (Suddenly the electricity went out.) [zgasnąć — perfective of gasnąć, ono]",
+      "options": ["zgasło", "gasło", "gaśnie", "zgaśnie"],
+      "correctIndex": 0,
+      "explanation": "'Nagle' (suddenly) + single event → perfective: zgasnąć → zgasło (neuter, ono). 'Gasło' would suggest a gradual process."
+    },
+    {
+      "id": "a2-ch12-l04-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: Every evening he read for an hour. (habitual — imperfective)",
+      "wordBank": ["Co", "wieczór", "on", "czytał", "przeczytał", "przez", "godzinę", "godziny", "cały"],
+      "correctSequences": [
+        ["Co", "wieczór", "on", "czytał", "przez", "godzinę"]
+      ],
+      "explanation": "'Co wieczór on czytał przez godzinę.' — Every evening he read for an hour. Habitual + duration → imperfective: czytał. 'Przez godzinę' = for an hour (duration confirms imperfective)."
+    },
+    {
+      "id": "a2-ch12-l04-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "Choose the correct sequence: 'First I called her, then I came over.' [zadzwonić / przyjść — both perfective, sequential]",
+      "options": ["Najpierw zadzwoniłem, potem przyszedłem.", "Najpierw dzwoniłem, potem szedłem.", "Najpierw zadzwoniłem, potem szedłem.", "Najpierw dzwoniłem, potem przyszedłem."],
+      "correctIndex": 0,
+      "explanation": "Sequential narrative events = perfective for each step: zadzwoniłem (called) → przyszedłem (came over). Both completed in sequence."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 12,
+  "tags": ["aspect", "context", "narrative", "a2-core"],
+  "prerequisites": ["a2-ch12-l01", "a2-ch12-l02", "a2-ch12-l03"]
+}

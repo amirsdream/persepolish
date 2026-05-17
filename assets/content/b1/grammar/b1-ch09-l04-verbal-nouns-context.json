@@ -1,0 +1,72 @@
+{
+  "id": "b1-ch09-l04",
+  "level": "b1",
+  "chapter": 9,
+  "lessonOrder": 4,
+  "title": "Verbal Nouns in Context",
+  "grammarPoint": "Verbal nouns as subjects and objects in natural sentences — replacing infinitive constructions, real-world usage in descriptions, preferences, and formal Polish",
+  "explanation": {
+    "text": "Verbal nouns are extremely common in Polish, appearing as subjects, objects, and after prepositions in everyday and formal language.\n\n## Verbal Noun as Subject\n\nVerbal nouns can act as the subject of a sentence:\n- *Czytanie* jest zdrowe. (Reading is healthy.)\n- *Gotowanie* sprawia mi przyjemność. (Cooking gives me pleasure.)\n- *Uczenie się* wymaga cierpliwości. (Learning requires patience.)\n- *Palenie* jest zakazane. (Smoking is prohibited.)\n- *Parkowanie* tutaj jest niedozwolone. (Parking here is not allowed.)\n\n**Signs and notices frequently use verbal nouns**:\n- PALENIE WZBRONIONE (No smoking)\n- PARKOWANIE ZAKAZANE (No parking)\n- WEJŚCIE WZBRONIONE (No entry)\n\n## Verbal Noun as Object (After Verbs)\n\n**lubić + verbal noun** (to like doing):\n- Lubię *czytanie*. (I like reading.)\n- Lubię *gotowanie*. (I like cooking.)\n- Nie lubię *czekania*. (I don't like waiting — genitive after negation!)\n\n**kochać + verbal noun** (to love doing):\n- Kocham *śpiewanie*. (I love singing.)\n- Kocham *podróżowanie*. (I love travelling.)\n\n**zacząć + verbal noun** (to start doing):\n- Zaczął *uczenie się* polskiego. (He started learning Polish.)\n\n**skończyć + verbal noun** (to finish doing):\n- Skończyłam *czytanie* tej książki. (I finished reading this book.)\n\n**unikać + genitive verbal noun** (to avoid doing):\n- Unikam *chodzenia* na siłownię. (I avoid going to the gym.)\n\n## Verbal Noun After Prepositions\n\n| Preposition | Case | Example | Meaning |\n|------------|------|---------|--------|\n| po | locative | po przeczytaniu | after reading (completion) |\n| przed | instrumental | przed wyjściem | before leaving |\n| bez | genitive | bez czekania | without waiting |\n| przez | accusative | przez gotowanie | because of/through cooking |\n| w | locative | w czytaniu | in reading (skill area) |\n| na | locative | na spotkaniu | at the meeting |\n| do | genitive | do czytania | for reading |\n\n**Examples**:\n- Przed *wyjściem* sprawdź klucze. (Before leaving, check your keys.)\n- Bez *czekania* to niemożliwe. (Without waiting it's impossible.)\n- Jestem dobry w *gotowaniu*. (I am good at cooking.)\n- Mam książkę *do czytania*. (I have a book to read / for reading.)\n\n## Verbal Noun vs Infinitive\n\nBoth are possible in many contexts, but with slight difference:\n\n| Construction | Example | Nuance |\n|-------------|---------|--------|\n| lubić + infinitive | Lubię czytać. | Action-oriented |\n| lubić + verbal noun | Lubię czytanie. | Activity as concept |\n| zacząć + infinitive | Zaczął czytać. | More common in speech |\n| zacząć + verbal noun | Zaczął czytanie. | More formal/written |\n\nIn everyday Polish, **infinitive is often preferred** after modal-like verbs. Verbal nouns are preferred as standalone subjects and after prepositions.\n\n## Formal/Written Polish\n\nVerbal nouns are especially common in formal, academic, and business Polish:\n- *Przeprowadzenie* badań wymaga zgody. (Conducting research requires consent.)\n- *Złożenie* wniosku jest obowiązkowe. (Submitting the application is mandatory.)\n- Celem *spotkania* jest omówienie wyników. (The purpose of the meeting is to discuss the results.)",
+    "notes": [
+      "Verbal nouns as subjects are always grammatically neuter: 'czytanie jest', 'gotowanie wymaga', 'palenie jest zakazane'.",
+      "After negation, verbal noun takes genitive: 'nie lubię czytania' (gen), not 'nie lubię czytanie' (acc).",
+      "Signs/notices use verbal nouns in nominative: PALENIE WZBRONIONE, PARKOWANIE ZAKAZANE — these are like abbreviated sentences ('palenie [jest] wzbronione').",
+      "lubić + verbal noun (acc) vs nie lubić + verbal noun (gen): 'lubię czytanie' / 'nie lubię czytania'.",
+      "In formal Polish, prefer verbal nouns over infinitive constructions: 'przeprowadzenie badań' (more formal) vs 'przeprowadzić badania' (verbal)."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch09-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Nie lubię ___. (I don't like waiting.) [czekać → verbal noun, negation → genitive]",
+      "options": ["czekania", "czekanie", "czekać", "czekaniu"],
+      "correctIndex": 0,
+      "explanation": "After negated 'nie lubię', the verbal noun takes GENITIVE: czekanie → czekania. 'Nie lubię czekania.' = I don't like waiting. Compare positive: 'Lubię czekanie' (accusative). The rule: transitive verb + negation → genitive object. The verbal noun acts as a noun-object here."
+    },
+    {
+      "id": "b1-ch09-l04-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "Przed ___ sprawdź klucze. (Before leaving, check your keys.) ['wyjście' = exit/leaving, przed + instrumental]",
+      "options": ["wyjściem", "wyjście", "wyjścia", "wyjściu"],
+      "correctIndex": 0,
+      "explanation": "'Przed' + instrumental: 'przed wyjściem'. 'Wyjście' → instrumental = 'wyjściem'. 'Przed wyjściem sprawdź klucze.' = Before leaving, check your keys. Instrumental neuter: -ie/-cie → -iem: wyjście→wyjściem, spotkanie→spotkaniem, życie→życiem."
+    },
+    {
+      "id": "b1-ch09-l04-ex03",
+      "type": "fill_blank",
+      "order": 3,
+      "prompt": "___ jest zakazane w tym budynku. (Smoking is prohibited in this building.) [palić → verbal noun, nominative subject]",
+      "answer": "Palenie",
+      "acceptableAnswers": ["Palenie"],
+      "explanation": "'Palić' (to smoke) → verbal noun = 'palenie'. As subject → nominative: 'Palenie'. 'Palenie jest zakazane w tym budynku.' = Smoking is prohibited in this building. Classic sign: PALENIE WZBRONIONE. Verbal noun as subject is always neuter: 'palenie jest' (not 'pali się jest')."
+    },
+    {
+      "id": "b1-ch09-l04-ex04",
+      "type": "dictation_mc",
+      "order": 4,
+      "audioAsset": "assets/audio/b1/ch09/b1-ch09-l04-ex04.mp3",
+      "options": ["Celem spotkania jest omówienie wyników.", "Celem spotkania jest omówieniu wyników.", "Celem spotkań jest omówienie wyników.", "Celem spotkania są omówienie wyników."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Celem spotkania jest omówienie wyników.' — The purpose of the meeting is to discuss the results. 'Celem' = instrumental of 'cel' (purpose) — used in formal statements: 'celem [czegoś] jest...'. 'Spotkania' = genitive of 'spotkanie'. 'Omówienie' = verbal noun from 'omówić' (to discuss/cover — perfective) → 'omówienie' = discussing/coverage. 'Wyników' = genitive plural of 'wyniki' (results)."
+    },
+    {
+      "id": "b1-ch09-l04-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: I'm good at cooking and I love travelling. [gotowanie, podróżowanie]",
+      "wordBank": ["Jestem", "dobry", "dobra", "w", "gotowaniu", "gotowanie", "i", "kocham", "podróżowanie", "podróżowaniu", "."],
+      "correctSequences": [
+        ["Jestem", "dobra", "w", "gotowaniu", "i", "kocham", "podróżowanie", "."],
+        ["Jestem", "dobry", "w", "gotowaniu", "i", "kocham", "podróżowanie", "."]
+      ],
+      "explanation": "'Jestem dobra/dobry w gotowaniu i kocham podróżowanie.' — I'm good at cooking and I love travelling. 'W gotowaniu' = at cooking (w + locative: gotowanie→gotowaniu). 'Kocham podróżowanie' = I love travelling (accusative: podróżowanie, same as nominative for neuter). 'Dobra' = female speaker; 'dobry' = male speaker. Both sequences are correct."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 14,
+  "tags": ["verbal-nouns", "b1-core", "context", "formal-polish", "signs"],
+  "prerequisites": ["b1-ch09-l03"]
+}

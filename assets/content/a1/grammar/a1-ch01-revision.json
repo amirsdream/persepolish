@@ -1,0 +1,135 @@
+{
+  "id": "a1-ch01-revision",
+  "level": "a1",
+  "chapter": 1,
+  "title": "Chapter 1 Revision: Greetings & być",
+  "description": "Mixed questions covering all four Chapter 1 grammar lessons and vocabulary.",
+  "passThreshold": 0.70,
+  "questions": [
+    {
+      "id": "a1-ch01-rev-q01",
+      "type": "multiple_choice",
+      "order": 1,
+      "sourceLesson": "a1-ch01-l01",
+      "prompt": "Choose the correct form: Ona ___ nauczycielką.",
+      "options": ["jestem", "jesteś", "jest", "jesteście"],
+      "correctIndex": 2,
+      "explanation": "Third person singular (ona = she) uses jest. 'Ona jest nauczycielką' = She is a teacher."
+    },
+    {
+      "id": "a1-ch01-rev-q02",
+      "type": "multiple_choice",
+      "order": 2,
+      "sourceLesson": "a1-ch01-l02",
+      "prompt": "My ___ z Polski.",
+      "options": ["jest", "jesteś", "jesteśmy", "są"],
+      "correctIndex": 2,
+      "explanation": "First person plural (my = we) uses jesteśmy. 'My jesteśmy z Polski' = We are from Poland."
+    },
+    {
+      "id": "a1-ch01-rev-q03",
+      "type": "multiple_choice",
+      "order": 3,
+      "sourceLesson": "a1-ch01-l03",
+      "prompt": "Which pronoun do you use to talk about a group of women?",
+      "options": ["one", "oni", "on", "ono"],
+      "correctIndex": 0,
+      "explanation": "'One' is used for groups of all-female or all-neuter nouns. 'Oni' is for mixed or all-male groups."
+    },
+    {
+      "id": "a1-ch01-rev-q04",
+      "type": "multiple_choice",
+      "order": 4,
+      "sourceLesson": "a1-ch01-l04",
+      "prompt": "What gender is 'morze' (sea)?",
+      "options": ["neuter", "masculine", "feminine", "it varies"],
+      "correctIndex": 0,
+      "explanation": "'Morze' ends in -e, a neuter ending. It is a neuter noun."
+    },
+    {
+      "id": "a1-ch01-rev-q05",
+      "type": "vocab_translation",
+      "order": 5,
+      "sourceVocab": "a1-ch01-vocab",
+      "prompt": "What does 'do widzenia' mean?",
+      "options": ["good morning", "please", "goodbye (formal)", "excuse me"],
+      "correctIndex": 2,
+      "explanation": "'Do widzenia' is the standard formal goodbye in Polish — literally 'until seeing (you)'."
+    },
+    {
+      "id": "a1-ch01-rev-q06",
+      "type": "vocab_translation",
+      "order": 6,
+      "sourceVocab": "a1-ch01-vocab",
+      "prompt": "What does 'przepraszam' mean?",
+      "options": ["thank you", "excuse me / I'm sorry", "you're welcome", "good evening"],
+      "correctIndex": 1,
+      "explanation": "'Przepraszam' means both 'excuse me' (to get attention) and 'I'm sorry' (to apologise) in Polish."
+    },
+    {
+      "id": "a1-ch01-rev-q07",
+      "type": "multiple_choice",
+      "order": 7,
+      "sourceLesson": "a1-ch01-l01",
+      "prompt": "Ty ___ bardzo miły.",
+      "options": ["jest", "jestem", "jesteś", "są"],
+      "correctIndex": 2,
+      "explanation": "Second person singular (ty = you) uses jesteś. 'Ty jesteś bardzo miły' = You are very nice."
+    },
+    {
+      "id": "a1-ch01-rev-q08",
+      "type": "multiple_choice",
+      "order": 8,
+      "sourceLesson": "a1-ch01-l04",
+      "prompt": "Which noun ending is typically masculine?",
+      "options": ["ends in a consonant", "ends in -a", "ends in -o", "ends in -e"],
+      "correctIndex": 0,
+      "explanation": "Masculine nouns typically end in a consonant (e.g. kot, dom, pies). Feminine nouns end in -a. Neuter nouns end in -o or -e."
+    },
+    {
+      "id": "a1-ch01-rev-q09",
+      "type": "vocab_translation",
+      "order": 9,
+      "sourceVocab": "a1-ch01-vocab",
+      "prompt": "What does 'dziękuję' mean?",
+      "options": ["please", "excuse me", "thank you", "goodbye"],
+      "correctIndex": 2,
+      "explanation": "'Dziękuję' = thank you. You can add 'bardzo' (very much) for emphasis: 'Dziękuję bardzo'."
+    },
+    {
+      "id": "a1-ch01-rev-q10",
+      "type": "multiple_choice",
+      "order": 10,
+      "sourceLesson": "a1-ch01-l02",
+      "prompt": "Oni ___ lekarzami.",
+      "options": ["jest", "jesteś", "jesteśmy", "są"],
+      "correctIndex": 3,
+      "explanation": "Third person plural (oni = they) uses są. 'Oni są lekarzami' = They are doctors."
+    },
+    {
+      "id": "a1-ch01-rev-q11",
+      "type": "vocab_translation",
+      "order": 11,
+      "sourceVocab": "a1-ch01-vocab",
+      "prompt": "What does 'nie rozumiem' mean?",
+      "options": ["I understand", "I don't understand", "excuse me", "please repeat"],
+      "correctIndex": 1,
+      "explanation": "'Nie rozumiem' = I don't understand. 'Nie' = not/no, 'rozumiem' = I understand."
+    },
+    {
+      "id": "a1-ch01-rev-q12",
+      "type": "multiple_choice",
+      "order": 12,
+      "sourceLesson": "a1-ch01-l03",
+      "prompt": "When do Polish speakers usually drop the subject pronoun?",
+      "options": [
+        "Almost always — the verb ending shows the subject",
+        "Never — you must always say ja, ty, on etc.",
+        "Only in formal situations",
+        "Only when speaking fast"
+      ],
+      "correctIndex": 0,
+      "explanation": "Polish is a pro-drop language — the subject pronoun is usually omitted because the verb ending already shows who the subject is. Pronouns are used for emphasis or contrast."
+    }
+  ]
+}

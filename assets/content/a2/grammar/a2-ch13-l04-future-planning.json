@@ -1,0 +1,71 @@
+{
+  "id": "a2-ch13-l04",
+  "level": "a2",
+  "chapter": 13,
+  "lessonOrder": 4,
+  "title": "Planning Expressions",
+  "grammarPoint": "Expressing plans and intentions: zamierzam + inf, planuję + inf, mam zamiar + inf, chcę + inf, mam nadzieję + że",
+  "explanation": {
+    "text": "In Polish, there are several ways to express future plans and intentions.\n\n**Planning and intention verbs + infinitive:**\n\n| Expression | Meaning | Example |\n|------------|---------|--------|\n| **zamierzam** + inf | I intend to / I'm planning to | Zamierzam wyjechać za granicę. |\n| **planuję** + inf | I'm planning to | Planuję studiować medycynę. |\n| **mam zamiar** + inf | I have the intention to | Mam zamiar kupić nowy samochód. |\n| **chcę** + inf | I want to | Chcę nauczyć się polskiego. |\n| **myślę** + inf | I'm thinking of | Myślę pojechać do Włoch. |\n\n**Expressing hope:**\n- **Mam nadzieję, że** + future clause\n- Mam nadzieję, że **zdasz** egzamin. = I hope you'll pass the exam.\n- Mam nadzieję, że **będzie** ładna pogoda. = I hope the weather will be nice.\n\n**Conjugation reminder** (zamierzać — Group 1 verb):\n- ja: **zamierzam**, ty: **zamierzasz**, on/ona: **zamierza**\n- my: **zamierzamy**, wy: **zamierzacie**, oni/one: **zamierzają**\n\n**planować — Group 3 (-ować):**\n- ja: **planuję**, ty: **planujesz**, on: **planuje**",
+    "notes": [
+      "Zamierzam, planuję, mam zamiar — all mean planning/intending to. Use interchangeably.",
+      "All take infinitive: zamierzam POJECHAĆ (not pojadę after zamierzam).",
+      "Mam nadzieję, że + full clause with its own verb (future tense).",
+      "Chcę + infinitive = wanting to (stronger than planning). 'Chcę żyć w Polsce.'"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch13-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "___ uczyć się polskiego przez rok. (I'm planning to study Polish for a year.) [planować, ja]",
+      "options": ["Planuję", "Planowałem", "Planujesz", "Zaplanuj"],
+      "correctIndex": 0,
+      "explanation": "'Planować' Group 3 (-ować): ja → planuję. 'Planuję uczyć się polskiego przez rok.' The infinitive follows directly."
+    },
+    {
+      "id": "a2-ch13-l04-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Mam ___, że jutro będzie ładna pogoda. (I hope that tomorrow the weather will be nice.)",
+      "answer": "nadzieję",
+      "acceptableAnswers": ["nadzieję"],
+      "hint": "Mam nadzieję, że... = I hope that... ('nadzieja' → accusative: nadzieję)"
+    },
+    {
+      "id": "a2-ch13-l04-ex03",
+      "type": "multiple_choice",
+      "order": 3,
+      "prompt": "Zamierzam ___ za granicę w tym roku. (I intend to go abroad this year.) [wyjechać]",
+      "options": ["wyjechać", "wyjeżdżać", "wyjadę", "wyjeżdżam"],
+      "correctIndex": 0,
+      "explanation": "'Zamierzam' + infinitive: wyjechać. Do NOT use a conjugated future form after zamierzam — only infinitive."
+    },
+    {
+      "id": "a2-ch13-l04-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: She intends to start a new job next month.",
+      "wordBank": ["Ona", "zamierza", "planuje", "zacząć", "zaczyna", "nową", "pracę", "pracy", "w", "przyszłym", "miesiącu", "miesiąca"],
+      "correctSequences": [
+        ["Ona", "zamierza", "zacząć", "nową", "pracę", "w", "przyszłym", "miesiącu"],
+        ["Ona", "planuje", "zacząć", "nową", "pracę", "w", "przyszłym", "miesiącu"]
+      ],
+      "explanation": "'Ona zamierza/planuje zacząć nową pracę w przyszłym miesiącu.' — She intends to start a new job next month. Either 'zamierza' or 'planuje' works. 'Zacząć' = infinitive (perf). 'W przyszłym miesiącu' = next month."
+    },
+    {
+      "id": "a2-ch13-l04-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "Mam nadzieję, że ___ egzamin. (I hope you'll pass the exam.) [zdać, ty — perfective future]",
+      "options": ["zdasz", "zdajesz", "zdałeś", "będziesz zdawać"],
+      "correctIndex": 0,
+      "explanation": "After 'mam nadzieję, że' → full clause in future: 'zdasz' (perfective future of 'zdać', ty). One completed future event = perfective."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["future-tense", "planning", "intentions", "a2-core"],
+  "prerequisites": ["a2-ch13-l01", "a2-ch13-l02", "a2-ch13-l03"]
+}

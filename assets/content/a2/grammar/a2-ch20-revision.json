@@ -1,0 +1,130 @@
+{
+  "id": "a2-ch20-revision",
+  "level": "a2",
+  "chapter": 20,
+  "title": "Chapter 20 Revision — A2 Complete Review",
+  "description": "Comprehensive A2 review quiz covering aspect, tenses, cases, formal register, and key vocabulary from all of A2 (Chapters 11–20).",
+  "passThreshold": 0.70,
+  "questions": [
+    {
+      "id": "a2-ch20-rev-q01",
+      "type": "multiple_choice",
+      "order": 1,
+      "sourceLesson": "a2-ch20-l01",
+      "prompt": "Codziennie ___ gazetę rano. (Every day I read the newspaper in the morning.) [habit → aspect]",
+      "options": ["czytałem", "przeczytałem", "czytam", "przeczytam"],
+      "correctIndex": 0,
+      "explanation": "Habit (codziennie) → imperfective past: 'czytałem'. 'Przeczytałem' = perfective (I read through / finished reading — one-time). 'Czytam' = present habit. 'Przeczytam' = perf future."
+    },
+    {
+      "id": "a2-ch20-rev-q02",
+      "type": "multiple_choice",
+      "order": 2,
+      "sourceLesson": "a2-ch20-l01",
+      "prompt": "W końcu ___ ten projekt! (I finally finished this project!)",
+      "options": ["skończyłem", "kończyłem", "kończę", "będę kończyć"],
+      "correctIndex": 0,
+      "explanation": "'W końcu' (finally) signals completed result → perfective: 'skończyłem'. 'Kończyłem' = imperfective past (was finishing — process). The perfective captures the achievement."
+    },
+    {
+      "id": "a2-ch20-rev-q03",
+      "type": "multiple_choice",
+      "order": 3,
+      "sourceLesson": "a2-ch20-l02",
+      "prompt": "Wczoraj moje siostry ___ do Krakowa. (Yesterday my sisters went to Kraków.) [non-virile plural past]",
+      "options": ["pojechały", "pojechali", "pojechała", "pojechał"],
+      "correctIndex": 0,
+      "explanation": "Non-virile plural (siostry = sisters, all female) → -ły ending: 'pojechały'. Virile plural (men/mixed group) → -li: 'pojechali'. 'Pojechała' = singular feminine."
+    },
+    {
+      "id": "a2-ch20-rev-q04",
+      "type": "multiple_choice",
+      "order": 4,
+      "sourceLesson": "a2-ch20-l02",
+      "prompt": "Jutro ___ ten raport. (Tomorrow she will finish this report.) [perfective future, 3rd sg fem]",
+      "options": ["skończy", "będzie kończyć", "skończyła", "kończy"],
+      "correctIndex": 0,
+      "explanation": "'Skończy' = perfective future 3rd sg (she will finish/complete). 'Będzie kończyć' = imperfective future (will be in process of finishing). 'Jutro' + completed result → perfective."
+    },
+    {
+      "id": "a2-ch20-rev-q05",
+      "type": "multiple_choice",
+      "order": 5,
+      "sourceLesson": "a2-ch20-l03",
+      "prompt": "Nie ma ___ w lodówce. (There's no milk in the fridge.) [genitive after negation]",
+      "options": ["mleka", "mleko", "mlekiem", "mleku"],
+      "correctIndex": 0,
+      "explanation": "After negation 'nie ma' → genitive: mleko (n) → mleka. 'Nie ma mleka' = There's no milk. Contrast: 'Jest mleko' (nominative) = There is milk."
+    },
+    {
+      "id": "a2-ch20-rev-q06",
+      "type": "multiple_choice",
+      "order": 6,
+      "sourceLesson": "a2-ch20-l03",
+      "prompt": "Jadę ___ pracy ___ autobusem. (I go to work by bus.)",
+      "options": ["do / — ", "na / z", "w / z", "do / z"],
+      "correctIndex": 0,
+      "explanation": "'Do pracy' = to work (do + genitive). 'Autobusem' = by bus (instrumental, no preposition needed — means of transport). So: 'Jadę do pracy autobusem.' — no preposition before autobusem."
+    },
+    {
+      "id": "a2-ch20-rev-q07",
+      "type": "multiple_choice",
+      "order": 7,
+      "sourceLesson": "a2-ch20-l04",
+      "prompt": "Kiedy ___ do sklepu, spotkałam koleżankę. (When I was walking to the shop, I met a friend.) [aspect in kiedy clause]",
+      "options": ["szłam", "poszłam", "idę", "pójdę"],
+      "correctIndex": 0,
+      "explanation": "Kiedy + ongoing background → imperfective: 'szłam' (was walking, imperf). 'Poszłam' = perfective (went = completed trip). The friend encounter happens during the walking, so walking is the ongoing background."
+    },
+    {
+      "id": "a2-ch20-rev-q08",
+      "type": "multiple_choice",
+      "order": 8,
+      "sourceLesson": "a2-ch19-l01",
+      "prompt": "Formal question to a man: Jak ___ ma na imię? (What is your first name?)",
+      "options": ["Pan", "Pani", "ty", "on"],
+      "correctIndex": 0,
+      "explanation": "Formal address to a man: 'Pan' + 3rd person singular. 'Jak Pan ma na imię?' = What is your first name? (formal). Informal: 'Jak masz na imię?' (ty form). 'Pani' = for a woman."
+    },
+    {
+      "id": "a2-ch20-rev-q09",
+      "type": "multiple_choice",
+      "order": 9,
+      "sourceLesson": "a2-ch18-l04",
+      "prompt": "Uczę się polskiego, ___ zdać egzamin PKE. (I study Polish in order to pass the PKE exam.) [purpose]",
+      "options": ["żeby", "bo", "że", "ale"],
+      "correctIndex": 0,
+      "explanation": "'Żeby + infinitive' = in order to (purpose, same subject). 'Uczę się, żeby zdać egzamin.' 'Bo' = because (reason). 'Że' = that (introduces statement). 'Ale' = but."
+    },
+    {
+      "id": "a2-ch20-rev-q10",
+      "type": "vocab_translation",
+      "order": 10,
+      "sourceVocab": "a2-ch20-vocab",
+      "prompt": "What does 'udało mi się' mean?",
+      "options": ["I managed to / I succeeded in", "I failed", "I tried to", "I should"],
+      "correctIndex": 0,
+      "explanation": "'Udać się' (perf, impersonal) = to succeed. 'Udało mi się zdać' = I managed to pass. The dative pronoun (mi) = the person who succeeds. 'Nie udało mi się' = I didn't manage to / I failed."
+    },
+    {
+      "id": "a2-ch20-rev-q11",
+      "type": "vocab_translation",
+      "order": 11,
+      "sourceVocab": "a2-ch20-vocab",
+      "prompt": "What does 'coraz' mean in 'Mój polski jest coraz lepszy'?",
+      "options": ["more and more / increasingly", "always better", "suddenly", "still"],
+      "correctIndex": 0,
+      "explanation": "'Coraz + comparative' = more and more / increasingly. 'Coraz lepszy' = getting better and better. 'Coraz trudniej' = increasingly difficult. Very common pattern in Polish for gradual change."
+    },
+    {
+      "id": "a2-ch20-rev-q12",
+      "type": "multiple_choice",
+      "order": 12,
+      "sourceLesson": "a2-ch20-l04",
+      "prompt": "PKE error correction: 'Jestem lekarz.' — What is wrong?",
+      "options": ["Should be: Jestem lekarzem (instrumental after być)", "Nothing is wrong", "Should be: Jestem lekarza", "Should be: Jestem lekarzowi"],
+      "correctIndex": 0,
+      "explanation": "After 'być' with profession → instrumental: lekarz → lekarzem. 'Jestem lekarzem' = I am a doctor. Using nominative (Jestem lekarz) is a very common error at A2 level and is specifically tested in PKE."
+    }
+  ]
+}

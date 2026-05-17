@@ -1,0 +1,89 @@
+{
+  "id": "a1-grammar-004",
+  "level": "a1",
+  "order": 4,
+  "title": "Accusative Case — Direct Objects",
+  "explanation": "The accusative case (biernik) marks the direct object of verbs like mieć (have), lubić (like), widzieć (see), and jeść (eat). Masculine animate nouns change their ending: pies → psa, kot → kota. Masculine inanimate nouns remain unchanged. Feminine nouns change -a to -ę: kawa → kawę, kobieta → kobietę. Neuter nouns do not change in the accusative singular.",
+  "examples": [
+    {
+      "polish": "Mam kota.",
+      "english": "I have a cat.",
+      "note": "masculine animate — nominative 'kot' becomes 'kota' in accusative"
+    },
+    {
+      "polish": "Lubię kawę.",
+      "english": "I like coffee.",
+      "note": "feminine — nominative 'kawa' becomes 'kawę' in accusative"
+    },
+    {
+      "polish": "Widzę okno.",
+      "english": "I see a window.",
+      "note": "neuter — no change in accusative"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "id": "a1-g004-ex01",
+      "prompt": "Which form correctly completes: 'Mam ___ (pies — dog)'?",
+      "options": [
+        "psa",
+        "pies",
+        "psem",
+        "psowi"
+      ],
+      "correct_index": 0,
+      "explanation": "'Pies' is a masculine animate noun. In the accusative case it becomes 'psa'. We use the accusative after 'mam' (I have)."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-g004-ex02",
+      "prompt": "Complete the sentence using the accusative: 'I like coffee.' (kawa = coffee, feminine)",
+      "sentence_template": "Lubię ___.",
+      "accepted_answers": ["kawę"],
+      "explanation": "Feminine nouns ending in -a change to -ę in the accusative: kawa → kawę."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-g004-ex03",
+      "prompt": "How do you say 'I see a woman' (kobieta = woman, feminine)?",
+      "options": [
+        "Widzę kobietę.",
+        "Widzę kobieta.",
+        "Widzę kobiecie.",
+        "Widzę kobietą."
+      ],
+      "correct_index": 0,
+      "explanation": "'Kobieta' is feminine. In the accusative, -a changes to -ę: kobietę. We use accusative after 'widzę' (I see)."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-g004-ex04",
+      "prompt": "Complete: 'I am eating soup.' (zupa = soup, feminine)",
+      "sentence_template": "Jem ___.",
+      "accepted_answers": ["zupę"],
+      "explanation": "'Zupa' is feminine. The accusative form is 'zupę' (change -a to -ę). 'Jeść' (to eat) takes the accusative."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-g004-ex05",
+      "prompt": "Which verb does NOT take the accusative case for its direct object?",
+      "options": [
+        "być (to be)",
+        "mieć (to have)",
+        "lubić (to like)",
+        "widzieć (to see)"
+      ],
+      "correct_index": 0,
+      "explanation": "'Być' (to be) is a linking verb — it takes the nominative, not accusative. Mieć, lubić, and widzieć all take direct objects in the accusative."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-g004-ex06",
+      "prompt": "Complete: 'I have a book.' (książka = book, feminine)",
+      "sentence_template": "Mam ___.",
+      "accepted_answers": ["książkę"],
+      "explanation": "'Książka' is feminine. Accusative: książkę (-a → -ę)."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "a1-ch02-revision",
+  "level": "a1",
+  "chapter": 2,
+  "title": "Chapter 2 Revision: Family & mieć",
+  "description": "Mixed questions covering Chapter 2 grammar (mieć, nominative plural, possessives, genitive singular) and family vocabulary.",
+  "passThreshold": 0.70,
+  "questions": [
+    {
+      "id": "a1-ch02-rev-q01",
+      "type": "multiple_choice",
+      "order": 1,
+      "sourceLesson": "a1-ch02-l01",
+      "prompt": "Wy ___ dużo czasu.",
+      "options": ["mam", "masz", "mamy", "macie"],
+      "correctIndex": 3,
+      "explanation": "Second person plural (wy = you all) uses macie. 'Wy macie dużo czasu' = You (all) have a lot of time."
+    },
+    {
+      "id": "a1-ch02-rev-q02",
+      "type": "multiple_choice",
+      "order": 2,
+      "sourceLesson": "a1-ch02-l02",
+      "prompt": "What is the correct nominative plural of 'okno' (window)?",
+      "options": ["okna", "okny", "okni", "okno"],
+      "correctIndex": 0,
+      "explanation": "Neuter nouns ending in -o form their plural with -a: okno → okna."
+    },
+    {
+      "id": "a1-ch02-rev-q03",
+      "type": "multiple_choice",
+      "order": 3,
+      "sourceLesson": "a1-ch02-l03",
+      "prompt": "To jest ___ mama. (This is my mum.) [mama = feminine]",
+      "options": ["mój", "moja", "moje", "moją"],
+      "correctIndex": 1,
+      "explanation": "'Mama' is feminine → possessive agrees: 'moja'. 'To jest moja mama' = This is my mum."
+    },
+    {
+      "id": "a1-ch02-rev-q04",
+      "type": "multiple_choice",
+      "order": 4,
+      "sourceLesson": "a1-ch02-l04",
+      "prompt": "Nie ma ___ w domu. (Dad is not at home.) [tata → ?]",
+      "options": ["tata", "tatę", "taty", "tacie"],
+      "correctIndex": 2,
+      "explanation": "'Nie ma' requires the genitive case. 'Tata' (masculine, ends -a) → genitive 'taty'. 'Nie ma taty w domu'."
+    },
+    {
+      "id": "a1-ch02-rev-q05",
+      "type": "vocab_translation",
+      "order": 5,
+      "sourceVocab": "a1-ch02-vocab",
+      "prompt": "What does 'rodzice' mean?",
+      "options": ["family", "parents", "children", "relatives"],
+      "correctIndex": 1,
+      "explanation": "'Rodzice' = parents (plural-only noun). 'Rodzina' = family. 'Dzieci' = children."
+    },
+    {
+      "id": "a1-ch02-rev-q06",
+      "type": "vocab_translation",
+      "order": 6,
+      "sourceVocab": "a1-ch02-vocab",
+      "prompt": "What does 'córka' mean?",
+      "options": ["son", "sister", "daughter", "aunt"],
+      "correctIndex": 2,
+      "explanation": "'Córka' = daughter (feminine noun). 'Syn' = son. 'Siostra' = sister. 'Ciocia' = aunt."
+    },
+    {
+      "id": "a1-ch02-rev-q07",
+      "type": "multiple_choice",
+      "order": 7,
+      "sourceLesson": "a1-ch02-l01",
+      "prompt": "How do you say 'I don't have a brother' in Polish?",
+      "options": ["Nie mam brata.", "Nie ma brata.", "Mam nie brata.", "Nie masz brata."],
+      "correctIndex": 0,
+      "explanation": "'Nie mam brata' = I don't have a brother. 'Nie mam' = I don't have (1st sg. negation). 'Brata' is genitive after negation."
+    },
+    {
+      "id": "a1-ch02-rev-q08",
+      "type": "multiple_choice",
+      "order": 8,
+      "sourceLesson": "a1-ch02-l04",
+      "prompt": "Jadę do ___ (to my sister's). [siostra → ?]",
+      "options": ["siostry", "siostrę", "siostrą", "siostro"],
+      "correctIndex": 0,
+      "explanation": "After 'do' (to), use genitive: siostra (feminine -a) → siostry. 'Jadę do siostry' = I'm going to my sister's."
+    },
+    {
+      "id": "a1-ch02-rev-q09",
+      "type": "vocab_translation",
+      "order": 9,
+      "sourceVocab": "a1-ch02-vocab",
+      "prompt": "What does 'mąż' mean?",
+      "options": ["man", "husband", "father", "brother"],
+      "correctIndex": 1,
+      "explanation": "'Mąż' = husband. 'Mężczyzna' = man. 'Ojciec/tata' = father. 'Brat' = brother."
+    },
+    {
+      "id": "a1-ch02-rev-q10",
+      "type": "multiple_choice",
+      "order": 10,
+      "sourceLesson": "a1-ch02-l02",
+      "prompt": "What is the virile (masculine personal) plural of 'student'?",
+      "options": ["studenci", "studenty", "studentki", "studentów"],
+      "correctIndex": 0,
+      "explanation": "'Student' → 'studenci' in the virile plural (t → c softening). This is the nominative plural for a group of male or mixed students."
+    },
+    {
+      "id": "a1-ch02-rev-q11",
+      "type": "multiple_choice",
+      "order": 11,
+      "sourceLesson": "a1-ch02-l03",
+      "prompt": "To jest ___ auto. (This is their car.) [auto = neuter, owners = male]",
+      "options": ["ich", "jej", "jego", "nasz"],
+      "correctIndex": 0,
+      "explanation": "'Ich' = their (possessive for they — both oni and one). 'Ich' is indeclinable — it stays the same regardless of the noun's gender."
+    },
+    {
+      "id": "a1-ch02-rev-q12",
+      "type": "vocab_translation",
+      "order": 12,
+      "sourceVocab": "a1-ch02-vocab",
+      "prompt": "What does 'dziecko' mean?",
+      "options": ["baby", "child", "boy", "teenager"],
+      "correctIndex": 1,
+      "explanation": "'Dziecko' = child (neuter noun). Plural: 'dzieci' = children (irregular plural)."
+    }
+  ]
+}

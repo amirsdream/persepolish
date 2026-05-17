@@ -1,0 +1,89 @@
+{
+  "id": "a1-grammar-008",
+  "level": "a1",
+  "order": 8,
+  "title": "Present Tense — Regular Verbs Group I (-ować/-ać)",
+  "explanation": "Polish verbs in Group I include verbs ending in -ować and many ending in -ać. Verbs ending in -ować replace -ować with -uję, -ujesz, -uje, -ujemy, -ujecie, -ują. Verbs ending in -ać (like słuchać, czytać, grać) follow the pattern: -am, -asz, -a, -amy, -acie, -ają. These endings are added to the verb stem. For example: pracować (to work) → pracuję (I work), pracujesz (you work); słuchać (to listen) → słucham (I listen), słuchasz (you listen).",
+  "examples": [
+    {
+      "polish": "Pracuję w biurze.",
+      "english": "I work in an office.",
+      "note": "pracować (to work) → pracuję (-ować → -uję)"
+    },
+    {
+      "polish": "Słuchasz muzyki.",
+      "english": "You listen to music.",
+      "note": "słuchać (to listen) → słuchasz (-ać → -asz)"
+    },
+    {
+      "polish": "Oni studiują w Warszawie.",
+      "english": "They study in Warsaw.",
+      "note": "studiować (to study) → studiują (-ować → -ują, 3rd pl.)"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "id": "a1-g008-ex01",
+      "prompt": "What is the correct form of 'pracować' (to work) for 'ja' (I)?",
+      "options": [
+        "pracuję",
+        "pracujesz",
+        "pracuje",
+        "pracuję się"
+      ],
+      "correct_index": 0,
+      "explanation": "For 'ja' (I), -ować verbs use the ending -uję: pracować → pracuję."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-g008-ex02",
+      "prompt": "Complete with the correct form of 'słuchać' (to listen) for 'ona' (she):",
+      "sentence_template": "Ona ___ radia.",
+      "accepted_answers": ["słucha"],
+      "explanation": "For 'ona/on/ono' (she/he/it), -ać verbs use the ending -a: słuchać → słucha."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-g008-ex03",
+      "prompt": "Which form of 'czytać' (to read) is correct for 'my' (we)?",
+      "options": [
+        "czytamy",
+        "czytamy się",
+        "czytaję",
+        "czytają"
+      ],
+      "correct_index": 0,
+      "explanation": "For 'my' (we), -ać verbs use the ending -amy: czytać → czytamy."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-g008-ex04",
+      "prompt": "Complete with the correct form of 'studiować' (to study) for 'ty' (you, informal):",
+      "sentence_template": "Ty ___ historię.",
+      "accepted_answers": ["studiujesz"],
+      "explanation": "For 'ty' (you), -ować verbs use the ending -ujesz: studiować → studiujesz."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a1-g008-ex05",
+      "prompt": "How do you say 'They play' (grać = to play)?",
+      "options": [
+        "Oni grają.",
+        "Oni gra.",
+        "Oni gramy.",
+        "Oni graję."
+      ],
+      "correct_index": 0,
+      "explanation": "For 'oni/one' (they), -ać verbs use the ending -ają: grać → grają."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a1-g008-ex06",
+      "prompt": "Complete with the correct form of 'pracować' (to work) for 'wy' (you plural):",
+      "sentence_template": "Wy ___ w sobotę?",
+      "accepted_answers": ["pracujecie"],
+      "explanation": "For 'wy' (you plural), -ować verbs use the ending -ujecie: pracować → pracujecie."
+    }
+  ]
+}

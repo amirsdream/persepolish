@@ -1,0 +1,70 @@
+{
+  "id": "b1-ch06-l04",
+  "level": "b1",
+  "chapter": 6,
+  "lessonOrder": 4,
+  "title": "Reported Speech in Context",
+  "grammarPoint": "Reported speech in real contexts: news summaries, gossip, storytelling — combining że, czy, żeby, and indirect questions in connected discourse",
+  "explanation": {
+    "text": "Reported speech appears constantly in storytelling, news summaries, and gossip. This lesson combines all reported speech types in natural context.\n\n## News Summary Context\n\nNews reporting relies heavily on reported speech to relay what officials said:\n\n*Rzecznik prasowy powiedział, że sytuacja jest pod kontrolą. Dodał, że rząd **pracuje nad** rozwiązaniem. Zapewnił, że obywatele nie muszą się martwić.*\n\n(The spokesperson said that the situation is under control. He added that the government is working on a solution. He assured [everyone] that citizens do not need to worry.)\n\n**Reporting verbs in news**: powiedzieć, dodać, zapewnić, potwierdzić, wyjaśnić, stwierdzić, twierdzić, zaprzeczyć (to deny), odmówić komentarza (to decline comment)\n\n## Gossip and Story Context\n\nGossip uses all three reported speech types naturally:\n\n*Słyszałam, że Kasia i Marek się rozstali. Podobno Marek powiedział, że nie jest szczęśliwy. Kasia pytała, czy Marek ją kocha. On powiedział, żeby dała mu spokój. W końcu ona kazała mu się wyprowadzić.*\n\n(I heard that Kasia and Marek broke up. Apparently Marek said he wasn't happy. Kasia asked whether Marek loved her. He told her to leave him alone. In the end she ordered him to move out.)\n\n## Key Discourse Markers\n\n| Polish | English | Function |\n|--------|---------|----------|\n| **podobno** | apparently/reportedly | signals hearsay |\n| **jakoby** | allegedly/supposedly | signals skepticism |\n| **ponoć** | supposedly | informal hearsay |\n| **według niego/niej** | according to him/her | cites source |\n| **jak twierdzi** | as he/she claims | introduces reported claim |\n| **cytując jego słowa** | quoting his words | formal citation |\n\n## Combining Reported Speech Types\n\nReal discourse mixes statement, question, and command reporting:\n\n- Powiedzieli, **że** przyjadą. (They said they'd come — statement)\n- Zapytali, **czy** możemy poczekać. (They asked whether we could wait — yes/no question)\n- Chcieli wiedzieć, **kiedy** skończymy. (They wanted to know when we'd finish — wh-question)\n- Poprosili, **żebyśmy** zostali dłużej. (They asked us to stay longer — request)\n- Kierownik kazał **nam** wszystko sprawdzić. (The manager ordered us to check everything — command)\n\n## Formal Written Reported Speech\n\nIn academic and legal writing, reported speech uses formal reporting verbs:\n\n- Autor **twierdzi**, że wyniki potwierdzają hipotezę. (The author claims that the results confirm the hypothesis.)\n- Sąd **stwierdził**, że oskarżony jest niewinny. (The court stated that the defendant is innocent.)\n- Eksperci **przewidują**, że sytuacja poprawi się w przyszłości. (Experts predict that the situation will improve in the future.)\n\n## Direct Quote → Reported Speech Practice\n\n| Speaker says | Reported form |\n|-------------|---------------|\n| \"Jutro pada deszcz.\" | Meteorolog powiedział, że jutro pada deszcz. |\n| \"Czy masz lekarstwo?\" | Zapytał, czy mam lekarstwo. |\n| \"Wyjdź stąd!\" | Kazała mi wyjść. / Powiedziała, żebym wyszedł. |\n| \"Gdzie jest toaleta?\" | Zapytała, gdzie jest toaleta. |\n| \"Nie przeszkadzaj mi.\" | Powiedział, żebym mu nie przeszkadzał. |",
+    "notes": [
+      "podobno/ponoć/jakoby are discourse markers that signal 'I heard this but don't vouch for it.' Use them to make reported speech sound natural.",
+      "In news Polish, 'jak poinformował/a' (as [he/she] informed), 'według [name]' (according to), and 'cytując [name]' (quoting) are formal attribution phrases.",
+      "All three reported speech connectors appear in natural text: że (statements), czy (yes/no questions), question words (wh-questions), żeby (commands/wishes). Recognizing which type is which is key to comprehension.",
+      "Zaprzeczył, że... = He denied that... (denial). Odmówił odpowiedzi = He refused to answer (reporting refusal)."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch06-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "What does 'podobno' signal in 'Podobno Maria jest chora'?",
+      "options": ["The speaker heard this but isn't certain (hearsay)", "The speaker is certain Maria is ill", "Maria told the speaker directly", "It's a formal statement of fact"],
+      "correctIndex": 0,
+      "explanation": "'Podobno' = apparently/supposedly/reportedly — signals hearsay (the speaker heard it from someone, is not certain). 'Podobno Maria jest chora' = Apparently Maria is ill (I heard this). Similar: 'ponoć' (informal hearsay), 'jakoby' (supposedly, with skepticism). Contrast: direct statement 'Maria jest chora' = Maria IS ill (speaker is certain)."
+    },
+    {
+      "id": "b1-ch06-l04-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "News report: 'The minister said he will resign.' Which is correct?",
+      "options": ["Minister powiedział, że poda się do dymisji.", "Minister powiedział, że podał się do dymisji.", "Minister mówił, żeby podać się do dymisji.", "Minister kazał, żeby podał się do dymisji."],
+      "correctIndex": 0,
+      "explanation": "Statement (he WILL resign): 'Minister powiedział, że poda się do dymisji.' Future tense stays future in Polish reported speech (no shift). 'Podał się' = past (already resigned — different meaning). 'Żeby' would mean commanding someone else. 'Że + future' = statement about future action."
+    },
+    {
+      "id": "b1-ch06-l04-ex03",
+      "type": "fill_blank",
+      "order": 3,
+      "prompt": "Complete the gossip: Słyszałam, ___ Ania i Tomek wzięli ślub! (I heard that Ania and Tomek got married!)",
+      "answer": "że",
+      "acceptableAnswers": ["że"],
+      "explanation": "'Słyszałam, że Ania i Tomek wzięli ślub!' — I heard that Ania and Tomek got married! 'Słyszałam' = I heard (f past). 'Że' = that (reporting a statement/fact). 'Wzięli ślub' = they got married (virile plural past of wziąć ślub). Statement reported → 'że'."
+    },
+    {
+      "id": "b1-ch06-l04-ex04",
+      "type": "dictation_mc",
+      "order": 4,
+      "audioAsset": "assets/audio/b1/ch06/b1-ch06-l04-ex04.mp3",
+      "options": ["Szef zapytał, kiedy skończymy projekt.", "Szef zapytał, że kiedy skończymy projekt.", "Szef powiedział, kiedy skończymy projekt.", "Szef powiedział, żebyśmy skończyli projekt."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Szef zapytał, kiedy skończymy projekt.' — The boss asked when we will finish the project. Indirect wh-question: 'kiedy' (when) as conjunction. 'Zapytał' = he asked (question verb). 'Skończymy' = we will finish (future, no tense shift). No comma needed before question words in indirect speech (but sometimes written)."
+    },
+    {
+      "id": "b1-ch06-l04-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build reported speech mixing types: She said she was tired and asked if we could go home. [powiedzieć że zmęczona + zapytać czy wrócić]",
+      "wordBank": ["Powiedziała", "że", "żeby", "jest", "była", "zmęczona", "i", "zapytała", "prosiła", "czy", "możemy", "możemy", "wrócić", "do", "domu", "."],
+      "correctSequences": [
+        ["Powiedziała", "że", "jest", "zmęczona", "i", "zapytała", "czy", "możemy", "wrócić", "do", "domu", "."]
+      ],
+      "explanation": "'Powiedziała, że jest zmęczona, i zapytała, czy możemy wrócić do domu.' — She said she was tired and asked if we could go home. Two reported speech clauses: (1) 'że jest zmęczona' — statement (że, no tense shift: jest not była). (2) 'czy możemy wrócić' — yes/no question (czy). Natural mixed reported speech."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 14,
+  "tags": ["reported-speech", "b1-core", "context", "discourse"],
+  "prerequisites": ["b1-ch06-l03"]
+}

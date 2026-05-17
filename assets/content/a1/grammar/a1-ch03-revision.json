@@ -1,0 +1,130 @@
+{
+  "id": "a1-ch03-revision",
+  "level": "a1",
+  "chapter": 3,
+  "title": "Chapter 3 Revision: Professions",
+  "description": "Mixed questions covering noun gender, profession pairs, negation, questions, and professions vocabulary.",
+  "passThreshold": 0.70,
+  "questions": [
+    {
+      "id": "a1-ch03-rev-q01",
+      "type": "multiple_choice",
+      "order": 1,
+      "sourceLesson": "a1-ch03-l01",
+      "prompt": "What gender is 'wolność' (freedom)?",
+      "options": ["feminine", "masculine", "neuter", "it has no gender"],
+      "correctIndex": 0,
+      "explanation": "Nouns ending in -ość are always feminine: wolność, radość, miłość."
+    },
+    {
+      "id": "a1-ch03-rev-q02",
+      "type": "multiple_choice",
+      "order": 2,
+      "sourceLesson": "a1-ch03-l02",
+      "prompt": "Ona jest ___. (She is a doctor.)",
+      "options": ["lekarką", "lekarzem", "lekarz", "lekarka"],
+      "correctIndex": 0,
+      "explanation": "After 'jest', use the instrumental. Feminine: lekarka → lekarką."
+    },
+    {
+      "id": "a1-ch03-rev-q03",
+      "type": "multiple_choice",
+      "order": 3,
+      "sourceLesson": "a1-ch03-l03",
+      "prompt": "How do you negate 'Rozumiem cię.'?",
+      "options": ["Nie rozumiem cię.", "Rozumiem nie cię.", "Cię nie rozumiem.", "Rozumiem cię nie."],
+      "correctIndex": 0,
+      "explanation": "'Nie' goes directly before the verb: 'Nie rozumiem cię.' = I don't understand you."
+    },
+    {
+      "id": "a1-ch03-rev-q04",
+      "type": "multiple_choice",
+      "order": 4,
+      "sourceLesson": "a1-ch03-l04",
+      "prompt": "How do you ask 'Where are you from?' in Polish?",
+      "options": ["Skąd jesteś?", "Gdzie jesteś?", "Kto jesteś?", "Jak jesteś?"],
+      "correctIndex": 0,
+      "explanation": "'Skąd' = from where. 'Skąd jesteś?' = Where are you from? 'Gdzie' = where (location, not origin)."
+    },
+    {
+      "id": "a1-ch03-rev-q05",
+      "type": "vocab_translation",
+      "order": 5,
+      "sourceVocab": "a1-ch03-vocab",
+      "prompt": "What does 'pielęgniarka' mean?",
+      "options": ["doctor", "teacher", "nurse (female)", "pharmacist"],
+      "correctIndex": 2,
+      "explanation": "'Pielęgniarka' = nurse (female). Male form: 'pielęgniarz'."
+    },
+    {
+      "id": "a1-ch03-rev-q06",
+      "type": "vocab_translation",
+      "order": 6,
+      "sourceVocab": "a1-ch03-vocab",
+      "prompt": "What does 'zawód' mean?",
+      "options": ["failure", "profession / occupation", "work", "employee"],
+      "correctIndex": 1,
+      "explanation": "'Zawód' = profession / occupation. (Note: the same word also means 'disappointment' in a different context.)"
+    },
+    {
+      "id": "a1-ch03-rev-q07",
+      "type": "multiple_choice",
+      "order": 7,
+      "sourceLesson": "a1-ch03-l02",
+      "prompt": "On jest ___. (He is a teacher.)",
+      "options": ["nauczycielem", "nauczycielką", "nauczyciel", "nauczyciela"],
+      "correctIndex": 0,
+      "explanation": "After 'jest', use the instrumental. Masculine: nauczyciel → nauczycielem."
+    },
+    {
+      "id": "a1-ch03-rev-q08",
+      "type": "multiple_choice",
+      "order": 8,
+      "sourceLesson": "a1-ch03-l04",
+      "prompt": "Which sentence is a correct yes/no question?",
+      "options": ["Czy masz psa?", "Masz czy psa?", "Psa czy masz?", "Masz psa czy?"],
+      "correctIndex": 0,
+      "explanation": "'Czy' starts the yes/no question: 'Czy masz psa?' = Do you have a dog?"
+    },
+    {
+      "id": "a1-ch03-rev-q09",
+      "type": "vocab_translation",
+      "order": 9,
+      "sourceVocab": "a1-ch03-vocab",
+      "prompt": "What does 'programista' mean?",
+      "options": ["programmer (male)", "scientist", "engineer", "designer"],
+      "correctIndex": 0,
+      "explanation": "'Programista' = programmer (male). Female: 'programistka'."
+    },
+    {
+      "id": "a1-ch03-rev-q10",
+      "type": "multiple_choice",
+      "order": 10,
+      "sourceLesson": "a1-ch03-l01",
+      "prompt": "Which noun is masculine despite ending in -a?",
+      "options": ["mężczyzna", "kobieta", "mama", "córka"],
+      "correctIndex": 0,
+      "explanation": "'Mężczyzna' (man) ends in -a but is grammatically masculine because it refers to a male person."
+    },
+    {
+      "id": "a1-ch03-rev-q11",
+      "type": "multiple_choice",
+      "order": 11,
+      "sourceLesson": "a1-ch03-l03",
+      "prompt": "Complete: ___ mam samochodu. (I don't have a car.)",
+      "options": ["Nie", "Czy", "Tak", "Co"],
+      "correctIndex": 0,
+      "explanation": "'Nie mam samochodu' = I don't have a car. 'Nie' negates the verb. 'Samochodu' is genitive after negation."
+    },
+    {
+      "id": "a1-ch03-rev-q12",
+      "type": "vocab_translation",
+      "order": 12,
+      "sourceVocab": "a1-ch03-vocab",
+      "prompt": "What does 'strażak' mean?",
+      "options": ["soldier", "firefighter", "police officer", "guard"],
+      "correctIndex": 1,
+      "explanation": "'Strażak' = firefighter. 'Policjant' = police officer. 'Żołnierz' = soldier."
+    }
+  ]
+}

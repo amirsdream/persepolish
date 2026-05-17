@@ -1,0 +1,141 @@
+{
+  "id": "a2-vocab-005",
+  "level": "a2",
+  "order": 5,
+  "title": "Emotions & Feelings",
+  "description": "Polish vocabulary for expressing emotions and inner states.",
+  "cards": [
+    {
+      "id": "a2v005-01",
+      "polish": "radość",
+      "english": "joy / happiness",
+      "pronunciation": "RA-doshch",
+      "category": "noun",
+      "example_polish": "Czuję wielką radość.",
+      "example_english": "I feel great joy.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v005-02",
+      "polish": "smutek",
+      "english": "sadness / sorrow",
+      "pronunciation": "SMU-tek",
+      "category": "noun",
+      "example_polish": "W jej oczach widać smutek.",
+      "example_english": "You can see sadness in her eyes.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v005-03",
+      "polish": "miłość",
+      "english": "love",
+      "pronunciation": "MI-woshch",
+      "category": "noun",
+      "example_polish": "Miłość jest najważniejsza.",
+      "example_english": "Love is the most important thing.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v005-04",
+      "polish": "strach",
+      "english": "fear / fright",
+      "pronunciation": "strakh",
+      "category": "noun",
+      "example_polish": "Czuję strach przed ciemnością.",
+      "example_english": "I feel fear of the dark.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v005-05",
+      "polish": "złość",
+      "english": "anger",
+      "pronunciation": "ZWOshch",
+      "category": "noun",
+      "example_polish": "Czuję złość, kiedy on się spóźnia.",
+      "example_english": "I feel anger when he is late.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v005-06",
+      "polish": "zaskoczenie",
+      "english": "surprise / astonishment",
+      "pronunciation": "za-sko-CHE-nye",
+      "category": "noun",
+      "example_polish": "To był prezent niespodzianka — pełna zaskoczenia!",
+      "example_english": "It was a surprise gift — full of astonishment!",
+      "gender": "n",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v005-07",
+      "polish": "szczęście",
+      "english": "happiness / good fortune / luck",
+      "pronunciation": "SHCHEN-shchye",
+      "category": "noun",
+      "example_polish": "Życzę ci dużo szczęścia!",
+      "example_english": "I wish you lots of happiness / good luck!",
+      "gender": "n",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v005-08",
+      "polish": "spokój",
+      "english": "calm / peace / tranquillity",
+      "pronunciation": "SPO-kooy",
+      "category": "noun",
+      "example_polish": "Potrzebuję trochę spokoju.",
+      "example_english": "I need a little peace and quiet.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v005-09",
+      "polish": "stres",
+      "english": "stress",
+      "pronunciation": "stres",
+      "category": "noun",
+      "example_polish": "Mam dużo stresu w pracy.",
+      "example_english": "I have a lot of stress at work.",
+      "gender": "m",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v005-10",
+      "polish": "tęsknota",
+      "english": "longing / nostalgia / homesickness",
+      "pronunciation": "tenk-SNO-ta",
+      "category": "noun",
+      "example_polish": "Czuję tęsknotę za domem.",
+      "example_english": "I feel homesick (longing for home).",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v005-11",
+      "polish": "duma",
+      "english": "pride",
+      "pronunciation": "DU-ma",
+      "category": "noun",
+      "example_polish": "Jestem dumny ze swojego syna.",
+      "example_english": "I am proud of my son.",
+      "gender": "f",
+      "audio_asset": null
+    },
+    {
+      "id": "a2v005-12",
+      "polish": "wstyd",
+      "english": "shame / embarrassment",
+      "pronunciation": "vstid",
+      "category": "noun",
+      "example_polish": "Czuję wstyd za swoje zachowanie.",
+      "example_english": "I feel ashamed of my behaviour.",
+      "gender": "m",
+      "audio_asset": null
+    }
+  ]
+}

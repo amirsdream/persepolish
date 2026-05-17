@@ -1,0 +1,70 @@
+{
+  "id": "a1-ch08-l04",
+  "level": "a1",
+  "chapter": 8,
+  "lessonOrder": 4,
+  "title": "Genitive Plural — Quantity Expressions",
+  "grammarPoint": "Genitive plural with dużo, mało, ile, pięć+; key genitive plural forms",
+  "explanation": {
+    "text": "The **genitive plural** appears after quantity words like *dużo* (a lot), *mało* (few), *ile* (how many), and numbers 5 and above.\n\n**Trigger words for genitive plural:**\n\n| Polish | English |\n|--------|--------|\n| **dużo** | a lot of |\n| **mało** | few / little |\n| **ile?** | how many/much? |\n| **wiele** | many |\n| **kilka** | a few (2-4) |\n| **5, 6, 7...** | five, six, seven... |\n\n**Genitive plural endings:**\n\n| Gender | Examples | Genitive plural |\n|--------|---------|----------------|\n| Masculine | student, sklep | studentów, sklepów |\n| Feminine | kobieta, ulica | kobiet, ulic |\n| Neuter | okno, miasto | okien, miast |\n\n**Common genitive plurals:**\n- dużo **studentów** = a lot of students\n- mało **sklepów** = few shops\n- pięć **jabłek** = five apples (jabłko → jabłek)\n- ile **pieniędzy**? = how much money? (pieniądze → pieniędzy)\n- dużo **wody** = a lot of water (woda → wody — genitive singular! Uncountable.)\n\n**Note:** Uncountable nouns (water, milk, money) use genitive **singular** after quantity words.",
+    "notes": [
+      "Masculine genitive plural: -ów (most cases): studentów, sklepów, samochodów.",
+      "Feminine genitive plural: often zero ending (loss of vowel): kobieta → kobiet, ulica → ulic.",
+      "Neuter genitive plural: also often zero or -i/-y: okno → okien, miasto → miast, jabłko → jabłek.",
+      "After 5+: genitive plural for countable nouns. After dużo/mało: genitive (sg for uncountable, pl for countable)."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a1-ch08-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Mam dużo ___ (I have a lot of friends — m). [przyjaciel → genitive plural]",
+      "options": ["przyjaciół", "przyjaciele", "przyjaciela", "przyjaciołom"],
+      "correctIndex": 0,
+      "explanation": "'Przyjaciel' → genitive plural 'przyjaciół'. 'Dużo + genitive plural'. 'Mam dużo przyjaciół' = I have a lot of friends."
+    },
+    {
+      "id": "a1-ch08-l04-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Ile ___ jest w Polsce? (How many cities are there in Poland?) [miasto → genitive plural]",
+      "answer": "miast",
+      "acceptableAnswers": ["miast"],
+      "hint": "Neuter genitive plural: miasto → miast (zero ending)"
+    },
+    {
+      "id": "a1-ch08-l04-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a1/ch08/a1-ch08-l04-ex03.mp3",
+      "options": ["W Polsce jest dużo pięknych miast.", "W Polsce jest dużo piękne miasta.", "W Polsce są dużo pięknych miast.", "W Polsce jest wiele piękne miasta."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'W Polsce jest dużo pięknych miast.' — There are many beautiful cities in Poland. 'Dużo + genitive plural': miast. 'Pięknych' = genitive plural adjective."
+    },
+    {
+      "id": "a1-ch08-l04-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: I don't have a lot of money.",
+      "wordBank": ["Nie", "mam", "dużo", "mało", "pieniędzy", "pieniądze", "pieniądzem"],
+      "correctSequences": [
+        ["Nie", "mam", "dużo", "pieniędzy"]
+      ],
+      "explanation": "'Nie mam dużo pieniędzy' = I don't have a lot of money. 'Pieniądze' → genitive 'pieniędzy'. 'Dużo + genitive'. Note: negation also requires genitive."
+    },
+    {
+      "id": "a1-ch08-l04-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "Kupiłem pięć ___ (I bought five apples). [jabłko → genitive plural]",
+      "options": ["jabłek", "jabłka", "jabłko", "jabłkach"],
+      "correctIndex": 0,
+      "explanation": "'Jabłko' → genitive plural 'jabłek'. After 5+, use genitive plural: pięć jabłek. Note the -ek ending (irregular neuter)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["genitive", "plural", "quantity", "numbers", "a1-core"],
+  "prerequisites": ["a1-ch08-l03", "a1-ch04-l04"]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "a1-ch03-l02",
+  "level": "a1",
+  "chapter": 3,
+  "lessonOrder": 2,
+  "title": "Profession Pairs — Masculine & Feminine",
+  "grammarPoint": "Masculine/feminine profession pairs: lekarz/lekarka, nauczyciel/nauczycielka",
+  "explanation": {
+    "text": "Polish has separate words for most professions depending on the person's gender. The feminine form is usually derived from the masculine by adding a suffix.\n\n| Masculine | Feminine | English |\n|-----------|----------|----------|\n| **lekarz** | **lekarka** | doctor |\n| **nauczyciel** | **nauczycielka** | teacher |\n| **inżynier** | **inżynierka** | engineer |\n| **aktor** | **aktorka** | actor / actress |\n| **student** | **studentka** | student |\n| **prawnik** | **prawniczka** | lawyer |\n| **pielęgniarz** | **pielęgniarka** | nurse |\n| **kucharz** | **kucharka** | cook / chef |\n\nAfter **być** (to be) + profession, use the **instrumental case**: *Jestem lekarką* (I am a doctor — female speaker).",
+    "notes": [
+      "After jest/jestem/jesteś use the instrumental: lekarz → lekarzem, lekarka → lekarką.",
+      "Most feminine professions add -ka, but some change the stem (prawnik → prawniczka).",
+      "Some professions are used in masculine form for both genders in formal contexts (e.g. minister, pilot)."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a1-ch03-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "She is a teacher. Ona jest ___.",
+      "options": ["nauczycielką", "nauczycielem", "nauczyciel", "nauczycielka"],
+      "correctIndex": 0,
+      "explanation": "After 'jest' (is), use the instrumental case. Feminine: 'nauczycielka' → instrumental 'nauczycielką'."
+    },
+    {
+      "id": "a1-ch03-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "On jest ___. (He is a doctor.) [lekarz → instrumental]",
+      "answer": "lekarzem",
+      "acceptableAnswers": ["lekarzem"],
+      "hint": "Masculine profession after jest → instrumental -em suffix"
+    },
+    {
+      "id": "a1-ch03-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a1/ch03/a1-ch03-l02-ex03.mp3",
+      "options": ["Anna jest aktorką.", "Anna jest aktorem.", "Anna jest aktor.", "Anna jest aktorce."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Anna jest aktorką.' — Anna is an actress. 'Aktorką' is the instrumental feminine of 'aktorka'."
+    },
+    {
+      "id": "a1-ch03-l02-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: I (male) am a student.",
+      "wordBank": ["Jestem", "Jesteś", "studentem", "studentką", "lekarzem", "Ja"],
+      "correctSequences": [
+        ["Jestem", "studentem"],
+        ["Ja", "jestem", "studentem"]
+      ],
+      "explanation": "'Jestem studentem' = I (male) am a student. Instrumental masculine: student → studentem."
+    },
+    {
+      "id": "a1-ch03-l02-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "What is the feminine form of 'kucharz' (cook)?",
+      "options": ["kucharka", "kucharza", "kucharce", "kucharcze"],
+      "correctIndex": 0,
+      "explanation": "'Kucharz' (male cook) → 'kucharka' (female cook). This is the nominative form. After 'jest', you'd say 'kucharką'."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 9,
+  "tags": ["professions", "instrumental", "gender-pairs", "a1-core"],
+  "prerequisites": ["a1-ch03-l01", "a1-ch01-l01"]
+}

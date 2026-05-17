@@ -1,0 +1,70 @@
+{
+  "id": "b1-ch05-l02",
+  "level": "b1",
+  "chapter": 5,
+  "lessonOrder": 2,
+  "title": "Polite Requests — chciałbym/chciałabym",
+  "grammarPoint": "Using chciałbym/chciałabym + infinitive for polite wishes and requests; wolałbym/wolałabym for preferences; lubił(a)bym for likes",
+  "explanation": {
+    "text": "The most useful conditional forms for daily life are **chciałbym/chciałabym** (I would like) and related expressions for making polite requests and expressing preferences.\n\n## chciałbym / chciałabym + infinitive\n\nThe most polite way to express a wish or request:\n\n| Speaker | Form | English |\n|---------|------|---------|\n| male | **chciałbym** | I would like |\n| female | **chciałabym** | I would like |\n| male (you) | **chciałbyś** | you would like |\n| female (you) | **chciałabyś** | you would like |\n| he | **chciałby** | he would like |\n| she | **chciałaby** | she would like |\n\n**chciałbym/chciałabym + infinitive**:\n- Chciałbym **zamówić** kawę. (I'd like to order coffee. — m)\n- Chciałabym **zamówić** herbatę. (I'd like to order tea. — f)\n- Chciałbym **zarezerwować** stolik. (I'd like to reserve a table. — m)\n- Chciałabym **zapytać** o godziny otwarcia. (I'd like to ask about opening hours. — f)\n\n## In Shops and Restaurants (Essential Phrases)\n\n- **Chciałbym/Chciałabym** prosić o... (I would like to ask for...)\n- **Chciałbym/Chciałabym** kupić... (I would like to buy...)\n- **Czy mógłbym/mogłabym** prosić o rachunek? (Could I have the bill, please? — m/f)\n- **Poproszę** + accusative (Please / I'll have... — very common shortcut!)\n\n## wolałbym / wolałabym — Expressing Preference\n\n'Wolałbym/wolałabym' = I would prefer / I'd rather:\n\n- **Wolałbym** kawę, nie herbatę. (I'd prefer coffee, not tea. — m)\n- **Wolałabym** pójść do kina. (I'd rather go to the cinema. — f)\n- **Wolałbym nie** robić tego. (I'd rather not do that. — m)\n- **Wolałbym** zostać w domu. (I'd rather stay home. — m)\n\n'Wolałbym X niż Y' (I'd prefer X to Y):\n- Wolałbym herbatę **niż** kawę. (I'd prefer tea to coffee.)\n\n## lubił(a)bym — Expressing Likes\n\n'Lubiłbym/lubiłabym' = I would like (general preference — weaker than chciałbym):\n- Lubiłbym pojechać kiedyś do Japonii. (I'd love to go to Japan sometime.)\n- Lubiłabym spędzić urlop nad morzem. (I'd love to spend my holiday by the sea.)\n\n## rad/rada bym — Archaic/Formal Preference\n\n- **Rad bym** wiedzieć... (I would be glad to know... — formal/literary)\n- **Rada bym** pojechać tam. (I would be glad to go there. — f, literary)\n\n## Restaurant and Hotel Scenarios\n\n**Ordering in a restaurant**:\n- Chciałbym/Chciałabym prosić o... żurek, proszę. (I'd like the żurek soup, please.)\n- Chciałbym zarezerwować stolik na dwie osoby. (I'd like to reserve a table for two.)\n- Czy mógłbym/mogłabym prosić o kartę dań? (Could I see the menu?)\n\n**In a hotel**:\n- Chciałabym zameldować się. (I'd like to check in. — f)\n- Chciałbym zarezerwować pokój jednosobowy. (I'd like to book a single room. — m)\n- Czy mógłbym/mogłabym prosić o klucz do pokoju? (Could I have the room key?)",
+    "notes": [
+      "chciałbym/chciałabym is more polite than 'chcę' (I want). Always use the conditional form in shops, restaurants, and formal situations.",
+      "The shortcut 'Poproszę + accusative' is even more common in practice: 'Poproszę kawę' (A coffee, please). It's polite and very natural.",
+      "wolałbym + infinitive: 'Wolałbym pójść pieszo' (I'd rather walk). wolałbym nie + infinitive: 'Wolałbym nie jechać' (I'd rather not go).",
+      "Gender forms: -łbym (male speaker), -łabym (female speaker). These alternate for the whole conditional paradigm."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch05-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "A woman says: 'I'd like to order the soup.' [zamówić, female speaker]",
+      "options": ["Chciałabym zamówić zupę.", "Chciałbym zamówić zupę.", "Chciałaby zamówić zupę.", "Wolałabym zamówić zupę."],
+      "correctIndex": 0,
+      "explanation": "Female speaker 1sg: 'chciałabym' (l-form f 'chciała' + 'bym'). 'Chciałabym zamówić zupę' = I'd like to order soup (f). 'Chciałbym' = male speaker. 'Chciałaby' = she would like (3sg f). 'Wolałabym' = I'd prefer (different meaning — prefer, not want)."
+    },
+    {
+      "id": "b1-ch05-l02-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "At a hotel desk (male guest): 'I'd like to book a double room.' [zarezerwować pokój dwuosobowy]",
+      "options": ["Chciałbym zarezerwować pokój dwuosobowy.", "Chcę zarezerwować pokój dwuosobowy.", "Chciałabym zarezerwować pokój dwuosobowy.", "Wolałbym zarezerwować pokój dwuosobowy."],
+      "correctIndex": 0,
+      "explanation": "Polite hotel request (male): 'Chciałbym zarezerwować pokój dwuosobowy.' 'Chciałbym' = most polite form (conditional, male). 'Chcę' = less polite (blunt 'I want'). 'Chciałabym' = female speaker. 'Wolałbym' = I'd prefer (implies comparing options)."
+    },
+    {
+      "id": "b1-ch05-l02-ex03",
+      "type": "fill_blank",
+      "order": 3,
+      "prompt": "Express preference (female): I'd rather go to the cinema than to a concert. ___ [wolałabym / kino / niż / koncert]",
+      "answer": "Wolałabym pójść do kina niż na koncert.",
+      "acceptableAnswers": ["Wolałabym pójść do kina niż na koncert.", "Wolałabym iść do kina niż na koncert."],
+      "explanation": "'Wolałabym pójść do kina niż na koncert.' — I'd rather go to the cinema than to a concert (female speaker). 'Wolałabym' = 1sg female of wolić conditional. 'Niż' = than (comparison). 'Pójść do kina' = to go to the cinema (do + gen). 'Na koncert' = to a concert (na + acc)."
+    },
+    {
+      "id": "b1-ch05-l02-ex04",
+      "type": "dictation_mc",
+      "order": 4,
+      "audioAsset": "assets/audio/b1/ch05/b1-ch05-l02-ex04.mp3",
+      "options": ["Chciałbym zarezerwować stolik na dziś wieczór.", "Chciałabym zarezerwować stolik na dziś wieczór.", "Chciałby zarezerwować stolik na dziś wieczór.", "Chciałbyś zarezerwować stolik na dziś wieczór?"],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Chciałbym zarezerwować stolik na dziś wieczór.' — I'd like to reserve a table for this evening (male speaker). 'Chciałbym' = 1sg male conditional. 'Zarezerwować stolik' = to reserve a table. 'Na dziś wieczór' = for this evening."
+    },
+    {
+      "id": "b1-ch05-l02-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build (female speaker): I'd like to ask about the prices. [chciałabym, zapytać, o ceny]",
+      "wordBank": ["Chciałabym", "Chciałbym", "zapytać", "zapytam", "o", "ceny", "cen", "cenach", "."],
+      "correctSequences": [
+        ["Chciałabym", "zapytać", "o", "ceny", "."]
+      ],
+      "explanation": "'Chciałabym zapytać o ceny.' — I'd like to ask about the prices (female speaker). 'Chciałabym' = 1sg female conditional. 'Zapytać' = infinitive (to ask — perfective). 'O ceny' = about the prices (o + accusative: cena → ceny pl acc). Polite inquiry formula."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 12,
+  "tags": ["conditional", "b1-core", "chciałbym", "polite-requests"],
+  "prerequisites": ["b1-ch05-l01"]
+}

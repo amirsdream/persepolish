@@ -1,0 +1,81 @@
+{
+  "id": "a2-grammar-002",
+  "level": "a2",
+  "order": 2,
+  "title": "Past Tense — Feminine & Neuter",
+  "explanation": "For feminine singular subjects, the past tense endings are: -łam (ja, f), -łaś (ty, f), -ła (ona). For neuter singular subjects (ono/to): -ło. For example: robić (to do) → robiłam (I did, f), robiłaś (you did, f), robiła (she did), robiło (it did). Plural forms: masculine personal (oni) → -li; all other plurals (one/wy/my non-virile) → -ły. Example: oni robili (they did, mixed/male group), one robiły (they did, female group).",
+  "examples": [
+    {
+      "polish": "Anna pracowała do późna.",
+      "english": "Anna worked until late.",
+      "note": "feminine 3rd person singular: pracowała"
+    },
+    {
+      "polish": "Czy pracowałaś wczoraj?",
+      "english": "Did you work yesterday? (addressing a female)",
+      "note": "feminine 2nd person singular: pracowałaś"
+    },
+    {
+      "polish": "One pojechały do Krakowa.",
+      "english": "They (female group) went to Kraków.",
+      "note": "non-virile plural: pojechały"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "id": "a2-g002-ex01",
+      "prompt": "Which is the correct past tense form of 'pracować' for 'ja' (I, female)?",
+      "options": [
+        "pracowałam",
+        "pracowałem",
+        "pracowała",
+        "pracowałaś"
+      ],
+      "correct_index": 0,
+      "explanation": "Feminine 1st person singular past: -łam ending. Pracować → pracowałam."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a2-g002-ex02",
+      "prompt": "Complete with the past tense of 'czytać' (to read) for 'ona' (she):",
+      "sentence_template": "Ona ___ książkę.",
+      "accepted_answers": ["czytała"],
+      "explanation": "Feminine 3rd person singular past: -ła ending. Czytać → czytała."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a2-g002-ex03",
+      "prompt": "How do you say 'The children played' (dzieci = children, neuter plural → non-virile)?",
+      "options": [
+        "Dzieci grały.",
+        "Dzieci grali.",
+        "Dzieci grał.",
+        "Dzieci grała."
+      ],
+      "correct_index": 0,
+      "explanation": "'Dzieci' is a non-virile plural noun. Non-virile plural past tense uses -ły: grały."
+    },
+    {
+      "type": "fill_in_blank",
+      "id": "a2-g002-ex04",
+      "prompt": "Complete with the past tense of 'iść' (to go) for 'ona' (she): irregular stem szła",
+      "sentence_template": "Ona ___ do sklepu.",
+      "accepted_answers": ["szła"],
+      "explanation": "'Iść' has an irregular past tense. Feminine singular: szła."
+    },
+    {
+      "type": "multiple_choice",
+      "id": "a2-g002-ex05",
+      "prompt": "Which sentence means 'She ate breakfast'?",
+      "options": [
+        "Zjadła śniadanie.",
+        "Zjadłem śniadanie.",
+        "Zjadł śniadanie.",
+        "Zjadłam śniadanie."
+      ],
+      "correct_index": 0,
+      "explanation": "3rd person feminine singular past of 'zjeść': zjadła. Options B/C are masculine forms; D is feminine 1st person."
+    }
+  ]
+}

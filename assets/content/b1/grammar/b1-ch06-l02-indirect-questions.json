@@ -1,0 +1,70 @@
+{
+  "id": "b1-ch06-l02",
+  "level": "b1",
+  "chapter": 6,
+  "lessonOrder": 2,
+  "title": "Indirect Questions",
+  "grammarPoint": "Reported/indirect questions in Polish: czy for yes/no questions, and question words (kto, co, gdzie, kiedy, jak, dlaczego) for wh-questions — no tense shift",
+  "explanation": {
+    "text": "**Indirect questions** (pytania zależne) report what someone asked, wondered, or wanted to know. Unlike direct questions, indirect questions don't use question marks or question intonation.\n\n## Yes/No Indirect Questions: czy\n\nFor yes/no questions, use **czy** as the subordinating conjunction:\n\n**Direct question** → **Indirect question**:\n\n| Direct | Indirect |\n|--------|----------|\n| \"Czy jesteś gotowy?\" | Zapytał, czy jestem gotowy. |\n| \"Czy masz czas?\" | Chciałam wiedzieć, czy masz czas. |\n| \"Czy byłeś w Polsce?\" | Zapytała, czy byłem w Polsce. |\n| \"Czy przyjdziesz?\" | Nie wiedziałem, czy przyjdzie. |\n\n## Wh-Questions: question words as conjunctions\n\nFor wh-questions, the question word becomes the subordinating conjunction:\n\n| Direct question | Indirect question |\n|----------------|------------------|\n| \"Kto to powiedział?\" | Nie wiem, **kto** to powiedział. |\n| \"Co robisz?\" | Zapytała, **co** robię. |\n| \"Gdzie mieszkasz?\" | Chciał wiedzieć, **gdzie** mieszkam. |\n| \"Kiedy przyjdziesz?\" | Powiedz mi, **kiedy** przyjdziesz. |\n| \"Jak to zrobiłeś?\" | Nie rozumiem, **jak** to zrobiłeś. |\n| \"Dlaczego płaczesz?\" | Zapytał, **dlaczego** płakała. |\n| \"Ile kosztuje?\" | Chciałam wiedzieć, **ile** to kosztuje. |\n\n## Key Difference: Direct vs Indirect\n\n| Direct question | Indirect question |\n|----------------|------------------|\n| Uses question mark | No question mark |\n| Question word order | Normal word order |\n| Intonation rises | No special intonation |\n| Standalone | Embedded in main clause |\n\n## Verbs that Introduce Indirect Questions\n\n| Verb | Meaning | Example |\n|------|---------|--------|\n| zapytać / pytać | to ask | Zapytał, czy... |\n| chcieć wiedzieć | to want to know | Chciałem wiedzieć, gdzie... |\n| nie wiedzieć | to not know | Nie wiem, kto... |\n| zastanawiać się | to wonder | Zastanawiam się, jak... |\n| rozumieć | to understand | Nie rozumiem, dlaczego... |\n| powiedzieć | to tell | Powiedz mi, kiedy... |\n| wyjaśnić | to explain | Wyjaśnił, co... |\n\n## Pronoun Changes (same as direct reported speech)\n\n- Direct: \"Czy ty masz czas?\" → Indirect: Zapytał, czy **ja** mam czas.\n- Direct: \"Gdzie ty mieszkasz?\" → Indirect: Chciał wiedzieć, gdzie **ona** mieszka.\n\n## No Tense Shift (reminder)\n\nJust like with że-clauses, Polish indirect questions do NOT shift tenses:\n- Direct: \"Czy **jesteś** gotowy?\" → Indirect: Zapytał, czy **jesteś** gotowy. (not: był gotowy)\n- Direct: \"Gdzie **byłeś**?\" → Indirect: Zapytał, gdzie **byłeś**. (stays past)",
+    "notes": [
+      "Indirect questions use NORMAL word order, not the inverted order of direct questions. Never use question mark in indirect questions.",
+      "The question word (kto, co, gdzie, kiedy, jak, dlaczego, ile) becomes the subordinating conjunction — it doesn't move to the end like in some languages.",
+      "No tense shift in Polish: the tense in the indirect question clause stays the same as in the original direct question.",
+      "zastanawiać się nad czym + jak/czy/kto/co: 'Zastanawiam się, czy pójść.' (I'm wondering whether to go.) — very common construction."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch06-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Direct: 'Czy masz czas?' → Indirect: Zapytał, ___ masz czas.",
+      "options": ["czy", "że", "żeby", "jak"],
+      "correctIndex": 0,
+      "explanation": "Yes/no direct question → indirect uses 'czy': 'Zapytał, czy masz czas.' = He asked whether you have time. 'Że' = that (for statements, not questions). 'Żeby' = that (for commands/wishes). 'Jak' = how. Yes/no questions → always 'czy' in indirect speech."
+    },
+    {
+      "id": "b1-ch06-l02-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "Direct: 'Gdzie mieszkasz?' → Nie wiem, ___ mieszkasz.",
+      "options": ["gdzie", "że", "czy", "kiedy"],
+      "correctIndex": 0,
+      "explanation": "Wh-question (where?) → indirect uses same question word 'gdzie': 'Nie wiem, gdzie mieszkasz.' = I don't know where you live. The question word becomes the subordinating conjunction in indirect speech. 'Że' = that (not for questions). 'Czy' = whether (for yes/no only)."
+    },
+    {
+      "id": "b1-ch06-l02-ex03",
+      "type": "fill_blank",
+      "order": 3,
+      "prompt": "Complete the indirect question: 'She asked how much it costs.' → Zapytała, ___ to kosztuje.",
+      "answer": "ile",
+      "acceptableAnswers": ["ile"],
+      "explanation": "Direct: 'Ile to kosztuje?' (How much does it cost?) → Indirect: 'Zapytała, ile to kosztuje.' The question word 'ile' (how much) becomes the conjunction. 'Zapytała' = she asked (zapytać, perfective, 3sg f past). Tense stays present: 'kosztuje' (not 'kosztowało')."
+    },
+    {
+      "id": "b1-ch06-l02-ex04",
+      "type": "dictation_mc",
+      "order": 4,
+      "audioAsset": "assets/audio/b1/ch06/b1-ch06-l02-ex04.mp3",
+      "options": ["Zastanawiam się, czy pójść na ten koncert.", "Zastanawiam się, żeby pójść na ten koncert.", "Zastanawiam się, że pójdę na ten koncert.", "Zastanawiałam się, czy pójść na ten koncert."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Zastanawiam się, czy pójść na ten koncert.' — I'm wondering whether to go to this concert. 'Zastanawiam się' = I'm wondering (present). 'Czy + infinitive' = whether to (infinitive after czy when the subject is same). 'Na ten koncert' = to this concert (na + acc)."
+    },
+    {
+      "id": "b1-ch06-l02-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build indirect question: I don't know why he left. [nie wiedzieć, dlaczego, wyjść — he]",
+      "wordBank": ["Nie", "wiem", "wiedziałem", "dlaczego", "że", "czy", "wyszedł", "wychodzi", "wyszła", "."],
+      "correctSequences": [
+        ["Nie", "wiem", "dlaczego", "wyszedł", "."]
+      ],
+      "explanation": "'Nie wiem, dlaczego wyszedł.' — I don't know why he left. 'Nie wiem' = I don't know (present). 'Dlaczego' = why (question word becomes conjunction in indirect question). 'Wyszedł' = he left (wyjść, perfective, 3sg m past). No tense shift: 'wyszedł' stays past."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 12,
+  "tags": ["reported-speech", "b1-core", "indirect-questions", "czy"],
+  "prerequisites": ["b1-ch06-l01"]
+}

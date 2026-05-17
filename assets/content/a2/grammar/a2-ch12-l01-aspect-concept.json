@@ -1,0 +1,68 @@
+{
+  "id": "a2-ch12-l01",
+  "level": "a2",
+  "chapter": 12,
+  "lessonOrder": 1,
+  "title": "Aspect — The Core Concept",
+  "grammarPoint": "Perfective vs. imperfective aspect: completed single event vs. ongoing/habitual/repeated action",
+  "explanation": {
+    "text": "Polish verbs come in pairs: **imperfective** (niedokonany) and **perfective** (dokonany).\n\n**The key distinction:**\n\n| Imperfective | Perfective |\n|--------------|------------|\n| Action ongoing, habitual, or repeated | Action completed, single event |\n| Process matters | Result matters |\n| All tenses possible | No present tense* |\n| e.g. pisać | e.g. napisać |\n\n*Perfective verbs have no true present tense — their present-looking forms are actually future!\n\n**When to use each:**\n\n**Imperfective (niedokonany):**\n- Habitual: Codziennie **czytałem** gazetę. (I read the newspaper every day — routine)\n- Duration/process: **Pisałem** list przez godzinę. (I was writing a letter for an hour)\n- Background action: Kiedy **spałem**, zadzwonił telefon. (While I was sleeping, the phone rang)\n\n**Perfective (dokonany):**\n- Single completed event: Wczoraj **przeczytałem** książkę. (Yesterday I read [finished] the book)\n- Achieved result: W końcu **napisałem** list. (I finally wrote [and finished] the letter)\n\n**Common aspect pairs:**\n\n| Imperfective | Perfective | English |\n|-------------|------------|--------|\n| pisać | napisać | to write |\n| czytać | przeczytać | to read |\n| robić | zrobić | to do/make |\n| kupować | kupić | to buy |\n| mówić | powiedzieć | to say |",
+    "notes": [
+      "Every Polish verb belongs to an aspect pair — learn them together.",
+      "Imperfective = process/duration/habit. Perfective = completed event/result.",
+      "Perfective verbs CANNOT be used in present tense — their present form = future!",
+      "'Piszę' (I write/am writing) — imperfective. 'Napiszę' (I will write) — perfective future."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch12-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Codziennie ___ kawę rano. (Every day I drink coffee in the morning.) Which aspect is correct?",
+      "options": ["piłem (imperfective)", "wypiłem (perfective)", "Both are correct", "Neither is correct"],
+      "correctIndex": 0,
+      "explanation": "'Codziennie' (every day) signals habitual action → imperfective: piłem. 'Wypiłem' would mean 'I drank up [finished] the coffee' — one completed event."
+    },
+    {
+      "id": "a2-ch12-l01-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "W końcu ___ to zadanie domowe. (I finally finished the homework.) [zrobić vs. robić]",
+      "options": ["zrobiłem", "robiłem", "robię", "zrobię"],
+      "correctIndex": 0,
+      "explanation": "'W końcu' (finally) + completed result → perfective: zrobiłem. 'Robiłem' would mean I was doing it (process, not completion)."
+    },
+    {
+      "id": "a2-ch12-l01-ex03",
+      "type": "fill_blank",
+      "order": 3,
+      "prompt": "Kiedy ___ (I was reading — imperfective), zadzwoniła mama. (While I was reading, mum called.)",
+      "answer": "czytałem",
+      "acceptableAnswers": ["czytałem", "czytałam"],
+      "hint": "Background ongoing action (while...) = imperfective past: czytać → czytałem/czytałam"
+    },
+    {
+      "id": "a2-ch12-l01-ex04",
+      "type": "dictation_mc",
+      "order": 4,
+      "audioAsset": "assets/audio/a2/ch12/a2-ch12-l01-ex04.mp3",
+      "options": ["Wczoraj przeczytałem całą książkę.", "Wczoraj czytałem całą książkę.", "Dzisiaj czytam całą książkę.", "Jutro przeczytam całą książkę."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Wczoraj przeczytałem całą książkę.' — Yesterday I read [finished] the whole book. Perfective 'przeczytać' → completed event."
+    },
+    {
+      "id": "a2-ch12-l01-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "Which statement about perfective verbs is TRUE?",
+      "options": ["They have no true present tense", "They can express habitual actions", "They are less common than imperfective", "They only exist in past tense"],
+      "correctIndex": 0,
+      "explanation": "Perfective verbs CANNOT express present tense — their present-looking form is actually future. E.g., 'napiszę' = I WILL write (future), not 'I write'."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 12,
+  "tags": ["aspect", "perfective", "imperfective", "a2-core"],
+  "prerequisites": ["a2-ch11-l01", "a2-ch11-l02"]
+}

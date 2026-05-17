@@ -1,0 +1,70 @@
+{
+  "id": "a2-ch11-l01",
+  "level": "a2",
+  "chapter": 11,
+  "lessonOrder": 1,
+  "title": "Past Tense — Masculine Singular",
+  "grammarPoint": "Past tense masculine singular: robiłem/robiłeś/robił — the -ł- marker and personal endings",
+  "explanation": {
+    "text": "The Polish past tense is built on the **-ł-** marker (like an 'l') added to the verb stem, then followed by **personal endings** that change by gender.\n\n**Masculine singular past endings:**\n\n| Person | Ending | Example (robić) |\n|--------|--------|----------------|\n| ja (m) | **-łem** | robiłem |\n| ty (m) | **-łeś** | robiłeś |\n| on | **-ł** | robił |\n\n**How to form the past tense:**\n1. Take the infinitive: robić\n2. Remove -ć: robi-\n3. Add -ł + ending: robiłem, robiłeś, robił\n\n**Common verbs in masculine past:**\n\n| Infinitive | on (3rd m) | ja (m) |\n|-----------|-----------|--------|\n| robić | **robił** | robiłem |\n| czytać | **czytał** | czytałem |\n| pracować | **pracował** | pracowałem |\n| mieszkać | **mieszkał** | mieszkałem |\n| mówić | **mówił** | mówiłem |\n| kupić | **kupił** | kupiłem |\n\n**Example sentences:**\n- Wczoraj **czytałem** gazetę. = Yesterday I (m) read a newspaper.\n- On **pracował** w Londynie. = He worked in London.\n- **Kupiłeś** bilet? = Did you (m) buy a ticket?",
+    "notes": [
+      "The -ł- marker is the core of the past tense — never omit it.",
+      "Masculine singular: -łem (ja), -łeś (ty), -ł (on). Note: no ending for 'on'.",
+      "Verbs ending -ować in infinitive: -ował-: pracować → pracował.",
+      "'Wczoraj' (yesterday), 'ostatnio' (recently), 'w zeszłym roku' (last year) signal past tense."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch11-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Wczoraj ___ w parku. (I (m) walked in the park yesterday.) [chodzić, ja m past]",
+      "options": ["chodziłem", "chodzę", "chodziłam", "chodził"],
+      "correctIndex": 0,
+      "explanation": "'Chodzić' past masculine ja: chodziłem (-łem ending). 'Wczoraj' = yesterday."
+    },
+    {
+      "id": "a2-ch11-l01-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "On ___ w tej firmie przez pięć lat. (He worked in this company for five years.) [pracować, on past]",
+      "answer": "pracował",
+      "acceptableAnswers": ["pracował"],
+      "hint": "Masculine 3rd person past: -ował (pracować → pracował)"
+    },
+    {
+      "id": "a2-ch11-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a2/ch11/a2-ch11-l01-ex03.mp3",
+      "options": ["Czy czytałeś tę książkę?", "Czy czytałaś tę książkę?", "Czy czytał tę książkę?", "Czy czytałem tę książkę?"],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Czy czytałeś tę książkę?' — Did you (m) read this book? 'Czytać' past masculine ty: czytałeś (-łeś ending)."
+    },
+    {
+      "id": "a2-ch11-l01-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: Yesterday he bought a new car.",
+      "wordBank": ["Wczoraj", "on", "kupił", "kupiła", "nowy", "nowe", "samochód", "samochodu", "samochodem"],
+      "correctSequences": [
+        ["Wczoraj", "on", "kupił", "nowy", "samochód"]
+      ],
+      "explanation": "'Wczoraj on kupił nowy samochód.' — Yesterday he bought a new car. 'Kupić' past masculine: kupił. 'Nowy samochód' = accusative (m inanimate, no change)."
+    },
+    {
+      "id": "a2-ch11-l01-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "Mój tata ___ w Londynie przez rok. (My dad lived in London for a year.) [mieszkać, on]",
+      "options": ["mieszkał", "mieszkałem", "mieszkałeś", "mieszkam"],
+      "correctIndex": 0,
+      "explanation": "'Mieszkać' past masculine 3rd person: mieszkał (-ł ending). No personal ending for 'on' in past tense."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["past-tense", "masculine", "a2-core"],
+  "prerequisites": ["a1-ch05-l01", "a1-ch05-l02"]
+}

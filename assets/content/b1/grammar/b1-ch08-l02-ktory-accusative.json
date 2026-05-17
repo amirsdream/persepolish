@@ -1,0 +1,70 @@
+{
+  "id": "b1-ch08-l02",
+  "level": "b1",
+  "chapter": 8,
+  "lessonOrder": 2,
+  "title": "Relative Clauses — który in Accusative",
+  "grammarPoint": "który/którą/które in accusative case (object role): the book that I read, the man (whom) I met — when który is the direct object of the relative clause verb",
+  "explanation": {
+    "text": "When 'który' is the **direct object** (accusative) in the relative clause, it takes accusative endings.\n\n## Który in Accusative\n\n| Gender/Number | Nominative | Accusative | Example |\n|--------------|-----------|-----------|--------|\n| m animate | który | **którego** | mężczyzna, którego znam |\n| m inanimate | który | **który** | samochód, który kupiłem |\n| feminine | która | **którą** | kobieta, którą znam |\n| neuter | które | **które** | dziecko, które widzę |\n| virile pl | którzy | **których** | mężczyźni, których znam |\n| non-virile pl | które | **które** | książki, które czytam |\n\n**Important**: Masculine ANIMATE accusative = **którego** (same as genitive!)\nMasculine INANIMATE accusative = **który** (same as nominative)\n\n## Examples: Accusative który\n\n**Masculine animate** (person, animal — którego):\n- To jest profesor, **którego** znam. (This is the professor whom I know.)\n- Mam psa, **którego** kupiłem w zeszłym roku. (I have a dog that I bought last year.)\n\n**Masculine inanimate** (objects — który, same as nom):\n- Czytam artykuł, **który** napisał Kowalski. (I'm reading an article that Kowalski wrote.)\n- Widzę dom, **który** kupił mój ojciec. (I see the house that my father bought.)\n\n**Feminine** (którą):\n- Znasz kobietę, **którą** widziałem na przyjęciu? (Do you know the woman whom I saw at the party?)\n- Lubię zupę, **którą** ugotowała mama. (I like the soup that Mom cooked.)\n\n**Neuter** (które — same as nominative):\n- Czytam zadanie, **które** dostałem wczoraj. (I'm reading the assignment that I got yesterday.)\n- Widzę miasto, **które** lubię. (I see the city that I like.)\n\n**Virile plural** (których — same as genitive):\n- Znam studentów, **których** widziałem na wykładzie. (I know the students whom I saw at the lecture.)\n\n**Non-virile plural** (które — same as nominative):\n- Kupię jabłka, **które** widziałam w sklepie. (I'll buy the apples that I saw in the store.)\n\n## Identifying the Role of który\n\nKey test: Is **który** the actor (subject) or receiver (object) in the relative clause?\n\n| Role | Case | Signal |\n|------|------|--------|\n| Subject | Nominative | który is DOING the action |\n| Direct Object | Accusative | który is RECEIVING the action |\n\n- 'Mężczyzna, **który** pisze.' (The man WHO writes — który is subject → nominative: który)\n- 'Mężczyzna, **którego** znam.' (The man WHOM I know — który is object → accusative: którego)\n\n## Relative Clauses Without 'whom' in Polish\n\nIn English, 'whom' is often dropped ('the man I know'). In Polish, **który must always appear**:\n- ❌ 'Mężczyzna znam.' (wrong — no relative pronoun)\n- ✅ 'Mężczyzna, **którego** znam.' (correct)",
+    "notes": [
+      "Masculine animate accusative = KTÓREGO (not który). This is the same as the genitive form — a key feature of Polish masculine animate nouns.",
+      "Masculine inanimate and neuter accusative = same as nominative (który, które). Non-virile plural accusative = same as nominative (które).",
+      "Feminine accusative = KTÓRĄ (not której which is genitive). Remember: -ą ending is the accusative marker for feminine nouns and adjectives.",
+      "Polish never omits the relative pronoun — unlike colloquial English. Always use który/którą/którego etc."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch08-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "To jest profesor, ___ znam. (This is the professor whom I know.) ['profesor' = m animate]",
+      "options": ["którego", "który", "którą", "którzy"],
+      "correctIndex": 0,
+      "explanation": "'Profesor' = masculine animate → accusative = 'którego' (animate masc acc = gen form). 'To jest profesor, którego znam.' = This is the professor whom I know. 'Który' = nom m (subject role). 'Który' would be correct if professor is the subject: 'profesor, który uczy' = professor who teaches. But here 'I know' the professor → accusative."
+    },
+    {
+      "id": "b1-ch08-l02-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "Lubię zupę, ___ ugotowała mama. (I like the soup that Mom cooked.) ['zupa' = f]",
+      "options": ["którą", "który", "które", "której"],
+      "correctIndex": 0,
+      "explanation": "'Zupa' = feminine → accusative = 'którą'. 'Lubię zupę, którą ugotowała mama.' = I like the soup that Mom cooked. 'Mama ugotowała zupę' → 'zupę' = direct object of ugotowała → accusative in relative clause: 'którą'. 'Której' = genitive feminine (not accusative)."
+    },
+    {
+      "id": "b1-ch08-l02-ex03",
+      "type": "fill_blank",
+      "order": 3,
+      "prompt": "Czytam artykuł, ___ napisał Kowalski. (I'm reading an article that Kowalski wrote.) ['artykuł' = m inanimate]",
+      "answer": "który",
+      "acceptableAnswers": ["który"],
+      "explanation": "'Artykuł' = masculine inanimate → accusative = 'który' (inanimate m acc = nom). 'Czytam artykuł, który napisał Kowalski.' = I'm reading an article that Kowalski wrote. Inanimate masculine: accusative = nominative form (który). Compare: animate 'profesora, którego znam' (animate → którego)."
+    },
+    {
+      "id": "b1-ch08-l02-ex04",
+      "type": "dictation_mc",
+      "order": 4,
+      "audioAsset": "assets/audio/b1/ch08/b1-ch08-l02-ex04.mp3",
+      "options": ["Widziałem film, który bardzo poleciłem.", "Widziałem film, który bardzo poleciłam.", "Widziałem film, który bardzo polecam.", "Widziałem film, którego bardzo polecam."],
+      "correctIndex": 2,
+      "explanation": "You heard: 'Widziałem film, który bardzo polecam.' — I saw a film that I highly recommend. 'Film' = masculine inanimate → accusative = 'który' (same as nominative for inanimates). 'Polecam' = I recommend (present). Note: 'widziałem film' and 'polecam film' — both have 'film' as object, but in relative clause it becomes 'który'."
+    },
+    {
+      "id": "b1-ch08-l02-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: Do you know the woman whom I saw at the party? [kobieta = f, widzieć na przyjęciu]",
+      "wordBank": ["Znasz", "kobietę", "kobieta", "która", "którą", "widziałem", "widziałam", "na", "przyjęciu", "przyjęcie", "?"],
+      "correctSequences": [
+        ["Znasz", "kobietę", "którą", "widziałem", "na", "przyjęciu", "?"]
+      ],
+      "explanation": "'Znasz kobietę, którą widziałem na przyjęciu?' — Do you know the woman whom I saw at the party? 'Kobietę' = f accusative (direct object of 'znasz'). 'Którą' = f accusative (relative pronoun, object of 'widziałem'). 'Na przyjęciu' = at the party (na + locative: przyjęcie → przyjęciu). Male speaker: 'widziałem'."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 13,
+  "tags": ["relative-clauses", "b1-core", "który", "accusative"],
+  "prerequisites": ["b1-ch08-l01"]
+}

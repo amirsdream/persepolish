@@ -1,0 +1,70 @@
+{
+  "id": "a2-ch20-l04",
+  "level": "a2",
+  "chapter": 20,
+  "lessonOrder": 4,
+  "title": "A2 Exam Preparation",
+  "grammarPoint": "PKE-style A2 exam strategies: question types (grammar, reading comprehension, dictation), time management, and mixed practice exercises",
+  "explanation": {
+    "text": "The Polish State Language Exam (Państwowe Egzaminy Certyfikatowe z Języka Polskiego — PKE) at A2 level tests four areas. Here is what to expect and how to prepare.\n\n## PKE A2 Exam Structure\n\n| Section | Weight | Types of Tasks |\n|---------|--------|---------------|\n| **Grammar** | 35% | Fill-in-blank, multiple choice, error correction |\n| **Reading** | 35% | True/false, short answer, multiple choice |\n| **Listening** | 20% | Dictation, multiple choice, note-taking |\n| **Writing** | 10% | Short texts (postcard, note, simple email) |\n\n**Pass threshold**: 50% overall, 40% in each section\n**Time**: 160 minutes total\n\n## Grammar Section Tips\n\n- Focus on: verb conjugation (all tenses), cases after prepositions, aspect choice\n- Common trap: wrong aspect (perf vs imperf) and gender agreement in past tense\n- Read the whole sentence before choosing — context determines aspect\n\n## Reading Section Tips\n\n- Skim for topic first, then read questions, then re-read for answers\n- Watch for synonyms — the text may paraphrase the question\n- For True/False: 'Nie wiadomo' (unknown) is sometimes an option — use it only if completely absent\n\n## Listening Section Tips\n\n- In dictation_mc: listen for stress patterns and case endings\n- Multiple choice: listen for the main verb and key nouns\n- Common trap: distractors that are grammatically correct but factually wrong\n\n## Writing Section Tips\n\n- Postcard (kartka pocztowa): informal register, short, 50–80 words\n- Note (notatka): clear, direct, informal\n- Simple email: semi-formal, use Cześć/Pozdrowienia\n- Always include: greeting, main message, closing\n\n## Key A2 Grammar to Review\n\n1. **Verbal aspect** — codziennie vs w końcu\n2. **Past tense gender** — -łem/-łam/-li/-ły\n3. **Conditional** — chciałbym/chciałabym + inf\n4. **Genitive plural** — studentów, kobiet, okien\n5. **Formal Pan/Pani** — 3rd person singular\n6. **Prepositions + cases** — do/z (gen); w/na (loc vs acc)\n7. **Verbal nouns** — czytanie, życie",
+    "notes": [
+      "PKE A2 pass = 50% overall AND 40% in each individual section. Weak sections can fail you.",
+      "Writing section is only 10% — don't spend too much time; basic correct sentences score well.",
+      "In the grammar section, read the whole sentence context before choosing — aspect depends on it.",
+      "Listening: don't panic if you miss a word — context often lets you reconstruct meaning."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch20-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "PKE-style: Mam rezerwację ___ nazwisko Nowak. [fixed phrase]",
+      "options": ["na", "pod", "w", "do"],
+      "correctIndex": 0,
+      "explanation": "'Rezerwacja na nazwisko' = reservation under the name (fixed phrase). 'Na + accusative': na nazwisko Nowak. This is a very common travel/accommodation phrase tested at A2."
+    },
+    {
+      "id": "a2-ch20-l04-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "PKE-style: Kiedy ___ do pracy, zaczął padać deszcz. (When I was going to work, it started to rain.) [aspect]",
+      "options": ["szłam", "poszłam", "idę", "pójdę"],
+      "correctIndex": 0,
+      "explanation": "'Kiedy szłam' = when I was walking (ongoing background, imperfective). 'Poszłam' = I went (completed — wrong here, the rain started during the walking). Classic kiedy + imperfective pattern tested in PKE."
+    },
+    {
+      "id": "a2-ch20-l04-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a2/ch20/a2-ch20-l04-ex03.mp3",
+      "options": ["Czy mógłby Pan powtórzyć, proszę?", "Czy możesz powtórzyć, proszę?", "Czy Pan mógłby powtarzać, proszę?", "Czy Pan może powtarzać, proszę?"],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Czy mógłby Pan powtórzyć, proszę?' — Could you please repeat that? (formal, to a man). 'Mógłby Pan' = formal conditional request (Pan + 3rd sg conditional). 'Powtórzyć' = perf (repeat once). Compare informal: 'Czy możesz powtórzyć?'"
+    },
+    {
+      "id": "a2-ch20-l04-ex04",
+      "type": "multiple_choice",
+      "order": 4,
+      "prompt": "PKE-style error correction: 'Jestem student na UJ.' — What is wrong?",
+      "options": ["Should be: Jestem studentem (instrumental after być)", "Nothing is wrong", "Should be: Jestem studenta", "Should be: Jestem studiuję"],
+      "correctIndex": 0,
+      "explanation": "After 'być' (to be) with professions/identities → instrumental: student → studentem. 'Jestem studentem' = I am a student. Using nominative after 'być' is one of the most common A2-level errors."
+    },
+    {
+      "id": "a2-ch20-l04-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build a PKE writing-section sentence: I have been learning Polish for two years. (uczyć się + przez + accusative)",
+      "wordBank": ["Uczę", "się", "polskiego", "polskim", "przez", "dwa", "dwóch", "lata", "lat", "."],
+      "correctSequences": [
+        ["Uczę", "się", "polskiego", "przez", "dwa", "lata", "."]
+      ],
+      "explanation": "'Uczę się polskiego przez dwa lata.' — I have been learning Polish for two years. 'Uczyć się + genitive': polskiego (polski → gen). 'Przez + accusative': dwa lata (acc of dwa lata). Note: 'dwa' takes nominative/accusative form 'dwa', not 'dwóch'."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["exam-prep", "pke", "a2-core"],
+  "prerequisites": ["a2-ch20-l01", "a2-ch20-l02", "a2-ch20-l03"]
+}

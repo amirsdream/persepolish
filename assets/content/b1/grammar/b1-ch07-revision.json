@@ -1,0 +1,130 @@
+{
+  "id": "b1-ch07-revision",
+  "level": "b1",
+  "chapter": 7,
+  "title": "Chapter 7 Revision — Żeby Clauses",
+  "description": "Mixed revision quiz covering żeby + infinitive (same subject/purpose), żeby + l-form (different subjects/desire/command), że vs żeby distinction, and żeby after chcieć/prosić/powiedzieć.",
+  "passThreshold": 0.70,
+  "questions": [
+    {
+      "id": "b1-ch07-rev-q01",
+      "type": "multiple_choice",
+      "order": 1,
+      "sourceLesson": "b1-ch07-l01",
+      "prompt": "Purpose, same subject: I'm studying so as to pass the exam. [uczyć się, żeby, zdać egzamin]",
+      "options": ["Uczę się, żeby zdać egzamin.", "Uczę się, żebyś zdał egzamin.", "Uczę się, żebym zdał egzamin.", "Uczę się, że zdam egzamin."],
+      "correctIndex": 0,
+      "explanation": "Same subject (I study / I pass) → żeby + infinitive: 'Uczę się, żeby zdać egzamin.' 'Żebyś zdał' = so that you pass (different subject — 2sg). 'Żebym zdał' = if I were to pass (1sg l-form — slightly unnatural for purpose). 'Że zdam' = that I will pass (statement, not purpose). Same subject + purpose → infinitive."
+    },
+    {
+      "id": "b1-ch07-rev-q02",
+      "type": "multiple_choice",
+      "order": 2,
+      "sourceLesson": "b1-ch07-l01",
+      "prompt": "Negative purpose, same subject: She left early so as not to meet him. [wyjść, żeby nie, spotkać go]",
+      "options": ["Wyszła wcześnie, żeby go nie spotkać.", "Wyszła wcześnie, żeby go nie spotka.", "Wyszła wcześnie, żeby się nie spotkał.", "Wyszła wcześnie, że go nie spotkała."],
+      "correctIndex": 0,
+      "explanation": "Negative purpose, same subject → 'żeby nie + infinitive': 'Wyszła wcześnie, żeby go nie spotkać.' 'Żeby nie spotkać' = so as not to meet (infinitive). 'Nie spotka' = future (wrong — no future after żeby). 'Żeby się nie spotkał' = so that he wouldn't meet himself (different subject + odd). 'Że go nie spotkała' = statement."
+    },
+    {
+      "id": "b1-ch07-rev-q03",
+      "type": "multiple_choice",
+      "order": 3,
+      "sourceLesson": "b1-ch07-l02",
+      "prompt": "Different subjects — desire: I want you (f) to come. [chcieć + żeby + l-form f 2sg]",
+      "options": ["Chcę, żebyś przyszła.", "Chcę, żebyś przyszedł.", "Chcę, żeby przyszła.", "Chcę, żeby przyjść."],
+      "correctIndex": 0,
+      "explanation": "I want YOU (f) → 2sg marker 'żebyś' + l-form f 'przyszła': 'Chcę, żebyś przyszła.' 'Żebyś przyszedł' = you (male). 'Żeby przyszła' = she (3sg — different person). 'Żeby przyjść' = infinitive (same subject). Female addressed → 'żebyś' + feminine l-form."
+    },
+    {
+      "id": "b1-ch07-rev-q04",
+      "type": "multiple_choice",
+      "order": 4,
+      "sourceLesson": "b1-ch07-l02",
+      "prompt": "Mom wants us (mixed group) to come back early. [chcieć + żebyśmy + wrócić]",
+      "options": ["Mama chce, żebyśmy wrócili wcześnie.", "Mama chce, żebyśmy wróciły wcześnie.", "Mama chce, żeby wrócili wcześnie.", "Mama chce, żebyście wrócili wcześnie."],
+      "correctIndex": 0,
+      "explanation": "'Mama chce, żebyśmy wrócili wcześnie.' — Mom wants us (virile/mixed) to come back early. 'Żebyśmy' = 1pl marker (we). 'Wrócili' = l-form virile pl (male/mixed group). 'Wróciły' = non-virile (female-only). 'Żeby wrócili' = they/3pl (not we). 'Żebyście' = you pl (2pl — not us)."
+    },
+    {
+      "id": "b1-ch07-rev-q05",
+      "type": "multiple_choice",
+      "order": 5,
+      "sourceLesson": "b1-ch07-l03",
+      "prompt": "He told us not to be late. [powiedzieć + żebyśmy + nie spóźnić się]",
+      "options": ["Powiedział, żebyśmy się nie spóźnili.", "Powiedział, że się nie spóźniliśmy.", "Powiedział, żebyście się nie spóźnili.", "Powiedział, żeby się nie spóźnili."],
+      "correctIndex": 0,
+      "explanation": "'Powiedział, żebyśmy się nie spóźnili.' — He told us not to be late. 'Żebyśmy' = 1pl (us). 'Nie spóźnili' = l-form virile pl. 'Że się nie spóźniliśmy' = that we weren't late (statement). 'Żebyście' = you pl (2pl). 'Żeby się nie spóźnili' = they (3pl). He told US → 'żebyśmy'."
+    },
+    {
+      "id": "b1-ch07-rev-q06",
+      "type": "multiple_choice",
+      "order": 6,
+      "sourceLesson": "b1-ch07-l04",
+      "prompt": "Choose the correct connector: Myślę, ___ ona jest chora. (I think she's ill.)",
+      "options": ["że", "żeby", "żebyś", "czy"],
+      "correctIndex": 0,
+      "explanation": "'Myślę, że ona jest chora.' = I think she's ill. 'Myśleć' = belief verb → 'że' (statement, fact). NEVER 'żeby' after myśleć (żeby = desire/purpose). 'Żebyś' and 'czy' also wrong. Rule: belief/statement verbs (myśleć, wiedzieć, widzieć, słyszeć when it's a fact) → że."
+    },
+    {
+      "id": "b1-ch07-rev-q07",
+      "type": "multiple_choice",
+      "order": 7,
+      "sourceLesson": "b1-ch07-l04",
+      "prompt": "Choose the correct connector: Chcę, ___ on tu był. (I want him to be here.)",
+      "options": ["żeby", "że", "żebyś", "aby on"],
+      "correctIndex": 0,
+      "explanation": "'Chcę, żeby on tu był.' = I want him to be here. 'Chcieć' = desire verb, different subjects → 'żeby'. 'Żeby on' = 3sg (no personal suffix for 3rd person in żeby). 'Że' = wrong (chcieć doesn't take że for desire). 'Żebyś' = 2sg (you, not him). 'Aby on' = formal and needs l-form: 'aby on był' would work."
+    },
+    {
+      "id": "b1-ch07-rev-q08",
+      "type": "vocab_translation",
+      "order": 8,
+      "sourceVocab": "b1-ch07-vocab",
+      "prompt": "What does 'ważne, żebyś pamiętał' mean?",
+      "options": ["It's important that you (m) remember.", "You want to be remembered.", "You should be important.", "It's important to remember."],
+      "correctIndex": 0,
+      "explanation": "'Ważne, żebyś pamiętał.' = It's important that you (male) remember. 'Ważne' = important (neuter adjective, impersonal). 'Żebyś' = 2sg you. 'Pamiętał' = l-form m (you, male, remember). This is the adjective + żeby + l-form pattern. Note: 'ważne, żeby pamiętać' (infinitive — same subject, general) = 'it's important to remember' (more general)."
+    },
+    {
+      "id": "b1-ch07-rev-q09",
+      "type": "multiple_choice",
+      "order": 9,
+      "sourceLesson": "b1-ch07-l03",
+      "prompt": "I (f) ask you (m) to help me. [prosić + żebyś + pomóc mi]",
+      "options": ["Proszę, żebyś mi pomógł.", "Proszę, żebym mi pomogła.", "Proszę, żeby mi pomógł.", "Proszę, że mi pomożesz."],
+      "correctIndex": 0,
+      "explanation": "'Proszę, żebyś mi pomógł.' — I (f) ask you (m) to help me. 'Proszę' = I ask (1sg). 'Żebyś' = 2sg (you). 'Pomógł' = l-form m of pomóc (you, male, help). 'Mi' = dative of ja (to me/me). 'Żebym mi pomogła' = I ask myself (wrong). 'Żeby mi pomógł' = him (3sg — not you). 'Że mi pomożesz' = that you will help (statement, not request)."
+    },
+    {
+      "id": "b1-ch07-rev-q10",
+      "type": "multiple_choice",
+      "order": 10,
+      "sourceLesson": "b1-ch07-l01",
+      "prompt": "What is the difference between 'Idę, żeby kupić' and 'Idę, żebyś kupił'?",
+      "options": ["First: I go to buy (same subject); Second: I go so that you buy (different subjects)", "First: future; Second: past", "They mean the same thing", "First is informal, second is formal"],
+      "correctIndex": 0,
+      "explanation": "'Idę, żeby kupić' = I go IN ORDER TO buy (same subject — I go, I buy). 'Idę, żebyś kupił' = I go SO THAT YOU buy (different subjects — I go, you buy). The key distinction: same subject → żeby + infinitive; different subjects → żeby + l-form. This is one of the most important rules for advanced Polish."
+    },
+    {
+      "id": "b1-ch07-rev-q11",
+      "type": "multiple_choice",
+      "order": 11,
+      "sourceLesson": "b1-ch07-l02",
+      "prompt": "Let me (f) explain. [pozwolić + żebym + wytłumaczyć — female speaker]",
+      "options": ["Pozwól, żebym wytłumaczyła.", "Pozwól, żebym wytłumaczył.", "Pozwól, żebyś wytłumaczył.", "Pozwól mi wytłumaczyć."],
+      "correctIndex": 0,
+      "explanation": "'Pozwól, żebym wytłumaczyła.' — Let me (female) explain. 'Żebym' = 1sg. 'Wytłumaczyła' = l-form f (female speaker). Note: 'Pozwól mi wytłumaczyć' is also correct (imperative + dative + inf) and perhaps more natural in speech. Both acceptable, but 'żebym wytłumaczyła' (f) is the lesson target form."
+    },
+    {
+      "id": "b1-ch07-rev-q12",
+      "type": "multiple_choice",
+      "order": 12,
+      "sourceLesson": "b1-ch07-l04",
+      "prompt": "She asked him to help her but he said he was busy. [prosić żeby + powiedzieć że]",
+      "options": ["Prosiła go, żeby jej pomógł, ale powiedział, że jest zajęty.", "Prosiła go, że jej pomoże, ale powiedział, żeby był zajęty.", "Prosiła go, żeby jej pomoże, ale powiedział, że jest zajęty.", "Prosiła go, żeby jej pomógł, ale powiedział, żeby był zajęty."],
+      "correctIndex": 0,
+      "explanation": "'Prosiła go, żeby jej pomógł, ale powiedział, że jest zajęty.' Two connectors: (1) 'żeby jej pomógł' = request (żeby + l-form m: 'pomógł'). (2) 'że jest zajęty' = statement (że + present: 'jest zajęty'). Correct mixing: request → żeby; statement → że."
+    }
+  ]
+}

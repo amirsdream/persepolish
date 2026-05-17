@@ -1,0 +1,130 @@
+{
+  "id": "a1-ch06-revision",
+  "level": "a1",
+  "chapter": 6,
+  "title": "Chapter 6 Revision: Home & City",
+  "description": "Mixed questions covering locative case, locative adjectives, prepositions of place, locative plural, and home/city vocabulary.",
+  "passThreshold": 0.70,
+  "questions": [
+    {
+      "id": "a1-ch06-rev-q01",
+      "type": "multiple_choice",
+      "order": 1,
+      "sourceLesson": "a1-ch06-l01",
+      "prompt": "Jestem ___ (at home). [dom → locative]",
+      "options": ["w domu", "w dom", "do domu", "z domu"],
+      "correctIndex": 0,
+      "explanation": "'Dom' → locative 'domu'. Position = 'w + locative': w domu = at home."
+    },
+    {
+      "id": "a1-ch06-rev-q02",
+      "type": "multiple_choice",
+      "order": 2,
+      "sourceLesson": "a1-ch06-l01",
+      "prompt": "Pracuje ___ Polsce. (She works in Poland.) [Polska → locative]",
+      "options": ["w", "do", "z", "na"],
+      "correctIndex": 0,
+      "explanation": "Countries use 'w + locative': w Polsce = in Poland. 'Polska' → locative 'Polsce'."
+    },
+    {
+      "id": "a1-ch06-rev-q03",
+      "type": "multiple_choice",
+      "order": 3,
+      "sourceLesson": "a1-ch06-l02",
+      "prompt": "Mieszkam w ___ mieszkaniu. (I live in a small flat.) [mały → n locative]",
+      "options": ["małym", "małej", "mały", "małe"],
+      "correctIndex": 0,
+      "explanation": "'Mieszkanie' is neuter; adjective locative for m/n = -ym: 'małym mieszkaniu'."
+    },
+    {
+      "id": "a1-ch06-rev-q04",
+      "type": "multiple_choice",
+      "order": 4,
+      "sourceLesson": "a1-ch06-l02",
+      "prompt": "Ona pracuje w ___ firmie. (She works in a big company.) [duży → f locative]",
+      "options": ["dużej", "dużym", "duży", "dużą"],
+      "correctIndex": 0,
+      "explanation": "'Firma' is feminine; adjective locative for feminine = -ej: 'dużej firmie'."
+    },
+    {
+      "id": "a1-ch06-rev-q05",
+      "type": "vocab_translation",
+      "order": 5,
+      "sourceVocab": "a1-ch06-vocab",
+      "prompt": "What does 'blisko' mean?",
+      "options": ["far", "near", "next to", "opposite"],
+      "correctIndex": 1,
+      "explanation": "'Blisko' = near/close. Antonym: 'daleko' = far."
+    },
+    {
+      "id": "a1-ch06-rev-q06",
+      "type": "multiple_choice",
+      "order": 6,
+      "sourceLesson": "a1-ch06-l03",
+      "prompt": "Idę ___ sklepu. (I'm going from the shop.) [movement away]",
+      "options": ["ze", "w", "do", "na"],
+      "correctIndex": 0,
+      "explanation": "'Ze/z + genitive' = from. 'Ze sklepu' = from the shop. (Ze used before sklep's consonant cluster)."
+    },
+    {
+      "id": "a1-ch06-rev-q07",
+      "type": "multiple_choice",
+      "order": 7,
+      "sourceLesson": "a1-ch06-l03",
+      "prompt": "Książka leży ___ stole. (The book is lying on the table.) [position]",
+      "options": ["na", "w", "do", "za"],
+      "correctIndex": 0,
+      "explanation": "'Na + locative' for position on a surface: 'na stole' = on the table."
+    },
+    {
+      "id": "a1-ch06-rev-q08",
+      "type": "multiple_choice",
+      "order": 8,
+      "sourceLesson": "a1-ch06-l04",
+      "prompt": "Mieszkamy w ___ (in cities). [miasto → locative plural]",
+      "options": ["miastach", "miastę", "miast", "miasta"],
+      "correctIndex": 0,
+      "explanation": "Locative plural: all nouns take -ach. 'Miasto' → 'miastach'. 'W miastach' = in cities."
+    },
+    {
+      "id": "a1-ch06-rev-q09",
+      "type": "vocab_translation",
+      "order": 9,
+      "sourceVocab": "a1-ch06-vocab",
+      "prompt": "What does 'rynek' mean?",
+      "options": ["park", "market square / town square", "church", "post office"],
+      "correctIndex": 1,
+      "explanation": "'Rynek' = market square / town square. 'Na rynku' = in/at the market square (locative)."
+    },
+    {
+      "id": "a1-ch06-rev-q10",
+      "type": "multiple_choice",
+      "order": 10,
+      "sourceLesson": "a1-ch06-l04",
+      "prompt": "Pracuję w ___ sklepach. (I work in big shops.) [duży → adj loc pl]",
+      "options": ["dużych", "dużej", "dużym", "duże"],
+      "correctIndex": 0,
+      "explanation": "Adjective locative plural = -ych (hard stems): 'dużych'. 'W dużych sklepach' = in big shops."
+    },
+    {
+      "id": "a1-ch06-rev-q11",
+      "type": "vocab_translation",
+      "order": 11,
+      "sourceVocab": "a1-ch06-vocab",
+      "prompt": "What does 'obok' mean?",
+      "options": ["opposite", "behind", "next to / beside", "in front of"],
+      "correctIndex": 2,
+      "explanation": "'Obok' = next to / beside (+ genitive). 'Bank jest obok poczty' = The bank is next to the post office."
+    },
+    {
+      "id": "a1-ch06-rev-q12",
+      "type": "multiple_choice",
+      "order": 12,
+      "sourceLesson": "a1-ch06-l01",
+      "prompt": "Dzieci bawią się ___ ulicy. (Children play in the streets.) [ulica → loc pl]",
+      "options": ["na ulicach", "na ulicy", "w ulicę", "przy ulicach"],
+      "correctIndex": 0,
+      "explanation": "'Ulica' → locative plural 'ulicach'. 'Na ulicach' = on/in the streets. Streets use 'na' not 'w'."
+    }
+  ]
+}

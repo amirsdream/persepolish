@@ -1,0 +1,70 @@
+{
+  "id": "a2-ch18-l02",
+  "level": "a2",
+  "chapter": 18,
+  "lessonOrder": 2,
+  "title": "Verbal Nouns with -cie",
+  "grammarPoint": "Verbal nouns formed with -cie suffix: życie, wyjście, przyjście, spotkanie, myślenie — when -cie appears and key vocabulary",
+  "explanation": {
+    "text": "A smaller group of Polish verbal nouns ends in **-cie** rather than -nie. These come from verbs whose stem ends in certain consonants or from perfective verbs with prefix + -jść / -jechać roots.\n\n**Common -cie verbal nouns:**\n\n| Verb | Verbal Noun | Meaning |\n|------|------------|--------|\n| żyć | życie | life / living |\n| wyjść | wyjście | exit / leaving |\n| przyjść | przyjście | arrival / coming |\n| wziąć | wzięcie | taking |\n| znaleźć | znalezienie | finding |\n| otworzyć | otwarcie | opening |\n| zamknąć | zamknięcie | closing / closure |\n| skończyć | skończenie | finishing |\n| zacząć | zaczęcie | beginning |\n| zrozumieć | zrozumienie | understanding |\n\n**Note**: Many of these are from **perfective** verbs — they name the completed event rather than the ongoing activity.\n\n**Life vocabulary built on 'życie':**\n- życie codzienne = everyday life\n- styl życia = lifestyle\n- jakość życia = quality of life\n- sposób na życie = way of life\n\n**Directional -cie nouns:**\n- wyjście = exit (also: way out of a situation)\n- wejście = entrance\n- przyjście = arrival (by foot)\n- przyjazd = arrival (by vehicle)\n- wyjazd = departure (by vehicle)\n\n**Usage:**\n- Zrozumienie gramatyki wymaga czasu. (Understanding grammar takes time.)\n- Wyjście jest po lewej. (The exit is on the left.)\n- Życie w Polsce jest interesujące. (Life in Poland is interesting.)\n- To jest poza moim zasięgiem / poza moim zrozumieniem. (It's beyond my understanding.)",
+    "notes": [
+      "Life = życie (n). Decline it: gen. życia, dat. życiu, instr. życiem, loc. życiu.",
+      "Wyjście = exit (physical door) AND the verbal noun 'leaving'. Context tells you which.",
+      "-cie nouns are often from perfective verbs: otworzyć → otwarcie, zamknąć → zamknięcie.",
+      "Zrozumienie (understanding) is very useful: 'Dziękuję za zrozumienie' = Thank you for your understanding."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch18-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Verbal noun from 'żyć' (to live). ___ w Polsce jest interesujące.",
+      "options": ["Życie", "Życie", "Żyć", "Żyjąc"],
+      "correctIndex": 0,
+      "explanation": "żyć → życie (life/living). This is an irregular verbal noun — the ż softens before the suffix: żyć → życie. 'Życie w Polsce jest interesujące' = Life in Poland is interesting."
+    },
+    {
+      "id": "a2-ch18-l02-ex02",
+      "type": "multiple_choice",
+      "order": 2,
+      "prompt": "Which word means 'exit' (the door you leave through)?",
+      "options": ["wyjście", "wejście", "przyjście", "wyjazd"],
+      "correctIndex": 0,
+      "explanation": "'Wyjście' = exit (way out — on foot). 'Wejście' = entrance. Note the wy-/we- prefix direction: wy- = out, we-/w- = in. 'Wyjazd' = departure by vehicle."
+    },
+    {
+      "id": "a2-ch18-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a2/ch18/a2-ch18-l02-ex03.mp3",
+      "options": ["Zrozumienie gramatyki wymaga czasu.", "Zrozumiałam gramatykę przez czas.", "Gramatyka wymaga dużo czasu.", "Rozumiem gramatykę z czasem."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Zrozumienie gramatyki wymaga czasu.' — Understanding grammar takes time. 'Zrozumienie' = verbal noun from zrozumieć (perf). 'Gramatyki' = genitive (object of verbal noun). 'Wymaga + genitive' = requires."
+    },
+    {
+      "id": "a2-ch18-l02-ex04",
+      "type": "fill_blank",
+      "order": 4,
+      "prompt": "Dziękuję za ___. (Thank you for your understanding.) [zrozumienie]",
+      "answer": "zrozumienie",
+      "acceptableAnswers": ["zrozumienie"],
+      "hint": "zrozumieć (perf) → zrozumienie. 'Za + accusative': zrozumienie (acc = nom for neuter)."
+    },
+    {
+      "id": "a2-ch18-l02-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: Quality of life in the city is high. (jakość życia)",
+      "wordBank": ["Jakość", "życia", "życie", "w", "mieście", "miasta", "jest", "wysoka", "wysoki", "wysokie", "."],
+      "correctSequences": [
+        ["Jakość", "życia", "w", "mieście", "jest", "wysoka", "."]
+      ],
+      "explanation": "'Jakość życia w mieście jest wysoka.' — Quality of life in the city is high. 'Jakość' (f) = quality → 'wysoka' (f adj). 'Życia' = genitive of życie. 'W mieście' = in the city (w + locative)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["verbal-nouns", "word-formation", "a2-core"],
+  "prerequisites": ["a2-ch18-l01"]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "a2-ch16-l03",
+  "level": "a2",
+  "chapter": 16,
+  "lessonOrder": 3,
+  "title": "Polite Requests",
+  "grammarPoint": "Polite requests: proszę + infinitive; czy mógłby Pan / mogłaby Pani + infinitive; czy mógłbyś + infinitive",
+  "explanation": {
+    "text": "Polish has several levels of politeness for making requests.\n\n**Level 1 — Most common polite form:**\n**Proszę + infinitive** (please + do...)\n- **Proszę** mówić wolniej. = Please speak more slowly.\n- **Proszę** otworzyć okno. = Please open the window.\n- **Proszę** tutaj usiąść. = Please sit here.\n\n**Level 2 — Informal polite (ty relationship):**\n**Czy mógłbyś / mogłabyś + infinitive?** (Could you...?)\n- **Czy mógłbyś** mi pomóc? = Could you (m) help me?\n- **Czy mogłabyś** to sprawdzić? = Could you (f) check this?\n\n**Level 3 — Formal (Pan/Pani):**\n**Czy mógłby Pan / mogłaby Pani + infinitive?** (Could you [formal] ...?)\n- **Czy mógłby Pan** powtórzyć? = Could you (m formal) repeat that?\n- **Czy mogłaby Pani** podpisać tutaj? = Could you (f formal) sign here?\n\n**In service contexts:**\n- Proszę o... + accusative (Please give me...)\n  - Proszę o kawę. = A coffee please.\n  - Proszę o rachunek. = The bill, please.\n\n**Czy + conditional is the most polite question form:**\n- Czy mógłbyś mi pożyczyć pióro? = Could you lend me a pen?\n- Czy mogłaby Pani nam pomóc? = Could you (f formal) help us?",
+    "notes": [
+      "Proszę + infinitive = polite command (less direct than imperative).",
+      "Czy mógłbyś/mogłabyś = informal polite request (conditional of móc).",
+      "Czy mógłby Pan/mogłaby Pani = formal polite request — use with strangers.",
+      "'Proszę o' + accusative = please give me / I'd like (ordering/requesting things)."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch16-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "___ mówić wolniej, proszę. (Please speak more slowly.) [proszę + infinitive]",
+      "options": ["Proszę", "Proszę o", "Czy możesz", "Mów"],
+      "correctIndex": 0,
+      "explanation": "'Proszę + infinitive': Proszę mówić wolniej. This is a polite request — less abrupt than the bare imperative 'mów'. 'Proszę o' is used before a noun."
+    },
+    {
+      "id": "a2-ch16-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Czy ___ Pan powtórzyć to pytanie? (Could you (m formal) repeat that question?) [formal polite request]",
+      "answer": "mógłby",
+      "acceptableAnswers": ["mógłby"],
+      "hint": "Formal: Czy mógłby Pan + infinitive (móc → conditional m 3rd: mógłby)"
+    },
+    {
+      "id": "a2-ch16-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a2/ch16/a2-ch16-l03-ex03.mp3",
+      "options": ["Czy mogłabyś mi pomóc z tym zadaniem?", "Czy mogłaby mi Pani pomóc z tym zadaniem?", "Czy możesz mi pomóc z tym zadaniem?", "Pomóż mi z tym zadaniem."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Czy mogłabyś mi pomóc z tym zadaniem?' — Could you (f, informal) help me with this task? 'Mogłabyś' = feminine informal conditional (móc, ty f)."
+    },
+    {
+      "id": "a2-ch16-l03-ex04",
+      "type": "multiple_choice",
+      "order": 4,
+      "prompt": "At a restaurant: ___ dwie kawy i jeden sok. (Two coffees and one juice, please.)",
+      "options": ["Proszę o", "Chcę", "Poproszę", "Proszę"],
+      "correctIndex": 0,
+      "explanation": "Both 'proszę o' and 'poproszę' (without 'o') work for ordering. 'Proszę o dwie kawy' = I'd like two coffees. 'Poproszę dwie kawy' is also very common (no 'o')."
+    },
+    {
+      "id": "a2-ch16-l03-ex05",
+      "type": "sentence_builder",
+      "order": 5,
+      "prompt": "Build: Could you (m, informal) lend me your pen? [czy mógłbyś + infinitive]",
+      "wordBank": ["Czy", "mógłbyś", "mogłbyś", "mi", "pożyczyć", "pożyczyłeś", "swoje", "swój", "pióro", "pióra"],
+      "correctSequences": [
+        ["Czy", "mógłbyś", "mi", "pożyczyć", "swoje", "pióro"]
+      ],
+      "explanation": "'Czy mógłbyś mi pożyczyć swoje pióro?' — Could you (m, informal) lend me your pen? 'Mógłbyś' = conditional of 'móc', ty m. 'Pożyczyć' = to lend. 'Swoje pióro' = accusative (your pen)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["imperative", "politeness", "requests", "a2-core"],
+  "prerequisites": ["a2-ch16-l01", "a2-ch14-l01"]
+}

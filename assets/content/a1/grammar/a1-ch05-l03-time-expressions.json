@@ -1,0 +1,71 @@
+{
+  "id": "a1-ch05-l03",
+  "level": "a1",
+  "chapter": 5,
+  "lessonOrder": 3,
+  "title": "Time Expressions — Daily Schedule",
+  "grammarPoint": "Time adverbs: rano, wieczorem, zawsze, często, rzadko, nigdy; days of the week",
+  "explanation": {
+    "text": "Polish has a rich set of time expressions for talking about daily routine. Here are the most essential ones:\n\n**Frequency adverbs** (how often):\n\n| Polish | English |\n|--------|--------|\n| zawsze | always |\n| często | often |\n| zwykle | usually |\n| czasem / czasami | sometimes |\n| rzadko | rarely |\n| nigdy (nie) | never |\n\n**Time of day:**\n\n| Polish | English |\n|--------|--------|\n| rano | in the morning |\n| po południu | in the afternoon |\n| wieczorem | in the evening |\n| w nocy | at night |\n| w południe | at noon |\n| w nocy | at night |\n\n**Days of the week** (w + day — no capital):\n\n| Polish | English |\n|--------|--------|\n| w poniedziałek | on Monday |\n| we wtorek | on Tuesday |\n| w środę | on Wednesday |\n| w czwartek | on Thursday |\n| w piątek | on Friday |\n| w sobotę | on Saturday |\n| w niedzielę | on Sunday |\n\n**Word order tip:** Frequency adverbs usually come before the verb: *Zawsze czytam rano.* = I always read in the morning.",
+    "notes": [
+      "nigdy requires double negation: Nigdy nie idę tam. = I never go there.",
+      "Days of the week in Polish are lowercase and masculine (mostly): poniedziałek, wtorek, środa (f), czwartek, piątek, sobota (f), niedziela (f).",
+      "'W' + accusative for days: w poniedziałek, we wtorek (we before wt-), w środę (acc of środa).",
+      "rano = adverb (no preposition); wieczorem = instrumental of wieczór used as adverb."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a1-ch05-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "What does 'zawsze' mean?",
+      "options": ["always", "sometimes", "never", "often"],
+      "correctIndex": 0,
+      "explanation": "'Zawsze' = always. Antonym: 'nigdy' = never."
+    },
+    {
+      "id": "a1-ch05-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Idę do pracy ___ piątek. (I go to work on Friday.)",
+      "answer": "w",
+      "acceptableAnswers": ["w"],
+      "hint": "Days of the week take 'w' + accusative in Polish"
+    },
+    {
+      "id": "a1-ch05-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a1/ch05/a1-ch05-l03-ex03.mp3",
+      "options": ["Nigdy nie piję kawy wieczorem.", "Zawsze piję kawę wieczorem.", "Często piję kawę wieczorem.", "Rzadko piję kawę wieczorem."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Nigdy nie piję kawy wieczorem.' — I never drink coffee in the evening. 'Nigdy nie' = never (double negation). 'Wieczorem' = in the evening."
+    },
+    {
+      "id": "a1-ch05-l03-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: I usually read in the morning.",
+      "wordBank": ["Zwykle", "Zawsze", "czytam", "czytasz", "rano", "wieczorem", "książkę", "książka"],
+      "correctSequences": [
+        ["Zwykle", "czytam", "rano"],
+        ["Zwykle", "czytam", "książkę", "rano"]
+      ],
+      "explanation": "'Zwykle czytam rano' = I usually read in the morning. 'Zwykle' = usually (frequency adverb before verb). 'Rano' = in the morning."
+    },
+    {
+      "id": "a1-ch05-l03-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "How do you say 'on Wednesday' in Polish?",
+      "options": ["w środę", "w środa", "we środę", "na środę"],
+      "correctIndex": 0,
+      "explanation": "'W środę' = on Wednesday. 'Środa' (f) → accusative 'środę'. Use 'w' (not 'we') before środa."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 9,
+  "tags": ["time-expressions", "adverbs", "days-of-week", "a1-core"],
+  "prerequisites": ["a1-ch05-l01", "a1-ch05-l02"]
+}

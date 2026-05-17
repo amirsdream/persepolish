@@ -1,0 +1,68 @@
+{
+  "id": "a2-ch14-l03",
+  "level": "a2",
+  "chapter": 14,
+  "lessonOrder": 3,
+  "title": "Conditional — Hypothetical Situations",
+  "grammarPoint": "Hypothetical conditions with gdyby + conditional clause; unreal present/future: Gdybym miał..., zrobiłbym...",
+  "explanation": {
+    "text": "**Gdyby** is the key word for hypothetical 'if' clauses in Polish. It combines **gdy** (when/if) + **by** (conditional marker).\n\n**Structure:**\n**Gdyby** + past form (conditional protasis) **→** conditional (apodosis)\n\n**Gdyby + conditional forms:**\n\n| Person | Form |\n|--------|------|\n| ja (m) | **gdybym** |\n| ja (f) | **gdybym** |\n| ty (m) | **gdybyś** |\n| ty (f) | **gdybyś** |\n| on/ona | **gdyby** |\n| my | **gdybyśmy** |\n| wy | **gdybyście** |\n| oni/one | **gdyby** |\n\n**Full hypothetical sentence pattern:**\n- **Gdybym** miał pieniądze, **pojechałbym** do Japonii.\n  = If I had money, I would go to Japan.\n- **Gdybyś** była tutaj, **byłoby** mi lepiej.\n  = If you were here, I would feel better.\n- **Gdyby** padało, **zostalibyśmy** w domu.\n  = If it were raining, we would stay at home.\n\n**Word order:** Gdyby clause can come first or second:\n- Pojechałbym do Japonii, **gdybym** miał pieniądze. (same meaning)",
+    "notes": [
+      "Gdyby = if (hypothetical/unreal). Different from 'jeśli/jeżeli' (real conditions).",
+      "Gdybym / gdybyś / gdyby — the 'by' is built into the word.",
+      "Both clauses use conditional forms: gdybym miał + pojechałbym.",
+      "For real conditions (open): jeśli/jeżeli + present/future → future."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a2-ch14-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "___ wiedział, zadzwoniłby do nas. (If he knew, he would call us.) [gdyby, on]",
+      "options": ["Gdyby", "Jeśli", "Kiedy", "Że"],
+      "correctIndex": 0,
+      "explanation": "Hypothetical/unreal condition → 'gdyby' (not 'jeśli'). 'Gdyby wiedział' = if he knew (but he doesn't). 'Zadzwoniłby' = he would call (conditional)."
+    },
+    {
+      "id": "a2-ch14-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "Gdybym miała więcej czasu, ___ się polskim. (If I had more time, I would study Polish — f.) [uczyć się, ja f conditional]",
+      "answer": "uczyłabym się",
+      "acceptableAnswers": ["uczyłabym się"],
+      "hint": "Feminine conditional ja: uczyła + bym + się = uczyłabym się"
+    },
+    {
+      "id": "a2-ch14-l03-ex03",
+      "type": "multiple_choice",
+      "order": 3,
+      "prompt": "Gdybyśmy mieli samochód, ___ na wycieczke. (If we had a car, we (m-pers) would go on a trip.) [pojechać, my m-pers conditional]",
+      "options": ["pojechalibyśmy", "pojechałybyśmy", "pojademy", "pojechaliśmy"],
+      "correctIndex": 0,
+      "explanation": "'My' virile (m-pers) conditional: pojechalibyśmy. 'Pojechałybyśmy' = non-virile (women only). 'Pojademy' is not a word — 'pojedziemy' is the future."
+    },
+    {
+      "id": "a2-ch14-l03-ex04",
+      "type": "dictation_mc",
+      "order": 4,
+      "audioAsset": "assets/audio/a2/ch14/a2-ch14-l03-ex04.mp3",
+      "options": ["Gdybyś była w Warszawie, spotkalibyśmy się.", "Jeśli będziesz w Warszawie, spotkamy się.", "Gdybyś była w Warszawie, spotykamy się.", "Gdy była w Warszawie, spotkaliśmy się."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Gdybyś była w Warszawie, spotkalibyśmy się.' — If you were in Warsaw, we would meet. Unreal hypothetical: gdybyś (ty f) + spotkalibyśmy się (my m-pers conditional)."
+    },
+    {
+      "id": "a2-ch14-l03-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "What is the difference between 'jeśli' and 'gdyby'?",
+      "options": ["jeśli = real/possible; gdyby = hypothetical/unreal", "jeśli = past; gdyby = future", "jeśli = polite; gdyby = informal", "They mean exactly the same thing"],
+      "correctIndex": 0,
+      "explanation": "'Jeśli/jeżeli' introduces a real, open condition: 'Jeśli przyjdziesz, zadzwonię' (If you come [and you might], I'll call). 'Gdyby' = hypothetical/unreal: 'Gdybyś przyszedł' = If you were to come [but you probably won't]."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 12,
+  "tags": ["conditional", "hypothetical", "gdyby", "a2-core"],
+  "prerequisites": ["a2-ch14-l01", "a2-ch14-l02"]
+}

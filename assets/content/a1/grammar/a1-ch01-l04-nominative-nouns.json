@@ -1,0 +1,78 @@
+{
+  "id": "a1-ch01-l04",
+  "level": "a1",
+  "chapter": 1,
+  "lessonOrder": 4,
+  "title": "Nominative Case — Nouns",
+  "grammarPoint": "Noun gender and nominative singular endings in Polish",
+  "explanation": {
+    "text": "Every Polish noun has a **grammatical gender**: masculine (m), feminine (f), or neuter (n). The gender affects endings throughout the whole grammar system. Learning gender with every new noun is essential.\n\n| Gender | Typical ending | Examples |\n|--------|---------------|----------|\n| Masculine | consonant | kot, dom, pies, student |\n| Feminine | -a | kobieta, mama, herbata, Polska |\n| Neuter | -o, -e, -ę | okno, morze, imię |\n\nExceptions exist (e.g. *mężczyzna* ends in -a but is masculine), so always learn gender with the word.\n\nThe **nominative case** is the base form — used for the subject of a sentence.",
+    "table": {
+      "headers": ["Gender", "Ending", "Example", "Meaning"],
+      "rows": [
+        ["masculine", "consonant", "kot", "cat"],
+        ["feminine", "-a", "kobieta", "woman"],
+        ["neuter", "-o", "okno", "window"],
+        ["neuter", "-e", "morze", "sea"]
+      ]
+    },
+    "notes": [
+      "Learn gender with every new noun — it determines all other forms.",
+      "Masculine nouns ending in -a (mężczyzna, kolega) are grammatically masculine.",
+      "The nominative is the dictionary form and the subject case."
+    ]
+  },
+  "exercises": [
+    {
+      "id": "a1-ch01-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "What gender is 'herbata' (tea)?",
+      "options": ["feminine", "masculine", "neuter", "it has no gender"],
+      "correctIndex": 0,
+      "explanation": "'Herbata' ends in -a — the typical feminine ending. It is a feminine noun."
+    },
+    {
+      "id": "a1-ch01-l04-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "prompt": "To jest ___. (This is a window.) [okno = neuter]",
+      "answer": "okno",
+      "acceptableAnswers": ["okno"],
+      "hint": "Use the nominative (base) form of the neuter noun"
+    },
+    {
+      "id": "a1-ch01-l04-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/a1/ch01/a1-ch01-l04-ex03.mp3",
+      "options": ["To jest pies.", "To jest psa.", "To jest psem.", "To jest psu."],
+      "correctIndex": 0,
+      "explanation": "You heard: 'To jest pies.' — This is a dog. 'Pies' is masculine nominative — the base form after 'to jest'."
+    },
+    {
+      "id": "a1-ch01-l04-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: This is a book. [książka = feminine]",
+      "wordBank": ["To", "jest", "książka", "książki", "książkę", "dom"],
+      "correctSequences": [
+        ["To", "jest", "książka"]
+      ],
+      "explanation": "'To jest książka' = This is a book. After 'to jest', the noun stays in the nominative: książka (feminine, ends -a)."
+    },
+    {
+      "id": "a1-ch01-l04-ex05",
+      "type": "multiple_choice",
+      "order": 5,
+      "prompt": "Which noun is neuter?",
+      "options": ["dziecko (child)", "brat (brother)", "siostra (sister)", "pies (dog)"],
+      "correctIndex": 0,
+      "explanation": "'Dziecko' ends in -o — the classic neuter ending. 'Brat' and 'pies' are masculine (consonant endings). 'Siostra' is feminine (-a ending)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 9,
+  "tags": ["nominative", "noun-gender", "masculine", "feminine", "neuter", "a1-core"],
+  "prerequisites": ["a1-ch01-l01"]
+}

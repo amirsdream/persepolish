@@ -1,0 +1,130 @@
+{
+  "id": "a1-ch04-revision",
+  "level": "a1",
+  "chapter": 4,
+  "title": "Chapter 4 Revision: Numbers & Shopping",
+  "description": "Mixed questions covering numbers 1–1000, accusative singular, number+noun agreement, and shopping vocabulary.",
+  "passThreshold": 0.70,
+  "questions": [
+    {
+      "id": "a1-ch04-rev-q01",
+      "type": "multiple_choice",
+      "order": 1,
+      "sourceLesson": "a1-ch04-l01",
+      "prompt": "What is 17 in Polish?",
+      "options": ["siedemnaście", "siedem", "siedemdziesiąt", "siedemset"],
+      "correctIndex": 0,
+      "explanation": "17 = siedemnaście. Pattern: siedem (7) + naście (teen suffix)."
+    },
+    {
+      "id": "a1-ch04-rev-q02",
+      "type": "multiple_choice",
+      "order": 2,
+      "sourceLesson": "a1-ch04-l02",
+      "prompt": "What is 85 in Polish?",
+      "options": ["osiemdziesiąt pięć", "pięćdziesiąt osiem", "osiemset pięć", "pięć osiemdziesiąt"],
+      "correctIndex": 0,
+      "explanation": "85 = osiemdziesiąt pięć. Tens first: osiemdziesiąt (80) + pięć (5)."
+    },
+    {
+      "id": "a1-ch04-rev-q03",
+      "type": "multiple_choice",
+      "order": 3,
+      "sourceLesson": "a1-ch04-l03",
+      "prompt": "Lubię ___ (I like coffee). [kawa → accusative]",
+      "options": ["kawę", "kawa", "kawy", "kawie"],
+      "correctIndex": 0,
+      "explanation": "Lubić + accusative: kawa (feminine -a) → kawę. 'Lubię kawę' = I like coffee."
+    },
+    {
+      "id": "a1-ch04-rev-q04",
+      "type": "multiple_choice",
+      "order": 4,
+      "sourceLesson": "a1-ch04-l04",
+      "prompt": "Proszę pięć ___ (five apples). [jabłko → genitive plural = jabłek]",
+      "options": ["jabłek", "jabłka", "jabłko", "jabłkiem"],
+      "correctIndex": 0,
+      "explanation": "After 5+, use genitive plural: jabłko → jabłek. 'Proszę pięć jabłek' = Five apples please."
+    },
+    {
+      "id": "a1-ch04-rev-q05",
+      "type": "vocab_translation",
+      "order": 5,
+      "sourceVocab": "a1-ch04-vocab",
+      "prompt": "What does 'wyprzedaż' mean?",
+      "options": ["checkout", "price tag", "sale (discounts)", "receipt"],
+      "correctIndex": 2,
+      "explanation": "'Wyprzedaż' = sale — when items are discounted. 'Kasa' = checkout. 'Paragon' = receipt."
+    },
+    {
+      "id": "a1-ch04-rev-q06",
+      "type": "vocab_translation",
+      "order": 6,
+      "sourceVocab": "a1-ch04-vocab",
+      "prompt": "What does 'ile kosztuje?' mean?",
+      "options": ["what size is it?", "how much does it cost?", "where is the shop?", "is it open?"],
+      "correctIndex": 1,
+      "explanation": "'Ile kosztuje?' = How much does it cost? 'Ile' = how much. 'Kosztuje' = it costs."
+    },
+    {
+      "id": "a1-ch04-rev-q07",
+      "type": "multiple_choice",
+      "order": 7,
+      "sourceLesson": "a1-ch04-l01",
+      "prompt": "How do you say 'two sisters' (dwie or dwa)?",
+      "options": ["dwie siostry", "dwa siostry", "dwie siostro", "dwa siostrę"],
+      "correctIndex": 0,
+      "explanation": "'Siostra' is feminine → use 'dwie' (feminine form of 2). 'Dwie siostry' = two sisters."
+    },
+    {
+      "id": "a1-ch04-rev-q08",
+      "type": "multiple_choice",
+      "order": 8,
+      "sourceLesson": "a1-ch04-l03",
+      "prompt": "Widzę ___ (I see a cat). [kot = masculine animate]",
+      "options": ["kota", "kot", "kotem", "kotu"],
+      "correctIndex": 0,
+      "explanation": "Masculine animate → accusative adds -a: kot → kota. 'Widzę kota' = I see a cat."
+    },
+    {
+      "id": "a1-ch04-rev-q09",
+      "type": "vocab_translation",
+      "order": 9,
+      "sourceVocab": "a1-ch04-vocab",
+      "prompt": "What does 'gotówka' mean?",
+      "options": ["credit card", "cash", "change (money)", "bank"],
+      "correctIndex": 1,
+      "explanation": "'Gotówka' = cash. 'Karta' = (credit/debit) card. 'Reszta' = change (money returned)."
+    },
+    {
+      "id": "a1-ch04-rev-q10",
+      "type": "multiple_choice",
+      "order": 10,
+      "sourceLesson": "a1-ch04-l04",
+      "prompt": "Mam ___ złote. (I have three zloty.)",
+      "options": ["trzy", "trzech", "trzem", "trzysta"],
+      "correctIndex": 0,
+      "explanation": "After 3, use nominative plural for the noun: trzy złote. (złoty → złote in nominative plural)."
+    },
+    {
+      "id": "a1-ch04-rev-q11",
+      "type": "vocab_translation",
+      "order": 11,
+      "sourceVocab": "a1-ch04-vocab",
+      "prompt": "What does 'drogi' mean in a shopping context?",
+      "options": ["roads", "expensive", "dear (greeting)", "far"],
+      "correctIndex": 1,
+      "explanation": "'Drogi' = expensive (adjective, masculine form). Antonym: 'tani' = cheap."
+    },
+    {
+      "id": "a1-ch04-rev-q12",
+      "type": "multiple_choice",
+      "order": 12,
+      "sourceLesson": "a1-ch04-l03",
+      "prompt": "Kupuję ___ (I'm buying a house). [dom = masculine inanimate]",
+      "options": ["dom", "doma", "domem", "domu"],
+      "correctIndex": 0,
+      "explanation": "Masculine inanimate nouns = same in accusative as nominative: dom → dom. 'Kupuję dom' = I'm buying a house."
+    }
+  ]
+}
