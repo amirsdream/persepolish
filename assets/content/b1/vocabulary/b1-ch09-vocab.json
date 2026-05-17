@@ -1,0 +1,258 @@
+{
+  "id": "b1-ch09-vocab",
+  "chapter": 9,
+  "level": "b1",
+  "title": "Verbal Nouns & Abstract Concepts",
+  "cards": [
+    {
+      "id": "b1-ch09-w01",
+      "polish": "czytanie",
+      "english": "reading (the act/process)",
+      "pronunciation": "chi-TA-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Czytanie książek jest bardzo ważne.",
+      "exampleEnglish": "Reading books is very important."
+    },
+    {
+      "id": "b1-ch09-w02",
+      "polish": "pisanie",
+      "english": "writing (the act/process)",
+      "pronunciation": "pi-SA-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Pisanie po polsku jest trudne.",
+      "exampleEnglish": "Writing in Polish is difficult."
+    },
+    {
+      "id": "b1-ch09-w03",
+      "polish": "mówienie",
+      "english": "speaking (the act/process)",
+      "pronunciation": "moo-VYEH-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Mówienie po polsku sprawia mi trudność.",
+      "exampleEnglish": "Speaking Polish gives me difficulty."
+    },
+    {
+      "id": "b1-ch09-w04",
+      "polish": "uczenie się",
+      "english": "learning (the act/process)",
+      "pronunciation": "oo-CHEH-nyeh syeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Uczenie się języków wymaga czasu.",
+      "exampleEnglish": "Learning languages requires time."
+    },
+    {
+      "id": "b1-ch09-w05",
+      "polish": "słuchanie",
+      "english": "listening (the act/process)",
+      "pronunciation": "swoo-HA-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Słuchanie muzyki pomaga mi się relaksować.",
+      "exampleEnglish": "Listening to music helps me relax."
+    },
+    {
+      "id": "b1-ch09-w06",
+      "polish": "gotowanie",
+      "english": "cooking (the act/process)",
+      "pronunciation": "go-to-VA-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Gotowanie jest moim hobby.",
+      "exampleEnglish": "Cooking is my hobby."
+    },
+    {
+      "id": "b1-ch09-w07",
+      "polish": "pływanie",
+      "english": "swimming (the act/process)",
+      "pronunciation": "pwi-VA-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Pływanie jest zdrowe.",
+      "exampleEnglish": "Swimming is healthy."
+    },
+    {
+      "id": "b1-ch09-w08",
+      "polish": "życie",
+      "english": "life; living",
+      "pronunciation": "ZHI-cheh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Życie w Polsce jest interesujące.",
+      "exampleEnglish": "Life in Poland is interesting."
+    },
+    {
+      "id": "b1-ch09-w09",
+      "polish": "wyjście",
+      "english": "exit; going out",
+      "pronunciation": "VIY-shcheh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Wyjście z domu zajęło mi dużo czasu.",
+      "exampleEnglish": "Leaving the house took me a lot of time."
+    },
+    {
+      "id": "b1-ch09-w10",
+      "polish": "przyjście",
+      "english": "arrival; coming",
+      "pronunciation": "PSHIY-shcheh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Przyjście na czas jest ważne.",
+      "exampleEnglish": "Arriving on time is important."
+    },
+    {
+      "id": "b1-ch09-w11",
+      "polish": "spotkanie",
+      "english": "meeting; encounter",
+      "pronunciation": "spot-KA-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Spotkanie z przyjacielem było miłe.",
+      "exampleEnglish": "The meeting with a friend was pleasant."
+    },
+    {
+      "id": "b1-ch09-w12",
+      "polish": "zaproszenie",
+      "english": "invitation",
+      "pronunciation": "za-pro-SHEH-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Dostałem zaproszenie na ślub.",
+      "exampleEnglish": "I received an invitation to the wedding."
+    },
+    {
+      "id": "b1-ch09-w13",
+      "polish": "przeczytanie",
+      "english": "reading (completed action)",
+      "pronunciation": "psheh-chi-TA-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Po przeczytaniu książki poczułem się mądrzejszy.",
+      "exampleEnglish": "After reading the book (through), I felt smarter."
+    },
+    {
+      "id": "b1-ch09-w14",
+      "polish": "napisanie",
+      "english": "writing (completed action)",
+      "pronunciation": "na-pi-SA-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Po napisaniu listu poczułam ulgę.",
+      "exampleEnglish": "After writing the letter (completely), I felt relieved."
+    },
+    {
+      "id": "b1-ch09-w15",
+      "polish": "zrozumienie",
+      "english": "understanding; comprehension",
+      "pronunciation": "zro-zoo-MYEH-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Zrozumienie gramatyki wymaga ćwiczenia.",
+      "exampleEnglish": "Understanding grammar requires practice."
+    },
+    {
+      "id": "b1-ch09-w16",
+      "polish": "palenie",
+      "english": "smoking; burning",
+      "pronunciation": "pa-LEH-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Palenie wzbronione.",
+      "exampleEnglish": "Smoking prohibited."
+    },
+    {
+      "id": "b1-ch09-w17",
+      "polish": "parkowanie",
+      "english": "parking",
+      "pronunciation": "par-ko-VA-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Parkowanie tutaj jest zabronione.",
+      "exampleEnglish": "Parking here is forbidden."
+    },
+    {
+      "id": "b1-ch09-w18",
+      "polish": "wejście",
+      "english": "entrance; entry",
+      "pronunciation": "VEY-shcheh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Wejście tylko dla pracowników.",
+      "exampleEnglish": "Entry for employees only."
+    },
+    {
+      "id": "b1-ch09-w19",
+      "polish": "sprzątanie",
+      "english": "cleaning; tidying",
+      "pronunciation": "spshown-TA-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Sprzątanie mieszkania zajmuje mi godzinę.",
+      "exampleEnglish": "Cleaning the apartment takes me an hour."
+    },
+    {
+      "id": "b1-ch09-w20",
+      "polish": "zwiedzanie",
+      "english": "sightseeing; touring",
+      "pronunciation": "zvyeh-DZA-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Zwiedzanie Krakowa było wspaniałe.",
+      "exampleEnglish": "Sightseeing in Kraków was wonderful."
+    },
+    {
+      "id": "b1-ch09-w21",
+      "polish": "podróżowanie",
+      "english": "travelling",
+      "pronunciation": "pod-roo-zhо-VA-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Podróżowanie uczy pokory.",
+      "exampleEnglish": "Travelling teaches humility."
+    },
+    {
+      "id": "b1-ch09-w22",
+      "polish": "myślenie",
+      "english": "thinking",
+      "pronunciation": "mish-LEH-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Myślenie po polsku jest moim celem.",
+      "exampleEnglish": "Thinking in Polish is my goal."
+    },
+    {
+      "id": "b1-ch09-w23",
+      "polish": "ćwiczenie",
+      "english": "exercise; practice",
+      "pronunciation": "chfee-CHEH-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Ćwiczenie czyni mistrza.",
+      "exampleEnglish": "Practice makes perfect. (lit. Practice makes a master.)"
+    },
+    {
+      "id": "b1-ch09-w24",
+      "polish": "rozumienie",
+      "english": "understanding (ongoing process)",
+      "pronunciation": "ro-zoo-MYEH-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Rozumienie to proces, nie wynik.",
+      "exampleEnglish": "Understanding is a process, not a result."
+    },
+    {
+      "id": "b1-ch09-w25",
+      "polish": "nauczanie",
+      "english": "teaching",
+      "pronunciation": "na-oo-CHA-nyeh",
+      "gender": "n",
+      "category": "verbal_nouns",
+      "examplePolish": "Nauczanie języków jest moją pasją.",
+      "exampleEnglish": "Teaching languages is my passion."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "b1-ch09-revision",
+  "chapter": 9,
+  "level": "b1",
+  "title": "Chapter 9 Revision: Verbal Nouns",
+  "description": "Test your knowledge of verbal noun formation, aspect distinction, and usage in Polish.",
+  "passThreshold": 0.70,
+  "questions": [
+    {
+      "id": "b1-ch09-rev-q01",
+      "type": "multiple_choice",
+      "prompt": "How do you form a verbal noun from an imperfective verb like 'czytać'?",
+      "options": [
+        "Replace -ać with -anie → czytanie",
+        "Add -stwo to the stem → czytastwo",
+        "Use the infinitive form → czytać",
+        "Add -ość → czytość"
+      ],
+      "correctIndex": 0,
+      "explanation": "Imperfective verbs ending in -ać form verbal nouns with -anie: czytać → czytanie, gotować → gotowanie."
+    },
+    {
+      "id": "b1-ch09-rev-q02",
+      "type": "multiple_choice",
+      "prompt": "Which verbal noun comes from a PERFECTIVE verb?",
+      "options": [
+        "przeczytanie",
+        "czytanie",
+        "pisanie",
+        "mówienie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Przeczytanie comes from przeczytać (perfective). It refers to the completed act of reading through. Czytanie, pisanie, mówienie are from imperfective verbs."
+    },
+    {
+      "id": "b1-ch09-rev-q03",
+      "type": "fill_blank",
+      "prompt": "Lubię ___ (read/the act of reading). [use imperfective verbal noun]",
+      "answer": "czytanie",
+      "acceptableAnswers": ["czytanie"],
+      "explanation": "After lubić, use the imperfective verbal noun (genitive after negation, accusative after positive). Czytanie (imperfective) = the ongoing enjoyment of reading as an activity."
+    },
+    {
+      "id": "b1-ch09-rev-q04",
+      "type": "multiple_choice",
+      "prompt": "Complete: 'Po ___ książki (after finishing/reading through the book), poszłam spać.'",
+      "options": [
+        "przeczytaniu",
+        "czytaniu",
+        "czytanie",
+        "przeczytanie"
+      ],
+      "correctIndex": 0,
+      "explanation": "After 'po' we need the locative case and a perfective verbal noun (completed action). Przeczytaniu is the locative of przeczytanie (perfective)."
+    },
+    {
+      "id": "b1-ch09-rev-q05",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses 'po + verbal noun'?",
+      "options": [
+        "Po napisaniu listu, wysłałem go.",
+        "Po pisaniu listu, wysłałem go.",
+        "Po napisanie listu, wysłałem go.",
+        "Po pisanie listu, wysłałem go."
+      ],
+      "correctIndex": 0,
+      "explanation": "Po + locative of PERFECTIVE verbal noun. Napisaniu is correct (locative of napisanie, from napisać perfective). Po pisaniu would imply 'after a period of writing' without completion."
+    },
+    {
+      "id": "b1-ch09-rev-q06",
+      "type": "fill_blank",
+      "prompt": "___ (smoking) jest zabronione w tym budynku.",
+      "answer": "Palenie",
+      "acceptableAnswers": ["Palenie", "palenie"],
+      "explanation": "Palenie (verbal noun from palić) acts as a subject here. In signs and formal notices, verbal nouns are commonly used as subjects."
+    },
+    {
+      "id": "b1-ch09-rev-q07",
+      "type": "multiple_choice",
+      "prompt": "What is the verbal noun from 'wychodzić' (to be leaving/exiting)?",
+      "options": [
+        "wychodzenie",
+        "wyjście",
+        "wychód",
+        "wyjścianie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wychodzić (imperfective) → wychodzenie. Note: wyjście is from wyjść (perfective), which is also a common verbal noun meaning 'exit/the act of leaving (completed)'."
+    },
+    {
+      "id": "b1-ch09-rev-q08",
+      "type": "sentence_builder",
+      "prompt": "Build: 'Learning Polish requires patience.'",
+      "wordBank": ["Uczenie", "się", "polskiego", "wymaga", "cierpliwości", "czas"],
+      "correctSequences": [
+        ["Uczenie", "się", "polskiego", "wymaga", "cierpliwości"]
+      ],
+      "explanation": "Uczenie się polskiego wymaga cierpliwości. The reflexive verbal noun 'uczenie się' (learning) is the subject; polskiego is genitive (of Polish); cierpliwości is genitive after wymagać."
+    },
+    {
+      "id": "b1-ch09-rev-q09",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct ending for this formal sign: 'WEJŚCIE ___'",
+      "options": [
+        "WZBRONIONE (entry forbidden)",
+        "WZBRONIONY (entry forbidden)",
+        "WZBRONIONYCH (entry forbidden)",
+        "WZBRONIENA (entry forbidden)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wejście is neuter, so the adjective agrees: wzbronione (neuter nominative). WEJŚCIE WZBRONIONE = No entry / Entry forbidden."
+    },
+    {
+      "id": "b1-ch09-rev-q10",
+      "type": "multiple_choice",
+      "prompt": "Which sentence shows a verbal noun as a direct object?",
+      "options": [
+        "Lubię gotowanie.",
+        "Gotowanie jest moją pasją.",
+        "Jestem dobry w gotowaniu.",
+        "Zacząłem od gotowania."
+      ],
+      "correctIndex": 0,
+      "explanation": "In 'Lubię gotowanie', gotowanie is the direct object (accusative) of lubić. In the other sentences it serves as subject, locative complement, or genitive object."
+    },
+    {
+      "id": "b1-ch09-rev-q11",
+      "type": "fill_blank",
+      "prompt": "Nie lubię ___ (doing homework). [verbal noun from 'odrabiać' + 'lekcji'/'prac domowych']",
+      "answer": "odrabiania lekcji",
+      "acceptableAnswers": ["odrabiania lekcji", "odrabiania prac domowych"],
+      "explanation": "After 'nie lubić' use the genitive. The verbal noun odrabiania (genitive of odrabianie, from odrabiać) + lekcji (genitive). 'Nie lubię odrabiania lekcji.'"
+    },
+    {
+      "id": "b1-ch09-rev-q12",
+      "type": "multiple_choice",
+      "prompt": "What is the key difference between 'czytanie' and 'przeczytanie'?",
+      "options": [
+        "Czytanie = ongoing process; przeczytanie = completed action",
+        "Czytanie = past tense; przeczytanie = present tense",
+        "Czytanie = perfective; przeczytanie = imperfective",
+        "There is no difference; they are synonyms"
+      ],
+      "correctIndex": 0,
+      "explanation": "Czytanie (from imperfective czytać) refers to reading as an ongoing activity or process. Przeczytanie (from perfective przeczytać) refers to a completed reading. This aspect distinction is preserved in verbal nouns."
+    }
+  ]
+}

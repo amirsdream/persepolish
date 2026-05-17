@@ -1,0 +1,80 @@
+{
+  "id": "b1-ch10-l03-gerunds-aspect-distinction",
+  "chapter": 10,
+  "lessonOrder": 3,
+  "level": "b1",
+  "title": "Gerunds: Choosing the Right Aspect",
+  "grammarPoint": "Context-driven aspect choice for gerunds (process vs. completion)",
+  "explanation": {
+    "text": "Choosing between an imperfective and perfective gerund changes the meaning significantly. Here is a systematic guide:\n\n1. AFTER 'lubić / kochać / nienawidzić / znosić'\n   → Always IMPERFECTIVE (general taste/feeling)\n   • Lubię słuchanie muzyki. ✓ (I like listening to music)\n   • ~~Lubię posłuchanie muzyki.~~ ✗\n\n2. AFTER 'po' (sequential completion)\n   → Always PERFECTIVE\n   • Po wysłuchaniu wykładu, zadałem pytanie. (After listening through the lecture)\n   • ~~Po słuchaniu wykładu~~ = awkward\n\n3. IN SIGNS / PROHIBITIONS (subject role)\n   → Usually IMPERFECTIVE (ongoing prohibited activity)\n   • PALENIE WZBRONIONE (No smoking — the ongoing activity)\n   • PARKOWANIE ZABRONIONE (No parking)\n\n4. AS A FORMAL SUBSTITUTE FOR 'kiedy/gdy'\n   → ASPECT matches timing:\n   • Czytając gazetę, piłem kawę. (imperfective participle — simultaneous)\n   • Po przeczytaniu gazety, wziąłem płaszcz. (perfective gerund — sequential)\n\n5. AFTER 'zamiast' (instead of), 'przed' (before) → mostly IMPERFECTIVE\n   • Zamiast czytania, oglądał telewizję. (instead of reading)\n   • Przed wyjściem sprawdź drzwi. (before leaving — note: imperative more natural here)",
+    "notes": [
+      "lubić / kochać → IMPERFECTIVE gerund (accusative positive, genitive negative)",
+      "po + gerund → PERFECTIVE gerund locative (completed sequence)",
+      "Signs/prohibitions → IMPERFECTIVE gerund (ongoing activity)",
+      "zamiast + gerund → IMPERFECTIVE (imperfective is default for 'instead of')"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch10-l03-ex01",
+      "type": "multiple_choice",
+      "prompt": "Choose: 'Zamiast ___ (watching TV), poczytaj książkę!'",
+      "options": [
+        "oglądania telewizji",
+        "obejrzenia telewizji",
+        "oglądać telewizję",
+        "obejrzenie telewizji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zamiast + genitive. Use imperfective gerund for 'instead of': oglądania (genitive of oglądanie, from imperfective oglądać). 'Zamiast oglądania telewizji, poczytaj książkę!' = Instead of watching TV, read a book!"
+    },
+    {
+      "id": "b1-ch10-l03-ex02",
+      "type": "fill_blank",
+      "prompt": "Po ___ (arriving at the office), włączyłem komputer.",
+      "answer": "przyjściu do biura",
+      "acceptableAnswers": ["przyjściu do biura", "przyjściu", "dotarciu do biura", "dotarciu"],
+      "explanation": "Po + locative of PERFECTIVE gerund. Przyjść (perfective) → przyjście → przyjściu (locative). 'Po przyjściu do biura' = After arriving at the office (completed action, then next action)."
+    },
+    {
+      "id": "b1-ch10-l03-ex03",
+      "type": "multiple_choice",
+      "prompt": "Which context requires a PERFECTIVE gerund?",
+      "options": [
+        "'After finishing' a task before doing the next thing",
+        "Expressing a general dislike for something",
+        "A prohibition sign on a door",
+        "Expressing a general hobby"
+      ],
+      "correctIndex": 0,
+      "explanation": "Perfective gerunds are required after 'po' to express sequential completion: 'after finishing X, do Y'. General dislike, prohibition signs, and hobbies all use imperfective gerunds."
+    },
+    {
+      "id": "b1-ch10-l03-ex04",
+      "type": "multiple_choice",
+      "prompt": "Correct the error: 'Lubię przeczytanie książek.'",
+      "options": [
+        "Lubię czytanie książek. (use imperfective)",
+        "Lubię przeczytanie ksiażek. (correct as is)",
+        "Lubię przeczytaniu książek. (locative needed)",
+        "Lubię przeczytać książki. (infinitive needed)"
+      ],
+      "correctIndex": 0,
+      "explanation": "After lubić, use the IMPERFECTIVE gerund: czytanie (from czytać). Perfective gerunds (przeczytanie) with lubić sounds unnatural because preferences are general, not one-time-completed."
+    },
+    {
+      "id": "b1-ch10-l03-ex05",
+      "type": "sentence_builder",
+      "prompt": "Build: 'Instead of cooking, he ordered a pizza.'",
+      "wordBank": ["Zamiast", "gotowania", "zamówił", "pizzę", "gotowanie", "po"],
+      "correctSequences": [
+        ["Zamiast", "gotowania", "zamówił", "pizzę"]
+      ],
+      "explanation": "Zamiast gotowania, zamówił pizzę. Zamiast + genitive of imperfective gerund: gotowania (genitive of gotowanie). Zamówił is perfective past (he ordered — single completed action)."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 9,
+  "tags": ["gerunds", "aspect", "imperfective", "perfective", "context", "zamiast"],
+  "prerequisites": ["b1-ch10-l01-gerunds-imperfective", "b1-ch10-l02-gerunds-perfective"]
+}

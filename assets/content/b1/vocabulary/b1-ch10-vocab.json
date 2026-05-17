@@ -1,0 +1,258 @@
+{
+  "id": "b1-ch10-vocab",
+  "chapter": 10,
+  "level": "b1",
+  "title": "Abstract Nouns Derived from Verbs",
+  "cards": [
+    {
+      "id": "b1-ch10-w01",
+      "polish": "zarządzanie",
+      "english": "management; managing",
+      "pronunciation": "za-zhown-DZA-nyeh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Mam doświadczenie w zarządzaniu projektami.",
+      "exampleEnglish": "I have experience in managing projects."
+    },
+    {
+      "id": "b1-ch10-w02",
+      "polish": "planowanie",
+      "english": "planning",
+      "pronunciation": "pla-no-VA-nyeh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Planowanie jest kluczem do sukcesu.",
+      "exampleEnglish": "Planning is the key to success."
+    },
+    {
+      "id": "b1-ch10-w03",
+      "polish": "organizowanie",
+      "english": "organising",
+      "pronunciation": "or-ga-ni-ZO-va-nyeh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Organizowanie spotkań to moja rola.",
+      "exampleEnglish": "Organising meetings is my role."
+    },
+    {
+      "id": "b1-ch10-w04",
+      "polish": "prowadzenie",
+      "english": "leading; running; conducting",
+      "pronunciation": "pro-va-DZEH-nyeh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Prowadzenie samochodu jest łatwe.",
+      "exampleEnglish": "Driving a car is easy."
+    },
+    {
+      "id": "b1-ch10-w05",
+      "polish": "rozwiązywanie",
+      "english": "solving; resolving",
+      "pronunciation": "roz-vyown-ZI-va-nyeh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Rozwiązywanie problemów to moja specjalność.",
+      "exampleEnglish": "Solving problems is my specialty."
+    },
+    {
+      "id": "b1-ch10-w06",
+      "polish": "negocjowanie",
+      "english": "negotiating",
+      "pronunciation": "ne-go-tsyo-VA-nyeh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Negocjowanie umów wymaga doświadczenia.",
+      "exampleEnglish": "Negotiating contracts requires experience."
+    },
+    {
+      "id": "b1-ch10-w07",
+      "polish": "komunikowanie się",
+      "english": "communicating",
+      "pronunciation": "ko-moo-ni-KO-va-nyeh syeh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Komunikowanie się po angielsku jest ważne w pracy.",
+      "exampleEnglish": "Communicating in English is important at work."
+    },
+    {
+      "id": "b1-ch10-w08",
+      "polish": "podjęcie",
+      "english": "undertaking; taking (a decision)",
+      "pronunciation": "pod-YEN-cheh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Po podjęciu decyzji, nie żałowałem.",
+      "exampleEnglish": "After making the decision, I didn't regret it."
+    },
+    {
+      "id": "b1-ch10-w09",
+      "polish": "przeprowadzenie",
+      "english": "carrying out; conducting (completed)",
+      "pronunciation": "psheh-pro-va-DZEH-nyeh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Po przeprowadzeniu badań, opublikujemy wyniki.",
+      "exampleEnglish": "After conducting the research, we will publish the results."
+    },
+    {
+      "id": "b1-ch10-w10",
+      "polish": "wdrożenie",
+      "english": "implementation; rollout",
+      "pronunciation": "vdro-ZHEH-nyeh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Wdrożenie nowego systemu zajęło trzy miesiące.",
+      "exampleEnglish": "The implementation of the new system took three months."
+    },
+    {
+      "id": "b1-ch10-w11",
+      "polish": "szkolenie",
+      "english": "training; course",
+      "pronunciation": "shko-LEH-nyeh",
+      "gender": "n",
+      "category": "education",
+      "examplePolish": "Biorę udział w szkoleniu z marketingu.",
+      "exampleEnglish": "I'm taking part in a marketing training."
+    },
+    {
+      "id": "b1-ch10-w12",
+      "polish": "doskonalenie",
+      "english": "improvement; perfecting",
+      "pronunciation": "dos-ko-na-LEH-nyeh",
+      "gender": "n",
+      "category": "education",
+      "examplePolish": "Doskonalenie się w języku wymaga czasu.",
+      "exampleEnglish": "Improving oneself in a language takes time."
+    },
+    {
+      "id": "b1-ch10-w13",
+      "polish": "przygotowanie",
+      "english": "preparation",
+      "pronunciation": "pshi-go-to-VA-nyeh",
+      "gender": "n",
+      "category": "general",
+      "examplePolish": "Przygotowanie do egzaminu trwało cały tydzień.",
+      "exampleEnglish": "Preparation for the exam lasted a whole week."
+    },
+    {
+      "id": "b1-ch10-w14",
+      "polish": "osiągnięcie",
+      "english": "achievement; accomplishment",
+      "pronunciation": "o-shyown-GNYEH-cheh",
+      "gender": "n",
+      "category": "general",
+      "examplePolish": "To wielkie osiągnięcie nauki.",
+      "exampleEnglish": "This is a great achievement of science."
+    },
+    {
+      "id": "b1-ch10-w15",
+      "polish": "zakończenie",
+      "english": "ending; completion",
+      "pronunciation": "za-kon-CHEH-nyeh",
+      "gender": "n",
+      "category": "general",
+      "examplePolish": "Po zakończeniu projektu, świętowaliśmy.",
+      "exampleEnglish": "After completing the project, we celebrated."
+    },
+    {
+      "id": "b1-ch10-w16",
+      "polish": "rozwijanie",
+      "english": "developing; development (process)",
+      "pronunciation": "roz-vi-YA-nyeh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Rozwijanie umiejętności jest ciągłym procesem.",
+      "exampleEnglish": "Developing skills is an ongoing process."
+    },
+    {
+      "id": "b1-ch10-w17",
+      "polish": "wykonanie",
+      "english": "execution; performance (of a task)",
+      "pronunciation": "vy-ko-NA-nyeh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Wykonanie zadania zajęło godzinę.",
+      "exampleEnglish": "Executing the task took an hour."
+    },
+    {
+      "id": "b1-ch10-w18",
+      "polish": "zatrudnienie",
+      "english": "employment; hiring",
+      "pronunciation": "za-trud-NYEH-nyeh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Zatrudnienie nowego pracownika jest procesem.",
+      "exampleEnglish": "Hiring a new employee is a process."
+    },
+    {
+      "id": "b1-ch10-w19",
+      "polish": "ustalenie",
+      "english": "determining; establishing; agreeing",
+      "pronunciation": "oos-ta-LEH-nyeh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Po ustaleniu szczegółów, podpiszemy umowę.",
+      "exampleEnglish": "After establishing the details, we will sign the contract."
+    },
+    {
+      "id": "b1-ch10-w20",
+      "polish": "przedstawienie",
+      "english": "presentation; introduction (of sb/sth)",
+      "pronunciation": "pshets-ta-VYEH-nyeh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Przedstawienie wyników zajęło 20 minut.",
+      "exampleEnglish": "Presenting the results took 20 minutes."
+    },
+    {
+      "id": "b1-ch10-w21",
+      "polish": "kształcenie",
+      "english": "education; educating; training",
+      "pronunciation": "kshtal-TSYEH-nyeh",
+      "gender": "n",
+      "category": "education",
+      "examplePolish": "Kształcenie ustawiczne jest ważne w XXI wieku.",
+      "exampleEnglish": "Continuous education is important in the 21st century."
+    },
+    {
+      "id": "b1-ch10-w22",
+      "polish": "badanie",
+      "english": "research; examination; investigation",
+      "pronunciation": "ba-DA-nyeh",
+      "gender": "n",
+      "category": "academic",
+      "examplePolish": "Badanie rynku wykazało zainteresowanie produktem.",
+      "exampleEnglish": "Market research showed interest in the product."
+    },
+    {
+      "id": "b1-ch10-w23",
+      "polish": "przetwarzanie",
+      "english": "processing",
+      "pronunciation": "psheh-tva-ZHA-nyeh",
+      "gender": "n",
+      "category": "technology",
+      "examplePolish": "Przetwarzanie danych odbywa się w chmurze.",
+      "exampleEnglish": "Data processing takes place in the cloud."
+    },
+    {
+      "id": "b1-ch10-w24",
+      "polish": "zatwierdzenie",
+      "english": "approval; ratification",
+      "pronunciation": "za-tfyer-DZEH-nyeh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Po zatwierdzeniu budżetu, możemy zacząć.",
+      "exampleEnglish": "After the budget is approved, we can start."
+    },
+    {
+      "id": "b1-ch10-w25",
+      "polish": "finansowanie",
+      "english": "financing; funding",
+      "pronunciation": "fi-nan-so-VA-nyeh",
+      "gender": "n",
+      "category": "professional",
+      "examplePolish": "Finansowanie projektu pochodzi z UE.",
+      "exampleEnglish": "The project's funding comes from the EU."
+    }
+  ]
+}

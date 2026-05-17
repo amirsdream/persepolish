@@ -1,0 +1,75 @@
+{
+  "id": "b1-ch10-l04-gerunds-context",
+  "chapter": 10,
+  "lessonOrder": 4,
+  "level": "b1",
+  "title": "Gerunds in Formal & Semi-Formal Texts",
+  "grammarPoint": "Gerunds in instructions, applications, and academic writing",
+  "explanation": {
+    "text": "Gerunds appear frequently in Polish formal and semi-formal language. Mastering them helps you read documents, write applications, and understand official instructions.\n\n1. INSTRUCTIONS & PROCEDURES\nGerunds make instructions more concise:\n• Przed wysłaniem formularza sprawdź wszystkie pola. (Before sending the form, check all fields.)\n• Po zalogowaniu się kliknij 'Ustawienia'. (After logging in, click 'Settings'.)\n\n2. JOB APPLICATIONS & FORMAL LETTERS\n• Mam doświadczenie w zarządzaniu projektami. (I have experience in managing projects.)\n• Jestem odpowiedzialny za organizowanie spotkań. (I am responsible for organising meetings.)\n• Interesuję się programowaniem. (I am interested in programming.)\n\n3. ACADEMIC & PROFESSIONAL WRITING\nNominalisation (replacing verb clauses with gerund phrases) is standard:\n• Zamiast: 'gdy piszemy raport' → formal: 'przy pisaniu raportu'\n• Zamiast: 'kiedy zdecydujemy' → formal: 'po podjęciu decyzji'\n\n4. COMMON PREPOSITION + GERUND PATTERNS\n• w trakcie + genitive: w trakcie negocjacji / w trakcie omawiania\n• podczas + genitive: podczas spotkania / podczas czytania\n• dzięki + dative: dzięki uczeniu się / dzięki ćwiczeniu\n• bez + genitive: bez zatrzymywania się / bez pisania",
+    "notes": [
+      "Formal writing prefers gerund phrases over subordinate clauses",
+      "w trakcie / podczas + genitive: during (an activity)",
+      "Mam doświadczenie w + locative of gerund: experience in doing X",
+      "Interesuję się + instrumental: interested in X (gerund or noun)"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch10-l04-ex01",
+      "type": "multiple_choice",
+      "prompt": "Formal email: 'Mam doświadczenie w ___ (managing) zespołem.' Which form?",
+      "options": [
+        "zarządzaniu",
+        "zarządzanie",
+        "zarządzania",
+        "zarządzać"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mam doświadczenie w + LOCATIVE. Zarządzać → zarządzanie → zarządzaniu (locative). 'Mam doświadczenie w zarządzaniu zespołem' = I have experience in managing a team."
+    },
+    {
+      "id": "b1-ch10-l04-ex02",
+      "type": "fill_blank",
+      "prompt": "W trakcie ___ (the meeting), nie wolno używać telefonów.",
+      "answer": "spotkania",
+      "acceptableAnswers": ["spotkania"],
+      "explanation": "W trakcie + genitive. Spotkanie (neuter n.) → spotkania (genitive). 'W trakcie spotkania' = during the meeting. Note: spotkanie here is used as a regular noun, not strictly a gerund, but the pattern is the same."
+    },
+    {
+      "id": "b1-ch10-l04-ex03",
+      "type": "multiple_choice",
+      "prompt": "Which instruction uses the gerund pattern correctly?",
+      "options": [
+        "Po pobraniu aplikacji, zaloguj się.",
+        "Po pobieraniu aplikacji, zaloguj się.",
+        "Przed pobranie aplikacji, zaloguj się.",
+        "W pobieraniu aplikacji, zaloguj się."
+      ],
+      "correctIndex": 0,
+      "explanation": "Po + locative of PERFECTIVE gerund: pobraniu (from pobrać, perfective). 'Po pobraniu aplikacji, zaloguj się' = After downloading the app (completely), log in. Pobieraniu would be from imperfective pobierać, implying an unfinished download."
+    },
+    {
+      "id": "b1-ch10-l04-ex04",
+      "type": "fill_blank",
+      "prompt": "Jestem odpowiedzialny za ___ (organising) konferencji w naszej firmie.",
+      "answer": "organizowanie",
+      "acceptableAnswers": ["organizowanie", "organizację"],
+      "explanation": "Odpowiedzialny za + accusative. Organizować → organizowanie (accusative = same as nominative for neuter). 'Jestem odpowiedzialny za organizowanie konferencji' = I am responsible for organising conferences."
+    },
+    {
+      "id": "b1-ch10-l04-ex05",
+      "type": "sentence_builder",
+      "prompt": "Build: 'During the presentation, I was taking notes.'",
+      "wordBank": ["Podczas", "prezentacji", "robiłem", "notatki", "po", "spotkania"],
+      "correctSequences": [
+        ["Podczas", "prezentacji", "robiłem", "notatki"]
+      ],
+      "explanation": "Podczas prezentacji, robiłem notatki. Podczas + genitive: prezentacji (genitive of prezentacja). Robiłem notatki = I was taking notes (imperfective past, ongoing during that time)."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 9,
+  "tags": ["gerunds", "formal_language", "instructions", "applications", "prepositions"],
+  "prerequisites": ["b1-ch10-l03-gerunds-aspect-distinction"]
+}

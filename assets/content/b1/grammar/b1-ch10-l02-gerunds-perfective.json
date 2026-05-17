@@ -1,0 +1,80 @@
+{
+  "id": "b1-ch10-l02-gerunds-perfective",
+  "chapter": 10,
+  "lessonOrder": 2,
+  "level": "b1",
+  "title": "Gerunds: Perfective — Sequential & Completed Actions",
+  "grammarPoint": "Perfective gerunds with 'po' + locative for sequential actions",
+  "explanation": {
+    "text": "A perfective gerund (imię czynności od dokonanego) refers to a single, completed action. Its most important use in Polish is after the preposition 'po' (after):\n\npo + LOCATIVE of PERFECTIVE GERUND\n• Po przeczytaniu książki, poszłam spać. (After reading the book [through], I went to bed.)\n• Po napisaniu listu, wysłałem go. (After writing the letter [completely], I sent it.)\n• Po zrobieniu zakupów, wróciłem do domu. (After doing the shopping, I went home.)\n\nForming the locative: perfective gerund + -u (singular neuter):\n• przeczytanie → przeczytaniu\n• napisanie → napisaniu\n• zrobienie → zrobieniu\n• przyjście → przyjściu\n• wyjście → wyjściu\n\nComparison:\n• Lubię czytanie. (I like reading — imperfective, general habit)\n• Po przeczytaniu artykułu, zrozumiałem temat. (After reading the article through — perfective, sequential)",
+    "notes": [
+      "po + locative of PERFECTIVE gerund = 'after completing X'",
+      "Never 'po czytaniu' (imperfective) for completed sequence — sounds unnatural",
+      "The perfective gerund implies the action is fully done before the next action",
+      "Locative singular of neuter nouns ends in -u: przeczytanie → przeczytaniu"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "b1-ch10-l02-ex01",
+      "type": "multiple_choice",
+      "prompt": "Complete: 'Po ___ (finishing) kolację, obejrzeliśmy film.'",
+      "options": [
+        "zjedzeniu",
+        "jedzeniu",
+        "zjedzenie",
+        "jedzenie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Po requires the locative of a PERFECTIVE gerund. Zjeść (perfective) → zjedzenie → zjedzeniu (locative). 'Po zjedzeniu kolacji' = after eating dinner (completely)."
+    },
+    {
+      "id": "b1-ch10-l02-ex02",
+      "type": "fill_blank",
+      "prompt": "Po ___ (writing) e-maila, zamknęłam laptop.",
+      "answer": "napisaniu",
+      "acceptableAnswers": ["napisaniu"],
+      "explanation": "Po + locative of perfective gerund. Napisać (perfective) → napisanie → napisaniu (locative). 'Po napisaniu e-maila, zamknęłam laptopa' = After writing the email (fully), I closed the laptop."
+    },
+    {
+      "id": "b1-ch10-l02-ex03",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly expresses 'After arriving, he called his mother'?",
+      "options": [
+        "Po przyjeździe, zadzwonił do mamy.",
+        "Po przyjeżdżaniu, zadzwonił do mamy.",
+        "Po przyjeździe, dzwonił do mamy.",
+        "Po przyjechaniu, zadzwonił do mamy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Przyjazd (arrival, from perfective przyjechać) → po przyjeździe (locative). 'Po przyjeździe, zadzwonił do mamy' = After arriving (completely), he called his mom. Note: Przyjechanie is also used but przyjazd is more natural here."
+    },
+    {
+      "id": "b1-ch10-l02-ex04",
+      "type": "sentence_builder",
+      "prompt": "Build: 'After doing homework, I will go out.'",
+      "wordBank": ["Po", "zrobieniu", "lekcji", "wyjdę", "robię", "lekcje"],
+      "correctSequences": [
+        ["Po", "zrobieniu", "lekcji", "wyjdę"]
+      ],
+      "explanation": "Po zrobieniu lekcji, wyjdę. Zrobić (perfective) → zrobienie → zrobieniu (locative after 'po'). Lekcji is genitive (object of the gerund). Wyjdę is first person singular future of wyjść."
+    },
+    {
+      "id": "b1-ch10-l02-ex05",
+      "type": "multiple_choice",
+      "prompt": "What is the difference: 'Lubię czytanie' vs 'Po przeczytaniu ksiązki'?",
+      "options": [
+        "Czytanie = general activity (imperfective); po przeczytaniu = after a completed single reading (perfective)",
+        "Czytanie = past habit; po przeczytaniu = future habit",
+        "Czytanie = formal; po przeczytaniu = informal",
+        "There is no meaningful difference"
+      ],
+      "correctIndex": 0,
+      "explanation": "Czytanie (imperfective) expresses reading as a general, habitual, ongoing activity. Po przeczytaniu (perfective locative) expresses the sequential completion of one specific reading act before another action begins."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 8,
+  "tags": ["gerunds", "perfective", "po_preposition", "locative", "sequential_actions"],
+  "prerequisites": ["b1-ch10-l01-gerunds-imperfective", "b1-ch09-l03-verbal-nouns-aspect"]
+}
