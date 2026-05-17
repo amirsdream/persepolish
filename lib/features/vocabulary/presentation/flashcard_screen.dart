@@ -7,6 +7,11 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../core/l10n/app_localizations.dart';
 import '../../../core/providers/locale_provider.dart';
 import '../../../core/theme/design_tokens.dart';
+import '../../gamification/data/gamification_repository.dart';
+import '../../gamification/domain/use_cases/award_xp_use_case.dart';
+import '../../gamification/presentation/gamification_provider.dart';
+import '../../gamification/presentation/star_burst_animation.dart';
+import '../../levels/presentation/levels_provider.dart';
 import '../domain/models/vocabulary_set.dart';
 
 // ── Provider ──────────────────────────────────────────────────────────────────
@@ -38,6 +43,8 @@ class _FlashcardScreenState extends ConsumerState<FlashcardScreen>
   int _known = 0;
   bool _showingBack = false;
   bool _complete = false;
+  bool _progressSaved = false;
+  int _stars = 0;
 
   // ── Card-entrance animation ──────────────────────────────────────────────────
   late final AnimationController _entranceCtrl;
@@ -80,17 +87,57 @@ class _FlashcardScreenState extends ConsumerState<FlashcardScreen>
 
   void _advance(VocabularySet set, {required bool known}) {
     HapticFeedback.mediumImpact();
+    final isLastCard = _current + 1 >= set.cards.length;
     setState(() {
       if (known) _known++;
       _showingBack = false;
       _dragX = 0;
-      if (_current + 1 >= set.cards.length) {
+      if (isLastCard) {
         _complete = true;
       } else {
         _current++;
         _entranceCtrl.forward(from: 0);
       }
     });
+    if (isLastCard) {
+      _saveVocabProgress(set);
+    }
+  }
+
+  Future<void> _saveVocabProgress(VocabularySet set) async {
+    if (_progressSaved) return;
+    _progressSaved = true;
+
+    final total = set.cards.length;
+    final accuracy = total > 0 ? _known / total : 0.0;
+    final stars = accuracy >= 0.8 ? 3 : accuracy >= 0.6 ? 2 : 1;
+    const xp = 30;
+
+    if (mounted) setState(() => _stars = stars);
+
+    try {
+      final repo = ref.read(gamificationRepositoryProvider);
+      final awardUseCase = AwardXpUseCase(repo);
+
+      await repo.updateUnitProgress(
+        unitId: widget.setId,
+        unitType: 'vocabulary',
+        status: 'complete',
+        stars: stars,
+        accuracy: accuracy,
+        xpEarned: xp,
+      );
+
+      await awardUseCase.execute(xpToAdd: xp);
+
+      if (mounted) {
+        ref.invalidate(levelsProvider);
+        ref.invalidate(learnerProgressProvider);
+      }
+    } catch (e) {
+      // Progress save failure is non-fatal — user still sees completion view
+      debugPrint('Vocab progress save error: $e');
+    }
   }
 
   // Overlay that turns green/red as the user drags while showing back face.
@@ -163,11 +210,14 @@ class _FlashcardScreenState extends ConsumerState<FlashcardScreen>
             return _CompleteView(
               known: _known,
               total: set.cards.length,
+              stars: _stars,
               onRestart: () => setState(() {
                 _current = 0;
                 _known = 0;
                 _showingBack = false;
                 _complete = false;
+                _progressSaved = false;
+                _stars = 0;
                 _dragX = 0;
                 _entranceCtrl.forward(from: 0);
               }),
@@ -963,10 +1013,12 @@ class _CompleteView extends StatefulWidget {
   const _CompleteView({
     required this.known,
     required this.total,
+    required this.stars,
     required this.onRestart,
   });
   final int known;
   final int total;
+  final int stars;
   final VoidCallback onRestart;
 
   @override
@@ -1015,25 +1067,10 @@ class _CompleteViewState extends State<_CompleteView>
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              // Animated star burst
+              // Star rating
               ScaleTransition(
                 scale: _scaleAnim,
-                child: Container(
-                  width: 110,
-                  height: 110,
-                  decoration: BoxDecoration(
-                    shape: BoxShape.circle,
-                    gradient: RadialGradient(colors: [
-                      AppColors.starGold.withValues(alpha: 0.25),
-                      AppColors.starGold.withValues(alpha: 0.05),
-                    ]),
-                    border: Border.all(
-                        color: AppColors.starGold.withValues(alpha: 0.4),
-                        width: 2),
-                  ),
-                  child: const Icon(Icons.star_rounded,
-                      size: 62, color: AppColors.starGold),
-                ),
+                child: StarBurstAnimation(starCount: widget.stars),
               ),
               const SizedBox(height: Spacing.xl),
               Text(
@@ -1061,6 +1098,33 @@ class _CompleteViewState extends State<_CompleteView>
                         color: AppColors.correctGreen,
                         fontWeight: FontWeight.w700,
                       ),
+                ),
+              ),
+              const SizedBox(height: Spacing.sm),
+              // XP chip
+              Container(
+                padding: const EdgeInsets.symmetric(
+                    horizontal: Spacing.lg, vertical: Spacing.sm),
+                decoration: BoxDecoration(
+                  color: AppColors.xpColor.withValues(alpha: 0.12),
+                  borderRadius: BorderRadius.circular(Radii.xl),
+                  border: Border.all(
+                      color: AppColors.xpColor.withValues(alpha: 0.4)),
+                ),
+                child: Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    const Icon(Icons.bolt,
+                        color: AppColors.xpColor, size: 18),
+                    const SizedBox(width: 4),
+                    Text(
+                      '+30 XP',
+                      style: Theme.of(context).textTheme.titleMedium?.copyWith(
+                            color: AppColors.xpColor,
+                            fontWeight: FontWeight.w700,
+                          ),
+                    ),
+                  ],
                 ),
               ),
               const SizedBox(height: Spacing.xxl),

@@ -9,6 +9,7 @@ import '../../gamification/data/gamification_repository.dart';
 import '../../gamification/domain/use_cases/award_xp_use_case.dart';
 import '../../gamification/presentation/gamification_provider.dart';
 import '../../gamification/presentation/star_burst_animation.dart';
+import '../../levels/presentation/levels_provider.dart';
 
 class CompletionScreen extends ConsumerStatefulWidget {
   const CompletionScreen({
@@ -57,8 +58,9 @@ class _CompletionScreenState extends ConsumerState<CompletionScreen> {
 
     final result = await awardUseCase.execute(xpToAdd: widget.xpEarned);
 
-    // Refresh gamification header
+    // Refresh gamification header and curriculum progress
     ref.invalidate(learnerProgressProvider);
+    ref.invalidate(levelsProvider);
 
     if (mounted && result.milestoneReached != null) {
       await Future.delayed(AppDurations.starBurst);
