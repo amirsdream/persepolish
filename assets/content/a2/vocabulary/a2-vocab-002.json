@@ -3,139 +3,21 @@
   "level": "a2",
   "order": 2,
   "title": "Shopping & Money",
+  "title_fa": "خرید و پول",
   "description": "Polish vocabulary for shopping, prices, and money.",
+  "description_fa": "واژگان لهستانی برای خرید، قیمت‌ها و پول.",
   "cards": [
-    {
-      "id": "a2v002-01",
-      "polish": "sklep",
-      "english": "shop / store",
-      "pronunciation": "sklep",
-      "category": "noun",
-      "example_polish": "Sklep jest zamknięty w niedzielę.",
-      "example_english": "The shop is closed on Sunday.",
-      "gender": "m",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v002-02",
-      "polish": "cena",
-      "english": "price",
-      "pronunciation": "TSE-na",
-      "category": "noun",
-      "example_polish": "Jaka jest cena tego swetra?",
-      "example_english": "What is the price of this sweater?",
-      "gender": "f",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v002-03",
-      "polish": "zapłacić",
-      "english": "to pay",
-      "pronunciation": "za-PWA-chich",
-      "category": "verb",
-      "example_polish": "Chcę zapłacić kartą.",
-      "example_english": "I want to pay by card.",
-      "gender": null,
-      "audio_asset": null
-    },
-    {
-      "id": "a2v002-04",
-      "polish": "karta kredytowa",
-      "english": "credit card",
-      "pronunciation": "KAR-ta kre-di-TO-va",
-      "category": "noun",
-      "example_polish": "Czy można zapłacić kartą kredytową?",
-      "example_english": "Can I pay by credit card?",
-      "gender": "f",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v002-05",
-      "polish": "rachunek",
-      "english": "bill / receipt / account",
-      "pronunciation": "ra-HU-nek",
-      "category": "noun",
-      "example_polish": "Proszę o rachunek.",
-      "example_english": "Could I have the bill, please?",
-      "gender": "m",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v002-06",
-      "polish": "rabat / zniżka",
-      "english": "discount",
-      "pronunciation": "RA-bat / ZNEESH-ka",
-      "category": "noun",
-      "example_polish": "Czy jest jakaś zniżka dla studentów?",
-      "example_english": "Is there any discount for students?",
-      "gender": "m",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v002-07",
-      "polish": "kasa",
-      "english": "checkout / cash register / cashier",
-      "pronunciation": "KA-sa",
-      "category": "noun",
-      "example_polish": "Proszę zapłacić przy kasie.",
-      "example_english": "Please pay at the checkout.",
-      "gender": "f",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v002-08",
-      "polish": "złoty",
-      "english": "zloty (Polish currency)",
-      "pronunciation": "ZWO-ti",
-      "category": "noun",
-      "example_polish": "To kosztuje dwadzieścia złotych.",
-      "example_english": "This costs twenty zloty.",
-      "gender": "m",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v002-09",
-      "polish": "grosz",
-      "english": "grosz (Polish cent, 1/100 of a zloty)",
-      "pronunciation": "grosh",
-      "category": "noun",
-      "example_polish": "Reszta to pięćdziesiąt groszy.",
-      "example_english": "The change is fifty grosze.",
-      "gender": "m",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v002-10",
-      "polish": "drogie / tanie",
-      "english": "expensive / cheap",
-      "pronunciation": "DRO-gye / TA-nye",
-      "category": "noun",
-      "example_polish": "To jest za drogie. Szukam czegoś tańszego.",
-      "example_english": "This is too expensive. I'm looking for something cheaper.",
-      "gender": null,
-      "audio_asset": null
-    },
-    {
-      "id": "a2v002-11",
-      "polish": "rozmiar",
-      "english": "size",
-      "pronunciation": "ROZ-myar",
-      "category": "noun",
-      "example_polish": "Jaki rozmiar pan nosi?",
-      "example_english": "What size do you wear?",
-      "gender": "m",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v002-12",
-      "polish": "gotówka",
-      "english": "cash",
-      "pronunciation": "go-TOOV-ka",
-      "category": "noun",
-      "example_polish": "Płacę gotówką.",
-      "example_english": "I'm paying with cash.",
-      "gender": "f",
-      "audio_asset": null
-    }
+    { "id": "a2v002-01", "polish": "sklep", "english": "shop / store", "persian": "مغازه / فروشگاه", "pronunciation": "sklep", "category": "noun", "example_polish": "Sklep jest zamknięty w niedzielę.", "example_english": "The shop is closed on Sunday.", "example_persian": "مغازه یکشنبه‌ها بسته است.", "gender": "m", "audio_asset": null },
+    { "id": "a2v002-02", "polish": "cena", "english": "price", "persian": "قیمت", "pronunciation": "TSE-na", "category": "noun", "example_polish": "Jaka jest cena tego swetra?", "example_english": "What is the price of this sweater?", "example_persian": "قیمت این پلیور چقدر است؟", "gender": "f", "audio_asset": null },
+    { "id": "a2v002-03", "polish": "zapłacić", "english": "to pay", "persian": "پرداخت کردن", "pronunciation": "za-PWA-chich", "category": "verb", "example_polish": "Chcę zapłacić kartą.", "example_english": "I want to pay by card.", "example_persian": "می‌خواهم با کارت پرداخت کنم.", "gender": null, "audio_asset": null },
+    { "id": "a2v002-04", "polish": "karta kredytowa", "english": "credit card", "persian": "کارت اعتباری", "pronunciation": "KAR-ta kre-di-TO-va", "category": "noun", "example_polish": "Czy można zapłacić kartą kredytową?", "example_english": "Can I pay by credit card?", "example_persian": "می‌توانم با کارت اعتباری پرداخت کنم؟", "gender": "f", "audio_asset": null },
+    { "id": "a2v002-05", "polish": "rachunek", "english": "bill / receipt / account", "persian": "صورتحساب / فاکتور", "pronunciation": "ra-HU-nek", "category": "noun", "example_polish": "Proszę o rachunek.", "example_english": "Could I have the bill, please?", "example_persian": "لطفاً صورتحساب بدهید.", "gender": "m", "audio_asset": null },
+    { "id": "a2v002-06", "polish": "rabat / zniżka", "english": "discount", "persian": "تخفیف", "pronunciation": "RA-bat / ZNEESH-ka", "category": "noun", "example_polish": "Czy jest jakaś zniżka dla studentów?", "example_english": "Is there any discount for students?", "example_persian": "آیا تخفیفی برای دانشجویان وجود دارد؟", "gender": "m", "audio_asset": null },
+    { "id": "a2v002-07", "polish": "kasa", "english": "checkout / cash register / cashier", "persian": "صندوق / گیشه پرداخت", "pronunciation": "KA-sa", "category": "noun", "example_polish": "Proszę zapłacić przy kasie.", "example_english": "Please pay at the checkout.", "example_persian": "لطفاً در صندوق پرداخت کنید.", "gender": "f", "audio_asset": null },
+    { "id": "a2v002-08", "polish": "złoty", "english": "zloty (Polish currency)", "persian": "زلوتی (واحد پول لهستان)", "pronunciation": "ZWO-ti", "category": "noun", "example_polish": "To kosztuje dwadzieścia złotych.", "example_english": "This costs twenty zloty.", "example_persian": "این بیست زلوتی قیمت دارد.", "gender": "m", "audio_asset": null },
+    { "id": "a2v002-09", "polish": "grosz", "english": "grosz (Polish cent, 1/100 of a zloty)", "persian": "گروش (سنت لهستان، یک‌صدم زلوتی)", "pronunciation": "grosh", "category": "noun", "example_polish": "Reszta to pięćdziesiąt groszy.", "example_english": "The change is fifty grosze.", "example_persian": "باقی‌مانده پنجاه گروش است.", "gender": "m", "audio_asset": null },
+    { "id": "a2v002-10", "polish": "drogie / tanie", "english": "expensive / cheap", "persian": "گران / ارزان", "pronunciation": "DRO-gye / TA-nye", "category": "noun", "example_polish": "To jest za drogie. Szukam czegoś tańszego.", "example_english": "This is too expensive. I'm looking for something cheaper.", "example_persian": "این خیلی گران است. دنبال چیز ارزان‌تری هستم.", "gender": null, "audio_asset": null },
+    { "id": "a2v002-11", "polish": "rozmiar", "english": "size", "persian": "سایز / اندازه", "pronunciation": "ROZ-myar", "category": "noun", "example_polish": "Jaki rozmiar pan nosi?", "example_english": "What size do you wear?", "example_persian": "چه سایزی می‌پوشید؟", "gender": "m", "audio_asset": null },
+    { "id": "a2v002-12", "polish": "gotówka", "english": "cash", "persian": "پول نقد", "pronunciation": "go-TOOV-ka", "category": "noun", "example_polish": "Płacę gotówką.", "example_english": "I'm paying with cash.", "example_persian": "نقد پرداخت می‌کنم.", "gender": "f", "audio_asset": null }
   ]
 }

@@ -3,139 +3,21 @@
   "level": "a2",
   "order": 1,
   "title": "Travel & Transport",
+  "title_fa": "سفر و حمل‌ونقل",
   "description": "Polish vocabulary for travelling and getting around.",
+  "description_fa": "واژگان لهستانی برای سفر و جابه‌جایی.",
   "cards": [
-    {
-      "id": "a2v001-01",
-      "polish": "samolot",
-      "english": "aeroplane / airplane",
-      "pronunciation": "sa-MO-lot",
-      "category": "noun",
-      "example_polish": "Lecimy samolotem do Londynu.",
-      "example_english": "We are flying to London by plane.",
-      "gender": "m",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v001-02",
-      "polish": "pociąg",
-      "english": "train",
-      "pronunciation": "PO-chonk",
-      "category": "noun",
-      "example_polish": "Pociąg odjeżdża o dziesiątej.",
-      "example_english": "The train departs at ten.",
-      "gender": "m",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v001-03",
-      "polish": "autobus",
-      "english": "bus",
-      "pronunciation": "ow-TO-bus",
-      "category": "noun",
-      "example_polish": "Jadę autobusem do centrum.",
-      "example_english": "I am going by bus to the centre.",
-      "gender": "m",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v001-04",
-      "polish": "bilet",
-      "english": "ticket",
-      "pronunciation": "BI-let",
-      "category": "noun",
-      "example_polish": "Proszę jeden bilet w jedną stronę.",
-      "example_english": "One single ticket, please.",
-      "gender": "m",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v001-05",
-      "polish": "lotnisko",
-      "english": "airport",
-      "pronunciation": "lot-NIS-ko",
-      "category": "noun",
-      "example_polish": "Lotnisko jest daleko od centrum.",
-      "example_english": "The airport is far from the centre.",
-      "gender": "n",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v001-06",
-      "polish": "dworzec",
-      "english": "station (train/bus)",
-      "pronunciation": "DVO-zhets",
-      "category": "noun",
-      "example_polish": "Dworzec Centralny jest w centrum Warszawy.",
-      "example_english": "Central Station is in the centre of Warsaw.",
-      "gender": "m",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v001-07",
-      "polish": "paszport",
-      "english": "passport",
-      "pronunciation": "PASH-port",
-      "category": "noun",
-      "example_polish": "Proszę pokazać paszport.",
-      "example_english": "Please show your passport.",
-      "gender": "m",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v001-08",
-      "polish": "walizka",
-      "english": "suitcase",
-      "pronunciation": "va-LIZ-ka",
-      "category": "noun",
-      "example_polish": "Moja walizka jest za ciężka.",
-      "example_english": "My suitcase is too heavy.",
-      "gender": "f",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v001-09",
-      "polish": "podróż",
-      "english": "journey / trip / travel",
-      "pronunciation": "PO-droosh",
-      "category": "noun",
-      "example_polish": "Życzę miłej podróży!",
-      "example_english": "Have a pleasant journey!",
-      "gender": "f",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v001-10",
-      "polish": "hotel",
-      "english": "hotel",
-      "pronunciation": "HO-tel",
-      "category": "noun",
-      "example_polish": "Mieszkamy w hotelu przy rynku.",
-      "example_english": "We are staying in a hotel near the market square.",
-      "gender": "m",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v001-11",
-      "polish": "taksówka",
-      "english": "taxi",
-      "pronunciation": "tak-SOOV-ka",
-      "category": "noun",
-      "example_polish": "Zamów taksówkę na siódmą.",
-      "example_english": "Order a taxi for seven.",
-      "gender": "f",
-      "audio_asset": null
-    },
-    {
-      "id": "a2v001-12",
-      "polish": "odlot / przylot",
-      "english": "departure / arrival (by air)",
-      "pronunciation": "OD-lot / PSHI-lot",
-      "category": "noun",
-      "example_polish": "Odlot jest o piętnastej.",
-      "example_english": "The departure is at fifteen hundred (3 pm).",
-      "gender": "m",
-      "audio_asset": null
-    }
+    { "id": "a2v001-01", "polish": "samolot", "english": "aeroplane / airplane", "persian": "هواپیما", "pronunciation": "sa-MO-lot", "category": "noun", "example_polish": "Lecimy samolotem do Londynu.", "example_english": "We are flying to London by plane.", "example_persian": "با هواپیما به لندن می‌رویم.", "gender": "m", "audio_asset": null },
+    { "id": "a2v001-02", "polish": "pociąg", "english": "train", "persian": "قطار", "pronunciation": "PO-chonk", "category": "noun", "example_polish": "Pociąg odjeżdża o dziesiątej.", "example_english": "The train departs at ten.", "example_persian": "قطار ساعت ده حرکت می‌کند.", "gender": "m", "audio_asset": null },
+    { "id": "a2v001-03", "polish": "autobus", "english": "bus", "persian": "اتوبوس", "pronunciation": "ow-TO-bus", "category": "noun", "example_polish": "Jadę autobusem do centrum.", "example_english": "I am going by bus to the centre.", "example_persian": "با اتوبوس به مرکز می‌روم.", "gender": "m", "audio_asset": null },
+    { "id": "a2v001-04", "polish": "bilet", "english": "ticket", "persian": "بلیت", "pronunciation": "BI-let", "category": "noun", "example_polish": "Proszę jeden bilet w jedną stronę.", "example_english": "One single ticket, please.", "example_persian": "یک بلیت یک‌طرفه لطفاً.", "gender": "m", "audio_asset": null },
+    { "id": "a2v001-05", "polish": "lotnisko", "english": "airport", "persian": "فرودگاه", "pronunciation": "lot-NIS-ko", "category": "noun", "example_polish": "Lotnisko jest daleko od centrum.", "example_english": "The airport is far from the centre.", "example_persian": "فرودگاه از مرکز دور است.", "gender": "n", "audio_asset": null },
+    { "id": "a2v001-06", "polish": "dworzec", "english": "station (train/bus)", "persian": "ایستگاه (قطار/اتوبوس)", "pronunciation": "DVO-zhets", "category": "noun", "example_polish": "Dworzec Centralny jest w centrum Warszawy.", "example_english": "Central Station is in the centre of Warsaw.", "example_persian": "ایستگاه مرکزی در قلب ورشو است.", "gender": "m", "audio_asset": null },
+    { "id": "a2v001-07", "polish": "paszport", "english": "passport", "persian": "پاسپورت / گذرنامه", "pronunciation": "PASH-port", "category": "noun", "example_polish": "Proszę pokazać paszport.", "example_english": "Please show your passport.", "example_persian": "لطفاً پاسپورت خود را نشان دهید.", "gender": "m", "audio_asset": null },
+    { "id": "a2v001-08", "polish": "walizka", "english": "suitcase", "persian": "چمدان", "pronunciation": "va-LIZ-ka", "category": "noun", "example_polish": "Moja walizka jest za ciężka.", "example_english": "My suitcase is too heavy.", "example_persian": "چمدانم خیلی سنگین است.", "gender": "f", "audio_asset": null },
+    { "id": "a2v001-09", "polish": "podróż", "english": "journey / trip / travel", "persian": "سفر / مسافرت", "pronunciation": "PO-droosh", "category": "noun", "example_polish": "Życzę miłej podróży!", "example_english": "Have a pleasant journey!", "example_persian": "سفر خوشی داشته باشید!", "gender": "f", "audio_asset": null },
+    { "id": "a2v001-10", "polish": "hotel", "english": "hotel", "persian": "هتل", "pronunciation": "HO-tel", "category": "noun", "example_polish": "Mieszkamy w hotelu przy rynku.", "example_english": "We are staying in a hotel near the market square.", "example_persian": "در هتل نزدیک میدان مرکزی اقامت داریم.", "gender": "m", "audio_asset": null },
+    { "id": "a2v001-11", "polish": "taksówka", "english": "taxi", "persian": "تاکسی", "pronunciation": "tak-SOOV-ka", "category": "noun", "example_polish": "Zamów taksówkę na siódmą.", "example_english": "Order a taxi for seven.", "example_persian": "یک تاکسی برای ساعت هفت سفارش بده.", "gender": "f", "audio_asset": null },
+    { "id": "a2v001-12", "polish": "odlot / przylot", "english": "departure / arrival (by air)", "persian": "پرواز رفت / پرواز ورود", "pronunciation": "OD-lot / PSHI-lot", "category": "noun", "example_polish": "Odlot jest o piętnastej.", "example_english": "The departure is at fifteen hundred (3 pm).", "example_persian": "پرواز ساعت پانزده است.", "gender": "m", "audio_asset": null }
   ]
 }
