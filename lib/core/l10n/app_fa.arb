@@ -1,7 +1,7 @@
 {
   "@@locale": "fa",
 
-  "appName": "LinguaLeap",
+  "appName": "Polska",
   "@appName": { "description": "Application name" },
 
   "tabLearn": "یادگیری",
@@ -142,8 +142,11 @@
   "settingsPersianLearner": "زبان‌آموز فارسی",
   "@settingsPersianLearner": { "description": "Persian learner mode option" },
 
-  "learnSubtitle": "یادگیری لهستانی — از A1 تا B2",
+  "learnSubtitle": "لهستانی · A1 تا B2",
   "@learnSubtitle": { "description": "Subtitle on main learn screen" },
+
+  "learnPath": "مسیر یادگیری شما",
+  "@learnPath": { "description": "Section header above level cards" },
 
   "lessonExplanation": "توضیحات",
   "@lessonExplanation": { "description": "Section heading in lesson explanation view" },

@@ -1,10 +1,10 @@
 {
-  "name": "LinguaLeap",
-  "short_name": "LinguaLeap",
+  "name": "Polska",
+  "short_name": "Polska",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#1a1a2e",
-  "theme_color": "#4CAF50",
+  "theme_color": "#DC143C",
   "description": "Learn Polish from A1 to B2 — gamified language learning with exam prep.",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,

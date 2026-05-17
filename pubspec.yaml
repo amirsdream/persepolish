@@ -57,12 +57,24 @@ dev_dependencies:
   # Linting
   flutter_lints: ^4.0.0
 
+  # Icon generation
+  flutter_launcher_icons: ^0.14.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon_flat.png"
+  min_sdk_android: 21
+  web:
+    generate: false
+
 flutter:
   uses-material-design: true
 
   generate: true
 
   assets:
+    - assets/icon/
     - assets/content/
     - assets/content/a1/
     - assets/content/a1/grammar/

@@ -1,7 +1,7 @@
 {
   "@@locale": "en",
 
-  "appName": "LinguaLeap",
+  "appName": "Polska",
   "@appName": { "description": "Application name" },
 
   "tabLearn": "Learn",
@@ -142,8 +142,11 @@
   "settingsPersianLearner": "Persian Learner",
   "@settingsPersianLearner": { "description": "Persian learner mode option" },
 
-  "learnSubtitle": "Learn Polish — A1 to B2",
+  "learnSubtitle": "Polish · A1 to B2",
   "@learnSubtitle": { "description": "Subtitle on main learn screen" },
+
+  "learnPath": "Your Learning Path",
+  "@learnPath": { "description": "Section header above level cards" },
 
   "lessonExplanation": "Explanation",
   "@lessonExplanation": { "description": "Section heading in lesson explanation view" },
