@@ -594,9 +594,10 @@ class _CardBack extends StatelessWidget {
     final example = card.localizedExample(teachingLang);
     final langFlag = isFa ? '🇮🇷' : '🇬🇧';
     final langLabel = isFa ? 'فارسی' : 'English';
+    // textDirection is passed to individual Text widgets only — it controls
+    // glyph rendering (RTL ligatures etc.) without touching layout alignment.
+    // Layout is always centered so the card looks symmetrical in both languages.
     final textDir = isFa ? TextDirection.rtl : TextDirection.ltr;
-    final axisAlign =
-        isFa ? CrossAxisAlignment.end : CrossAxisAlignment.start;
 
     return Container(
       width: double.infinity,
@@ -632,183 +633,162 @@ class _CardBack extends StatelessWidget {
           ),
         ],
       ),
-      child: Directionality(
-        // ↑ This is the key RTL fix — all layout below respects RTL for Persian
-        textDirection: textDir,
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          crossAxisAlignment: axisAlign,
-          children: [
-            // ── Polish word reference (always LTR) ──────────────────────────
-            Directionality(
-              textDirection: TextDirection.ltr,
-              child: Container(
-                padding: const EdgeInsets.symmetric(
-                    horizontal: Spacing.md, vertical: Spacing.xs),
-                decoration: BoxDecoration(
-                  color: AppColors.primary.withValues(alpha: 0.15),
-                  borderRadius: BorderRadius.circular(Radii.md),
-                  border: Border.all(
-                      color: AppColors.primary.withValues(alpha: 0.35)),
-                ),
-                child: Row(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    const Text('🇵🇱', style: TextStyle(fontSize: 14)),
-                    const SizedBox(width: 6),
-                    Text(
-                      card.polish,
-                      style: Theme.of(context)
-                          .textTheme
-                          .titleMedium
-                          ?.copyWith(
-                            color: AppColors.primary,
-                            fontWeight: FontWeight.bold,
-                          ),
-                    ),
-                  ],
-                ),
-              ),
+      // No Directionality wrapper — layout is always centered.
+      // Each Text gets its own textDirection for correct glyph rendering.
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        crossAxisAlignment: CrossAxisAlignment.center,
+        children: [
+          // ── Polish word reference (always LTR, always centered) ───────────
+          Container(
+            padding: const EdgeInsets.symmetric(
+                horizontal: Spacing.md, vertical: Spacing.xs),
+            decoration: BoxDecoration(
+              color: AppColors.primary.withValues(alpha: 0.15),
+              borderRadius: BorderRadius.circular(Radii.md),
+              border: Border.all(
+                  color: AppColors.primary.withValues(alpha: 0.35)),
             ),
-            const SizedBox(height: Spacing.md),
-
-            // ── Language label ───────────────────────────────────────────────
-            Row(
-              mainAxisSize: MainAxisSize.min,
-              children: isFa
-                  ? [
-                      Text(langLabel,
-                          style: Theme.of(context)
-                              .textTheme
-                              .labelSmall
-                              ?.copyWith(
-                                color: AppColors.onSurfaceVariant,
-                                letterSpacing: 0.8,
-                              ),
-                          textDirection: textDir),
-                      const SizedBox(width: 5),
-                      Text(langFlag,
-                          style: const TextStyle(fontSize: 14)),
-                    ]
-                  : [
-                      Text(langFlag,
-                          style: const TextStyle(fontSize: 14)),
-                      const SizedBox(width: 5),
-                      Text(langLabel,
-                          style: Theme.of(context)
-                              .textTheme
-                              .labelSmall
-                              ?.copyWith(
-                                color: AppColors.onSurfaceVariant,
-                                letterSpacing: 0.8,
-                              ),
-                          textDirection: textDir),
-                    ],
-            ),
-            const SizedBox(height: Spacing.xs),
-
-            // ── Meaning (big) ────────────────────────────────────────────────
-            Text(
-              meaning,
-              style: Theme.of(context).textTheme.headlineSmall?.copyWith(
-                    fontWeight: FontWeight.w700,
-                    color: AppColors.onSurface,
-                    height: 1.3,
-                  ),
-              textDirection: textDir,
-            ),
-
-            const SizedBox(height: Spacing.md),
-
-            // ── Divider ──────────────────────────────────────────────────────
-            Container(
-              height: 1,
-              decoration: BoxDecoration(
-                gradient: LinearGradient(colors: [
-                  Colors.transparent,
-                  AppColors.onSurfaceVariant.withValues(alpha: 0.35),
-                  Colors.transparent,
-                ]),
-              ),
-            ),
-
-            const SizedBox(height: Spacing.md),
-
-            // ── Example section ──────────────────────────────────────────────
-            Row(
+            child: Row(
               mainAxisSize: MainAxisSize.min,
               children: [
-                Container(
-                  width: 3,
-                  height: 14,
-                  decoration: BoxDecoration(
-                    color: AppColors.secondary,
-                    borderRadius: BorderRadius.circular(2),
-                  ),
-                ),
-                const SizedBox(width: 8),
+                const Text('🇵🇱', style: TextStyle(fontSize: 14)),
+                const SizedBox(width: 6),
                 Text(
-                  'EXAMPLE',
-                  style: Theme.of(context).textTheme.labelSmall?.copyWith(
-                        color: AppColors.secondary,
-                        letterSpacing: 1.4,
-                        fontWeight: FontWeight.w700,
+                  card.polish,
+                  textDirection: TextDirection.ltr,
+                  style: Theme.of(context)
+                      .textTheme
+                      .titleMedium
+                      ?.copyWith(
+                        color: AppColors.primary,
+                        fontWeight: FontWeight.bold,
                       ),
                 ),
               ],
             ),
-            const SizedBox(height: Spacing.sm),
+          ),
+          const SizedBox(height: Spacing.md),
 
-            // Polish example sentence (always LTR)
-            if (card.examplePolish.isNotEmpty)
-              Directionality(
-                textDirection: TextDirection.ltr,
-                child: Text(
-                  card.examplePolish,
-                  style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-                        fontStyle: FontStyle.italic,
-                        color: AppColors.primary,
-                        height: 1.4,
-                      ),
+          // ── Language flag + label (always centered, flag always left) ─────
+          Row(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Text(langFlag, style: const TextStyle(fontSize: 14)),
+              const SizedBox(width: 5),
+              Text(
+                langLabel,
+                textDirection: textDir,
+                style: Theme.of(context).textTheme.labelSmall?.copyWith(
+                      color: AppColors.onSurfaceVariant,
+                      letterSpacing: 0.8,
+                    ),
+              ),
+            ],
+          ),
+          const SizedBox(height: Spacing.xs),
+
+          // ── Meaning (big, centered) ───────────────────────────────────────
+          Text(
+            meaning,
+            textAlign: TextAlign.center,
+            textDirection: textDir,
+            style: Theme.of(context).textTheme.headlineSmall?.copyWith(
+                  fontWeight: FontWeight.w700,
+                  color: AppColors.onSurface,
+                  height: 1.3,
+                ),
+          ),
+
+          const SizedBox(height: Spacing.md),
+
+          // ── Divider ──────────────────────────────────────────────────────
+          Container(
+            height: 1,
+            decoration: BoxDecoration(
+              gradient: LinearGradient(colors: [
+                Colors.transparent,
+                AppColors.onSurfaceVariant.withValues(alpha: 0.35),
+                Colors.transparent,
+              ]),
+            ),
+          ),
+
+          const SizedBox(height: Spacing.md),
+
+          // ── Example label (always centered, always LTR) ───────────────────
+          Row(
+            mainAxisSize: MainAxisSize.min,
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Container(
+                width: 3,
+                height: 14,
+                decoration: BoxDecoration(
+                  color: AppColors.secondary,
+                  borderRadius: BorderRadius.circular(2),
                 ),
               ),
+              const SizedBox(width: 8),
+              Text(
+                'EXAMPLE',
+                style: Theme.of(context).textTheme.labelSmall?.copyWith(
+                      color: AppColors.secondary,
+                      letterSpacing: 1.4,
+                      fontWeight: FontWeight.w700,
+                    ),
+              ),
+            ],
+          ),
+          const SizedBox(height: Spacing.sm),
 
-            // Translation of example
+          // Polish example sentence (always LTR, always centered)
+          if (card.examplePolish.isNotEmpty)
+            Text(
+              card.examplePolish,
+              textAlign: TextAlign.center,
+              textDirection: TextDirection.ltr,
+              style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                    fontStyle: FontStyle.italic,
+                    color: AppColors.primary,
+                    height: 1.4,
+                  ),
+            ),
+
+            // Translation of example (centered, correct glyph direction)
             if (example.isNotEmpty) ...[
               const SizedBox(height: Spacing.xs),
               Text(
                 example,
+                textAlign: TextAlign.center,
+                textDirection: textDir,
                 style: Theme.of(context).textTheme.bodyMedium?.copyWith(
                       color: AppColors.onSurfaceVariant,
                       height: 1.4,
                     ),
-                textDirection: textDir,
               ),
             ],
 
             const SizedBox(height: Spacing.md),
 
-            // ── Swipe hint at bottom ─────────────────────────────────────────
-            Directionality(
-              textDirection: TextDirection.ltr,
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  _SwipeLabel(
-                      icon: Icons.close_rounded,
-                      label: 'Again',
-                      color: AppColors.incorrectRed),
-                  _SwipeLabel(
-                      icon: Icons.check_rounded,
-                      label: 'Got it',
-                      color: AppColors.correctGreen,
-                      reverse: true),
-                ],
-              ),
+            // ── Swipe hint at bottom (always LTR — directional indicator) ────
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                _SwipeLabel(
+                    icon: Icons.close_rounded,
+                    label: 'Again',
+                    color: AppColors.incorrectRed),
+                _SwipeLabel(
+                    icon: Icons.check_rounded,
+                    label: 'Got it',
+                    color: AppColors.correctGreen,
+                    reverse: true),
+              ],
             ),
           ],
         ),
-      ),
     );
   }
 }
