@@ -3,256 +3,307 @@
   "chapter": 9,
   "level": "b1",
   "title": "Verbal Nouns & Abstract Concepts",
+  "title_fa": "اسم‌های فعلی و مفاهیم انتزاعی",
   "cards": [
     {
       "id": "b1-ch09-w01",
       "polish": "czytanie",
       "english": "reading (the act/process)",
+      "persian": "خواندن (به عنوان فعل/فرآیند)",
       "pronunciation": "chi-TA-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Czytanie książek jest bardzo ważne.",
-      "exampleEnglish": "Reading books is very important."
+      "exampleEnglish": "Reading books is very important.",
+      "examplePersian": "کتاب خواندن خیلی مهم است."
     },
     {
       "id": "b1-ch09-w02",
       "polish": "pisanie",
       "english": "writing (the act/process)",
+      "persian": "نوشتن (به عنوان فعل/فرآیند)",
       "pronunciation": "pi-SA-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Pisanie po polsku jest trudne.",
-      "exampleEnglish": "Writing in Polish is difficult."
+      "exampleEnglish": "Writing in Polish is difficult.",
+      "examplePersian": "نوشتن به لهستانی سخت است."
     },
     {
       "id": "b1-ch09-w03",
       "polish": "mówienie",
       "english": "speaking (the act/process)",
+      "persian": "صحبت کردن (به عنوان فعل/فرآیند)",
       "pronunciation": "moo-VYEH-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Mówienie po polsku sprawia mi trudność.",
-      "exampleEnglish": "Speaking Polish gives me difficulty."
+      "exampleEnglish": "Speaking Polish gives me difficulty.",
+      "examplePersian": "صحبت کردن به لهستانی برایم دشوار است."
     },
     {
       "id": "b1-ch09-w04",
       "polish": "uczenie się",
       "english": "learning (the act/process)",
+      "persian": "یاد گرفتن (به عنوان فعل/فرآیند)",
       "pronunciation": "oo-CHEH-nyeh syeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Uczenie się języków wymaga czasu.",
-      "exampleEnglish": "Learning languages requires time."
+      "exampleEnglish": "Learning languages requires time.",
+      "examplePersian": "زبان یاد گرفتن وقت می‌برد."
     },
     {
       "id": "b1-ch09-w05",
       "polish": "słuchanie",
       "english": "listening (the act/process)",
+      "persian": "گوش دادن (به عنوان فعل/فرآیند)",
       "pronunciation": "swoo-HA-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Słuchanie muzyki pomaga mi się relaksować.",
-      "exampleEnglish": "Listening to music helps me relax."
+      "exampleEnglish": "Listening to music helps me relax.",
+      "examplePersian": "موسیقی گوش دادن به من کمک می‌کند آرام بگیرم."
     },
     {
       "id": "b1-ch09-w06",
       "polish": "gotowanie",
       "english": "cooking (the act/process)",
+      "persian": "آشپزی کردن (به عنوان فعل/فرآیند)",
       "pronunciation": "go-to-VA-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Gotowanie jest moim hobby.",
-      "exampleEnglish": "Cooking is my hobby."
+      "exampleEnglish": "Cooking is my hobby.",
+      "examplePersian": "آشپزی سرگرمی من است."
     },
     {
       "id": "b1-ch09-w07",
       "polish": "pływanie",
       "english": "swimming (the act/process)",
+      "persian": "شنا کردن (به عنوان فعل/فرآیند)",
       "pronunciation": "pwi-VA-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Pływanie jest zdrowe.",
-      "exampleEnglish": "Swimming is healthy."
+      "exampleEnglish": "Swimming is healthy.",
+      "examplePersian": "شنا کردن برای سلامتی مفید است."
     },
     {
       "id": "b1-ch09-w08",
       "polish": "życie",
       "english": "life; living",
+      "persian": "زندگی / زیستن",
       "pronunciation": "ZHI-cheh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Życie w Polsce jest interesujące.",
-      "exampleEnglish": "Life in Poland is interesting."
+      "exampleEnglish": "Life in Poland is interesting.",
+      "examplePersian": "زندگی در لهستان جالب است."
     },
     {
       "id": "b1-ch09-w09",
       "polish": "wyjście",
       "english": "exit; going out",
+      "persian": "خروج / رفتن بیرون",
       "pronunciation": "VIY-shcheh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Wyjście z domu zajęło mi dużo czasu.",
-      "exampleEnglish": "Leaving the house took me a lot of time."
+      "exampleEnglish": "Leaving the house took me a lot of time.",
+      "examplePersian": "بیرون رفتن از خانه خیلی وقتم را گرفت."
     },
     {
       "id": "b1-ch09-w10",
       "polish": "przyjście",
       "english": "arrival; coming",
+      "persian": "رسیدن / آمدن",
       "pronunciation": "PSHIY-shcheh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Przyjście na czas jest ważne.",
-      "exampleEnglish": "Arriving on time is important."
+      "exampleEnglish": "Arriving on time is important.",
+      "examplePersian": "به موقع رسیدن مهم است."
     },
     {
       "id": "b1-ch09-w11",
       "polish": "spotkanie",
       "english": "meeting; encounter",
+      "persian": "ملاقات / دیدار",
       "pronunciation": "spot-KA-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Spotkanie z przyjacielem było miłe.",
-      "exampleEnglish": "The meeting with a friend was pleasant."
+      "exampleEnglish": "The meeting with a friend was pleasant.",
+      "examplePersian": "دیدار با دوست دلپذیر بود."
     },
     {
       "id": "b1-ch09-w12",
       "polish": "zaproszenie",
       "english": "invitation",
+      "persian": "دعوت‌نامه / دعوت",
       "pronunciation": "za-pro-SHEH-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Dostałem zaproszenie na ślub.",
-      "exampleEnglish": "I received an invitation to the wedding."
+      "exampleEnglish": "I received an invitation to the wedding.",
+      "examplePersian": "دعوت‌نامه عروسی دریافت کردم."
     },
     {
       "id": "b1-ch09-w13",
       "polish": "przeczytanie",
       "english": "reading (completed action)",
+      "persian": "خواندن (عمل کامل‌شده)",
       "pronunciation": "psheh-chi-TA-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Po przeczytaniu książki poczułem się mądrzejszy.",
-      "exampleEnglish": "After reading the book (through), I felt smarter."
+      "exampleEnglish": "After reading the book (through), I felt smarter.",
+      "examplePersian": "بعد از تمام کردن کتاب، احساس کردم باهوش‌تر شدم."
     },
     {
       "id": "b1-ch09-w14",
       "polish": "napisanie",
       "english": "writing (completed action)",
+      "persian": "نوشتن (عمل کامل‌شده)",
       "pronunciation": "na-pi-SA-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Po napisaniu listu poczułam ulgę.",
-      "exampleEnglish": "After writing the letter (completely), I felt relieved."
+      "exampleEnglish": "After writing the letter (completely), I felt relieved.",
+      "examplePersian": "بعد از تمام کردن نامه، احساس آرامش کردم."
     },
     {
       "id": "b1-ch09-w15",
       "polish": "zrozumienie",
       "english": "understanding; comprehension",
+      "persian": "درک / فهمیدن",
       "pronunciation": "zro-zoo-MYEH-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Zrozumienie gramatyki wymaga ćwiczenia.",
-      "exampleEnglish": "Understanding grammar requires practice."
+      "exampleEnglish": "Understanding grammar requires practice.",
+      "examplePersian": "درک گرامر به تمرین نیاز دارد."
     },
     {
       "id": "b1-ch09-w16",
       "polish": "palenie",
       "english": "smoking; burning",
+      "persian": "سیگار کشیدن / سوختن",
       "pronunciation": "pa-LEH-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Palenie wzbronione.",
-      "exampleEnglish": "Smoking prohibited."
+      "exampleEnglish": "Smoking prohibited.",
+      "examplePersian": "سیگار کشیدن ممنوع."
     },
     {
       "id": "b1-ch09-w17",
       "polish": "parkowanie",
       "english": "parking",
+      "persian": "پارک کردن",
       "pronunciation": "par-ko-VA-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Parkowanie tutaj jest zabronione.",
-      "exampleEnglish": "Parking here is forbidden."
+      "exampleEnglish": "Parking here is forbidden.",
+      "examplePersian": "پارک کردن اینجا ممنوع است."
     },
     {
       "id": "b1-ch09-w18",
       "polish": "wejście",
       "english": "entrance; entry",
+      "persian": "ورودی / ورود",
       "pronunciation": "VEY-shcheh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Wejście tylko dla pracowników.",
-      "exampleEnglish": "Entry for employees only."
+      "exampleEnglish": "Entry for employees only.",
+      "examplePersian": "ورود فقط برای کارمندان."
     },
     {
       "id": "b1-ch09-w19",
       "polish": "sprzątanie",
       "english": "cleaning; tidying",
+      "persian": "نظافت کردن / مرتب کردن",
       "pronunciation": "spshown-TA-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Sprzątanie mieszkania zajmuje mi godzinę.",
-      "exampleEnglish": "Cleaning the apartment takes me an hour."
+      "exampleEnglish": "Cleaning the apartment takes me an hour.",
+      "examplePersian": "نظافت آپارتمان یک ساعت وقتم را می‌گیرد."
     },
     {
       "id": "b1-ch09-w20",
       "polish": "zwiedzanie",
       "english": "sightseeing; touring",
+      "persian": "بازدید گردشگری / تور",
       "pronunciation": "zvyeh-DZA-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Zwiedzanie Krakowa było wspaniałe.",
-      "exampleEnglish": "Sightseeing in Kraków was wonderful."
+      "exampleEnglish": "Sightseeing in Kraków was wonderful.",
+      "examplePersian": "بازدید از کراکوف فوق‌العاده بود."
     },
     {
       "id": "b1-ch09-w21",
       "polish": "podróżowanie",
       "english": "travelling",
+      "persian": "سفر کردن",
       "pronunciation": "pod-roo-zhо-VA-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Podróżowanie uczy pokory.",
-      "exampleEnglish": "Travelling teaches humility."
+      "exampleEnglish": "Travelling teaches humility.",
+      "examplePersian": "سفر کردن فروتنی می‌آموزد."
     },
     {
       "id": "b1-ch09-w22",
       "polish": "myślenie",
       "english": "thinking",
+      "persian": "فکر کردن / اندیشیدن",
       "pronunciation": "mish-LEH-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Myślenie po polsku jest moim celem.",
-      "exampleEnglish": "Thinking in Polish is my goal."
+      "exampleEnglish": "Thinking in Polish is my goal.",
+      "examplePersian": "فکر کردن به لهستانی هدف من است."
     },
     {
       "id": "b1-ch09-w23",
       "polish": "ćwiczenie",
       "english": "exercise; practice",
+      "persian": "تمرین / ورزش",
       "pronunciation": "chfee-CHEH-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Ćwiczenie czyni mistrza.",
-      "exampleEnglish": "Practice makes perfect. (lit. Practice makes a master.)"
+      "exampleEnglish": "Practice makes perfect. (lit. Practice makes a master.)",
+      "examplePersian": "تمرین استاد می‌سازد."
     },
     {
       "id": "b1-ch09-w24",
       "polish": "rozumienie",
       "english": "understanding (ongoing process)",
+      "persian": "درک و فهم (فرآیند مستمر)",
       "pronunciation": "ro-zoo-MYEH-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Rozumienie to proces, nie wynik.",
-      "exampleEnglish": "Understanding is a process, not a result."
+      "exampleEnglish": "Understanding is a process, not a result.",
+      "examplePersian": "درک یک فرآیند است، نه یک نتیجه."
     },
     {
       "id": "b1-ch09-w25",
       "polish": "nauczanie",
       "english": "teaching",
+      "persian": "تدریس / آموزش دادن",
       "pronunciation": "na-oo-CHA-nyeh",
       "gender": "n",
       "category": "verbal_nouns",
       "examplePolish": "Nauczanie języków jest moją pasją.",
-      "exampleEnglish": "Teaching languages is my passion."
+      "exampleEnglish": "Teaching languages is my passion.",
+      "examplePersian": "تدریس زبان‌ها شور و علاقه من است."
     }
   ]
 }

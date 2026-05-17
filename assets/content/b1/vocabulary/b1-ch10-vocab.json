@@ -3,256 +3,307 @@
   "chapter": 10,
   "level": "b1",
   "title": "Abstract Nouns Derived from Verbs",
+  "title_fa": "اسم‌های انتزاعی مشتق از افعال",
   "cards": [
     {
       "id": "b1-ch10-w01",
       "polish": "zarządzanie",
       "english": "management; managing",
+      "persian": "مدیریت / مدیریت کردن",
       "pronunciation": "za-zhown-DZA-nyeh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Mam doświadczenie w zarządzaniu projektami.",
-      "exampleEnglish": "I have experience in managing projects."
+      "exampleEnglish": "I have experience in managing projects.",
+      "examplePersian": "در مدیریت پروژه‌ها تجربه دارم."
     },
     {
       "id": "b1-ch10-w02",
       "polish": "planowanie",
       "english": "planning",
+      "persian": "برنامه‌ریزی",
       "pronunciation": "pla-no-VA-nyeh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Planowanie jest kluczem do sukcesu.",
-      "exampleEnglish": "Planning is the key to success."
+      "exampleEnglish": "Planning is the key to success.",
+      "examplePersian": "برنامه‌ریزی کلید موفقیت است."
     },
     {
       "id": "b1-ch10-w03",
       "polish": "organizowanie",
       "english": "organising",
+      "persian": "سازمان‌دهی / برگزار کردن",
       "pronunciation": "or-ga-ni-ZO-va-nyeh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Organizowanie spotkań to moja rola.",
-      "exampleEnglish": "Organising meetings is my role."
+      "exampleEnglish": "Organising meetings is my role.",
+      "examplePersian": "برگزاری جلسات نقش من است."
     },
     {
       "id": "b1-ch10-w04",
       "polish": "prowadzenie",
       "english": "leading; running; conducting",
+      "persian": "رهبری / اداره کردن / رانندگی",
       "pronunciation": "pro-va-DZEH-nyeh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Prowadzenie samochodu jest łatwe.",
-      "exampleEnglish": "Driving a car is easy."
+      "exampleEnglish": "Driving a car is easy.",
+      "examplePersian": "رانندگی با ماشین آسان است."
     },
     {
       "id": "b1-ch10-w05",
       "polish": "rozwiązywanie",
       "english": "solving; resolving",
+      "persian": "حل کردن / برطرف کردن",
       "pronunciation": "roz-vyown-ZI-va-nyeh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Rozwiązywanie problemów to moja specjalność.",
-      "exampleEnglish": "Solving problems is my specialty."
+      "exampleEnglish": "Solving problems is my specialty.",
+      "examplePersian": "حل مشکلات تخصص من است."
     },
     {
       "id": "b1-ch10-w06",
       "polish": "negocjowanie",
       "english": "negotiating",
+      "persian": "مذاکره کردن / چانه‌زنی",
       "pronunciation": "ne-go-tsyo-VA-nyeh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Negocjowanie umów wymaga doświadczenia.",
-      "exampleEnglish": "Negotiating contracts requires experience."
+      "exampleEnglish": "Negotiating contracts requires experience.",
+      "examplePersian": "مذاکره قراردادها به تجربه نیاز دارد."
     },
     {
       "id": "b1-ch10-w07",
       "polish": "komunikowanie się",
       "english": "communicating",
+      "persian": "ارتباط برقرار کردن",
       "pronunciation": "ko-moo-ni-KO-va-nyeh syeh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Komunikowanie się po angielsku jest ważne w pracy.",
-      "exampleEnglish": "Communicating in English is important at work."
+      "exampleEnglish": "Communicating in English is important at work.",
+      "examplePersian": "ارتباط به انگلیسی در محل کار مهم است."
     },
     {
       "id": "b1-ch10-w08",
       "polish": "podjęcie",
       "english": "undertaking; taking (a decision)",
+      "persian": "اتخاذ (تصمیم) / شروع کردن",
       "pronunciation": "pod-YEN-cheh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Po podjęciu decyzji, nie żałowałem.",
-      "exampleEnglish": "After making the decision, I didn't regret it."
+      "exampleEnglish": "After making the decision, I didn't regret it.",
+      "examplePersian": "بعد از اتخاذ تصمیم، پشیمان نشدم."
     },
     {
       "id": "b1-ch10-w09",
       "polish": "przeprowadzenie",
       "english": "carrying out; conducting (completed)",
+      "persian": "انجام دادن / اجرا کردن (کامل)",
       "pronunciation": "psheh-pro-va-DZEH-nyeh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Po przeprowadzeniu badań, opublikujemy wyniki.",
-      "exampleEnglish": "After conducting the research, we will publish the results."
+      "exampleEnglish": "After conducting the research, we will publish the results.",
+      "examplePersian": "بعد از انجام تحقیقات، نتایج را منتشر خواهیم کرد."
     },
     {
       "id": "b1-ch10-w10",
       "polish": "wdrożenie",
       "english": "implementation; rollout",
+      "persian": "پیاده‌سازی / راه‌اندازی",
       "pronunciation": "vdro-ZHEH-nyeh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Wdrożenie nowego systemu zajęło trzy miesiące.",
-      "exampleEnglish": "The implementation of the new system took three months."
+      "exampleEnglish": "The implementation of the new system took three months.",
+      "examplePersian": "پیاده‌سازی سیستم جدید سه ماه طول کشید."
     },
     {
       "id": "b1-ch10-w11",
       "polish": "szkolenie",
       "english": "training; course",
+      "persian": "آموزش / دوره آموزشی",
       "pronunciation": "shko-LEH-nyeh",
       "gender": "n",
       "category": "education",
       "examplePolish": "Biorę udział w szkoleniu z marketingu.",
-      "exampleEnglish": "I'm taking part in a marketing training."
+      "exampleEnglish": "I'm taking part in a marketing training.",
+      "examplePersian": "در دوره آموزشی بازاریابی شرکت می‌کنم."
     },
     {
       "id": "b1-ch10-w12",
       "polish": "doskonalenie",
       "english": "improvement; perfecting",
+      "persian": "بهبود / کامل کردن",
       "pronunciation": "dos-ko-na-LEH-nyeh",
       "gender": "n",
       "category": "education",
       "examplePolish": "Doskonalenie się w języku wymaga czasu.",
-      "exampleEnglish": "Improving oneself in a language takes time."
+      "exampleEnglish": "Improving oneself in a language takes time.",
+      "examplePersian": "پیشرفت در یک زبان وقت می‌برد."
     },
     {
       "id": "b1-ch10-w13",
       "polish": "przygotowanie",
       "english": "preparation",
+      "persian": "آمادگی / آماده شدن",
       "pronunciation": "pshi-go-to-VA-nyeh",
       "gender": "n",
       "category": "general",
       "examplePolish": "Przygotowanie do egzaminu trwało cały tydzień.",
-      "exampleEnglish": "Preparation for the exam lasted a whole week."
+      "exampleEnglish": "Preparation for the exam lasted a whole week.",
+      "examplePersian": "آمادگی برای امتحان یک هفته تمام طول کشید."
     },
     {
       "id": "b1-ch10-w14",
       "polish": "osiągnięcie",
       "english": "achievement; accomplishment",
+      "persian": "دستاورد / موفقیت",
       "pronunciation": "o-shyown-GNYEH-cheh",
       "gender": "n",
       "category": "general",
       "examplePolish": "To wielkie osiągnięcie nauki.",
-      "exampleEnglish": "This is a great achievement of science."
+      "exampleEnglish": "This is a great achievement of science.",
+      "examplePersian": "این دستاورد بزرگی برای علم است."
     },
     {
       "id": "b1-ch10-w15",
       "polish": "zakończenie",
       "english": "ending; completion",
+      "persian": "پایان / اتمام",
       "pronunciation": "za-kon-CHEH-nyeh",
       "gender": "n",
       "category": "general",
       "examplePolish": "Po zakończeniu projektu, świętowaliśmy.",
-      "exampleEnglish": "After completing the project, we celebrated."
+      "exampleEnglish": "After completing the project, we celebrated.",
+      "examplePersian": "بعد از پایان پروژه، جشن گرفتیم."
     },
     {
       "id": "b1-ch10-w16",
       "polish": "rozwijanie",
       "english": "developing; development (process)",
+      "persian": "توسعه دادن / پیشرفت (فرآیند)",
       "pronunciation": "roz-vi-YA-nyeh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Rozwijanie umiejętności jest ciągłym procesem.",
-      "exampleEnglish": "Developing skills is an ongoing process."
+      "exampleEnglish": "Developing skills is an ongoing process.",
+      "examplePersian": "توسعه مهارت‌ها یک فرآیند مستمر است."
     },
     {
       "id": "b1-ch10-w17",
       "polish": "wykonanie",
       "english": "execution; performance (of a task)",
+      "persian": "اجرا / انجام (یک وظیفه)",
       "pronunciation": "vy-ko-NA-nyeh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Wykonanie zadania zajęło godzinę.",
-      "exampleEnglish": "Executing the task took an hour."
+      "exampleEnglish": "Executing the task took an hour.",
+      "examplePersian": "اجرای وظیفه یک ساعت طول کشید."
     },
     {
       "id": "b1-ch10-w18",
       "polish": "zatrudnienie",
       "english": "employment; hiring",
+      "persian": "استخدام / بکارگیری",
       "pronunciation": "za-trud-NYEH-nyeh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Zatrudnienie nowego pracownika jest procesem.",
-      "exampleEnglish": "Hiring a new employee is a process."
+      "exampleEnglish": "Hiring a new employee is a process.",
+      "examplePersian": "استخدام کارمند جدید یک فرآیند است."
     },
     {
       "id": "b1-ch10-w19",
       "polish": "ustalenie",
       "english": "determining; establishing; agreeing",
+      "persian": "تعیین / تثبیت / توافق کردن",
       "pronunciation": "oos-ta-LEH-nyeh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Po ustaleniu szczegółów, podpiszemy umowę.",
-      "exampleEnglish": "After establishing the details, we will sign the contract."
+      "exampleEnglish": "After establishing the details, we will sign the contract.",
+      "examplePersian": "بعد از تعیین جزئیات، قرارداد را امضا خواهیم کرد."
     },
     {
       "id": "b1-ch10-w20",
       "polish": "przedstawienie",
       "english": "presentation; introduction (of sb/sth)",
+      "persian": "ارائه / معرفی",
       "pronunciation": "pshets-ta-VYEH-nyeh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Przedstawienie wyników zajęło 20 minut.",
-      "exampleEnglish": "Presenting the results took 20 minutes."
+      "exampleEnglish": "Presenting the results took 20 minutes.",
+      "examplePersian": "ارائه نتایج ۲۰ دقیقه طول کشید."
     },
     {
       "id": "b1-ch10-w21",
       "polish": "kształcenie",
       "english": "education; educating; training",
+      "persian": "تحصیل / آموزش / تربیت",
       "pronunciation": "kshtal-TSYEH-nyeh",
       "gender": "n",
       "category": "education",
       "examplePolish": "Kształcenie ustawiczne jest ważne w XXI wieku.",
-      "exampleEnglish": "Continuous education is important in the 21st century."
+      "exampleEnglish": "Continuous education is important in the 21st century.",
+      "examplePersian": "آموزش مستمر در قرن بیست‌ویکم مهم است."
     },
     {
       "id": "b1-ch10-w22",
       "polish": "badanie",
       "english": "research; examination; investigation",
+      "persian": "تحقیق / بررسی / پژوهش",
       "pronunciation": "ba-DA-nyeh",
       "gender": "n",
       "category": "academic",
       "examplePolish": "Badanie rynku wykazało zainteresowanie produktem.",
-      "exampleEnglish": "Market research showed interest in the product."
+      "exampleEnglish": "Market research showed interest in the product.",
+      "examplePersian": "تحقیقات بازار نشان داد که به محصول علاقه وجود دارد."
     },
     {
       "id": "b1-ch10-w23",
       "polish": "przetwarzanie",
       "english": "processing",
+      "persian": "پردازش",
       "pronunciation": "psheh-tva-ZHA-nyeh",
       "gender": "n",
       "category": "technology",
       "examplePolish": "Przetwarzanie danych odbywa się w chmurze.",
-      "exampleEnglish": "Data processing takes place in the cloud."
+      "exampleEnglish": "Data processing takes place in the cloud.",
+      "examplePersian": "پردازش داده‌ها در فضای ابری انجام می‌شود."
     },
     {
       "id": "b1-ch10-w24",
       "polish": "zatwierdzenie",
       "english": "approval; ratification",
+      "persian": "تأیید / تصویب",
       "pronunciation": "za-tfyer-DZEH-nyeh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Po zatwierdzeniu budżetu, możemy zacząć.",
-      "exampleEnglish": "After the budget is approved, we can start."
+      "exampleEnglish": "After the budget is approved, we can start.",
+      "examplePersian": "بعد از تأیید بودجه، می‌توانیم شروع کنیم."
     },
     {
       "id": "b1-ch10-w25",
       "polish": "finansowanie",
       "english": "financing; funding",
+      "persian": "تأمین مالی / تأمین بودجه",
       "pronunciation": "fi-nan-so-VA-nyeh",
       "gender": "n",
       "category": "professional",
       "examplePolish": "Finansowanie projektu pochodzi z UE.",
-      "exampleEnglish": "The project's funding comes from the EU."
+      "exampleEnglish": "The project's funding comes from the EU.",
+      "examplePersian": "تأمین مالی پروژه از اتحادیه اروپا است."
     }
   ]
 }
