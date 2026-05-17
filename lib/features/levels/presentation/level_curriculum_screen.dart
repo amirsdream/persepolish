@@ -9,6 +9,54 @@ import '../../../core/theme/design_tokens.dart';
 import '../domain/models/level.dart';
 import 'levels_provider.dart';
 
+// ── Chapter grouping helpers ──────────────────────────────────────────────────
+
+/// Extracts the chapter number from a unit ID (e.g. "a1-ch03-l02" → 3).
+/// Returns 0 when no chapter marker is found (e.g. level-exam IDs).
+int _chapterOf(String id) {
+  final m = RegExp(r'ch(\d+)').firstMatch(id);
+  return m != null ? int.parse(m.group(1)!) : 0;
+}
+
+class _ChapterGroup {
+  _ChapterGroup(this.number);
+
+  final int number;
+  // grammar items first (in order), then vocab last — built by caller
+  final List<UnitSummary> items = [];
+
+  /// Use the vocabulary-set title as the chapter theme; fall back to "Chapter N".
+  String chapterTitle(String lang) {
+    final vocab = items
+        .where((u) => u.unitType == UnitType.vocabulary)
+        .firstOrNull;
+    return vocab?.localizedTitle(lang) ?? 'Chapter $number';
+  }
+
+  int get completedCount => items.where((u) => u.isComplete).length;
+  int get totalCount => items.length;
+  bool get isComplete => totalCount > 0 && completedCount == totalCount;
+  bool get isInProgress => completedCount > 0 && !isComplete;
+  double get progressFraction => totalCount > 0 ? completedCount / totalCount : 0;
+}
+
+List<_ChapterGroup> _buildGroups(Level level) {
+  final map = <int, _ChapterGroup>{};
+
+  // Grammar items are already ordered by the provider
+  for (final u in level.grammarUnits) {
+    final ch = _chapterOf(u.id);
+    (map[ch] ??= _ChapterGroup(ch)).items.add(u);
+  }
+  // Vocab goes at the end of each chapter's pill row
+  for (final u in level.vocabularySets) {
+    final ch = _chapterOf(u.id);
+    (map[ch] ??= _ChapterGroup(ch)).items.add(u);
+  }
+
+  return map.values.toList()..sort((a, b) => a.number.compareTo(b.number));
+}
+
 // ── Entry point ───────────────────────────────────────────────────────────────
 
 class LevelCurriculumScreen extends ConsumerWidget {
@@ -40,24 +88,6 @@ class LevelCurriculumScreen extends ConsumerWidget {
   }
 }
 
-// ── Tab definition ────────────────────────────────────────────────────────────
-
-class _TabDef {
-  const _TabDef({
-    required this.label,
-    required this.icon,
-    required this.units,
-    required this.unitType,
-    required this.accentColor,
-  });
-
-  final String label;
-  final IconData icon;
-  final List<UnitSummary> units;
-  final UnitType unitType;
-  final Color accentColor;
-}
-
 // ── Main view ─────────────────────────────────────────────────────────────────
 
 class _CurriculumView extends StatelessWidget {
@@ -67,128 +97,156 @@ class _CurriculumView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final l10n = AppLocalizations.of(context)!;
     final lang = Localizations.localeOf(context).languageCode;
-    final levelColor = level.color;
+    final chapters = _buildGroups(level);
+    final hasExam = level.examSets.isNotEmpty;
 
-    final tabs = <_TabDef>[
-      if (level.grammarUnits.isNotEmpty)
-        _TabDef(
-          label: l10n.curriculumGrammar,
-          icon: Icons.auto_stories_rounded,
-          units: level.grammarUnits,
-          unitType: UnitType.grammar,
-          accentColor: AppColors.accent,
-        ),
-      if (level.vocabularySets.isNotEmpty)
-        _TabDef(
-          label: l10n.curriculumVocabulary,
-          icon: Icons.translate_rounded,
-          units: level.vocabularySets,
-          unitType: UnitType.vocabulary,
-          accentColor: AppColors.primary,
-        ),
-      if (level.examSets.isNotEmpty)
-        _TabDef(
-          label: l10n.curriculumExamPrep,
-          icon: Icons.quiz_rounded,
-          units: level.examSets,
-          unitType: UnitType.exam,
-          accentColor: AppColors.secondary,
-        ),
-    ];
+    return Scaffold(
+      backgroundColor: AppColors.background,
+      body: CustomScrollView(
+        slivers: [
+          // ── Pinned header ────────────────────────────────────────────────
+          SliverAppBar(
+            expandedHeight: 150,
+            pinned: true,
+            backgroundColor: AppColors.background,
+            surfaceTintColor: Colors.transparent,
+            leading: IconButton(
+              icon: const Icon(Icons.arrow_back_ios_new_rounded,
+                  color: AppColors.onSurface, size: 20),
+              onPressed: () => context.pop(),
+            ),
+            flexibleSpace: FlexibleSpaceBar(
+              background: _LevelHeader(level: level, lang: lang),
+            ),
+          ),
 
-    return DefaultTabController(
-      length: tabs.length,
-      child: Scaffold(
-        backgroundColor: AppColors.background,
-        body: NestedScrollView(
-          headerSliverBuilder: (context, innerBoxIsScrolled) => [
-            SliverOverlapAbsorber(
-              handle: NestedScrollView.sliverOverlapAbsorberHandleFor(context),
-              sliver: SliverAppBar(
-                expandedHeight: 168,
-                pinned: true,
-                backgroundColor: AppColors.background,
-                surfaceTintColor: Colors.transparent,
-                shadowColor: Colors.black54,
-                forceElevated: innerBoxIsScrolled,
-                leading: IconButton(
-                  icon: const Icon(
-                    Icons.arrow_back_ios_new_rounded,
-                    color: AppColors.onSurface,
+          // ── Chapter count label ──────────────────────────────────────────
+          SliverToBoxAdapter(
+            child: Padding(
+              padding: const EdgeInsets.fromLTRB(
+                  Spacing.md, Spacing.lg, Spacing.md, Spacing.xs),
+              child: Row(
+                children: [
+                  Icon(
+                    Icons.map_rounded,
+                    size: 16,
+                    color: level.color,
                   ),
-                  onPressed: () => context.pop(),
-                ),
-                flexibleSpace: FlexibleSpaceBar(
-                  background: _LevelHeader(
-                    level: level,
-                    lang: lang,
-                    color: levelColor,
+                  const SizedBox(width: Spacing.xs),
+                  Text(
+                    '${chapters.length} chapters',
+                    style: Theme.of(context).textTheme.labelLarge?.copyWith(
+                          color: level.color,
+                          letterSpacing: 0.6,
+                        ),
                   ),
+                  const Spacer(),
+                  if (hasExam)
+                    _ExamBadge(color: AppColors.secondary),
+                ],
+              ),
+            ).animate().fadeIn(duration: AppDurations.medium),
+          ),
+
+          // ── Chapter sections ─────────────────────────────────────────────
+          SliverPadding(
+            padding: const EdgeInsets.symmetric(horizontal: Spacing.md),
+            sliver: SliverList(
+              delegate: SliverChildBuilderDelegate(
+                (context, index) => _ChapterSection(
+                  group: chapters[index],
+                  levelId: level.id,
+                  levelColor: level.color,
+                  sectionIndex: index,
+                  lang: lang,
                 ),
-                bottom: _StyledTabBar(tabs: tabs, levelColor: levelColor),
+                childCount: chapters.length,
               ),
             ),
-          ],
-          body: TabBarView(
-            children: tabs
-                .map((tab) => _TabContent(tab: tab, level: level))
-                .toList(),
           ),
-        ),
+
+          // ── Level exam section (if any) ──────────────────────────────────
+          if (hasExam)
+            SliverPadding(
+              padding: const EdgeInsets.fromLTRB(
+                  Spacing.md, Spacing.sm, Spacing.md, 0),
+              sliver: SliverToBoxAdapter(
+                child: _ExamSection(
+                  units: level.examSets,
+                  levelId: level.id,
+                  sectionIndex: chapters.length,
+                ),
+              ),
+            ),
+
+          const SliverToBoxAdapter(child: SizedBox(height: Spacing.xxl)),
+        ],
       ),
     );
   }
 }
 
-// ── Level Header (expandable area) ────────────────────────────────────────────
+// ── Level header ──────────────────────────────────────────────────────────────
 
 class _LevelHeader extends StatelessWidget {
-  const _LevelHeader({
-    required this.level,
-    required this.lang,
-    required this.color,
-  });
+  const _LevelHeader({required this.level, required this.lang});
 
   final Level level;
   final String lang;
-  final Color color;
 
   @override
   Widget build(BuildContext context) {
+    final color = level.color;
     final theme = Theme.of(context);
     return Container(
       decoration: BoxDecoration(
         gradient: LinearGradient(
           begin: Alignment.topLeft,
           end: Alignment.bottomCenter,
-          colors: [color.withOpacity(0.22), AppColors.background],
+          colors: [color.withOpacity(0.20), AppColors.background],
         ),
       ),
-      // 56 top inset for status bar + back button row
-      padding: const EdgeInsets.fromLTRB(Spacing.md, 68, Spacing.md, 8),
+      padding: const EdgeInsets.fromLTRB(Spacing.md, 64, Spacing.md, Spacing.sm),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
+        mainAxisAlignment: MainAxisAlignment.end,
         children: [
-          Text(
-            level.localizedName(lang),
-            style: theme.textTheme.headlineSmall?.copyWith(
-              fontWeight: FontWeight.w800,
-              color: AppColors.onSurface,
-              letterSpacing: 0.2,
-            ),
+          // CEFR badge + level name inline
+          Row(
+            children: [
+              Container(
+                padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                decoration: BoxDecoration(
+                  color: color.withOpacity(0.18),
+                  borderRadius: BorderRadius.circular(20),
+                  border: Border.all(color: color.withOpacity(0.40)),
+                ),
+                child: Text(
+                  level.id.toUpperCase(),
+                  style: TextStyle(
+                    color: color,
+                    fontSize: 12,
+                    fontWeight: FontWeight.w900,
+                    letterSpacing: 1,
+                  ),
+                ),
+              ),
+              const SizedBox(width: Spacing.sm),
+              Expanded(
+                child: Text(
+                  level.localizedName(lang),
+                  style: theme.textTheme.titleLarge?.copyWith(
+                    fontWeight: FontWeight.w800,
+                    letterSpacing: 0.2,
+                  ),
+                  overflow: TextOverflow.ellipsis,
+                ),
+              ),
+            ],
           ),
           const SizedBox(height: Spacing.xs),
-          Text(
-            level.localizedDescription(lang),
-            style: theme.textTheme.bodyMedium?.copyWith(
-              color: AppColors.onSurfaceVariant,
-            ),
-            maxLines: 1,
-            overflow: TextOverflow.ellipsis,
-          ),
-          const SizedBox(height: Spacing.sm),
+          // Master progress bar
           Row(
             children: [
               Expanded(
@@ -196,7 +254,7 @@ class _LevelHeader extends StatelessWidget {
                   borderRadius: BorderRadius.circular(4),
                   child: LinearProgressIndicator(
                     value: level.progressPercent / 100,
-                    minHeight: 4,
+                    minHeight: 5,
                     backgroundColor: AppColors.surfaceVariant,
                     valueColor: AlwaysStoppedAnimation<Color>(color),
                   ),
@@ -205,7 +263,7 @@ class _LevelHeader extends StatelessWidget {
               const SizedBox(width: Spacing.sm),
               Text(
                 '${level.progressPercent.toInt()}%',
-                style: theme.textTheme.labelSmall?.copyWith(
+                style: theme.textTheme.labelMedium?.copyWith(
                   color: color,
                   fontWeight: FontWeight.w700,
                 ),
@@ -218,171 +276,197 @@ class _LevelHeader extends StatelessWidget {
   }
 }
 
-// ── Styled TabBar ─────────────────────────────────────────────────────────────
+// ── Chapter section ───────────────────────────────────────────────────────────
 
-class _StyledTabBar extends StatelessWidget implements PreferredSizeWidget {
-  const _StyledTabBar({required this.tabs, required this.levelColor});
+class _ChapterSection extends StatelessWidget {
+  const _ChapterSection({
+    required this.group,
+    required this.levelId,
+    required this.levelColor,
+    required this.sectionIndex,
+    required this.lang,
+  });
 
-  final List<_TabDef> tabs;
+  final _ChapterGroup group;
+  final String levelId;
   final Color levelColor;
+  final int sectionIndex;
+  final String lang;
 
-  @override
-  Size get preferredSize => const Size.fromHeight(kToolbarHeight);
+  Color _stateColor(Color levelColor) {
+    if (group.isComplete) return AppColors.success;
+    if (group.isInProgress) return levelColor;
+    return AppColors.onSurfaceVariant;
+  }
 
   @override
   Widget build(BuildContext context) {
-    return ClipRect(
-      child: BackdropFilter(
-        filter: ImageFilter.blur(sigmaX: 12, sigmaY: 12),
-        child: Container(
-          color: AppColors.surface.withOpacity(0.72),
-          child: TabBar(
-            tabs: tabs
-                .map(
-                  (t) => Tab(
-                    height: kToolbarHeight,
+    final stateColor = _stateColor(levelColor);
+
+    return Container(
+      margin: const EdgeInsets.only(bottom: Spacing.sm),
+      decoration: BoxDecoration(
+        borderRadius: Radii.cardMd,
+        color: AppColors.surface,
+        border: Border.all(
+          color: group.isInProgress
+              ? levelColor.withOpacity(0.35)
+              : AppColors.surfaceVariant,
+          width: 1,
+        ),
+      ),
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          // ── Chapter header ─────────────────────────────────────────────
+          Padding(
+            padding: const EdgeInsets.fromLTRB(
+                Spacing.sm, Spacing.sm, Spacing.sm, 0),
+            child: Row(
+              children: [
+                // Number badge (checkmark when complete)
+                Container(
+                  width: 32,
+                  height: 32,
+                  decoration: BoxDecoration(
+                    color: stateColor.withOpacity(0.14),
+                    borderRadius: BorderRadius.circular(9),
+                  ),
+                  alignment: Alignment.center,
+                  child: group.isComplete
+                      ? Icon(Icons.check_rounded, color: stateColor, size: 18)
+                      : Text(
+                          '${group.number}',
+                          style: TextStyle(
+                            color: stateColor,
+                            fontSize: 13,
+                            fontWeight: FontWeight.w900,
+                          ),
+                        ),
+                ),
+
+                const SizedBox(width: Spacing.sm),
+
+                // Chapter title + fraction
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        group.chapterTitle(lang),
+                        style: Theme.of(context).textTheme.labelLarge?.copyWith(
+                              fontWeight: FontWeight.w700,
+                              color: AppColors.onSurface,
+                            ),
+                        maxLines: 1,
+                        overflow: TextOverflow.ellipsis,
+                      ),
+                      Text(
+                        '${group.completedCount} / ${group.totalCount} done',
+                        style: const TextStyle(
+                          color: AppColors.onSurfaceVariant,
+                          fontSize: 11,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+
+                // Continue pill for in-progress chapters
+                if (group.isInProgress)
+                  Container(
+                    padding: const EdgeInsets.symmetric(
+                        horizontal: 8, vertical: 4),
+                    decoration: BoxDecoration(
+                      color: levelColor.withOpacity(0.15),
+                      borderRadius: BorderRadius.circular(20),
+                    ),
                     child: Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        Icon(t.icon, size: 16),
-                        const SizedBox(width: 6),
-                        Text(t.label),
+                        Icon(Icons.play_arrow_rounded,
+                            color: levelColor, size: 13),
+                        const SizedBox(width: 2),
+                        Text(
+                          'Continue',
+                          style: TextStyle(
+                            color: levelColor,
+                            fontSize: 11,
+                            fontWeight: FontWeight.w700,
+                          ),
+                        ),
                       ],
                     ),
                   ),
-                )
-                .toList(),
-            labelColor: levelColor,
-            unselectedLabelColor: AppColors.onSurfaceVariant,
-            indicatorColor: levelColor,
-            indicatorWeight: 3,
-            labelStyle: const TextStyle(
-              fontSize: 12,
-              fontWeight: FontWeight.w700,
+              ],
             ),
-            unselectedLabelStyle: const TextStyle(
-              fontSize: 12,
-              fontWeight: FontWeight.w500,
-            ),
-            dividerColor: Colors.transparent,
-          ),
-        ),
-      ),
-    );
-  }
-}
-
-// ── Tab Content ───────────────────────────────────────────────────────────────
-
-class _TabContent extends StatelessWidget {
-  const _TabContent({required this.tab, required this.level});
-
-  final _TabDef tab;
-  final Level level;
-
-  VoidCallback _onTap(BuildContext context, UnitSummary unit) => () {
-        switch (unit.unitType) {
-          case UnitType.grammar:
-            context.pushNamed(
-              'grammar-unit',
-              pathParameters: {'levelId': level.id, 'unitId': unit.id},
-            );
-          case UnitType.vocabulary:
-            context.pushNamed(
-              'vocabulary-set',
-              pathParameters: {'levelId': level.id, 'setId': unit.id},
-            );
-          case UnitType.exam:
-            context.pushNamed(
-              'exam-prep',
-              pathParameters: {'levelId': level.id},
-            );
-        }
-      };
-
-  @override
-  Widget build(BuildContext context) {
-    return Builder(
-      builder: (ctx) => CustomScrollView(
-        slivers: [
-          // Inject the overlap so the grid starts below the pinned TabBar
-          SliverOverlapInjector(
-            handle: NestedScrollView.sliverOverlapAbsorberHandleFor(ctx),
           ),
 
-          SliverPadding(
+          // ── Thin progress bar ──────────────────────────────────────────
+          Padding(
             padding: const EdgeInsets.fromLTRB(
-              Spacing.md, Spacing.md, Spacing.md, 0),
-            sliver: tab.unitType == UnitType.exam
-                ? _buildExamSliver(ctx)
-                : _buildGrid(ctx),
+                Spacing.sm, Spacing.xs, Spacing.sm, 0),
+            child: ClipRRect(
+              borderRadius: BorderRadius.circular(3),
+              child: LinearProgressIndicator(
+                value: group.progressFraction,
+                minHeight: 3,
+                backgroundColor: AppColors.surfaceVariant,
+                valueColor: AlwaysStoppedAnimation<Color>(stateColor),
+              ),
+            ),
           ),
 
-          const SliverToBoxAdapter(child: SizedBox(height: Spacing.xl)),
+          // ── Horizontal lesson pills ────────────────────────────────────
+          SizedBox(
+            height: 92,
+            child: ListView.builder(
+              scrollDirection: Axis.horizontal,
+              padding: const EdgeInsets.all(Spacing.sm),
+              itemCount: group.items.length,
+              itemBuilder: (context, i) => Padding(
+                padding: EdgeInsets.only(
+                    right: i < group.items.length - 1 ? Spacing.xs : 0),
+                child: _LessonPill(
+                  unit: group.items[i],
+                  levelId: levelId,
+                  levelColor: levelColor,
+                ),
+              ),
+            ),
+          ),
         ],
       ),
-    );
+    )
+        .animate(
+          delay: Duration(milliseconds: (sectionIndex * 55).clamp(0, 500)))
+        .fadeIn(duration: AppDurations.medium)
+        .slideY(
+          begin: 0.06,
+          duration: AppDurations.medium,
+          curve: Curves.easeOut,
+        );
   }
-
-  Widget _buildGrid(BuildContext ctx) => SliverGrid(
-        gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-          crossAxisCount: 2,
-          crossAxisSpacing: Spacing.sm,
-          mainAxisSpacing: Spacing.sm,
-          childAspectRatio: 0.92,
-        ),
-        delegate: SliverChildBuilderDelegate(
-          (context, i) => _UnitCard(
-            unit: tab.units[i],
-            index: i,
-            accentColor: tab.accentColor,
-            onTap: _onTap(context, tab.units[i]),
-          ),
-          childCount: tab.units.length,
-        ),
-      );
-
-  Widget _buildExamSliver(BuildContext ctx) => SliverList(
-        delegate: SliverChildBuilderDelegate(
-          (context, i) => Padding(
-            padding: const EdgeInsets.only(bottom: Spacing.sm),
-            child: _ExamCard(
-              unit: tab.units[i],
-              accentColor: tab.accentColor,
-              index: i,
-              onTap: _onTap(context, tab.units[i]),
-            ),
-          ),
-          childCount: tab.units.length,
-        ),
-      );
 }
 
-// ── Unit Card (grid tile) ─────────────────────────────────────────────────────
+// ── Lesson pill ───────────────────────────────────────────────────────────────
 
-class _UnitCard extends StatelessWidget {
-  const _UnitCard({
+class _LessonPill extends StatelessWidget {
+  const _LessonPill({
     required this.unit,
-    required this.index,
-    required this.accentColor,
-    required this.onTap,
+    required this.levelId,
+    required this.levelColor,
   });
 
   final UnitSummary unit;
-  final int index;
-  final Color accentColor;
-  final VoidCallback onTap;
+  final String levelId;
+  final Color levelColor;
 
-  Color get _statusColor => switch (unit.status) {
+  Color _statusColor(Color levelColor) => switch (unit.status) {
         'complete' => AppColors.success,
-        'in_progress' => AppColors.secondary,
+        'in_progress' => levelColor,
         _ => AppColors.onSurfaceVariant,
-      };
-
-  IconData get _statusIcon => switch (unit.status) {
-        'complete' => Icons.check_circle_rounded,
-        'in_progress' => Icons.play_circle_rounded,
-        _ => Icons.circle_outlined,
       };
 
   IconData get _typeIcon => switch (unit.unitType) {
@@ -391,92 +475,76 @@ class _UnitCard extends StatelessWidget {
         UnitType.exam => Icons.quiz_rounded,
       };
 
+  void _navigate(BuildContext context) {
+    switch (unit.unitType) {
+      case UnitType.grammar:
+        context.pushNamed(
+          'grammar-unit',
+          pathParameters: {'levelId': levelId, 'unitId': unit.id},
+        );
+      case UnitType.vocabulary:
+        context.pushNamed(
+          'vocabulary-set',
+          pathParameters: {'levelId': levelId, 'setId': unit.id},
+        );
+      case UnitType.exam:
+        context.pushNamed(
+          'exam-prep',
+          pathParameters: {'levelId': levelId},
+        );
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     final lang = Localizations.localeOf(context).languageCode;
-    final title = unit.localizedTitle(lang);
+    final sc = _statusColor(levelColor);
     final isComplete = unit.status == 'complete';
+    final isInProgress = unit.status == 'in_progress';
 
     return Semantics(
-      label: '$title. ${unit.stars} stars. ${unit.status}',
+      label: '${unit.localizedTitle(lang)}. ${unit.status}',
       button: true,
       child: GestureDetector(
-        onTap: onTap,
+        onTap: () => _navigate(context),
         child: Container(
+          width: 76,
           decoration: BoxDecoration(
-            borderRadius: Radii.cardMd,
-            gradient: LinearGradient(
-              begin: Alignment.topLeft,
-              end: Alignment.bottomRight,
-              colors: isComplete
-                  ? [
-                      accentColor.withOpacity(0.20),
-                      AppColors.surface,
-                    ]
-                  : [AppColors.surface, AppColors.surfaceVariant.withOpacity(0.80)],
-            ),
+            borderRadius: BorderRadius.circular(10),
+            color: isComplete
+                ? sc.withOpacity(0.10)
+                : AppColors.surfaceVariant.withOpacity(0.40),
             border: Border.all(
-              color: isComplete
-                  ? accentColor.withOpacity(0.40)
+              color: isComplete || isInProgress
+                  ? sc.withOpacity(0.45)
                   : AppColors.surfaceVariant,
-              width: 1.0,
+              width: isInProgress ? 1.5 : 1,
             ),
           ),
-          child: Padding(
-            padding: const EdgeInsets.all(10),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                // Top row: index badge + status icon
-                Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  children: [
-                    Container(
-                      width: 28,
-                      height: 28,
-                      decoration: BoxDecoration(
-                        color: accentColor.withOpacity(0.15),
-                        borderRadius: BorderRadius.circular(8),
-                      ),
-                      alignment: Alignment.center,
-                      child: Text(
-                        '${index + 1}',
-                        style: TextStyle(
-                          color: accentColor,
-                          fontSize: 12,
-                          fontWeight: FontWeight.w800,
-                        ),
-                      ),
+          padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 7),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              // Status dot + type icon row
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  Icon(_typeIcon, color: sc, size: 18),
+                  Container(
+                    width: 7,
+                    height: 7,
+                    decoration: BoxDecoration(
+                      shape: BoxShape.circle,
+                      color: sc,
                     ),
-                    Icon(_statusIcon, color: _statusColor, size: 18),
-                  ],
-                ),
-
-                const SizedBox(height: Spacing.sm),
-
-                // Content-type icon
-                Icon(_typeIcon, color: accentColor, size: 26),
-
-                const SizedBox(height: Spacing.xs),
-
-                // Title
-                Expanded(
-                  child: Text(
-                    title,
-                    style: Theme.of(context).textTheme.bodySmall?.copyWith(
-                          fontWeight: FontWeight.w600,
-                          height: 1.35,
-                          color: AppColors.onSurface,
-                        ),
-                    maxLines: 3,
-                    overflow: TextOverflow.ellipsis,
                   ),
-                ),
+                ],
+              ),
 
-                const SizedBox(height: Spacing.xs),
-
-                // Stars
+              // Stars (compact) for completed
+              if (isComplete)
                 Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
                   children: List.generate(
                     3,
                     (i) => Icon(
@@ -486,89 +554,179 @@ class _UnitCard extends StatelessWidget {
                       color: i < unit.stars
                           ? AppColors.starGold
                           : AppColors.starEmpty,
-                      size: 12,
+                      size: 10,
                     ),
                   ),
+                )
+              else
+                // Play icon for not started / in-progress
+                Icon(
+                  isInProgress
+                      ? Icons.play_circle_rounded
+                      : Icons.circle_outlined,
+                  color: sc,
+                  size: 14,
                 ),
-              ],
-            ),
+
+              // Short title
+              Text(
+                unit.localizedTitle(lang),
+                style: TextStyle(
+                  color: AppColors.onSurface.withOpacity(0.85),
+                  fontSize: 9,
+                  fontWeight: FontWeight.w600,
+                  height: 1.25,
+                ),
+                maxLines: 2,
+                overflow: TextOverflow.ellipsis,
+                textAlign: TextAlign.center,
+              ),
+            ],
           ),
-        )
-            .animate(delay: Duration(milliseconds: (index * 35).clamp(0, 500)))
-            .fadeIn(duration: AppDurations.medium)
-            .slideY(begin: 0.10, duration: AppDurations.medium, curve: Curves.easeOut),
+        ),
       ),
     );
   }
 }
 
-// ── Exam Card (full-width) ────────────────────────────────────────────────────
+// ── Level exam section ────────────────────────────────────────────────────────
+
+class _ExamSection extends StatelessWidget {
+  const _ExamSection({
+    required this.units,
+    required this.levelId,
+    required this.sectionIndex,
+  });
+
+  final List<UnitSummary> units;
+  final String levelId;
+  final int sectionIndex;
+
+  @override
+  Widget build(BuildContext context) {
+    final theme = Theme.of(context);
+    final lang = Localizations.localeOf(context).languageCode;
+    final l10n = AppLocalizations.of(context)!;
+
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        // Section label
+        Row(
+          children: [
+            const Icon(Icons.emoji_events_rounded,
+                color: AppColors.secondary, size: 16),
+            const SizedBox(width: Spacing.xs),
+            Text(
+              l10n.curriculumExamPrep,
+              style: theme.textTheme.labelLarge?.copyWith(
+                color: AppColors.secondary,
+                letterSpacing: 0.6,
+              ),
+            ),
+          ],
+        ).animate(
+          delay: Duration(milliseconds: (sectionIndex * 55).clamp(0, 600))),
+
+        const SizedBox(height: Spacing.sm),
+
+        ...units.asMap().entries.map((e) {
+          final i = e.key;
+          final unit = e.value;
+          return Padding(
+            padding: const EdgeInsets.only(bottom: Spacing.sm),
+            child: _ExamCard(
+              unit: unit,
+              levelId: levelId,
+              animIndex: sectionIndex + i,
+              lang: lang,
+            ),
+          );
+        }),
+      ],
+    );
+  }
+}
 
 class _ExamCard extends StatelessWidget {
   const _ExamCard({
     required this.unit,
-    required this.accentColor,
-    required this.index,
-    required this.onTap,
+    required this.levelId,
+    required this.animIndex,
+    required this.lang,
   });
 
   final UnitSummary unit;
-  final Color accentColor;
-  final int index;
-  final VoidCallback onTap;
+  final String levelId;
+  final int animIndex;
+  final String lang;
 
   @override
   Widget build(BuildContext context) {
-    final lang = Localizations.localeOf(context).languageCode;
+    final isComplete = unit.isComplete;
+    final stateColor = isComplete ? AppColors.success : AppColors.secondary;
+
     return GestureDetector(
-      onTap: onTap,
+      onTap: () => context.pushNamed(
+        'exam-prep',
+        pathParameters: {'levelId': levelId},
+      ),
       child: Container(
-        padding: const EdgeInsets.all(Spacing.lg),
+        padding: const EdgeInsets.all(Spacing.md),
         decoration: BoxDecoration(
-          borderRadius: Radii.cardLg,
+          borderRadius: Radii.cardMd,
           gradient: LinearGradient(
-            begin: Alignment.topLeft,
-            end: Alignment.bottomRight,
-            colors: [accentColor.withOpacity(0.28), AppColors.surface],
+            colors: [
+              stateColor.withOpacity(0.18),
+              AppColors.surface,
+            ],
+            begin: Alignment.centerLeft,
+            end: Alignment.centerRight,
           ),
           border: Border.all(
-            color: accentColor.withOpacity(0.50),
+            color: stateColor.withOpacity(0.40),
             width: 1.5,
           ),
         ),
         child: Row(
           children: [
-            // Icon circle
+            // Icon
             Container(
-              width: 64,
-              height: 64,
+              width: 48,
+              height: 48,
               decoration: BoxDecoration(
                 shape: BoxShape.circle,
-                color: accentColor.withOpacity(0.15),
-                border: Border.all(color: accentColor.withOpacity(0.50), width: 2),
+                color: stateColor.withOpacity(0.14),
+                border: Border.all(
+                    color: stateColor.withOpacity(0.45), width: 2),
                 boxShadow: [
                   BoxShadow(
-                    color: accentColor.withOpacity(0.25),
-                    blurRadius: 12,
-                  ),
+                      color: stateColor.withOpacity(0.22), blurRadius: 10)
                 ],
               ),
-              child: Icon(Icons.quiz_rounded, color: accentColor, size: 30),
+              child: Icon(
+                isComplete
+                    ? Icons.emoji_events_rounded
+                    : Icons.quiz_rounded,
+                color: stateColor,
+                size: 24,
+              ),
             ),
 
             const SizedBox(width: Spacing.md),
 
+            // Title + stars
             Expanded(
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
                     unit.localizedTitle(lang),
-                    style: Theme.of(context).textTheme.titleMedium?.copyWith(
+                    style: Theme.of(context).textTheme.titleSmall?.copyWith(
                           fontWeight: FontWeight.w700,
                         ),
                   ),
-                  const SizedBox(height: Spacing.xs),
+                  const SizedBox(height: 4),
                   Row(
                     children: List.generate(
                       3,
@@ -579,7 +737,7 @@ class _ExamCard extends StatelessWidget {
                         color: i < unit.stars
                             ? AppColors.starGold
                             : AppColors.starEmpty,
-                        size: 18,
+                        size: 15,
                       ),
                     ),
                   ),
@@ -587,17 +745,55 @@ class _ExamCard extends StatelessWidget {
               ),
             ),
 
+            // Arrow
             Icon(
-              Icons.arrow_forward_ios_rounded,
+              Icons.chevron_right_rounded,
               color: AppColors.onSurfaceVariant,
-              size: 16,
+              size: 22,
             ),
           ],
         ),
       )
-          .animate(delay: Duration(milliseconds: index * 80))
+          .animate(
+              delay: Duration(
+                  milliseconds: (animIndex * 55).clamp(0, 700)))
           .fadeIn(duration: AppDurations.medium)
-          .slideX(begin: 0.08, duration: AppDurations.medium, curve: Curves.easeOut),
+          .slideY(
+              begin: 0.06,
+              duration: AppDurations.medium,
+              curve: Curves.easeOut),
     );
   }
+}
+
+// ── Exam badge (shown in top label row) ──────────────────────────────────────
+
+class _ExamBadge extends StatelessWidget {
+  const _ExamBadge({required this.color});
+  final Color color;
+
+  @override
+  Widget build(BuildContext context) => Container(
+        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+        decoration: BoxDecoration(
+          color: color.withOpacity(0.14),
+          borderRadius: BorderRadius.circular(20),
+          border: Border.all(color: color.withOpacity(0.40)),
+        ),
+        child: Row(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Icon(Icons.emoji_events_rounded, color: color, size: 12),
+            const SizedBox(width: 4),
+            Text(
+              'Exam',
+              style: TextStyle(
+                color: color,
+                fontSize: 11,
+                fontWeight: FontWeight.w700,
+              ),
+            ),
+          ],
+        ),
+      );
 }

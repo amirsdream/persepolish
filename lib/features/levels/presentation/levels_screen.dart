@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_animate/flutter_animate.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
@@ -16,66 +17,82 @@ class LevelsScreen extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final levelsAsync = ref.watch(levelsProvider);
     final theme = Theme.of(context);
+    final l10n = AppLocalizations.of(context)!;
 
     return Scaffold(
       backgroundColor: AppColors.background,
       body: SafeArea(
         child: CustomScrollView(
           slivers: [
+            // ── Branding header ──────────────────────────────────────────────
             SliverAppBar(
-              expandedHeight: 120,
+              expandedHeight: 110,
               pinned: true,
               backgroundColor: AppColors.background,
               elevation: 0,
+              surfaceTintColor: Colors.transparent,
               flexibleSpace: FlexibleSpaceBar(
                 background: Padding(
                   padding: const EdgeInsets.fromLTRB(
-                    Spacing.md, Spacing.md, Spacing.md, 0),
+                      Spacing.md, Spacing.md, Spacing.md, 0),
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        AppLocalizations.of(context)!.appName,
-                        style: theme.textTheme.displayLarge?.copyWith(
+                        l10n.appName,
+                        style: theme.textTheme.displaySmall?.copyWith(
                           color: AppColors.primary,
+                          fontWeight: FontWeight.w900,
+                          letterSpacing: -0.5,
                         ),
                       ),
                       const SizedBox(height: Spacing.xs),
                       Text(
-                        AppLocalizations.of(context)!.learnSubtitle,
-                        style: theme.textTheme.bodyMedium,
+                        l10n.learnSubtitle,
+                        style: theme.textTheme.bodyMedium?.copyWith(
+                          color: AppColors.onSurfaceVariant,
+                        ),
                       ),
                     ],
                   ),
                 ),
               ),
-              bottom: PreferredSize(
-                preferredSize: const Size.fromHeight(56),
-                child: const XpStreakHeader(),
+              bottom: const PreferredSize(
+                preferredSize: Size.fromHeight(56),
+                child: XpStreakHeader(),
               ),
             ),
 
-            const SliverToBoxAdapter(
-              child: SizedBox(height: Spacing.md),
+            // ── Section label ────────────────────────────────────────────────
+            SliverToBoxAdapter(
+              child: Padding(
+                padding: const EdgeInsets.fromLTRB(
+                    Spacing.md, Spacing.lg, Spacing.md, Spacing.sm),
+                child: Text(
+                  'Your Learning Path',
+                  style: theme.textTheme.labelLarge?.copyWith(
+                    color: AppColors.onSurfaceVariant,
+                    letterSpacing: 0.8,
+                  ),
+                ),
+              ).animate().fadeIn(duration: AppDurations.medium),
             ),
 
+            // ── Level cards list ─────────────────────────────────────────────
             levelsAsync.when(
               data: (levels) => SliverPadding(
                 padding: const EdgeInsets.symmetric(horizontal: Spacing.md),
-                sliver: SliverGrid(
-                  gridDelegate:
-                      const SliverGridDelegateWithFixedCrossAxisCount(
-                    crossAxisCount: 2,
-                    crossAxisSpacing: Spacing.md,
-                    mainAxisSpacing: Spacing.md,
-                    childAspectRatio: 0.85,
-                  ),
+                sliver: SliverList(
                   delegate: SliverChildBuilderDelegate(
                     (context, index) {
                       final level = levels[index];
-                      return LevelCardWidget(
-                        level: level,
-                        onTap: _onLevelTap(context, level),
+                      return Padding(
+                        padding: const EdgeInsets.only(bottom: Spacing.sm),
+                        child: LevelCardWidget(
+                          level: level,
+                          onTap: _onLevelTap(context, level),
+                          animationDelay: Duration(milliseconds: index * 80),
+                        ),
                       );
                     },
                     childCount: levels.length,
