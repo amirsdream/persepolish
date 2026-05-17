@@ -772,23 +772,6 @@ class _CardBack extends StatelessWidget {
               ),
             ],
 
-            const SizedBox(height: Spacing.md),
-
-            // ── Swipe hint at bottom (always LTR — directional indicator) ────
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [
-                _SwipeLabel(
-                    icon: Icons.close_rounded,
-                    label: 'Again',
-                    color: AppColors.incorrectRed),
-                _SwipeLabel(
-                    icon: Icons.check_rounded,
-                    label: 'Got it',
-                    color: AppColors.correctGreen,
-                    reverse: true),
-              ],
-            ),
           ],
         ),
     );
@@ -854,38 +837,6 @@ class _GenderBadge extends StatelessWidget {
               letterSpacing: 0.4,
             ),
       ),
-    );
-  }
-}
-
-class _SwipeLabel extends StatelessWidget {
-  const _SwipeLabel({
-    required this.icon,
-    required this.label,
-    required this.color,
-    this.reverse = false,
-  });
-  final IconData icon;
-  final String label;
-  final Color color;
-  final bool reverse;
-
-  @override
-  Widget build(BuildContext context) {
-    final children = [
-      Icon(icon, size: 13, color: color.withValues(alpha: 0.6)),
-      const SizedBox(width: 3),
-      Text(
-        label,
-        style: Theme.of(context).textTheme.labelSmall?.copyWith(
-              color: color.withValues(alpha: 0.6),
-              letterSpacing: 0.5,
-            ),
-      ),
-    ];
-    return Row(
-      mainAxisSize: MainAxisSize.min,
-      children: reverse ? children.reversed.toList() : children,
     );
   }
 }
