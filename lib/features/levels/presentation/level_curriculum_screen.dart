@@ -25,12 +25,12 @@ class _ChapterGroup {
   // grammar items first (in order), then vocab last — built by caller
   final List<UnitSummary> items = [];
 
-  /// Use the vocabulary-set title as the chapter theme; fall back to "Chapter N".
-  String chapterTitle(String lang) {
+  /// Use the vocabulary-set title as the chapter theme; fall back to localised "Chapter N".
+  String chapterTitle(String lang, String fallback) {
     final vocab = items
         .where((u) => u.unitType == UnitType.vocabulary)
         .firstOrNull;
-    return vocab?.localizedTitle(lang) ?? 'Chapter $number';
+    return vocab?.localizedTitle(lang) ?? fallback;
   }
 
   int get completedCount => items.where((u) => u.isComplete).length;
@@ -135,7 +135,7 @@ class _CurriculumView extends StatelessWidget {
                   ),
                   const SizedBox(width: Spacing.xs),
                   Text(
-                    '${chapters.length} chapters',
+                    AppLocalizations.of(context)!.curricChaptersCount(chapters.length),
                     style: Theme.of(context).textTheme.labelLarge?.copyWith(
                           color: level.color,
                           letterSpacing: 0.6,
@@ -302,6 +302,7 @@ class _ChapterSection extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final stateColor = _stateColor(levelColor);
+    final l10n = AppLocalizations.of(context)!;
 
     return Container(
       margin: const EdgeInsets.only(bottom: Spacing.sm),
@@ -354,7 +355,7 @@ class _ChapterSection extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        group.chapterTitle(lang),
+                        group.chapterTitle(lang, l10n.curricChapterFallback(group.number)),
                         style: Theme.of(context).textTheme.labelLarge?.copyWith(
                               fontWeight: FontWeight.w700,
                               color: AppColors.onSurface,
@@ -363,7 +364,7 @@ class _ChapterSection extends StatelessWidget {
                         overflow: TextOverflow.ellipsis,
                       ),
                       Text(
-                        '${group.completedCount} / ${group.totalCount} done',
+                        l10n.curricProgressFraction(group.completedCount, group.totalCount),
                         style: const TextStyle(
                           color: AppColors.onSurfaceVariant,
                           fontSize: 11,
@@ -389,7 +390,7 @@ class _ChapterSection extends StatelessWidget {
                             color: levelColor, size: 13),
                         const SizedBox(width: 2),
                         Text(
-                          'Continue',
+                          l10n.exerciseContinue,
                           style: TextStyle(
                             color: levelColor,
                             fontSize: 11,
@@ -786,7 +787,7 @@ class _ExamBadge extends StatelessWidget {
             Icon(Icons.emoji_events_rounded, color: color, size: 12),
             const SizedBox(width: 4),
             Text(
-              'Exam',
+              AppLocalizations.of(context)!.curricExamBadge,
               style: TextStyle(
                 color: color,
                 fontSize: 11,

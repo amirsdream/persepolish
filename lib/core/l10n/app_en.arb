@@ -206,5 +206,29 @@
   },
 
   "flashcardSetComplete": "Set complete! Great work.",
-  "@flashcardSetComplete": { "description": "Message when all flashcards in set are reviewed" }
+  "@flashcardSetComplete": { "description": "Message when all flashcards in set are reviewed" },
+
+  "curricChaptersCount": "{count} chapters",
+  "@curricChaptersCount": {
+    "description": "Chapter count label on curriculum screen",
+    "placeholders": { "count": { "type": "int" } }
+  },
+
+  "curricChapterFallback": "Chapter {number}",
+  "@curricChapterFallback": {
+    "description": "Fallback chapter title when vocab title is unavailable",
+    "placeholders": { "number": { "type": "int" } }
+  },
+
+  "curricProgressFraction": "{done} / {total} done",
+  "@curricProgressFraction": {
+    "description": "Chapter progress fraction label",
+    "placeholders": {
+      "done": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+
+  "curricExamBadge": "Exam",
+  "@curricExamBadge": { "description": "Badge label for the level exam" }
 }

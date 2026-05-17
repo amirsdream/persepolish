@@ -206,5 +206,29 @@
   },
 
   "flashcardSetComplete": "مجموعه تموم شد! آفرین.",
-  "@flashcardSetComplete": { "description": "Message when all flashcards in set are reviewed" }
+  "@flashcardSetComplete": { "description": "Message when all flashcards in set are reviewed" },
+
+  "curricChaptersCount": "{count} فصل",
+  "@curricChaptersCount": {
+    "description": "Chapter count label on curriculum screen",
+    "placeholders": { "count": { "type": "int" } }
+  },
+
+  "curricChapterFallback": "فصل {number}",
+  "@curricChapterFallback": {
+    "description": "Fallback chapter title when vocab title is unavailable",
+    "placeholders": { "number": { "type": "int" } }
+  },
+
+  "curricProgressFraction": "{done} از {total} تمام شده",
+  "@curricProgressFraction": {
+    "description": "Chapter progress fraction label",
+    "placeholders": {
+      "done": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+
+  "curricExamBadge": "آزمون",
+  "@curricExamBadge": { "description": "Badge label for the level exam" }
 }
