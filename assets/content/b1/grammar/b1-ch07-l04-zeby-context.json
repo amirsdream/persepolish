@@ -4,7 +4,9 @@
   "chapter": 7,
   "lessonOrder": 4,
   "title": "Żeby — Purpose, Desire, Command (Full Context)",
+  "title_fa": "żeby — هدف، آرزو، دستور در بافت کامل",
   "grammarPoint": "Distinguishing the three uses of żeby in complex sentences: purpose (in order to), desire (want/wish), and command (tell/ask someone to) — with contrast between że and żeby",
+  "grammarPoint_fa": "مرور کامل żeby در همه کاربردهایش",
   "explanation": {
     "text": "**Żeby** has three main functions in Polish. Mastering the distinctions lets you use it confidently in all contexts.\n\n## The Three Faces of żeby\n\n| Function | Trigger | Form | Example |\n|----------|---------|------|---------|\n| **Purpose** | movement/action verbs | żeby + inf (same subj) | Idę, żeby kupić. |\n| **Desire** | chcieć, pragnąć, marzyć | żeby + l-form (diff subj) | Chcę, żebyś przyszedł. |\n| **Command/Request** | prosić, powiedzieć, kazać | żeby + l-form (diff subj) | Prosiła, żebyśmy zostali. |\n\n## że vs żeby: The Core Distinction\n\n**że** = that (statement, belief, fact):\n- Myślę, **że** on jest chory. (I think **that** he is ill.)\n- Powiedział, **że** przyjdzie. (He said **that** he will come.)\n- Widziałem, **że** deszcz pada. (I saw **that** it's raining.)\n\n**żeby** = in order to / so that / want [someone] to:\n- Idę, **żeby** kupić. (I go **in order to** buy.)\n- Chcę, **żebyś** przyszedł. (I want **you to** come.)\n- Powiedział, **żebyśmy** wrócili. (He told us **to** come back.)\n\n## Distinguishing Purpose vs Desire\n\n**Purpose** (in order to — answers WHY you're doing something):\n- *Dlaczego idziesz do sklepu?* — Idę, żeby kupić mleko. (Why are you going? — To buy milk.)\n- *Dlaczego uczysz się?* — Uczę się, żeby zdać egzamin. (Why are you studying? — To pass the exam.)\n\n**Desire** (want someone to — answers WHAT you want):\n- *Czego chcesz?* — Chcę, żebyś tu został. (What do you want? — I want you to stay here.)\n- *Co mama mówi?* — Mama mówi, żebym jadł. (What does Mom say? — Mom says [for me] to eat.)\n\n## Complex Sentences Combining Uses\n\nReal Polish sentences often combine multiple uses:\n\n*Wyszłam wcześnie, **żeby** zdążyć na pociąg, ale chciałam też, **żebyś** ze mną poszedł.*\n(I left early **in order to** make the train, but I also wanted **you to** go with me.)\n\n*Prosiłam go, **żeby** mi pomógł, ale on powiedział, **że** jest zbyt zajęty.*\n(I asked him **to** help me, but he said **that** he's too busy.)\n\n## Żeby After Adjectives and Nouns\n\n**Ważne żeby** (it's important that):\n- Ważne, **żebyś** pamiętał. (It's important that you [m] remember.)\n- Ważne, **żebyśmy** nie spóźnili się. (It's important that we're not late.)\n\n**Dobrze żeby** (it's good that/if):\n- Dobrze, **żebyś** to wiedział. (It's good that you know this.)\n\n**Czas żeby** (it's time to):\n- Czas, **żebyśmy** szli. (It's time for us to go.)\n\n**Szkoda żeby** (it's a pity if):\n- Szkoda, **żebyś** nie widział tego. (It's a pity for you not to see this.)",
     "notes": [
@@ -14,13 +16,19 @@
       "The pattern żeby + adj + żeby is possible but rare in colloquial speech: 'Ważne, żebyś był' (it's important that you are there) is natural and common."
     ]
   },
+  "explanation_fa": "żeby در چهار کاربرد: ۱) هدف (فاعل یکسان): Wychodzę, żeby pobiec (می‌روم تا بدوم). ۲) خواسته (فاعل‌های مختلف): Chcę, żebyś zrozumiał (می‌خواهم بفهمی). ۳) پس از دستور: Kazał mi, żebym przyszedł (دستور داد بیایم). ۴) آرزو: Oby żeby wszystko było dobrze (کاش همه چیز خوب باشد).",
   "exercises": [
     {
       "id": "b1-ch07-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Choose the correct connector: Myślę, ___ ona ma rację. (I think she is right.)",
-      "options": ["że", "żeby", "żebyś", "czy"],
+      "options": [
+        "że",
+        "żeby",
+        "żebyś",
+        "czy"
+      ],
       "correctIndex": 0,
       "explanation": "'Myślę, że ona ma rację.' = I think she is right. 'Myśleć' = belief verb → 'że' (that). 'Żeby' = purpose/desire (wrong after myśleć). Common mistake: 'Myślę, żeby ona miała rację' = I want/intend for her to be right (completely different meaning — and awkward)."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Choose correct connector: Chcę, ___ ty tu został. (I want you [m] to stay here.)",
-      "options": ["żebyś", "że", "żebym", "czy"],
+      "options": [
+        "żebyś",
+        "że",
+        "żebym",
+        "czy"
+      ],
       "correctIndex": 0,
       "explanation": "'Chcę, żebyś tu został.' = I want you (male) to stay here. 'Chcieć' = desire verb → 'żeby' + l-form (different subjects: I want / you stay). 'Żebyś' = 2sg marker. 'Że' = that (for statements: 'Chcę, że' is grammatically wrong with chcieć). 'Żebym' = 1sg (I would — wrong person)."
     },
@@ -39,7 +52,9 @@
       "order": 3,
       "prompt": "Is it purpose or desire? 'Ważne, ___ pamiętał.' → (It's important that he [m] remember.) [żeby + l-form]",
       "answer": "żeby",
-      "acceptableAnswers": ["żeby"],
+      "acceptableAnswers": [
+        "żeby"
+      ],
       "explanation": "'Ważne, żeby pamiętał.' — It's important that he remembers. 'Żeby' = 3sg marker (he — no personal suffix). 'Pamiętał' = l-form m (he remembered/remember). 'Ważne żeby' = it's important that (adjective + żeby pattern). The subject of 'pamiętał' is 3rd person → 'żeby' without personal ending."
     },
     {
@@ -47,7 +62,12 @@
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/b1/ch07/b1-ch07-l04-ex04.mp3",
-      "options": ["Prosiłam go, żeby mi pomógł, ale powiedział, że jest zajęty.", "Prosiłam go, że mi pomoże, ale powiedział, żeby był zajęty.", "Prosiłam go, żeby mi pomógł, ale powiedział, żeby był zajęty.", "Prosiłam go, że mu pomoże, ale powiedział, że jest zajęty."],
+      "options": [
+        "Prosiłam go, żeby mi pomógł, ale powiedział, że jest zajęty.",
+        "Prosiłam go, że mi pomoże, ale powiedział, żeby był zajęty.",
+        "Prosiłam go, żeby mi pomógł, ale powiedział, żeby był zajęty.",
+        "Prosiłam go, że mu pomoże, ale powiedział, że jest zajęty."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Prosiłam go, żeby mi pomógł, ale powiedział, że jest zajęty.' — I (f) asked him to help me, but he said he's busy. Two different connectors in one sentence: (1) 'żeby mi pomógł' = request (żeby + l-form m: 'pomógł'). (2) 'że jest zajęty' = statement (że + present). Mixing żeby (request) and że (statement) correctly."
     },
@@ -56,15 +76,46 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: It's time for us (m) to go. And it's important that you don't forget. [Czas + żebyśmy; ważne + żebyś + nie zapomniał]",
-      "wordBank": ["Czas", "żebyśmy", "żebyś", "szli", "szły", "i", "ważne", "żebyś", "żebyśmy", "nie", "zapomniał", "zapomniała", "."],
+      "wordBank": [
+        "Czas",
+        "żebyśmy",
+        "żebyś",
+        "szli",
+        "szły",
+        "i",
+        "ważne",
+        "żebyś",
+        "żebyśmy",
+        "nie",
+        "zapomniał",
+        "zapomniała",
+        "."
+      ],
       "correctSequences": [
-        ["Czas", "żebyśmy", "szli", "i", "ważne", "żebyś", "nie", "zapomniał", "."]
+        [
+          "Czas",
+          "żebyśmy",
+          "szli",
+          "i",
+          "ważne",
+          "żebyś",
+          "nie",
+          "zapomniał",
+          "."
+        ]
       ],
       "explanation": "'Czas, żebyśmy szli, i ważne, żebyś nie zapomniał.' — It's time for us to go, and it's important that you (m) don't forget. 'Żebyśmy szli' = 1pl virile going (l-form: szedł → szli). 'Żebyś nie zapomniał' = you (m) not forget (2sg + l-form m). Two żeby clauses with different subjects in each."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 14,
-  "tags": ["żeby", "b1-core", "że-vs-żeby", "complex-sentences"],
-  "prerequisites": ["b1-ch07-l03"]
+  "tags": [
+    "żeby",
+    "b1-core",
+    "że-vs-żeby",
+    "complex-sentences"
+  ],
+  "prerequisites": [
+    "b1-ch07-l03"
+  ]
 }

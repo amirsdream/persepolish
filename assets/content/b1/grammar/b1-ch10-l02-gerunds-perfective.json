@@ -4,7 +4,9 @@
   "lessonOrder": 2,
   "level": "b1",
   "title": "Gerunds: Perfective — Sequential & Completed Actions",
+  "title_fa": "قیدهای فعلی کامل — اعمال متوالی و تمام‌شده",
   "grammarPoint": "Perfective gerunds with 'po' + locative for sequential actions",
+  "grammarPoint_fa": "قید فعلی کامل (imiesłów przysłówkowy uprzedni): -wszy/-łszy — przeczytawszy، zrobiwszy",
   "explanation": {
     "text": "A perfective gerund (imię czynności od dokonanego) refers to a single, completed action. Its most important use in Polish is after the preposition 'po' (after):\n\npo + LOCATIVE of PERFECTIVE GERUND\n• Po przeczytaniu książki, poszłam spać. (After reading the book [through], I went to bed.)\n• Po napisaniu listu, wysłałem go. (After writing the letter [completely], I sent it.)\n• Po zrobieniu zakupów, wróciłem do domu. (After doing the shopping, I went home.)\n\nForming the locative: perfective gerund + -u (singular neuter):\n• przeczytanie → przeczytaniu\n• napisanie → napisaniu\n• zrobienie → zrobieniu\n• przyjście → przyjściu\n• wyjście → wyjściu\n\nComparison:\n• Lubię czytanie. (I like reading — imperfective, general habit)\n• Po przeczytaniu artykułu, zrozumiałem temat. (After reading the article through — perfective, sequential)",
     "notes": [
@@ -14,6 +16,7 @@
       "Locative singular of neuter nouns ends in -u: przeczytanie → przeczytaniu"
     ]
   },
+  "explanation_fa": "قید فعلی کامل (imiesłów przysłówkowy uprzedni) با پسوند -wszy/-łszy ساخته می‌شود: przeczytać → przeczytawszy (پس از خواندن)، zrobić → zrobiwszy (پس از انجام دادن). کاربرد: برای عملی که قبل از فعل اصلی تمام شده: Przeczytawszy list, odłożył go (پس از خواندن نامه، آن را گذاشت). این ساختار در نوشتار ادبی و رسمی استفاده می‌شود.",
   "exercises": [
     {
       "id": "b1-ch10-l02-ex01",
@@ -33,7 +36,9 @@
       "type": "fill_blank",
       "prompt": "Po ___ (writing) e-maila, zamknęłam laptop.",
       "answer": "napisaniu",
-      "acceptableAnswers": ["napisaniu"],
+      "acceptableAnswers": [
+        "napisaniu"
+      ],
       "explanation": "Po + locative of perfective gerund. Napisać (perfective) → napisanie → napisaniu (locative). 'Po napisaniu e-maila, zamknęłam laptopa' = After writing the email (fully), I closed the laptop."
     },
     {
@@ -53,9 +58,21 @@
       "id": "b1-ch10-l02-ex04",
       "type": "sentence_builder",
       "prompt": "Build: 'After doing homework, I will go out.'",
-      "wordBank": ["Po", "zrobieniu", "lekcji", "wyjdę", "robię", "lekcje"],
+      "wordBank": [
+        "Po",
+        "zrobieniu",
+        "lekcji",
+        "wyjdę",
+        "robię",
+        "lekcje"
+      ],
       "correctSequences": [
-        ["Po", "zrobieniu", "lekcji", "wyjdę"]
+        [
+          "Po",
+          "zrobieniu",
+          "lekcji",
+          "wyjdę"
+        ]
       ],
       "explanation": "Po zrobieniu lekcji, wyjdę. Zrobić (perfective) → zrobienie → zrobieniu (locative after 'po'). Lekcji is genitive (object of the gerund). Wyjdę is first person singular future of wyjść."
     },
@@ -75,6 +92,15 @@
   ],
   "xpReward": 15,
   "estimatedMinutes": 8,
-  "tags": ["gerunds", "perfective", "po_preposition", "locative", "sequential_actions"],
-  "prerequisites": ["b1-ch10-l01-gerunds-imperfective", "b1-ch09-l03-verbal-nouns-aspect"]
+  "tags": [
+    "gerunds",
+    "perfective",
+    "po_preposition",
+    "locative",
+    "sequential_actions"
+  ],
+  "prerequisites": [
+    "b1-ch10-l01-gerunds-imperfective",
+    "b1-ch09-l03-verbal-nouns-aspect"
+  ]
 }

@@ -4,7 +4,9 @@
   "chapter": 8,
   "lessonOrder": 3,
   "title": "Genitive Singular — Possession and Absence",
+  "title_fa": "مضاف‌الیهی مفرد — مالکیت و نبود",
   "grammarPoint": "Genitive singular for possession (brat + a = brata), nie ma + genitive (absence), expressions of quantity",
+  "grammarPoint_fa": "حالت مضاف‌الیهی: nie ma + مضاف‌الیهی، szukać + مضاف‌الیهی",
   "explanation": {
     "text": "The **genitive case** (dopełniacz) has several important uses. At A1 level, focus on:\n\n**Use 1: Possession** — 'whose / of what'\n- książka **brata** = my brother's book (of brother)\n- adres **szkoły** = the school's address (of school)\n- imię **dziecka** = the child's name (of child)\n\n**Use 2: nie ma + genitive** — 'there is no / isn't any'\n- **Nie ma** mleka. = There is no milk.\n- **Nie ma** Jana. = Jan isn't here.\n- **Nie ma** problemu. = No problem.\n\n**Use 3: After negation** — object changes to genitive\n- Mam samochód. → Nie mam **samochodu**. = I don't have a car.\n- Lubię kawę. → Nie lubię **kawy**. = I don't like coffee.\n\n**Genitive singular endings:**\n\n| Gender | Nominative | Genitive |\n|--------|-----------|----------|\n| Masculine animate | -consonant | **-a**: brat → brata, lekarz → lekarza |\n| Masculine inanimate | -consonant | **-a / -u**: sklep → sklepu, stół → stołu |\n| Feminine -a | -a | **-y / -i**: mama → mamy, siostra → siostry |\n| Neuter | -o | **-a**: okno → okna, dziecko → dziecka |",
     "notes": [
@@ -14,13 +16,19 @@
       "Feminine: -a → -i (after soft consonants/k,g): babcia → babci, ulica → ulicy."
     ]
   },
+  "explanation_fa": "حالت مضاف‌الیهی برای نبود چیزی: Nie ma mleka (شیر نیست). برای جستجو: Szukam klucza (دنبال کلید می‌گردم). برای مالکیت: To jest dom mojego brata (این خانه برادرم است). پسوندها: مذکر/خنثی -a/-u، مؤنث -y/-i.",
   "exercises": [
     {
       "id": "a1-ch08-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Nie ma ___ (There is no water). [woda → genitive]",
-      "options": ["wody", "woda", "wodę", "wodzie"],
+      "options": [
+        "wody",
+        "woda",
+        "wodę",
+        "wodzie"
+      ],
       "correctIndex": 0,
       "explanation": "'Nie ma + genitive': woda (f) → wody. 'Nie ma wody' = There is no water."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Nie mam ___ (I don't have a car). [samochód → genitive after negation]",
       "answer": "samochodu",
-      "acceptableAnswers": ["samochodu"],
+      "acceptableAnswers": [
+        "samochodu"
+      ],
       "hint": "After negation, accusative changes to genitive. Masculine inanimate: -u"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch08/a1-ch08-l03-ex03.mp3",
-      "options": ["To jest numer telefonu brata.", "To jest numer telefon brata.", "To jest numer telefonu brat.", "To jest numer telefonie brata."],
+      "options": [
+        "To jest numer telefonu brata.",
+        "To jest numer telefon brata.",
+        "To jest numer telefonu brat.",
+        "To jest numer telefonie brata."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'To jest numer telefonu brata.' — This is my brother's phone number. 'Telefon' → genitive 'telefonu'. 'Brat' → genitive 'brata' (possession)."
     },
@@ -47,9 +62,22 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: I don't like beer.",
-      "wordBank": ["Nie", "nie", "lubię", "lubię", "piwa", "piwo", "piwem", "piwie"],
+      "wordBank": [
+        "Nie",
+        "nie",
+        "lubię",
+        "lubię",
+        "piwa",
+        "piwo",
+        "piwem",
+        "piwie"
+      ],
       "correctSequences": [
-        ["Nie", "lubię", "piwa"]
+        [
+          "Nie",
+          "lubię",
+          "piwa"
+        ]
       ],
       "explanation": "'Nie lubię piwa' = I don't like beer. After negation, accusative (piwo) → genitive (piwa). Neuter: -o → -a."
     },
@@ -58,13 +86,27 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Adres ___ jest na ulicy Długiej. (The school's address is on Długa Street.) [szkoła → genitive]",
-      "options": ["szkoły", "szkoła", "szkole", "szkołę"],
+      "options": [
+        "szkoły",
+        "szkoła",
+        "szkole",
+        "szkołę"
+      ],
       "correctIndex": 0,
       "explanation": "'Szkoła' (f) → genitive 'szkoły'. 'Adres szkoły' = the school's address. Feminine -a → -y for possession."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["genitive", "possession", "negation", "nie-ma", "a1-core"],
-  "prerequisites": ["a1-ch02-l04", "a1-ch08-l02"]
+  "tags": [
+    "genitive",
+    "possession",
+    "negation",
+    "nie-ma",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch02-l04",
+    "a1-ch08-l02"
+  ]
 }

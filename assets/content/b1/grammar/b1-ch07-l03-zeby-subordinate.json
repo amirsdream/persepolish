@@ -4,7 +4,9 @@
   "chapter": 7,
   "lessonOrder": 3,
   "title": "Żeby After chcieć, prosić, powiedzieć",
+  "title_fa": "żeby پس از chcieć، prosić، powiedzieć",
   "grammarPoint": "żeby clauses after verbs of desire, request, and instruction: chcieć żeby, prosić żeby, powiedzieć żeby, pozwolić żeby, zakazać żeby",
+  "grammarPoint_fa": "افعالی که żeby می‌طلبند: chcieć، prosić، woleć، bać się، cieszyć się",
   "explanation": {
     "text": "A key set of verbs in Polish require **żeby + l-form** when expressing desires, requests, or instructions directed at someone else.\n\n## Verbs That Require żeby Clauses\n\n**Desire verbs** (chcieć, pragnąć, marzyć o tym żeby):\n- Chcę, **żebyś tu był**. (I want you to be here.)\n- Pragnę, **żeby wszystko było dobrze**. (I wish for everything to be fine.)\n\n**Request verbs** (prosić, błagać, nalegać):\n- Proszę, **żebyś zadzwoniła**. (I'm asking you [f] to call.)\n- Błagam, **żebyś mnie nie zostawiał**. (I'm begging you not to leave me.)\n\n**Instruction/command verbs** (powiedzieć, kazać, nakazać, prosić):\n- Powiedział, **żebyśmy wrócili** przed ósmą. (He told us to be back before eight.)\n- Lekarz kazał **mi leżeć** w łóżku. (The doctor ordered me to stay in bed — kazać + dative)\n\n**Permission verbs** (pozwolić, zezwolić, pozwalać):\n- Pozwól, **żebym wytłumaczył**. (Let me explain.)\n- Czy możesz mi **pozwolić**, **żebym wyszedł** wcześniej? (Can you let me leave earlier?)\n\n**Prohibition verbs** (zakazać, zabraniać, nie pozwalać):\n- Zabraniam, **żebyś tam chodził**. (I forbid you [m] to go there.)\n- Nie pozwalam, **żebyś to robił**. (I don't allow you to do that.)\n\n## Full Pattern Summary\n\n| Verb | Pattern | Example |\n|------|---------|--------|\n| chcieć | chcę, żebyś... | Chcę, żebyś tu był. |\n| prosić | proszę, żebyś... | Proszę, żebyś zadzwoniła. |\n| powiedzieć | powiedział, żebyśmy... | Powiedział, żebyśmy przyszli. |\n| pozwolić | pozwól, żebym... | Pozwól, żebym pomogła. |\n| zakazać | zakazał, żebyś... | Zakazał, żebyś tam chodził. |\n| błagać | błagam, żebyś... | Błagam, żebyś wrócił. |\n| nalegać | nalegam, żebyś... | Nalegam, żebyś to zrobił. |\n\n## Infinitive Exception: When the Subject is the Same\n\nEven after chcieć, prosić, etc. — if the subjects are SAME, use infinitive:\n- Chcę **pojechać** do Włoch. (I want to go to Italy — same subject)\n- Proszę o pozwolenie na **wyjście**. (I'm asking for permission to leave — formal/noun)\n- Chcę, żebyś **pojechał** do Włoch. (I want you to go to Italy — different subjects)\n\n## żeby in Negative: żebyś nie, żeby nie, etc.\n\n- Proszę, **żebyś nie zasnął**. (I'm asking you [m] not to fall asleep.)\n- Chcę, **żebyś nie zapomniała**. (I want you [f] not to forget.)\n- Powiedział, **żebyśmy się nie spóźnili**. (He told us not to be late.)\n- Zakazał, **żeby ona tam wchodziła**. (He forbade her from going in there.)",
     "notes": [
@@ -14,13 +16,19 @@
       "błagać (to beg) is very emotional: 'Błagam, żebyś wrócił!' = I'm begging you to come back! Always żeby + l-form (different subjects implied by the emotional plea)."
     ]
   },
+  "explanation_fa": "افعال رایج که żeby می‌طلبند: chcieć żeby (خواستن که)، prosić żeby (خواهش کردن که)، woleć żeby (ترجیح دادن که)، bać się żeby (ترسیدن که)، cieszyć się żeby (شادمان بودن که). پس از این افعال: żeby + گذشته اگر فاعل‌ها متفاوتند، żeby + مصدر اگر یکسانند.",
   "exercises": [
     {
       "id": "b1-ch07-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "The teacher wants the students (m) to read the chapter. [chcieć + żeby + uczniowie]",
-      "options": ["Nauczyciel chce, żeby uczniowie przeczytali rozdział.", "Nauczyciel chce, żeby uczniowie przeczytają rozdział.", "Nauczyciel chce przeczytać rozdział.", "Nauczyciel chce, że uczniowie przeczytali rozdział."],
+      "options": [
+        "Nauczyciel chce, żeby uczniowie przeczytali rozdział.",
+        "Nauczyciel chce, żeby uczniowie przeczytają rozdział.",
+        "Nauczyciel chce przeczytać rozdział.",
+        "Nauczyciel chce, że uczniowie przeczytali rozdział."
+      ],
       "correctIndex": 0,
       "explanation": "Different subjects (nauczyciel/uczniowie) → żeby + l-form: 'Nauczyciel chce, żeby uczniowie przeczytali rozdział.' 'Przeczytali' = l-form virile pl (students, male/mixed). 'Przeczytają' = future indicative (wrong after żeby). 'Chce przeczytać' = same subject (he wants to read). 'Że przeczytali' = past statement."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Let me explain! [pozwolić + żebym, wytłumaczyć]",
-      "options": ["Pozwól, żebym wytłumaczył.", "Pozwól, żebyś wytłumaczył.", "Pozwól wytłumaczyć.", "Pozwól, że wytłumaczę."],
+      "options": [
+        "Pozwól, żebym wytłumaczył.",
+        "Pozwól, żebyś wytłumaczył.",
+        "Pozwól wytłumaczyć.",
+        "Pozwól, że wytłumaczę."
+      ],
       "correctIndex": 0,
       "explanation": "'Pozwól, żebym wytłumaczył.' — Let me (male) explain. 'Pozwól' = 2sg imperative (allow!). 'Żebym' = 1sg marker. 'Wytłumaczył' = l-form m (I, male, will explain). 'Pozwól wytłumaczyć' = also acceptable (same subject implied — let [me] explain). 'Żebyś wytłumaczył' = let you explain (wrong person). 'Że wytłumaczę' = that I will explain (statement)."
     },
@@ -39,7 +52,9 @@
       "order": 3,
       "prompt": "He told us not to be late. → Powiedział, ___ się nie spóźnili. [1pl virile]",
       "answer": "żebyśmy",
-      "acceptableAnswers": ["żebyśmy"],
+      "acceptableAnswers": [
+        "żebyśmy"
+      ],
       "explanation": "'Powiedział, żebyśmy się nie spóźnili.' — He told us not to be late. 'Żebyśmy' = 1pl marker (us). 'Nie spóźnili' = l-form virile pl (we, male/mixed, not late). The 'się' (reflexive) comes after the 'nie': '...żebyśmy się nie spóźnili' (us-not-late-reflexive order is flexible but this is natural)."
     },
     {
@@ -47,7 +62,12 @@
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/b1/ch07/b1-ch07-l03-ex04.mp3",
-      "options": ["Błagam, żebyś do mnie wrócił!", "Błagam, żeby do mnie wrócił!", "Błagam, żebym do ciebie wrócił!", "Błagam, że do mnie wróci!"],
+      "options": [
+        "Błagam, żebyś do mnie wrócił!",
+        "Błagam, żeby do mnie wrócił!",
+        "Błagam, żebym do ciebie wrócił!",
+        "Błagam, że do mnie wróci!"
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Błagam, żebyś do mnie wrócił!' — I beg you (male) to come back to me! 'Błagam' = I beg (present, emotional). 'Żebyś' = 2sg (you). 'Wrócił' = l-form m (you, male, return). 'Do mnie' = to me. Emphatic emotional plea → błagać + żebyś + l-form."
     },
@@ -56,15 +76,45 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: She asks him not to forget about the meeting. [prosić + żeby + on + nie zapomnieć]",
-      "wordBank": ["Prosi", "Prosi", "żebyś", "żeby", "on", "nie", "zapomniał", "zapomniała", "o", "spotkaniu", "spotkanie", "."],
+      "wordBank": [
+        "Prosi",
+        "Prosi",
+        "żebyś",
+        "żeby",
+        "on",
+        "nie",
+        "zapomniał",
+        "zapomniała",
+        "o",
+        "spotkaniu",
+        "spotkanie",
+        "."
+      ],
       "correctSequences": [
-        ["Prosi", "żeby", "on", "nie", "zapomniał", "o", "spotkaniu", "."]
+        [
+          "Prosi",
+          "żeby",
+          "on",
+          "nie",
+          "zapomniał",
+          "o",
+          "spotkaniu",
+          "."
+        ]
       ],
       "explanation": "'Prosi, żeby on nie zapomniał o spotkaniu.' — She asks him not to forget about the meeting. 'Prosi' = she asks (3sg f). 'Żeby on' = that he (3sg subject). 'Nie zapomniał' = not forget (l-form m). 'O spotkaniu' = about the meeting (o + locative: spotkanie → spotkaniu). Different subjects → żeby + l-form."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 13,
-  "tags": ["żeby", "b1-core", "chcieć", "prosić", "desire-clauses"],
-  "prerequisites": ["b1-ch07-l02"]
+  "tags": [
+    "żeby",
+    "b1-core",
+    "chcieć",
+    "prosić",
+    "desire-clauses"
+  ],
+  "prerequisites": [
+    "b1-ch07-l02"
+  ]
 }

@@ -3,7 +3,9 @@
   "level": "a2",
   "order": 1,
   "title": "Past Tense — Masculine (Czas przeszły)",
+  "title_fa": "زمان گذشته — مذکر",
   "explanation": "The Polish past tense (czas przeszły) is formed from the past stem of the verb. For masculine singular subjects (ja, ty, on), the endings are: -łem (ja), -łeś (ty), -ł (on). For example: robić (to do) → robiłem (I did, m), robiłeś (you did, m), robił (he did). The stem is formed by removing -ć from the infinitive and adding -ł-. Note: irregular verbs like iść (to go) have stems: szedłem, szedłeś, szedł.",
+  "explanation_fa": "زمان گذشته مذکر مفرد با پسوند -ł ساخته می‌شود: pracował، czytał، mówił. شکل کامل: był (بود). برای اول شخص و دوم شخص پسوندهای شخصی اضافه می‌شوند: pracowałem (کار کردم)، pracowałeś (کار کردی).",
   "examples": [
     {
       "polish": "Wczoraj pracowałem cały dzień.",
@@ -40,7 +42,9 @@
       "id": "a2-g001-ex02",
       "prompt": "Complete with the past tense of 'czytać' (to read) for 'on' (he):",
       "sentence_template": "On ___ gazetę.",
-      "accepted_answers": ["czytał"],
+      "accepted_answers": [
+        "czytał"
+      ],
       "explanation": "Masculine 3rd person singular past: -ł ending. Czytać → czytał."
     },
     {
@@ -61,7 +65,9 @@
       "id": "a2-g001-ex04",
       "prompt": "Complete with the past tense of 'robić' (to do) for 'ja' (I, male):",
       "sentence_template": "Co ___ wczoraj?",
-      "accepted_answers": ["robiłem"],
+      "accepted_answers": [
+        "robiłem"
+      ],
       "explanation": "Masculine 1st person singular past: robiłem (robić → robił- + -em)."
     },
     {

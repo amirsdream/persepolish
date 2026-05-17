@@ -4,7 +4,9 @@
   "chapter": 10,
   "lessonOrder": 4,
   "title": "A1 Grammar Review — Cases and Verbs",
+  "title_fa": "مرور دستور زبان A1 — حالت‌ها و افعال",
   "grammarPoint": "A1 summary: all 7 cases overview, verb groups 1 & 2, key patterns consolidation",
+  "grammarPoint_fa": "مروری بر هفت حالت دستوری و افعال کلیدی سطح A1",
   "explanation": {
     "text": "Let's consolidate the key grammar patterns from the entire A1 level.\n\n**Polish Cases — Quick Reference:**\n\n| Case | Polish | Main uses | Key question |\n|------|--------|-----------|-------------|\n| **Nominative** | mianownik | subject, dictionary form | Kto? Co? |\n| **Genitive** | dopełniacz | possession, negation, after 5+, nie ma | Kogo? Czego? |\n| **Dative** | celownik | indirect object, boli mnie | Komu? Czemu? |\n| **Accusative** | biernik | direct object, motion direction, lubić | Kogo? Co? |\n| **Instrumental** | narzędnik | być+profession, means, z+together | Kim? Czym? |\n| **Locative** | miejscownik | location (w/na), after certain preps | O kim? O czym? |\n| **Vocative** | wołacz | direct address (Mamo! Panie!) | — |\n\n**Verb Groups Summary:**\n\n| Group | Pattern | Key verbs | ja/ty |\n|-------|---------|-----------|-------|\n| 1 | -am/-asz | czytać, słuchać, rozmawiać | czytam/czytasz |\n| 2 | -ę/-isz | mówić, lubić, chodzić | mówię/mówisz |\n| 3 | -ę/-esz | pisać, iść, jeść | piszę/piszesz |\n| Modal | + inf | musieć, móc, chcieć | muszę/możesz |\n\n**Case trigger words (high frequency):**\n- **Genitive**: nie ma, dużo, mało, ile, do, z, po, bez\n- **Dative**: dać, powiedzieć, pomagać, podobać się, dziękować\n- **Accusative**: mieć, lubić, widzieć, jeść, pić, kupić\n- **Instrumental**: być (identity), z, jechać (+transport)\n- **Locative**: w, na, przy, o (topic), po (after)",
     "notes": [
@@ -14,13 +16,19 @@
       "Locative only used after prepositions — never stands alone."
     ]
   },
+  "explanation_fa": "در این درس تمام مطالب A1 مرور می‌شود: هفت حالت دستوری (فاعلی، مفعولی، مضاف‌الیهی، دادی، ابزاری، مکانی، ندایی) و کاربرد هر کدام. صرف افعال کلیدی: być، mieć، gropps 1 و 2. افعال حرکتی، وجهی و بازتابی. این مرور پایه محکمی برای سطح A2 فراهم می‌کند.",
   "exercises": [
     {
       "id": "a1-ch10-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Which case follows 'nie ma'? Nie ma ___ (no water).",
-      "options": ["wody (genitive)", "wodę (accusative)", "wodą (instrumental)", "wodzie (locative)"],
+      "options": [
+        "wody (genitive)",
+        "wodę (accusative)",
+        "wodą (instrumental)",
+        "wodzie (locative)"
+      ],
       "correctIndex": 0,
       "explanation": "'Nie ma + genitive': woda → wody. 'Nie ma' = there is no — always takes genitive."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Jestem ___ (I am a student — m, instrumental after być). [student]",
       "answer": "studentem",
-      "acceptableAnswers": ["studentem"],
+      "acceptableAnswers": [
+        "studentem"
+      ],
       "hint": "być + identity/profession = instrumental: student → studentem"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch10/a1-ch10-l04-ex03.mp3",
-      "options": ["Boli mnie głowa i nie mogę pracować.", "Bola mnie głowa i nie mogę pracować.", "Boli mi głowa i nie mogę pracować.", "Boli mnie głowie i nie mogę pracować."],
+      "options": [
+        "Boli mnie głowa i nie mogę pracować.",
+        "Bola mnie głowa i nie mogę pracować.",
+        "Boli mi głowa i nie mogę pracować.",
+        "Boli mnie głowie i nie mogę pracować."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Boli mnie głowa i nie mogę pracować.' — My head hurts and I can't work. 'Boli mnie głowa' = boleć construction. 'Nie mogę' = I can't (móc, negation)."
     },
@@ -47,9 +62,24 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: I'm going to Warsaw by train.",
-      "wordBank": ["Jadę", "Idę", "do", "w", "Warszawy", "Warszawa", "Warszawie", "pociągiem", "pociąg"],
+      "wordBank": [
+        "Jadę",
+        "Idę",
+        "do",
+        "w",
+        "Warszawy",
+        "Warszawa",
+        "Warszawie",
+        "pociągiem",
+        "pociąg"
+      ],
       "correctSequences": [
-        ["Jadę", "do", "Warszawy", "pociągiem"]
+        [
+          "Jadę",
+          "do",
+          "Warszawy",
+          "pociągiem"
+        ]
       ],
       "explanation": "'Jadę do Warszawy pociągiem.' Vehicle motion = jechać. Destination = do + genitive (Warszawa → Warszawy). Transport = instrumental (pociąg → pociągiem)."
     },
@@ -58,13 +88,29 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Complete: Muszę ___ do lekarza jutro. (I must go to the doctor tomorrow.)",
-      "options": ["iść", "idę", "idy", "chodzę"],
+      "options": [
+        "iść",
+        "idę",
+        "idy",
+        "chodzę"
+      ],
       "correctIndex": 0,
       "explanation": "'Muszę iść do lekarza' = I must go to the doctor. Modal verbs (musieć, móc, chcieć) + infinitive: iść. 'Jutro' = tomorrow."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": ["review", "cases", "a1-summary", "verb-groups", "a1-core"],
-  "prerequisites": ["a1-ch09-l04", "a1-ch10-l01", "a1-ch10-l02", "a1-ch10-l03"]
+  "tags": [
+    "review",
+    "cases",
+    "a1-summary",
+    "verb-groups",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch09-l04",
+    "a1-ch10-l01",
+    "a1-ch10-l02",
+    "a1-ch10-l03"
+  ]
 }

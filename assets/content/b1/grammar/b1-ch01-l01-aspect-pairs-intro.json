@@ -4,7 +4,9 @@
   "chapter": 1,
   "lessonOrder": 1,
   "title": "Aspect Pairs — Deep Dive",
+  "title_fa": "جفت‌های وجهی — بررسی عمیق",
   "grammarPoint": "Perfective vs imperfective: detailed analysis of aspect meaning beyond simple rules — focus, result, communication intent, and aspectual ambiguity",
+  "grammarPoint_fa": "تحلیل دقیق تفاوت معنایی فعل کامل و ناکامل در سطح B1",
   "explanation": {
     "text": "At B1 level, aspect is not just about habit vs. one-time events. It's about **communication focus** — what do you want to emphasise?\n\n## The Real Meaning of Aspect\n\n**Imperfective** emphasises:\n- **Duration**: I was doing X for a long time\n- **Process**: I was in the middle of doing X\n- **Repetition**: I used to do / I do X regularly\n- **Attempt**: I tried to do X (may or may not have succeeded)\n- **General activity**: the activity itself, without result\n\n**Perfective** emphasises:\n- **Completion**: X was done, it's over, it's done\n- **Result**: X produced a change or result\n- **Single event**: X happened once\n- **Sequence**: X happened, then Y happened\n\n## The Attempt/Result Contrast\n\nThis is a key B1 distinction:\n\n- Czytałem tę książkę. (I read / was reading this book — may not have finished!)\n- Przeczytałem tę książkę. (I read this book — finished, done.)\n\n- Szukałam kluczy. (I was looking for my keys — may not have found them.)\n- Znalazłam klucze. (I found the keys — result achieved.)\n\n- Zamykałem okno. (I was closing the window — process, maybe interrupted.)\n- Zamknąłem okno. (I closed the window — it's now closed.)\n\n## Aspect with Negation\n\nNegation almost always takes **imperfective**:\n- Nie czytałem tej książki. (I didn't / haven't read this book.)\n- Nigdy nie piszę listów. (I never write letters.)\n- Nie zapomniałem → Nie zapominałem (the 'not forgetting' is ongoing, imperf)\n\n**Exception**: Perfective with negation for specific completed attempts:\n- Nie zamknął okna. (He didn't close the window = result not achieved.)\n\n## Aspect with Modal Verbs\n\nAfter modal verbs (musieć, móc, chcieć, lubić), aspect matters:\n- Lubię **czytać** (I like reading — the activity)\n- Chciałem **przeczytać** (I wanted to finish reading — the result)\n- Muszę **napisać** email (I must write = complete the email)\n- Mogę **pisać** email (I can be in the process of writing)",
     "notes": [
@@ -14,13 +16,19 @@
       "Attempt meaning: imperfective implies attempt without guaranteed result (szukałam = I searched, may not have found). Perfective implies achieved result."
     ]
   },
+  "explanation_fa": "در سطح B1 باید تفاوت ظریف وجه را درک کنیم. ناکامل: تأکید بر فرآیند، مدت، تکرار یا عمل ناتمام. کامل: تأکید بر نتیجه، پایان، یک بار یا لحظه خاص. مثال: czytałem gazetę godzinę (یک ساعت روزنامه خواندم — فرآیند) در برابر przeczytałem gazetę (روزنامه را خواندم — تمام کردم).",
   "exercises": [
     {
       "id": "b1-ch01-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Szukałam swojej książki przez godzinę, ale ___ jej. (I looked for my book for an hour, but didn't find it.) [negation + no result]",
-      "options": ["nie znalazłam", "nie szukałam", "szukałam", "znajdę"],
+      "options": [
+        "nie znalazłam",
+        "nie szukałam",
+        "szukałam",
+        "znajdę"
+      ],
       "correctIndex": 0,
       "explanation": "'Nie znalazłam' = I didn't find (perfective with negation = result not achieved). The imperfective 'szukałam' (was searching) shows the attempt. The result clause 'nie znalazłam' = the result was not achieved."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Which sentence implies the window is now closed?",
-      "options": ["Zamknąłem okno.", "Zamykałem okno.", "Okno było zamykane.", "Zamknąłem się."],
+      "options": [
+        "Zamknąłem okno.",
+        "Zamykałem okno.",
+        "Okno było zamykane.",
+        "Zamknąłem się."
+      ],
       "correctIndex": 0,
       "explanation": "'Zamknąłem okno.' — perfective past: result achieved, window is now closed. 'Zamykałem okno' = was in the process of closing (may have been interrupted — result not guaranteed)."
     },
@@ -38,7 +51,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/b1/ch01/b1-ch01-l01-ex03.mp3",
-      "options": ["Lubiłam czytać długo w nocy, kiedy byłam studentką.", "Lubiłam przeczytać długo w nocy, kiedy byłam studentką.", "Podobało mi się czytać długo w nocy, gdy byłam studentką.", "Czytałam lubię w nocy kiedy byłam studentką."],
+      "options": [
+        "Lubiłam czytać długo w nocy, kiedy byłam studentką.",
+        "Lubiłam przeczytać długo w nocy, kiedy byłam studentką.",
+        "Podobało mi się czytać długo w nocy, gdy byłam studentką.",
+        "Czytałam lubię w nocy kiedy byłam studentką."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Lubiłam czytać długo w nocy, kiedy byłam studentką.' — I used to like reading late at night when I was a student. 'Lubić + imperfective infinitive' = like doing the activity. 'Czytać' (not przeczytać) because it's the activity, not completing each book."
     },
@@ -47,7 +65,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Muszę ___ ten raport przed piątkiem. (I must complete this report before Friday.) [focus on completion]",
-      "options": ["napisać", "pisać", "piszę", "napisałem"],
+      "options": [
+        "napisać",
+        "pisać",
+        "piszę",
+        "napisałem"
+      ],
       "correctIndex": 0,
       "explanation": "'Muszę napisać' = I must write (= complete) the report. Perfective 'napisać' = the report must be finished. 'Muszę pisać' = I must be in the process of writing (but maybe not finish) — unusual here. When a deadline is involved, perfective is natural."
     },
@@ -56,16 +79,54 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: She was reading the email when he came in. (ongoing action interrupted)",
-      "wordBank": ["Czytała", "Przeczytała", "email", "emaila", "kiedy", "gdy", "on", "wszedł", "wchodził", "do", "pokoju", "."],
+      "wordBank": [
+        "Czytała",
+        "Przeczytała",
+        "email",
+        "emaila",
+        "kiedy",
+        "gdy",
+        "on",
+        "wszedł",
+        "wchodził",
+        "do",
+        "pokoju",
+        "."
+      ],
       "correctSequences": [
-        ["Czytała", "emaila", "kiedy", "on", "wszedł", "."],
-        ["Czytała", "emaila", "gdy", "on", "wszedł", "."]
+        [
+          "Czytała",
+          "emaila",
+          "kiedy",
+          "on",
+          "wszedł",
+          "."
+        ],
+        [
+          "Czytała",
+          "emaila",
+          "gdy",
+          "on",
+          "wszedł",
+          "."
+        ]
       ],
       "explanation": "'Czytała emaila, kiedy on wszedł.' — She was reading the email when he came in. 'Czytała' = imperfective (ongoing background). 'Wszedł' = perfective (single event interrupting). 'Emaila' = accusative of email (m animate → -a)."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": ["aspect", "b1-core", "perfective", "imperfective"],
-  "prerequisites": ["a2-ch12-l01", "a2-ch12-l02", "a2-ch12-l03", "a2-ch12-l04", "a2-ch20-l01"]
+  "tags": [
+    "aspect",
+    "b1-core",
+    "perfective",
+    "imperfective"
+  ],
+  "prerequisites": [
+    "a2-ch12-l01",
+    "a2-ch12-l02",
+    "a2-ch12-l03",
+    "a2-ch12-l04",
+    "a2-ch20-l01"
+  ]
 }

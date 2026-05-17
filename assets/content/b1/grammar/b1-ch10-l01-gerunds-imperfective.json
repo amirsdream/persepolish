@@ -4,7 +4,9 @@
   "lessonOrder": 1,
   "level": "b1",
   "title": "Gerunds: Imperfective — Habitual & General Activities",
+  "title_fa": "قیدهای فعلی ناکامل — فعالیت‌های عادت و کلی",
   "grammarPoint": "Imperfective gerunds as objects (lubię czytanie, zaczynam gotowanie)",
+  "grammarPoint_fa": "قید فعلی ناکامل (imiesłów przysłówkowy współczesny): -ąc — czytając، mówiąc",
   "explanation": {
     "text": "An imperfective gerund (odczasownikowe imię czynności od niedokonanego) describes an activity as a repeated habit, general interest, or ongoing process — not a single completed event.\n\nKey pattern: lubić/kochać/nienawidzić + IMPERFECTIVE gerund (accusative)\n• Lubię czytanie. (I enjoy reading — as a general habit)\n• Kocham gotowanie. (I love cooking — as a passion)\n• Nienawidzę czekania. (I hate waiting — in general)\n\nAfter NEGATION, use genitive:\n• Nie lubię czytania. (I don't like reading.)\n• Nie znoszę gotowania. (I can't stand cooking.)\n\nWith verbs of beginning/stopping:\n• Zacząłem czytanie. / Zacząłem czytać. (both work)\n• Skończyłem pisanie raportu. (I finished writing the report.)\n\nTip: Imperfective gerund = the activity itself, viewed as a type of thing you do.",
     "notes": [
@@ -14,6 +16,7 @@
       "Imperfective = general, habitual, repeated activity — no completion implied"
     ]
   },
+  "explanation_fa": "قید فعلی ناکامل (imiesłów przysłówkowy współczesny) با پسوند -ąc ساخته می‌شود: czytać → czytając (در حال خواندن)، mówić → mówiąc (در حال گفتن)، słuchać → słuchając. کاربرد: برای دو عمل همزمان: Słuchając muzyki, gotowałam obiad (در حالی که موسیقی گوش می‌دادم، ناهار درست می‌کردم). فاعل هر دو فعل باید یکسان باشد.",
   "exercises": [
     {
       "id": "b1-ch10-l01-ex01",
@@ -33,7 +36,9 @@
       "type": "fill_blank",
       "prompt": "Nie lubię ___ (waiting). [imperfective gerund, genitive after negation]",
       "answer": "czekania",
-      "acceptableAnswers": ["czekania"],
+      "acceptableAnswers": [
+        "czekania"
+      ],
       "explanation": "After nie lubię, the gerund goes to genitive. Czekanie (nominative) → czekania (genitive). 'Nie lubię czekania' = I don't like waiting."
     },
     {
@@ -53,9 +58,21 @@
       "id": "b1-ch10-l01-ex04",
       "type": "sentence_builder",
       "prompt": "Build: 'She loves reading books.'",
-      "wordBank": ["Ona", "kocha", "czytanie", "książek", "lubię", "pisanie"],
+      "wordBank": [
+        "Ona",
+        "kocha",
+        "czytanie",
+        "książek",
+        "lubię",
+        "pisanie"
+      ],
       "correctSequences": [
-        ["Ona", "kocha", "czytanie", "książek"]
+        [
+          "Ona",
+          "kocha",
+          "czytanie",
+          "książek"
+        ]
       ],
       "explanation": "Ona kocha czytanie książek. Czytanie is the accusative gerund (object of kochać); książek is the genitive object of czytanie. The gerund 'possesses' its own object in the genitive."
     },
@@ -76,6 +93,16 @@
   ],
   "xpReward": 15,
   "estimatedMinutes": 8,
-  "tags": ["gerunds", "imperfective", "verbal_nouns", "lubić", "accusative", "genitive"],
-  "prerequisites": ["b1-ch09-l01-verbal-nouns-nie", "b1-ch09-l03-verbal-nouns-aspect"]
+  "tags": [
+    "gerunds",
+    "imperfective",
+    "verbal_nouns",
+    "lubić",
+    "accusative",
+    "genitive"
+  ],
+  "prerequisites": [
+    "b1-ch09-l01-verbal-nouns-nie",
+    "b1-ch09-l03-verbal-nouns-aspect"
+  ]
 }

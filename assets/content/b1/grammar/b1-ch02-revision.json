@@ -3,8 +3,9 @@
   "level": "b1",
   "chapter": 2,
   "title": "Chapter 2 Revision — Motion Verbs",
+  "title_fa": "مرور فصل ۲ B1: افعال حرکتی",
   "description": "Mixed revision quiz covering chodzić/iść/pójść, jeździć/jechać/pojechać, running, flying, and motion verbs in context.",
-  "passThreshold": 0.70,
+  "passThreshold": 0.7,
   "questions": [
     {
       "id": "b1-ch02-rev-q01",
@@ -12,7 +13,12 @@
       "order": 1,
       "sourceLesson": "b1-ch02-l01",
       "prompt": "Codziennie ___ do pracy pieszo. (Every day I walk to work on foot.) [habit, foot]",
-      "options": ["chodzę", "idę", "pójdę", "poszłam"],
+      "options": [
+        "chodzę",
+        "idę",
+        "pójdę",
+        "poszłam"
+      ],
       "correctIndex": 0,
       "explanation": "Daily habit on foot → 'chodzę' (chodzić, multidirectional). 'Idę' = I'm going right now. 'Pójdę' = I will go once. 'Codziennie' = signal of habit → use multidirectional verb."
     },
@@ -22,7 +28,12 @@
       "order": 2,
       "sourceLesson": "b1-ch02-l01",
       "prompt": "Przepraszam, gdzie ___ teraz? (Excuse me, where are you going right now?) [ongoing foot motion]",
-      "options": ["idziesz", "chodzisz", "pójdziesz", "chodziłeś"],
+      "options": [
+        "idziesz",
+        "chodzisz",
+        "pójdziesz",
+        "chodziłeś"
+      ],
       "correctIndex": 0,
       "explanation": "'Idziesz' = you are going right now (iść, unidirectional, present). 'Chodzisz?' = Do you usually go? (habit). 'Pójdziesz?' = Will you go? (future, single event)."
     },
@@ -32,7 +43,12 @@
       "order": 3,
       "sourceLesson": "b1-ch02-l02",
       "prompt": "Wczoraj ___ do Gdańska samochodem. (Yesterday I drove to Gdańsk.) [single past vehicle trip]",
-      "options": ["pojechałem", "jechałem", "jeździłem", "jadę"],
+      "options": [
+        "pojechałem",
+        "jechałem",
+        "jeździłem",
+        "jadę"
+      ],
       "correctIndex": 0,
       "explanation": "'Pojechałem' = I drove (perfective, single completed trip). 'Jechałem' = was driving (ongoing, background). 'Jeździłem' = I used to go / habitually drove. 'Wczoraj' + single trip = perfective."
     },
@@ -42,7 +58,12 @@
       "order": 4,
       "sourceLesson": "b1-ch02-l02",
       "prompt": "Uważaj! ___ samochodem przy czerwonym świetle! (Watch out! He's driving through the red light!) [right now, vehicle]",
-      "options": ["Jedzie", "Jeździ", "Pojechał", "Pojadzie"],
+      "options": [
+        "Jedzie",
+        "Jeździ",
+        "Pojechał",
+        "Pojadzie"
+      ],
       "correctIndex": 0,
       "explanation": "'Jedzie' = he is driving (right now, jechać, unidirectional, 3rd sg). 'Jeździ' = he drives habitually. 'Pojechał' = he drove/went (completed). The warning is about right-now dangerous action = unidirectional."
     },
@@ -52,7 +73,12 @@
       "order": 5,
       "sourceLesson": "b1-ch02-l03",
       "prompt": "Uwaga! ___ na autobus, który za chwilę odjedzie! (I'm running for the bus that's leaving in a moment!)",
-      "options": ["Biegnę", "Biegam", "Pobiegłem", "Biegałam"],
+      "options": [
+        "Biegnę",
+        "Biegam",
+        "Pobiegłem",
+        "Biegałam"
+      ],
       "correctIndex": 0,
       "explanation": "'Biegnę!' = I'm running right now (biec, unidirectional, urgent present action). 'Biegam' = I run habitually. 'Pobiegłem' = I ran (past perfective). Urgent present situation = unidirectional."
     },
@@ -62,7 +88,12 @@
       "order": 6,
       "sourceLesson": "b1-ch02-l03",
       "prompt": "Często ___ do Londynu służbowo. (She often flies to London for business.)",
-      "options": ["lata", "leci", "poleciała", "poleci"],
+      "options": [
+        "lata",
+        "leci",
+        "poleciała",
+        "poleci"
+      ],
       "correctIndex": 0,
       "explanation": "'Lata' = she flies habitually (latać, multidirectional, 3rd sg). 'Leci' = she is flying right now. 'Poleciała' = she flew (once, past perf). 'Często' = signal of habit → multidirectional."
     },
@@ -72,7 +103,12 @@
       "order": 7,
       "sourceLesson": "b1-ch02-l04",
       "prompt": "W narracji: 'Jan ___ do parku, a potem przez godzinę ___ alejkami.' [ran to / ran around]",
-      "options": ["pobiegł / biegał", "biegał / pobiegł", "biegał / biegał", "pobiegł / pobiegł"],
+      "options": [
+        "pobiegł / biegał",
+        "biegał / pobiegł",
+        "biegał / biegał",
+        "pobiegł / pobiegł"
+      ],
       "correctIndex": 0,
       "explanation": "Narrative: 'Pobiegł do parku' (perf — arrived at the park) then 'biegał alejkami' (imperf multidirectional — ran around the paths). Classic perfective arrival → imperfective activity pattern."
     },
@@ -82,7 +118,12 @@
       "order": 8,
       "sourceLesson": "b1-ch02-l04",
       "prompt": "'Jechałam autostradą, kiedy...' — what type of verb is 'jechałam'?",
-      "options": ["Imperfective unidirectional (ongoing background)", "Perfective (completed trip)", "Multidirectional (habit)", "Future tense"],
+      "options": [
+        "Imperfective unidirectional (ongoing background)",
+        "Perfective (completed trip)",
+        "Multidirectional (habit)",
+        "Future tense"
+      ],
       "correctIndex": 0,
       "explanation": "'Jechałam' = imperfective past of jechać (unidirectional — ongoing vehicle motion, one direction). It functions as background for a kiedy + perfective event. 'I was driving when...' = imperfective background."
     },
@@ -92,7 +133,12 @@
       "order": 9,
       "sourceVocab": "b1-ch02-vocab",
       "prompt": "What does 'wsiadać / wsiąść do' mean?",
-      "options": ["to get on/in (a vehicle)", "to get off/out (a vehicle)", "to arrive at", "to depart from"],
+      "options": [
+        "to get on/in (a vehicle)",
+        "to get off/out (a vehicle)",
+        "to arrive at",
+        "to depart from"
+      ],
       "correctIndex": 0,
       "explanation": "'Wsiadać/wsiąść do + gen' = to get on/in (a vehicle). 'Wsiadłam do autobusu' = I got on the bus. Contrast: 'Wysiadać/wysiąść z + gen' = to get off/out. Polish uses do (in) for getting in, z (from) for getting out."
     },
@@ -102,7 +148,12 @@
       "order": 10,
       "sourceLesson": "b1-ch02-l01",
       "prompt": "Jutro ___ do lekarza — mam wizytę o jedenastej. (Tomorrow I'll go to the doctor — I have an appointment at eleven.)",
-      "options": ["pójdę", "idę", "chodzę", "szłam"],
+      "options": [
+        "pójdę",
+        "idę",
+        "chodzę",
+        "szłam"
+      ],
       "correctIndex": 0,
       "explanation": "'Pójdę' = I will go (perfective, single future event). One specific appointment → perfective. 'Idę' = I'm going right now. 'Chodzę do lekarza' = I go to the doctor regularly (habit). 'Jutro' + one event = perfective."
     },
@@ -112,7 +163,12 @@
       "order": 11,
       "sourceVocab": "b1-ch02-vocab",
       "prompt": "What does 'po drodze' mean?",
-      "options": ["on the way", "on the road (adj)", "along the route", "at the crossroads"],
+      "options": [
+        "on the way",
+        "on the road (adj)",
+        "along the route",
+        "at the crossroads"
+      ],
       "correctIndex": 0,
       "explanation": "'Po drodze' = on the way (fixed phrase). 'Kupię mleko po drodze' = I'll buy milk on the way. Very common: 'Czy możesz wziąć po drodze...?' = Can you pick up [something] on the way?"
     },
@@ -122,7 +178,12 @@
       "order": 12,
       "sourceLesson": "b1-ch02-l04",
       "prompt": "What does the prefix 'przy-' add to a motion verb (przyjść, przyjechać)?",
-      "options": ["Arrival / coming (toward the speaker)", "Passing through", "Going away", "Going out"],
+      "options": [
+        "Arrival / coming (toward the speaker)",
+        "Passing through",
+        "Going away",
+        "Going out"
+      ],
       "correctIndex": 0,
       "explanation": "'Przy-' = arrival / coming toward the speaker or destination. 'Przyjść' = to come (on foot), 'przyjechać' = to arrive (by vehicle). Contrast: 'od-' = going away, 'prze-' = passing through, 'wy-' = going out."
     }

@@ -4,7 +4,9 @@
   "chapter": 18,
   "lessonOrder": 4,
   "title": "Compound & Complex Sentences",
+  "title_fa": "جملات مرکب و پیچیده",
   "grammarPoint": "Coordinating conjunctions (i, ale, lub, ani, a) and subordinating conjunctions (że, bo/ponieważ, żeby, kiedy, chociaż) to build longer Polish sentences",
+  "grammarPoint_fa": "حروف ربط: że، żeby، kiedy، ponieważ، chociaż، jeśli",
   "explanation": {
     "text": "Connecting clauses is essential for fluent Polish. There are two types of connectors:\n\n## Coordinating Conjunctions (łączniki współrzędne)\n\nThese join two independent clauses of equal status:\n\n| Conjunction | Meaning | Example |\n|-------------|---------|--------|\n| **i** | and | Pracuję i uczę się. |\n| **a** | and / but (contrast) | Ona pracuje, a ja studiuję. |\n| **ale** | but | Chcę iść, ale jestem zmęczony. |\n| **lub / albo** | or | Herbata lub kawa? |\n| **ani...ani** | neither...nor | Ani nie jem, ani nie śpię. |\n| **więc** | so / therefore | Jestem chory, więc zostanę w domu. |\n| **jednak** | however | Chciałam iść, jednak zostałam. |\n\n**'i' vs 'a':**\n- **i** = pure addition (and): Piszę i czytam. (I write and read.)\n- **a** = contrast or parallel comparison: Ona pije kawę, **a** ja herbatę. (She drinks coffee, and I drink tea.)\n\n## Subordinating Conjunctions (łączniki podrzędne)\n\nThese introduce a dependent clause:\n\n| Conjunction | Meaning | Example |\n|-------------|---------|--------|\n| **że** | that | Myślę, że masz rację. |\n| **bo / ponieważ** | because | Zostałem w domu, bo byłem chory. |\n| **żeby** | so that / in order to | Uczę się, żeby zdać egzamin. |\n| **kiedy / gdy** | when | Kiedy skończyłem, zadzwoniłem. |\n| **jeśli / jeżeli** | if (real) | Jeśli masz czas, chodź! |\n| **chociaż / choć** | although | Chociaż jest zmęczona, pracuje. |\n| **zanim** | before | Zadzwoń, zanim przyjdziesz. |\n| **odkąd** | since (time) | Odkąd tu mieszkam, jestem szczęśliwy. |\n\n**Word order with że:**\nThe verb can go to position 2 in the subordinate clause:\n- Myślę, że **on jest** dobry. OR Myślę, że **jest** dobry.\n\n**Żeby + infinitive (subject same):**\n- Uczę się, żeby zdać egzamin. (I study in order to pass.)\n\n**Żeby + past tense (different subjects):**\n- Chcę, żeby on przyszedł. (I want him to come.)",
     "notes": [
@@ -14,13 +16,19 @@
       "Comma before subordinating conjunctions is standard in Polish: Myślę, że...; Zostałem, bo..."
     ]
   },
+  "explanation_fa": "حروف ربط پرکاربرد در جملات پیچیده: że (که — برای بیان): Wiem, że masz rację. żeby (تا — هدف): Uczę się, żeby zdać egzamin. kiedy (وقتی): Kiedy byłem młody... ponieważ/bo (چون): Nie przyszedłem, bo byłem chory. chociaż (اگرچه): Chociaż jest późno, pracuję.",
   "exercises": [
     {
       "id": "a2-ch18-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Chcę iść, ___ jestem zmęczony. (I want to go, but I'm tired.)",
-      "options": ["ale", "i", "lub", "więc"],
+      "options": [
+        "ale",
+        "i",
+        "lub",
+        "więc"
+      ],
       "correctIndex": 0,
       "explanation": "'Ale' = but (adversative — contrasting two opposing ideas). 'I' = and (addition). 'Więc' = so/therefore. 'Chcę iść, ale jestem zmęczony' = I want to go, but I'm tired."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Uczę się, ___ zdać egzamin. (I study in order to pass the exam.) [purpose]",
-      "options": ["żeby", "że", "bo", "kiedy"],
+      "options": [
+        "żeby",
+        "że",
+        "bo",
+        "kiedy"
+      ],
       "correctIndex": 0,
       "explanation": "'Żeby + infinitive' = in order to (purpose, same subject): uczę się, żeby zdać. 'Że' = that (introduces a statement). 'Bo' = because (reason). 'Kiedy' = when (time)."
     },
@@ -38,7 +51,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch18/a2-ch18-l04-ex03.mp3",
-      "options": ["Zostałem w domu, ponieważ byłem chory.", "Zostałem w domu, żeby być chory.", "Zostałem w domu, chociaż byłem chory.", "Zostałem w domu, kiedy byłem chory."],
+      "options": [
+        "Zostałem w domu, ponieważ byłem chory.",
+        "Zostałem w domu, żeby być chory.",
+        "Zostałem w domu, chociaż byłem chory.",
+        "Zostałem w domu, kiedy byłem chory."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Zostałem w domu, ponieważ byłem chory.' — I stayed at home because I was sick. 'Ponieważ' = because (formal). 'Bo' would also be correct but informal. 'Chociaż' = although (opposite meaning)."
     },
@@ -47,7 +65,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Ona pije kawę, ___ ja herbatę. (She drinks coffee, and I drink tea.) [contrast/parallel]",
-      "options": ["a", "ale", "i", "lub"],
+      "options": [
+        "a",
+        "ale",
+        "i",
+        "lub"
+      ],
       "correctIndex": 0,
       "explanation": "'A' expresses parallel contrast (not adversarial): two people doing different things. 'Ale' = adversarial but. 'I' = simple addition. 'Ona pije kawę, a ja herbatę' — classic 'a' contrast pattern."
     },
@@ -56,16 +79,53 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: Although she's tired, she keeps working. (chociaż + present)",
-      "wordBank": ["Chociaż", "ona", "jest", "zmęczona", "zmęczony", ",", "pracuje", "pracują", "dalej", "jednak", "."],
+      "wordBank": [
+        "Chociaż",
+        "ona",
+        "jest",
+        "zmęczona",
+        "zmęczony",
+        ",",
+        "pracuje",
+        "pracują",
+        "dalej",
+        "jednak",
+        "."
+      ],
       "correctSequences": [
-        ["Chociaż", "ona", "jest", "zmęczona", ",", "pracuje", "dalej", "."],
-        ["Chociaż", "jest", "zmęczona", ",", "pracuje", "dalej", "."]
+        [
+          "Chociaż",
+          "ona",
+          "jest",
+          "zmęczona",
+          ",",
+          "pracuje",
+          "dalej",
+          "."
+        ],
+        [
+          "Chociaż",
+          "jest",
+          "zmęczona",
+          ",",
+          "pracuje",
+          "dalej",
+          "."
+        ]
       ],
       "explanation": "'Chociaż ona jest zmęczona, pracuje dalej.' — Although she's tired, she keeps working. 'Chociaż' = although (concessive). 'Zmęczona' = fem adj (tired). 'Dalej' = further/still/keeps on."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["conjunctions", "complex-sentences", "a2-core"],
-  "prerequisites": ["a2-ch18-l01", "a2-ch18-l02", "a2-ch18-l03"]
+  "tags": [
+    "conjunctions",
+    "complex-sentences",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a2-ch18-l01",
+    "a2-ch18-l02",
+    "a2-ch18-l03"
+  ]
 }

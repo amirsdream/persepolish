@@ -4,7 +4,9 @@
   "chapter": 20,
   "lessonOrder": 1,
   "title": "Aspect Review — Perfective vs Imperfective",
+  "title_fa": "مرور وجه — کامل در برابر ناکامل",
   "grammarPoint": "Comprehensive review of verbal aspect choice in past, future, and conditional: context signals, sequential events, and common aspect pair errors",
+  "grammarPoint_fa": "مرور جامع وجه: قواعد انتخاب و کاربرد در بافت‌های مختلف",
   "explanation": {
     "text": "Aspect is one of the most important (and most difficult) features of Polish grammar. This lesson reviews all the key rules.\n\n## The Core Distinction\n\n- **Imperfective (niedokonany)**: ongoing, repeated, habitual, process\n- **Perfective (dokonany)**: completed, one-time, result achieved, sequential\n\n## Context Signal Words (Review)\n\n**Use IMPERFECTIVE with:**\n\n| Signal | Meaning |\n|--------|--------|\n| **codziennie** | every day |\n| **zawsze / nigdy** | always / never |\n| **często / rzadko** | often / rarely |\n| **kiedy** (when = background) | when (I was doing X, Y happened) |\n| **przez + acc** | for (duration) |\n| **właśnie** (in progress) | just (doing) |\n\n**Use PERFECTIVE with:**\n\n| Signal | Meaning |\n|--------|--------|\n| **nagle** | suddenly |\n| **w końcu / wreszcie** | finally / at last |\n| **już** (completed) | already (done) |\n| **raz / dwa razy** | once / twice |\n| **zaraz / za chwilę** | immediately / in a moment |\n| **sequential: najpierw...potem** | first...then |\n\n## In Different Tenses\n\n**PAST TENSE:**\n- Codziennie **czytałem** gazetę. (imperf — habit)\n- Wczoraj **przeczytałem** całą gazetę. (perf — completed)\n- Kiedy **czytałem**, zadzwonił telefon. (imperf background / perf event)\n\n**FUTURE TENSE:**\n- Będę **czytać** / będę **czytał** gazetę. (imperf = ongoing activity)\n- **Przeczytam** gazetę przed śniadaniem. (perf = completed before another event)\n\n**CONDITIONAL:**\n- Chciałbym **czytać** tę książkę. (imperf = enjoy the activity)\n- Chciałbym **przeczytać** tę książkę. (perf = complete/finish reading it)\n\n## Common Mistakes\n\n❌ Codziennie **napisałem** list. → ✅ Codziennie **pisałem** list.\n❌ W końcu **pisałem** raport. → ✅ W końcu **napisałem** raport.\n❌ Nagle **rozmawiałem** z szefem. → ✅ Nagle **porozmawiałem** z szefem.",
     "notes": [
@@ -14,13 +16,19 @@
       "After nagle/w końcu/wreszcie → almost always perfective: 'Nagle zrozumiałem.' 'Wreszcie napisałam list.'"
     ]
   },
+  "explanation_fa": "مرور قواعد وجه: ناکامل برای: فرآیند (był gotowany)، تکرار (jadał codziennie)، حال (czytam)، آینده تکراری (będę czytać). کامل برای: نتیجه (ugotował)، یک بار (przeczytał)، آینده کامل (przeczytam). در گفتگوی روزمره وجه اغلب از روی بافت تشخیص داده می‌شود.",
   "exercises": [
     {
       "id": "a2-ch20-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Codziennie ___ kawę rano. (Every day I drink coffee in the morning.) [habit]",
-      "options": ["piłem", "wypiłem", "piję", "wypiję"],
+      "options": [
+        "piłem",
+        "wypiłem",
+        "piję",
+        "wypiję"
+      ],
       "correctIndex": 0,
       "explanation": "Habit (codziennie) → imperfective past: 'piłem' (from pić, imperf). 'Wypiłem' = I drank (up) / finished drinking — perfective, implies single completed event. In present: 'piję' (habit), 'wypiję' (future perf)."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "W końcu ___ tę książkę! (I finally finished reading this book!) [completed result]",
-      "options": ["przeczytałem", "czytałem", "czytam", "będę czytać"],
+      "options": [
+        "przeczytałem",
+        "czytałem",
+        "czytam",
+        "będę czytać"
+      ],
       "correctIndex": 0,
       "explanation": "'W końcu' (finally) signals a completed result → perfective: 'przeczytałem' (from przeczytać, perf). 'Czytałem' = was reading (process/imperf). 'W końcu czytałem' would be ungrammatical in this context."
     },
@@ -38,7 +51,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch20/a2-ch20-l01-ex03.mp3",
-      "options": ["Kiedy gotowałam obiad, zadzwonił telefon.", "Kiedy ugotowałam obiad, zadzwonił telefon.", "Kiedy gotowałam obiad, dzwonił telefon.", "Gdy ugotowałam obiad, zadzwonił telefon."],
+      "options": [
+        "Kiedy gotowałam obiad, zadzwonił telefon.",
+        "Kiedy ugotowałam obiad, zadzwonił telefon.",
+        "Kiedy gotowałam obiad, dzwonił telefon.",
+        "Gdy ugotowałam obiad, zadzwonił telefon."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Kiedy gotowałam obiad, zadzwonił telefon.' — When I was cooking dinner, the phone rang. 'Gotowałam' = imperfective background action. 'Zadzwonił' = perfective event interrupting. Classic kiedy + imperf / perf pattern."
     },
@@ -47,7 +65,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Najpierw ___ list, a potem ___ go. (First I wrote the letter, then I sent it.) [sequential]",
-      "options": ["napisałem / wysłałem", "pisałem / wysyłałem", "napisałem / wysyłałem", "pisałem / wysłałem"],
+      "options": [
+        "napisałem / wysłałem",
+        "pisałem / wysyłałem",
+        "napisałem / wysyłałem",
+        "pisałem / wysłałem"
+      ],
       "correctIndex": 0,
       "explanation": "Sequential completed events → both perfective: 'napisałem' (finished writing) then 'wysłałem' (sent = completed). Imperfective would suggest ongoing/habitual, not sequence of completed events."
     },
@@ -56,16 +79,50 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: I would like to finish this report today. (perfective — complete/finish)",
-      "wordBank": ["Chciałbym", "Chciałabym", "skończyć", "kończyć", "ten", "tego", "raport", "raportu", "dzisiaj", "."],
+      "wordBank": [
+        "Chciałbym",
+        "Chciałabym",
+        "skończyć",
+        "kończyć",
+        "ten",
+        "tego",
+        "raport",
+        "raportu",
+        "dzisiaj",
+        "."
+      ],
       "correctSequences": [
-        ["Chciałbym", "skończyć", "ten", "raport", "dzisiaj", "."],
-        ["Chciałabym", "skończyć", "ten", "raport", "dzisiaj", "."]
+        [
+          "Chciałbym",
+          "skończyć",
+          "ten",
+          "raport",
+          "dzisiaj",
+          "."
+        ],
+        [
+          "Chciałabym",
+          "skończyć",
+          "ten",
+          "raport",
+          "dzisiaj",
+          "."
+        ]
       ],
       "explanation": "'Chciałbym/Chciałabym skończyć ten raport dzisiaj.' — I would like to finish this report today. 'Skończyć' (perf) = to complete/finish. 'Kończyć' (imperf) would mean wanting to be in the process of finishing, less natural here."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["aspect", "review", "a2-core"],
-  "prerequisites": ["a2-ch12-l01", "a2-ch12-l02", "a2-ch12-l03", "a2-ch12-l04"]
+  "tags": [
+    "aspect",
+    "review",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a2-ch12-l01",
+    "a2-ch12-l02",
+    "a2-ch12-l03",
+    "a2-ch12-l04"
+  ]
 }

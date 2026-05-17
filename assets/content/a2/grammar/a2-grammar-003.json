@@ -3,7 +3,9 @@
   "level": "a2",
   "order": 3,
   "title": "Future Tense — Simple (będę robić)",
+  "title_fa": "زمان آینده — ساده",
   "explanation": "The imperfective future tense in Polish is formed with the auxiliary verb 'być' (to be) in its future forms plus the infinitive or past participle of the main verb. Future forms of 'być': będę (I will), będziesz (you will), będzie (he/she/it will), będziemy (we will), będziecie (you pl. will), będą (they will). Combine with infinitive: będę pracować (I will work). Alternatively, use będę + past participle (gender-specific): będę pracował/pracowała. Note: perfective verbs form the future tense differently using present-tense endings.",
+  "explanation_fa": "آینده ناکامل: będę + مصدر یا شکل گذشته: Będę czytać/Będę czytał(a). آینده کامل: صرف مستقیم فعل کامل: przeczytam، przeczytasz، przeczyta، przeczytamy، przeczytacie، przeczytają. کاربرد: ناکامل برای تکرار، کامل برای عمل تمام‌شده.",
   "examples": [
     {
       "polish": "Jutro będę pracować w domu.",
@@ -40,7 +42,9 @@
       "id": "a2-g003-ex02",
       "prompt": "Complete with the future tense: 'She will read a book' (czytać = to read)",
       "sentence_template": "Ona ___ czytać książkę.",
-      "accepted_answers": ["będzie"],
+      "accepted_answers": [
+        "będzie"
+      ],
       "explanation": "3rd person singular future of 'być': będzie. So: Ona będzie czytać książkę."
     },
     {
@@ -61,7 +65,9 @@
       "id": "a2-g003-ex04",
       "prompt": "Complete: 'We will cook dinner.' (gotować = to cook)",
       "sentence_template": "___ gotować obiad.",
-      "accepted_answers": ["Będziemy"],
+      "accepted_answers": [
+        "Będziemy"
+      ],
       "explanation": "1st person plural future of 'być': będziemy. Będziemy gotować obiad."
     },
     {

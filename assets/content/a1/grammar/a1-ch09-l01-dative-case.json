@@ -4,7 +4,9 @@
   "chapter": 9,
   "lessonOrder": 1,
   "title": "Dative Case — Indirect Object",
+  "title_fa": "حالت دادی — مفعول غیرمستقیم",
   "grammarPoint": "Dative case (celownik): komu/czemu; dać komuś, powiedzieć komuś, dziękować komuś",
+  "grammarPoint_fa": "حالت دادی (celownik): -owi/-u (مذکر)، -e/-ie (مؤنث)، -u (خنثی)",
   "explanation": {
     "text": "The **dative case** (celownik) marks the **indirect object** — the person or thing that receives the action. Think of it as the 'to/for whom' case.\n\n**Common verbs that take the dative:**\n- **dać** (give): Daję książkę **mamie**. = I give a book to mum.\n- **powiedzieć** (tell): Mówię **bratu**. = I'm talking to my brother.\n- **dziękować** (thank): Dziękuję **tobie**. = I thank you.\n- **pomagać** (help): Pomagam **siostrze**. = I help my sister.\n- **kupić** (buy for): Kupuję prezent **tacie**. = I'm buying a gift for dad.\n\n**Dative singular endings:**\n\n| Gender | Nominative | Dative | Example |\n|--------|-----------|--------|---------|\n| Masculine animate | -consonant | **-owi** | brat → bratu*, przyjaciel → przyjacielowi |\n| Masculine inanimate | -consonant | **-owi / -u** | pies → psu, sklep → sklepowi |\n| Feminine -a | -a | **-ie / -y** | mama → mamie, siostra → siostrze |\n| Neuter -o | -o | **-u** | okno → oknu, dziecko → dziecku |\n\n**Personal pronouns in dative:**\n- mi (to me), tobie/ci (to you), mu/jemu (to him), jej (to her), nam (to us), wam (to you pl), im (to them)",
     "notes": [
@@ -14,13 +16,19 @@
       "Neuter: dziecko → dziecku, okno → oknu."
     ]
   },
+  "explanation_fa": "حالت دادی (celownik) برای مفعول غیرمستقیم استفاده می‌شود (به چه کسی؟). پسوندهای مفرد: مذکر: -owi (bratu، studentowi)، مؤنث: -e/-ie (siostrze، pani)، خنثی: -u (dziecku). مثال: Daję bratu książkę (کتاب به برادرم می‌دهم).",
   "exercises": [
     {
       "id": "a1-ch09-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Daję prezent ___ (I give a gift to mum). [mama → dative]",
-      "options": ["mamie", "mama", "mamę", "mamy"],
+      "options": [
+        "mamie",
+        "mama",
+        "mamę",
+        "mamy"
+      ],
       "correctIndex": 0,
       "explanation": "'Mama' → dative 'mamie'. 'Daję prezent mamie' = I give a gift to mum. Feminine -a → -ie in dative."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Pomagam ___ (I help my brother). [brat → dative]",
       "answer": "bratu",
-      "acceptableAnswers": ["bratu"],
+      "acceptableAnswers": [
+        "bratu"
+      ],
       "hint": "Masculine dative: brat → bratu (irregular, not bratem)"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch09/a1-ch09-l01-ex03.mp3",
-      "options": ["Dziękuję ci za pomoc.", "Dziękuję ty za pomoc.", "Dziękuję cię za pomoc.", "Dziękuję tobi za pomoc."],
+      "options": [
+        "Dziękuję ci za pomoc.",
+        "Dziękuję ty za pomoc.",
+        "Dziękuję cię za pomoc.",
+        "Dziękuję tobi za pomoc."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Dziękuję ci za pomoc.' — Thank you for your help. 'Dziękować + dative': ci = dative of ty (you). 'Za + accusative': pomoc = acc."
     },
@@ -47,10 +62,28 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: I'm buying a gift for my sister.",
-      "wordBank": ["Kupuję", "prezent", "prezenty", "siostrze", "siostrę", "siostra", "dla", "ku"],
+      "wordBank": [
+        "Kupuję",
+        "prezent",
+        "prezenty",
+        "siostrze",
+        "siostrę",
+        "siostra",
+        "dla",
+        "ku"
+      ],
       "correctSequences": [
-        ["Kupuję", "prezent", "siostrze"],
-        ["Kupuję", "prezent", "dla", "siostry"]
+        [
+          "Kupuję",
+          "prezent",
+          "siostrze"
+        ],
+        [
+          "Kupuję",
+          "prezent",
+          "dla",
+          "siostry"
+        ]
       ],
       "explanation": "'Kupuję prezent siostrze' = I'm buying a gift for my sister. 'Siostra' → dative 'siostrze'. Alternatively: 'dla siostry' (dla + genitive)."
     },
@@ -59,13 +92,26 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Mówię ___ (I'm talking to my friend — m). [przyjaciel → dative]",
-      "options": ["przyjacielowi", "przyjaciela", "przyjacielem", "przyjacielu"],
+      "options": [
+        "przyjacielowi",
+        "przyjaciela",
+        "przyjacielem",
+        "przyjacielu"
+      ],
       "correctIndex": 0,
       "explanation": "'Przyjaciel' (m animate) → dative 'przyjacielowi' (-owi). 'Mówię przyjacielowi' = I'm talking to my friend."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["dative", "cases", "indirect-object", "a1-core"],
-  "prerequisites": ["a1-ch06-l01", "a1-ch07-l01"]
+  "tags": [
+    "dative",
+    "cases",
+    "indirect-object",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch06-l01",
+    "a1-ch07-l01"
+  ]
 }

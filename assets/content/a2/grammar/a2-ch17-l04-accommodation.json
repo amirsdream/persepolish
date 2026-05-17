@@ -4,7 +4,9 @@
   "chapter": 17,
   "lessonOrder": 4,
   "title": "Accommodation Language",
+  "title_fa": "زبان اقامتگاه",
   "grammarPoint": "Accommodation phrases in grammatical context: zameldować się, wymeldować się, śniadanie w cenie, pokój z łazienką, na pierwszym piętrze",
+  "grammarPoint_fa": "عبارات هتل و اقامتگاه: zameldować się، wymeldować się، numer pokoju",
   "explanation": {
     "text": "Language for hotels and accommodation, with focus on grammatical structures.\n\n**Hotel check-in / check-out:**\n- **Zameldować się** = to check in\n  - Chciałbym się zameldować. = I'd like to check in.\n- **Wymeldować się** = to check out\n  - O której godzinie należy się wymeldować? = What time do we need to check out?\n\n**Describing room features:**\n- pokój **z** łazienką = room with bathroom (z + instr)\n- pokój **bez** balkonu = room without a balcony (bez + gen)\n- pokój **na** pierwszym piętrze = room on the first floor (na + loc)\n- widok **na** morze = sea view (na + accusative)\n\n**Hotel questions:**\n- Czy śniadanie **jest** w cenie? = Is breakfast included?\n- Czy **jest** wolny pokój? = Is there a free room?\n- Czy mogę **zobaczyć** pokój? = Can I see the room?\n- O której **jest** check-out? = What time is check-out?\n\n**Polish floor numbering:**\n- parter = ground floor\n- pierwsze piętro = 1st floor (= 2nd floor in US/UK)\n- drugie piętro = 2nd floor (= 3rd floor)\n\n**Requests at hotel:**\n- Czy mógłby Pan przynieść ręczniki? = Could you bring towels?\n- Proszę o dodatkową poduszkę. = I'd like an extra pillow.",
     "notes": [
@@ -14,13 +16,19 @@
       "Czy śniadanie jest w cenie? = Is breakfast included? Very useful travel phrase."
     ]
   },
+  "explanation_fa": "عبارات هتل: zameldować się (چک‌این کردن)، wymeldować się (چک‌اوت کردن)، Czy jest wolny pokój? (اتاق خالی هست؟)، pokój jednoosobowy/dwuosobowy (اتاق یک/دو نفره)، śniadanie w cenie (صبحانه در قیمت گنجانده شده)، klucz do pokoju (کلید اتاق).",
   "exercises": [
     {
       "id": "a2-ch17-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Chciałbym pokój ___ łazienką. (I'd like a room with a bathroom.) [z + instrumental]",
-      "options": ["z", "bez", "do", "w"],
+      "options": [
+        "z",
+        "bez",
+        "do",
+        "w"
+      ],
       "correctIndex": 0,
       "explanation": "'With + noun' = z + instrumental: z łazienką (łazienka → instrumental: łazienką). 'Bez łazienki' = without a bathroom (bez + genitive)."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Pokój jest ___ trzecim piętrze. (The room is on the third floor.) [na + locative]",
       "answer": "na",
-      "acceptableAnswers": ["na"],
+      "acceptableAnswers": [
+        "na"
+      ],
       "hint": "Floor location: na + locative: na trzecim piętrze"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch17/a2-ch17-l04-ex03.mp3",
-      "options": ["Czy śniadanie jest w cenie pokoju?", "Czy śniadanie jest w cenie hotelu?", "Kiedy jest śniadanie?", "Czy mogę dostać śniadanie do pokoju?"],
+      "options": [
+        "Czy śniadanie jest w cenie pokoju?",
+        "Czy śniadanie jest w cenie hotelu?",
+        "Kiedy jest śniadanie?",
+        "Czy mogę dostać śniadanie do pokoju?"
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Czy śniadanie jest w cenie pokoju?' — Is breakfast included in the room price? 'W cenie' = included in the price (w + locative of 'cena')."
     },
@@ -47,7 +62,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "O której należy się ___? (At what time do we need to check out?) [wymeldować się]",
-      "options": ["wymeldować", "zameldować", "wyprowadzić", "wyjść"],
+      "options": [
+        "wymeldować",
+        "zameldować",
+        "wyprowadzić",
+        "wyjść"
+      ],
       "correctIndex": 0,
       "explanation": "'Wymeldować się' = to check out (perf). 'Zameldować się' = to check in. 'O której należy się wymeldować?' = What time is check-out?"
     },
@@ -56,16 +76,51 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: I'd like a room with a sea view. (conditional + z + instrumental)",
-      "wordBank": ["Chciałbym", "Chciałabym", "pokój", "pokoju", "z", "bez", "widokiem", "widok", "na", "morze", "morza"],
+      "wordBank": [
+        "Chciałbym",
+        "Chciałabym",
+        "pokój",
+        "pokoju",
+        "z",
+        "bez",
+        "widokiem",
+        "widok",
+        "na",
+        "morze",
+        "morza"
+      ],
       "correctSequences": [
-        ["Chciałbym", "pokój", "z", "widokiem", "na", "morze"],
-        ["Chciałabym", "pokój", "z", "widokiem", "na", "morze"]
+        [
+          "Chciałbym",
+          "pokój",
+          "z",
+          "widokiem",
+          "na",
+          "morze"
+        ],
+        [
+          "Chciałabym",
+          "pokój",
+          "z",
+          "widokiem",
+          "na",
+          "morze"
+        ]
       ],
       "explanation": "'Chciałbym/Chciałabym pokój z widokiem na morze.' — I'd like a room with a sea view. 'Z widokiem' = with a view (z + instrumental: widok → widokiem). 'Na morze' = onto the sea (na + accusative: direction/orientation)."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["travel", "accommodation", "hotel", "a2-core"],
-  "prerequisites": ["a2-ch17-l01", "a2-ch17-l02", "a2-ch17-l03"]
+  "tags": [
+    "travel",
+    "accommodation",
+    "hotel",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a2-ch17-l01",
+    "a2-ch17-l02",
+    "a2-ch17-l03"
+  ]
 }

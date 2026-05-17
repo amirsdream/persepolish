@@ -3,8 +3,9 @@
   "level": "b1",
   "chapter": 1,
   "title": "Chapter 1 Revision — Aspect Pairs Fundamentals",
+  "title_fa": "مرور فصل ۱ B1: مبانی جفت‌های وجهی",
   "description": "Mixed revision quiz covering perfective/imperfective concept, common aspect pairs, semantic groups, and aspect in paragraph context.",
-  "passThreshold": 0.70,
+  "passThreshold": 0.7,
   "questions": [
     {
       "id": "b1-ch01-rev-q01",
@@ -12,7 +13,12 @@
       "order": 1,
       "sourceLesson": "b1-ch01-l01",
       "prompt": "Which sentence implies the speaker DID finish reading the book?",
-      "options": ["Przeczytałem tę książkę.", "Czytałem tę książkę.", "Czytam tę książkę.", "Będę czytać tę książkę."],
+      "options": [
+        "Przeczytałem tę książkę.",
+        "Czytałem tę książkę.",
+        "Czytam tę książkę.",
+        "Będę czytać tę książkę."
+      ],
       "correctIndex": 0,
       "explanation": "'Przeczytałem' = perfective past — I read through (and finished) this book. 'Czytałem' = imperfective past — I was reading this book (may not have finished). Perfective guarantees completion."
     },
@@ -22,7 +28,12 @@
       "order": 2,
       "sourceLesson": "b1-ch01-l01",
       "prompt": "Which aspect is expected after negation in 'Nie ___ tej książki' (I haven't read this book)?",
-      "options": ["czytałem (imperfective)", "przeczytałem (perfective)", "Both are equally correct", "Neither"],
+      "options": [
+        "czytałem (imperfective)",
+        "przeczytałem (perfective)",
+        "Both are equally correct",
+        "Neither"
+      ],
       "correctIndex": 0,
       "explanation": "After negation, imperfective is standard: 'Nie czytałem tej książki' = I haven't read this book (general negation of the activity). 'Nie przeczytałem' is also possible but means specifically 'I didn't finish reading it'."
     },
@@ -32,7 +43,12 @@
       "order": 3,
       "sourceLesson": "b1-ch01-l02",
       "prompt": "What is the perfective of 'brać' (to take)?",
-      "options": ["wziąć", "zabrać", "pobierać", "wzięść"],
+      "options": [
+        "wziąć",
+        "zabrać",
+        "pobierać",
+        "wzięść"
+      ],
       "correctIndex": 0,
       "explanation": "'Wziąć' = perfective of brać (suppletive pair — different root). 'Wezmę' = I will take. 'Wziąłem/wzięłam' = I took. Must memorise as irregular. 'Zabrać' = to take away (different meaning)."
     },
@@ -42,7 +58,12 @@
       "order": 4,
       "sourceLesson": "b1-ch01-l02",
       "prompt": "Jutro ___ email do klientów. (Tomorrow she will send an email to clients.) [perf future]",
-      "options": ["wyśle", "będzie wysyłać", "wysyła", "wysyłała"],
+      "options": [
+        "wyśle",
+        "będzie wysyłać",
+        "wysyła",
+        "wysyłała"
+      ],
       "correctIndex": 0,
       "explanation": "'Wyśle' = perfective future of wysłać (she will send = completed dispatch). 'Jutro' + single completed action = perfective. 'Będzie wysyłać' = imperfective future (will be in process of sending)."
     },
@@ -52,7 +73,12 @@
       "order": 5,
       "sourceLesson": "b1-ch01-l03",
       "prompt": "Which pair means 'to apologise'?",
-      "options": ["przepraszać / przeprosić", "pytać / zapytać", "dziękować / podziękować", "mówić / powiedzieć"],
+      "options": [
+        "przepraszać / przeprosić",
+        "pytać / zapytać",
+        "dziękować / podziękować",
+        "mówić / powiedzieć"
+      ],
       "correctIndex": 0,
       "explanation": "'Przepraszać' (imperf) / 'przeprosić' (perf) = to apologise. 'Przepraszam' = I'm sorry/excuse me (ongoing). 'Przeprosiłem' = I apologised (completed act). The other pairs mean: ask, thank, say."
     },
@@ -62,7 +88,12 @@
       "order": 6,
       "sourceLesson": "b1-ch01-l03",
       "prompt": "W końcu ___ ten artykuł. (She finally understood this article.) [perception, result achieved]",
-      "options": ["zrozumiała", "rozumiała", "rozumie", "zrozumie"],
+      "options": [
+        "zrozumiała",
+        "rozumiała",
+        "rozumie",
+        "zrozumie"
+      ],
       "correctIndex": 0,
       "explanation": "'Zrozumiała' = perfective past — she understood/grasped it (moment of comprehension, result). 'W końcu' + perfective. 'Rozumiała' = was understanding (ongoing process without guarantee of completion)."
     },
@@ -72,7 +103,12 @@
       "order": 7,
       "sourceLesson": "b1-ch01-l04",
       "prompt": "In this narrative, which aspect is correct for the background action? 'Kiedy ___ w ogrodzie, zaczął padać deszcz.'",
-      "options": ["pracowałam (imperfective)", "pracowałem (imperfective)", "pracowała (imperfective)", "zapracowałam (perfective)"],
+      "options": [
+        "pracowałam (imperfective)",
+        "pracowałem (imperfective)",
+        "pracowała (imperfective)",
+        "zapracowałam (perfective)"
+      ],
       "correctIndex": 0,
       "explanation": "Background ongoing action in kiedy clause → imperfective. Any of 'pracowałam/pracowałem/pracowała' depending on gender of subject. 'Zaczął padać deszcz' = perfective event that interrupted. Option 0 is the correct form for a female speaker."
     },
@@ -82,7 +118,12 @@
       "order": 8,
       "sourceLesson": "b1-ch01-l04",
       "prompt": "Recipe: ___ jajka z cukrem. (Beat eggs with sugar.) [recipe imperative]",
-      "options": ["Ubij", "Ubijaj", "Ubijać", "Ubijałam"],
+      "options": [
+        "Ubij",
+        "Ubijaj",
+        "Ubijać",
+        "Ubijałam"
+      ],
       "correctIndex": 0,
       "explanation": "Recipe steps → perfective imperative: 'Ubij' = beat (complete the action). 'Ubijaj' = imperfective imperative (keep beating — ongoing) which could be used for 'continue stirring' type instructions, but not as initial instruction. 'Ubij' = do this action completely."
     },
@@ -92,7 +133,12 @@
       "order": 9,
       "sourceVocab": "b1-ch01-vocab",
       "prompt": "What does 'szukać / znaleźć' mean?",
-      "options": ["to look for / to find", "to search / to search", "to find / to lose", "to look for / to see"],
+      "options": [
+        "to look for / to find",
+        "to search / to search",
+        "to find / to lose",
+        "to look for / to see"
+      ],
       "correctIndex": 0,
       "explanation": "'Szukać' (imperf) = to look for / search (process). 'Znaleźć' (perf) = to find (result achieved). 'Szukam pracy' = I'm looking for work (ongoing). 'Znalazłam pracę!' = I found a job! (result). The pair: process + result."
     },
@@ -102,7 +148,12 @@
       "order": 10,
       "sourceLesson": "b1-ch01-l01",
       "prompt": "Muszę ___ raport przed piątkiem. (I must complete the report by Friday.) [modal + perf inf]",
-      "options": ["napisać", "pisać", "piszę", "napisałem"],
+      "options": [
+        "napisać",
+        "pisać",
+        "piszę",
+        "napisałem"
+      ],
       "correctIndex": 0,
       "explanation": "'Muszę napisać' = I must write (= complete) the report. Perfective infinitive after modal when result/completion is intended. 'Muszę pisać' = I need to be in the process of writing (less natural with a deadline)."
     },
@@ -112,7 +163,12 @@
       "order": 11,
       "sourceVocab": "b1-ch01-vocab",
       "prompt": "Aspect pair for 'to promise': which is correct?",
-      "options": ["obiecywać / obiecać", "obiecywać / obiecywać", "obiecać / obiecywać", "obiecywać / poobiecywać"],
+      "options": [
+        "obiecywać / obiecać",
+        "obiecywać / obiecywać",
+        "obiecać / obiecywać",
+        "obiecywać / poobiecywać"
+      ],
       "correctIndex": 0,
       "explanation": "'Obiecywać' (imperf) / 'obiecać' (perf) = to promise. 'Zawsze obiecuje ale nie dotrzymuje słowa' (always promises, habit — imperf). 'Obiecałem wrócić' = I promised to come back (specific promise — perf)."
     },
@@ -122,7 +178,12 @@
       "order": 12,
       "sourceLesson": "b1-ch01-l04",
       "prompt": "Choose the correct sequence: 'Najpierw ___ kawę, a potem ___ pracę.' (First she made coffee, then she started work.)",
-      "options": ["zrobiła / zaczęła", "robiła / zaczynała", "zrobiła / zaczynała", "robiła / zaczęła"],
+      "options": [
+        "zrobiła / zaczęła",
+        "robiła / zaczynała",
+        "zrobiła / zaczynała",
+        "robiła / zaczęła"
+      ],
       "correctIndex": 0,
       "explanation": "Sequential narrative with 'najpierw...a potem' → both perfective: 'zrobiła' (made = completed) + 'zaczęła' (started = began). Sequential completed events use perfective in Polish."
     }

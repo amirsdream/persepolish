@@ -3,8 +3,9 @@
   "level": "a2",
   "chapter": 19,
   "title": "Chapter 19 Revision — Formal Register",
+  "title_fa": "مرور فصل ۱۹: سبک رسمی",
   "description": "Mixed revision quiz covering Pan/Pani address, formal letter structure, formal vs informal vocabulary, and register comparison from Chapter 19.",
-  "passThreshold": 0.70,
+  "passThreshold": 0.7,
   "questions": [
     {
       "id": "a2-ch19-rev-q01",
@@ -12,7 +13,12 @@
       "order": 1,
       "sourceLesson": "a2-ch19-l01",
       "prompt": "Formal question to a woman: Skąd ___ pochodzi? (Where are you from?)",
-      "options": ["Pani", "Pan", "ty", "ona"],
+      "options": [
+        "Pani",
+        "Pan",
+        "ty",
+        "ona"
+      ],
       "correctIndex": 0,
       "explanation": "Formal address to a woman: 'Pani' + 3rd person singular. 'Skąd Pani pochodzi?' = Where are you from? (to a woman). To a man: 'Skąd Pan pochodzi?'"
     },
@@ -22,7 +28,12 @@
       "order": 2,
       "sourceLesson": "a2-ch19-l01",
       "prompt": "Formal greeting to a mixed group of people:",
-      "options": ["Dzień dobry Państwu!", "Dzień dobry Panowie!", "Hej wszystkim!", "Cześć Panie!"],
+      "options": [
+        "Dzień dobry Państwu!",
+        "Dzień dobry Panowie!",
+        "Hej wszystkim!",
+        "Cześć Panie!"
+      ],
       "correctIndex": 0,
       "explanation": "'Dzień dobry Państwu!' = Good morning, ladies and gentlemen! 'Państwo' = formal mixed plural; dative 'Państwu' used in greetings. 'Panowie' = gentlemen only. 'Hej' and 'Cześć' are informal."
     },
@@ -32,7 +43,12 @@
       "order": 3,
       "sourceLesson": "a2-ch19-l02",
       "prompt": "Choose the correct formal salutation for an email to an unknown woman:",
-      "options": ["Szanowna Pani,", "Szanowny Pan,", "Hej Pani,", "Droga Pani,"],
+      "options": [
+        "Szanowna Pani,",
+        "Szanowny Pan,",
+        "Hej Pani,",
+        "Droga Pani,"
+      ],
       "correctIndex": 0,
       "explanation": "'Szanowna Pani,' = Dear Madam — standard formal salutation to a woman. 'Szanowny Pan' = Dear Sir (to a man). 'Droga Pani' is semi-formal. 'Hej' is very informal."
     },
@@ -42,7 +58,12 @@
       "order": 4,
       "sourceLesson": "a2-ch19-l02",
       "prompt": "Complete the formal request: Uprzejmie proszę o ___ rezerwacji. (I kindly request confirmation of the reservation.)",
-      "options": ["potwierdzenie", "potwierdzić", "potwierdzeniu", "potwierdzam"],
+      "options": [
+        "potwierdzenie",
+        "potwierdzić",
+        "potwierdzeniu",
+        "potwierdzam"
+      ],
       "correctIndex": 0,
       "explanation": "'Uprzejmie proszę o + accusative (noun)': proszę o potwierdzenie (accusative of potwierdzenie, n). Note: proszę o + noun, not proszę + infinitive (which would be a direct polite request)."
     },
@@ -52,7 +73,12 @@
       "order": 5,
       "sourceLesson": "a2-ch19-l02",
       "prompt": "What is the standard formal closing for a Polish letter?",
-      "options": ["Z poważaniem", "Do widzenia", "Pozdrawiam", "Pa pa"],
+      "options": [
+        "Z poważaniem",
+        "Do widzenia",
+        "Pozdrawiam",
+        "Pa pa"
+      ],
       "correctIndex": 0,
       "explanation": "'Z poważaniem' = Yours faithfully/Sincerely — the most formal and standard closing. 'Pozdrawiam' is semi-formal (used in emails to people you know). 'Do widzenia' = Goodbye (spoken). 'Pa pa' = very informal."
     },
@@ -62,7 +88,12 @@
       "order": 6,
       "sourceLesson": "a2-ch19-l03",
       "prompt": "Formal equivalent of 'dostać' (to get):",
-      "options": ["otrzymać", "wziąć", "zdobyć", "mieć"],
+      "options": [
+        "otrzymać",
+        "wziąć",
+        "zdobyć",
+        "mieć"
+      ],
       "correctIndex": 0,
       "explanation": "'Otrzymać' = to receive (formal). 'Dostać' = to get (informal). In formal writing: 'Otrzymałem Pańską wiadomość' (I received your message). Never 'Dostałem' in formal correspondence."
     },
@@ -72,7 +103,12 @@
       "order": 7,
       "sourceLesson": "a2-ch19-l04",
       "prompt": "Formal way to say 'I can't come because I'm sick':",
-      "options": ["Nie będę w stanie przybyć ze względu na chorobę.", "Nie mogę przyjść, bo jestem chory.", "Nie dam rady przyjść.", "Przykro mi, jestem chory."],
+      "options": [
+        "Nie będę w stanie przybyć ze względu na chorobę.",
+        "Nie mogę przyjść, bo jestem chory.",
+        "Nie dam rady przyjść.",
+        "Przykro mi, jestem chory."
+      ],
       "correctIndex": 0,
       "explanation": "Most formal: 'Nie będę w stanie przybyć ze względu na chorobę.' Uses: 'nie będę w stanie' (formal inability), 'przybyć' (formal arrive), 'ze względu na' (formal due to). All others are informal or semi-formal."
     },
@@ -82,7 +118,12 @@
       "order": 8,
       "sourceLesson": "a2-ch19-l04",
       "prompt": "What does 'ze względu na' mean?",
-      "options": ["due to / owing to", "with regard to (opinion)", "in relation to (time)", "next to"],
+      "options": [
+        "due to / owing to",
+        "with regard to (opinion)",
+        "in relation to (time)",
+        "next to"
+      ],
       "correctIndex": 0,
       "explanation": "'Ze względu na + accusative' = due to / owing to (formal reason). 'Ze względu na chorobę' = due to illness. Informal equivalent: 'bo' (because). Very common in formal apologies and refusals."
     },
@@ -92,7 +133,12 @@
       "order": 9,
       "sourceVocab": "a2-ch19-vocab",
       "prompt": "What does 'uprzejmie' mean?",
-      "options": ["kindly / politely", "sincerely", "unfortunately", "formally"],
+      "options": [
+        "kindly / politely",
+        "sincerely",
+        "unfortunately",
+        "formally"
+      ],
       "correctIndex": 0,
       "explanation": "'Uprzejmie' = kindly / politely (adverb). From 'uprzejmy' (polite). Core formal word: 'Uprzejmie proszę o...' = I kindly request... Used to soften any formal request."
     },
@@ -102,7 +148,12 @@
       "order": 10,
       "sourceVocab": "a2-ch19-vocab",
       "prompt": "What does 'w załączeniu' mean in a formal email?",
-      "options": ["attached / enclosed", "in conclusion", "at the office", "in connection with"],
+      "options": [
+        "attached / enclosed",
+        "in conclusion",
+        "at the office",
+        "in connection with"
+      ],
       "correctIndex": 0,
       "explanation": "'W załączeniu' = attached / enclosed (in email/letter). 'W załączeniu przesyłam moje CV' = Please find my CV attached. From 'załączyć' = to attach."
     },
@@ -112,7 +163,12 @@
       "order": 11,
       "sourceLesson": "a2-ch19-l01",
       "prompt": "Formal version of 'Czy możesz mi pomóc?' (Can you help me?)",
-      "options": ["Czy Pan może mi pomóc?", "Czy Pani mogłabyś mi pomóc?", "Czy możecie mi pomóc?", "Proszę mi pomóc."],
+      "options": [
+        "Czy Pan może mi pomóc?",
+        "Czy Pani mogłabyś mi pomóc?",
+        "Czy możecie mi pomóc?",
+        "Proszę mi pomóc."
+      ],
       "correctIndex": 0,
       "explanation": "'Czy Pan może mi pomóc?' = formal version (to a man). Uses 'Pan' + 3rd singular 'może' (not 'możesz'). 'Pani mogłabyś' is a grammar error (mixing formal Pan/Pani with informal ty-form). 'Proszę mi pomóc' = polite but direct, not full formal address."
     },
@@ -122,7 +178,12 @@
       "order": 12,
       "sourceVocab": "a2-ch19-vocab",
       "prompt": "How do you say 'to submit (a formal application)' in Polish?",
-      "options": ["złożyć", "dostać", "napisać", "dać"],
+      "options": [
+        "złożyć",
+        "dostać",
+        "napisać",
+        "dać"
+      ],
       "correctIndex": 0,
       "explanation": "'Złożyć' (perf) / 'składać' (imperf) = to submit / lodge (formal). 'Złożyć wniosek' = to submit an application. 'Złożyć skargę' = to lodge a complaint. Key formal administrative verb."
     }

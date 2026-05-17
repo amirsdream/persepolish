@@ -3,8 +3,9 @@
   "level": "a2",
   "chapter": 12,
   "title": "Chapter 12 Revision: Aspect Basics",
+  "title_fa": "مرور فصل ۱۲: اصول وجه",
   "description": "Mixed questions covering perfective vs. imperfective concept, common aspect pairs, prefix patterns, and aspect in context.",
-  "passThreshold": 0.70,
+  "passThreshold": 0.7,
   "questions": [
     {
       "id": "a2-ch12-rev-q01",
@@ -12,7 +13,12 @@
       "order": 1,
       "sourceLesson": "a2-ch12-l01",
       "prompt": "Codziennie ___ gazety. (I read newspapers every day — habitual.) [czytać/przeczytać, ja m]",
-      "options": ["czytałem", "przeczytałem", "czytam", "przeczytam"],
+      "options": [
+        "czytałem",
+        "przeczytałem",
+        "czytam",
+        "przeczytam"
+      ],
       "correctIndex": 0,
       "explanation": "'Codziennie' (every day) = habitual → imperfective past: czytałem. 'Przeczytałem' = I finished reading [a specific newspaper] — not habitual."
     },
@@ -22,7 +28,12 @@
       "order": 2,
       "sourceLesson": "a2-ch12-l02",
       "prompt": "W końcu ___ raport. (I finally wrote the report.) [pisać/napisać, ja m]",
-      "options": ["napisałem", "pisałem", "piszę", "napiszę"],
+      "options": [
+        "napisałem",
+        "pisałem",
+        "piszę",
+        "napiszę"
+      ],
       "correctIndex": 0,
       "explanation": "'W końcu' (finally) signals completed result → perfective: napisałem. Imperfective 'pisałem' only says 'I was writing' without completion."
     },
@@ -32,7 +43,12 @@
       "order": 3,
       "sourceLesson": "a2-ch12-l02",
       "prompt": "What is the perfective partner of 'kupować'?",
-      "options": ["kupić", "nakupować", "pokupować", "zakupić"],
+      "options": [
+        "kupić",
+        "nakupować",
+        "pokupować",
+        "zakupić"
+      ],
       "correctIndex": 0,
       "explanation": "'Kupować' (imperf) → 'kupić' (perf). A stem-change pair, not prefix-based. 'Kupiłem' = I bought [one completed purchase]."
     },
@@ -42,7 +58,12 @@
       "order": 4,
       "sourceVocab": "a2-ch12-vocab",
       "prompt": "What does 'pójść' mean and what is its imperfective?",
-      "options": ["to go (perf); imperfective: iść", "to go (perf); imperfective: jechać", "to come (perf); imperfective: iść", "to leave (perf); imperfective: wychodzić"],
+      "options": [
+        "to go (perf); imperfective: iść",
+        "to go (perf); imperfective: jechać",
+        "to come (perf); imperfective: iść",
+        "to leave (perf); imperfective: wychodzić"
+      ],
       "correctIndex": 0,
       "explanation": "'Pójść' = perfective of 'iść' (to go on foot). 'Poszłam do sklepu' = I went to the shop (completed)."
     },
@@ -52,7 +73,12 @@
       "order": 5,
       "sourceLesson": "a2-ch12-l03",
       "prompt": "Which prefix makes 'sprzątać' perfective?",
-      "options": ["po-", "na-", "za-", "u-"],
+      "options": [
+        "po-",
+        "na-",
+        "za-",
+        "u-"
+      ],
       "correctIndex": 0,
       "explanation": "'Posprzątać' = perfective of 'sprzątać'. The po- prefix here perfectivizes the verb. 'Posprzątałam pokój' = I cleaned the room (finished)."
     },
@@ -62,7 +88,12 @@
       "order": 6,
       "sourceLesson": "a2-ch12-l04",
       "prompt": "Nagle ___ hałas. (Suddenly I heard a noise.) [słyszeć/usłyszeć, ja m]",
-      "options": ["usłyszałem", "słyszałem", "słyszę", "usłyszę"],
+      "options": [
+        "usłyszałem",
+        "słyszałem",
+        "słyszę",
+        "usłyszę"
+      ],
       "correctIndex": 0,
       "explanation": "'Nagle' (suddenly) + single sudden event → perfective: usłyszałem. 'Słyszałem' = I was hearing (ongoing, background)."
     },
@@ -72,7 +103,12 @@
       "order": 7,
       "sourceLesson": "a2-ch12-l01",
       "prompt": "Which of these CANNOT be used in the present tense?",
-      "options": ["napisać (perfective)", "pisać (imperfective)", "czytać (imperfective)", "kupować (imperfective)"],
+      "options": [
+        "napisać (perfective)",
+        "pisać (imperfective)",
+        "czytać (imperfective)",
+        "kupować (imperfective)"
+      ],
       "correctIndex": 0,
       "explanation": "Perfective verbs like 'napisać' have NO true present tense. Their present-looking form (napiszę) is actually FUTURE. Only imperfective verbs can express present tense."
     },
@@ -82,7 +118,12 @@
       "order": 8,
       "sourceVocab": "a2-ch12-vocab",
       "prompt": "What is the perfective form of 'widzieć' (to see)?",
-      "options": ["zobaczyć", "zawidzieć", "powidzieć", "nawidzieć"],
+      "options": [
+        "zobaczyć",
+        "zawidzieć",
+        "powidzieć",
+        "nawidzieć"
+      ],
       "correctIndex": 0,
       "explanation": "'Widzieć' (imperf) → 'zobaczyć' (perf). Completely different prefix pattern — must be memorized. 'Zobaczyłem go wczoraj' = I saw him yesterday."
     },
@@ -92,7 +133,12 @@
       "order": 9,
       "sourceLesson": "a2-ch12-l04",
       "prompt": "Kiedy ___ kolację, zadzwonił telefon. (While I was eating dinner, the phone rang.) [jeść, ja f]",
-      "options": ["jadłam", "zjadłam", "zjedłam", "jem"],
+      "options": [
+        "jadłam",
+        "zjadłam",
+        "zjedłam",
+        "jem"
+      ],
       "correctIndex": 0,
       "explanation": "'Kiedy' + background ongoing action = imperfective: jadłam. 'Zjadłam' would mean a completed dinner event — doesn't work as background here."
     },
@@ -102,7 +148,12 @@
       "order": 10,
       "sourceLesson": "a2-ch12-l03",
       "prompt": "Zadzwoniłem do niej o dziewiątej. Which prefix perfectivizes 'dzwonić'?",
-      "options": ["za-", "na-", "prze-", "wy-"],
+      "options": [
+        "za-",
+        "na-",
+        "prze-",
+        "wy-"
+      ],
       "correctIndex": 0,
       "explanation": "'Za-' + dzwonić = 'zadzwonić' (perfective: to call/phone [once]). 'Zadzwoniłem' = I called [completed single call]."
     },
@@ -112,7 +163,12 @@
       "order": 11,
       "sourceLesson": "a2-ch12-l04",
       "prompt": "Choose the correct pair for: 'First I paid, then I left.' [sequential events — perfective]",
-      "options": ["Najpierw zapłaciłem, potem wyszedłem.", "Najpierw płaciłem, potem wychodziłem.", "Najpierw płaciłem, potem wyszedłem.", "Najpierw zapłaciłem, potem wychodziłem."],
+      "options": [
+        "Najpierw zapłaciłem, potem wyszedłem.",
+        "Najpierw płaciłem, potem wychodziłem.",
+        "Najpierw płaciłem, potem wyszedłem.",
+        "Najpierw zapłaciłem, potem wychodziłem."
+      ],
       "correctIndex": 0,
       "explanation": "Sequential completed events → both perfective: zapłaciłem (paid) + wyszedłem (left). Two completed steps in narrative sequence."
     },
@@ -122,7 +178,12 @@
       "order": 12,
       "sourceVocab": "a2-ch12-vocab",
       "prompt": "What does 'niedokonany' mean in grammar?",
-      "options": ["imperfective", "perfective", "irregular", "reflexive"],
+      "options": [
+        "imperfective",
+        "perfective",
+        "irregular",
+        "reflexive"
+      ],
       "correctIndex": 0,
       "explanation": "'Niedokonany' = imperfective (literally: 'not completed'). Contrast: 'dokonany' = perfective (completed). These are the Polish grammar terms."
     }

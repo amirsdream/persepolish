@@ -3,15 +3,21 @@
   "level": "b1",
   "chapter": 8,
   "title": "B1 Chapter 8 Revision — Relative Clauses (który)",
+  "title_fa": "مرور فصل ۸ B1: جملات موصولی با który",
   "description": "Test your mastery of który across all cases and in complex relative clause constructions.",
-  "passThreshold": 0.70,
+  "passThreshold": 0.7,
   "questions": [
     {
       "id": "b1-ch08-rev-q01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "To jest nauczycielka, ___ uczy języka polskiego. (This is the teacher who teaches Polish.)",
-      "options": ["która", "który", "które", "którzy"],
+      "options": [
+        "która",
+        "który",
+        "które",
+        "którzy"
+      ],
       "correctIndex": 0,
       "explanation": "'Nauczycielka' = feminine → nominative relative pronoun = 'która'. który is the subject of the relative clause (uczy), so nominative. który agrees with the antecedent in gender: nauczycielka (f) → która."
     },
@@ -20,7 +26,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Lubię muzykę, ___ słucham codziennie. (I like the music that I listen to every day.) [słuchać + genitive]",
-      "options": ["której", "którą", "który", "które"],
+      "options": [
+        "której",
+        "którą",
+        "który",
+        "które"
+      ],
       "correctIndex": 0,
       "explanation": "'Muzyka' = feminine. 'Słuchać' takes genitive ('słuchać czegoś'). In the relative clause, muzyka is the object of słuchać → genitive: 'której'. 'Lubię muzykę, której słucham codziennie.' = I like the music that I listen to every day."
     },
@@ -29,7 +40,12 @@
       "type": "multiple_choice",
       "order": 3,
       "prompt": "Znam mężczyzn, ___ pracują w tej firmie. (I know the men who work in this company.) [virile plural]",
-      "options": ["którzy", "które", "który", "których"],
+      "options": [
+        "którzy",
+        "które",
+        "który",
+        "których"
+      ],
       "correctIndex": 0,
       "explanation": "'Mężczyźni' = virile plural (men) → nominative virile plural = 'którzy'. Verb 'pracują' agrees with 'którzy/mężczyźni' (3pl). Non-virile plural would be 'które'. 'Znam mężczyzn, którzy pracują w tej firmie.'"
     },
@@ -38,7 +54,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "To jest profesor, ___ znam od wielu lat. (This is the professor whom I have known for many years.) ['profesor' = m animate, accusative]",
-      "options": ["którego", "który", "któremu", "którym"],
+      "options": [
+        "którego",
+        "który",
+        "któremu",
+        "którym"
+      ],
       "correctIndex": 0,
       "explanation": "'Profesor' = masculine animate → accusative = 'którego' (animate masc acc = gen form). 'Znam profesora' → in the relative clause, profesor is the object → accusative: 'którego'. Compare inanimate: 'artykuł, który czytam' (który for inanimates)."
     },
@@ -47,7 +68,12 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Mieszkam w mieście, ___ jest wiele muzeów. (I live in a city in which there are many museums.) ['miasto' = n, w + locative]",
-      "options": ["w którym", "w który", "w której", "w których"],
+      "options": [
+        "w którym",
+        "w który",
+        "w której",
+        "w których"
+      ],
       "correctIndex": 0,
       "explanation": "'Miasto' = neuter → locative = 'którym'. With preposition 'w': 'w którym'. 'Mieszkam w mieście, w którym jest wiele muzeów.' Locative neuter/masculine = 'którym'. Feminine locative = 'której'. Always: preposition stays with który."
     },
@@ -56,7 +82,12 @@
       "type": "multiple_choice",
       "order": 6,
       "prompt": "Widziałam kobietę, ___ pomogłeś wczoraj. (I saw the woman to whom you helped yesterday.) ['kobieta' = f, dative — pomóc komuś]",
-      "options": ["której", "którą", "która", "którymi"],
+      "options": [
+        "której",
+        "którą",
+        "która",
+        "którymi"
+      ],
       "correctIndex": 0,
       "explanation": "'Pomóc komuś' = to help someone (dative). 'Kobieta' = feminine → dative = 'której'. 'Widziałam kobietę, której pomogłeś wczoraj.' Note: 'której' = dative f AND genitive f — context ('pomóc' takes dative) tells us it's dative here."
     },
@@ -65,7 +96,12 @@
       "type": "multiple_choice",
       "order": 7,
       "prompt": "To jest kolega, ___ studiuję na tej samej uczelni. (This is a classmate with whom I study at the same university.) [z + instrumental]",
-      "options": ["z którym", "z który", "z którą", "z którymi"],
+      "options": [
+        "z którym",
+        "z który",
+        "z którą",
+        "z którymi"
+      ],
       "correctIndex": 0,
       "explanation": "'Kolega' = masculine → instrumental = 'którym'. With 'z': 'z którym'. 'To jest kolega, z którym studiuję na tej samej uczelni.' 'Z + instrumental' for 'with'. Instrumental masc/n = 'którym'; f = 'którą'; pl = 'którymi'."
     },
@@ -74,7 +110,12 @@
       "type": "multiple_choice",
       "order": 8,
       "prompt": "Dostałem list od osoby, ___ nie znam. (I received a letter from a person whom I don't know.) [negation → genitive!]",
-      "options": ["której", "którą", "która", "komu"],
+      "options": [
+        "której",
+        "którą",
+        "która",
+        "komu"
+      ],
       "correctIndex": 0,
       "explanation": "After negated verb, object takes genitive. 'Nie znam' → genitive. 'Osoba' = feminine → genitive = 'której'. 'Dostałem list od osoby, której nie znam.' = I received a letter from a person I don't know. Key rule: negation + transitive verb → genitive (not accusative)."
     },
@@ -83,7 +124,12 @@
       "type": "multiple_choice",
       "order": 9,
       "prompt": "Kupiłem bilet do miasta, ___ chciałem pojechać. (I bought a ticket to the city to which I wanted to go.) [do + genitive]",
-      "options": ["do którego", "do który", "do której", "w którym"],
+      "options": [
+        "do którego",
+        "do który",
+        "do której",
+        "w którym"
+      ],
       "correctIndex": 0,
       "explanation": "'Miasto' = neuter → genitive = 'którego'. With preposition 'do' (to/of, takes genitive): 'do którego'. 'Kupiłem bilet do miasta, do którego chciałem pojechać.' 'Jechać do + gen': do którego (m/n gen). 'Do której' = feminine genitive."
     },
@@ -92,7 +138,12 @@
       "type": "multiple_choice",
       "order": 10,
       "prompt": "To jest firma, ___ pracuję, i ___ prezes jest moim szefem. (This is the company in which I work and whose president is my boss.)",
-      "options": ["w której / której", "w którym / którego", "w której / którą", "w który / która"],
+      "options": [
+        "w której / której",
+        "w którym / którego",
+        "w której / którą",
+        "w który / która"
+      ],
       "correctIndex": 0,
       "explanation": "'Firma' = feminine. (1) 'w której pracuję' = in which I work → w + locative f = 'w której'. (2) 'której prezes' = whose president → genitive f (possession) = 'której'. Both correctly 'której' — but different cases: locative (with w) and genitive (possession). 'To jest firma, w której pracuję, i której prezes jest moim szefem.'"
     },
@@ -101,7 +152,12 @@
       "type": "multiple_choice",
       "order": 11,
       "prompt": "Mam przyjaciela, ___ możesz zawsze liczyć. (I have a friend on whom you can always count.) [liczyć na + accusative]",
-      "options": ["na którego", "na którym", "na który", "na którą"],
+      "options": [
+        "na którego",
+        "na którym",
+        "na który",
+        "na którą"
+      ],
       "correctIndex": 0,
       "explanation": "'Liczyć na kogoś' = to count on someone (na + accusative). 'Przyjaciel' = masculine animate → accusative = 'którego'. With 'na': 'na którego'. 'Mam przyjaciela, na którego możesz zawsze liczyć.' Key: 'na + acc' for 'counting on' (NOT locative here)."
     },
@@ -110,7 +166,12 @@
       "type": "multiple_choice",
       "order": 12,
       "prompt": "Znam człowieka, ___ napisał tę książkę i ___ chciałbym zadać kilka pytań. (I know the person who wrote this book and to whom I'd like to ask a few questions.)",
-      "options": ["który / któremu", "którego / któremu", "który / którego", "który / którym"],
+      "options": [
+        "który / któremu",
+        "którego / któremu",
+        "który / którego",
+        "który / którym"
+      ],
       "correctIndex": 0,
       "explanation": "'Człowiek' = masculine animate. (1) 'który napisał' = who wrote → subject of relative clause → nominative = 'który'. (2) 'któremu chciałbym zadać pytania' = to whom I'd like to ask → indirect object → dative = 'któremu'. Two relative clauses on same antecedent: coordinated with 'i któremu'. 'Znam człowieka, który napisał tę książkę i któremu chciałbym zadać kilka pytań.'"
     }

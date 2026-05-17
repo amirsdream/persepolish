@@ -4,7 +4,9 @@
   "lessonOrder": 4,
   "level": "b1",
   "title": "Gerunds in Formal & Semi-Formal Texts",
+  "title_fa": "قیدهای فعلی در متون رسمی و ادبی",
   "grammarPoint": "Gerunds in instructions, applications, and academic writing",
+  "grammarPoint_fa": "کاربرد قیدهای فعلی در سبک‌های مختلف نوشتاری",
   "explanation": {
     "text": "Gerunds appear frequently in Polish formal and semi-formal language. Mastering them helps you read documents, write applications, and understand official instructions.\n\n1. INSTRUCTIONS & PROCEDURES\nGerunds make instructions more concise:\n• Przed wysłaniem formularza sprawdź wszystkie pola. (Before sending the form, check all fields.)\n• Po zalogowaniu się kliknij 'Ustawienia'. (After logging in, click 'Settings'.)\n\n2. JOB APPLICATIONS & FORMAL LETTERS\n• Mam doświadczenie w zarządzaniu projektami. (I have experience in managing projects.)\n• Jestem odpowiedzialny za organizowanie spotkań. (I am responsible for organising meetings.)\n• Interesuję się programowaniem. (I am interested in programming.)\n\n3. ACADEMIC & PROFESSIONAL WRITING\nNominalisation (replacing verb clauses with gerund phrases) is standard:\n• Zamiast: 'gdy piszemy raport' → formal: 'przy pisaniu raportu'\n• Zamiast: 'kiedy zdecydujemy' → formal: 'po podjęciu decyzji'\n\n4. COMMON PREPOSITION + GERUND PATTERNS\n• w trakcie + genitive: w trakcie negocjacji / w trakcie omawiania\n• podczas + genitive: podczas spotkania / podczas czytania\n• dzięki + dative: dzięki uczeniu się / dzięki ćwiczeniu\n• bez + genitive: bez zatrzymywania się / bez pisania",
     "notes": [
@@ -14,6 +16,7 @@
       "Interesuję się + instrumental: interested in X (gerund or noun)"
     ]
   },
+  "explanation_fa": "قیدهای فعلی در سبک‌های مختلف: ادبی: Patrząc na gwiazdy, myślał o niej (در حالی که به ستاره‌ها نگاه می‌کرد، به او فکر می‌کرد). روزنامه‌ای: Opisując sytuację... (هنگام توصیف وضعیت...). علمی: Analizując dane... (در تحلیل داده‌ها...). در گفتار روزمره به جای این ساختارها از kiedy/po + اسم مصدر استفاده می‌شود.",
   "exercises": [
     {
       "id": "b1-ch10-l04-ex01",
@@ -33,7 +36,9 @@
       "type": "fill_blank",
       "prompt": "W trakcie ___ (the meeting), nie wolno używać telefonów.",
       "answer": "spotkania",
-      "acceptableAnswers": ["spotkania"],
+      "acceptableAnswers": [
+        "spotkania"
+      ],
       "explanation": "W trakcie + genitive. Spotkanie (neuter n.) → spotkania (genitive). 'W trakcie spotkania' = during the meeting. Note: spotkanie here is used as a regular noun, not strictly a gerund, but the pattern is the same."
     },
     {
@@ -54,22 +59,45 @@
       "type": "fill_blank",
       "prompt": "Jestem odpowiedzialny za ___ (organising) konferencji w naszej firmie.",
       "answer": "organizowanie",
-      "acceptableAnswers": ["organizowanie", "organizację"],
+      "acceptableAnswers": [
+        "organizowanie",
+        "organizację"
+      ],
       "explanation": "Odpowiedzialny za + accusative. Organizować → organizowanie (accusative = same as nominative for neuter). 'Jestem odpowiedzialny za organizowanie konferencji' = I am responsible for organising conferences."
     },
     {
       "id": "b1-ch10-l04-ex05",
       "type": "sentence_builder",
       "prompt": "Build: 'During the presentation, I was taking notes.'",
-      "wordBank": ["Podczas", "prezentacji", "robiłem", "notatki", "po", "spotkania"],
+      "wordBank": [
+        "Podczas",
+        "prezentacji",
+        "robiłem",
+        "notatki",
+        "po",
+        "spotkania"
+      ],
       "correctSequences": [
-        ["Podczas", "prezentacji", "robiłem", "notatki"]
+        [
+          "Podczas",
+          "prezentacji",
+          "robiłem",
+          "notatki"
+        ]
       ],
       "explanation": "Podczas prezentacji, robiłem notatki. Podczas + genitive: prezentacji (genitive of prezentacja). Robiłem notatki = I was taking notes (imperfective past, ongoing during that time)."
     }
   ],
   "xpReward": 15,
   "estimatedMinutes": 9,
-  "tags": ["gerunds", "formal_language", "instructions", "applications", "prepositions"],
-  "prerequisites": ["b1-ch10-l03-gerunds-aspect-distinction"]
+  "tags": [
+    "gerunds",
+    "formal_language",
+    "instructions",
+    "applications",
+    "prepositions"
+  ],
+  "prerequisites": [
+    "b1-ch10-l03-gerunds-aspect-distinction"
+  ]
 }

@@ -4,7 +4,9 @@
   "chapter": 4,
   "lessonOrder": 2,
   "title": "Numbers 20–1000",
+  "title_fa": "اعداد ۲۰ تا ۱۰۰۰",
   "grammarPoint": "Cardinal numbers dwadzieścia through tysiąc",
+  "grammarPoint_fa": "اعداد اصلی لهستانی از ۲۰ تا ۱۰۰۰",
   "explanation": {
     "text": "Larger Polish numbers follow patterns built from the tens and units you already know.\n\n**Tens:**\n\n| Number | Polish |\n|--------|--------|\n| 20 | **dwadzieścia** |\n| 30 | **trzydzieści** |\n| 40 | **czterdzieści** |\n| 50 | **pięćdziesiąt** |\n| 60 | **sześćdziesiąt** |\n| 70 | **siedemdziesiąt** |\n| 80 | **osiemdziesiąt** |\n| 90 | **dziewięćdziesiąt** |\n| 100 | **sto** |\n| 200 | **dwieście** |\n| 300/400 | **trzysta / czterysta** |\n| 500–900 | **pięćset … dziewięćset** |\n| 1000 | **tysiąc** |\n\n**Compound numbers:** just say tens + units: 21 = *dwadzieścia jeden*, 35 = *trzydzieści pięć*.",
     "notes": [
@@ -13,13 +15,19 @@
       "The noun case after large numbers follows the last digit's rule (complex — focus on recognition for now)."
     ]
   },
+  "explanation_fa": "دهگان: dwadzieścia (۲۰)، trzydzieści (۳۰)، czterdzieści (۴۰)، pięćdziesiąt (۵۰)، sześćdziesiąt (۶۰)، siedemdziesiąt (۷۰)، osiemdziesiąt (۸۰)، dziewięćdziesiąt (۹۰)، sto (۱۰۰). صدگان: dwieście، trzysta، czterysta، pięćset ... tysiąc (۱۰۰۰).",
   "exercises": [
     {
       "id": "a1-ch04-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "What is 50 in Polish?",
-      "options": ["pięćdziesiąt", "pięćset", "pięćdziesiąt pięć", "pięćdziesiąta"],
+      "options": [
+        "pięćdziesiąt",
+        "pięćset",
+        "pięćdziesiąt pięć",
+        "pięćdziesiąta"
+      ],
       "correctIndex": 0,
       "explanation": "50 = pięćdziesiąt. Notice the pattern: pięć (5) + dziesiąt (tens suffix)."
     },
@@ -29,7 +37,9 @@
       "order": 2,
       "prompt": "Mam ___ złotych. (I have 100 zloty.)",
       "answer": "sto",
-      "acceptableAnswers": ["sto"],
+      "acceptableAnswers": [
+        "sto"
+      ],
       "hint": "The number 100 in Polish"
     },
     {
@@ -37,7 +47,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch04/a1-ch04-l02-ex03.mp3",
-      "options": ["trzydzieści pięć", "czterdzieści pięć", "dwadzieścia pięć", "pięćdziesiąt pięć"],
+      "options": [
+        "trzydzieści pięć",
+        "czterdzieści pięć",
+        "dwadzieścia pięć",
+        "pięćdziesiąt pięć"
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'trzydzieści pięć' — 35. Trzydzieści (30) + pięć (5) = 35."
     },
@@ -46,9 +61,20 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: I have five hundred zloty.",
-      "wordBank": ["Mam", "pięćset", "pięćdziesiąt", "złotych", "złoty", "euro"],
+      "wordBank": [
+        "Mam",
+        "pięćset",
+        "pięćdziesiąt",
+        "złotych",
+        "złoty",
+        "euro"
+      ],
       "correctSequences": [
-        ["Mam", "pięćset", "złotych"]
+        [
+          "Mam",
+          "pięćset",
+          "złotych"
+        ]
       ],
       "explanation": "'Mam pięćset złotych' = I have five hundred zloty. 'Pięćset' = 500. 'Złotych' is genitive plural after large numbers."
     },
@@ -57,13 +83,25 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "How do you say 42 in Polish?",
-      "options": ["czterdzieści dwa", "dwadzieścia cztery", "cztery dwadzieścia", "czterdzieści dwie"],
+      "options": [
+        "czterdzieści dwa",
+        "dwadzieścia cztery",
+        "cztery dwadzieścia",
+        "czterdzieści dwie"
+      ],
       "correctIndex": 0,
       "explanation": "42 = czterdzieści dwa. Tens first (czterdzieści = 40), then units (dwa = 2). No connecting word needed."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 9,
-  "tags": ["numbers", "cardinal-numbers", "large-numbers", "a1-core"],
-  "prerequisites": ["a1-ch04-l01"]
+  "tags": [
+    "numbers",
+    "cardinal-numbers",
+    "large-numbers",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch04-l01"
+  ]
 }

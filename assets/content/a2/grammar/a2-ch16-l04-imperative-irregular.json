@@ -4,7 +4,9 @@
   "chapter": 16,
   "lessonOrder": 4,
   "title": "Irregular Imperatives",
+  "title_fa": "وجه امری نامنظم",
   "grammarPoint": "Irregular and tricky imperatives: bądź, idź, jedź, jedz, pij, weź, daj, powiedz, chodź, wróć",
+  "grammarPoint_fa": "وجه امری نامنظم: być → bądź، wiedzieć → wiedz، jeść → jedz",
   "explanation": {
     "text": "Some of the most common Polish verbs have **irregular imperatives** that must be memorized.\n\n**Essential irregular imperatives:**\n\n| Infinitive | Imperative (ty) | Plural (wy) | 1st pl (my) | Meaning |\n|-----------|----------------|------------|------------|--------|\n| być | **bądź!** | bądźcie! | bądźmy! | be! |\n| iść | **idź!** | idźcie! | idźmy! | go/walk! |\n| jechać | **jedź!** | jedźcie! | jedźmy! | go (vehicle)! |\n| jeść | **jedz!** | jedzcie! | jedzmy! | eat! |\n| pić | **pij!** | pijcie! | pijmy! | drink! |\n| wziąć | **weź!** | weźcie! | weźmy! | take! |\n| dać | **daj!** | dajcie! | dajmy! | give! |\n| powiedzieć | **powiedz!** | powiedzcie! | powiedzmy! | say/tell! |\n| przyjść | **przyjdź!** | przyjdźcie! | przyjdźmy! | come! |\n| chodzić | **chodź!** | chodźcie! | chodźmy! | come (habit)! |\n| wrócić | **wróć!** | wróćcie! | wróćmy! | come back! |\n\n**In common phrases:**\n- **Chodź ze mną!** = Come with me!\n- **Wróć do domu!** = Come back home!\n- **Weź lekarstwo!** = Take the medicine!\n- **Powiedz mi prawdę.** = Tell me the truth.\n- **Daj mi spokój!** = Leave me alone! (literally: give me peace)",
     "notes": [
@@ -14,13 +16,19 @@
       "Daj mi spokój! = Leave me alone! — a very common colloquial expression."
     ]
   },
+  "explanation_fa": "برخی افعال رایج وجه امری نامنظم دارند: być → bądź/bądźcie (باش/باشید)، wiedzieć → wiedz/wiedzcie (بدان/بدانید)، jeść → jedz/jedzcie (بخور/بخورید)، mieć → miej/miejcie (داشته باش/داشته باشید)، wziąć → weź/weźcie (بگیر/بگیرید).",
   "exercises": [
     {
       "id": "a2-ch16-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "___ ze mną do kina! (Come with me to the cinema!) [chodzić, imperative ty]",
-      "options": ["Chodź", "Idź", "Chodzisz", "Pójdź"],
+      "options": [
+        "Chodź",
+        "Idź",
+        "Chodzisz",
+        "Pójdź"
+      ],
       "correctIndex": 0,
       "explanation": "'Chodź ze mną' = Come with me (invitation). 'Chodź' is the imperative of 'chodzić' (habitual go). It's an invitation to accompany. 'Idź' = go (direction — away from speaker)."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "___ mi prawdę! (Tell me the truth!) [powiedzieć, imperative ty]",
       "answer": "Powiedz",
-      "acceptableAnswers": ["Powiedz"],
+      "acceptableAnswers": [
+        "Powiedz"
+      ],
       "hint": "Irregular imperative of 'powiedzieć': powiedz!"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch16/a2-ch16-l04-ex03.mp3",
-      "options": ["Weź parasol, bo pada deszcz!", "Bierz parasol, bo pada deszcz!", "Weź ze sobą parasol!", "Bierz ze sobą parasol!"],
+      "options": [
+        "Weź parasol, bo pada deszcz!",
+        "Bierz parasol, bo pada deszcz!",
+        "Weź ze sobą parasol!",
+        "Bierz ze sobą parasol!"
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Weź parasol, bo pada deszcz!' — Take an umbrella, because it's raining! 'Wziąć' irregular imperative: weź! 'Bo pada deszcz' = because it's raining."
     },
@@ -47,7 +62,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "___ do domu przed ósmą! (Come back home before eight!) [wrócić, imperative ty]",
-      "options": ["Wróć", "Wracaj", "Wróćcie", "Wracasz"],
+      "options": [
+        "Wróć",
+        "Wracaj",
+        "Wróćcie",
+        "Wracasz"
+      ],
       "correctIndex": 0,
       "explanation": "'Wrócić' (perfective) → imperative: wróć! 'Wracaj' = imperfective imperative (come back — ongoing/habitual). 'Wróć' = come back once (perfective command)."
     },
@@ -56,16 +76,43 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: Let's all go to the park! [idźmy + destination]",
-      "wordBank": ["Idźmy", "Chodźmy", "wszyscy", "do", "parku", "park", "na", "!"],
+      "wordBank": [
+        "Idźmy",
+        "Chodźmy",
+        "wszyscy",
+        "do",
+        "parku",
+        "park",
+        "na",
+        "!"
+      ],
       "correctSequences": [
-        ["Idźmy", "wszyscy", "do", "parku"],
-        ["Chodźmy", "wszyscy", "do", "parku"]
+        [
+          "Idźmy",
+          "wszyscy",
+          "do",
+          "parku"
+        ],
+        [
+          "Chodźmy",
+          "wszyscy",
+          "do",
+          "parku"
+        ]
       ],
       "explanation": "'Idźmy wszyscy do parku!' or 'Chodźmy wszyscy do parku!' — Let's all go to the park! Both work: idźmy (go, directional) / chodźmy (let's go, inviting). 'Do parku' = genitive destination."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["imperative", "irregular", "commands", "a2-core"],
-  "prerequisites": ["a2-ch16-l01", "a2-ch16-l02"]
+  "tags": [
+    "imperative",
+    "irregular",
+    "commands",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a2-ch16-l01",
+    "a2-ch16-l02"
+  ]
 }

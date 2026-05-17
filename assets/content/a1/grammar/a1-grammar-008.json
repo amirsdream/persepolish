@@ -3,7 +3,9 @@
   "level": "a1",
   "order": 8,
   "title": "Present Tense — Regular Verbs Group I (-ować/-ać)",
+  "title_fa": "زمان حال — افعال منظم گروه ۱",
   "explanation": "Polish verbs in Group I include verbs ending in -ować and many ending in -ać. Verbs ending in -ować replace -ować with -uję, -ujesz, -uje, -ujemy, -ujecie, -ują. Verbs ending in -ać (like słuchać, czytać, grać) follow the pattern: -am, -asz, -a, -amy, -acie, -ają. These endings are added to the verb stem. For example: pracować (to work) → pracuję (I work), pracujesz (you work); słuchać (to listen) → słucham (I listen), słuchasz (you listen).",
+  "explanation_fa": "افعال گروه اول با مصدر -ać/-ować: پسوندها: -am، -asz، -a، -amy، -acie، -ają. افعال -ować در زمان حال: -uj- اضافه می‌شود: pracować → pracuję. مثال‌ها: słuchać (گوش دادن)، czytać (خواندن)، grać (بازی/نواختن).",
   "examples": [
     {
       "polish": "Pracuję w biurze.",
@@ -40,7 +42,9 @@
       "id": "a1-g008-ex02",
       "prompt": "Complete with the correct form of 'słuchać' (to listen) for 'ona' (she):",
       "sentence_template": "Ona ___ radia.",
-      "accepted_answers": ["słucha"],
+      "accepted_answers": [
+        "słucha"
+      ],
       "explanation": "For 'ona/on/ono' (she/he/it), -ać verbs use the ending -a: słuchać → słucha."
     },
     {
@@ -61,7 +65,9 @@
       "id": "a1-g008-ex04",
       "prompt": "Complete with the correct form of 'studiować' (to study) for 'ty' (you, informal):",
       "sentence_template": "Ty ___ historię.",
-      "accepted_answers": ["studiujesz"],
+      "accepted_answers": [
+        "studiujesz"
+      ],
       "explanation": "For 'ty' (you), -ować verbs use the ending -ujesz: studiować → studiujesz."
     },
     {
@@ -82,7 +88,9 @@
       "id": "a1-g008-ex06",
       "prompt": "Complete with the correct form of 'pracować' (to work) for 'wy' (you plural):",
       "sentence_template": "Wy ___ w sobotę?",
-      "accepted_answers": ["pracujecie"],
+      "accepted_answers": [
+        "pracujecie"
+      ],
       "explanation": "For 'wy' (you plural), -ować verbs use the ending -ujecie: pracować → pracujecie."
     }
   ]

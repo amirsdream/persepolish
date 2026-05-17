@@ -4,7 +4,9 @@
   "chapter": 11,
   "lessonOrder": 4,
   "title": "Past Tense — Irregular Stems",
+  "title_fa": "زمان گذشته — بن‌های نامنظم",
   "grammarPoint": "Irregular past stems: iść→szedł/szła, być→był/była, móc→mógł/mogła, nieść→niósł/niosła",
+  "grammarPoint_fa": "افعال نامنظم در گذشته: iść → szedł، wziąć → wziął، móc → mógł",
   "explanation": {
     "text": "Most Polish verbs form the past tense regularly. A few very common verbs have **irregular stems** in the past.\n\n**Key irregular past tense verbs:**\n\n| Infinitive | Masc sing (on) | Fem sing (ona) | Masc pl (oni) | Fem pl (one) |\n|-----------|---------------|----------------|--------------|-------------|\n| być | **był** | **była** | **byli** | **były** |\n| iść | **szedł** | **szła** | **szli** | **szły** |\n| móc | **mógł** | **mogła** | **mogli** | **mogły** |\n| nieść | **niósł** | **niosła** | **nieśli** | **niosły** |\n| wziąć | **wziął** | **wzięła** | **wzięli** | **wzięły** |\n\n**Personal endings attach to these stems normally:**\n- ja m: byłem, szedłem, mogłem\n- ja f: byłam, szłam, mogłam\n- ty m: byłeś, szedłeś, mogłeś\n- ty f: byłaś, szłaś, mogłaś\n\n**Note on iść**: The stem alternates:\n- on **szedł** / ona **szła** / oni **szli** / one **szły**\n- ja m: **szedłem** / ja f: **szłam**\n\n**Example sentences:**\n- Wczoraj **byłem** w kinie. = Yesterday I (m) was at the cinema.\n- Ona **szła** do pracy. = She was walking to work.\n- Nie **mogłem** zasnąć. = I (m) couldn't fall asleep.\n- **Wzięli** taksówkę. = They (m-pers) took a taxi.",
     "notes": [
@@ -15,13 +17,19 @@
       "Jechać is REGULAR in past: jechał, jechała, jechali, jechały."
     ]
   },
+  "explanation_fa": "برخی افعال پرکاربرد بن‌های نامنظم در گذشته دارند: iść → szedł/szła/szli (رفت)، wziąć → wziął/wzięła (گرفت)، móc → mógł/mogła (توانست)، przyjść → przyszedł/przyszła (آمد)، znaleźć → znalazł/znalazła (پیدا کرد). این افعال را باید حفظ کرد.",
   "exercises": [
     {
       "id": "a2-ch11-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Wczoraj ___ do kina. (I (m) went to the cinema yesterday.) [iść, ja m past]",
-      "options": ["szedłem", "idłem", "idziłem", "szłem"],
+      "options": [
+        "szedłem",
+        "idłem",
+        "idziłem",
+        "szłem"
+      ],
       "correctIndex": 0,
       "explanation": "'Iść' past masc ja: szedłem. The stem is szedł- (not id-). 'Do kina' = genitive destination."
     },
@@ -31,7 +39,9 @@
       "order": 2,
       "prompt": "Ona ___ chora przez tydzień. (She was ill for a week.) [być, ona past]",
       "answer": "była",
-      "acceptableAnswers": ["była"],
+      "acceptableAnswers": [
+        "była"
+      ],
       "hint": "być past feminine 3rd person: była"
     },
     {
@@ -39,7 +49,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch11/a2-ch11-l04-ex03.mp3",
-      "options": ["Nie mogłam zasnąć całą noc.", "Nie mogłem zasnąć całą noc.", "Nie mogła zasnąć całą noc.", "Nie mogliśmy zasnąć całą noc."],
+      "options": [
+        "Nie mogłam zasnąć całą noc.",
+        "Nie mogłem zasnąć całą noc.",
+        "Nie mogła zasnąć całą noc.",
+        "Nie mogliśmy zasnąć całą noc."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Nie mogłam zasnąć całą noc.' — I (f) couldn't fall asleep all night. 'Móc' past feminine ja: mogłam."
     },
@@ -48,9 +63,25 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: They (mixed group) took the train to Warsaw.",
-      "wordBank": ["Oni", "One", "wzięli", "wzięły", "pociąg", "pociągiem", "do", "Warszawy", "Warszawa"],
+      "wordBank": [
+        "Oni",
+        "One",
+        "wzięli",
+        "wzięły",
+        "pociąg",
+        "pociągiem",
+        "do",
+        "Warszawy",
+        "Warszawa"
+      ],
       "correctSequences": [
-        ["Oni", "wzięli", "pociąg", "do", "Warszawy"]
+        [
+          "Oni",
+          "wzięli",
+          "pociąg",
+          "do",
+          "Warszawy"
+        ]
       ],
       "explanation": "'Oni wzięli pociąg do Warszawy.' — They (mixed/male group) took a train to Warsaw. 'Wziąć' past virile plural: wzięli. 'Pociąg' = accusative (direct object). 'Do Warszawy' = genitive destination."
     },
@@ -59,13 +90,26 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Which past form is INCORRECT?",
-      "options": ["ona idła", "ona szła", "on szedł", "oni szli"],
+      "options": [
+        "ona idła",
+        "ona szła",
+        "on szedł",
+        "oni szli"
+      ],
       "correctIndex": 0,
       "explanation": "'Idła' does NOT exist — the feminine past of 'iść' is 'szła', not 'idła'. The stem changes completely: szedł/szła/szli/szły."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": ["past-tense", "irregular", "a2-core"],
-  "prerequisites": ["a2-ch11-l01", "a2-ch11-l02", "a2-ch11-l03"]
+  "tags": [
+    "past-tense",
+    "irregular",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a2-ch11-l01",
+    "a2-ch11-l02",
+    "a2-ch11-l03"
+  ]
 }

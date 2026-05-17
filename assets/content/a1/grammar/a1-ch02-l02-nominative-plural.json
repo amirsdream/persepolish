@@ -4,7 +4,9 @@
   "chapter": 2,
   "lessonOrder": 2,
   "title": "Nominative Plural — Nouns",
+  "title_fa": "جمع فاعلی — اسم‌ها",
   "grammarPoint": "Forming nominative plural: -i/-y/-e/-owie endings by gender and type",
+  "grammarPoint_fa": "پسوندهای جمع فاعلی: -i/-y (مذکر)، -y/-i/-e (مؤنث)، -a (خنثی)",
   "explanation": {
     "text": "Polish nouns change their ending in the plural. The plural form depends on the noun's gender and its final consonant. Here are the main patterns:\n\n| Type | Singular → Plural | Example |\n|------|------------------|---------|\n| Masculine personal (virile) | consonant → **-i/-y** | student → studenci |\n| Masculine non-personal | consonant → **-y/-i** | kot → koty |\n| Feminine -a | -a → **-y/-i** | kobieta → kobiety |\n| Neuter -o | -o → **-a** | okno → okna |\n| Neuter -e | -e → **-a** | morze → morza |\n\nNote: masculine personal nouns (men, male animate beings) use **virile** plural — a special form that often triggers a consonant change (student → studenci, Polak → Polacy).",
     "notes": [
@@ -14,13 +16,19 @@
       "Irregular plurals must be learned individually (e.g. człowiek → ludzie)."
     ]
   },
+  "explanation_fa": "برای ساختن جمع اسم‌ها: اسم‌های مذکر غیرجاندار + -y/-i (stoły، koty)، اسم‌های مؤنث: -a → -y/-i (kobiety، siostry)، اسم‌های خنثی: -o → -a (okna، słowa). اسم‌های جاندار مذکر قواعد خاص دارند.",
   "exercises": [
     {
       "id": "a1-ch02-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "What is the nominative plural of 'okno' (window)?",
-      "options": ["okna", "okny", "okni", "oknie"],
+      "options": [
+        "okna",
+        "okny",
+        "okni",
+        "oknie"
+      ],
       "correctIndex": 0,
       "explanation": "Neuter nouns ending in -o form the plural with -a: okno → okna."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Te ___ są bardzo miłe. (These women are very nice.) [kobieta → ?]",
       "answer": "kobiety",
-      "acceptableAnswers": ["kobiety"],
+      "acceptableAnswers": [
+        "kobiety"
+      ],
       "hint": "Feminine noun ending -a → -y in the plural"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch02/a1-ch02-l02-ex03.mp3",
-      "options": ["Studenci są tutaj.", "Studentki są tutaj.", "Student jest tutaj.", "Studenta są tutaj."],
+      "options": [
+        "Studenci są tutaj.",
+        "Studentki są tutaj.",
+        "Student jest tutaj.",
+        "Studenta są tutaj."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Studenci są tutaj.' — The students (male/mixed) are here. Virile plural: student → studenci."
     },
@@ -47,9 +62,20 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: The cats are black. [kot → koty, czarny → czarne]",
-      "wordBank": ["Koty", "Kota", "są", "jest", "czarne", "czarny"],
+      "wordBank": [
+        "Koty",
+        "Kota",
+        "są",
+        "jest",
+        "czarne",
+        "czarny"
+      ],
       "correctSequences": [
-        ["Koty", "są", "czarne"]
+        [
+          "Koty",
+          "są",
+          "czarne"
+        ]
       ],
       "explanation": "'Koty są czarne' = The cats are black. 'Koty' is the non-virile masculine plural of 'kot'. Adjective 'czarne' agrees in plural non-virile."
     },
@@ -58,13 +84,25 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "What is the correct virile plural of 'Polak' (a Polish man)?",
-      "options": ["Polacy", "Polaki", "Polakowie", "Polaku"],
+      "options": [
+        "Polacy",
+        "Polaki",
+        "Polakowie",
+        "Polaku"
+      ],
       "correctIndex": 0,
       "explanation": "'Polak' → 'Polacy' — the k softens to c in the virile plural. This is a common pattern with nouns ending in -k."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 9,
-  "tags": ["nominative", "plural", "noun-declension", "a1-core"],
-  "prerequisites": ["a1-ch01-l04"]
+  "tags": [
+    "nominative",
+    "plural",
+    "noun-declension",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch01-l04"
+  ]
 }

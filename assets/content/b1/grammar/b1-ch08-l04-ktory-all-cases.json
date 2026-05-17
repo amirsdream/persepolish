@@ -4,7 +4,9 @@
   "chapter": 8,
   "lessonOrder": 4,
   "title": "Relative Clauses in Complex Sentences",
+  "title_fa": "جملات موصولی در جملات پیچیده",
   "grammarPoint": "który across all cases in real connected discourse — complex sentences with multiple relative clauses, stacked descriptions, and natural text comprehension",
+  "grammarPoint_fa": "ترکیب جملات موصولی در متون طولانی و پیچیده",
   "explanation": {
     "text": "Mastering relative clauses means using them fluently in complex, natural discourse. This lesson focuses on real-world usage patterns.\n\n## Building Complex Descriptions\n\nRelative clauses can stack to build rich descriptions:\n\n- *To jest firma, **w której** pracuję, i **której** szef jest moim znajomym.*\n  (This is the company **in which** I work and **whose** boss is my acquaintance.)\n\n- *Znam człowieka, **który** napisał tę książkę, i **któremu** chciałbym zadać kilka pytań.*\n  (I know the person **who** wrote this book and **to whom** I'd like to ask a few questions.)\n\n## Relative Clauses in Descriptions and Tourism\n\n- Kraków to miasto, **w którym** jest Wawel, **który** jest jednym z najważniejszych symboli Polski.\n  (Kraków is a city **in which** Wawel is located, **which** is one of the most important symbols of Poland.)\n\n- Odwiedziłem zamek, **który** zbudowano w XIV wieku i **który** słynie z pięknych komnat.\n  (I visited the castle **that** was built in the 14th century and **that** is famous for its beautiful chambers.)\n\n## Relative Clauses with Extended Noun Phrases\n\nSometimes the antecedent has adjectives:\n\n- Stary mężczyzna, **który** siedzi przy oknie, to mój dziadek.\n  (The old man **who** is sitting by the window is my grandfather.)\n\n- Nowa restauracja, **w której** jedliśmy, jest bardzo dobra.\n  (The new restaurant **in which** we ate is very good.)\n\n## Non-restrictive vs Restrictive Relative Clauses\n\nBoth types use który — Polish doesn't distinguish them in form:\n\n**Restrictive** (identifies which one):\n- Student, **który** zdał egzamin, dostał nagrodę. (The student who passed the exam got a prize — not all students, just that one)\n\n**Non-restrictive** (adds information, could be omitted):\n- Jan Kowalski, **który** jest moim szefem, przyjechał z Warszawy. (Jan Kowalski, who is my boss, came from Warsaw — additional info)\n\nIn writing, non-restrictive clauses are separated by commas (same as English).\n\n## Decision Chart: Which który Form?\n\n```\nWhat is the antecedent?\n  → gender: m/f/n/pl-virile/pl-non-virile\n\nWhat is który's role in the relative clause?\n  → subject → nominative\n  → direct object → accusative\n  → possession ('whose') → genitive\n  → indirect object → dative  \n  → after preposition → that preposition's case\n  → instrument/means → instrumental\n  → location → locative (usually with w)\n```\n\n## Real Conversation Examples\n\n- Widziałeś film, **o którym** mówiłem? (Did you see the film **about which** I was talking?)\n- Znam sklep, **w którym** kupisz to taniej. (I know a shop **in which** you'll buy that cheaper.)\n- Masz przyjaciela, **na którego** możesz liczyć? (Do you have a friend **on whom** you can count?)\n- To jest praca, **za którą** dobrze płacą. (This is the job **for which** they pay well.)",
     "notes": [
@@ -14,13 +16,19 @@
       "In formal/written Polish, which/that/who → który is never omitted. Colloquially Poles sometimes use 'co' (what) instead of który, but this is non-standard."
     ]
   },
+  "explanation_fa": "جملات موصولی پیچیده: Mężczyzna, który mieszka w tym domu, który stoi przy parku, jest moim przyjacielem (مردی که در آن خانه‌ای که کنار پارک است زندگی می‌کند، دوست من است). برای وضوح: جمله موصولی باید بلافاصله پس از اسم مرجع بیاید. در نوشتار رسمی از ساختارهای موصولی کوتاه‌تر استفاده کنید.",
   "exercises": [
     {
       "id": "b1-ch08-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Widziałeś film, ___ mówiłem? (Did you see the film about which I was talking?) ['film' = m inanim, o + locative]",
-      "options": ["o którym", "o który", "o której", "o którymi"],
+      "options": [
+        "o którym",
+        "o który",
+        "o której",
+        "o którymi"
+      ],
       "correctIndex": 0,
       "explanation": "'Film' = masculine inanimate → locative = 'którym' (same form as instrumental). With preposition 'o' (about): 'o którym'. 'Widziałeś film, o którym mówiłem?' Locative masculine/neuter = którym. 'Mówić o czymś' = to talk about something (o + locative)."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Mam przyjaciela, ___ możesz liczyć. (I have a friend on whom you can count.) ['przyjaciel' = m animate, na + acc? or locative?]",
-      "options": ["na którego", "na którym", "na którą", "na których"],
+      "options": [
+        "na którego",
+        "na którym",
+        "na którą",
+        "na których"
+      ],
       "correctIndex": 0,
       "explanation": "'Liczyć na kogoś' = to count on someone. 'Na' here takes ACCUSATIVE (not locative!). 'Przyjaciel' = masculine animate → accusative = 'którego'. 'Mam przyjaciela, na którego możesz liczyć.' = 'Na + acc': 'na którego' (m animate acc). Note: 'na + locative' for location (jestem na miejscu), 'na + accusative' for motion/direction/counting on."
     },
@@ -39,7 +52,9 @@
       "order": 3,
       "prompt": "Znam sklep, ___ kupisz to taniej. (I know a shop in which you'll buy that cheaper.) ['sklep' = m inanim, w + locative]",
       "answer": "w którym",
-      "acceptableAnswers": ["w którym"],
+      "acceptableAnswers": [
+        "w którym"
+      ],
       "explanation": "'Sklep' = masculine inanimate → locative = 'którym'. With 'w': 'w którym'. 'Znam sklep, w którym kupisz to taniej.' = I know a shop in which/where you'll buy that cheaper. 'W którym' = location (in which). Most common pattern: 'w którym/której/których' for location relative clauses."
     },
     {
@@ -47,7 +62,12 @@
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/b1/ch08/b1-ch08-l04-ex04.mp3",
-      "options": ["To jest praca, za którą dobrze płacą.", "To jest praca, za którą dobrze płaca.", "To jest praca, za który dobrze płacą.", "To jest praca, za którą dobrze płaci."],
+      "options": [
+        "To jest praca, za którą dobrze płacą.",
+        "To jest praca, za którą dobrze płaca.",
+        "To jest praca, za który dobrze płacą.",
+        "To jest praca, za którą dobrze płaci."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'To jest praca, za którą dobrze płacą.' — This is the job for which they pay well. 'Praca' = feminine → 'za + acc': 'za którą' (f acc). 'Płacą' = they pay (3pl — impersonal plural). 'Za + accusative' for 'in exchange for/for'. 'Za którą' = for which (f acc)."
     },
@@ -56,15 +76,48 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: This is the professor whom I know and to whom I'd like to ask a question. [profesor = m anim, którego + któremu]",
-      "wordBank": ["To", "jest", "profesor", "którego", "któremu", "który", "znam", "i", "chciałbym", "chciałabym", "zadać", "pytanie", "."],
+      "wordBank": [
+        "To",
+        "jest",
+        "profesor",
+        "którego",
+        "któremu",
+        "który",
+        "znam",
+        "i",
+        "chciałbym",
+        "chciałabym",
+        "zadać",
+        "pytanie",
+        "."
+      ],
       "correctSequences": [
-        ["To", "jest", "profesor", "którego", "znam", "i", "któremu", "chciałbym", "zadać", "pytanie", "."]
+        [
+          "To",
+          "jest",
+          "profesor",
+          "którego",
+          "znam",
+          "i",
+          "któremu",
+          "chciałbym",
+          "zadać",
+          "pytanie",
+          "."
+        ]
       ],
       "explanation": "'To jest profesor, którego znam, i któremu chciałbym zadać pytanie.' — Two relative clauses on same antecedent 'profesor' (m animate): (1) 'którego znam' = whom I know (acc animate = gen). (2) 'któremu chciałbym zadać pytanie' = to whom I'd like to ask a question (dative — 'zadać pytanie komuś' needs dative). Coordinated with 'i któremu'."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 14,
-  "tags": ["relative-clauses", "b1-core", "który", "complex-sentences"],
-  "prerequisites": ["b1-ch08-l03"]
+  "tags": [
+    "relative-clauses",
+    "b1-core",
+    "który",
+    "complex-sentences"
+  ],
+  "prerequisites": [
+    "b1-ch08-l03"
+  ]
 }

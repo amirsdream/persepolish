@@ -4,7 +4,9 @@
   "chapter": 15,
   "lessonOrder": 3,
   "title": "Emotional Verbs",
+  "title_fa": "افعال احساسی",
   "grammarPoint": "Emotional verbs with dative or instrumental: nudzić się, cieszyć się z + gen, martwić się o + acc, denerwować się na + acc, wstydzić się + gen",
+  "grammarPoint_fa": "افعال احساسی: cieszyć się، martwić się، bać się، denerwować się",
   "explanation": {
     "text": "Polish emotional verbs often require specific cases on their objects.\n\n**Emotional verbs and their case requirements:**\n\n| Verb | Case | Meaning | Example |\n|------|------|---------|--------|\n| **cieszyć się z** + gen | genitive | to be pleased/happy about | Cieszę się z twojego sukcesu. |\n| **martwić się o** + acc | accusative | to worry about | Martwię się o ciebie. |\n| **martwić się** + instr | instrumental | to worry about (cause) | Martwię się tą sytuacją. |\n| **nudzić się** | — | to be bored | Nudzę się na tej lekcji. |\n| **denerwować się na** + acc | accusative | to get annoyed at | Denerwuję się na niego. |\n| **wstydzić się** + gen | genitive | to be ashamed of | Wstydzę się tego błędu. |\n| **tęsknić za** + instr | instrumental | to miss | Tęsknię za tobą. |\n| **zazdrościć** + dat + gen | dat+gen | to envy sb sth | Zazdroszczę jej sukcesu. |\n\n**Key reflexive emotional verbs (się is integral):**\n- **nudzić się** = to be bored (not: nudzić kogoś = to bore someone)\n- **cieszyć się** = to be happy / to rejoice\n- **denerwować się** = to get nervous/annoyed\n\n**Examples in sentences:**\n- Bardzo **tęsknię za** rodziną. = I miss my family a lot.\n- **Martwię się o** twoje zdrowie. = I'm worried about your health.\n- Ona **wstydzi się** swojego błędu. = She's ashamed of her mistake.",
     "notes": [
@@ -14,13 +16,19 @@
       "Denerwować się na + accusative: Denerwuję się na niego (not: na niemu)."
     ]
   },
+  "explanation_fa": "افعال احساسی پرکاربرد: cieszyć się (خوشحال بودن)، martwić się (نگران بودن)، bać się + مضاف‌الیهی (ترسیدن از)، denerwować się (عصبانی شدن)، wstydzić się (خجالت کشیدن)، nudzić się (حوصله سر رفتن)، tęsknić za + ابزاری (دلتنگ بودن).",
   "exercises": [
     {
       "id": "a2-ch15-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Bardzo ___ za rodzicami. (I miss my parents a lot.) [tęsknić za + instrumental]",
-      "options": ["tęsknię za", "tęsknię do", "tęsknię o", "tęsknię na"],
+      "options": [
+        "tęsknię za",
+        "tęsknię do",
+        "tęsknię o",
+        "tęsknię na"
+      ],
       "correctIndex": 0,
       "explanation": "'Tęsknić za + instrumental': za rodzicami (rodzice → instrumental pl: rodzicami). 'Tęsknię za tobą' = I miss you. Never 'tęsknię do'."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Martwię się ___ jego zdrowiem. (I'm worried about his health.) [o or instrumental?]",
       "answer": "o",
-      "acceptableAnswers": ["o"],
+      "acceptableAnswers": [
+        "o"
+      ],
       "hint": "Martwić się O + accusative person/thing, OR martwić się + instrumental. Here: 'jego zdrowiem' is instrumental — wait, the prompt uses instrumental 'zdrowiem', so fill blank = nothing needed. Try: Martwię się ___ ciebie = about you → 'o'."
     },
     {
@@ -38,7 +48,12 @@
       "type": "multiple_choice",
       "order": 3,
       "prompt": "Cieszę się ___ twojego awansu. (I'm happy about your promotion.) [cieszyć się z + genitive]",
-      "options": ["z", "o", "na", "za"],
+      "options": [
+        "z",
+        "o",
+        "na",
+        "za"
+      ],
       "correctIndex": 0,
       "explanation": "'Cieszyć się z + genitive': z twojego awansu (awans → genitive: awansu). 'Cieszę się z twojego sukcesu' = I'm happy about your success."
     },
@@ -47,7 +62,12 @@
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/a2/ch15/a2-ch15-l03-ex04.mp3",
-      "options": ["Denerwuję się na niego, bo zawsze się spóźnia.", "Denerwuję się nim, bo zawsze się spóźnia.", "Denerwuję się jego, bo zawsze się spóźnia.", "Denerwuję się od niego, bo zawsze się spóźnia."],
+      "options": [
+        "Denerwuję się na niego, bo zawsze się spóźnia.",
+        "Denerwuję się nim, bo zawsze się spóźnia.",
+        "Denerwuję się jego, bo zawsze się spóźnia.",
+        "Denerwuję się od niego, bo zawsze się spóźnia."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Denerwuję się na niego, bo zawsze się spóźnia.' — I get annoyed at him because he's always late. 'Denerwować się na + accusative': na niego (accusative of 'on')."
     },
@@ -56,15 +76,38 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: He envies her success. [zazdrościć + dative + genitive]",
-      "wordBank": ["On", "zazdroszcze", "zazdrości", "jej", "ją", "sukcesu", "sukces", "sukcesem"],
+      "wordBank": [
+        "On",
+        "zazdroszcze",
+        "zazdrości",
+        "jej",
+        "ją",
+        "sukcesu",
+        "sukces",
+        "sukcesem"
+      ],
       "correctSequences": [
-        ["On", "zazdrości", "jej", "sukcesu"]
+        [
+          "On",
+          "zazdrości",
+          "jej",
+          "sukcesu"
+        ]
       ],
       "explanation": "'On zazdrości jej sukcesu.' — He envies her success. 'Zazdrościć' takes dative (person: jej) + genitive (thing: sukcesu). 'Jej' = dative of 'ona'."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": ["emotions", "reflexive", "cases", "a2-core"],
-  "prerequisites": ["a2-ch15-l01", "a1-ch09-l01", "a1-ch09-l02"]
+  "tags": [
+    "emotions",
+    "reflexive",
+    "cases",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a2-ch15-l01",
+    "a1-ch09-l01",
+    "a1-ch09-l02"
+  ]
 }

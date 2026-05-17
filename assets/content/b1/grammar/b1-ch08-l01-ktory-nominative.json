@@ -4,7 +4,9 @@
   "chapter": 8,
   "lessonOrder": 1,
   "title": "Relative Clauses — który in Nominative",
+  "title_fa": "جملات موصولی — który در حالت فاعلی",
   "grammarPoint": "który/która/które as relative pronouns in nominative case (subject role in the relative clause) — the book which is on the table, the man who came",
+  "grammarPoint_fa": "który (که) در حالت فاعلی برای توصیف اسم‌ها",
   "explanation": {
     "text": "**Relative clauses** allow you to add a description to a noun using 'który' (who/which/that). 'Który' agrees with the noun it refers to in **gender and number**, and takes the **case** required by its role in the relative clause.\n\n## Który as Subject (Nominative)\n\nWhen 'który' is the **subject** of the relative clause:\n\n| Antecedent | który form | Example |\n|-----------|-----------|--------|\n| masculine | **który** | To jest mężczyzna, **który** tu mieszka. |\n| feminine | **która** | To jest kobieta, **która** tu mieszka. |\n| neuter | **które** | To jest dziecko, **które** tu mieszka. |\n| virile plural | **którzy** | To są mężczyźni, **którzy** tu mieszkają. |\n| non-virile plural | **które** | To są kobiety, **które** tu mieszkają. |\n\n## Agreement Rules\n\n**Który agrees with the ANTECEDENT** (the noun it refers to) in **gender and number**.\nThe **verb** in the relative clause agrees with **który** (not the main clause subject).\n\n| Step | Question | Action |\n|------|----------|--------|\n| 1 | What is the antecedent? | Find the noun being described |\n| 2 | What gender/number? | Use matching który form |\n| 3 | What case does który need? | Use case required by relative clause role |\n\n## Examples with Nominative który\n\n**Masculine**:\n- Znam mężczyznę, **który** pracuje w banku. (I know the man who works in a bank.)\n- Kupiłem samochód, **który** jeździ bardzo dobrze. (I bought a car which runs very well.)\n\n**Feminine**:\n- To jest nauczycielka, **która** uczy polskiego. (This is the teacher who teaches Polish.)\n- Mam koleżankę, **która** mieszka w Paryżu. (I have a friend who lives in Paris.)\n\n**Neuter**:\n- Widzę dziecko, **które** bawi się w ogrodzie. (I see the child who is playing in the garden.)\n- Lubię miasto, **które** ma dobre muzea. (I like a city that has good museums.)\n\n**Virile plural**:\n- Znam studentów, **którzy** uczą się polskiego. (I know the students who are learning Polish.)\n- Mam sąsiadów, **którzy** są bardzo mili. (I have neighbors who are very nice.)\n\n**Non-virile plural**:\n- Widzę kobiety, **które** rozmawiają w kawiarni. (I see the women who are talking in the café.)\n- Lubię książki, **które** są ciekawe. (I like books which are interesting.)\n\n## Word Order\n\nPolish relative clauses follow the noun they describe:\n- **Pies [który jest w ogrodzie]** jest brązowy. (The dog [that is in the garden] is brown.)\n- **Kobieta [która siedzi przy oknie]** to moja mama. (The woman [who is sitting by the window] is my mom.)\n\nThe relative clause is set off by **commas** in writing.",
     "notes": [
@@ -14,13 +16,19 @@
       "The verb in the relative clause agrees with który: 'mężczyzna który pracuje' (3sg), 'mężczyźni którzy pracują' (3pl virile)."
     ]
   },
+  "explanation_fa": "który (که) در جملات موصولی با جنسیت اسم مرجع تطبیق می‌یابد. در حالت فاعلی: مذکر: który (chłopiec, który...) — پسری که... مؤنث: która (kobieta, która...) — زنی که... خنثی: które (dziecko, które...) — بچه‌ای که... جمع مذکر جاندار: którzy، بقیه جمع: które.",
   "exercises": [
     {
       "id": "b1-ch08-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "To jest nauczycielka, ___ uczy matematyki. (This is the teacher who teaches maths.) ['nauczycielka' = f]",
-      "options": ["która", "który", "które", "którzy"],
+      "options": [
+        "która",
+        "który",
+        "które",
+        "którzy"
+      ],
       "correctIndex": 0,
       "explanation": "'Nauczycielka' = feminine → 'która' (nominative feminine relative pronoun). 'Który' = masculine. 'Które' = neuter or non-virile plural. 'Którzy' = virile plural. 'To jest nauczycielka, która uczy matematyki.' = This is the teacher who teaches maths. która agrees with nauczycielka (f)."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Lubię książki, ___ są interesujące. (I like books that are interesting.) ['książki' = pl non-virile]",
-      "options": ["które", "który", "która", "którzy"],
+      "options": [
+        "które",
+        "który",
+        "która",
+        "którzy"
+      ],
       "correctIndex": 0,
       "explanation": "'Książki' (books, f pl) = non-virile plural → 'które' (nom non-virile pl). 'Który' = m sg. 'Która' = f sg. 'Którzy' = virile pl (men). 'Lubię książki, które są interesujące.' Books are non-virile (objects) → 'które'. Verb 'są' agrees with 'które/książki' (plural)."
     },
@@ -39,7 +52,9 @@
       "order": 3,
       "prompt": "Complete: Znam mężczyzn, ___ pracują w tym biurze. (I know the men who work in this office.) ['mężczyźni' = virile pl]",
       "answer": "którzy",
-      "acceptableAnswers": ["którzy"],
+      "acceptableAnswers": [
+        "którzy"
+      ],
       "explanation": "'Mężczyźni' (men, virile plural) → 'którzy' (nom virile pl). 'Znam mężczyzn, którzy pracują w tym biurze.' Note: 'mężczyzn' is genitive plural (after znam — accusative animate masc = gen!). But the antecedent's gender still determines 'który' form: mężczyźni = virile → 'którzy'."
     },
     {
@@ -47,7 +62,12 @@
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/b1/ch08/b1-ch08-l01-ex04.mp3",
-      "options": ["Widzę dziecko, które bawi się w parku.", "Widzę dziecko, który bawi się w parku.", "Widzę dziecko, która bawi się w parku.", "Widzę dziecko, którzy bawią się w parku."],
+      "options": [
+        "Widzę dziecko, które bawi się w parku.",
+        "Widzę dziecko, który bawi się w parku.",
+        "Widzę dziecko, która bawi się w parku.",
+        "Widzę dziecko, którzy bawią się w parku."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Widzę dziecko, które bawi się w parku.' — I see the child who is playing in the park. 'Dziecko' = neuter singular → 'które' (nom neuter sg). 'Bawi się' = 3sg (agrees with 'które/dziecko'). 'W parku' = in the park (w + locative: park → parku)."
     },
@@ -56,15 +76,44 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: The woman who lives next door is very kind. [kobieta = f sg]",
-      "wordBank": ["Kobieta", "który", "która", "które", "mieszka", "mieszkają", "obok", "jest", "bardzo", "miła", "miły", "."],
+      "wordBank": [
+        "Kobieta",
+        "który",
+        "która",
+        "które",
+        "mieszka",
+        "mieszkają",
+        "obok",
+        "jest",
+        "bardzo",
+        "miła",
+        "miły",
+        "."
+      ],
       "correctSequences": [
-        ["Kobieta", "która", "mieszka", "obok", "jest", "bardzo", "miła", "."]
+        [
+          "Kobieta",
+          "która",
+          "mieszka",
+          "obok",
+          "jest",
+          "bardzo",
+          "miła",
+          "."
+        ]
       ],
       "explanation": "'Kobieta, która mieszka obok, jest bardzo miła.' — The woman who lives next door is very kind. 'Kobieta' (f sg) → 'która' (nom f sg). 'Mieszka' = 3sg (agrees with kobieta/która). 'Obok' = next door/nearby. 'Miła' = kind (feminine adjective, agrees with kobieta)."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": ["relative-clauses", "b1-core", "który", "nominative"],
-  "prerequisites": ["b1-ch07-l04"]
+  "tags": [
+    "relative-clauses",
+    "b1-core",
+    "który",
+    "nominative"
+  ],
+  "prerequisites": [
+    "b1-ch07-l04"
+  ]
 }

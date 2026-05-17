@@ -4,7 +4,9 @@
   "chapter": 7,
   "lessonOrder": 2,
   "title": "Instrumental Case — Adjective Agreement",
+  "title_fa": "حالت ابزاری — تطبیق صفت",
   "grammarPoint": "Adjective instrumental: dobrym studentem, dobrą studentką, dobrym dzieckiem",
+  "grammarPoint_fa": "پسوندهای صفت در حالت ابزاری: -ym/-im (مذکر/خنثی)، -ą (مؤنث)",
   "explanation": {
     "text": "Adjectives must agree with the noun in the instrumental case:\n\n**Instrumental singular adjective endings:**\n\n| Gender | Ending | Example |\n|--------|--------|--------|\n| Masculine / Neuter | **-ym / -im** | dobry → dobrym, nowy → nowym, stary → starym |\n| Feminine | **-ą** | dobra → dobrą, nowa → nową, stara → starą |\n\n**Examples with być:**\n- Jestem dobrym studentem. = I am a good student. (m)\n- Jestem dobrą studentką. = I am a good student. (f)\n- Jestem młodym lekarzem. = I am a young doctor. (m)\n\n**Examples with z (with):**\n- Idę z dobrym przyjacielem. = I'm going with a good friend. (m)\n- Kawa z gorącym mlekiem. = Coffee with hot milk. (n)\n- Herbata z zimną wodą. = Tea with cold water. (f)\n\n**Examples with transport:**\n- Jadę starym pociągiem. = I'm going by old train.\n- Lecę nowym samolotem. = I'm flying on a new plane.",
     "notes": [
@@ -14,13 +16,19 @@
       "Pattern recap: instrumental adj = locative adj for m/n (-ym); instrumental adj f = -ą vs locative adj f = -ej."
     ]
   },
+  "explanation_fa": "صفات در حالت ابزاری: مذکر/خنثی: -ym/-im (z dobrym kolegą — با دوست خوب)، مؤنث: -ą (z dobrą koleżanką — با دوست دختر خوب). جمع: -ymi/-imi (z dobrymi kolegami — با دوستان خوب).",
   "exercises": [
     {
       "id": "a1-ch07-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Jestem ___ studentem. (I am a good student — m.)",
-      "options": ["dobrym", "dobrej", "dobry", "dobrego"],
+      "options": [
+        "dobrym",
+        "dobrej",
+        "dobry",
+        "dobrego"
+      ],
       "correctIndex": 0,
       "explanation": "'Dobry' + masculine instrumental 'studentem' → adjective: 'dobrym'. 'Jestem dobrym studentem.'"
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Ona jest ___ nauczycielką. (She is a young teacher — f.) [młody → f instrumental]",
       "answer": "młodą",
-      "acceptableAnswers": ["młodą"],
+      "acceptableAnswers": [
+        "młodą"
+      ],
       "hint": "Feminine instrumental adjective ending: -ą"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch07/a1-ch07-l02-ex03.mp3",
-      "options": ["Piję herbatę z gorącym mlekiem.", "Piję herbatę z gorącą mlekiem.", "Piję herbatę z gorące mleko.", "Piję herbatę z gorące mlekie."],
+      "options": [
+        "Piję herbatę z gorącym mlekiem.",
+        "Piję herbatę z gorącą mlekiem.",
+        "Piję herbatę z gorące mleko.",
+        "Piję herbatę z gorące mlekie."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Piję herbatę z gorącym mlekiem.' — I drink tea with hot milk. 'Mleko' (neuter) → instrumental 'mlekiem'; 'gorący' (n) → 'gorącym'."
     },
@@ -47,9 +62,24 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: I'm going with a good friend. (male friend)",
-      "wordBank": ["Idę", "Idę", "z", "ze", "dobrym", "dobrą", "przyjacielem", "przyjaciółką", "przyjaciela"],
+      "wordBank": [
+        "Idę",
+        "Idę",
+        "z",
+        "ze",
+        "dobrym",
+        "dobrą",
+        "przyjacielem",
+        "przyjaciółką",
+        "przyjaciela"
+      ],
       "correctSequences": [
-        ["Idę", "z", "dobrym", "przyjacielem"]
+        [
+          "Idę",
+          "z",
+          "dobrym",
+          "przyjacielem"
+        ]
       ],
       "explanation": "'Idę z dobrym przyjacielem' = I'm going with a good (male) friend. 'Przyjaciel' (m) → instrumental 'przyjacielem'; 'dobry' → 'dobrym'."
     },
@@ -58,13 +88,26 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Jestem ___ inżynierem. (I am a young engineer — m.)",
-      "options": ["młodym", "młodej", "młodą", "młody"],
+      "options": [
+        "młodym",
+        "młodej",
+        "młodą",
+        "młody"
+      ],
       "correctIndex": 0,
       "explanation": "'Młody' + masculine 'inżynier' → instrumental: 'młodym inżynierem'. M/N adjective instrumental: -ym."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["instrumental", "adjectives", "cases", "agreement", "a1-core"],
-  "prerequisites": ["a1-ch07-l01"]
+  "tags": [
+    "instrumental",
+    "adjectives",
+    "cases",
+    "agreement",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch07-l01"
+  ]
 }

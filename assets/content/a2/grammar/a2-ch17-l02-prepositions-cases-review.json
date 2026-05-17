@@ -4,7 +4,9 @@
   "chapter": 17,
   "lessonOrder": 2,
   "title": "Prepositions & Cases Review",
+  "title_fa": "مرور حروف اضافه و حالت‌ها",
   "grammarPoint": "Preposition-case pairings: do/z/bez/dla/od + genitive; w/na + locative (location) vs accusative (direction); z/przed/za/między + instrumental",
+  "grammarPoint_fa": "مرور جامع: کدام حرف اضافه با کدام حالت دستوری می‌آید",
   "explanation": {
     "text": "A systematic review of which prepositions take which cases.\n\n**Prepositions + GENITIVE:**\n\n| Preposition | Meaning | Example |\n|------------|---------|--------|\n| **do** | to/into (destination) | Idę do sklepu. |\n| **z** | from (origin) | Jestem z Polski. |\n| **bez** | without | Kawa bez mleka. |\n| **dla** | for (recipient) | Prezent dla mamy. |\n| **od** | from (person/time) | Od rana. Od Anny. |\n| **po** | after (time) | Po pracy. |\n| **koło** | near/around | Mieszkam koło parku. |\n\n**Prepositions + LOCATIVE:**\n\n| Preposition | Meaning | Example |\n|------------|---------|--------|\n| **w** | in (location) | Mieszkam w Warszawie. |\n| **na** | on/at (location) | Na stole. |\n| **przy** | next to | Siedzę przy oknie. |\n\n**Prepositions + ACCUSATIVE (direction):**\n\n| Preposition | Meaning | Example |\n|------------|---------|--------|\n| **w** | into | Wchodzę w las. |\n| **na** | onto/to | Jadę na wakacje. |\n| **przez** | through/across | Przechodzę przez park. |\n\n**Prepositions + INSTRUMENTAL:**\n\n| Preposition | Meaning | Example |\n|------------|---------|--------|\n| **z** | with | Kawa z mlekiem. |\n| **przed** | in front of | Przed domem. |\n| **za** | behind | Za domem. |\n| **między** | between | Między blokami. |\n| **nad** | above/over (lake) | Nad morzem. |",
     "notes": [
@@ -14,13 +16,19 @@
       "Nad morzem (instrumental) = at the seaside (location). Na morze (accusative) = to the sea (direction)."
     ]
   },
+  "explanation_fa": "خلاصه حروف اضافه: + مضاف‌الیهی: do، od، z، bez، dla، po (بعد از). + دادی: ku، dzięki. + مفعولی: przez، na (حرکت)، w (زمان). + ابزاری: z، między، przed، za، pod، nad (موقعیت). + مکانی: w، na، o، przy (موقعیت).",
   "exercises": [
     {
       "id": "a2-ch17-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Mieszkam ___ Krakowie. (I live in Kraków.) [location = w + locative]",
-      "options": ["w", "do", "na", "z"],
+      "options": [
+        "w",
+        "do",
+        "na",
+        "z"
+      ],
       "correctIndex": 0,
       "explanation": "Location: 'w + locative': w Krakowie (Kraków → locative: Krakowie). 'Do Krakowa' = going to Kraków (destination + genitive)."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Kawa ___ mleka, proszę. (Coffee without milk, please.) [bez + genitive]",
       "answer": "bez",
-      "acceptableAnswers": ["bez"],
+      "acceptableAnswers": [
+        "bez"
+      ],
       "hint": "Without = bez + genitive: mleko → mleka"
     },
     {
@@ -38,7 +48,12 @@
       "type": "multiple_choice",
       "order": 3,
       "prompt": "Jadę ___ wakacje nad morze. (I'm going on holiday to the seaside.) [na + accusative — direction]",
-      "options": ["na", "w", "do", "przy"],
+      "options": [
+        "na",
+        "w",
+        "do",
+        "przy"
+      ],
       "correctIndex": 0,
       "explanation": "'Na wakacje' = on holiday (na + accusative). 'Nad morze' = to the sea (nad + accusative of direction). Location: 'nad morzem' (instrumental)."
     },
@@ -47,7 +62,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Prezent jest ___ stole. (The present is on the table.) [na + locative — location]",
-      "options": ["na", "w", "do", "na stole"],
+      "options": [
+        "na",
+        "w",
+        "do",
+        "na stole"
+      ],
       "correctIndex": 0,
       "explanation": "Location on a surface: 'na + locative'. 'Na stole' = on the table (stół → locative: stole). The full answer 'na stole' is the phrase, but the preposition alone is 'na'."
     },
@@ -56,13 +76,27 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Herbata ___ cukrem i cytryną. (Tea with sugar and lemon.) [z + instrumental]",
-      "options": ["z", "bez", "do", "od"],
+      "options": [
+        "z",
+        "bez",
+        "do",
+        "od"
+      ],
       "correctIndex": 0,
       "explanation": "'Z + instrumental' = with: z cukrem i cytryną (cukier → cukrem, cytryna → cytryną). Contrast: 'z Polski' = from Poland (z + genitive, different meaning)."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["prepositions", "cases", "review", "a2-core"],
-  "prerequisites": ["a1-ch06-l01", "a1-ch08-l02", "a1-ch07-l01"]
+  "tags": [
+    "prepositions",
+    "cases",
+    "review",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a1-ch06-l01",
+    "a1-ch08-l02",
+    "a1-ch07-l01"
+  ]
 }

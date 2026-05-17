@@ -4,7 +4,9 @@
   "chapter": 1,
   "lessonOrder": 1,
   "title": "Verb być — singular",
+  "title_fa": "فعل być — مفرد",
   "grammarPoint": "Present tense of być: jestem, jesteś, jest",
+  "grammarPoint_fa": "زمان حال فعل być: jestem، jesteś، jest",
   "explanation": {
     "text": "The verb **być** (to be) is the most important Polish verb. In the singular present tense it has three forms depending on person. Polish often drops the subject pronoun because the verb ending shows who is speaking.\n\n| Person | Polish | English |\n|--------|--------|---------|\n| 1st sg. (ja) | **jestem** | I am |\n| 2nd sg. (ty) | **jesteś** | you are |\n| 3rd sg. (on/ona/ono) | **jest** | he/she/it is |\n\nTo say someone's profession or nationality, use: *być* + **instrumental case** (e.g. *jestem studentem*).",
     "notes": [
@@ -13,13 +15,19 @@
       "Negation: nie jestem, nie jesteś, nie jest."
     ]
   },
+  "explanation_fa": "فعل być (بودن) مهم‌ترین فعل لهستانی است. اشکال مفرد: jestem (من هستم)، jesteś (تو هستی)، jest (او هست). در لهستانی معمولاً ضمیر فاعلی حذف می‌شود چون پسوند فعل شخص را نشان می‌دهد. برای بیان شغل از była + حالت ابزاری استفاده کنید: jestem studentem (من دانشجو هستم).",
   "exercises": [
     {
       "id": "a1-ch01-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Choose the correct form: Ja ___ studentem.",
-      "options": ["jestem", "jesteś", "jest", "jesteśmy"],
+      "options": [
+        "jestem",
+        "jesteś",
+        "jest",
+        "jesteśmy"
+      ],
       "correctIndex": 0,
       "explanation": "First person singular of być is jestem. 'Ja jestem studentem' = I am a student."
     },
@@ -29,7 +37,9 @@
       "order": 2,
       "prompt": "Complete: On ___ lekarzem.",
       "answer": "jest",
-      "acceptableAnswers": ["jest"],
+      "acceptableAnswers": [
+        "jest"
+      ],
       "hint": "Third person singular — one form for he/she/it"
     },
     {
@@ -37,7 +47,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch01/a1-ch01-l01-ex03.mp3",
-      "options": ["Jestem studentem.", "Jesteś studentem.", "Jest studentem.", "Jesteście studentami."],
+      "options": [
+        "Jestem studentem.",
+        "Jesteś studentem.",
+        "Jest studentem.",
+        "Jesteście studentami."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Jestem studentem.' — I am a student. First person singular jestem."
     },
@@ -46,10 +61,24 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: I am a doctor.",
-      "wordBank": ["jestem", "jesteś", "lekarzem", "lekarką", "studentem", "Ja"],
+      "wordBank": [
+        "jestem",
+        "jesteś",
+        "lekarzem",
+        "lekarką",
+        "studentem",
+        "Ja"
+      ],
       "correctSequences": [
-        ["jestem", "lekarzem"],
-        ["Ja", "jestem", "lekarzem"]
+        [
+          "jestem",
+          "lekarzem"
+        ],
+        [
+          "Ja",
+          "jestem",
+          "lekarzem"
+        ]
       ],
       "explanation": "Both 'jestem lekarzem' and 'Ja jestem lekarzem' are correct. Subject pronoun Ja is optional."
     },
@@ -58,13 +87,23 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Which sentence means 'She is a teacher'?",
-      "options": ["Ona jest nauczycielką.", "Ona jesteś nauczycielką.", "Ona jestem nauczycielką.", "Ona są nauczycielką."],
+      "options": [
+        "Ona jest nauczycielką.",
+        "Ona jesteś nauczycielką.",
+        "Ona jestem nauczycielką.",
+        "Ona są nauczycielką."
+      ],
       "correctIndex": 0,
       "explanation": "Third person singular (she = ona) uses jest. 'Ona jest nauczycielką' = She is a teacher."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 8,
-  "tags": ["verb-byc", "present-tense", "singular", "a1-core"],
+  "tags": [
+    "verb-byc",
+    "present-tense",
+    "singular",
+    "a1-core"
+  ],
   "prerequisites": []
 }

@@ -4,7 +4,9 @@
   "lessonOrder": 3,
   "level": "b1",
   "title": "Gerunds: Choosing the Right Aspect",
+  "title_fa": "قیدهای فعلی — انتخاب درست وجه",
   "grammarPoint": "Context-driven aspect choice for gerunds (process vs. completion)",
+  "grammarPoint_fa": "انتخاب بین قید فعلی ناکامل (-ąc) و کامل (-wszy/-łszy)",
   "explanation": {
     "text": "Choosing between an imperfective and perfective gerund changes the meaning significantly. Here is a systematic guide:\n\n1. AFTER 'lubić / kochać / nienawidzić / znosić'\n   → Always IMPERFECTIVE (general taste/feeling)\n   • Lubię słuchanie muzyki. ✓ (I like listening to music)\n   • ~~Lubię posłuchanie muzyki.~~ ✗\n\n2. AFTER 'po' (sequential completion)\n   → Always PERFECTIVE\n   • Po wysłuchaniu wykładu, zadałem pytanie. (After listening through the lecture)\n   • ~~Po słuchaniu wykładu~~ = awkward\n\n3. IN SIGNS / PROHIBITIONS (subject role)\n   → Usually IMPERFECTIVE (ongoing prohibited activity)\n   • PALENIE WZBRONIONE (No smoking — the ongoing activity)\n   • PARKOWANIE ZABRONIONE (No parking)\n\n4. AS A FORMAL SUBSTITUTE FOR 'kiedy/gdy'\n   → ASPECT matches timing:\n   • Czytając gazetę, piłem kawę. (imperfective participle — simultaneous)\n   • Po przeczytaniu gazety, wziąłem płaszcz. (perfective gerund — sequential)\n\n5. AFTER 'zamiast' (instead of), 'przed' (before) → mostly IMPERFECTIVE\n   • Zamiast czytania, oglądał telewizję. (instead of reading)\n   • Przed wyjściem sprawdź drzwi. (before leaving — note: imperative more natural here)",
     "notes": [
@@ -14,6 +16,7 @@
       "zamiast + gerund → IMPERFECTIVE (imperfective is default for 'instead of')"
     ]
   },
+  "explanation_fa": "قاعده انتخاب: ناکامل (-ąc): هر دو عمل همزمان هستند: Siedząc przy oknie, czytał (در حالی که کنار پنجره نشسته بود، می‌خواند). کامل (-wszy): اول یک عمل تمام می‌شود، سپس عمل دیگر: Zjadłszy obiad, wyszedł (بعد از خوردن ناهار، بیرون رفت). در گفتار روزمره اغلب از این ساختارها پرهیز می‌شود.",
   "exercises": [
     {
       "id": "b1-ch10-l03-ex01",
@@ -33,7 +36,12 @@
       "type": "fill_blank",
       "prompt": "Po ___ (arriving at the office), włączyłem komputer.",
       "answer": "przyjściu do biura",
-      "acceptableAnswers": ["przyjściu do biura", "przyjściu", "dotarciu do biura", "dotarciu"],
+      "acceptableAnswers": [
+        "przyjściu do biura",
+        "przyjściu",
+        "dotarciu do biura",
+        "dotarciu"
+      ],
       "explanation": "Po + locative of PERFECTIVE gerund. Przyjść (perfective) → przyjście → przyjściu (locative). 'Po przyjściu do biura' = After arriving at the office (completed action, then next action)."
     },
     {
@@ -66,15 +74,37 @@
       "id": "b1-ch10-l03-ex05",
       "type": "sentence_builder",
       "prompt": "Build: 'Instead of cooking, he ordered a pizza.'",
-      "wordBank": ["Zamiast", "gotowania", "zamówił", "pizzę", "gotowanie", "po"],
+      "wordBank": [
+        "Zamiast",
+        "gotowania",
+        "zamówił",
+        "pizzę",
+        "gotowanie",
+        "po"
+      ],
       "correctSequences": [
-        ["Zamiast", "gotowania", "zamówił", "pizzę"]
+        [
+          "Zamiast",
+          "gotowania",
+          "zamówił",
+          "pizzę"
+        ]
       ],
       "explanation": "Zamiast gotowania, zamówił pizzę. Zamiast + genitive of imperfective gerund: gotowania (genitive of gotowanie). Zamówił is perfective past (he ordered — single completed action)."
     }
   ],
   "xpReward": 15,
   "estimatedMinutes": 9,
-  "tags": ["gerunds", "aspect", "imperfective", "perfective", "context", "zamiast"],
-  "prerequisites": ["b1-ch10-l01-gerunds-imperfective", "b1-ch10-l02-gerunds-perfective"]
+  "tags": [
+    "gerunds",
+    "aspect",
+    "imperfective",
+    "perfective",
+    "context",
+    "zamiast"
+  ],
+  "prerequisites": [
+    "b1-ch10-l01-gerunds-imperfective",
+    "b1-ch10-l02-gerunds-perfective"
+  ]
 }

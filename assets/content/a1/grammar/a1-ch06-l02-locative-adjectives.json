@@ -4,7 +4,9 @@
   "chapter": 6,
   "lessonOrder": 2,
   "title": "Locative Case — Adjective Agreement",
+  "title_fa": "حالت مکانی — تطبیق صفت",
   "grammarPoint": "Adjectives in the locative case: w dużym domu, w małej szkole, w starym mieście",
+  "grammarPoint_fa": "پسوندهای صفت در حالت مکانی: -ym/-im (مذکر/خنثی)، -ej (مؤنث)",
   "explanation": {
     "text": "Adjectives must agree with nouns in **gender, number, and case**. In the locative singular, adjectives take these endings:\n\n**Locative singular adjective endings:**\n\n| Gender | Ending | Example |\n|--------|--------|--------|\n| Masculine / Neuter | **-ym / -im** | duży → dużym, nowy → nowym, stary → starym |\n| Feminine | **-ej** | duża → dużej, nowa → nowej, stara → starej |\n\n**Examples:**\n- w dużym domu = in a big house (m)\n- w nowym sklepie = in a new shop (m)\n- w małej szkole = in a small school (f)\n- w starym mieście = in an old city (n)\n- w centrum miasta = in the city centre (genitive, not locative)\n\n**Full phrases:**\n- Mieszkam w małym mieszkaniu. = I live in a small flat.\n- Pracuję w dużej firmie. = I work in a big company.\n- Jestem w nowym kinie. = I am in the new cinema.",
     "notes": [
@@ -14,13 +16,19 @@
       "The locative of adjectives is identical to dative — you will see this pattern again with dative."
     ]
   },
+  "explanation_fa": "صفات در حالت مکانی با جنسیت اسم تطبیق می‌یابند: مذکر/خنثی: -ym/-im (w dużym domu — در خانه بزرگ)، مؤنث: -ej (w dużej szkole — در مدرسه بزرگ). این قاعده برای همه صفات اعمال می‌شود.",
   "exercises": [
     {
       "id": "a1-ch06-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Mieszkam w ___ domu. (I live in a big house.) [duży → locative m]",
-      "options": ["dużym", "duży", "dużej", "dużego"],
+      "options": [
+        "dużym",
+        "duży",
+        "dużej",
+        "dużego"
+      ],
       "correctIndex": 0,
       "explanation": "'Duży' (big) + masculine 'dom' → locative: 'dużym'. 'Mieszkam w dużym domu' = I live in a big house."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Pracuję w ___ szkole. (I work in a big school.) [duży → f locative]",
       "answer": "dużej",
-      "acceptableAnswers": ["dużej"],
+      "acceptableAnswers": [
+        "dużej"
+      ],
       "hint": "Feminine adjective in locative: -ej"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch06/a1-ch06-l02-ex03.mp3",
-      "options": ["Mieszkam w małym mieszkaniu.", "Mieszkam w małej mieszkaniu.", "Mieszkam w małego mieszkania.", "Mieszkam w małe mieszkanie."],
+      "options": [
+        "Mieszkam w małym mieszkaniu.",
+        "Mieszkam w małej mieszkaniu.",
+        "Mieszkam w małego mieszkania.",
+        "Mieszkam w małe mieszkanie."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Mieszkam w małym mieszkaniu.' — I live in a small flat. 'Mieszkanie' (neuter) + 'mały' → locative: 'małym mieszkaniu'."
     },
@@ -47,9 +62,26 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: She works in a new company.",
-      "wordBank": ["Ona", "pracuje", "pracuję", "w", "nowej", "nowym", "nowy", "firmie", "firma", "firmy"],
+      "wordBank": [
+        "Ona",
+        "pracuje",
+        "pracuję",
+        "w",
+        "nowej",
+        "nowym",
+        "nowy",
+        "firmie",
+        "firma",
+        "firmy"
+      ],
       "correctSequences": [
-        ["Ona", "pracuje", "w", "nowej", "firmie"]
+        [
+          "Ona",
+          "pracuje",
+          "w",
+          "nowej",
+          "firmie"
+        ]
       ],
       "explanation": "'Ona pracuje w nowej firmie' = She works in a new company. 'Firma' (feminine) → locative 'firmie'; 'nowy' (f) → 'nowej'."
     },
@@ -58,13 +90,26 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Jestem w ___ mieście. (I am in an old city.) [stary → n locative]",
-      "options": ["starym", "starej", "stary", "starego"],
+      "options": [
+        "starym",
+        "starej",
+        "stary",
+        "starego"
+      ],
       "correctIndex": 0,
       "explanation": "'Stary' + neuter 'miasto' → locative: 'starym mieście'. Neuter adjectives take -ym (same as masculine)."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["locative", "adjectives", "cases", "agreement", "a1-core"],
-  "prerequisites": ["a1-ch06-l01"]
+  "tags": [
+    "locative",
+    "adjectives",
+    "cases",
+    "agreement",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch06-l01"
+  ]
 }

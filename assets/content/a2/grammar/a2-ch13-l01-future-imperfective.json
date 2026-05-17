@@ -4,7 +4,9 @@
   "chapter": 13,
   "lessonOrder": 1,
   "title": "Future Tense — Imperfective",
+  "title_fa": "زمان آینده — ناکامل",
   "grammarPoint": "Imperfective future: będę + infinitive OR będę + l-form (past participle); będziesz/będzie/będziemy/będziecie/będą",
+  "grammarPoint_fa": "آینده ناکامل: będę + مصدر ناکامل یا będę + شکل گذشته",
   "explanation": {
     "text": "Polish has two types of future tense, depending on verb aspect.\n\n**Imperfective future** = 'będę' + infinitive OR 'będę' + past l-form\n\n**Forms of 'być' (będę/będziesz...) — the future auxiliary:**\n\n| Person | Form |\n|--------|------|\n| ja | **będę** |\n| ty | **będziesz** |\n| on/ona/ono | **będzie** |\n| my | **będziemy** |\n| wy | **będziecie** |\n| oni/one | **będą** |\n\n**Two equivalent ways to form imperfective future:**\n\n**Option A: będę + infinitive**\n- Będę **czytać** gazetę. = I will be reading a newspaper.\n- Będziesz **pracować** jutro? = Will you be working tomorrow?\n\n**Option B: będę + l-form** (matching gender/number)\n- Będę **czytał** gazetę. (m) / Będę **czytała** gazetę. (f)\n- Będziemy **pracowali**. (m-pers) / Będziemy **pracowały**. (f)\n\n**Both options mean the same** — Option A is more common in speech.\n\n**Use imperfective future for:**\n- Ongoing/background future action: Jutro będę uczyć się polskiego.\n- Habitual future: Co dzień będę ćwiczyć.\n- Duration in future: Będę czekać godzinę.",
     "notes": [
@@ -14,13 +16,19 @@
       "Contrast: Będę czytać (I'll be reading — ongoing) vs Przeczytam (I'll read/finish reading — perfective)."
     ]
   },
+  "explanation_fa": "آینده ناکامل با دو روش ساخته می‌شود: 1) będę + مصدر: Będę czytać (می‌خواهم بخوانم). 2) będę + شکل گذشته (همخوانی جنسیتی): Będę czytał/czytała. هر دو درست هستند اما روش اول محاوره‌ای‌تر است. برای بیان عمل تکراری یا ادامه‌دار در آینده استفاده می‌شود.",
   "exercises": [
     {
       "id": "a2-ch13-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Jutro ___ w domu. (Tomorrow I will be at home.) [być, ja — future]",
-      "options": ["będę", "jestem", "byłem", "byłam"],
+      "options": [
+        "będę",
+        "jestem",
+        "byłem",
+        "byłam"
+      ],
       "correctIndex": 0,
       "explanation": "'Jutro' (tomorrow) = future → będę. 'Być' future 1st person singular: będę. 'Będę w domu' = I will be at home."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Ona ___ uczyć się do egzaminu przez cały tydzień. (She will be studying for the exam all week.) [imperfective future, ona]",
       "answer": "będzie",
-      "acceptableAnswers": ["będzie"],
+      "acceptableAnswers": [
+        "będzie"
+      ],
       "hint": "Imperfective future auxiliary for 'ona': będzie + infinitive"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch13/a2-ch13-l01-ex03.mp3",
-      "options": ["Co będziesz robić w weekend?", "Co robiłeś w weekend?", "Co robisz w weekend?", "Co zrobisz w weekend?"],
+      "options": [
+        "Co będziesz robić w weekend?",
+        "Co robiłeś w weekend?",
+        "Co robisz w weekend?",
+        "Co zrobisz w weekend?"
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Co będziesz robić w weekend?' — What will you be doing at the weekend? 'Będziesz' (ty) + 'robić' (infinitive) = imperfective future."
     },
@@ -47,10 +62,32 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: We (m-pers) will be working all summer. (imperfective future)",
-      "wordBank": ["Będziemy", "Będą", "pracować", "pracowali", "przez", "całe", "całego", "lato", "lata"],
+      "wordBank": [
+        "Będziemy",
+        "Będą",
+        "pracować",
+        "pracowali",
+        "przez",
+        "całe",
+        "całego",
+        "lato",
+        "lata"
+      ],
       "correctSequences": [
-        ["Będziemy", "pracować", "przez", "całe", "lato"],
-        ["Będziemy", "pracowali", "przez", "całe", "lato"]
+        [
+          "Będziemy",
+          "pracować",
+          "przez",
+          "całe",
+          "lato"
+        ],
+        [
+          "Będziemy",
+          "pracowali",
+          "przez",
+          "całe",
+          "lato"
+        ]
       ],
       "explanation": "'Będziemy pracować przez całe lato.' — We will be working all summer. Imperfective future: będziemy + infinitive (or l-form: pracowali). 'Przez całe lato' = for the whole summer."
     },
@@ -59,13 +96,25 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Which correctly expresses 'They (f) will be studying Polish every day'? [imperfective future]",
-      "options": ["Będą uczyć się polskiego każdego dnia.", "Nauczyły się polskiego każdego dnia.", "Uczą się polskiego każdego dnia.", "Nauczą się polskiego każdego dnia."],
+      "options": [
+        "Będą uczyć się polskiego każdego dnia.",
+        "Nauczyły się polskiego każdego dnia.",
+        "Uczą się polskiego każdego dnia.",
+        "Nauczą się polskiego każdego dnia."
+      ],
       "correctIndex": 0,
       "explanation": "Habitual future → imperfective: będą uczyć się (they will study — ongoing). 'Nauczą się' is perfective future (will learn/master — one completion)."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["future-tense", "imperfective", "a2-core"],
-  "prerequisites": ["a2-ch12-l01", "a2-ch12-l02"]
+  "tags": [
+    "future-tense",
+    "imperfective",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a2-ch12-l01",
+    "a2-ch12-l02"
+  ]
 }

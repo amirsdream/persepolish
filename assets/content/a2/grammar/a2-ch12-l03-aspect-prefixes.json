@@ -4,7 +4,9 @@
   "chapter": 12,
   "lessonOrder": 3,
   "title": "Aspect — Prefix Patterns",
+  "title_fa": "وجه — الگوهای پیشوندی",
   "grammarPoint": "Common perfectivizing prefixes: na-, za-, prze-, po-, u-, wy-, do-, od-",
+  "grammarPoint_fa": "پیشوندهای رایج برای ساختن فعل کامل: za-، na-، prze-، wy-، po-",
   "explanation": {
     "text": "The most common way to form a perfective verb is to add a **prefix** to an imperfective verb. Each prefix has a meaning, but the specific prefix used for each verb must be memorized.\n\n**Common perfectivizing prefixes:**\n\n| Prefix | Core meaning | Example pair |\n|--------|-------------|-------------|\n| **na-** | accumulation, completion | pisać → **na**pisać |\n| **za-** | begin, close | dzwonić → **za**dzwonić |\n| **prze-** | through, re- | czytać → **prze**czytać |\n| **po-** | a bit, around | sprzątać → **po**sprzątać |\n| **u-** | away, completion | gotować → **u**gotować |\n| **wy-** | out, fully | pić → **wy**pić |\n| **do-** | completion, to | kończyć → **do**kończyć |\n| **od-** | away from, back | dzwonić → **od**dzwonić |\n\n**Important warnings:**\n1. Adding a prefix CAN change meaning: **po**jechać (to go, set off) ≠ **prze**jechać (to drive through)\n2. Some prefixes ONLY perfectivize (don't change core meaning), others add new meaning\n3. When unsure, use the dictionary form or learn pairs directly\n\n**Examples with context:**\n- Zadzwonię do ciebie jutro. = I'll call you tomorrow. (za- perfectivizes dzwonić)\n- Wypiłam całą kawę. = I drank up all the coffee. (wy- = completeness)\n- Przeczytałeś ten artykuł? = Have you read [finished] this article?",
     "notes": [
@@ -14,13 +16,19 @@
       "wy-: wyspać się (sleep through), wypić (drink up), wyjść (go out — directional)"
     ]
   },
+  "explanation_fa": "بسیاری از افعال کامل با افزودن پیشوند ساخته می‌شوند: za- (zacząć — شروع کردن)، na- (napisać — نوشتن)، prze- (przeczytać — خواندن تا پایان)، wy- (wyjść — بیرون رفتن)، po- (pójść — رفتن). اما گاهی پیشوند معنا را تغییر می‌دهد.",
   "exercises": [
     {
       "id": "a2-ch12-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Zadzwoniłem do niej wczoraj. The prefix za- in 'zadzwonić' serves to:",
-      "options": ["make dzwonić perfective", "add the meaning 'behind'", "create a habitual form", "form a noun"],
+      "options": [
+        "make dzwonić perfective",
+        "add the meaning 'behind'",
+        "create a habitual form",
+        "form a noun"
+      ],
       "correctIndex": 0,
       "explanation": "Here 'za-' is a neutrally perfectivizing prefix — it completes the action of calling. 'Zadzwoniłem' = I called (completed). 'Dzwoniłem' = I was calling (process)."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "W końcu ___ pracę domową. (She finally completed her homework.) [Perfective of: kończyć → doko_____; ona past f]",
       "answer": "dokończyła",
-      "acceptableAnswers": ["dokończyła"],
+      "acceptableAnswers": [
+        "dokończyła"
+      ],
       "hint": "do- + kończyć = dokończyć (complete/finish to the end); past fem ona: dokończyła"
     },
     {
@@ -38,7 +48,12 @@
       "type": "multiple_choice",
       "order": 3,
       "prompt": "Which prefix makes 'sprzątać' perfective?",
-      "options": ["po-", "na-", "za-", "prze-"],
+      "options": [
+        "po-",
+        "na-",
+        "za-",
+        "prze-"
+      ],
       "correctIndex": 0,
       "explanation": "'Posprzątać' = the perfective of 'sprzątać' (to clean). 'Posprzątałam pokój' = I cleaned (finished cleaning) the room."
     },
@@ -47,7 +62,12 @@
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/a2/ch12/a2-ch12-l03-ex04.mp3",
-      "options": ["Wypiłem całą herbatę.", "Piłem całą herbatę.", "Wypiję całą herbatę.", "Piję całą herbatę."],
+      "options": [
+        "Wypiłem całą herbatę.",
+        "Piłem całą herbatę.",
+        "Wypiję całą herbatę.",
+        "Piję całą herbatę."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Wypiłem całą herbatę.' — I drank up all the tea. 'Wy-' prefix marks completion/thoroughness. 'Pić' → 'wypić' (perfective)."
     },
@@ -56,13 +76,26 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Nauczyłam się dziesięciu nowych słów. The prefix 'na-' on 'nauczyć się' indicates:",
-      "options": ["successful completion of learning", "habitual learning", "ongoing learning process", "future learning plan"],
+      "options": [
+        "successful completion of learning",
+        "habitual learning",
+        "ongoing learning process",
+        "future learning plan"
+      ],
       "correctIndex": 0,
       "explanation": "'Na-' perfectivizes 'uczyć się'. 'Nauczyłam się' = I learned [mastered] 10 new words — completed result. 'Uczyłam się' = I was studying (process, no result emphasis)."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": ["aspect", "prefixes", "perfective", "a2-core"],
-  "prerequisites": ["a2-ch12-l01", "a2-ch12-l02"]
+  "tags": [
+    "aspect",
+    "prefixes",
+    "perfective",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a2-ch12-l01",
+    "a2-ch12-l02"
+  ]
 }

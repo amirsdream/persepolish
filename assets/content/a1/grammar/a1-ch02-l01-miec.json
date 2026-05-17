@@ -4,7 +4,9 @@
   "chapter": 2,
   "lessonOrder": 1,
   "title": "Verb mieć — to have",
+  "title_fa": "فعل mieć — داشتن",
   "grammarPoint": "Present tense of mieć: mam, masz, ma, mamy, macie, mają",
+  "grammarPoint_fa": "زمان حال فعل mieć: mam، masz، ma، mamy، macie، mają",
   "explanation": {
     "text": "The verb **mieć** (to have) is one of the most common Polish verbs. It follows a regular conjugation pattern in the present tense.\n\n| Person | Polish | English |\n|--------|--------|---------|\n| ja | **mam** | I have |\n| ty | **masz** | you have |\n| on/ona/ono | **ma** | he/she/it has |\n| my | **mamy** | we have |\n| wy | **macie** | you (all) have |\n| oni/one | **mają** | they have |\n\nAfter mieć, the possessed noun goes in the **accusative case** (covered in Ch.4). For now practise with words that don't change much.",
     "notes": [
@@ -13,13 +15,19 @@
       "Mieć is also used in age: Mam 25 lat = I am 25 years old."
     ]
   },
+  "explanation_fa": "فعل mieć (داشتن) یکی از پرکاربردترین افعال لهستانی است. اشکال: mam (دارم)، masz (داری)، ma (دارد)، mamy (داریم)، macie (دارید)، mają (دارند). برای بیان مالکیت و روابط خانوادگی استفاده می‌شود: Mam brata (برادر دارم).",
   "exercises": [
     {
       "id": "a1-ch02-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Choose the correct form: Ona ___ kota.",
-      "options": ["mam", "masz", "ma", "mają"],
+      "options": [
+        "mam",
+        "masz",
+        "ma",
+        "mają"
+      ],
       "correctIndex": 2,
       "explanation": "Third person singular (ona = she) uses ma. 'Ona ma kota' = She has a cat."
     },
@@ -29,7 +37,10 @@
       "order": 2,
       "prompt": "___ brata i siostrę. (I have a brother and a sister.)",
       "answer": "Mam",
-      "acceptableAnswers": ["Mam", "mam"],
+      "acceptableAnswers": [
+        "Mam",
+        "mam"
+      ],
       "hint": "First person singular of mieć"
     },
     {
@@ -37,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch02/a1-ch02-l01-ex03.mp3",
-      "options": ["Mamy dużo czasu.", "Macie dużo czasu.", "Mają dużo czasu.", "Ma dużo czasu."],
+      "options": [
+        "Mamy dużo czasu.",
+        "Macie dużo czasu.",
+        "Mają dużo czasu.",
+        "Ma dużo czasu."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Mamy dużo czasu.' — We have a lot of time. First person plural mamy."
     },
@@ -46,10 +62,24 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: They have a dog.",
-      "wordBank": ["Oni", "mają", "mamy", "psa", "kota", "dom"],
+      "wordBank": [
+        "Oni",
+        "mają",
+        "mamy",
+        "psa",
+        "kota",
+        "dom"
+      ],
       "correctSequences": [
-        ["mają", "psa"],
-        ["Oni", "mają", "psa"]
+        [
+          "mają",
+          "psa"
+        ],
+        [
+          "Oni",
+          "mają",
+          "psa"
+        ]
       ],
       "explanation": "'Mają psa' = They have a dog. 'Oni' is optional. 'Psa' is the accusative of 'pies'."
     },
@@ -58,13 +88,24 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "How do you say 'I don't have a car' in Polish?",
-      "options": ["Nie mam samochodu.", "Nie ma samochodu.", "Mam nie samochodu.", "Nie masz samochodu."],
+      "options": [
+        "Nie mam samochodu.",
+        "Nie ma samochodu.",
+        "Mam nie samochodu.",
+        "Nie masz samochodu."
+      ],
       "correctIndex": 0,
       "explanation": "'Nie mam' = I don't have. Negation places 'nie' directly before the verb. Note 'samochodu' is genitive after negation."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 8,
-  "tags": ["verb-miec", "present-tense", "a1-core"],
-  "prerequisites": ["a1-ch01-l01"]
+  "tags": [
+    "verb-miec",
+    "present-tense",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch01-l01"
+  ]
 }

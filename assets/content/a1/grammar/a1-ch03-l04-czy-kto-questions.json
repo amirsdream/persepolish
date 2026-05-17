@@ -4,7 +4,9 @@
   "chapter": 3,
   "lessonOrder": 4,
   "title": "Questions — czy and Question Words",
+  "title_fa": "سؤال با czy و کلمات پرسشی",
   "grammarPoint": "Yes/no questions with czy; question words kto, co, gdzie, skąd, jak",
+  "grammarPoint_fa": "ساختن سؤال با czy (بله/خیر) و کلمات پرسشی kto، co، gdzie، kiedy",
   "explanation": {
     "text": "Polish forms questions in two ways:\n\n**1. Yes/No questions with czy**\nAdd **czy** at the beginning of a statement to make a yes/no question. Word order stays the same.\n- *Mówisz po polsku.* → **Czy** *mówisz po polsku?*\n- *Jesteś studentem.* → **Czy** *jesteś studentem?*\n\nAlternatively, you can use rising intonation without 'czy' in informal speech.\n\n**2. Question words (WH-questions)**\n\n| Question word | Polish | Example |\n|---------------|--------|---------|\n| who | **kto** | Kto to jest? |\n| what | **co** | Co to jest? |\n| where | **gdzie** | Gdzie mieszkasz? |\n| where from | **skąd** | Skąd jesteś? |\n| how | **jak** | Jak się masz? |\n| what name | **jak się nazywasz** | Jak się nazywasz? |",
     "notes": [
@@ -14,13 +16,19 @@
       "skąd = from where (Skąd jesteś? = Where are you from?)"
     ]
   },
+  "explanation_fa": "برای سؤال بله/خیر از czy در ابتدای جمله استفاده کنید: Czy masz brata? (برادر داری؟). کلمات پرسشی: kto (کی)، co (چی)، gdzie (کجا)، kiedy (کی/چه وقت)، jak (چطور)، dlaczego (چرا)، ile (چقدر/چند).",
   "exercises": [
     {
       "id": "a1-ch03-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Turn into a question: 'Mówisz po polsku.'",
-      "options": ["Czy mówisz po polsku?", "Mówisz czy po polsku?", "Po polsku czy mówisz?", "Mówisz po polsku czy?"],
+      "options": [
+        "Czy mówisz po polsku?",
+        "Mówisz czy po polsku?",
+        "Po polsku czy mówisz?",
+        "Mówisz po polsku czy?"
+      ],
       "correctIndex": 0,
       "explanation": "Add 'czy' at the beginning: 'Czy mówisz po polsku?' = Do you speak Polish? The rest of the sentence stays the same."
     },
@@ -30,7 +38,10 @@
       "order": 2,
       "prompt": "___ jesteś? (Where are you from?)",
       "answer": "Skąd",
-      "acceptableAnswers": ["Skąd", "skąd"],
+      "acceptableAnswers": [
+        "Skąd",
+        "skąd"
+      ],
       "hint": "The question word meaning 'from where'"
     },
     {
@@ -38,7 +49,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch03/a1-ch03-l04-ex03.mp3",
-      "options": ["Kto to jest?", "Co to jest?", "Gdzie to jest?", "Jak to jest?"],
+      "options": [
+        "Kto to jest?",
+        "Co to jest?",
+        "Gdzie to jest?",
+        "Jak to jest?"
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Kto to jest?' — Who is this? 'Kto' = who. Compare: 'Co to jest?' = What is this?"
     },
@@ -47,9 +63,20 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build a question: Do you have a brother?",
-      "wordBank": ["Czy", "masz", "mam", "brata", "brat", "siostrę"],
+      "wordBank": [
+        "Czy",
+        "masz",
+        "mam",
+        "brata",
+        "brat",
+        "siostrę"
+      ],
       "correctSequences": [
-        ["Czy", "masz", "brata"]
+        [
+          "Czy",
+          "masz",
+          "brata"
+        ]
       ],
       "explanation": "'Czy masz brata?' = Do you have a brother? 'Brata' is the accusative/genitive of 'brat'."
     },
@@ -58,13 +85,28 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Which question asks 'Where do you live?'",
-      "options": ["Gdzie mieszkasz?", "Skąd jesteś?", "Jak się masz?", "Kto tam jest?"],
+      "options": [
+        "Gdzie mieszkasz?",
+        "Skąd jesteś?",
+        "Jak się masz?",
+        "Kto tam jest?"
+      ],
       "correctIndex": 0,
       "explanation": "'Gdzie mieszkasz?' = Where do you live? 'Gdzie' = where (location). 'Skąd' = from where (origin)."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 8,
-  "tags": ["questions", "czy", "question-words", "kto", "co", "a1-core"],
-  "prerequisites": ["a1-ch01-l01", "a1-ch01-l03"]
+  "tags": [
+    "questions",
+    "czy",
+    "question-words",
+    "kto",
+    "co",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch01-l01",
+    "a1-ch01-l03"
+  ]
 }

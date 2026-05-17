@@ -4,7 +4,9 @@
   "chapter": 7,
   "lessonOrder": 4,
   "title": "lubić — Likes with Infinitive and Nouns",
+  "title_fa": "فعل lubić — دوست داشتن + مصدر و اسم",
   "grammarPoint": "lubić + infinitive (to like doing); lubić + accusative (to like something); nie lubić",
+  "grammarPoint_fa": "lubić + مصدر (دوست دارم ... کنم) و lubić + مفعولی (دوست دارم ...را)",
   "explanation": {
     "text": "**Lubić** (to like) is one of the most useful verbs in Polish. It works in two main patterns:\n\n**Pattern 1: lubić + INFINITIVE** (to like doing something)\n- Lubię jeść. = I like to eat / I like eating.\n- Lubię słuchać muzyki. = I like listening to music.\n- Lubię chodzić do kina. = I like going to the cinema.\n\n**Pattern 2: lubić + ACCUSATIVE** (to like something/someone)\n- Lubię kawę. = I like coffee. (kawa → kawę)\n- Lubię pizzę. = I like pizza. (pizza → pizzę)\n- Lubię psy. = I like dogs. (pies → psy, acc pl)\n\n**Conjugation of lubić (Group 2):**\n\n| Person | Form |\n|--------|------|\n| ja | **lubię** |\n| ty | **lubisz** |\n| on/ona | **lubi** |\n| my | **lubimy** |\n| wy | **lubicie** |\n| oni/one | **lubią** |\n\n**Negation — nie lubić:**\n- Nie lubię czekolady. = I don't like chocolate. (genitive after negation!)\n- Nie lubię gotować. = I don't like cooking.",
     "notes": [
@@ -14,13 +16,19 @@
       "Common food/activity infinitives: jeść (eat), pić (drink), gotować (cook), chodzić (go), czytać (read)."
     ]
   },
+  "explanation_fa": "فعل lubić (دوست داشتن) با دو ساختار: 1) lubić + مصدر: Lubię czytać (دوست دارم بخوانم). 2) lubić + حالت مفعولی: Lubię kawę (قهوه دوست دارم). شکل منفی: Nie lubię + مضاف‌الیهی: Nie lubię kawy (قهوه دوست ندارم).",
   "exercises": [
     {
       "id": "a1-ch07-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Lubię ___ (I like coffee). [kawa → accusative]",
-      "options": ["kawę", "kawa", "kawy", "kawie"],
+      "options": [
+        "kawę",
+        "kawa",
+        "kawy",
+        "kawie"
+      ],
       "correctIndex": 0,
       "explanation": "'Lubić + accusative': kawa (f) → kawę. 'Lubię kawę' = I like coffee."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Nie ___ mięsa. (I don't like meat.) [nie lubić + genitive]",
       "answer": "lubię",
-      "acceptableAnswers": ["lubię"],
+      "acceptableAnswers": [
+        "lubię"
+      ],
       "hint": "Conjugate lubić for 'ja' form"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch07/a1-ch07-l04-ex03.mp3",
-      "options": ["Lubię chodzić do restauracji.", "Lubię chodzić restauracja.", "Lubię iść restauracji.", "Lubiłem chodzić do restauracji."],
+      "options": [
+        "Lubię chodzić do restauracji.",
+        "Lubię chodzić restauracja.",
+        "Lubię iść restauracji.",
+        "Lubiłem chodzić do restauracji."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Lubię chodzić do restauracji.' — I like going to restaurants. 'Lubić + infinitive': chodzić. 'Do + genitive': restauracji."
     },
@@ -47,9 +62,22 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: She doesn't like cooking.",
-      "wordBank": ["Ona", "lubi", "nie", "lubię", "gotować", "gotowania", "gotuje"],
+      "wordBank": [
+        "Ona",
+        "lubi",
+        "nie",
+        "lubię",
+        "gotować",
+        "gotowania",
+        "gotuje"
+      ],
       "correctSequences": [
-        ["Ona", "nie", "lubi", "gotować"]
+        [
+          "Ona",
+          "nie",
+          "lubi",
+          "gotować"
+        ]
       ],
       "explanation": "'Ona nie lubi gotować' = She doesn't like cooking. 'Nie + lubić (lubi for ona) + infinitive'. The infinitive (gotować) stays unchanged."
     },
@@ -58,13 +86,27 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "My ___ jeść sushi. (We like eating sushi.)",
-      "options": ["lubimy", "lubię", "lubią", "lubisz"],
+      "options": [
+        "lubimy",
+        "lubię",
+        "lubią",
+        "lubisz"
+      ],
       "correctIndex": 0,
       "explanation": "'Lubić' Group 2: my → lubimy. 'Lubimy jeść sushi' = We like eating sushi. 'Jeść' = infinitive (to eat)."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["lubic", "infinitive", "accusative", "negation", "a1-core"],
-  "prerequisites": ["a1-ch04-l03", "a1-ch05-l02"]
+  "tags": [
+    "lubic",
+    "infinitive",
+    "accusative",
+    "negation",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch04-l03",
+    "a1-ch05-l02"
+  ]
 }

@@ -4,7 +4,9 @@
   "chapter": 4,
   "lessonOrder": 1,
   "title": "Numbers 1–20",
+  "title_fa": "اعداد ۱ تا ۲۰",
   "grammarPoint": "Cardinal numbers jeden through dwadzieścia",
+  "grammarPoint_fa": "اعداد اصلی لهستانی از ۱ تا ۲۰",
   "explanation": {
     "text": "Polish cardinal numbers 1–20 must be memorised. Note that **1 and 2 have gender forms**, while 3–20 are invariable (one form for all genders).\n\n| Number | Polish | Number | Polish |\n|--------|--------|--------|--------|\n| 1 | **jeden** (m) / **jedna** (f) / **jedno** (n) | 11 | **jedenaście** |\n| 2 | **dwa** (m/n) / **dwie** (f) | 12 | **dwanaście** |\n| 3 | **trzy** | 13 | **trzynaście** |\n| 4 | **cztery** | 14 | **czternaście** |\n| 5 | **pięć** | 15 | **piętnaście** |\n| 6 | **sześć** | 16 | **szesnaście** |\n| 7 | **siedem** | 17 | **siedemnaście** |\n| 8 | **osiem** | 18 | **osiemnaście** |\n| 9 | **dziewięć** | 19 | **dziewiętnaście** |\n| 10 | **dziesięć** | 20 | **dwadzieścia** |\n\nNumbers 5–20 require the **genitive plural** of the noun (covered in Ch.8).",
     "notes": [
@@ -14,13 +16,19 @@
       "Pronunciation: ó in Polish sounds like English 'oo'; ę and ą are nasal vowels."
     ]
   },
+  "explanation_fa": "اعداد ۱ تا ۱۰: jeden/jedna، dwa/dwie، trzy، cztery، pięć، sześć، siedem، osiem، dziewięć، dziesięć. اعداد ۱۱ تا ۲۰: jedenaście، dwanaście، trzynaście، czternaście، piętnaście، szesnaście، siedemnaście، osiemnaście، dziewiętnaście، dwadzieścia.",
   "exercises": [
     {
       "id": "a1-ch04-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "What is the Polish word for 7?",
-      "options": ["siedem", "sześć", "osiem", "dziewięć"],
+      "options": [
+        "siedem",
+        "sześć",
+        "osiem",
+        "dziewięć"
+      ],
       "correctIndex": 0,
       "explanation": "7 = siedem. Remember the sequence: pięć (5), sześć (6), siedem (7), osiem (8), dziewięć (9)."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Mam ___ lat. (I am fifteen years old.)",
       "answer": "piętnaście",
-      "acceptableAnswers": ["piętnaście"],
+      "acceptableAnswers": [
+        "piętnaście"
+      ],
       "hint": "The number 15 in Polish"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch04/a1-ch04-l01-ex03.mp3",
-      "options": ["Mam trzynaście lat.", "Mam czternaście lat.", "Mam szesnaście lat.", "Mam dwanaście lat."],
+      "options": [
+        "Mam trzynaście lat.",
+        "Mam czternaście lat.",
+        "Mam szesnaście lat.",
+        "Mam dwanaście lat."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Mam trzynaście lat.' — I am thirteen years old. Trzynaście = 13."
     },
@@ -47,9 +62,20 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: I have two sisters. [dwie — feminine form of 2]",
-      "wordBank": ["Mam", "dwie", "dwa", "siostry", "siostrę", "brata"],
+      "wordBank": [
+        "Mam",
+        "dwie",
+        "dwa",
+        "siostry",
+        "siostrę",
+        "brata"
+      ],
       "correctSequences": [
-        ["Mam", "dwie", "siostry"]
+        [
+          "Mam",
+          "dwie",
+          "siostry"
+        ]
       ],
       "explanation": "'Mam dwie siostry' = I have two sisters. 'Dwie' is the feminine form of 2 (siostra is feminine). 'Siostry' is genitive of siostra."
     },
@@ -58,13 +84,22 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "How do you say 'one book' in Polish? [książka = feminine]",
-      "options": ["jedna książka", "jeden książka", "jedno książka", "jedną książkę"],
+      "options": [
+        "jedna książka",
+        "jeden książka",
+        "jedno książka",
+        "jedną książkę"
+      ],
       "correctIndex": 0,
       "explanation": "'Jedna książka' — the number 1 agrees with the noun's gender. Książka is feminine → jedna."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 9,
-  "tags": ["numbers", "cardinal-numbers", "a1-core"],
+  "tags": [
+    "numbers",
+    "cardinal-numbers",
+    "a1-core"
+  ],
   "prerequisites": []
 }

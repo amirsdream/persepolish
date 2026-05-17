@@ -4,7 +4,9 @@
   "chapter": 5,
   "lessonOrder": 3,
   "title": "Formal Polite Expressions with Conditional",
+  "title_fa": "عبارات مؤدبانه رسمی با وجه شرطی",
   "grammarPoint": "Formal polite requests using mógłby/mogłaby Pan/Pani + infinitive; czy zechciałby/zechciałaby; uprzejmie proszę — the full formal polite register",
+  "grammarPoint_fa": "عبارات رسمی: Czy mógłby pan/pani...؟ Byłoby możliwe...؟",
   "explanation": {
     "text": "For formal situations — speaking to strangers, officials, or in business — Polish uses specific conditional phrases combined with the **Pan/Pani** system.\n\n## czy mógłby/mogłaby Pan/Pani...?\n\nThe most formal way to make a request:\n\n| Form | Use | Example |\n|------|-----|--------|\n| Czy **mógłby Pan**...? | to a man (formal) | Czy mógłby Pan mi pomóc? |\n| Czy **mogłaby Pani**...? | to a woman (formal) | Czy mogłaby Pani powtórzyć? |\n| Czy **mógłby Pan/Pani**...? | either (formal) | Czy mógłby Pan to podpisać? |\n\n**Formation**: móc (can) conditional:\n- mógłby (he could — used with Pan)\n- mogłaby (she could — used with Pani)\n- mógłbyś/mogłabyś (you could — informal)\n\n## Formal Polite Request Patterns\n\n**czy + mógłby/mogłaby + Pan/Pani + infinitive**:\n- Czy mógłby Pan **otworzyć** okno? (Could you open the window? — to a man)\n- Czy mogłaby Pani **sprawdzić** rezerwację? (Could you check the reservation? — to a woman)\n- Czy mógłby Pan mi **powiedzieć**, która godzina? (Could you tell me what time it is?)\n\n**czy + zechciałby/zechciałaby + Pan/Pani** (even more formal, almost archaic):\n- Czy **zechciałby Pan** podpisać ten dokument? (Would you kindly sign this document?)\n- Czy **zechciałaby Pani** poczekać chwilę? (Would you kindly wait a moment?)\n\n## Levels of Politeness\n\nFrom most to least formal:\n\n| Expression | Register | Example |\n|-----------|---------|--------|\n| Czy zechciałby Pan...? | very formal | contracts, formal meetings |\n| Czy mógłby Pan...? | formal | shops, offices, strangers |\n| Czy mógłbyś...? | semi-formal | colleagues you address by name |\n| Czy możesz...? | informal | friends, family |\n| Zrób to! | blunt/rude | never in formal contexts |\n\n## More Formal Conditional Phrases\n\n**Conditional + Pan/Pani in questions**:\n- Czy **pozwoliłby Pan** mi...? (Would you allow me to...?)\n- Czy **byłby Pan** tak uprzejmy i...? (Would you be so kind as to...?)\n- Czy **zgodziłby się Pan**...? (Would you agree to...?)\n\n**Expressing wishes about others (3rd person)**:\n- Chciałbym, **żeby Pan** to sprawdził. (I'd like you to check this — m)\n- Chciałabym, **żeby Pani** to przeczytała. (I'd like you to read this — f)\n\n## Common Formal Situations\n\n**At a bank or office**:\n- Czy mógłby Pan sprawdzić moje konto? (Could you check my account?)\n- Czy mogłaby Pani mi wyjaśnić ten formularz? (Could you explain this form to me?)\n\n**In a meeting**:\n- Czy mógłby Pan powtórzyć? (Could you repeat that?)\n- Czy mogłaby Pani powiedzieć więcej o projekcie? (Could you say more about the project?)\n\n**Making appointments**:\n- Czy mógłbym umówić się na wizytę? (Could I make an appointment? — m)\n- Czy mogłabym przyjść jutro o dziesiątej? (Could I come tomorrow at ten? — f)\n\n## Czy byłby Pan/Pani łaskaw(a)...\n\nThe most formal expression (written/very official):\n- **Czy byłby Pan łaskaw** przesłać mi... (Would you be so kind as to send me... — m)\n- **Czy byłaby Pani łaskawa** potwierdzić... (Would you be so kind as to confirm... — f)",
     "notes": [
@@ -14,13 +16,19 @@
       "The conditional of 'móc' (can): mógłbym (m 1sg), mogłabym (f 1sg), mógłbyś (m 2sg), mogłabyś (f 2sg), mógłby (m 3sg), mogłaby (f 3sg)."
     ]
   },
+  "explanation_fa": "عبارات مؤدبانه رسمی: Czy mógłby pan zadzwonić? (آیا می‌توانید زنگ بزنید؟). Byłbym wdzięczny (ممنون می‌شدم). Czy byłoby możliwe...? (آیا ممکن خواهد بود...؟). Chciałbym prosić o... (می‌خواستم درخواست کنم...). این عبارات در محیط‌های رسمی و تجاری ضروری هستند.",
   "exercises": [
     {
       "id": "b1-ch05-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "You (male) want to formally ask a female bank clerk: 'Could you check my account?'",
-      "options": ["Czy mogłaby Pani sprawdzić moje konto?", "Czy mógłby Pan sprawdzić moje konto?", "Czy mogłabyś sprawdzić moje konto?", "Czy możesz sprawdzić moje konto?"],
+      "options": [
+        "Czy mogłaby Pani sprawdzić moje konto?",
+        "Czy mógłby Pan sprawdzić moje konto?",
+        "Czy mogłabyś sprawdzić moje konto?",
+        "Czy możesz sprawdzić moje konto?"
+      ],
       "correctIndex": 0,
       "explanation": "Addressing a female clerk formally: 'Czy mogłaby Pani sprawdzić moje konto?' 'Mogłaby' = she could (3sg f conditional) + 'Pani' (formal address to woman). 'Mógłby Pan' = could he/you (m) — used when addressing a man. 'Mogłabyś' = informal you (f). 'Możesz' = informal present."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Formal meeting: You (female) politely ask a male colleague to repeat himself.",
-      "options": ["Czy mógłby Pan powtórzyć?", "Czy mogłaby Pani powtórzyć?", "Czy mógłbyś powtórzyć?", "Czy możesz powtórzyć?"],
+      "options": [
+        "Czy mógłby Pan powtórzyć?",
+        "Czy mogłaby Pani powtórzyć?",
+        "Czy mógłbyś powtórzyć?",
+        "Czy możesz powtórzyć?"
+      ],
       "correctIndex": 0,
       "explanation": "Formal request to a male: 'Czy mógłby Pan powtórzyć?' — Could you repeat that (to a man)? 'Mógłby Pan' = formal male address (mógłby = 3sg m conditional). Whether the speaker is male or female doesn't change this — it's about who you're addressing. Addressing a man → 'mógłby Pan'."
     },
@@ -39,7 +52,11 @@
       "order": 3,
       "prompt": "Rank from most to least formal (write order): (A) Czy mógłbyś...? (B) Zrób to! (C) Czy mógłby Pan...? (D) Czy zechciałby Pan...? → ___",
       "answer": "D, C, A, B",
-      "acceptableAnswers": ["D, C, A, B", "D>C>A>B", "zechciałby > mógłby Pan > mógłbyś > Zrób to"],
+      "acceptableAnswers": [
+        "D, C, A, B",
+        "D>C>A>B",
+        "zechciałby > mógłby Pan > mógłbyś > Zrób to"
+      ],
       "explanation": "Most → least formal: (D) Czy zechciałby Pan...? [very formal] → (C) Czy mógłby Pan...? [formal, Pan/Pani] → (A) Czy mógłbyś...? [semi-formal, no Pan/Pani] → (B) Zrób to! [imperative, blunt]. Always use Pan/Pani forms with strangers and in formal contexts."
     },
     {
@@ -47,7 +64,12 @@
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/b1/ch05/b1-ch05-l03-ex04.mp3",
-      "options": ["Czy mógłbym umówić się na wizytę jutro?", "Czy mogłabym umówić się na wizytę jutro?", "Czy mógłby Pan umówić się na wizytę jutro?", "Czy mogłaby Pani umówić się na wizytę jutro?"],
+      "options": [
+        "Czy mógłbym umówić się na wizytę jutro?",
+        "Czy mogłabym umówić się na wizytę jutro?",
+        "Czy mógłby Pan umówić się na wizytę jutro?",
+        "Czy mogłaby Pani umówić się na wizytę jutro?"
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Czy mógłbym umówić się na wizytę jutro?' — Could I make an appointment for tomorrow? (male speaker asking). 'Mógłbym' = 1sg male conditional of móc. 'Umówić się na wizytę' = to make an appointment. The speaker is asking about themselves → 1sg."
     },
@@ -56,15 +78,42 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build formal request to a female official: 'Could you explain this document?' [mogłaby Pani, wyjaśnić, ten dokument]",
-      "wordBank": ["Czy", "mógłby", "mogłaby", "Pan", "Pani", "wyjaśnić", "sprawdzić", "ten", "dokument", "?"],
+      "wordBank": [
+        "Czy",
+        "mógłby",
+        "mogłaby",
+        "Pan",
+        "Pani",
+        "wyjaśnić",
+        "sprawdzić",
+        "ten",
+        "dokument",
+        "?"
+      ],
       "correctSequences": [
-        ["Czy", "mogłaby", "Pani", "wyjaśnić", "ten", "dokument", "?"]
+        [
+          "Czy",
+          "mogłaby",
+          "Pani",
+          "wyjaśnić",
+          "ten",
+          "dokument",
+          "?"
+        ]
       ],
       "explanation": "'Czy mogłaby Pani wyjaśnić ten dokument?' — Could you explain this document? (addressing a female official). 'Mogłaby' = 3sg f conditional (for addressing a woman). 'Pani' = formal female address. 'Wyjaśnić' = to explain. 'Ten dokument' = this document (masc acc)."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 13,
-  "tags": ["conditional", "b1-core", "polite", "pan-pani", "formal"],
-  "prerequisites": ["b1-ch05-l02"]
+  "tags": [
+    "conditional",
+    "b1-core",
+    "polite",
+    "pan-pani",
+    "formal"
+  ],
+  "prerequisites": [
+    "b1-ch05-l02"
+  ]
 }

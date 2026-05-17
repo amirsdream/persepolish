@@ -3,8 +3,9 @@
   "level": "a2",
   "chapter": 15,
   "title": "Chapter 15 Revision: Emotions & Relationships",
+  "title_fa": "مرور فصل ۱۵: احساسات و روابط",
   "description": "Mixed questions covering podoba mi się, sobie constructions, emotional verbs with cases, advanced reflexive verbs, and emotions vocabulary.",
-  "passThreshold": 0.70,
+  "passThreshold": 0.7,
   "questions": [
     {
       "id": "a2-ch15-rev-q01",
@@ -12,7 +13,12 @@
       "order": 1,
       "sourceLesson": "a2-ch15-l01",
       "prompt": "Ten film ___ mi się. (I like this film.) [podobać się, singular]",
-      "options": ["podoba", "podobają", "lubię", "podoba się"],
+      "options": [
+        "podoba",
+        "podobają",
+        "lubię",
+        "podoba się"
+      ],
       "correctIndex": 0,
       "explanation": "Singular subject 'ten film' → singular verb 'podoba'. 'Podoba mi się' = I like it (it pleases me). 'Podobają' = plural subjects."
     },
@@ -22,7 +28,12 @@
       "order": 2,
       "sourceLesson": "a2-ch15-l02",
       "prompt": "Nie martw się, ___ sobie. (Don't worry, I'll manage.) [poradzić sobie, ja]",
-      "options": ["poradzę", "radziłem", "radzę", "dałem radę"],
+      "options": [
+        "poradzę",
+        "radziłem",
+        "radzę",
+        "dałem radę"
+      ],
       "correctIndex": 0,
       "explanation": "'Poradzić sobie' perfective future: poradzę sobie. 'Radzę sobie' = I manage (present, imperfective). 'Poradzę' = I will cope (perf future)."
     },
@@ -32,7 +43,12 @@
       "order": 3,
       "sourceLesson": "a2-ch15-l03",
       "prompt": "Cieszę się ___ twojego sukcesu. (I'm happy about your success.) [cieszyć się z + genitive]",
-      "options": ["z", "o", "na", "za"],
+      "options": [
+        "z",
+        "o",
+        "na",
+        "za"
+      ],
       "correctIndex": 0,
       "explanation": "'Cieszyć się z + genitive': z twojego sukcesu. Always 'z' (not 'o' or 'na') after cieszyć się."
     },
@@ -42,7 +58,12 @@
       "order": 4,
       "sourceLesson": "a2-ch15-l04",
       "prompt": "Zakochałam się ___ nim. (I fell in love with him.) [zakochać się w + locative]",
-      "options": ["w", "z", "na", "o"],
+      "options": [
+        "w",
+        "z",
+        "na",
+        "o"
+      ],
       "correctIndex": 0,
       "explanation": "'Zakochać się w + locative': w nim (on → locative: nim). 'Zakochałam się w nim' = I fell in love with him."
     },
@@ -52,7 +73,12 @@
       "order": 5,
       "sourceVocab": "a2-ch15-vocab",
       "prompt": "What does 'tęsknić za + instrumental' mean?",
-      "options": ["to miss", "to be jealous of", "to fear", "to love"],
+      "options": [
+        "to miss",
+        "to be jealous of",
+        "to fear",
+        "to love"
+      ],
       "correctIndex": 0,
       "explanation": "'Tęsknić za + instrumental' = to miss. 'Tęsknię za tobą' = I miss you (instrumental: tobą). Compare: 'tęsknota' = longing/nostalgia."
     },
@@ -62,7 +88,12 @@
       "order": 6,
       "sourceLesson": "a2-ch15-l01",
       "prompt": "Podobają ___ te buty. (She likes these shoes.) [plural subject → plural verb, jej]",
-      "options": ["jej się", "jej", "mi się", "mu się"],
+      "options": [
+        "jej się",
+        "jej",
+        "mi się",
+        "mu się"
+      ],
       "correctIndex": 0,
       "explanation": "Plural subject 'te buty' → 'podobają się'. Dative of 'ona' = jej. Full sentence: 'Podobają się jej te buty' = She likes these shoes."
     },
@@ -72,7 +103,12 @@
       "order": 7,
       "sourceLesson": "a2-ch15-l04",
       "prompt": "Pokłóciliśmy się ___ bratem. (We had a fight with [my] brother.) [kłócić się z + instrumental]",
-      "options": ["z", "na", "o", "w"],
+      "options": [
+        "z",
+        "na",
+        "o",
+        "w"
+      ],
       "correctIndex": 0,
       "explanation": "'Kłócić się z + instrumental': z bratem (brat → instrumental: bratem). Always 'z' for kłócić się, pogodzić się, rozstać się."
     },
@@ -82,7 +118,12 @@
       "order": 8,
       "sourceVocab": "a2-ch15-vocab",
       "prompt": "What does 'związek' mean?",
-      "options": ["relationship / partnership", "friendship", "marriage", "family"],
+      "options": [
+        "relationship / partnership",
+        "friendship",
+        "marriage",
+        "family"
+      ],
       "correctIndex": 0,
       "explanation": "'Związek' = relationship / partnership. 'Jesteśmy w związku' = we're in a relationship. Also: związek zawodowy = trade union."
     },
@@ -92,7 +133,12 @@
       "order": 9,
       "sourceLesson": "a2-ch15-l02",
       "prompt": "Kupiła ___ nowe buty. (She bought herself new shoes.) [sobie — reflexive dative]",
-      "options": ["sobie", "się", "jej", "jej sobie"],
+      "options": [
+        "sobie",
+        "się",
+        "jej",
+        "jej sobie"
+      ],
       "correctIndex": 0,
       "explanation": "'Kupić sobie' = to buy for oneself: kupiła sobie (she bought for herself). 'Sobie' is the dative reflexive — refers back to the subject."
     },
@@ -102,7 +148,12 @@
       "order": 10,
       "sourceLesson": "a2-ch15-l03",
       "prompt": "Martwię się ___ ciebie. (I'm worried about you.) [martwić się o + accusative]",
-      "options": ["o", "za", "z", "na"],
+      "options": [
+        "o",
+        "za",
+        "z",
+        "na"
+      ],
       "correctIndex": 0,
       "explanation": "'Martwić się o + accusative' (person): o ciebie. 'Ciebie' = stressed accusative of 'ty'. When referring to a cause/situation: 'martwię się tą sytuacją' (instrumental)."
     },
@@ -112,7 +163,12 @@
       "order": 11,
       "sourceVocab": "a2-ch15-vocab",
       "prompt": "What does 'Jestem z ciebie dumna' mean?",
-      "options": ["I'm proud of you", "I'm ashamed of you", "I'm worried about you", "I'm jealous of you"],
+      "options": [
+        "I'm proud of you",
+        "I'm ashamed of you",
+        "I'm worried about you",
+        "I'm jealous of you"
+      ],
       "correctIndex": 0,
       "explanation": "'Jestem dumna/dumny z + genitive' = I'm proud of. 'Z ciebie' = genitive of 'ty'. 'Dumna' = feminine, 'dumny' = masculine."
     },
@@ -122,7 +178,12 @@
       "order": 12,
       "sourceLesson": "a2-ch15-l04",
       "prompt": "Rozczarowałem się ___ tym projektem. (I was disappointed with this project.) [rozczarować się + instrumental]",
-      "options": ["tym projektem", "ten projekt", "tego projektu", "temu projektowi"],
+      "options": [
+        "tym projektem",
+        "ten projekt",
+        "tego projektu",
+        "temu projektowi"
+      ],
       "correctIndex": 0,
       "explanation": "'Rozczarować się + instrumental': tym projektem (projekt → instr: projektem, with 'tym' = instr of 'ten'). Instrumental here expresses the cause of disappointment."
     }

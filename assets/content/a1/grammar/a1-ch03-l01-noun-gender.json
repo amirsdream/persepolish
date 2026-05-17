@@ -4,7 +4,9 @@
   "chapter": 3,
   "lessonOrder": 1,
   "title": "Noun Gender — Recognition Rules",
+  "title_fa": "جنسیت اسم — قواعد تشخیص",
   "grammarPoint": "Recognising masculine, feminine and neuter nouns by ending and meaning",
+  "grammarPoint_fa": "تشخیص جنسیت دستوری اسم‌های لهستانی از روی پسوند",
   "explanation": {
     "text": "Knowing a noun's gender is essential for correct agreement throughout Polish. While there are exceptions, reliable patterns exist:\n\n**Masculine** — typically end in a consonant: *kot, dom, pies, student, kraj*\n**Feminine** — typically end in **-a**: *kobieta, mama, herbata, Polska*\n**Neuter** — typically end in **-o** or **-e**: *okno, morze, życie*\n\n**Semantic gender** — Male people are grammatically masculine regardless of ending:\n- *mężczyzna* (man) ends in -a but is masculine\n- *tata* (dad) ends in -a but is masculine\n\n**Profession nouns** follow a natural gender pattern:\n- Masculine: *lekarz, nauczyciel, prawnik*\n- Feminine: *lekarka, nauczycielka, prawniczka*",
     "notes": [
@@ -14,13 +16,19 @@
       "Abstract nouns in -ość are always feminine: wolność, radość, miłość."
     ]
   },
+  "explanation_fa": "قاعده کلی: اسم‌هایی که به مصوت -a ختم می‌شوند مؤنث هستند (kobieta، mama)؛ اسم‌هایی که به -o، -e، -ę، -um ختم می‌شوند خنثی هستند (dziecko، morze)؛ بقیه اغلب مذکر هستند (kot، lekarz). استثناها وجود دارند؛ مثل mężczyzna که مذکر است.",
   "exercises": [
     {
       "id": "a1-ch03-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "What gender is 'wolność' (freedom)?",
-      "options": ["feminine", "masculine", "neuter", "it varies"],
+      "options": [
+        "feminine",
+        "masculine",
+        "neuter",
+        "it varies"
+      ],
       "correctIndex": 0,
       "explanation": "Nouns ending in -ość are always feminine: wolność (freedom), radość (joy), miłość (love)."
     },
@@ -30,7 +38,10 @@
       "order": 2,
       "prompt": "To jest ___ pies. (This is my dog.) — pies is ___.",
       "answer": "masculine",
-      "acceptableAnswers": ["masculine", "m"],
+      "acceptableAnswers": [
+        "masculine",
+        "m"
+      ],
       "hint": "'Pies' ends in a consonant — typical of which gender?"
     },
     {
@@ -38,7 +49,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch03/a1-ch03-l01-ex03.mp3",
-      "options": ["Mężczyzna jest moim tatą.", "Kobieta jest moim tatą.", "Dziecko jest moim tatą.", "Mężczyzna jest moją mamą."],
+      "options": [
+        "Mężczyzna jest moim tatą.",
+        "Kobieta jest moim tatą.",
+        "Dziecko jest moim tatą.",
+        "Mężczyzna jest moją mamą."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Mężczyzna jest moim tatą.' — The man is my dad. 'Mężczyzna' ends in -a but is masculine (male person)."
     },
@@ -47,9 +63,18 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Classify: Which word is neuter? [okno, mama, brat, kot]",
-      "wordBank": ["okno", "mama", "brat", "kot", "jest", "neuter"],
+      "wordBank": [
+        "okno",
+        "mama",
+        "brat",
+        "kot",
+        "jest",
+        "neuter"
+      ],
       "correctSequences": [
-        ["okno"]
+        [
+          "okno"
+        ]
       ],
       "explanation": "'Okno' (window) ends in -o → neuter. 'Mama' = feminine (-a). 'Brat' and 'kot' = masculine (consonant endings)."
     },
@@ -58,13 +83,26 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Which noun is grammatically masculine despite ending in -a?",
-      "options": ["tata", "mama", "córka", "siostra"],
+      "options": [
+        "tata",
+        "mama",
+        "córka",
+        "siostra"
+      ],
       "correctIndex": 0,
       "explanation": "'Tata' (dad) refers to a male person, so it is grammatically masculine even though it ends in -a. 'Mama', 'córka', 'siostra' are all feminine."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 8,
-  "tags": ["noun-gender", "masculine", "feminine", "neuter", "a1-core"],
-  "prerequisites": ["a1-ch01-l04"]
+  "tags": [
+    "noun-gender",
+    "masculine",
+    "feminine",
+    "neuter",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch01-l04"
+  ]
 }

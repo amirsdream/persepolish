@@ -4,7 +4,9 @@
   "chapter": 1,
   "lessonOrder": 3,
   "title": "Aspect Pairs by Semantic Group",
+  "title_fa": "جفت‌های وجهی بر اساس گروه معنایی",
   "grammarPoint": "Aspect pairs organised by meaning category: communication verbs, creation verbs, movement verbs, perception verbs — helping students see patterns across groups",
+  "grammarPoint_fa": "دسته‌بندی جفت‌های وجهی: حرکت، ارتباط، تغییر حالت، ادراک",
   "explanation": {
     "text": "Learning aspect pairs in semantic groups helps you see patterns and remember them better.\n\n## Communication Verbs\n\n| Imperfective | Perfective | English |\n|-------------|-----------|--------|\n| mówić | powiedzieć | to say/tell |\n| rozmawiać | porozmawiać | to chat/have a conversation |\n| pytać | zapytać | to ask |\n| odpowiadać | odpowiedzieć | to answer |\n| tłumaczyć | wytłumaczyć | to explain |\n| dziękować | podziękować | to thank |\n| przepraszać | przeprosić | to apologise |\n| obiecywać | obiecać | to promise |\n\n## Creation / Work Verbs\n\n| Imperfective | Perfective | English |\n|-------------|-----------|--------|\n| pisać | napisać | to write |\n| rysować | narysować | to draw |\n| budować | zbudować | to build |\n| gotować | ugotować | to cook |\n| naprawiać | naprawić | to fix/repair |\n| tworzyć | stworzyć | to create |\n| nagrywać | nagrać | to record |\n\n## Acquisition / Change Verbs\n\n| Imperfective | Perfective | English |\n|-------------|-----------|--------|\n| kupować | kupić | to buy |\n| sprzedawać | sprzedać | to sell |\n| znajdować | znaleźć | to find |\n| tracić | stracić | to lose (waste) |\n| gubić | zgubić | to lose (misplace) |\n| zdobywać | zdobyć | to acquire/win |\n\n## Perception / Cognition Verbs\n\n| Imperfective | Perfective | English |\n|-------------|-----------|--------|\n| widzieć | zobaczyć | to see |\n| słyszeć | usłyszeć | to hear |\n| rozumieć | zrozumieć | to understand |\n| pamiętać | zapamiętać | to remember |\n| uczyć się | nauczyć się | to learn |\n| zapominać | zapomnieć | to forget |\n\n## Key Observations\n\n- **Communication verbs** often use po- prefix for 'having a conversation' type: rozmawiać/porozmawiać, dziękować/podziękować\n- **Creation verbs** often use na-/u- prefix: napisać, narysować, ugotować\n- **Perception verbs** often use zo-/u-/za- prefix: zobaczyć, usłyszeć, zapamiętać\n- **Suppletive pairs** (different roots): widzieć/zobaczyć, mówić/powiedzieć",
     "notes": [
@@ -14,13 +16,19 @@
       "Gubić/zgubić: 'Gubię rzeczy' (I keep losing things = habit) vs 'Zgubiłem klucze' (I've lost my keys = result)."
     ]
   },
+  "explanation_fa": "دسته‌بندی جفت‌های وجهی: حرکت: iść/pójść، jeździć/pojechać، wchodzić/wejść. ارتباط: mówić/powiedzieć، pisać/napisać، dzwonić/zadzwonić. تغییر حالت: otwierać/otworzyć، zamykać/zamknąć، wstawać/wstać. ادراک: oglądać/obejrzeć، słuchać/posłuchać، czytać/przeczytać. این دسته‌بندی یادگیری را آسان‌تر می‌کند.",
   "exercises": [
     {
       "id": "b1-ch01-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Which pair means 'to apologise' (imperf/perf)?",
-      "options": ["przepraszać / przeprosić", "pytać / zapytać", "tłumaczyć / wytłumaczyć", "obiecywać / obiecać"],
+      "options": [
+        "przepraszać / przeprosić",
+        "pytać / zapytać",
+        "tłumaczyć / wytłumaczyć",
+        "obiecywać / obiecać"
+      ],
       "correctIndex": 0,
       "explanation": "'Przepraszać' (imperf) / 'przeprosić' (perf) = to apologise. 'Przepraszam' = excuse me / I'm sorry (ongoing apology / polite phrase). 'Przeprosiłem ją' = I apologised to her (completed act of apologising)."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "W końcu ___ ten artykuł. (She finally understood this article.) [perception verb, perfective]",
-      "options": ["zrozumiała", "rozumiała", "rozumie", "zrozumie"],
+      "options": [
+        "zrozumiała",
+        "rozumiała",
+        "rozumie",
+        "zrozumie"
+      ],
       "correctIndex": 0,
       "explanation": "'Zrozumiała' = she understood/grasped (perfective — the understanding happened, result achieved). 'W końcu' (finally) + perfective. 'Rozumiała' = was understanding (process, ongoing). Perception verbs: rozumieć (process) / zrozumieć (moment of understanding)."
     },
@@ -38,7 +51,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/b1/ch01/b1-ch01-l03-ex03.mp3",
-      "options": ["Zapytałam go, ale nie odpowiedział.", "Pytałam go, ale nie odpowiadał.", "Zapytałam go, ale nie odpowiadał.", "Pytałam go, ale nie odpowiedział."],
+      "options": [
+        "Zapytałam go, ale nie odpowiedział.",
+        "Pytałam go, ale nie odpowiadał.",
+        "Zapytałam go, ale nie odpowiadał.",
+        "Pytałam go, ale nie odpowiedział."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Zapytałam go, ale nie odpowiedział.' — I asked him, but he didn't answer. 'Zapytałam' (perf) = I asked (one question). 'Nie odpowiedział' (perf with negation) = he gave no answer. Both refer to a single exchange."
     },
@@ -47,7 +65,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Aspect of 'uczyć się / nauczyć się': Uczę się polskiego ___ rok. (I've been learning Polish for a year.) [ongoing duration]",
-      "options": ["od ponad", "już", "w końcu", "nagle"],
+      "options": [
+        "od ponad",
+        "już",
+        "w końcu",
+        "nagle"
+      ],
       "correctIndex": 0,
       "explanation": "'Uczę się polskiego od ponad rok' — ongoing (od = since/for; duration signal → imperfective 'uczę się'). If we said 'nauczyłam się' it would mean a specific thing was learned (result), not duration. 'Już nauczyłam się tego' = I've already learned that (specific item, result)."
     },
@@ -56,16 +79,49 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: I promised to call, and I kept my promise. (obiecać + zadzwonić, sequential)",
-      "wordBank": ["Obiecałem", "Obiecałam", "zadzwonić", "zadzwonię", "i", "dotrzymałem", "dotrzymałam", "słowa", "słowo", "."],
+      "wordBank": [
+        "Obiecałem",
+        "Obiecałam",
+        "zadzwonić",
+        "zadzwonię",
+        "i",
+        "dotrzymałem",
+        "dotrzymałam",
+        "słowa",
+        "słowo",
+        "."
+      ],
       "correctSequences": [
-        ["Obiecałem", "zadzwonić", "i", "dotrzymałem", "słowa", "."],
-        ["Obiecałam", "zadzwonić", "i", "dotrzymałam", "słowa", "."]
+        [
+          "Obiecałem",
+          "zadzwonić",
+          "i",
+          "dotrzymałem",
+          "słowa",
+          "."
+        ],
+        [
+          "Obiecałam",
+          "zadzwonić",
+          "i",
+          "dotrzymałam",
+          "słowa",
+          "."
+        ]
       ],
       "explanation": "'Obiecałem/Obiecałam zadzwonić i dotrzymałem/dotrzymałam słowa.' — I promised to call and kept my word. 'Obiecać + inf' = to promise to do. 'Dotrzymać słowa' = to keep one's word (perf). 'Słowa' = genitive of słowo (word) in this fixed phrase."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": ["aspect", "b1-core", "verb-pairs", "semantic-groups"],
-  "prerequisites": ["b1-ch01-l01", "b1-ch01-l02"]
+  "tags": [
+    "aspect",
+    "b1-core",
+    "verb-pairs",
+    "semantic-groups"
+  ],
+  "prerequisites": [
+    "b1-ch01-l01",
+    "b1-ch01-l02"
+  ]
 }

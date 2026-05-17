@@ -4,7 +4,9 @@
   "chapter": 6,
   "lessonOrder": 1,
   "title": "Locative Case — Expressing Place",
+  "title_fa": "حالت مکانی — بیان مکان",
   "grammarPoint": "Locative case (miejscownik) with w and na for location: w domu, w szkole, na rynku",
+  "grammarPoint_fa": "حالت مکانی (miejscownik) با حروف اضافه w، na، o، przy",
   "explanation": {
     "text": "The **locative case** (miejscownik) is used to express location — where someone or something **is**. It always follows certain prepositions.\n\n**Key prepositions + locative:**\n- **w** = in (enclosed space): w domu, w szkole, w Polsce\n- **na** = on / at (open space or set expressions): na stole, na ulicy, na rynku\n\n**Locative singular endings:**\n\n| Gender | Nominative | Locative | Examples |\n|--------|-----------|---------|----------|\n| Masculine | -consonant | **-e / -u** | dom → domu, sklep → sklepie |\n| Feminine -a | -a | **-ie / -y / -i** | szkoła → szkole, ulica → ulicy |\n| Neuter -o | -o | **-e** | miasto → mieście, okno → oknie |\n\n**Very common locative forms:**\n- w domu = at home\n- w szkole = at school\n- w pracy = at work\n- w Polsce = in Poland\n- w Warszawie = in Warsaw\n- na rynku = in the market square\n- na ulicy = on the street\n- na stole = on the table",
     "notes": [
@@ -14,13 +16,19 @@
       "w vs na: 'w' for enclosed spaces (rooms, buildings, countries); 'na' for open areas and fixed phrases (na rynku, na poczcie)."
     ]
   },
+  "explanation_fa": "حالت مکانی (miejscownik) پس از حروف اضافه w (در)، na (روی/در)، o (درباره)، przy (کنار) استفاده می‌شود. این حالت هرگز به تنهایی نمی‌آید. تغییر اسم‌های مذکر/خنثی: -e/-ie پسوند می‌گیرند (dom → w domu، sklep → w sklepie). اسم‌های مؤنث: -a → -e/-ie (Polska → w Polsce).",
   "exercises": [
     {
       "id": "a1-ch06-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Jestem ___ (at home). [dom → locative]",
-      "options": ["w domu", "w dom", "w domie", "na domu"],
+      "options": [
+        "w domu",
+        "w dom",
+        "w domie",
+        "na domu"
+      ],
       "correctIndex": 0,
       "explanation": "'Dom' (masculine) → locative 'domu'. 'Jestem w domu' = I am at home. Note: dom takes -u (not -ie)."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Pracuję ___ szkole. (I work at school.) [w + locative of szkoła]",
       "answer": "w",
-      "acceptableAnswers": ["w"],
+      "acceptableAnswers": [
+        "w"
+      ],
       "hint": "Use 'w' for enclosed spaces like schools, offices, shops"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch06/a1-ch06-l01-ex03.mp3",
-      "options": ["Mieszkam w Warszawie.", "Mieszkam w Warszawa.", "Mieszkam na Warszawie.", "Jestem w Warszawy."],
+      "options": [
+        "Mieszkam w Warszawie.",
+        "Mieszkam w Warszawa.",
+        "Mieszkam na Warszawie.",
+        "Jestem w Warszawy."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Mieszkam w Warszawie.' — I live in Warsaw. 'Warszawa' → locative 'Warszawie'. 'Mieszkam w...' = I live in..."
     },
@@ -47,9 +62,24 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: The book is on the table.",
-      "wordBank": ["Książka", "Książki", "jest", "są", "na", "w", "stole", "stół", "stołu"],
+      "wordBank": [
+        "Książka",
+        "Książki",
+        "jest",
+        "są",
+        "na",
+        "w",
+        "stole",
+        "stół",
+        "stołu"
+      ],
       "correctSequences": [
-        ["Książka", "jest", "na", "stole"]
+        [
+          "Książka",
+          "jest",
+          "na",
+          "stole"
+        ]
       ],
       "explanation": "'Książka jest na stole' = The book is on the table. 'Stół' (masculine) → locative 'stole'. 'Na' + locative for 'on'."
     },
@@ -58,13 +88,27 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Ona jest ___ (in Poland). [Polska → locative]",
-      "options": ["w Polsce", "w Polska", "na Polsce", "w Polskę"],
+      "options": [
+        "w Polsce",
+        "w Polska",
+        "na Polsce",
+        "w Polskę"
+      ],
       "correctIndex": 0,
       "explanation": "'Polska' (feminine) → locative 'Polsce'. 'Ona jest w Polsce' = She is in Poland. Countries use 'w + locative'."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["locative", "cases", "place", "prepositions", "a1-core"],
-  "prerequisites": ["a1-ch01-l04", "a1-ch02-l01"]
+  "tags": [
+    "locative",
+    "cases",
+    "place",
+    "prepositions",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch01-l04",
+    "a1-ch02-l01"
+  ]
 }

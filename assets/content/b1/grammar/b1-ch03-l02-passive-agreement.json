@@ -4,7 +4,9 @@
   "chapter": 3,
   "lessonOrder": 2,
   "title": "PPP Agreement — Gender & Number",
+  "title_fa": "تطبیق صفت مفعولی — جنسیت و تعداد",
   "grammarPoint": "Past passive participle agreement in all genders and numbers: napisany/napisana/napisane/napisani/napisane — mastering the full agreement paradigm",
+  "grammarPoint_fa": "تطبیق صفت مفعولی: -ny/-na/-ne/-ni/-ne (بسته به جنسیت و تعداد)",
   "explanation": {
     "text": "The PPP must agree with the subject noun in gender and number — just like adjectives.\n\n## Full Agreement Paradigm\n\nUsing 'napisany' (written, from napisać) as example:\n\n| Form | When to use | Example |\n|------|-------------|--------|\n| **napisany** | masculine sg | list jest napisany |\n| **napisana** | feminine sg | wiadomość jest napisana |\n| **napisane** | neuter sg | zadanie jest napisane |\n| **napisani** | virile pl (men/mixed) | teksty są napisane* |\n| **napisane** | non-virile pl | prace są napisane |\n\n*Note: PPP virile plural uses -i/-eni/-eni forms, but in practice non-virile -e is most common.\n\n## More Examples with Different PPP Forms\n\n**zamknięty** (closed, from zamknąć):\n- Sklep jest **zamknięty**. (m)\n- Restauracja jest **zamknięta**. (f)\n- Okno jest **zamknięte**. (n)\n- Drzwi są **zamknięte**. (pl non-virile — drzwi is plural!)\n\n**zaproszony** (invited, from zaprosić):\n- Gość jest **zaproszony**. (m)\n- Gościni jest **zaproszona**. (f)\n- Dziecko jest **zaproszone**. (n)\n- Goście są **zaproszeni**. (virile pl — men guests)\n- Gościnie są **zaproszone**. (non-virile pl — women guests)\n\n## Common Irregular PPPs\n\n| Verb | PPP masculine | Note |\n|------|--------------|------|\n| otworzyć | otwart**y** | stem change |\n| zamknąć | zamknię**ty** | -nąć → -nięty |\n| znaleźć | znalezion**y** | stem change |\n| zbudować | zbudowan**y** | regular -owany |\n| ugotować | ugotowan**y** | regular -owany |\n| zaprosi | zaprosz**ony** | -sz- insertion |\n| zrobić | zrobion**y** | -iony |\n\n## Signs and Notices (real-world usage)\n\n- **ZAMKNIĘTE** — CLOSED\n- **OTWARTE** — OPEN\n- **ZAREZERWOWANE** — RESERVED\n- **SPRZEDANE** — SOLD\n- **ZAJĘTE** — OCCUPIED/TAKEN\n- **WOLNE** — FREE/AVAILABLE",
     "notes": [
@@ -14,13 +16,19 @@
       "The pattern is exactly the same as adjective agreement — if you know adjectives, you know PPP agreement."
     ]
   },
+  "explanation_fa": "صفت مفعولی با اسم تطبیق می‌یابد: مذکر: napisany (نوشته‌شده)، مؤنث: napisana، خنثی: napisane، جمع مذکر جاندار: napisani، سایر جمع: napisane. مثال: Książka jest napisana po polsku (کتاب به لهستانی نوشته شده). List był napisany wczoraj (نامه دیروز نوشته شد).",
   "exercises": [
     {
       "id": "b1-ch03-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Drzwi są ___. (The doors are closed.) [PPP of zamknąć, pl non-virile]",
-      "options": ["zamknięte", "zamknięty", "zamknięta", "zamknięci"],
+      "options": [
+        "zamknięte",
+        "zamknięty",
+        "zamknięta",
+        "zamknięci"
+      ],
       "correctIndex": 0,
       "explanation": "'Drzwi' (doors) is always plural and non-virile → PPP non-virile plural: 'zamknięte'. Never 'zamknięty' (singular masculine). 'Drzwi są zamknięte' = The doors are closed."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Wszyscy goście są ___. (All guests are invited.) [virile plural PPP of zaprosić]",
-      "options": ["zaproszeni", "zaproszone", "zaproszony", "zaproszona"],
+      "options": [
+        "zaproszeni",
+        "zaproszone",
+        "zaproszony",
+        "zaproszona"
+      ],
       "correctIndex": 0,
       "explanation": "'Wszyscy goście' (all guests — mixed/virile plural) → virile PPP: 'zaproszeni'. If only women: 'gościnie są zaproszone' (non-virile). Virile plural -eni/-ani/-ani: zaproszeni, budowani, napisani."
     },
@@ -38,7 +51,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/b1/ch03/b1-ch03-l02-ex03.mp3",
-      "options": ["Wszystkie stoliki w restauracji są zarezerwowane.", "Wszystkie stoliki w restauracji są zarezerwowani.", "Wszystkie stoliki w restauracji są zarezerwowany.", "Wszystkie stoliki w restauracji są zarezerwowana."],
+      "options": [
+        "Wszystkie stoliki w restauracji są zarezerwowane.",
+        "Wszystkie stoliki w restauracji są zarezerwowani.",
+        "Wszystkie stoliki w restauracji są zarezerwowany.",
+        "Wszystkie stoliki w restauracji są zarezerwowana."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Wszystkie stoliki w restauracji są zarezerwowane.' — All tables in the restaurant are reserved. 'Stoliki' (tables, m pl non-virile — objects) → non-virile PPP: 'zarezerwowane'. Never -wani (which would be virile, for male people)."
     },
@@ -47,7 +65,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Obiad jest ___. (Dinner is cooked/ready.) [PPP of ugotować, neuter]",
-      "options": ["ugotowany", "ugotowana", "ugotowane", "ugotowani"],
+      "options": [
+        "ugotowany",
+        "ugotowana",
+        "ugotowane",
+        "ugotowani"
+      ],
       "correctIndex": 0,
       "explanation": "'Obiad' = dinner (m) → PPP masculine: 'ugotowany'. Not neuter! 'Obiad' ends in -d but is masculine. 'Obiad jest ugotowany' = dinner is cooked (ready). Compare: 'Zupa jest ugotowana' (zupa = f)."
     },
@@ -56,15 +79,44 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: The project is finished and the report is written. (neuter PPP + masc PPP)",
-      "wordBank": ["Projekt", "jest", "skończony", "skończona", "skończone", "i", "raport", "jest", "napisany", "napisana", "napisane", "."],
+      "wordBank": [
+        "Projekt",
+        "jest",
+        "skończony",
+        "skończona",
+        "skończone",
+        "i",
+        "raport",
+        "jest",
+        "napisany",
+        "napisana",
+        "napisane",
+        "."
+      ],
       "correctSequences": [
-        ["Projekt", "jest", "skończony", "i", "raport", "jest", "napisany", "."]
+        [
+          "Projekt",
+          "jest",
+          "skończony",
+          "i",
+          "raport",
+          "jest",
+          "napisany",
+          "."
+        ]
       ],
       "explanation": "'Projekt jest skończony i raport jest napisany.' — The project is finished and the report is written. 'Projekt' (m) → 'skończony' (PPP masc). 'Raport' (m) → 'napisany' (PPP masc). Both masculine nouns → masculine PPP."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": ["passive-voice", "b1-core", "ppp", "agreement"],
-  "prerequisites": ["b1-ch03-l01"]
+  "tags": [
+    "passive-voice",
+    "b1-core",
+    "ppp",
+    "agreement"
+  ],
+  "prerequisites": [
+    "b1-ch03-l01"
+  ]
 }

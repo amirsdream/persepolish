@@ -3,7 +3,9 @@
   "level": "a1",
   "order": 2,
   "title": "Verb być — Present Tense",
+  "title_fa": "فعل być — زمان حال",
   "explanation": "The verb 'być' (to be) is the most important verb in Polish. Here are all present-tense forms:\n• ja jestem — I am\n• ty jesteś — you are (singular, informal)\n• on/ona/ono jest — he/she/it is\n• my jesteśmy — we are\n• wy jesteście — you are (plural or formal singular)\n• oni/one są — they are\n\nPolish often drops subject pronouns because the verb ending already shows the person. 'Jestem studentem' (I am a student) is more natural than 'Ja jestem studentem'.",
+  "explanation_fa": "صرف کامل فعل być: jestem (من هستم)، jesteś (تو هستی)، jest (او هست)، jesteśmy (ما هستیم)، jesteście (شما هستید)، są (آن‌ها هستند). برای نفی nie اضافه کنید: nie jestem (نیستم). کاربردها: هویت، ملیت، شغل، توصیف.",
   "examples": [
     {
       "polish": "Jestem studentem.",
@@ -26,7 +28,12 @@
       "type": "multiple_choice",
       "id": "a1-g002-ex01",
       "prompt": "Choose the correct form of 'być' for 'She ___ a doctor.'",
-      "options": ["jest", "jestem", "jesteś", "są"],
+      "options": [
+        "jest",
+        "jestem",
+        "jesteś",
+        "są"
+      ],
       "correct_index": 0,
       "explanation": "'Ona jest' — she is. The 3rd person singular form of 'być' is 'jest'."
     },
@@ -35,7 +42,9 @@
       "id": "a1-g002-ex02",
       "prompt": "Complete: 'We ___ from Warsaw.' (my = we)",
       "sentence_template": "My ___ z Warszawy.",
-      "accepted_answers": ["jesteśmy"],
+      "accepted_answers": [
+        "jesteśmy"
+      ],
       "explanation": "'Jesteśmy' is the 1st person plural form of 'być'. It means 'we are'."
     },
     {
@@ -55,8 +64,16 @@
       "type": "sentence_order",
       "id": "a1-g002-ex04",
       "prompt": "Order the words to say 'They are students' (oni = they, studenci = students):",
-      "words": ["są", "studenci", "Oni"],
-      "correct_order": [2, 0, 1],
+      "words": [
+        "są",
+        "studenci",
+        "Oni"
+      ],
+      "correct_order": [
+        2,
+        0,
+        1
+      ],
       "explanation": "Correct: 'Oni są studenci.' — subject (Oni) + verb (są) + predicate noun."
     },
     {
@@ -77,14 +94,21 @@
       "id": "a1-g002-ex06",
       "prompt": "Complete: 'Are you (formal) ready? — Yes, I ___.' (gotowy = ready)",
       "sentence_template": "Tak, ___ gotowy.",
-      "accepted_answers": ["jestem"],
+      "accepted_answers": [
+        "jestem"
+      ],
       "explanation": "'Jestem' is the 1st person singular (ja form) of być. It means 'I am'."
     },
     {
       "type": "multiple_choice",
       "id": "a1-g002-ex07",
       "prompt": "Complete: 'Where ___ the keys?' (klucze = keys)",
-      "options": ["są", "jest", "jestem", "jesteś"],
+      "options": [
+        "są",
+        "jest",
+        "jestem",
+        "jesteś"
+      ],
       "correct_index": 0,
       "explanation": "'Klucze' (keys) is a plural noun, so we use the 3rd person plural form 'są' (are)."
     }

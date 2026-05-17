@@ -4,7 +4,9 @@
   "chapter": 7,
   "lessonOrder": 1,
   "title": "Instrumental Case — Nouns",
+  "title_fa": "حالت ابزاری — اسم‌ها",
   "grammarPoint": "Instrumental case (narzędnik): kim/czym; być + instrumental for professions; z + instrumental",
+  "grammarPoint_fa": "حالت ابزاری مفرد: -em/-iem (مذکر/خنثی)، -ą (مؤنث)",
   "explanation": {
     "text": "The **instrumental case** (narzędnik) is used in several key situations:\n\n1. **After być (to be) — for identity and professions:**\n   - Jestem studentem. = I am a student. (m)\n   - Jestem studentką. = I am a student. (f)\n\n2. **Means/tool ('with what'):**\n   - Piszę długopisem. = I write with a pen.\n   - Jadę autobusem. = I go by bus.\n\n3. **Together with (z + instrumental):**\n   - Idę z przyjacielem. = I'm going with a friend.\n   - Kawa z mlekiem. = Coffee with milk.\n\n**Instrumental singular endings:**\n\n| Gender | Nominative | Instrumental | Rule |\n|--------|-----------|-------------|------|\n| Masculine | -consonant | **-em** | student → studentem, lekarz → lekarzem |\n| Feminine -a | -a | **-ą** | studentka → studentką, kawa → kawą |\n| Neuter -o | -o | **-em** | miasto → miastem, dziecko → dzieckiem |\n\n**Common instrumental forms:**\n- być + instrumental: jestem Polakiem / Polką = I am Polish\n- Jadę pociągiem. = I'm going by train.\n- Płacę kartą. = I'm paying by card.",
     "notes": [
@@ -14,13 +16,19 @@
       "z + instrumental = together with/and: herbata z cytryną = tea with lemon."
     ]
   },
+  "explanation_fa": "حالت ابزاری (narzędnik) برای بیان ابزار، همراهی (z + ابزاری) و هویت (jest + ابزاری) استفاده می‌شود. پسوندهای مفرد: مذکر/خنثی: -em/-iem (chleb → chlebem)، مؤنث: -ą (kawa → kawą). مثال: Jestem studentem (دانشجو هستم)، Piję kawę z mlekiem (قهوه با شیر می‌نوشم).",
   "exercises": [
     {
       "id": "a1-ch07-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Jestem ___ (I am a doctor). [lekarz → instrumental]",
-      "options": ["lekarzem", "lekarz", "lekarza", "lekarzu"],
+      "options": [
+        "lekarzem",
+        "lekarz",
+        "lekarza",
+        "lekarzu"
+      ],
       "correctIndex": 0,
       "explanation": "'Lekarz' (masculine) → instrumental: 'lekarzem'. After 'być', profession takes instrumental: Jestem lekarzem."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Jadę ___ (by train). [pociąg → instrumental]",
       "answer": "pociągiem",
-      "acceptableAnswers": ["pociągiem"],
+      "acceptableAnswers": [
+        "pociągiem"
+      ],
       "hint": "Masculine noun instrumental: -em suffix"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch07/a1-ch07-l01-ex03.mp3",
-      "options": ["Piję kawę z mlekiem.", "Piję kawę z mleko.", "Piję kawę z mleka.", "Piję kawę i mleko."],
+      "options": [
+        "Piję kawę z mlekiem.",
+        "Piję kawę z mleko.",
+        "Piję kawę z mleka.",
+        "Piję kawę i mleko."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Piję kawę z mlekiem.' — I drink coffee with milk. 'Mleko' (neuter) → instrumental 'mlekiem'. 'Z + instrumental' = with."
     },
@@ -47,9 +62,19 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: I am a teacher. [feminine speaker]",
-      "wordBank": ["Jestem", "Jesteś", "nauczycielem", "nauczycielką", "nauczyciel", "nauczycielka"],
+      "wordBank": [
+        "Jestem",
+        "Jesteś",
+        "nauczycielem",
+        "nauczycielką",
+        "nauczyciel",
+        "nauczycielka"
+      ],
       "correctSequences": [
-        ["Jestem", "nauczycielką"]
+        [
+          "Jestem",
+          "nauczycielką"
+        ]
       ],
       "explanation": "'Jestem nauczycielką' = I am a teacher (f). Feminine: nauczycielka → instrumental 'nauczycielką' (-ą). 'Być + instrumental' for identity."
     },
@@ -58,13 +83,26 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Idę do szkoły z ___ (with a friend — f). [przyjaciółka → instrumental]",
-      "options": ["przyjaciółką", "przyjaciółka", "przyjaciółki", "przyjaciółce"],
+      "options": [
+        "przyjaciółką",
+        "przyjaciółka",
+        "przyjaciółki",
+        "przyjaciółce"
+      ],
       "correctIndex": 0,
       "explanation": "'Przyjaciółka' (f, friend) → instrumental: 'przyjaciółką'. 'Z + instrumental' = with. 'Idę z przyjaciółką' = I go with a (female) friend."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["instrumental", "cases", "professions", "a1-core"],
-  "prerequisites": ["a1-ch03-l02", "a1-ch06-l01"]
+  "tags": [
+    "instrumental",
+    "cases",
+    "professions",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch03-l02",
+    "a1-ch06-l01"
+  ]
 }

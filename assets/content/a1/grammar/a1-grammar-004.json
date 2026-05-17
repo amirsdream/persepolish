@@ -3,7 +3,9 @@
   "level": "a1",
   "order": 4,
   "title": "Accusative Case — Direct Objects",
+  "title_fa": "حالت مفعولی — مفعول مستقیم",
   "explanation": "The accusative case (biernik) marks the direct object of verbs like mieć (have), lubić (like), widzieć (see), and jeść (eat). Masculine animate nouns change their ending: pies → psa, kot → kota. Masculine inanimate nouns remain unchanged. Feminine nouns change -a to -ę: kawa → kawę, kobieta → kobietę. Neuter nouns do not change in the accusative singular.",
+  "explanation_fa": "حالت مفعولی (biernik) برای مفعول مستقیم است. تغییرات: مذکر جاندار مثل مضاف‌الیهی (-a)، مذکر غیرجاندار = فاعلی، مؤنث: -a → -ę، خنثی = فاعلی. مثال: Mam brata (برادر دارم)، Widzę kobietę (زن را می‌بینم).",
   "examples": [
     {
       "polish": "Mam kota.",
@@ -40,7 +42,9 @@
       "id": "a1-g004-ex02",
       "prompt": "Complete the sentence using the accusative: 'I like coffee.' (kawa = coffee, feminine)",
       "sentence_template": "Lubię ___.",
-      "accepted_answers": ["kawę"],
+      "accepted_answers": [
+        "kawę"
+      ],
       "explanation": "Feminine nouns ending in -a change to -ę in the accusative: kawa → kawę."
     },
     {
@@ -61,7 +65,9 @@
       "id": "a1-g004-ex04",
       "prompt": "Complete: 'I am eating soup.' (zupa = soup, feminine)",
       "sentence_template": "Jem ___.",
-      "accepted_answers": ["zupę"],
+      "accepted_answers": [
+        "zupę"
+      ],
       "explanation": "'Zupa' is feminine. The accusative form is 'zupę' (change -a to -ę). 'Jeść' (to eat) takes the accusative."
     },
     {
@@ -82,7 +88,9 @@
       "id": "a1-g004-ex06",
       "prompt": "Complete: 'I have a book.' (książka = book, feminine)",
       "sentence_template": "Mam ___.",
-      "accepted_answers": ["książkę"],
+      "accepted_answers": [
+        "książkę"
+      ],
       "explanation": "'Książka' is feminine. Accusative: książkę (-a → -ę)."
     }
   ]

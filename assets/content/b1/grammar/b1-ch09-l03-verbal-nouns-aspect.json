@@ -4,7 +4,9 @@
   "chapter": 9,
   "lessonOrder": 3,
   "title": "Verbal Nouns and Aspect",
+  "title_fa": "اسم مصدر و وجه فعل",
   "grammarPoint": "Aspect distinction in verbal nouns: czytanie (process/imperfective) vs przeczytanie (completion/perfective) — and when each is used",
+  "grammarPoint_fa": "اسم مصدر کامل در برابر ناکامل: różnica między robieniem a zrobieniem",
   "explanation": {
     "text": "Just like verbs, verbal nouns can be formed from **both imperfective and perfective** verbs, and they carry the same aspectual meaning.\n\n## Imperfective vs Perfective Verbal Nouns\n\n| Imperfective verb | Verbal noun (process) | Perfective verb | Verbal noun (completion) |\n|------------------|----------------------|----------------|-------------------------|\n| czytać | **czytanie** | przeczytać | **przeczytanie** |\n| pisać | **pisanie** | napisać | **napisanie** |\n| uczyć się | **uczenie się** | nauczyć się | **nauczenie się** |\n| gotować | **gotowanie** | ugotować | **ugotowanie** |\n| robić | **robienie** | zrobić | **zrobienie** |\n| mówić | **mówienie** | powiedzieć | **powiedzenie** |\n| oglądać | **oglądanie** | obejrzeć | **obejrzenie** |\n| słuchać | **słuchanie** | wysłuchać | **wysłuchanie** |\n\n## When to Use Each\n\n**Imperfective verbal noun** → ongoing process, habit, general activity:\n- *Czytanie* jest zdrowe. (Reading [in general] is healthy.)\n- Lubię *gotowanie*. (I like cooking [as an activity].)\n- *Uczenie się* języków wymaga czasu. (Learning languages [process] takes time.)\n\n**Perfective verbal noun** → completed action, result, single event:\n- *Przeczytanie* tej książki zajęło mi tydzień. (Reading [= completing] this book took me a week.)\n- Po *ugotowaniu* obiadu poszłam na spacer. (After cooking [= finishing] dinner I went for a walk.)\n- *Napisanie* raportu jest moim priorytetem. (Writing [= completing] the report is my priority.)\n\n## After Prepositions — Aspect Matters\n\n**Po + locative** (after doing something) → typically **perfective** (completed action):\n- Po *przeczytaniu* książki... (After reading [finishing] the book...)\n- Po *ugotowaniu* obiadu... (After cooking [finishing] dinner...)\n- Po *zrobieniu* zadania... (After doing [finishing] the task...)\n\n**Przed + instrumental** (before doing) → can be either:\n- Przed *czytaniem* (before reading — general)\n- Przed *przeczytaniem* (before finishing reading)\n\n**Przez + accusative** (by means of / for duration) → **imperfective**:\n- Uczę się przez *słuchanie*. (I learn through [repeated] listening.)\n- Spędziłem godzinę na *czytaniu*. (I spent an hour on reading [process].)\n\n## Aspect with Negation After Verbal Nouns\n\nThe verbal noun takes genitive after negation:\n- Nie lubię *czytania*. (I don't like reading.)\n- Nie lubię *czekania*. (I don't like waiting.)\n- Nie pamiętam *napisania* tego listu. (I don't remember writing [completing] that letter.)",
     "notes": [
@@ -15,13 +17,19 @@
       "When in doubt about which to use: if you'd use imperfective verb in context, use imperfective verbal noun — and vice versa."
     ]
   },
+  "explanation_fa": "اسم مصدر وجه را حفظ می‌کند: robienie (ناکامل — فرآیند): Lubię robienie pizzy (دوست دارم پیتزا درست کنم). zrobienie (کامل — نتیجه): Zrobienie tego zajęło godzinę (انجام این یک ساعت طول کشید). این تمایز در جملات رسمی و نوشتار علمی اهمیت دارد.",
   "exercises": [
     {
       "id": "b1-ch09-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Po ___ obiadu poszłam na spacer. (After cooking dinner I went for a walk.) [po + completion = perfective]",
-      "options": ["ugotowaniu", "gotowaniu", "ugotowanie", "gotowanie"],
+      "options": [
+        "ugotowaniu",
+        "gotowaniu",
+        "ugotowanie",
+        "gotowanie"
+      ],
       "correctIndex": 0,
       "explanation": "'Po' + locative. After 'po' = after completing → use PERFECTIVE verbal noun. 'Ugotować' (perfective) → 'ugotowanie' → locative = 'ugotowaniu'. 'Po ugotowaniu obiadu poszłam na spacer.' 'Gotowaniu' (from imperfective 'gotować') would mean during/in the process of cooking — less natural here."
     },
@@ -30,7 +38,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "___ języków obcych jest bardzo ważne. (Learning foreign languages is very important.) [general habit = imperfective]",
-      "options": ["Uczenie się", "Nauczenie się", "Nauczyć się", "Uczyć się"],
+      "options": [
+        "Uczenie się",
+        "Nauczenie się",
+        "Nauczyć się",
+        "Uczyć się"
+      ],
       "correctIndex": 0,
       "explanation": "General/habitual activity → IMPERFECTIVE verbal noun. 'Uczyć się' (imperfective) → 'uczenie się'. 'Uczenie się języków obcych jest ważne.' = Learning [in general] languages is important. 'Nauczenie się' (perfective) would imply completing the learning of specific languages — not used for general statements."
     },
@@ -40,7 +53,9 @@
       "order": 3,
       "prompt": "___ tej książki zajęło mi dwa tygodnie. (Reading [completing] this book took me two weeks.) [przeczytać → perfective verbal noun, nominative subject]",
       "answer": "Przeczytanie",
-      "acceptableAnswers": ["Przeczytanie"],
+      "acceptableAnswers": [
+        "Przeczytanie"
+      ],
       "explanation": "'Przeczytać' (perfective, to read/finish reading) → verbal noun = 'przeczytanie'. Subject of sentence → nominative: 'Przeczytanie'. 'Przeczytanie tej książki zajęło mi dwa tygodnie.' = Reading [= completing] this book took me two weeks. 'Czytanie tej książki zajęło...' would also be grammatical but implies the process rather than completion."
     },
     {
@@ -48,7 +63,12 @@
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/b1/ch09/b1-ch09-l03-ex04.mp3",
-      "options": ["Po napisaniu raportu możemy iść do domu.", "Po pisaniu raportu możemy iść do domu.", "Po napisanie raportu możemy iść do domu.", "Po napisaniu raportu możemy pojechać do domu."],
+      "options": [
+        "Po napisaniu raportu możemy iść do domu.",
+        "Po pisaniu raportu możemy iść do domu.",
+        "Po napisanie raportu możemy iść do domu.",
+        "Po napisaniu raportu możemy pojechać do domu."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Po napisaniu raportu możemy iść do domu.' — After writing [finishing] the report we can go home. 'Napisać' (perf) → 'napisanie' → po + locative: 'po napisaniu'. 'Po pisaniu' (imperfective) = while/during writing, not after finishing. 'Iść do domu' = to go home (on foot). Correct: 'po napisaniu raportu'."
     },
@@ -57,15 +77,47 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: I like cooking, but finishing dinner took three hours. [gotowanie vs ugotowanie, zajęło]",
-      "wordBank": ["Lubię", "gotowanie", "ugotowanie", "ale", "obiadu", "obiad", "zajęło", "mi", "trzy", "godziny", "godzin", "."],
+      "wordBank": [
+        "Lubię",
+        "gotowanie",
+        "ugotowanie",
+        "ale",
+        "obiadu",
+        "obiad",
+        "zajęło",
+        "mi",
+        "trzy",
+        "godziny",
+        "godzin",
+        "."
+      ],
       "correctSequences": [
-        ["Lubię", "gotowanie", "ale", "ugotowanie", "obiadu", "zajęło", "mi", "trzy", "godziny", "."]
+        [
+          "Lubię",
+          "gotowanie",
+          "ale",
+          "ugotowanie",
+          "obiadu",
+          "zajęło",
+          "mi",
+          "trzy",
+          "godziny",
+          "."
+        ]
       ],
       "explanation": "'Lubię gotowanie, ale ugotowanie obiadu zajęło mi trzy godziny.' — I like cooking, but finishing dinner took me three hours. 'Lubię gotowanie' = I like cooking (general activity → imperfective 'gotowanie'). 'Ugotowanie obiadu zajęło mi...' = completing/finishing dinner took (perfective 'ugotowanie' → specific event). 'Obiadu' = genitive after verbal noun (ugotowanie czegoś). 'Trzy godziny' = three hours (accusative after time expression)."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 14,
-  "tags": ["verbal-nouns", "aspect", "b1-core", "imperfective", "perfective"],
-  "prerequisites": ["b1-ch09-l02"]
+  "tags": [
+    "verbal-nouns",
+    "aspect",
+    "b1-core",
+    "imperfective",
+    "perfective"
+  ],
+  "prerequisites": [
+    "b1-ch09-l02"
+  ]
 }

@@ -3,7 +3,9 @@
   "level": "a2",
   "order": 5,
   "title": "Instrumental Case — With & By Means Of",
+  "title_fa": "حالت ابزاری — با و به وسیله",
   "explanation": "The instrumental case (narzędnik) is used: (1) after the preposition 'z' meaning 'with/together with' (Idę z Anną — I'm going with Anna); (2) to express the means or tool of an action (Piszę ołówkiem — I write with a pencil); (3) after the verb 'być' (to be) in predicate expressions for professions and states (Jestem studentem — I am a student); (4) after certain other prepositions: przed (in front of), za (behind), między (between), nad (above), pod (under). Instrumental endings: masculine/neuter -em/-iem; feminine -ą.",
+  "explanation_fa": "حالت ابزاری (narzędnik) مفرد: مذکر/خنثی: -em/-iem (studentem)؛ مؤنث: -ą (kobietą). جمع: -ami (studentami، kobietami). کاربرد: همراهی (z + ابزاری)، ابزار (piszę ołówkiem)، هویت (jest studentem)، پس از być در گذشته/آینده.",
   "examples": [
     {
       "polish": "Idę z przyjacielem.",
@@ -40,7 +42,9 @@
       "id": "a2-g005-ex02",
       "prompt": "Complete: 'I am a teacher.' (nauczyciel = teacher, m — instrumental: nauczycielem)",
       "sentence_template": "Jestem ___.",
-      "accepted_answers": ["nauczycielem"],
+      "accepted_answers": [
+        "nauczycielem"
+      ],
       "explanation": "After 'być' (to be) in predicate position, professions go in the instrumental: nauczyciel → nauczycielem."
     },
     {
@@ -61,7 +65,9 @@
       "id": "a2-g005-ex04",
       "prompt": "Complete: 'The cat sits under the table.' (stół = table, m — instrumental: stołem)",
       "sentence_template": "Kot siedzi pod ___.",
-      "accepted_answers": ["stołem"],
+      "accepted_answers": [
+        "stołem"
+      ],
       "explanation": "The preposition 'pod' (under/below) takes the instrumental case: stół → stołem."
     },
     {

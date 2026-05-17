@@ -4,7 +4,9 @@
   "chapter": 8,
   "lessonOrder": 2,
   "title": "Direction with do + Genitive",
+  "title_fa": "جهت با do + مضاف‌الیهی",
   "grammarPoint": "Expressing destination: do + genitive (jadę do Warszawy, idę do sklepu, wracam do domu)",
+  "grammarPoint_fa": "حرف اضافه do (به سمت) + حالت مضاف‌الیهی برای بیان مقصد",
   "explanation": {
     "text": "To say where you're going **to** in Polish, use **do + genitive case**.\n\n**do** = to, into (for destinations — cities, buildings, rooms)\n\n**Genitive singular endings (reminder):**\n\n| Gender | Nominative | Genitive | Examples |\n|--------|-----------|---------|----------|\n| Masculine | -consonant | **-a / -u** | sklep → sklepu, Kraków → Krakowa |\n| Feminine | -a | **-y / -i** | Polska → Polski, szkoła → szkoły |\n| Neuter | -o | **-a** | miasto → miasta, kino → kina |\n\n**Examples with do:**\n- Jadę **do Warszawy**. = I'm going to Warsaw. (Warszawa → Warszawy)\n- Idę **do sklepu**. = I'm going to the shop. (sklep → sklepu)\n- Wracam **do domu**. = I'm going back home. (dom → domu)\n- Idę **do szkoły**. = I'm going to school. (szkoła → szkoły)\n- Jadę **do Krakowa**. = I'm going to Kraków. (Kraków → Krakowa)\n- Idę **do kina**. = I'm going to the cinema. (kino → kina)\n\n**Common vs. na:**\n- **do** = most destinations (buildings, cities, countries)\n- **na** = open places and fixed expressions: na rynek, na pocztę, na dworzec",
     "notes": [
@@ -14,13 +16,19 @@
       "'Do domu' = home (going home); 'w domu' = at home (being there). Key distinction!"
     ]
   },
+  "explanation_fa": "برای بیان مقصد از do + حالت مضاف‌الیهی استفاده می‌شود: Idę do szkoły (دارم می‌روم مدرسه)، Jadę do Warszawy (دارم می‌روم ورشو). مقایسه: w + مکانی برای موقعیت (Jestem w szkole — در مدرسه هستم) در برابر do + مضاف‌الیهی برای حرکت.",
   "exercises": [
     {
       "id": "a1-ch08-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Jadę ___ (to Warsaw). [Warszawa → genitive]",
-      "options": ["do Warszawy", "do Warszawa", "w Warszawie", "na Warszawę"],
+      "options": [
+        "do Warszawy",
+        "do Warszawa",
+        "w Warszawie",
+        "na Warszawę"
+      ],
       "correctIndex": 0,
       "explanation": "'Do + genitive': Warszawa (f) → Warszawy. 'Jadę do Warszawy' = I'm going to Warsaw."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Idę do ___ (to the cinema). [kino → genitive]",
       "answer": "kina",
-      "acceptableAnswers": ["kina"],
+      "acceptableAnswers": [
+        "kina"
+      ],
       "hint": "Neuter genitive: -o → -a"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch08/a1-ch08-l02-ex03.mp3",
-      "options": ["Wracam do domu o szóstej.", "Wracam do dom o szóstej.", "Wracam w domu o szóstej.", "Wracam do domie o szóstej."],
+      "options": [
+        "Wracam do domu o szóstej.",
+        "Wracam do dom o szóstej.",
+        "Wracam w domu o szóstej.",
+        "Wracam do domie o szóstej."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Wracam do domu o szóstej.' — I come home at six. 'Dom' (m) → genitive 'domu'. 'Do domu' = home (direction)."
     },
@@ -47,10 +62,27 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: I'm going to Poland.",
-      "wordBank": ["Jadę", "Idę", "do", "w", "Polski", "Polska", "Polsce", "Poland"],
+      "wordBank": [
+        "Jadę",
+        "Idę",
+        "do",
+        "w",
+        "Polski",
+        "Polska",
+        "Polsce",
+        "Poland"
+      ],
       "correctSequences": [
-        ["Jadę", "do", "Polski"],
-        ["Idę", "do", "Polski"]
+        [
+          "Jadę",
+          "do",
+          "Polski"
+        ],
+        [
+          "Idę",
+          "do",
+          "Polski"
+        ]
       ],
       "explanation": "'Jadę do Polski' = I'm going to Poland. 'Polska' (f) → genitive 'Polski'. 'Do + genitive' for country destinations."
     },
@@ -59,13 +91,27 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "What is the difference? Jestem w domu vs. Idę do domu.",
-      "options": ["I'm at home vs. I'm going home.", "I'm going home vs. I'm at home.", "I live at home vs. I leave home.", "I was home vs. I went home."],
+      "options": [
+        "I'm at home vs. I'm going home.",
+        "I'm going home vs. I'm at home.",
+        "I live at home vs. I leave home.",
+        "I was home vs. I went home."
+      ],
       "correctIndex": 0,
       "explanation": "'Jestem w domu' = I am at home (location, locative). 'Idę do domu' = I'm going home (direction, genitive). This w/do distinction is essential!"
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 9,
-  "tags": ["genitive", "direction", "prepositions", "do", "a1-core"],
-  "prerequisites": ["a1-ch08-l01", "a1-ch02-l04"]
+  "tags": [
+    "genitive",
+    "direction",
+    "prepositions",
+    "do",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch08-l01",
+    "a1-ch02-l04"
+  ]
 }

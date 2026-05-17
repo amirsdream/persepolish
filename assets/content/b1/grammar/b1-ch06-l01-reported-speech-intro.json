@@ -4,7 +4,9 @@
   "chapter": 6,
   "lessonOrder": 1,
   "title": "Reported Speech — mówić że",
+  "title_fa": "نقل قول غیرمستقیم — mówić że",
   "grammarPoint": "Indirect/reported speech in Polish using mówić/powiedzieć że + subordinate clause — how tense shifts work (or don't) in Polish reported speech",
+  "grammarPoint_fa": "نقل قول با mówić/powiedzieć że + جمله فرعی",
   "explanation": {
     "text": "**Reported speech** (mowa zależna) is used to report what someone said, thought, or believed. Polish reported speech is simpler than English — there is **no automatic tense shift**.\n\n## Basic Structure: mówić/powiedzieć że + clause\n\n**Direct speech** → **Reported speech**:\n\n| Direct speech | Reported speech |\n|--------------|----------------|\n| \"Jestem zmęczony.\" | Powiedział, że jest zmęczony. |\n| \"Zjem jutro obiad.\" | Powiedziała, że zje jutro obiad. |\n| \"Byłem w Paryżu.\" | Powiedział, że był w Paryżu. |\n| \"Lubię muzykę.\" | Mówi, że lubi muzykę. |\n\n## No Tense Shift (unlike English!)\n\nIn English: 'He said he WAS tired' (was, not is — tense shifts back)\nIn Polish: Powiedział, że jest zmęczony. (jest — NO shift! Present stays present)\n\n**The tense in the że-clause stays the same as in the original speech**:\n- Direct: \"Jestem głodny.\" → Reported: Powiedział, że **jest** głodny. (still present)\n- Direct: \"Byłem chory.\" → Reported: Powiedział, że **był** chory. (still past)\n- Direct: \"Pojadę jutro.\" → Reported: Powiedział, że **pojedzie** jutro. (still future)\n\n## Common Reporting Verbs\n\n| Verb | Meaning | Usage |\n|------|---------|-------|\n| **powiedzieć** (perf) | to say (once) | Powiedział, że... |\n| **mówić** (imperf) | to say/tell | Mówi, że... |\n| **twierdzić** | to claim/maintain | Twierdzi, że... |\n| **oznajmić** | to announce | Oznajmił, że... |\n| **dodać** | to add | Dodała, że... |\n| **wyjaśnić** | to explain | Wyjaśniła, że... |\n| **przyznać** | to admit | Przyznał, że... |\n| **zapewnić** | to assure | Zapewniła, że... |\n| **stwierdzić** | to state | Stwierdził, że... |\n\n## Pronoun Shifts\n\nUnlike tense, **pronouns DO change** in reported speech:\n- Direct: \"**Ja** jestem gotowy.\" → Reported: Powiedział, że **on** jest gotowy.\n- Direct: \"**Ty** jesteś mądra.\" → Reported: Powiedział mi, że **ja** jestem mądra.\n- Direct: \"**My** chcemy pojechać.\" → Reported: Powiedzieli, że **oni** chcą pojechać.\n\n## że vs żeby\n\n- **że** = that (for statements/facts): Powiedział, **że** jest chory.\n- **żeby** = that (for wishes/commands): Powiedział, **żeby** wróciłem. (He said for me to come back.)\n\n**że after**: mówić, twierdzić, wiedzieć, myśleć, sądzić, uważać, oznajmić\n**żeby after**: prosić, kazać, chcieć żeby, mówić (commanding), powiedzieć (requesting)\n\n## Że-clause Word Order\n\nThe że-clause follows normal Polish word order (relatively free, verb in second position typical):\n- Powiedział, że **Ania jutro przyjedzie**.\n- Powiedział, że **jutro Ania przyjedzie**.\n- Powiedział, że **Ania przyjedzie jutro**. — all acceptable",
     "notes": [
@@ -14,13 +16,19 @@
       "Key reporting verbs: powiedzieć (perf, one time), mówić (imperf, ongoing/habitual), twierdzić (claim), stwierdzić (state formally)."
     ]
   },
+  "explanation_fa": "برای نقل قول غیرمستقیم از że (که) استفاده می‌شود: مستقیم: «Jestem zmęczony» (خسته‌ام). غیرمستقیم: Powiedział, że jest zmęczony (گفت که خسته است). توجه: ضمایر و زمان تغییر می‌کنند. «Idę do domu» → Powiedział, że idzie do domu (گفت که دارد می‌رود خانه).",
   "exercises": [
     {
       "id": "b1-ch06-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Jan said: 'Jestem zmęczony.' → Jan powiedział, że ___ zmęczony.",
-      "options": ["jest", "był", "będzie", "byłby"],
+      "options": [
+        "jest",
+        "był",
+        "będzie",
+        "byłby"
+      ],
       "correctIndex": 0,
       "explanation": "Polish does NOT shift tenses in reported speech! Direct: 'Jestem zmęczony' (present) → Reported: '...że jest zmęczony' (still present). Unlike English ('he said he WAS tired'), Polish keeps the original tense: 'Powiedział, że jest zmęczony.' = He said he is/was tired."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Maria said: 'Pojadę do Paryża.' → Maria powiedziała, że ___ do Paryża.",
-      "options": ["pojedzie", "pojechała", "jedzie", "pojadę"],
+      "options": [
+        "pojedzie",
+        "pojechała",
+        "jedzie",
+        "pojadę"
+      ],
       "correctIndex": 0,
       "explanation": "No tense shift: Direct 'Pojadę' (1sg future) → Reported '...że pojedzie' (3sg future — pronoun shifts from 1sg 'ja' to 3sg 'ona', so verb form changes accordingly, but tense stays future!). Reported: 'Maria powiedziała, że pojedzie do Paryża.'"
     },
@@ -39,7 +52,9 @@
       "order": 3,
       "prompt": "Report this statement: 'Byłem w Berlinie.' (He said he had been in Berlin.) → Powiedział, że ___ w Berlinie.",
       "answer": "był",
-      "acceptableAnswers": ["był"],
+      "acceptableAnswers": [
+        "był"
+      ],
       "explanation": "Direct: 'Byłem w Berlinie' (1sg m past) → Reported: '...że był w Berlinie' (3sg m past — pronoun shifts: byłem → był). Tense stays past. 'Powiedział, że był w Berlinie.' = He said he had been in Berlin. Polish past stays past in reported speech."
     },
     {
@@ -47,7 +62,12 @@
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/b1/ch06/b1-ch06-l01-ex04.mp3",
-      "options": ["Ona twierdzi, że nie wie nic o tym.", "Ona twierdzi, że nie wiedziała nic o tym.", "Ona twierdziła, że nie wie nic o tym.", "Ona twierdzi, że nie będzie wiedzieć nic o tym."],
+      "options": [
+        "Ona twierdzi, że nie wie nic o tym.",
+        "Ona twierdzi, że nie wiedziała nic o tym.",
+        "Ona twierdziła, że nie wie nic o tym.",
+        "Ona twierdzi, że nie będzie wiedzieć nic o tym."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Ona twierdzi, że nie wie nic o tym.' — She claims she knows nothing about it. 'Twierdzi' = she claims (present, imperfective). 'Że nie wie' = that she doesn't know (present — no tense shift!). 'Nic o tym' = nothing about it."
     },
@@ -56,15 +76,39 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build reported speech: He said (that) he loves Poland. [powiedzieć, kochać, Polska]",
-      "wordBank": ["Powiedział", "Powiedziała", "że", "żeby", "kocha", "kochał", "kochałby", "Polskę", "Polsce", "."],
+      "wordBank": [
+        "Powiedział",
+        "Powiedziała",
+        "że",
+        "żeby",
+        "kocha",
+        "kochał",
+        "kochałby",
+        "Polskę",
+        "Polsce",
+        "."
+      ],
       "correctSequences": [
-        ["Powiedział", "że", "kocha", "Polskę", "."]
+        [
+          "Powiedział",
+          "że",
+          "kocha",
+          "Polskę",
+          "."
+        ]
       ],
       "explanation": "'Powiedział, że kocha Polskę.' — He said he loves Poland. 'Że' = that (for statements). 'Kocha' = he loves (present — NO tense shift, stays present!). 'Polskę' = Poland in accusative (after kochać). 'Powiedział, że kochał' would imply past love — only use if original was past tense."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 13,
-  "tags": ["reported-speech", "b1-core", "że", "mowa-zalezna"],
-  "prerequisites": ["b1-ch05-l04"]
+  "tags": [
+    "reported-speech",
+    "b1-core",
+    "że",
+    "mowa-zalezna"
+  ],
+  "prerequisites": [
+    "b1-ch05-l04"
+  ]
 }

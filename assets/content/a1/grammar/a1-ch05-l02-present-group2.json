@@ -4,7 +4,9 @@
   "chapter": 5,
   "lessonOrder": 2,
   "title": "Present Tense — Group 2 Verbs (-ę / -isz / -ysz)",
+  "title_fa": "زمان حال — گروه ۲ (-ę/-isz/-ysz)",
   "grammarPoint": "Group 2 verbs: mówić, robić, chodzić, uczyć się — present tense conjugation",
+  "grammarPoint_fa": "صرف افعال گروه دوم: mówić، robić، pisać، czytać",
   "explanation": {
     "text": "**Group 2** verbs have the pattern **-ę / -isz (or -ysz)** in the present tense. The infinitive typically ends in **-ić** or **-yć**.\n\n**Endings for Group 2 (-ę/-isz):**\n\n| Person | Singular | Plural |\n|--------|----------|--------|\n| 1st (ja) | **-ę** | **-imy / -ymy** |\n| 2nd (ty) | **-isz / -ysz** | **-icie / -ycie** |\n| 3rd (on/ona) | **-i / -y** | **-ią** |\n\n**Key Group 2 verbs:**\n\n| Infinitive | Meaning | ja form | ty form |\n|-----------|---------|---------|--------|\n| mówić | to speak | mówię | mówisz |\n| robić | to do/make | robię | robisz |\n| chodzić | to go (on foot, habitually) | chodzę | chodzisz |\n| uczyć się | to learn/study | uczę się | uczysz się |\n| lubić | to like | lubię | lubisz |\n| prosić | to ask/request | proszę | prosisz |\n| wozić | to carry/transport | wożę | wozisz |\n\n**Examples:**\n- Mówię po polsku. = I speak Polish.\n- Co robisz? = What are you doing?\n- Chodzę do szkoły. = I go to school (habitually).\n- Uczę się polskiego. = I am learning Polish.",
     "notes": [
@@ -14,13 +16,19 @@
       "chodzić = habitual/regular motion (walk, go regularly); iść = motion happening right now."
     ]
   },
+  "explanation_fa": "افعال گروه دوم پسوندهای -ę، -isz/-ysz، -i/-y، -imy/-ymy، -icie/-ycie، -ią دارند. مثال: mówić (گفتن) → mówię، mówisz، mówi، mówimy، mówicie، mówią. مصدرهای -ić/-yć اغلب به این گروه تعلق دارند.",
   "exercises": [
     {
       "id": "a1-ch05-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Choose the correct form: Ja ___ po angielsku. (I speak English.)",
-      "options": ["mówię", "mówisz", "mówi", "mówimy"],
+      "options": [
+        "mówię",
+        "mówisz",
+        "mówi",
+        "mówimy"
+      ],
       "correctIndex": 0,
       "explanation": "'Mówić' Group 2: ja → mówię. 'Mówię po angielsku' = I speak English."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Co ty ___? (What are you doing?) [robić, ty form]",
       "answer": "robisz",
-      "acceptableAnswers": ["robisz"],
+      "acceptableAnswers": [
+        "robisz"
+      ],
       "hint": "Group 2, ty form: -isz"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch05/a1-ch05-l02-ex03.mp3",
-      "options": ["Uczę się polskiego.", "Uczysz się polskiego.", "Uczy się polskiego.", "Uczymy się polskiego."],
+      "options": [
+        "Uczę się polskiego.",
+        "Uczysz się polskiego.",
+        "Uczy się polskiego.",
+        "Uczymy się polskiego."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Uczę się polskiego.' — I am learning Polish. 'Uczyć się' → uczę się (Group 2, ja -ę). 'Polskiego' is genitive (language after uczyć się)."
     },
@@ -47,10 +62,26 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: They like coffee.",
-      "wordBank": ["Oni", "One", "lubią", "lubię", "kawę", "kawa", "kawy"],
+      "wordBank": [
+        "Oni",
+        "One",
+        "lubią",
+        "lubię",
+        "kawę",
+        "kawa",
+        "kawy"
+      ],
       "correctSequences": [
-        ["Oni", "lubią", "kawę"],
-        ["One", "lubią", "kawę"]
+        [
+          "Oni",
+          "lubią",
+          "kawę"
+        ],
+        [
+          "One",
+          "lubią",
+          "kawę"
+        ]
       ],
       "explanation": "'Oni/One lubią kawę' = They like coffee. 'Lubić' Group 2: oni/one → lubią (-ią). 'Kawę' = accusative of kawa."
     },
@@ -59,13 +90,25 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Which form is correct for 'we go to school' (habitually)?",
-      "options": ["Chodzimy do szkoły.", "Chodzę do szkoły.", "Chodzą do szkoły.", "Chodzicie do szkoły."],
+      "options": [
+        "Chodzimy do szkoły.",
+        "Chodzę do szkoły.",
+        "Chodzą do szkoły.",
+        "Chodzicie do szkoły."
+      ],
       "correctIndex": 0,
       "explanation": "'Chodzimy do szkoły' = We go to school. 'Chodzić' Group 2: my → chodzimy (-imy). 'Do szkoły' = genitive (destination)."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["present-tense", "group2-verbs", "conjugation", "a1-core"],
-  "prerequisites": ["a1-ch05-l01"]
+  "tags": [
+    "present-tense",
+    "group2-verbs",
+    "conjugation",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch05-l01"
+  ]
 }

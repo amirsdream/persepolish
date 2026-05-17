@@ -3,7 +3,9 @@
   "level": "a1",
   "order": 7,
   "title": "Numbers & Counting — Numerals 1–100",
+  "title_fa": "اعداد و شمارش — ۱ تا ۱۰۰",
   "explanation": "Polish numerals are complex — they affect the case of the nouns that follow them. After 1 (jeden/jedna/jedno), the nominative is used. After 2, 3, 4 (dwa, trzy, cztery), the nominative plural is used. After 5 and higher, the genitive plural is required. For telling age, use 'Mam X lat' (I have X years). Numerals 11–19 are formed with -naście. Tens: dwadzieścia (20), trzydzieści (30), czterdzieści (40), pięćdziesiąt (50), sześćdziesiąt (60), siedemdziesiąt (70), osiemdziesiąt (80), dziewięćdziesiąt (90), sto (100).",
+  "explanation_fa": "اعداد ۱-۱۰: jeden، dwa، trzy، cztery، pięć، sześć، siedem، osiem، dziewięć، dziesięć. دهگان: dwadzieścia، trzydzieści، czterdzieści تا dziewięćdziesiąt. قواعد: 1 + فاعلی، 2-4 + فاعلی جمع، 5+ + مضاف‌الیهی جمع.",
   "examples": [
     {
       "polish": "Mam dwadzieścia lat.",
@@ -40,7 +42,9 @@
       "id": "a1-g007-ex02",
       "prompt": "Write the Polish number: 'fifteen' (15)",
       "sentence_template": "Mam ___ złotych.",
-      "accepted_answers": ["piętnaście"],
+      "accepted_answers": [
+        "piętnaście"
+      ],
       "explanation": "15 = piętnaście. Numbers 11–19 are formed with -naście: jedenaście, dwanaście, trzynaście, czternaście, piętnaście..."
     },
     {
@@ -61,7 +65,9 @@
       "id": "a1-g007-ex04",
       "prompt": "Complete: 'This costs ten zloty.' (10 = dziesięć)",
       "sentence_template": "To kosztuje ___ złotych.",
-      "accepted_answers": ["dziesięć"],
+      "accepted_answers": [
+        "dziesięć"
+      ],
       "explanation": "'Dziesięć' = 10. After 5 and above, 'złoty' takes the genitive plural form 'złotych'."
     },
     {
@@ -82,7 +88,10 @@
       "id": "a1-g007-ex06",
       "prompt": "Complete: 'I have two brothers.' (brat = brother; 2 = dwa/dwóch; nom. plural: bracia)",
       "sentence_template": "Mam ___ braci.",
-      "accepted_answers": ["dwóch", "dwu"],
+      "accepted_answers": [
+        "dwóch",
+        "dwu"
+      ],
       "explanation": "After 2 with masculine personal nouns in the accusative, we use 'dwóch' + genitive plural: dwóch braci."
     }
   ]

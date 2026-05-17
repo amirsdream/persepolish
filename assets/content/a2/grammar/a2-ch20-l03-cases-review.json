@@ -4,7 +4,9 @@
   "chapter": 20,
   "lessonOrder": 3,
   "title": "Cases Review — All 7 Cases",
+  "title_fa": "مرور حالت‌ها — هفت حالت",
   "grammarPoint": "Complete review of all 7 Polish cases: functions, key prepositions, and most common patterns encountered in A1–A2",
+  "grammarPoint_fa": "مرور جامع هفت حالت دستوری لهستانی و کاربرد هر کدام",
   "explanation": {
     "text": "Polish has 7 grammatical cases. Here is a complete A2-level review.\n\n## The 7 Cases at a Glance\n\n| Case | Polish Name | Core Function | Key Prepositions |\n|------|------------|--------------|------------------|\n| **Nominative** | Mianownik | Subject | — |\n| **Genitive** | Dopełniacz | Possession, negation, after numbers | do, z, bez, dla, od, po, koło |\n| **Dative** | Celownik | Indirect object, beneficiary | dla (purpose), — |\n| **Accusative** | Biernik | Direct object, direction | na, w (direction), przez, za |\n| **Instrumental** | Narzędnik | With, by means of, profession | z, przed, za, między, nad |\n| **Locative** | Miejscownik | Location (always with preposition) | w, na, przy, o |\n| **Vocative** | Wołacz | Direct address | — |\n\n## Key Patterns (Summary)\n\n### GENITIVE — most frequent case\n- Possession: książka **mamy** (mum's book)\n- After negation: nie ma **czasu** (no time)\n- After numbers 5+: pięć **dni** (five days)\n- After do/z/bez/dla/od/po/koło\n- Genitive plural = extremely common: dużo **studentów**\n\n### DATIVE — the 'to/for' case\n- Indirect object: Daję **mamie** prezent. (I give mum a present)\n- Podoba **mi się** (I like it) — dative of interest\n- Zimno **mi** jest. (I'm cold) — dative of feeling\n\n### ACCUSATIVE — direct object + direction\n- Direct object: Czytam **książkę**. (I'm reading a book)\n- With na/w for direction: idę **na** rynek (to the market square)\n- Duration: przez **tydzień** (for a week)\n\n### INSTRUMENTAL — 'with', tools, professions\n- With: kawa **z mlekiem** (coffee with milk)\n- Profession after być: Jestem **studentem**. (I am a student)\n- Manner: **pociągiem** (by train)\n\n### LOCATIVE — location only (always with preposition)\n- w **Warszawie** (in Warsaw)\n- na **stole** (on the table)\n- o **ósmej** (at eight o'clock)\n\n## Noun Endings Quick Reference (masculine example: student)\n\n| Case | Singular | Plural |\n|------|---------|-------|\n| Nom | student | studenci |\n| Gen | student**a** | student**ów** |\n| Dat | student**owi** | student**om** |\n| Acc | student**a** (animate) | student**ów** |\n| Instr | student**em** | student**ami** |\n| Loc | student**cie** | student**ach** |\n| Voc | student**cie** | studenci |",
     "notes": [
@@ -14,13 +16,19 @@
       "Instrumental after 'być' for profession: 'Jestem nauczycielem' (not nominative after być!)."
     ]
   },
+  "explanation_fa": "هفت حالت: فاعلی (mianownik) — فاعل. مضاف‌الیهی (dopełniacz) — مالکیت، نبود، بعد از nie. دادی (celownik) — مفعول غیرمستقیم. مفعولی (biernik) — مفعول مستقیم. ابزاری (narzędnik) — ابزار، همراهی، هویت. مکانی (miejscownik) — مکان با حرف اضافه. ندایی (wołacz) — خطاب مستقیم.",
   "exercises": [
     {
       "id": "a2-ch20-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Nie ma ___ w domu. (There is no time at home.) [genitive after negation]",
-      "options": ["czasu", "czas", "czasowi", "czasie"],
+      "options": [
+        "czasu",
+        "czas",
+        "czasowi",
+        "czasie"
+      ],
       "correctIndex": 0,
       "explanation": "After negation 'nie ma' → genitive: czas (m) → genitive: czasu. 'Nie ma czasu' = There is no time. Contrast: 'Jest czas' (nominative). Negation always triggers genitive of the object."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Daję ___ prezent. (I'm giving mum a present.) [dative — indirect object]",
-      "options": ["mamie", "mama", "mamy", "mamą"],
+      "options": [
+        "mamie",
+        "mama",
+        "mamy",
+        "mamą"
+      ],
       "correctIndex": 0,
       "explanation": "Indirect object (to whom?) → dative: mama → mamie (f dat: -a → -ie). 'Daję mamie prezent' = I give mum a present. 'Mamy' = genitive (mum's). 'Mamą' = instrumental (with mum)."
     },
@@ -38,7 +51,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch20/a2-ch20-l03-ex03.mp3",
-      "options": ["Jestem studentem na Uniwersytecie Jagiellońskim.", "Jestem student na Uniwersytecie Jagiellońskim.", "Jestem studentowi na Uniwersytecie Jagiellońskim.", "Jestem studiuję na Uniwersytecie Jagiellońskim."],
+      "options": [
+        "Jestem studentem na Uniwersytecie Jagiellońskim.",
+        "Jestem student na Uniwersytecie Jagiellońskim.",
+        "Jestem studentowi na Uniwersytecie Jagiellońskim.",
+        "Jestem studiuję na Uniwersytecie Jagiellońskim."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Jestem studentem na Uniwersytecie Jagiellońskim.' — I am a student at the Jagiellonian University. After 'być' (profession/identity) → instrumental: student → studentem. 'Na Uniwersytecie' = locative (at/on the university)."
     },
@@ -47,7 +65,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Jadę ___ Kraków jutro. (I'm going to Kraków tomorrow.) [direction — accusative]",
-      "options": ["do", "w", "na", "z"],
+      "options": [
+        "do",
+        "w",
+        "na",
+        "z"
+      ],
       "correctIndex": 0,
       "explanation": "'Do + genitive' = to (destination, cities/places). 'Jadę do Krakowa' (Kraków → gen: Krakowa). Note: 'do' takes genitive not accusative, but it expresses direction. 'Na' + acc = direction to open spaces/events."
     },
@@ -56,15 +79,41 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: I travel to work by train. (instrumental — manner of transport)",
-      "wordBank": ["Jadę", "do", "pracy", "praca", "pociągiem", "pociąg", "z", "pociągu", "."],
+      "wordBank": [
+        "Jadę",
+        "do",
+        "pracy",
+        "praca",
+        "pociągiem",
+        "pociąg",
+        "z",
+        "pociągu",
+        "."
+      ],
       "correctSequences": [
-        ["Jadę", "do", "pracy", "pociągiem", "."]
+        [
+          "Jadę",
+          "do",
+          "pracy",
+          "pociągiem",
+          "."
+        ]
       ],
       "explanation": "'Jadę do pracy pociągiem.' — I travel to work by train. 'Do pracy' = to work (do + genitive: praca → pracy). 'Pociągiem' = by train (instrumental: pociąg → pociągiem). Means of transport always uses instrumental in Polish."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["cases", "review", "a2-core"],
-  "prerequisites": ["a1-ch06-l01", "a1-ch07-l01", "a1-ch08-l01", "a1-ch09-l01", "a2-ch17-l02"]
+  "tags": [
+    "cases",
+    "review",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a1-ch06-l01",
+    "a1-ch07-l01",
+    "a1-ch08-l01",
+    "a1-ch09-l01",
+    "a2-ch17-l02"
+  ]
 }

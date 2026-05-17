@@ -4,7 +4,9 @@
   "chapter": 18,
   "lessonOrder": 3,
   "title": "Noun Derivation Patterns",
+  "title_fa": "الگوهای اشتقاق اسم",
   "grammarPoint": "Forming abstract nouns with -ość (qualities), -stwo (collectives/professions), and -anie/-enie (verbal) — key Polish word-building suffixes",
+  "grammarPoint_fa": "اشتقاق اسم با پسوندها: -ość، -anie/-enie، -nik/-nica، -arz/-arka",
   "explanation": {
     "text": "Polish is a highly derivational language — new nouns are regularly formed from adjectives and verbs using standard suffixes. Learning these patterns lets you build thousands of new words.\n\n## Suffix -ość (feminine): Quality → Abstract Noun\n\nAdds to adjective stem to make abstract nouns (like English -ness, -ity):\n\n| Adjective | Abstract Noun | Meaning |\n|-----------|--------------|--------|\n| wolny (free) | wolność (f) | freedom |\n| szczęśliwy (happy) | szczęśliwość (f) | happiness |\n| piękny (beautiful) | piękność (f) | beauty |\n| możliwy (possible) | możliwość (f) | possibility |\n| trudny (difficult) | trudność (f) | difficulty |\n| ciekaw(y) | ciekawość (f) | curiosity |\n| miły (nice) | miłość (f)* | love* |\n| pewny (certain) | pewność (f) | certainty / confidence |\n| gotowy (ready) | gotowość (f) | readiness |\n\n*Note: miłość originally from 'miły' but now means love specifically.\n\n## Suffix -stwo (neuter): State / Collective / Profession\n\n| Base | Derived Noun | Meaning |\n|------|-------------|--------|\n| przyjaciel (friend) | przyjaźń → przyjaźń... | friendship |\n| państwo | państwo (n) | state / Mr+Mrs |\n| małżeństwo (married) | małżeństwo (n) | marriage / married couple |\n| rodzeństwo | rodzeństwo (n) | siblings (collective) |\n| lekarstwo | lekarstwo (n) | medicine (drug) |\n\n## Suffix -anie / -enie (neuter): Verbal nouns (review)\n\n- pisanie, czytanie, gotowanie (from -ać verbs)\n- mówienie, myślenie, ćwiczenie (from -ić/-yć verbs)\n- rozumienie, zrozumienie (from -eć verbs)\n\n## Using derived nouns:\n- Mam możliwość podróżowania. (I have the possibility of travelling.)\n- Wolność jest ważna. (Freedom is important.)\n- Masz gotowość do pracy? (Are you ready to work?)\n- To jest trudność z tym zadaniem. (That's the difficulty with this task.)",
     "notes": [
@@ -14,13 +16,19 @@
       "Already learned -anie/-enie verbal nouns in L01-L02 — they are the most productive suffix family."
     ]
   },
+  "explanation_fa": "الگوهای رایج اشتقاق اسم: صفت + -ość = اسم انتزاعی: ważny → ważność (اهمیت). فعل + -nik: uczyć → ucznik (دانش‌آموز — قدیمی). پسوند -arz/-arka برای مشاغل: piekarz/piekarka (نانوا). -nia برای مکان: kawiarnia (کافه)، księgarnia (کتابفروشی).",
   "exercises": [
     {
       "id": "a2-ch18-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Derive the abstract noun from 'wolny' (free). ___ jest ważna.",
-      "options": ["Wolność", "Wolny", "Wolnienie", "Wolno"],
+      "options": [
+        "Wolność",
+        "Wolny",
+        "Wolnienie",
+        "Wolno"
+      ],
       "correctIndex": 0,
       "explanation": "wolny → wolność (f) = freedom. The -ość suffix attaches to the adjective stem: woln- + ość. 'Wolność jest ważna' = Freedom is important. (Note: feminine noun → 'ważna')"
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "What does 'możliwość' mean?",
-      "options": ["possibility / opportunity", "impossibility", "ability (physical)", "readiness"],
+      "options": [
+        "possibility / opportunity",
+        "impossibility",
+        "ability (physical)",
+        "readiness"
+      ],
       "correctIndex": 0,
       "explanation": "'Możliwość' (f) = possibility / opportunity. From 'możliwy' (possible) + -ość. Very common: 'Mam możliwość...' = I have the opportunity to... 'Nie ma możliwości' = It's impossible / There is no possibility."
     },
@@ -38,7 +51,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch18/a2-ch18-l03-ex03.mp3",
-      "options": ["Mam możliwość podróżowania po Europie.", "Mam możliwość podróżować po Europie.", "Mam możliwe podróżowanie po Europie.", "Mam możliwości podróż po Europie."],
+      "options": [
+        "Mam możliwość podróżowania po Europie.",
+        "Mam możliwość podróżować po Europie.",
+        "Mam możliwe podróżowanie po Europie.",
+        "Mam możliwości podróż po Europie."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Mam możliwość podróżowania po Europie.' — I have the opportunity to travel around Europe. 'Możliwość + genitive of verbal noun': możliwość podróżowania. 'Po Europie' = around Europe (po + locative)."
     },
@@ -48,7 +66,10 @@
       "order": 4,
       "prompt": "___ z tym zadaniem jest trudna. (The difficulty with this task is hard.) [trudność]",
       "answer": "Trudność",
-      "acceptableAnswers": ["Trudność", "trudność"],
+      "acceptableAnswers": [
+        "Trudność",
+        "trudność"
+      ],
       "hint": "trudny (difficult) → trudność (f, difficulty). Subject of the sentence → nominative."
     },
     {
@@ -56,16 +77,44 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: Freedom is the most important thing. (wolność + najważniejszy)",
-      "wordBank": ["Wolność", "jest", "najważniejsza", "najważniejszy", "najważniejsze", "rzeczą", "rzecz", "ważna", "."],
+      "wordBank": [
+        "Wolność",
+        "jest",
+        "najważniejsza",
+        "najważniejszy",
+        "najważniejsze",
+        "rzeczą",
+        "rzecz",
+        "ważna",
+        "."
+      ],
       "correctSequences": [
-        ["Wolność", "jest", "najważniejsza", "."],
-        ["Wolność", "jest", "najważniejszą", "rzeczą", "."]
+        [
+          "Wolność",
+          "jest",
+          "najważniejsza",
+          "."
+        ],
+        [
+          "Wolność",
+          "jest",
+          "najważniejszą",
+          "rzeczą",
+          "."
+        ]
       ],
       "explanation": "'Wolność jest najważniejsza.' — Freedom is the most important (thing). Wolność (f) → superlative: najważniejsza. Alternative: 'Wolność jest najważniejszą rzeczą' = Freedom is the most important thing (rzeczą = instrumental of rzecz, used after być with adjective)."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["word-formation", "derivation", "a2-core"],
-  "prerequisites": ["a2-ch18-l01", "a2-ch18-l02"]
+  "tags": [
+    "word-formation",
+    "derivation",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a2-ch18-l01",
+    "a2-ch18-l02"
+  ]
 }

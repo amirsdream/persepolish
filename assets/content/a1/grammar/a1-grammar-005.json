@@ -3,7 +3,9 @@
   "level": "a1",
   "order": 5,
   "title": "Genitive Case — Negation & Possession",
+  "title_fa": "حالت مضاف‌الیهی — نفی و مالکیت",
   "explanation": "The genitive case (dopełniacz) is used after negation (nie + verb), to express possession (belonging), and after certain prepositions like 'z' (from/with) and 'do' (to/into). When negating a verb that would normally take the accusative, the direct object switches to the genitive. Masculine animate genitive: -a (kot → kota). Masculine inanimate: -u or -a. Feminine: -y or -i (kawa → kawy). Neuter: -a (okno → okna).",
+  "explanation_fa": "حالت مضاف‌الیهی (dopełniacz) برای مالکیت، نبود و بعد از nie استفاده می‌شود. پسوندها: مذکر/خنثی: -a/-u، مؤنث: -y/-i. نفی: Nie mam czasu (وقت ندارم). مالکیت: dom mamy (خانه مامان).",
   "examples": [
     {
       "polish": "Nie mam psa.",
@@ -40,7 +42,9 @@
       "id": "a1-g005-ex02",
       "prompt": "Complete: 'I don't have coffee.' (kawa = coffee, feminine — genitive: kawy)",
       "sentence_template": "Nie mam ___.",
-      "accepted_answers": ["kawy"],
+      "accepted_answers": [
+        "kawy"
+      ],
       "explanation": "Feminine nouns form the genitive by changing -a to -y (or -i after soft consonants): kawa → kawy."
     },
     {
@@ -61,7 +65,9 @@
       "id": "a1-g005-ex04",
       "prompt": "Complete: 'I am from Poland.' (Polska → Polski in genitive)",
       "sentence_template": "Jestem z ___.",
-      "accepted_answers": ["Polski"],
+      "accepted_answers": [
+        "Polski"
+      ],
       "explanation": "The preposition 'z' (from) requires the genitive case. 'Polska' (Poland) → 'Polski' in the genitive."
     },
     {
@@ -82,7 +88,9 @@
       "id": "a1-g005-ex06",
       "prompt": "Complete: 'I don't have time.' (czas = time, masculine inanimate — genitive: czasu)",
       "sentence_template": "Nie mam ___.",
-      "accepted_answers": ["czasu"],
+      "accepted_answers": [
+        "czasu"
+      ],
       "explanation": "Masculine inanimate nouns often form the genitive with -u: czas → czasu. Negation requires the genitive."
     }
   ]

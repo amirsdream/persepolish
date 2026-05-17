@@ -4,7 +4,9 @@
   "chapter": 4,
   "lessonOrder": 3,
   "title": "Accusative Singular — Direct Object",
+  "title_fa": "حالت مفعولی مفرد — مفعول مستقیم",
   "grammarPoint": "Accusative singular: the case of direct objects after verbs like mieć, kupić, lubić",
+  "grammarPoint_fa": "حالت مفعولی مفرد: مذکر جاندار -a، مؤنث -ę، خنثی = فاعلی",
   "explanation": {
     "text": "The **accusative case** (biernik) marks the direct object — the thing being acted on. It is essential for sentences like 'I have a cat' or 'I'm buying bread'.\n\n**Accusative singular endings:**\n\n| Gender | Nominative | Accusative | Rule |\n|--------|-----------|------------|------|\n| Masculine animate (people, animals) | -consonant | **-a** | pies → psa, kot → kota |\n| Masculine inanimate (things) | -consonant | **= Nominative** | dom → dom, chleb → chleb |\n| Feminine -a | -a | **-ę** | kobieta → kobietę, mama → mamę |\n| Neuter | -o/-e | **= Nominative** | okno → okno, morze → morze |\n\n**Common verbs that take the accusative:**\nmieć (have), kupić/kupować (buy), lubić (like), widzieć (see), jeść (eat), pić (drink), czytać (read)",
     "notes": [
@@ -14,13 +16,19 @@
       "Neuter is always the same as nominative: okno, dziecko, morze."
     ]
   },
+  "explanation_fa": "حالت مفعولی (biernik) برای مفعول مستقیم فعل استفاده می‌شود. تغییرات: مذکر جاندار مثل مضاف‌الیهی (brat → brata)، مذکر غیرجاندار = فاعلی (stół → stół)، مؤنث: -a → -ę (kobieta → kobietę)، خنثی = فاعلی (okno → okno).",
   "exercises": [
     {
       "id": "a1-ch04-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Widzę ___ (I see a dog). [pies = masculine animate]",
-      "options": ["psa", "pies", "psem", "psu"],
+      "options": [
+        "psa",
+        "pies",
+        "psem",
+        "psu"
+      ],
       "correctIndex": 0,
       "explanation": "'Pies' (dog) is masculine animate → accusative adds -a: psa. 'Widzę psa' = I see a dog."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Kupuję ___. (I'm buying bread.) [chleb = masculine inanimate]",
       "answer": "chleb",
-      "acceptableAnswers": ["chleb"],
+      "acceptableAnswers": [
+        "chleb"
+      ],
       "hint": "Masculine inanimate nouns don't change in the accusative"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch04/a1-ch04-l03-ex03.mp3",
-      "options": ["Lubię kawę.", "Lubię kawa.", "Lubię kawy.", "Lubię kawie."],
+      "options": [
+        "Lubię kawę.",
+        "Lubię kawa.",
+        "Lubię kawy.",
+        "Lubię kawie."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Lubię kawę.' — I like coffee. 'Kawa' (feminine -a) → accusative 'kawę' (kawa → kawę)."
     },
@@ -47,9 +62,19 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: I see the woman. [kobieta → kobietę]",
-      "wordBank": ["Widzę", "Widzą", "kobietę", "kobieta", "kobiety", "mężczyznę"],
+      "wordBank": [
+        "Widzę",
+        "Widzą",
+        "kobietę",
+        "kobieta",
+        "kobiety",
+        "mężczyznę"
+      ],
       "correctSequences": [
-        ["Widzę", "kobietę"]
+        [
+          "Widzę",
+          "kobietę"
+        ]
       ],
       "explanation": "'Widzę kobietę' = I see the woman. Feminine: kobieta → kobietę (accusative -ę replaces -a)."
     },
@@ -58,13 +83,26 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Mam ___. (I have a window.) [okno = neuter]",
-      "options": ["okno", "okna", "oknem", "oknie"],
+      "options": [
+        "okno",
+        "okna",
+        "oknem",
+        "oknie"
+      ],
       "correctIndex": 0,
       "explanation": "Neuter nouns stay the same in the accusative: okno → okno. 'Mam okno' = I have a window."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["accusative", "direct-object", "cases", "a1-core"],
-  "prerequisites": ["a1-ch01-l04", "a1-ch02-l01"]
+  "tags": [
+    "accusative",
+    "direct-object",
+    "cases",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch01-l04",
+    "a1-ch02-l01"
+  ]
 }

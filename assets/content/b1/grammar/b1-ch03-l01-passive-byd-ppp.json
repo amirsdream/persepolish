@@ -4,7 +4,9 @@
   "chapter": 3,
   "lessonOrder": 1,
   "title": "Passive Voice — być + Past Passive Participle",
+  "title_fa": "صدای مجهول — być + صفت مفعولی",
   "grammarPoint": "Forming Polish passive with być + past passive participle (PPP): napisany/napisana/napisane — the descriptive/state passive",
+  "grammarPoint_fa": "صدای مجهول: być + صفت مفعولی گذشته (imiesłów bierny: -ny/-ty/-ony)",
   "explanation": {
     "text": "Polish has two main passive constructions. The first uses **być** (to be) with the **past passive participle (PPP)**.\n\n## What is the Past Passive Participle (PPP)?\n\nThe PPP is formed from a **perfective verb** and describes a state resulting from an action:\n\n**Formation**: perfective verb stem + **-ny/-na/-ne** (or **-ty/-ta/-te**)\n\n| Verb | PPP (m) | PPP (f) | PPP (n) |\n|------|---------|---------|--------|\n| napisać | napisan**y** | napisan**a** | napisan**e** |\n| zrobić | zrobion**y** | zrobion**a** | zrobion**e** |\n| zbudować | zbudowan**y** | zbudowan**a** | zbudowan**e** |\n| zaprosi | zaprosz**ony** | zaprosz**ona** | zaprosz**one** |\n| przeczytać | przeczyta**ny** | przeczyta**na** | przeczyta**ne** |\n| zamknąć | zamknię**ty** | zamknię**ta** | zamknię**te** |\n| otworzyć | otwart**y** | otwart**a** | otwart**e** |\n| ugotować | ugotowan**y** | ugotowan**a** | ugotowan**e** |\n\n## być + PPP = State Passive\n\nThis construction describes a **state** (what something is like as a result of an action):\n\n- List jest **napisany**. (The letter is written.)\n- Drzwi są **zamknięte**. (The doors are closed.)\n- Obiad jest **ugotowany**. (Dinner is cooked.)\n- Raport jest **zrobiony**. (The report is done.)\n\n## PPP Agrees with the Subject in Gender & Number\n\n| Gender | Singular | Plural |\n|--------|---------|-------|\n| Masc | list napisany | listy napisane |\n| Fem | praca napisana | prace napisane |\n| Neut | zadanie napisane | zadania napisane |\n| Virile pl | | uczestnicy zaproszeni |\n| Non-virile pl | | drzwi zamknięte |\n\n**Examples:**\n- Okno jest **otwarte**. (The window is open — neuter)\n- Sklep jest **zamknięty**. (The shop is closed — masculine)\n- Restauracja jest **zamknięta**. (The restaurant is closed — feminine)",
     "notes": [
@@ -14,13 +16,19 @@
       "This is different from 'zostać + PPP' which expresses the event/action itself (covered in Ch4)."
     ]
   },
+  "explanation_fa": "صدای مجهول در لهستانی با być + صفت مفعولی گذشته ساخته می‌شود: Dom jest budowany (خانه ساخته می‌شود). صفت مفعولی از بن فعل کامل: napisać → napisany (نوشته‌شده)، zrobić → zrobiony (انجام‌شده)، otworzyć → otwarty (بازشده). صفت با جنسیت اسم تطبیق می‌یابد.",
   "exercises": [
     {
       "id": "b1-ch03-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "List jest ___. (The letter is written — state.) [PPP of napisać, masc]",
-      "options": ["napisany", "napisana", "napisane", "napisani"],
+      "options": [
+        "napisany",
+        "napisana",
+        "napisane",
+        "napisani"
+      ],
       "correctIndex": 0,
       "explanation": "'List' = letter (m) → PPP must be masculine: 'napisany'. 'Jest napisany' = is written (state passive). 'Napisana' = feminine (praca napisana). 'Napisane' = neuter/non-virile plural."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Przepraszam, sklep jest ___. (I'm sorry, the shop is closed.) [PPP of zamknąć, masc]",
-      "options": ["zamknięty", "zamknięta", "zamknięte", "zamknięci"],
+      "options": [
+        "zamknięty",
+        "zamknięta",
+        "zamknięte",
+        "zamknięci"
+      ],
       "correctIndex": 0,
       "explanation": "'Sklep' = shop (m) → PPP masculine: 'zamknięty'. From 'zamknąć' → 'zamknięty' (type: -nąć → -nięty). 'Sklep jest zamknięty' = the shop is closed. Common sign/announcement."
     },
@@ -38,7 +51,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/b1/ch03/b1-ch03-l01-ex03.mp3",
-      "options": ["Zadanie domowe jest już zrobione.", "Zadanie domowe jest już zrobiony.", "Zadanie domowe jest już zrobiona.", "Zadanie domowe już jest zrobię."],
+      "options": [
+        "Zadanie domowe jest już zrobione.",
+        "Zadanie domowe jest już zrobiony.",
+        "Zadanie domowe jest już zrobiona.",
+        "Zadanie domowe już jest zrobię."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Zadanie domowe jest już zrobione.' — The homework is already done. 'Zadanie' = homework (n) → PPP neuter: 'zrobione' (from zrobić → zrobiony/a/e). 'Już' = already. State passive: the homework is in a completed state."
     },
@@ -47,7 +65,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "PPP of 'otworzyć' (to open): Okno jest ___. [neuter PPP]",
-      "options": ["otwarte", "otwarty", "otwarta", "otworzony"],
+      "options": [
+        "otwarte",
+        "otwarty",
+        "otwarta",
+        "otworzony"
+      ],
       "correctIndex": 0,
       "explanation": "'Otworzyć' → PPP 'otwarty/otwarta/otwarte' (irregular: -yć → warty). 'Okno' = window (n) → otwarte. 'Okno jest otwarte' = the window is open. Note the irregular PPP form — stem change: otwier- → otwar-."
     },
@@ -56,15 +79,42 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: The restaurant is closed on Sundays. (restauracja, zamknięta, w niedzielę)",
-      "wordBank": ["Restauracja", "jest", "są", "zamknięta", "zamknięty", "zamknięte", "w", "niedzielę", "niedzielie", "."],
+      "wordBank": [
+        "Restauracja",
+        "jest",
+        "są",
+        "zamknięta",
+        "zamknięty",
+        "zamknięte",
+        "w",
+        "niedzielę",
+        "niedzielie",
+        "."
+      ],
       "correctSequences": [
-        ["Restauracja", "jest", "zamknięta", "w", "niedzielę", "."]
+        [
+          "Restauracja",
+          "jest",
+          "zamknięta",
+          "w",
+          "niedzielę",
+          "."
+        ]
       ],
       "explanation": "'Restauracja jest zamknięta w niedzielę.' — The restaurant is closed on Sundays. 'Restauracja' (f) → 'zamknięta' (PPP feminine). 'W niedzielę' = on Sundays (w + accusative for recurring days: niedzielę)."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": ["passive-voice", "b1-core", "ppp", "być"],
-  "prerequisites": ["b1-ch01-l01", "b1-ch01-l02", "a2-ch20-l03"]
+  "tags": [
+    "passive-voice",
+    "b1-core",
+    "ppp",
+    "być"
+  ],
+  "prerequisites": [
+    "b1-ch01-l01",
+    "b1-ch01-l02",
+    "a2-ch20-l03"
+  ]
 }

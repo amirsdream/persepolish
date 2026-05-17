@@ -4,7 +4,9 @@
   "chapter": 3,
   "lessonOrder": 4,
   "title": "Passive Voice in Context",
+  "title_fa": "صدای مجهول در بافت",
   "grammarPoint": "Passive constructions in real descriptive contexts: signs, notices, product labels, travel announcements, and instructions using być + PPP",
+  "grammarPoint_fa": "کاربرد صدای مجهول در متون رسمی، اخبار و توضیحات",
   "explanation": {
     "text": "The być + PPP passive is everywhere in Polish daily life — on signs, labels, announcements, and descriptions. Recognizing it in context is a key B1 skill.\n\n## Signs and Public Notices\n\nPolish signs use **neuter PPP** regardless of the actual noun — because they describe the general state of the place/thing:\n\n| Sign | Meaning | Note |\n|------|---------|------|\n| ZAMKNIĘTE | CLOSED | neuter PPP (from zamknąć) |\n| OTWARTE | OPEN | neuter PPP (from otworzyć) |\n| ZAREZERWOWANE | RESERVED | neuter PPP |\n| ZAJĘTE | OCCUPIED/TAKEN | neuter PPP (from zająć) |\n| WOLNE | FREE/AVAILABLE | adj, not PPP |\n| SPRZEDANE | SOLD | neuter PPP |\n| WYPRZEDANE | SOLD OUT | neuter PPP |\n| USZKODZONE | DAMAGED | neuter PPP |\n| ZEPSUTE | BROKEN | neuter PPP |\n\n## Travel & Transport Announcements\n\n- Pociąg jest **opóźniony** o 10 minut. (The train is delayed by 10 minutes. — m)\n- Lot jest **odwołany**. (The flight is cancelled. — m)\n- Peron jest **zamknięty**. (The platform is closed. — m)\n- Kasa jest **zamknięta**. (The ticket office is closed. — f)\n- Wejście jest **zablokowane**. (The entrance is blocked. — n)\n- Miejsca są **zarezerwowane**. (The seats are reserved. — pl non-virile)\n- Pasażerowie są **proszeni** o... (Passengers are asked to... — virile pl)\n\n## Product and Food Labels\n\n- Produkt jest **wyprodukowany** w Polsce. (The product is made in Poland. — m)\n- Opakowanie jest **wykonane** z plastiku. (The packaging is made of plastic. — n)\n- Produkt jest **chroniony** prawem autorskim. (The product is protected by copyright. — m)\n- Mięso jest **mrożone**. (The meat is frozen. — n)\n- Warzywa są **świeże** / **myte**. (The vegetables are fresh / washed. — pl)\n\n## Instructions and Processes\n\nIn instructions, być + PPP describes the current state at each step:\n\n- Najpierw ziemniaki są **obrane** i **pokrojone**. (First the potatoes are peeled and cut.)\n- Następnie mięso jest **usmażone**. (Then the meat is fried.)\n- Na końcu wszystko jest **wymieszane**. (Finally everything is mixed.)\n\n## In Descriptions (tourism, journalism)\n\n- Zamek jest **zbudowany** w XIV wieku. (The castle was built in the 14th century. — m)\n- Kościół jest **poświęcony** świętemu Janowi. (The church is dedicated to Saint Jan. — m)\n- Muzeum jest **otwarte** od wtorku do niedzieli. (The museum is open from Tuesday to Sunday. — n)\n- Ulica jest **zamknięta** dla ruchu. (The street is closed to traffic. — f)\n\n## Key Passive Vocabulary for Contexts\n\n| PPP | Meaning | Typical context |\n|-----|---------|---------------|\n| opóźniony | delayed | transport |\n| odwołany | cancelled | events, transport |\n| zarezerwowany | reserved | hotels, restaurants |\n| wyprzedany | sold out | events, products |\n| uszkodzony | damaged | products, equipment |\n| zablokowany | blocked | roads, access |\n| wyprodukowany | produced/made | products |\n| mrożony | frozen | food |\n| poświęcony | dedicated | culture |\n| chroniony | protected | law, environment |",
     "notes": [
@@ -14,13 +16,19 @@
       "In recipe/instruction contexts, the PPP describes resulting state: ziemniaki są obrane (peeled), pokrojone (cut), podgotowane (parboiled)."
     ]
   },
+  "explanation_fa": "صدای مجهول در لهستانی اغلب در متون رسمی، علمی و خبری به‌کار می‌رود: Budynek został wybudowany w 1920 roku (ساختمان در ۱۹۲۰ ساخته شد). در گفتار روزمره معمولاً از صدای معلوم یا się ترجیح داده می‌شود. توجه: زمان با شکل być تعیین می‌شود: jest/był/będzie + صفت مفعولی.",
   "exercises": [
     {
       "id": "b1-ch03-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Which sign is correct for a sold-out event? (The concert is sold out — 'koncert' is masc but sign uses neuter convention)",
-      "options": ["WYPRZEDANE", "WYPRZEDANY", "WYPRZEDANA", "WYPRZEDANI"],
+      "options": [
+        "WYPRZEDANE",
+        "WYPRZEDANY",
+        "WYPRZEDANA",
+        "WYPRZEDANI"
+      ],
       "correctIndex": 0,
       "explanation": "Signs/notices use neuter PPP regardless of noun gender: 'WYPRZEDANE' = SOLD OUT. Even though 'koncert' (concert) is masculine, the sign convention uses neuter. Compare: 'Bilety są wyprzedane' (tickets are sold out — pl non-virile) vs sign 'WYPRZEDANE' (general state)."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Uwaga! Pociąg do Krakowa jest ___ o 20 minut. (The train to Kraków is delayed by 20 minutes.) ['pociąg' = m]",
-      "options": ["opóźniony", "opóźniona", "opóźnione", "opóźnieni"],
+      "options": [
+        "opóźniony",
+        "opóźniona",
+        "opóźnione",
+        "opóźnieni"
+      ],
       "correctIndex": 0,
       "explanation": "'Pociąg' (train) is masculine → PPP masculine: 'opóźniony'. From 'opóźnić' → opóźnion-y. 'Lot jest opóźniony' (m — flight). 'Linia jest opóźniona' (f). 'Metro jest opóźnione' (n). Always match PPP to the subject noun's gender."
     },
@@ -39,7 +52,10 @@
       "order": 3,
       "prompt": "Fill in: Lot jest ___ (odwołać — m). Kasa jest ___ (zamknąć — f). Wejście jest ___ (zablokować — n).",
       "answer": "odwołany / zamknięta / zablokowane",
-      "acceptableAnswers": ["odwołany / zamknięta / zablokowane", "odwołany/zamknięta/zablokowane"],
+      "acceptableAnswers": [
+        "odwołany / zamknięta / zablokowane",
+        "odwołany/zamknięta/zablokowane"
+      ],
       "explanation": "'Lot' (m) → 'odwołany' (PPP masc, from odwołać → odwoła-ny). 'Kasa' (f) → 'zamknięta' (PPP fem, from zamknąć → zamknięta). 'Wejście' (n) → 'zablokowane' (PPP neut, from zablokować → zablokowan-e). Each PPP matches its subject's gender."
     },
     {
@@ -47,7 +63,12 @@
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/b1/ch03/b1-ch03-l04-ex04.mp3",
-      "options": ["Muzeum jest otwarte od wtorku do niedzieli.", "Muzeum jest otwarty od wtorku do niedzieli.", "Muzeum jest otwarta od wtorku do niedzieli.", "Muzeum jest otwarcie od wtorku do niedzieli."],
+      "options": [
+        "Muzeum jest otwarte od wtorku do niedzieli.",
+        "Muzeum jest otwarty od wtorku do niedzieli.",
+        "Muzeum jest otwarta od wtorku do niedzieli.",
+        "Muzeum jest otwarcie od wtorku do niedzieli."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Muzeum jest otwarte od wtorku do niedzieli.' — The museum is open from Tuesday to Sunday. 'Muzeum' (museum, n) → PPP neuter: 'otwarte' (from otworzyć → otwarty/a/e — irregular PPP). 'Od wtorku do niedzieli' = from Tuesday to Sunday (both in genitive)."
     },
@@ -56,15 +77,44 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: The hotel room is reserved and the key is ready. (pokój=m, klucz=m)",
-      "wordBank": ["Pokój", "jest", "zarezerwowany", "zarezerwowane", "i", "klucz", "jest", "gotowy", "gotowa", "gotowe", "."],
+      "wordBank": [
+        "Pokój",
+        "jest",
+        "zarezerwowany",
+        "zarezerwowane",
+        "i",
+        "klucz",
+        "jest",
+        "gotowy",
+        "gotowa",
+        "gotowe",
+        "."
+      ],
       "correctSequences": [
-        ["Pokój", "jest", "zarezerwowany", "i", "klucz", "jest", "gotowy", "."]
+        [
+          "Pokój",
+          "jest",
+          "zarezerwowany",
+          "i",
+          "klucz",
+          "jest",
+          "gotowy",
+          "."
+        ]
       ],
       "explanation": "'Pokój jest zarezerwowany' — 'pokój' (room, m) → PPP masculine: 'zarezerwowany'. 'Klucz jest gotowy' — 'klucz' (key, m) → adjective masculine: 'gotowy' (ready — note: gotowy is a regular adjective, not a PPP). Both masculine subjects take masculine forms."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": ["passive-voice", "b1-core", "ppp", "real-world", "context"],
-  "prerequisites": ["b1-ch03-l03"]
+  "tags": [
+    "passive-voice",
+    "b1-core",
+    "ppp",
+    "real-world",
+    "context"
+  ],
+  "prerequisites": [
+    "b1-ch03-l03"
+  ]
 }

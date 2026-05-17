@@ -3,7 +3,9 @@
   "level": "a2",
   "order": 6,
   "title": "Conditional Mood — Would (Tryb warunkowy)",
+  "title_fa": "وجه شرطی — would",
   "explanation": "The Polish conditional mood (tryb warunkowy) expresses hypothetical situations, wishes, and polite requests. It is formed by adding the conditional particle 'by' to the past tense form of the verb. The particle 'by' fuses with personal endings: bym (ja), byś (ty), by (on/ona/ono), byśmy (my), byście (wy), by (oni/one). Example: chcieć (to want) past: chciał/chciała → chciałbym (I would want, m), chciałabym (I would want, f). Polite requests: Czy mógłbyś mi pomóc? (Could you help me?)",
+  "explanation_fa": "وجه شرطی: شکل گذشته + by. مذکر: robiłbym، robiłbyś، robiłby؛ مؤنث: robiłabym، robiłabyś، robiłaby؛ جمع: robilibyśmy/robiłybyśmy و ... کاربرد: آرزو (Chciałbym)، فرضیه (Gdybym miał)، ادب (Mógłbyś).",
   "examples": [
     {
       "polish": "Chciałbym kawę, proszę.",
@@ -40,7 +42,9 @@
       "id": "a2-g006-ex02",
       "prompt": "Complete: A female speaker saying 'I would go to the cinema.' (iść → past f.: szła; + bym = szłabym)",
       "sentence_template": "___ do kina.",
-      "accepted_answers": ["Szłabym"],
+      "accepted_answers": [
+        "Szłabym"
+      ],
       "explanation": "Feminine conditional 1st person: szła + bym = szłabym."
     },
     {
@@ -61,7 +65,9 @@
       "id": "a2-g006-ex04",
       "prompt": "Complete: 'We would travel to Italy.' (podróżować → past m.pl.: podróżowali; + byśmy = podróżowalibyśmy)",
       "sentence_template": "___ do Włoch.",
-      "accepted_answers": ["Podróżowalibyśmy"],
+      "accepted_answers": [
+        "Podróżowalibyśmy"
+      ],
       "explanation": "Conditional 1st person plural (mixed/virile): podróżowali + byśmy = podróżowalibyśmy."
     },
     {

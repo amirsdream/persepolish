@@ -4,7 +4,9 @@
   "chapter": 15,
   "lessonOrder": 4,
   "title": "Advanced Reflexive Verbs",
+  "title_fa": "افعال بازتابی پیشرفته",
   "grammarPoint": "Advanced się verbs: zdenerwować się, zakochać się (w + loc), kłócić się (z + instr), pogodzić się (z + instr), rozstać się (z + instr)",
+  "grammarPoint_fa": "افعال بازتابی پیشرفته با się در ساختارهای مختلف",
   "explanation": {
     "text": "Beyond basic reflexive verbs, Polish has many **relationship and emotional reflexive verbs** essential for A2.\n\n**Relationship reflexive verbs:**\n\n| Verb | Case | Meaning | Example |\n|------|------|---------|--------|\n| **zakochać się w** + loc | locative | to fall in love with | Zakochałam się w nim. |\n| **kłócić się z** + instr | instrumental | to argue with | Pokłóciłam się z bratem. |\n| **pogodzić się z** + instr | instrumental | to make up with | Pogodziliśmy się. |\n| **rozstać się z** + instr | instrumental | to break up with | Rozstałam się z chłopakiem. |\n| **związać się z** + instr | instrumental | to get involved with | — |\n| **spotkać się z** + instr | instrumental | to meet with (appt) | Spotkam się z lekarzem. |\n\n**Emotional state verbs:**\n\n| Verb | Meaning | Example |\n|------|---------|--------|\n| **zdenerwować się** | to get angry/annoyed | Zdenerwowałam się. |\n| **uspokoić się** | to calm down | Uspokój się! |\n| **rozczarować się** | to be disappointed | Rozczarowałem się tym filmem. |\n| **zachwycić się** | to be delighted | Zachwyciłam się tym widokiem. |\n\n**Perfective vs. imperfective pairs:**\n- kłócić się (imperf, ongoing) → pokłócić się (perf, had a fight)\n- godzić się (imperf) → pogodzić się (perf, made up)\n- zakochiwać się (imperf) → zakochać się (perf, fell in love)",
     "notes": [
@@ -14,13 +16,19 @@
       "'Uspokój się!' = Calm down! (common imperative in conversation)."
     ]
   },
+  "explanation_fa": "افعال بازتابی پیچیده‌تر: spotkać się z + ابزاری (ملاقات کردن با)، kłócić się z + ابزاری (بحث کردن با)، zgadzać się z + ابزاری (موافقت کردن با)، zakochać się w + مکانی (عاشق شدن در)، interesować się + ابزاری (علاقه داشتن به).",
   "exercises": [
     {
       "id": "a2-ch15-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Zakochałam się ___ tym chłopaku. (I fell in love with that boy.) [zakochać się w + locative]",
-      "options": ["w", "z", "na", "do"],
+      "options": [
+        "w",
+        "z",
+        "na",
+        "do"
+      ],
       "correctIndex": 0,
       "explanation": "'Zakochać się w + locative': w tym chłopaku (chłopak → locative: chłopaku). 'Zakochałam się w nim' = I fell in love with him."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Pokłóciliśmy się ___ siostrą o pieniądze. (We had a fight with [my] sister about money.) [kłócić się z + instrumental]",
       "answer": "z",
-      "acceptableAnswers": ["z"],
+      "acceptableAnswers": [
+        "z"
+      ],
       "hint": "Kłócić się Z + instrumental: z siostrą"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch15/a2-ch15-l04-ex03.mp3",
-      "options": ["Rozstałam się z chłopakiem.", "Pokłóciłam się z chłopakiem.", "Zakochałam się w chłopaku.", "Pogodzilam się z chłopakiem."],
+      "options": [
+        "Rozstałam się z chłopakiem.",
+        "Pokłóciłam się z chłopakiem.",
+        "Zakochałam się w chłopaku.",
+        "Pogodzilam się z chłopakiem."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Rozstałam się z chłopakiem.' — I broke up with my boyfriend. 'Rozstać się z + instrumental': z chłopakiem. Note: 'Rozstałam' = feminine past."
     },
@@ -47,7 +62,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Po kłótni w końcu się ___. (After the argument, they finally made up.) [pogodzić się, oni]",
-      "options": ["pogodzili", "pokłócili", "rozstali", "zakochali"],
+      "options": [
+        "pogodzili",
+        "pokłócili",
+        "rozstali",
+        "zakochali"
+      ],
       "correctIndex": 0,
       "explanation": "'Pogodzić się' (perf) = to make up/reconcile. Past virile plural (oni): pogodzili się. 'Po kłótni' = after the argument (kłótnia → genitive: kłótni)."
     },
@@ -56,15 +76,38 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: She was disappointed with the film. [rozczarować się, ona + instr]",
-      "wordBank": ["Ona", "rozczarowała", "rozczarowała się", "tym", "filmem", "film", "filma", "z"],
+      "wordBank": [
+        "Ona",
+        "rozczarowała",
+        "rozczarowała się",
+        "tym",
+        "filmem",
+        "film",
+        "filma",
+        "z"
+      ],
       "correctSequences": [
-        ["Ona", "rozczarowała się", "tym", "filmem"]
+        [
+          "Ona",
+          "rozczarowała się",
+          "tym",
+          "filmem"
+        ]
       ],
       "explanation": "'Ona rozczarowała się tym filmem.' — She was disappointed with the film. 'Rozczarować się + instrumental': tym filmem (film → instr: filmem). 'Tym' = instrumental of 'ten'."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": ["reflexive", "emotions", "relationships", "a2-core"],
-  "prerequisites": ["a2-ch15-l01", "a2-ch15-l02", "a2-ch15-l03"]
+  "tags": [
+    "reflexive",
+    "emotions",
+    "relationships",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a2-ch15-l01",
+    "a2-ch15-l02",
+    "a2-ch15-l03"
+  ]
 }

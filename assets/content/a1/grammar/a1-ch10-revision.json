@@ -3,8 +3,9 @@
   "level": "a1",
   "chapter": 10,
   "title": "Chapter 10 Revision: Hobbies & A1 Review",
+  "title_fa": "مرور فصل ۱۰: سرگرمی‌ها و مرور A1",
   "description": "Mixed questions covering adjective agreement, comparatives, grać w/na, A1 grammar review, and hobbies vocabulary.",
-  "passThreshold": 0.70,
+  "passThreshold": 0.7,
   "questions": [
     {
       "id": "a1-ch10-rev-q01",
@@ -12,7 +13,12 @@
       "order": 1,
       "sourceLesson": "a1-ch10-l01",
       "prompt": "To jest ___ film. (This is a good film.) [dobry → m nominative]",
-      "options": ["dobry", "dobra", "dobre", "dobrzy"],
+      "options": [
+        "dobry",
+        "dobra",
+        "dobre",
+        "dobrzy"
+      ],
       "correctIndex": 0,
       "explanation": "'Film' is masculine → nominative adjective: 'dobry'. 'To jest dobry film.'"
     },
@@ -22,7 +28,12 @@
       "order": 2,
       "sourceLesson": "a1-ch10-l01",
       "prompt": "Mam ___ książkę. (I have an interesting book.) [ciekawy → f accusative]",
-      "options": ["ciekawą", "ciekawy", "ciekawa", "ciekawej"],
+      "options": [
+        "ciekawą",
+        "ciekawy",
+        "ciekawa",
+        "ciekawej"
+      ],
       "correctIndex": 0,
       "explanation": "'Książka' (f) in accusative → 'książkę'; adjective 'ciekawy' → f accusative: 'ciekawą'. 'Mam ciekawą książkę.'"
     },
@@ -32,7 +43,12 @@
       "order": 3,
       "sourceLesson": "a1-ch10-l02",
       "prompt": "Kraków jest ___ niż Warszawa. (Kraków is smaller than Warsaw.)",
-      "options": ["mniejszy", "mały", "najmniejszy", "mniej"],
+      "options": [
+        "mniejszy",
+        "mały",
+        "najmniejszy",
+        "mniej"
+      ],
       "correctIndex": 0,
       "explanation": "'Mniejszy' = comparative of 'mały' (small). 'Kraków jest mniejszy niż Warszawa.'"
     },
@@ -42,7 +58,12 @@
       "order": 4,
       "sourceVocab": "a1-ch10-vocab",
       "prompt": "What does 'pływanie' mean?",
-      "options": ["running", "swimming", "cycling", "dancing"],
+      "options": [
+        "running",
+        "swimming",
+        "cycling",
+        "dancing"
+      ],
       "correctIndex": 1,
       "explanation": "'Pływanie' = swimming. 'Chodzę na pływanie' = I go swimming."
     },
@@ -52,7 +73,12 @@
       "order": 5,
       "sourceLesson": "a1-ch10-l03",
       "prompt": "Gram ___ (I play guitar). [gitara → na + locative]",
-      "options": ["na gitarze", "w gitarze", "na gitarą", "w gitarę"],
+      "options": [
+        "na gitarze",
+        "w gitarze",
+        "na gitarą",
+        "w gitarę"
+      ],
       "correctIndex": 0,
       "explanation": "Instruments: 'grać na + locative'. 'Gitara' → locative 'gitarze'. 'Gram na gitarze.'"
     },
@@ -62,7 +88,12 @@
       "order": 6,
       "sourceLesson": "a1-ch10-l03",
       "prompt": "Lubię grać ___ (I like playing football). [piłka nożna → w + accusative]",
-      "options": ["w piłkę nożną", "na piłkę nożną", "w piłka nożna", "piłkę nożną"],
+      "options": [
+        "w piłkę nożną",
+        "na piłkę nożną",
+        "w piłka nożna",
+        "piłkę nożną"
+      ],
       "correctIndex": 0,
       "explanation": "Sports: 'grać w + accusative'. 'Piłka nożna' (f) → acc: 'piłkę nożną'. 'Lubię grać w piłkę nożną.'"
     },
@@ -72,7 +103,12 @@
       "order": 7,
       "sourceLesson": "a1-ch10-l04",
       "prompt": "Which case is used after 'nie ma'?",
-      "options": ["genitive", "accusative", "dative", "instrumental"],
+      "options": [
+        "genitive",
+        "accusative",
+        "dative",
+        "instrumental"
+      ],
       "correctIndex": 0,
       "explanation": "'Nie ma + genitive'. 'Nie ma wody' (genitive of woda). This is a key A1 rule."
     },
@@ -82,7 +118,12 @@
       "order": 8,
       "sourceVocab": "a1-ch10-vocab",
       "prompt": "What does 'wolny czas' mean?",
-      "options": ["working time", "free time", "school time", "lunch break"],
+      "options": [
+        "working time",
+        "free time",
+        "school time",
+        "lunch break"
+      ],
       "correctIndex": 1,
       "explanation": "'Wolny czas' = free time. 'Co robisz w wolnym czasie?' = What do you do in your free time?"
     },
@@ -92,7 +133,12 @@
       "order": 9,
       "sourceLesson": "a1-ch10-l04",
       "prompt": "Jestem ___ (I am a teacher — m). [instrumental after być]",
-      "options": ["nauczycielem", "nauczyciel", "nauczyciela", "nauczycielu"],
+      "options": [
+        "nauczycielem",
+        "nauczyciel",
+        "nauczyciela",
+        "nauczycielu"
+      ],
       "correctIndex": 0,
       "explanation": "'Być + instrumental': nauczyciel → 'nauczycielem'. Identity/profession after 'być' = instrumental."
     },
@@ -102,7 +148,12 @@
       "order": 10,
       "sourceLesson": "a1-ch10-l02",
       "prompt": "What is the superlative of 'dobry' (good)?",
-      "options": ["najlepszy", "bardziej dobry", "dobrszy", "najbardziej dobry"],
+      "options": [
+        "najlepszy",
+        "bardziej dobry",
+        "dobrszy",
+        "najbardziej dobry"
+      ],
       "correctIndex": 0,
       "explanation": "'Najlepszy' = best. Superlative = naj- + comparative: lepszy → najlepszy. Irregular!"
     },
@@ -112,7 +163,12 @@
       "order": 11,
       "sourceVocab": "a1-ch10-vocab",
       "prompt": "What does 'interesować się' mean?",
-      "options": ["to play a game", "to be interested in", "to enjoy oneself", "to practice"],
+      "options": [
+        "to play a game",
+        "to be interested in",
+        "to enjoy oneself",
+        "to practice"
+      ],
       "correctIndex": 1,
       "explanation": "'Interesować się + instrumental' = to be interested in. 'Interesuję się muzyką' = I'm interested in music."
     },
@@ -122,7 +178,12 @@
       "order": 12,
       "sourceLesson": "a1-ch10-l04",
       "prompt": "Complete A1 review: Nie ___ (I don't have money). [nie mieć + genitive]",
-      "options": ["mam pieniędzy", "mam pieniądze", "mam pieniądzem", "mają pieniędzy"],
+      "options": [
+        "mam pieniędzy",
+        "mam pieniądze",
+        "mam pieniądzem",
+        "mają pieniędzy"
+      ],
       "correctIndex": 0,
       "explanation": "'Nie mam pieniędzy' = I don't have money. After negation, accusative → genitive: pieniądze → pieniędzy."
     }

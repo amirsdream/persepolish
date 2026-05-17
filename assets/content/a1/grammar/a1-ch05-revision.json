@@ -3,8 +3,9 @@
   "level": "a1",
   "chapter": 5,
   "title": "Chapter 5 Revision: Daily Routine",
+  "title_fa": "مرور فصل ۵: برنامه روزانه",
   "description": "Mixed questions covering present tense groups 1 & 2, time expressions, telling time, and daily routine vocabulary.",
-  "passThreshold": 0.70,
+  "passThreshold": 0.7,
   "questions": [
     {
       "id": "a1-ch05-rev-q01",
@@ -12,7 +13,12 @@
       "order": 1,
       "sourceLesson": "a1-ch05-l01",
       "prompt": "Choose the correct form: Ona ___ gazetę każdego ranka. (She reads a newspaper every morning.)",
-      "options": ["czyta", "czytam", "czytasz", "czytają"],
+      "options": [
+        "czyta",
+        "czytam",
+        "czytasz",
+        "czytają"
+      ],
       "correctIndex": 0,
       "explanation": "'Czytać' Group 1: ona → czyta (-a). 'Czyta gazetę' = she reads a newspaper."
     },
@@ -22,7 +28,12 @@
       "order": 2,
       "sourceLesson": "a1-ch05-l01",
       "prompt": "My ___ w Warszawie. (We live in Warsaw.) [mieszkać]",
-      "options": ["mieszkamy", "mieszkam", "mieszkają", "mieszkasz"],
+      "options": [
+        "mieszkamy",
+        "mieszkam",
+        "mieszkają",
+        "mieszkasz"
+      ],
       "correctIndex": 0,
       "explanation": "'Mieszkać' Group 1: my → mieszkamy (-amy). 'Mieszkamy w Warszawie' = We live in Warsaw."
     },
@@ -32,7 +43,12 @@
       "order": 3,
       "sourceLesson": "a1-ch05-l02",
       "prompt": "Co ___ (ty) w wolnym czasie? (What do you do in your free time?) [robić]",
-      "options": ["robisz", "robię", "robi", "robimy"],
+      "options": [
+        "robisz",
+        "robię",
+        "robi",
+        "robimy"
+      ],
       "correctIndex": 0,
       "explanation": "'Robić' Group 2: ty → robisz (-isz). 'Co robisz?' = What are you doing?"
     },
@@ -42,7 +58,12 @@
       "order": 4,
       "sourceLesson": "a1-ch05-l02",
       "prompt": "Ja ___ po polsku trochę. (I speak Polish a little.) [mówić]",
-      "options": ["mówię", "mówisz", "mówi", "mówimy"],
+      "options": [
+        "mówię",
+        "mówisz",
+        "mówi",
+        "mówimy"
+      ],
       "correctIndex": 0,
       "explanation": "'Mówić' Group 2: ja → mówię (-ę). 'Mówię po polsku' = I speak Polish."
     },
@@ -52,7 +73,12 @@
       "order": 5,
       "sourceVocab": "a1-ch05-vocab",
       "prompt": "What does 'zawsze' mean?",
-      "options": ["sometimes", "rarely", "always", "often"],
+      "options": [
+        "sometimes",
+        "rarely",
+        "always",
+        "often"
+      ],
       "correctIndex": 2,
       "explanation": "'Zawsze' = always. Antonym: 'nigdy' = never."
     },
@@ -62,7 +88,12 @@
       "order": 6,
       "sourceLesson": "a1-ch05-l03",
       "prompt": "Idę do szkoły ___ poniedziałek. (I go to school on Monday.)",
-      "options": ["w", "na", "do", "za"],
+      "options": [
+        "w",
+        "na",
+        "do",
+        "za"
+      ],
       "correctIndex": 0,
       "explanation": "Days of the week take 'w + accusative': w poniedziałek = on Monday."
     },
@@ -72,7 +103,12 @@
       "order": 7,
       "sourceLesson": "a1-ch05-l04",
       "prompt": "How do you say 'It is 9 o'clock' in Polish?",
-      "options": ["Jest dziewiąta.", "Jest dziewięć.", "Jest dziewiąty.", "Są dziewiąta."],
+      "options": [
+        "Jest dziewiąta.",
+        "Jest dziewięć.",
+        "Jest dziewiąty.",
+        "Są dziewiąta."
+      ],
       "correctIndex": 0,
       "explanation": "'Jest dziewiąta.' = It is 9 o'clock. Hours use feminine ordinals: dziewiąta (9th)."
     },
@@ -82,7 +118,12 @@
       "order": 8,
       "sourceLesson": "a1-ch05-l04",
       "prompt": "What time is 'wpół do drugiej'?",
-      "options": ["1:30", "2:30", "1:45", "2:15"],
+      "options": [
+        "1:30",
+        "2:30",
+        "1:45",
+        "2:15"
+      ],
       "correctIndex": 0,
       "explanation": "'Wpół do drugiej' = 1:30. Half to two = 1:30. 'Drugiej' is genitive of 'druga' (2nd hour)."
     },
@@ -92,7 +133,12 @@
       "order": 9,
       "sourceVocab": "a1-ch05-vocab",
       "prompt": "What does 'wstawać' mean?",
-      "options": ["to go to bed", "to get up", "to wash", "to eat"],
+      "options": [
+        "to go to bed",
+        "to get up",
+        "to wash",
+        "to eat"
+      ],
       "correctIndex": 1,
       "explanation": "'Wstawać' = to get up (imperfective). 'Wstaję o siódmej' = I get up at seven."
     },
@@ -102,7 +148,12 @@
       "order": 10,
       "sourceLesson": "a1-ch05-l03",
       "prompt": "Which sentence uses double negation correctly?",
-      "options": ["Nigdy nie piję alkoholu.", "Nigdy piję alkoholu.", "Nie nigdy piję alkohol.", "Nigdy nie pije alkohol."],
+      "options": [
+        "Nigdy nie piję alkoholu.",
+        "Nigdy piję alkoholu.",
+        "Nie nigdy piję alkohol.",
+        "Nigdy nie pije alkohol."
+      ],
       "correctIndex": 0,
       "explanation": "'Nigdy nie piję alkoholu' = I never drink alcohol. Polish requires double negation: nigdy + nie + verb. 'Alkoholu' = genitive after negation."
     },
@@ -112,7 +163,12 @@
       "order": 11,
       "sourceVocab": "a1-ch05-vocab",
       "prompt": "What does 'wracać' mean?",
-      "options": ["to go out", "to arrive", "to return / come back", "to travel"],
+      "options": [
+        "to go out",
+        "to arrive",
+        "to return / come back",
+        "to travel"
+      ],
       "correctIndex": 2,
       "explanation": "'Wracać' = to return / come back. 'Wracam do domu o piątej' = I come back home at five."
     },
@@ -122,7 +178,12 @@
       "order": 12,
       "sourceLesson": "a1-ch05-l02",
       "prompt": "Oni ___ polskiego na uniwersytecie. (They learn Polish at university.) [uczyć się]",
-      "options": ["uczą się", "uczę się", "uczysz się", "uczymy się"],
+      "options": [
+        "uczą się",
+        "uczę się",
+        "uczysz się",
+        "uczymy się"
+      ],
       "correctIndex": 0,
       "explanation": "'Uczyć się' Group 2: oni → uczą się (-ą + się). 'Uczą się polskiego' = They learn Polish."
     }

@@ -4,7 +4,9 @@
   "chapter": 5,
   "lessonOrder": 4,
   "title": "Telling the Time — Która godzina?",
+  "title_fa": "گفتن ساعت — Która godzina?",
   "grammarPoint": "Asking and telling the time: pełne godziny, za kwadrans, wpół do, kwadrans po",
+  "grammarPoint_fa": "بیان ساعت با اعداد و عبارت jest godzina",
   "explanation": {
     "text": "To ask the time in Polish: **Która godzina?** (What time is it?) or **Która jest?**\n\nThe answer uses **godzina** (hour) with ordinal numbers:\n\n**Full hours:**\n\n| Polish | English |\n|--------|--------|\n| (Jest) pierwsza. | It is 1 o'clock. |\n| Jest druga. | It is 2 o'clock. |\n| Jest trzecia. | It is 3 o'clock. |\n| Jest czwarta. | It is 4 o'clock. |\n| Jest piąta. | It is 5 o'clock. |\n| Jest szósta. | It is 6 o'clock. |\n| Jest siódma. | It is 7 o'clock. |\n| Jest ósma. | It is 8 o'clock. |\n| Jest dziewiąta. | It is 9 o'clock. |\n| Jest dziesiąta. | It is 10 o'clock. |\n| Jest jedenasta. | It is 11 o'clock. |\n| Jest dwunasta. | It is 12 o'clock. |\n\n**Half and quarter hours:**\n\n| Polish | English | Literal meaning |\n|--------|---------|----------------|\n| kwadrans po trzeciej | quarter past three | quarter after 3 |\n| wpół do czwartej | half past three | half to four |\n| za kwadrans czwarta | quarter to four | in a quarter (to) four |\n\n**Key pattern:** *wpół do* takes the NEXT hour in genitive: *wpół do czwartej* = 3:30 (half to four).\n*Za kwadrans* + nominative: *za kwadrans czwarta* = 3:45.",
     "notes": [
@@ -14,13 +16,19 @@
       "24-hour clock in official contexts: godzina czternasta = 14:00."
     ]
   },
+  "explanation_fa": "برای پرسیدن ساعت: Która godzina? یا Która jest godzina? پاسخ: Jest godzina + عدد (jest godzina trzecia — ساعت سه است). برای دقیقه: piętnaście po trzeciej (ربع بعد از سه)، za piętnaście czwarta (ربع به چهار). ساعت‌ها در حالت مضاف‌الیهی می‌آیند.",
   "exercises": [
     {
       "id": "a1-ch05-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "How do you say 'It is 7 o'clock' in Polish?",
-      "options": ["Jest siódma.", "Jest siedem.", "Jest siódmy.", "Jest siódmego."],
+      "options": [
+        "Jest siódma.",
+        "Jest siedem.",
+        "Jest siódmy.",
+        "Jest siódmego."
+      ],
       "correctIndex": 0,
       "explanation": "'Jest siódma.' = It is 7 o'clock. Hours use feminine ordinal forms: siódma (7th). 'Jest siedem' would mean 'There are seven' (counting)."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Jest wpół ___ szóstej. (It is half past five / 5:30.)",
       "answer": "do",
-      "acceptableAnswers": ["do"],
+      "acceptableAnswers": [
+        "do"
+      ],
       "hint": "wpół ___ [genitive of next hour]"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch05/a1-ch05-l04-ex03.mp3",
-      "options": ["Za kwadrans ósma.", "Kwadrans po ósmej.", "Wpół do ósmej.", "Jest ósma."],
+      "options": [
+        "Za kwadrans ósma.",
+        "Kwadrans po ósmej.",
+        "Wpół do ósmej.",
+        "Jest ósma."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Za kwadrans ósma.' — Quarter to eight (7:45). 'Za kwadrans' = in a quarter (of an hour). 'Ósma' = nominative (8th hour)."
     },
@@ -47,10 +62,27 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: I get up at 6 o'clock.",
-      "wordBank": ["Wstaję", "Wstaje", "o", "szóstej", "szósta", "rano", "wieczorem"],
+      "wordBank": [
+        "Wstaję",
+        "Wstaje",
+        "o",
+        "szóstej",
+        "szósta",
+        "rano",
+        "wieczorem"
+      ],
       "correctSequences": [
-        ["Wstaję", "o", "szóstej", "rano"],
-        ["Wstaję", "o", "szóstej"]
+        [
+          "Wstaję",
+          "o",
+          "szóstej",
+          "rano"
+        ],
+        [
+          "Wstaję",
+          "o",
+          "szóstej"
+        ]
       ],
       "explanation": "'Wstaję o szóstej rano' = I get up at 6 in the morning. 'O + locative': szósta → szóstej. 'Wstaję' = I get up (Group 1 irregular)."
     },
@@ -59,13 +91,26 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "What time is 'wpół do trzeciej'?",
-      "options": ["2:30", "3:30", "2:45", "3:15"],
+      "options": [
+        "2:30",
+        "3:30",
+        "2:45",
+        "3:15"
+      ],
       "correctIndex": 0,
       "explanation": "'Wpół do trzeciej' = 2:30. 'Wpół do' = half to, and 'trzeciej' is genitive of 'trzecia' (3rd hour), so half to three = 2:30."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["time", "telling-time", "ordinal-numbers", "a1-core"],
-  "prerequisites": ["a1-ch05-l03", "a1-ch04-l01"]
+  "tags": [
+    "time",
+    "telling-time",
+    "ordinal-numbers",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch05-l03",
+    "a1-ch04-l01"
+  ]
 }

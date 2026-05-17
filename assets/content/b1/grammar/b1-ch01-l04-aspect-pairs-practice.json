@@ -4,7 +4,9 @@
   "chapter": 1,
   "lessonOrder": 4,
   "title": "Aspect in Paragraph Context",
+  "title_fa": "وجه در بافت پاراگراف",
   "grammarPoint": "Choosing aspect in extended text: narrative paragraphs where perfective moves the story forward and imperfective provides background, description, or habitual context",
+  "grammarPoint_fa": "انتخاب درست وجه در متون طولانی و داستان‌گویی",
   "explanation": {
     "text": "Real Polish texts mix aspect strategically. Learning to read these patterns is essential at B1.\n\n## The Narrative Principle\n\nIn a story or narrative:\n- **Perfective** = **plot events** — what happened next, what changed\n- **Imperfective** = **background, description, habit** — what was ongoing when events happened\n\n**Example paragraph:**\n> Kiedy **wstawałam** rano, zwykle **słuchałam** radia. Ale pewnego dnia **obudziłam** się i **zobaczyłam**, że pada śnieg. Szybko **wzięłam** płaszcz i **wybiegłam** z domu.\n\n- **wstawałam / słuchałam** = habitual background (imperfective)\n- **obudziłam się / zobaczyłam / wzięłam / wybiegłam** = plot events (perfective)\n\n## Aspect in Different Text Types\n\n**Narrative (story)**: perfective = sequence of events, imperfective = background\n\n**Description**: mostly imperfective (what things were like)\n\n**Instructions/recipes**: usually perfective (do this, then do that — completed steps)\n\n**Habits/routines**: always imperfective (what you regularly do)\n\n## Choosing Aspect — Decision Tree\n\n1. Is this a repeated/habitual action? → **IMPERFECTIVE**\n2. Is this ongoing background when another event happened? → **IMPERFECTIVE**\n3. Is this a completed plot event in a sequence? → **PERFECTIVE**\n4. Is this a result that matters? → **PERFECTIVE**\n5. Is there a time duration (przez X)? → **IMPERFECTIVE**\n6. Is this after 'nagle / w końcu / wreszcie / już'? → **PERFECTIVE**\n\n## Common Patterns in Written Polish\n\n- **Najpierw X, potem Y, w końcu Z** → all perfective (sequence)\n- **Codziennie X, podczas gdy Y** → imperfective (description)\n- **Kiedy X, nagle Y** → X = imperfective, Y = perfective\n- **Skończyłem X i zacząłem Y** → both perfective (chain of events)",
     "notes": [
@@ -14,13 +16,19 @@
       "The switch from imperfective → perfective signals a change: something new happened."
     ]
   },
+  "explanation_fa": "در روایت و داستان‌گویی: از گذشته ناکامل برای پس‌زمینه و حالت استفاده می‌شود: Był wieczór, padał deszcz... (شب بود، باران می‌بارید...). از گذشته کامل برای رویدادهای اصلی: Nagle ktoś zapukał do drzwi (ناگهان کسی در زد). تمرین: داستان‌های کوتاه لهستانی بخوانید و وجه‌ها را علامت‌گذاری کنید.",
   "exercises": [
     {
       "id": "b1-ch01-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Fill in with the correct aspect in this narrative: Kiedy ___ w kuchni, nagle ___ alarm. (was working in kitchen / alarm went off)",
-      "options": ["pracowałam / włączył się", "pracowałam / włączał się", "pracowałem / włączył się", "pracowałam / włączyłem"],
+      "options": [
+        "pracowałam / włączył się",
+        "pracowałam / włączał się",
+        "pracowałem / włączył się",
+        "pracowałam / włączyłem"
+      ],
       "correctIndex": 0,
       "explanation": "'Kiedy pracowałam w kuchni' = background (imperfective). 'Nagle włączył się alarm' = plot event (perfective). 'Włączył się' = switched on (masc, alarm is m). Classic kiedy + imperf / nagle + perf pattern."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Recipe instruction: ___ jajka z cukrem, a potem ___ mąkę. (Beat eggs with sugar, then add flour.)",
-      "options": ["Ubij / dodaj", "Ubijaj / dodawaj", "Ubij / dodawaj", "Ubijaj / dodaj"],
+      "options": [
+        "Ubij / dodaj",
+        "Ubijaj / dodawaj",
+        "Ubij / dodawaj",
+        "Ubijaj / dodaj"
+      ],
       "correctIndex": 0,
       "explanation": "Recipe steps → perfective imperatives: 'Ubij' (beat = complete action) + 'dodaj' (add = complete addition). These are sequential completed steps. 'Ubijaj/dodawaj' = imperfective imperatives suggesting ongoing process — wrong for recipe steps."
     },
@@ -38,7 +51,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/b1/ch01/b1-ch01-l04-ex03.mp3",
-      "options": ["Wstałam, wypiłam kawę i wyszłam do pracy.", "Wstawałam, wypiłam kawę i wychodziłam do pracy.", "Wstałam, piłam kawę i wyszłam do pracy.", "Wstałam, wypiłam kawę i wychodziłam do pracy."],
+      "options": [
+        "Wstałam, wypiłam kawę i wyszłam do pracy.",
+        "Wstawałam, wypiłam kawę i wychodziłam do pracy.",
+        "Wstałam, piłam kawę i wyszłam do pracy.",
+        "Wstałam, wypiłam kawę i wychodziłam do pracy."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Wstałam, wypiłam kawę i wyszłam do pracy.' — I got up, drank my coffee and went to work. Sequential completed events → all perfective: wstałam (got up), wypiłam (drank up), wyszłam (went out). This is a narrative sequence."
     },
@@ -47,7 +65,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Background description: Kiedy byłam mała, codziennie ___ do szkoły pieszo. (When I was little, I walked to school every day.)",
-      "options": ["chodziłam", "poszłam", "chodzę", "pójdę"],
+      "options": [
+        "chodziłam",
+        "poszłam",
+        "chodzę",
+        "pójdę"
+      ],
       "correctIndex": 0,
       "explanation": "Childhood habit (codziennie + kiedy byłam mała) → imperfective past: 'chodziłam' (used to walk, regularly). 'Poszłam' = I went (once, perfective — specific event). Background description of past routine = imperfective."
     },
@@ -56,16 +79,57 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build a narrative sequence: First she made coffee, then she read the newspaper. (perfective sequence)",
-      "wordBank": ["Najpierw", "zrobiła", "robiła", "kawę", "kawy", "a", "potem", "przeczytała", "czytała", "gazetę", "gazety", "."],
+      "wordBank": [
+        "Najpierw",
+        "zrobiła",
+        "robiła",
+        "kawę",
+        "kawy",
+        "a",
+        "potem",
+        "przeczytała",
+        "czytała",
+        "gazetę",
+        "gazety",
+        "."
+      ],
       "correctSequences": [
-        ["Najpierw", "zrobiła", "kawę", ",", "a", "potem", "przeczytała", "gazetę", "."],
-        ["Najpierw", "zrobiła", "kawę", "a", "potem", "przeczytała", "gazetę", "."]
+        [
+          "Najpierw",
+          "zrobiła",
+          "kawę",
+          ",",
+          "a",
+          "potem",
+          "przeczytała",
+          "gazetę",
+          "."
+        ],
+        [
+          "Najpierw",
+          "zrobiła",
+          "kawę",
+          "a",
+          "potem",
+          "przeczytała",
+          "gazetę",
+          "."
+        ]
       ],
       "explanation": "'Najpierw zrobiła kawę, a potem przeczytała gazetę.' — First she made coffee, then she read the newspaper. Sequential narrative: both perfective: zrobiła (made, done) + przeczytała (read through, done). 'Kawę' and 'gazetę' = accusative (direct objects, fem -a → -ę)."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": ["aspect", "b1-core", "narrative", "paragraph-context"],
-  "prerequisites": ["b1-ch01-l01", "b1-ch01-l02", "b1-ch01-l03"]
+  "tags": [
+    "aspect",
+    "b1-core",
+    "narrative",
+    "paragraph-context"
+  ],
+  "prerequisites": [
+    "b1-ch01-l01",
+    "b1-ch01-l02",
+    "b1-ch01-l03"
+  ]
 }

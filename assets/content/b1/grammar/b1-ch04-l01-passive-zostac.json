@@ -4,7 +4,9 @@
   "chapter": 4,
   "lessonOrder": 1,
   "title": "Event Passive — zostać + PPP",
+  "title_fa": "صدای مجهول رویدادی — zostać + صفت مفعولی",
   "grammarPoint": "Forming Polish event passive with zostać + past passive participle: list został napisany — expressing the action/event of something being done",
+  "grammarPoint_fa": "zostać + صفت مفعولی برای بیان رویداد کامل‌شده: został napisany",
   "explanation": {
     "text": "Polish has two passive constructions. You already know **być + PPP** (state passive). Now learn **zostać + PPP** — the **event passive** that expresses the action of something being done.\n\n## być + PPP vs zostać + PPP\n\n| Construction | Type | Meaning | Focus |\n|-------------|------|---------|-------|\n| **być + PPP** | state passive | List jest napisany. | current state (it IS written) |\n| **zostać + PPP** | event passive | List został napisany. | the event (it WAS written — the action happened) |\n\n**Key difference**:\n- **Być + PPP** = describes a *state*: 'Okno jest zamknięte.' (The window is [in a] closed [state].)\n- **Zostać + PPP** = describes an *event/action*: 'Okno zostało zamknięte.' (The window got closed / was closed.)\n\n## Conjugating zostać\n\nzostać is a **perfective** verb, so it has past and future tenses (no present):\n\n**Past tense of zostać** (+ PPP):\n| Person | Singular | Plural |\n|--------|---------|-------|\n| 1st | zostałem/zostałam | zostaliśmy/zostałyśmy |\n| 2nd | zostałeś/zostałaś | zostaliście/zostałyście |\n| 3rd m/f/n | został / została / zostało | zostali / zostały |\n\n**Future tense of zostać** (+ PPP):\n| Person | Singular | Plural |\n|--------|---------|-------|\n| 3rd m/f/n | zostanie | zostaną |\n\n## Agreement: zostać + PPP\n\nJust like być + PPP, the PPP must **agree with the subject**:\n\n- **List został napisany.** (The letter was written. — m)\n- **Umowa została podpisana.** (The contract was signed. — f)\n- **Okno zostało zamknięte.** (The window was closed. — n)\n- **Listy zostały napisane.** (The letters were written. — pl non-virile)\n- **Uczniowie zostali zaproszeni.** (The students were invited. — virile pl)\n\n## Past vs Future Event Passive\n\n**Past** (the action happened):\n- Raport **został napisany** wczoraj. (The report was written yesterday.)\n- Decyzja **została podjęta**. (The decision was made.)\n- Most **został zbudowany** w 2010 roku. (The bridge was built in 2010.)\n\n**Future** (the action will happen):\n- Raport **zostanie napisany** jutro. (The report will be written tomorrow.)\n- Decyzja **zostanie podjęta** po spotkaniu. (The decision will be made after the meeting.)\n- Dom **zostanie sprzedany** wkrótce. (The house will be sold soon.)\n\n## When to Use Which Passive\n\n| Situation | Use | Example |\n|-----------|-----|--------|\n| Describing current state | być + PPP | Drzwi są zamknięte. |\n| Saying when/how action happened | zostać + PPP | Drzwi zostały zamknięte o 6. |\n| News/journalism (event happened) | zostać + PPP | Prezydent został wybrany. |\n| Describing a result state | być + PPP | Prezydent jest wybrany. |\n| Future scheduled action | zostać + PPP | Wyniki zostaną ogłoszone. |",
     "notes": [
@@ -14,13 +16,19 @@
       "Common error: confusing 'zostać' (passive auxiliary) with 'zostać' meaning 'to stay/remain' (intransitive). Context makes it clear: 'zostać w domu' = to stay at home; 'zostać napisany' = to be written."
     ]
   },
+  "explanation_fa": "zostać + صفت مفعولی برای رویداد کامل (نتیجه): List został napisany (نامه نوشته شد — کامل شد). تفاوت با być: być + صفت مفعولی بر وضعیت/فرآیند تأکید دارد (Jest napisany — نوشته‌شده است)؛ zostać بر رویداد کامل‌شده تأکید دارد (Został napisany — نوشته شد). زمان‌ها: zostanie (آینده)، został (گذشته).",
   "exercises": [
     {
       "id": "b1-ch04-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "List ___ napisany wczoraj. (The letter was written yesterday.) [event passive, masc past]",
-      "options": ["został", "jest", "będzie", "był"],
+      "options": [
+        "został",
+        "jest",
+        "będzie",
+        "był"
+      ],
       "correctIndex": 0,
       "explanation": "'Został' = event passive past (zostać + PPP). 'List został napisany wczoraj' = the letter was written yesterday — the action happened in the past. 'Jest napisany' = is written (state passive — describes current state, not when it happened). 'Wczoraj' signals past event → zostać."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Decyzja ___ podjęta po długiej dyskusji. (The decision was made after a long discussion.) [f past]",
-      "options": ["została", "jest", "był", "zostało"],
+      "options": [
+        "została",
+        "jest",
+        "był",
+        "zostało"
+      ],
       "correctIndex": 0,
       "explanation": "'Decyzja' (decision) is feminine → zostać past feminine: 'została'. 'Decyzja została podjęta' = the decision was made (event passive). PPP 'podjęta' is also feminine (from podjąć → podjęty/a/e). Both 'została' and 'podjęta' agree with 'decyzja' (f)."
     },
@@ -38,7 +51,12 @@
       "type": "multiple_choice",
       "order": 3,
       "prompt": "Choose the EVENT passive (the action): The bridge was built in 2005.",
-      "options": ["Most został zbudowany w 2005 roku.", "Most jest zbudowany od 2005 roku.", "Most był zbudowany w 2005 roku.", "Most buduje się w 2005 roku."],
+      "options": [
+        "Most został zbudowany w 2005 roku.",
+        "Most jest zbudowany od 2005 roku.",
+        "Most był zbudowany w 2005 roku.",
+        "Most buduje się w 2005 roku."
+      ],
       "correctIndex": 0,
       "explanation": "'Most został zbudowany' = event passive — the action of building happened (zostać + PPP). 'Most jest zbudowany od 2005' = state passive (it has been in a built state since 2005). 'Był zbudowany' = past state (był + PPP, imperfective być). The event/action in 2005 → 'został zbudowany'."
     },
@@ -47,7 +65,12 @@
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/b1/ch04/b1-ch04-l01-ex04.mp3",
-      "options": ["Wyniki zostaną ogłoszone jutro.", "Wyniki zostały ogłoszone jutro.", "Wyniki są ogłoszone jutro.", "Wyniki zostaną ogłaszać jutro."],
+      "options": [
+        "Wyniki zostaną ogłoszone jutro.",
+        "Wyniki zostały ogłoszone jutro.",
+        "Wyniki są ogłoszone jutro.",
+        "Wyniki zostaną ogłaszać jutro."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Wyniki zostaną ogłoszone jutro.' — The results will be announced tomorrow. 'Wyniki' (results, pl non-virile) → zostać future: 'zostaną' + PPP non-virile: 'ogłoszone' (from ogłosić → ogłoszon-e). Future event passive: zostaną + PPP."
     },
@@ -56,15 +79,41 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: The president was elected last month. (prezydent = m, wybrać → wybrany)",
-      "wordBank": ["Prezydent", "został", "jest", "wybrany", "wybrana", "wybrane", "w", "zeszłym", "miesiącu", "."],
+      "wordBank": [
+        "Prezydent",
+        "został",
+        "jest",
+        "wybrany",
+        "wybrana",
+        "wybrane",
+        "w",
+        "zeszłym",
+        "miesiącu",
+        "."
+      ],
       "correctSequences": [
-        ["Prezydent", "został", "wybrany", "w", "zeszłym", "miesiącu", "."]
+        [
+          "Prezydent",
+          "został",
+          "wybrany",
+          "w",
+          "zeszłym",
+          "miesiącu",
+          "."
+        ]
       ],
       "explanation": "'Prezydent został wybrany w zeszłym miesiącu.' — The president was elected last month. 'Prezydent' (m) → zostać past masc: 'został' + PPP masc: 'wybrany'. Event passive: the election happened last month. 'Jest wybrany' would mean 'is currently elected' (state)."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 13,
-  "tags": ["passive-voice", "b1-core", "zostać", "event-passive"],
-  "prerequisites": ["b1-ch03-l04"]
+  "tags": [
+    "passive-voice",
+    "b1-core",
+    "zostać",
+    "event-passive"
+  ],
+  "prerequisites": [
+    "b1-ch03-l04"
+  ]
 }

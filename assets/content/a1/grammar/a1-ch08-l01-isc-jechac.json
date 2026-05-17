@@ -4,7 +4,9 @@
   "chapter": 8,
   "lessonOrder": 1,
   "title": "Motion Verbs — iść vs. jechać",
+  "title_fa": "افعال حرکتی — iść در برابر jechać",
   "grammarPoint": "iść (go on foot, now) vs. jechać (go by vehicle); present tense forms; chodzić vs. jeździć (habitual)",
+  "grammarPoint_fa": "iść (پیاده رفتن) در برابر jechać (با وسیله نقلیه رفتن)",
   "explanation": {
     "text": "Polish has two main verbs for 'to go' depending on how you travel:\n\n| Verb | Meaning | When to use |\n|------|---------|-------------|\n| **iść** | to go (on foot, right now) | 'I'm walking to the shop' |\n| **jechać** | to go (by vehicle, right now) | 'I'm driving/taking the bus' |\n| **chodzić** | to go (on foot, habitually) | 'I walk to work every day' |\n| **jeździć** | to go (by vehicle, habitually) | 'I take the train every week' |\n\n**Present tense of iść:**\n\n| Person | Form |\n|--------|------|\n| ja | **idę** |\n| ty | **idziesz** |\n| on/ona | **idzie** |\n| my | **idziemy** |\n| wy | **idziecie** |\n| oni/one | **idą** |\n\n**Present tense of jechać:**\n\n| Person | Form |\n|--------|------|\n| ja | **jadę** |\n| ty | **jedziesz** |\n| on/ona | **jedzie** |\n| my | **jedziemy** |\n| wy | **jedziecie** |\n| oni/one | **jadą** |\n\n**Examples:**\n- Idę do sklepu. = I'm going to the shop (on foot, now).\n- Jadę do Warszawy autobusem. = I'm going to Warsaw by bus.\n- Chodzę do pracy pieszo. = I walk to work (every day).\n- Jeżdżę do szkoły rowerem. = I cycle to school (regularly).",
     "notes": [
@@ -14,13 +16,19 @@
       "Do + genitive for destination: Jadę do Krakowa. Idę do domu."
     ]
   },
+  "explanation_fa": "iść برای رفتن پیاده و jechać برای رفتن با وسیله نقلیه (ماشین، اتوبوس و ...) استفاده می‌شود. اشکال iść: idę، idziesz، idzie، idziemy، idziecie، idą. اشکال jechać: jadę، jedziesz، jedzie، jedziemy، jedziecie، jadą.",
   "exercises": [
     {
       "id": "a1-ch08-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Choose the right verb: ___ do sklepu. (I'm walking to the shop right now.)",
-      "options": ["Idę", "Jadę", "Chodzę", "Jeżdżę"],
+      "options": [
+        "Idę",
+        "Jadę",
+        "Chodzę",
+        "Jeżdżę"
+      ],
       "correctIndex": 0,
       "explanation": "'Idę do sklepu' = I'm going to the shop (on foot, right now). 'Iść' = motion on foot happening now."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Ona ___ do Warszawy pociągiem. (She is going to Warsaw by train, right now.) [jechać, ona]",
       "answer": "jedzie",
-      "acceptableAnswers": ["jedzie"],
+      "acceptableAnswers": [
+        "jedzie"
+      ],
       "hint": "jechać, 3rd person singular: jedzie"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch08/a1-ch08-l01-ex03.mp3",
-      "options": ["Jeżdżę do pracy samochodem.", "Jadę do pracy samochodem.", "Idę do pracy samochodem.", "Chodzę do pracy samochodem."],
+      "options": [
+        "Jeżdżę do pracy samochodem.",
+        "Jadę do pracy samochodem.",
+        "Idę do pracy samochodem.",
+        "Chodzę do pracy samochodem."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Jeżdżę do pracy samochodem.' — I drive to work (habitually). 'Jeździć' = go by vehicle habitually. 'Samochodem' = by car (instrumental)."
     },
@@ -47,9 +62,23 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: We are going to Kraków by train.",
-      "wordBank": ["Jedziemy", "Idziemy", "do", "Krakowa", "Kraków", "pociągiem", "pociąg", "autobusem"],
+      "wordBank": [
+        "Jedziemy",
+        "Idziemy",
+        "do",
+        "Krakowa",
+        "Kraków",
+        "pociągiem",
+        "pociąg",
+        "autobusem"
+      ],
       "correctSequences": [
-        ["Jedziemy", "do", "Krakowa", "pociągiem"]
+        [
+          "Jedziemy",
+          "do",
+          "Krakowa",
+          "pociągiem"
+        ]
       ],
       "explanation": "'Jedziemy do Krakowa pociągiem' = We're going to Kraków by train. 'Jechać' → jedziemy (by vehicle). 'Do + genitive': Kraków → Krakowa."
     },
@@ -58,13 +87,27 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Every day I cycle to school. Which is correct?",
-      "options": ["Codziennie jeżdżę do szkoły rowerem.", "Codziennie jadę do szkoły rowerem.", "Codziennie idę do szkoły rowerem.", "Codziennie chodzę do szkoły rowerem."],
+      "options": [
+        "Codziennie jeżdżę do szkoły rowerem.",
+        "Codziennie jadę do szkoły rowerem.",
+        "Codziennie idę do szkoły rowerem.",
+        "Codziennie chodzę do szkoły rowerem."
+      ],
       "correctIndex": 0,
       "explanation": "'Jeżdżę do szkoły rowerem' = I cycle to school (habitual). 'Jeździć' for repeated vehicle motion. 'Rowerem' = by bicycle (instrumental)."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["motion-verbs", "isc", "jechac", "transport", "a1-core"],
-  "prerequisites": ["a1-ch05-l01", "a1-ch06-l03"]
+  "tags": [
+    "motion-verbs",
+    "isc",
+    "jechac",
+    "transport",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch05-l01",
+    "a1-ch06-l03"
+  ]
 }

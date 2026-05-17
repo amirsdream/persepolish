@@ -3,7 +3,9 @@
   "level": "a2",
   "order": 2,
   "title": "Past Tense — Feminine & Neuter",
+  "title_fa": "زمان گذشته — مؤنث و خنثی",
   "explanation": "For feminine singular subjects, the past tense endings are: -łam (ja, f), -łaś (ty, f), -ła (ona). For neuter singular subjects (ono/to): -ło. For example: robić (to do) → robiłam (I did, f), robiłaś (you did, f), robiła (she did), robiło (it did). Plural forms: masculine personal (oni) → -li; all other plurals (one/wy/my non-virile) → -ły. Example: oni robili (they did, mixed/male group), one robiły (they did, female group).",
+  "explanation_fa": "زمان گذشته مؤنث مفرد: -ła (pracowała، czytała). خنثی مفرد: -ło (pracowało). جمع مؤنث/خنثی: -ły (pracowały). جمع مذکر/مختلط: -li (pracowali). پسوندهای شخصی برای اول و دوم شخص جمع: pracowałyśmy/pracowałyście (ما/شما — مؤنث).",
   "examples": [
     {
       "polish": "Anna pracowała do późna.",
@@ -40,7 +42,9 @@
       "id": "a2-g002-ex02",
       "prompt": "Complete with the past tense of 'czytać' (to read) for 'ona' (she):",
       "sentence_template": "Ona ___ książkę.",
-      "accepted_answers": ["czytała"],
+      "accepted_answers": [
+        "czytała"
+      ],
       "explanation": "Feminine 3rd person singular past: -ła ending. Czytać → czytała."
     },
     {
@@ -61,7 +65,9 @@
       "id": "a2-g002-ex04",
       "prompt": "Complete with the past tense of 'iść' (to go) for 'ona' (she): irregular stem szła",
       "sentence_template": "Ona ___ do sklepu.",
-      "accepted_answers": ["szła"],
+      "accepted_answers": [
+        "szła"
+      ],
       "explanation": "'Iść' has an irregular past tense. Feminine singular: szła."
     },
     {

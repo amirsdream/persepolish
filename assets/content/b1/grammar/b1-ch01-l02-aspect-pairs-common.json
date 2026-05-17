@@ -4,7 +4,9 @@
   "chapter": 1,
   "lessonOrder": 2,
   "title": "20 Most Common Aspect Pairs",
+  "title_fa": "۲۰ جفت وجهی پرکاربرد",
   "grammarPoint": "Mastering the 20 highest-frequency imperfective/perfective pairs: formation patterns (prefix, suffix change, suppletive) and usage in sentences",
+  "grammarPoint_fa": "جفت‌های ضروری: robić/zrobić، pisać/napisać، mówić/powiedzieć و ۱۷ جفت دیگر",
   "explanation": {
     "text": "The 20 most important aspect pairs, organised by formation type.\n\n## Group 1: Prefix adds perfective meaning\n\n| Imperfective | Perfective | English |\n|-------------|-----------|--------|\n| robić | **z**robić | do/make |\n| pisać | **na**pisać | write |\n| czytać | **prze**czytać | read |\n| jeść | **z**jeść | eat |\n| pić | **wy**pić | drink |\n| myć | **u**myć | wash |\n| gotować | **u**gotować | cook |\n| sprzątać | **po**sprzątać | clean |\n| kupować | **ku**pić | buy |\n| słuchać | **wy**słuchać | listen (to completion) |\n\n## Group 2: Suffix/stem change\n\n| Imperfective | Perfective | English |\n|-------------|-----------|--------|\n| mówić | po**wiedz**ieć | say/speak |\n| brać | **wz**iąć | take |\n| odpowiadać | odpo**wiedz**ieć | answer |\n| wracać | wróc**ić** | return |\n| zaczynać | zacz**ąć** | begin |\n| kończyć | skoń**czyć** | finish |\n| otwierać | otworz**yć** | open |\n| zamykać | zamkn**ąć** | close |\n\n## Group 3: Suppletive (different root)\n\n| Imperfective | Perfective | English |\n|-------------|-----------|--------|\n| mówić | powiedzieć | say |\n| iść | pójść | go (on foot) |\n| widzieć | zobaczyć | see |\n\n## Memory Tips\n\n- **za-** prefix: start of action (zacząć, zamknąć, zadzwonić, zapomnieć)\n- **po-** prefix: do briefly/a bit (poczekać, porozmawiać, poprawić)\n- **prze-** prefix: through to completion (przeczytać, przejrzeć, przespać)\n- **wy-** prefix: out/completion (wypić, wyjść, wyjaśnić, wysłać)\n- **u-** prefix: success/completion (ugotować, umyć, udać się)\n- **na-** prefix: written/created (napisać, narysować, nagrać)",
     "notes": [
@@ -14,13 +16,19 @@
       "Widzieć → zobaczyć: 'widzę' (I see = general ability) vs 'zobaczyłem' (I saw = specific event)."
     ]
   },
+  "explanation_fa": "۲۰ جفت وجهی که باید حفظ کنید: robić/zrobić، pisać/napisać، czytać/przeczytać، mówić/powiedzieć، jeść/zjeść، pić/wypić، kupować/kupić، dawać/dać، brać/wziąć، wychodzić/wyjść، przychodzić/przyjść، wracać/wrócić، otwierać/otworzyć، zamykać/zamknąć، siadać/siąść، kłaść/położyć، wstawać/wstać، uczyć się/nauczyć się، myć/umyć، ubierać/ubrać.",
   "exercises": [
     {
       "id": "b1-ch01-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Perfective of 'pisać': Jutro ___ list do babci. (Tomorrow I will write a letter to grandma — completed.)",
-      "options": ["napiszę", "będę pisać", "piszę", "pisałem"],
+      "options": [
+        "napiszę",
+        "będę pisać",
+        "piszę",
+        "pisałem"
+      ],
       "correctIndex": 0,
       "explanation": "'Napiszę' = perfective future of napisać. Tomorrow + completed result = perfective. 'Będę pisać' = imperfective future (will be in the process of writing, but not necessarily completing). 'Jutro' here implies a complete, deliverable letter."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "What is the perfective of 'brać' (to take)?",
-      "options": ["wziąć", "zabrać", "wzięść", "pobierać"],
+      "options": [
+        "wziąć",
+        "zabrać",
+        "wzięść",
+        "pobierać"
+      ],
       "correctIndex": 0,
       "explanation": "'Wziąć' = perfective of brać (suppletive pair, different root). 'Wezmę' = I will take. 'Wziąłem/wzięłam' = I took. 'Zabrać' = to take away (different meaning). Must memorise: brać/wziąć."
     },
@@ -38,7 +51,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/b1/ch01/b1-ch01-l02-ex03.mp3",
-      "options": ["Wypiłem całą kawę i zamknąłem komputer.", "Wypiłem całą kawę i zamykałem komputer.", "Piłem całą kawę i zamknąłem komputer.", "Wypiłem kawę i zamykam komputer."],
+      "options": [
+        "Wypiłem całą kawę i zamknąłem komputer.",
+        "Wypiłem całą kawę i zamykałem komputer.",
+        "Piłem całą kawę i zamknąłem komputer.",
+        "Wypiłem kawę i zamykam komputer."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Wypiłem całą kawę i zamknąłem komputer.' — I drank all the coffee and closed the computer. Both sequential completed actions → both perfective: wypiłem (drank up) + zamknąłem (closed = result). 'Zamykałem' = was closing (unfinished)."
     },
@@ -47,7 +65,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Perfective of 'otwierać' — Proszę ___ okno. (Please open the window.)",
-      "options": ["otworzyć", "otwierać", "otworzę", "otwiera"],
+      "options": [
+        "otworzyć",
+        "otwierać",
+        "otworzę",
+        "otwiera"
+      ],
       "correctIndex": 0,
       "explanation": "Imperative requests use the infinitive of perfective in Polish polite commands: 'Proszę otworzyć okno' = Please open the window (proszę + perfective inf = polite request to complete action). 'Otwierać' = imperfective (would suggest ongoing process)."
     },
@@ -56,16 +79,51 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: She cleaned the house and cooked dinner. (sequential completed actions)",
-      "wordBack": ["Posprzątała", "Sprzątała", "dom", "domu", "i", "a", "ugotowała", "gotowała", "obiad", "obiadu", "."],
-      "wordBank": ["Posprzątała", "Sprzątała", "dom", "domu", "i", "ugotowała", "gotowała", "obiad", "."],
+      "wordBack": [
+        "Posprzątała",
+        "Sprzątała",
+        "dom",
+        "domu",
+        "i",
+        "a",
+        "ugotowała",
+        "gotowała",
+        "obiad",
+        "obiadu",
+        "."
+      ],
+      "wordBank": [
+        "Posprzątała",
+        "Sprzątała",
+        "dom",
+        "domu",
+        "i",
+        "ugotowała",
+        "gotowała",
+        "obiad",
+        "."
+      ],
       "correctSequences": [
-        ["Posprzątała", "dom", "i", "ugotowała", "obiad", "."]
+        [
+          "Posprzątała",
+          "dom",
+          "i",
+          "ugotowała",
+          "obiad",
+          "."
+        ]
       ],
       "explanation": "'Posprzątała dom i ugotowała obiad.' — She cleaned the house and cooked dinner. Sequential completed events → both perfective: posprzątała (cleaned up, done) + ugotowała (cooked, done). 'Dom' = accusative (direct object)."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": ["aspect", "b1-core", "verb-pairs"],
-  "prerequisites": ["b1-ch01-l01"]
+  "tags": [
+    "aspect",
+    "b1-core",
+    "verb-pairs"
+  ],
+  "prerequisites": [
+    "b1-ch01-l01"
+  ]
 }

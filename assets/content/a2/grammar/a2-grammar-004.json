@@ -3,7 +3,9 @@
   "level": "a2",
   "order": 4,
   "title": "Dative Case — Indirect Objects",
+  "title_fa": "حالت دادی — مفعول غیرمستقیم",
   "explanation": "The dative case (celownik) is used for the indirect object — the recipient of an action — and after certain verbs expressing emotion or attitude (pomagać — to help, dziękować — to thank, podobać się — to like/please, dawać — to give). Dative singular endings: masculine/neuter nouns change to -owi (kot → kotowi, okno → oknu); feminine nouns change -a to -e or -i (kobieta → kobiecie, mama → mamie). Personal pronouns: mnie (me), tobie/ci (you), jemu/mu (him), jej (her), nam (us), wam (you pl.), im (them).",
+  "explanation_fa": "حالت دادی (celownik) مفرد: مذکر/خنثی اغلب -owi می‌گیرند (studentowi، psu)؛ مؤنث: -a → -e/-ie (kobiecie، Polsce). جمع: -om برای همه (studentom، kobietom). کاربرد: مفعول غیرمستقیم، podoba mi się، potrzeba mi.",
   "examples": [
     {
       "polish": "Daję mamie kwiaty.",
@@ -40,7 +42,10 @@
       "id": "a2-g004-ex02",
       "prompt": "Complete: 'Thank you!' (dziękować + dative of 'ty', informal = ci/tobie)",
       "sentence_template": "Dziękuję ___!",
-      "accepted_answers": ["ci", "tobie"],
+      "accepted_answers": [
+        "ci",
+        "tobie"
+      ],
       "explanation": "'Dziękować' (to thank) takes the dative. The dative pronoun for 'ty' (you, informal) is 'ci' (short form) or 'tobie' (long form)."
     },
     {
@@ -61,7 +66,9 @@
       "id": "a2-g004-ex04",
       "prompt": "Complete: 'I help my friend.' (przyjaciel → przyjacielowi in dative; pomagać = to help)",
       "sentence_template": "Pomagam ___.",
-      "accepted_answers": ["przyjacielowi"],
+      "accepted_answers": [
+        "przyjacielowi"
+      ],
       "explanation": "'Pomagać' (to help) takes the dative. Masculine noun 'przyjaciel' → dative 'przyjacielowi'."
     },
     {

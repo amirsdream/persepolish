@@ -3,8 +3,9 @@
   "level": "a2",
   "chapter": 18,
   "title": "Chapter 18 Revision — Work & Study",
+  "title_fa": "مرور فصل ۱۸: کار و تحصیل",
   "description": "Mixed revision quiz covering verbal nouns (-nie/-cie), noun derivation (-ość), compound sentences, and work/study vocabulary from Chapter 18.",
-  "passThreshold": 0.70,
+  "passThreshold": 0.7,
   "questions": [
     {
       "id": "a2-ch18-rev-q01",
@@ -12,7 +13,12 @@
       "order": 1,
       "sourceLesson": "a2-ch18-l01",
       "prompt": "Form the verbal noun from 'pisać' (to write). Lubię ___.",
-      "options": ["pisanie", "pisać", "piszę", "pisaniu"],
+      "options": [
+        "pisanie",
+        "pisać",
+        "piszę",
+        "pisaniu"
+      ],
       "correctIndex": 0,
       "explanation": "pisać → pisanie (writing). Infinitive → drop -ć → add -nie. 'Lubię pisanie' = I like writing. The verbal noun is neuter and used in acc. after lubić."
     },
@@ -22,7 +28,12 @@
       "order": 2,
       "sourceLesson": "a2-ch18-l01",
       "prompt": "___ języków obcych jest trudne. (Learning foreign languages is difficult.) [verbal noun]",
-      "options": ["Uczenie się", "Uczyć się", "Uczę się", "Nauczyć się"],
+      "options": [
+        "Uczenie się",
+        "Uczyć się",
+        "Uczę się",
+        "Nauczyć się"
+      ],
       "correctIndex": 0,
       "explanation": "uczyć się → uczenie się (learning). Verbal noun as sentence subject. 'Uczenie się języków obcych jest trudne' = Learning foreign languages is difficult."
     },
@@ -32,7 +43,12 @@
       "order": 3,
       "sourceLesson": "a2-ch18-l02",
       "prompt": "Verbal noun from 'żyć' (to live). ___ w Krakowie jest wspaniałe.",
-      "options": ["Życie", "Żyć", "Żyjąc", "Żyjąco"],
+      "options": [
+        "Życie",
+        "Żyć",
+        "Żyjąc",
+        "Żyjąco"
+      ],
       "correctIndex": 0,
       "explanation": "żyć → życie (life/living). Irregular verbal noun. 'Życie w Krakowie jest wspaniałe' = Life/Living in Kraków is wonderful. Neuter → wspaniałe."
     },
@@ -42,7 +58,12 @@
       "order": 4,
       "sourceLesson": "a2-ch18-l02",
       "prompt": "Dziękuję za ___. (Thank you for your understanding.)",
-      "options": ["zrozumienie", "rozumieć", "rozumienie", "zrozumieć"],
+      "options": [
+        "zrozumienie",
+        "rozumieć",
+        "rozumienie",
+        "zrozumieć"
+      ],
       "correctIndex": 0,
       "explanation": "'Zrozumienie' = understanding (verbal noun from perfective zrozumieć). 'Za + accusative': za zrozumienie. A fixed polite phrase: 'Dziękuję za zrozumienie.'"
     },
@@ -52,7 +73,12 @@
       "order": 5,
       "sourceLesson": "a2-ch18-l03",
       "prompt": "Abstract noun from 'wolny' (free) — ___ jest ważna.",
-      "options": ["Wolność", "Wolno", "Wolnienie", "Wolnić"],
+      "options": [
+        "Wolność",
+        "Wolno",
+        "Wolnienie",
+        "Wolnić"
+      ],
       "correctIndex": 0,
       "explanation": "wolny → wolność (f) = freedom. The -ość suffix creates abstract nouns from adjectives. 'Wolność jest ważna' = Freedom is important. Feminine → 'ważna'."
     },
@@ -62,7 +88,12 @@
       "order": 6,
       "sourceLesson": "a2-ch18-l03",
       "prompt": "What does 'możliwość' mean?",
-      "options": ["possibility / opportunity", "impossibility", "ability to move", "readiness"],
+      "options": [
+        "possibility / opportunity",
+        "impossibility",
+        "ability to move",
+        "readiness"
+      ],
       "correctIndex": 0,
       "explanation": "'Możliwość' (f) = possibility / opportunity. From 'możliwy' + -ość. Very common: 'Mam możliwość pracy zdalnej' = I have the opportunity to work remotely."
     },
@@ -72,7 +103,12 @@
       "order": 7,
       "sourceLesson": "a2-ch18-l04",
       "prompt": "Chcę iść, ___ jestem zmęczony. (I want to go, but I'm tired.)",
-      "options": ["ale", "i", "więc", "bo"],
+      "options": [
+        "ale",
+        "i",
+        "więc",
+        "bo"
+      ],
       "correctIndex": 0,
       "explanation": "'Ale' = but (adversarial). Contrasts 'wanting to go' with 'being tired'. 'I' = and (addition). 'Więc' = so/therefore. 'Bo' = because (causal)."
     },
@@ -82,7 +118,12 @@
       "order": 8,
       "sourceLesson": "a2-ch18-l04",
       "prompt": "Uczę się, ___ zdać egzamin. (I study in order to pass the exam.) [purpose]",
-      "options": ["żeby", "że", "bo", "ale"],
+      "options": [
+        "żeby",
+        "że",
+        "bo",
+        "ale"
+      ],
       "correctIndex": 0,
       "explanation": "'Żeby + infinitive' = in order to (purpose, same subject). 'Uczę się, żeby zdać egzamin.' 'Że' introduces a statement (that). 'Bo' = because (reason, not purpose)."
     },
@@ -92,7 +133,12 @@
       "order": 9,
       "sourceLesson": "a2-ch18-l04",
       "prompt": "Ona czyta książki, ___ ja słucham muzyki. (She reads books, and I listen to music.) [parallel contrast]",
-      "options": ["a", "ale", "lub", "i"],
+      "options": [
+        "a",
+        "ale",
+        "lub",
+        "i"
+      ],
       "correctIndex": 0,
       "explanation": "'A' expresses parallel contrast — two different people doing two different things. 'Ale' = adversarial but. 'I' = simple and. This 'a' pattern is very typical in Polish."
     },
@@ -102,7 +148,12 @@
       "order": 10,
       "sourceVocab": "a2-ch18-vocab",
       "prompt": "What does 'rozmowa kwalifikacyjna' mean?",
-      "options": ["job interview", "qualification exam", "business meeting", "training session"],
+      "options": [
+        "job interview",
+        "qualification exam",
+        "business meeting",
+        "training session"
+      ],
       "correctIndex": 0,
       "explanation": "'Rozmowa kwalifikacyjna' = job interview. 'Rozmowa' = conversation/talk; 'kwalifikacyjna' = qualifying/qualification. Essential work vocabulary."
     },
@@ -112,7 +163,12 @@
       "order": 11,
       "sourceVocab": "a2-ch18-vocab",
       "prompt": "How do you say 'to pass an exam' in Polish?",
-      "options": ["zdać egzamin", "oblać egzamin", "zrobić egzamin", "mieć egzamin"],
+      "options": [
+        "zdać egzamin",
+        "oblać egzamin",
+        "zrobić egzamin",
+        "mieć egzamin"
+      ],
       "correctIndex": 0,
       "explanation": "'Zdać egzamin' (perf) = to pass an exam. 'Oblać egzamin' = to fail an exam. 'Zdać' literally means to hand over/deliver — one of many Polish phrasal meanings."
     },
@@ -122,7 +178,12 @@
       "order": 12,
       "sourceLesson": "a2-ch18-l04",
       "prompt": "Zostałam w domu, ___ byłam chora. (I stayed at home because I was sick.)",
-      "options": ["bo", "ale", "żeby", "chociaż"],
+      "options": [
+        "bo",
+        "ale",
+        "żeby",
+        "chociaż"
+      ],
       "correctIndex": 0,
       "explanation": "'Bo' = because (informal causal conjunction). 'Ponieważ' would also be correct (formal). 'Ale' = but. 'Żeby' = in order to. 'Chociaż' = although (would give the opposite meaning)."
     }

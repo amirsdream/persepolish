@@ -4,7 +4,9 @@
   "chapter": 11,
   "lessonOrder": 2,
   "title": "Past Tense — Feminine Singular",
+  "title_fa": "زمان گذشته — مفرد مؤنث",
   "grammarPoint": "Past tense feminine singular: robiłam/robiłaś/robiła — the -ła- marker and personal endings",
+  "grammarPoint_fa": "پسوند گذشته مؤنث: -ła (مفرد) — pracowała، czytała، była",
   "explanation": {
     "text": "The feminine past tense uses the **-ła-** marker instead of the masculine **-ł-**.\n\n**Feminine singular past endings:**\n\n| Person | Ending | Example (robić) |\n|--------|--------|----------------|\n| ja (f) | **-łam** | robiłam |\n| ty (f) | **-łaś** | robiłaś |\n| ona | **-ła** | robiła |\n\n**Comparison: masculine vs feminine:**\n\n| Person | Masculine | Feminine |\n|--------|-----------|----------|\n| ja | robił**em** | robiła**m** |\n| ty | robił**eś** | robiła**ś** |\n| on/ona | robił | robiła |\n\n**Common verbs in feminine past:**\n\n| Infinitive | ona (3rd f) | ja (f) |\n|-----------|------------|--------|\n| robić | **robiła** | robiłam |\n| czytać | **czytała** | czytałam |\n| pracować | **pracowała** | pracowałam |\n| mieszkać | **mieszkała** | mieszkałam |\n| iść | **szła** | szłam |\n| być | **była** | byłam |\n\n**Example sentences:**\n- Wczoraj **czytałam** książkę. = Yesterday I (f) read a book.\n- Ona **pracowała** w Londynie. = She worked in London.\n- **Byłaś** w kinie? = Were you (f) at the cinema?",
     "notes": [
@@ -14,13 +16,19 @@
       "Verbs ending -ować: feminine -owała: pracować → pracowała, pracowałam, pracowałaś."
     ]
   },
+  "explanation_fa": "برای فاعل مؤنث مفرد پسوند -ła استفاده می‌شود: ona pracowała (او کار کرد)، ona czytała (او خواند)، ona była (او بود). مقایسه: on pracował (مذکر) در برابر ona pracowała (مؤنث). توجه: ona، pani و اسم‌های مؤنث همه پسوند -ła می‌گیرند.",
   "exercises": [
     {
       "id": "a2-ch11-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Wczoraj ___ w parku. (I (f) walked in the park yesterday.) [chodzić, ja f past]",
-      "options": ["chodziłam", "chodzę", "chodziłem", "chodziła"],
+      "options": [
+        "chodziłam",
+        "chodzę",
+        "chodziłem",
+        "chodziła"
+      ],
       "correctIndex": 0,
       "explanation": "'Chodzić' past feminine ja: chodziłam (-łam ending). Compare masculine: chodziłem."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Ona ___ w tej firmie przez pięć lat. (She worked in this company for five years.) [pracować, ona past]",
       "answer": "pracowała",
-      "acceptableAnswers": ["pracowała"],
+      "acceptableAnswers": [
+        "pracowała"
+      ],
       "hint": "Feminine 3rd person past: -owała (pracować → pracowała)"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch11/a2-ch11-l02-ex03.mp3",
-      "options": ["Czy czytałaś tę książkę?", "Czy czytałeś tę książkę?", "Czy czytała tę książkę?", "Czy czytałam tę książkę?"],
+      "options": [
+        "Czy czytałaś tę książkę?",
+        "Czy czytałeś tę książkę?",
+        "Czy czytała tę książkę?",
+        "Czy czytałam tę książkę?"
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Czy czytałaś tę książkę?' — Did you (f) read this book? 'Czytać' past feminine ty: czytałaś (-łaś ending)."
     },
@@ -47,9 +62,25 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: Yesterday she bought a new dress.",
-      "wordBank": ["Wczoraj", "ona", "kupiła", "kupił", "nową", "nowy", "sukienkę", "sukienka", "sukienki"],
+      "wordBank": [
+        "Wczoraj",
+        "ona",
+        "kupiła",
+        "kupił",
+        "nową",
+        "nowy",
+        "sukienkę",
+        "sukienka",
+        "sukienki"
+      ],
       "correctSequences": [
-        ["Wczoraj", "ona", "kupiła", "nową", "sukienkę"]
+        [
+          "Wczoraj",
+          "ona",
+          "kupiła",
+          "nową",
+          "sukienkę"
+        ]
       ],
       "explanation": "'Wczoraj ona kupiła nową sukienkę.' — Yesterday she bought a new dress. 'Kupić' past feminine: kupiła. 'Nową sukienkę' = accusative feminine."
     },
@@ -58,13 +89,24 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Which sentence is correct for 'She lived in Kraków for a year'?",
-      "options": ["Ona mieszkała w Krakowie przez rok.", "Ona mieszkał w Krakowie przez rok.", "Ona mieszkałam w Krakowie przez rok.", "Ona mieszkałaś w Krakowie przez rok."],
+      "options": [
+        "Ona mieszkała w Krakowie przez rok.",
+        "Ona mieszkał w Krakowie przez rok.",
+        "Ona mieszkałam w Krakowie przez rok.",
+        "Ona mieszkałaś w Krakowie przez rok."
+      ],
       "correctIndex": 0,
       "explanation": "'Mieszkać' past feminine 3rd person (ona): mieszkała. The -ła ending marks feminine. 'Przez rok' = for a year."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["past-tense", "feminine", "a2-core"],
-  "prerequisites": ["a2-ch11-l01"]
+  "tags": [
+    "past-tense",
+    "feminine",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a2-ch11-l01"
+  ]
 }

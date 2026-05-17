@@ -4,7 +4,9 @@
   "chapter": 11,
   "lessonOrder": 3,
   "title": "Past Tense — Neuter & Plural",
+  "title_fa": "زمان گذشته — خنثی و جمع",
   "grammarPoint": "Past tense neuter singular and plural forms: robiło / robiliśmy / robiłyście / robili / robiły",
+  "grammarPoint_fa": "پسوندهای گذشته: -ło (خنثی)، -li (جمع مذکر/مختلط)، -ły (جمع مؤنث/خنثی)",
   "explanation": {
     "text": "Beyond singular masculine and feminine, Polish past tense has neuter and plural forms.\n\n**Neuter singular:**\n\n| Person | Ending | Example (robić) |\n|--------|--------|----------------|\n| ono/to | **-ło** | robiło |\n\n**Plural past endings — two groups:**\n\n**Virile plural** (groups including at least one male person — m-pers):\n\n| Person | Ending | Example |\n|--------|--------|--------|\n| my (m-pers) | **-liśmy** | robiliśmy |\n| wy (m-pers) | **-liście** | robiliście |\n| oni | **-li** | robili |\n\n**Non-virile plural** (women only, animals, things):\n\n| Person | Ending | Example |\n|--------|--------|--------|\n| my (f/n) | **-łyśmy** | robiłyśmy |\n| wy (f/n) | **-łyście** | robiłyście |\n| one | **-ły** | robiły |\n\n**Examples:**\n- Dziecko **spało** do południa. = The child slept until noon. (neuter)\n- **Robiliśmy** to razem. = We (mixed/male group) did it together.\n- Kobiety **robiły** zakupy. = The women did the shopping.\n- **Pracowali** przez całą noc. = They (men/mixed) worked all night.",
     "notes": [
@@ -14,13 +16,19 @@
       "Think: -l- for virile plural, -ł- for non-virile plural and neuter."
     ]
   },
+  "explanation_fa": "اشکال جمع زمان گذشته: جمع مذکر/مختلط (oni): -li (pracowali، czytali)؛ جمع مؤنث/خنثی (one): -ły (pracowały، czytały)؛ خنثی مفرد (ono): -ło (pracowało). توجه: اگر در گروه حتی یک مرد باشد، شکل -li استفاده می‌شود.",
   "exercises": [
     {
       "id": "a2-ch11-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Dzieci ___ w parku przez dwie godziny. (The children played in the park for two hours.) [bawić się, one past]",
-      "options": ["bawiły się", "bawiło się", "bawili się", "bawiłem się"],
+      "options": [
+        "bawiły się",
+        "bawiło się",
+        "bawili się",
+        "bawiłem się"
+      ],
       "correctIndex": 0,
       "explanation": "'Dzieci' (children) is non-virile plural → 'bawiły się' (-ły ending). If a mixed group with boys: 'bawili się'."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "My (group of men and women) ___ razem na kolację. (We went out for dinner together.) [wychodzić, my m-pers past]",
       "answer": "wychodziliśmy",
-      "acceptableAnswers": ["wychodziliśmy"],
+      "acceptableAnswers": [
+        "wychodziliśmy"
+      ],
       "hint": "Mixed/male group (my virile): -liśmy ending (wychodzić → wychodziliśmy)"
     },
     {
@@ -38,7 +48,12 @@
       "type": "multiple_choice",
       "order": 3,
       "prompt": "Dziecko nie ___ obiadu. (The child didn't eat lunch.) [jeść, ono past]",
-      "options": ["jadło", "jedli", "jadła", "jadłem"],
+      "options": [
+        "jadło",
+        "jedli",
+        "jadła",
+        "jadłem"
+      ],
       "correctIndex": 0,
       "explanation": "'Dziecko' (child) is neuter → past neuter: jadło (-ło ending). 'Jeść' → jadł- stem."
     },
@@ -47,9 +62,27 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: They (women) worked hard all week.",
-      "wordBank": ["One", "Oni", "pracowały", "pracowali", "ciężko", "przez", "cały", "cały", "tydzień", "tygodnia"],
+      "wordBank": [
+        "One",
+        "Oni",
+        "pracowały",
+        "pracowali",
+        "ciężko",
+        "przez",
+        "cały",
+        "cały",
+        "tydzień",
+        "tygodnia"
+      ],
       "correctSequences": [
-        ["One", "pracowały", "ciężko", "przez", "cały", "tydzień"]
+        [
+          "One",
+          "pracowały",
+          "ciężko",
+          "przez",
+          "cały",
+          "tydzień"
+        ]
       ],
       "explanation": "'One pracowały ciężko przez cały tydzień.' — They (women) worked hard all week. Non-virile plural: pracowały. 'Przez cały tydzień' = for the whole week."
     },
@@ -58,13 +91,26 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Choose the correct form: 'We (two women) read the same book.' [czytać, my f past]",
-      "options": ["Czytałyśmy tę samą książkę.", "Czytaliśmy tę samą książkę.", "Czytałyście tę samą książkę.", "Czytałam tę samą książkę."],
+      "options": [
+        "Czytałyśmy tę samą książkę.",
+        "Czytaliśmy tę samą książkę.",
+        "Czytałyście tę samą książkę.",
+        "Czytałam tę samą książkę."
+      ],
       "correctIndex": 0,
       "explanation": "'My' (we, two women = non-virile) → past: czytałyśmy (-łyśmy ending). If any male was in the group, 'czytaliśmy' would be used instead."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["past-tense", "plural", "neuter", "a2-core"],
-  "prerequisites": ["a2-ch11-l01", "a2-ch11-l02"]
+  "tags": [
+    "past-tense",
+    "plural",
+    "neuter",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a2-ch11-l01",
+    "a2-ch11-l02"
+  ]
 }

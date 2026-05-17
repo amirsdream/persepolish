@@ -4,7 +4,9 @@
   "chapter": 6,
   "lessonOrder": 4,
   "title": "Locative Plural — Nouns and Adjectives",
+  "title_fa": "حالت مکانی جمع",
   "grammarPoint": "Locative plural endings: -ach (nouns), -ych/-ich (adjectives); w domach, w małych pokojach",
+  "grammarPoint_fa": "پسوندهای جمع مکانی: -ach (اسم‌ها)، -ych/-ich (صفات)",
   "explanation": {
     "text": "The **locative plural** is actually one of the most regular forms in Polish — nouns take **-ach** and adjectives take **-ych / -ich**.\n\n**Locative plural noun ending: -ach**\n\n| Nominative singular | Nominative plural | Locative plural |\n|--------------------|------------------|-----------------|\n| dom (house) | domy | **domach** |\n| szkoła (school) | szkoły | **szkołach** |\n| miasto (city) | miasta | **miastach** |\n| pokój (room) | pokoje | **pokojach** |\n| ulica (street) | ulice | **ulicach** |\n\n**Locative plural adjective ending: -ych / -ich**\n\n| Adjective | Locative plural | Example |\n|----------|-----------------|--------|\n| duży | **dużych** | w dużych domach |\n| mały | **małych** | w małych miastach |\n| nowy | **nowych** | w nowych sklepach |\n| stary | **starych** | w starych ulicach |\n\n**Examples:**\n- Mieszkam w dużych miastach. = I live in big cities.\n- Pracuję w różnych sklepach. = I work in various shops.\n- Dzieci bawią się w małych pokojach. = Children play in small rooms.",
     "notes": [
@@ -14,13 +16,19 @@
       "This is one of the easiest plural forms to remember — just add -ach to the stem."
     ]
   },
+  "explanation_fa": "جمع مکانی اسم‌ها: پسوند -ach می‌گیرند (dom → w domach، szkoła → w szkołach). صفات جمع: -ych/-ich (w dużych domach — در خانه‌های بزرگ). این قاعده برای همه جنسیت‌ها یکسان است.",
   "exercises": [
     {
       "id": "a1-ch06-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Mieszkamy w ___ (in apartments / flats). [mieszkanie → locative plural]",
-      "options": ["mieszkaniach", "mieszkania", "mieszkanie", "mieszkań"],
+      "options": [
+        "mieszkaniach",
+        "mieszkania",
+        "mieszkanie",
+        "mieszkań"
+      ],
       "correctIndex": 0,
       "explanation": "'Mieszkanie' (neuter) → locative plural: 'mieszkaniach' (-ach ending). 'Mieszkamy w mieszkaniach' = We live in flats."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Dzieci uczą się w ___ szkołach. (Children study in big schools.) [duży → adj loc pl]",
       "answer": "dużych",
-      "acceptableAnswers": ["dużych"],
+      "acceptableAnswers": [
+        "dużych"
+      ],
       "hint": "Adjective locative plural: -ych (hard stems)"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch06/a1-ch06-l04-ex03.mp3",
-      "options": ["Pracuję w różnych miastach.", "Pracuję w różne miasta.", "Pracuję w różnych miastach.", "Pracuję w różnych miasto."],
+      "options": [
+        "Pracuję w różnych miastach.",
+        "Pracuję w różne miasta.",
+        "Pracuję w różnych miastach.",
+        "Pracuję w różnych miasto."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Pracuję w różnych miastach.' — I work in various cities. 'Miasto' pl → 'miastach'; 'różny' pl → 'różnych'."
     },
@@ -47,9 +62,27 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: Books are in small rooms.",
-      "wordBank": ["Książki", "Książka", "są", "jest", "w", "małych", "małej", "mały", "pokojach", "pokój", "pokoje"],
+      "wordBank": [
+        "Książki",
+        "Książka",
+        "są",
+        "jest",
+        "w",
+        "małych",
+        "małej",
+        "mały",
+        "pokojach",
+        "pokój",
+        "pokoje"
+      ],
       "correctSequences": [
-        ["Książki", "są", "w", "małych", "pokojach"]
+        [
+          "Książki",
+          "są",
+          "w",
+          "małych",
+          "pokojach"
+        ]
       ],
       "explanation": "'Książki są w małych pokojach' = Books are in small rooms. 'Pokój' → loc pl 'pokojach'; 'mały' → adj loc pl 'małych'."
     },
@@ -58,13 +91,27 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "What is the locative plural of 'ulica' (street)?",
-      "options": ["ulicach", "ulicy", "ulice", "ulic"],
+      "options": [
+        "ulicach",
+        "ulicy",
+        "ulice",
+        "ulic"
+      ],
       "correctIndex": 0,
       "explanation": "'Ulica' → locative plural: 'ulicach'. All nouns take -ach in locative plural. 'W ulicach' = in the streets."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 9,
-  "tags": ["locative", "plural", "adjectives", "cases", "a1-core"],
-  "prerequisites": ["a1-ch06-l01", "a1-ch06-l02"]
+  "tags": [
+    "locative",
+    "plural",
+    "adjectives",
+    "cases",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch06-l01",
+    "a1-ch06-l02"
+  ]
 }

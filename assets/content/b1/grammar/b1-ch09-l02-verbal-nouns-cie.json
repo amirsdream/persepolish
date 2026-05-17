@@ -4,7 +4,9 @@
   "chapter": 9,
   "lessonOrder": 2,
   "title": "Verbal Nouns — -cie Forms",
+  "title_fa": "اسم مصدر با -cie",
   "grammarPoint": "Verbal nouns with -cie suffix: życie, wyjście, przyjście, spotkanie, znalezienie — and when -cie vs -nie appears",
+  "grammarPoint_fa": "اسم مصدر با -cie: przyjście، wyjście، powiedzenie، zrobienie",
   "explanation": {
     "text": "Some verbal nouns end in **-cie** instead of **-nie**. These come from verbs whose stems end in a consonant cluster or undergo a specific sound change.\n\n## Common -cie Verbal Nouns\n\n| Infinitive | Verbal Noun | English |\n|-----------|-------------|--------|\n| żyć | **życie** | life / living |\n| wyjść | **wyjście** | exit / leaving |\n| przyjść | **przyjście** | arrival / coming |\n| wziąć | **wzięcie** | taking |\n| znaleźć | **znalezienie** | finding |\n| zrozumieć | **zrozumienie** | understanding |\n| powiedzieć | **powiedzenie** | saying |\n| spotkać | **spotkanie** | meeting |\n| otworzyć | **otwarcie** | opening |\n| zamknąć | **zamknięcie** | closing / lock |\n| zaproszenie | **zaproszenie** | invitation |\n| ubranie | **ubranie** | clothes / getting dressed |\n| śniadanie | **śniadanie** | breakfast |\n\n**Note**: Many of these -cie words have become fully lexicalized nouns with specific meanings:\n- *wyjście* = exit (also the act of leaving)\n- *przyjście* = arrival, coming\n- *życie* = life\n- *spotkanie* = meeting (an appointment)\n- *zaproszenie* = invitation\n\n## When -cie Appears\n\nThe -cie ending typically appears when:\n1. The verb stem ends in **-ą** (nasal vowel): wziąć → wzięcie, zamknąć → zamknięcie\n2. The verb ends in **-ść / -źć**: znaleźć → znalezienie, przejść → przejście\n3. Historical consonant alternations produce it\n\nFor most learners: **memorize common -cie forms** rather than applying a rule.\n\n## Both Forms Coexist\n\nSome verbs produce forms in common use:\n- *spotkać* → **spotkanie** (meeting — this one ends in -nie!)\n- *otworzyć* → **otwarcie** (-cie after stem change)\n- *zaproszenie* comes from *zaprosić* but looks like -enie\n\n**Practical strategy**: Learn the verbal noun as a separate vocabulary item alongside the verb.\n\n## Key -cie Nouns in Context\n\n**życie** (life):\n- Życie w Polsce jest interesujące. (Life in Poland is interesting.)\n- To jest sens *życia*. (This is the meaning of life — genitive.)\n\n**wyjście** (exit / way out):\n- Gdzie jest *wyjście*? (Where is the exit?)\n- Szukam *wyjścia* z tej sytuacji. (I'm looking for a way out of this situation.)\n\n**spotkanie** (meeting):\n- Mam *spotkanie* o trzeciej. (I have a meeting at three.)\n- Po *spotkaniu* pójdziemy na kawę. (After the meeting we'll go for coffee.)\n\n**zaproszenie** (invitation):\n- Dziękuję za *zaproszenie*. (Thank you for the invitation.)\n- Dostałem *zaproszenie* na ślub. (I received an invitation to a wedding.)\n\n**wzięcie** (taking — also 'poszukiwany/w poszukiwaniu'):\n- To jest produkt w dobrym *wzięciu*. (This is a product in demand — idiomatic.)\n\n## Declining -cie Nouns\n\nThey decline like neuter nouns (just like -nie forms):\n\n| Case | życie | spotkanie |\n|------|-------|----------|\n| Nom | życie | spotkanie |\n| Gen | życia | spotkania |\n| Dat | życiu | spotkaniu |\n| Acc | życie | spotkanie |\n| Instr | życiem | spotkaniem |\n| Loc | życiu | spotkaniu |",
     "notes": [
@@ -15,13 +17,19 @@
       "Many -cie words have become standard nouns: 'zaproszenie' (invitation), 'ubranie' (clothing), 'śniadanie' (breakfast) — you use them as regular nouns."
     ]
   },
+  "explanation_fa": "اسم مصدر با -cie معمولاً از افعال کامل: przyjść → przyjście (آمدن)، wyjść → wyjście (رفتن/خروج)، powiedzieć → powiedzenie (گفتن — نتیجه)، zrobić → zrobienie (انجام دادن). مقایسه: mówienie (فرآیند گفتن) در برابر powiedzenie (یک گفته خاص). zrobienie (انجام دادن) در برابر robienie (در حال انجام دادن).",
   "exercises": [
     {
       "id": "b1-ch09-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Dziękuję za ___. (Thank you for the invitation.) [zaproszenie — 'za' + accusative]",
-      "options": ["zaproszenie", "zaproszenia", "zaproszeniu", "zaproszeniem"],
+      "options": [
+        "zaproszenie",
+        "zaproszenia",
+        "zaproszeniu",
+        "zaproszeniem"
+      ],
       "correctIndex": 0,
       "explanation": "'Za' + accusative: 'za zaproszenie'. Neuter verbal noun accusative = same as nominative (zaproszenie). 'Dziękuję za zaproszenie.' = Thank you for the invitation. Compare: 'za zaproszenia' (gen pl), 'w zaproszeniu' (loc). 'Za + acc' for 'in exchange for / thanks for'."
     },
@@ -30,7 +38,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "To jest sens ___. (This is the meaning of life.) ['życie' — genitive after 'sens czegoś']",
-      "options": ["życia", "życie", "życiem", "życiu"],
+      "options": [
+        "życia",
+        "życie",
+        "życiem",
+        "życiu"
+      ],
       "correctIndex": 0,
       "explanation": "'Sens czegoś' = the meaning of something (genitive). 'Życie' → genitive = 'życia'. 'To jest sens życia.' = This is the meaning of life. Genitive neuter: -ie/-cie → -ia: życie→życia, spotkanie→spotkania, wyjście→wyjścia."
     },
@@ -40,7 +53,9 @@
       "order": 3,
       "prompt": "Po ___ pójdziemy na kawę. (After the meeting we'll go for coffee.) [spotkanie → po + locative]",
       "answer": "spotkaniu",
-      "acceptableAnswers": ["spotkaniu"],
+      "acceptableAnswers": [
+        "spotkaniu"
+      ],
       "explanation": "'Po' + locative (after). 'Spotkanie' → locative = 'spotkaniu'. 'Po spotkaniu pójdziemy na kawę.' = After the meeting we'll go for coffee. Locative neuter: -nie/-cie → -niu: spotkanie→spotkaniu, życie→życiu, wyjście→wyjściu."
     },
     {
@@ -48,7 +63,12 @@
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/b1/ch09/b1-ch09-l02-ex04.mp3",
-      "options": ["Gdzie jest wyjście z tego budynku?", "Gdzie jest wejście z tego budynku?", "Gdzie jest wyjście do tego budynku?", "Gdzie jest wyjścia z tego budynku?"],
+      "options": [
+        "Gdzie jest wyjście z tego budynku?",
+        "Gdzie jest wejście z tego budynku?",
+        "Gdzie jest wyjście do tego budynku?",
+        "Gdzie jest wyjścia z tego budynku?"
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Gdzie jest wyjście z tego budynku?' — Where is the exit from this building? 'Wyjście' = exit (from 'wyjść' = to go out). 'Z + genitive' = from: 'z tego budynku' (budynek → budynku, m gen). 'Wejście' = entrance (from 'wejść' = to enter). Opposite: wyjście (exit) vs wejście (entrance)."
     },
@@ -57,15 +77,45 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: Life in Warsaw is expensive but interesting. [życie, drogie, ciekawe]",
-      "wordBank": ["Życie", "Życia", "w", "Warszawie", "Warszawy", "jest", "drogie", "drogi", "ale", "ciekawe", "ciekawy", "."],
+      "wordBank": [
+        "Życie",
+        "Życia",
+        "w",
+        "Warszawie",
+        "Warszawy",
+        "jest",
+        "drogie",
+        "drogi",
+        "ale",
+        "ciekawe",
+        "ciekawy",
+        "."
+      ],
       "correctSequences": [
-        ["Życie", "w", "Warszawie", "jest", "drogie", "ale", "ciekawe", "."]
+        [
+          "Życie",
+          "w",
+          "Warszawie",
+          "jest",
+          "drogie",
+          "ale",
+          "ciekawe",
+          "."
+        ]
       ],
       "explanation": "'Życie w Warszawie jest drogie, ale ciekawe.' — Life in Warsaw is expensive but interesting. 'Życie' = neuter verbal noun, subject (nom). 'W Warszawie' = in Warsaw (w + locative: Warszawa→Warszawie). 'Drogie' = expensive (neuter adj, agrees with 'życie'). 'Ciekawe' = interesting (neuter adj). Both adjectives neuter to agree with 'życie'."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": ["verbal-nouns", "gerunds", "b1-core", "-cie", "noun-derivation"],
-  "prerequisites": ["b1-ch09-l01"]
+  "tags": [
+    "verbal-nouns",
+    "gerunds",
+    "b1-core",
+    "-cie",
+    "noun-derivation"
+  ],
+  "prerequisites": [
+    "b1-ch09-l01"
+  ]
 }

@@ -4,7 +4,9 @@
   "chapter": 5,
   "lessonOrder": 4,
   "title": "Conditional in Hypothetical Context",
+  "title_fa": "وجه شرطی در موقعیت‌های فرضی",
   "grammarPoint": "Conditional in hypothetical and counterfactual sentences with gdyby clauses: Gdybym miał czas, poszedłbym. — if I had time, I would go.",
+  "grammarPoint_fa": "جملات فرضی پیچیده با gdyby در هر دو بند",
   "explanation": {
     "text": "The conditional mood is most powerful when combined with **gdyby** (if/if only) clauses to create hypothetical and counterfactual sentences.\n\n## gdyby — The Conditional 'If'\n\n'Gdyby' is a special form that combines 'gdy' (when) + 'by' to create conditional 'if' clauses. It takes the **l-form** (past tense form):\n\n| Person | Form | Example |\n|--------|------|---------|\n| gdybym | if I (m) | Gdybym wiedział... |\n| gdybym | if I (f) | Gdybym wiedziała... |\n| gdybyś | if you (m) | Gdybyś chciał... |\n| gdybyś | if you (f) | Gdybyś chciała... |\n| gdyby | if he/she/it | Gdyby przyszedł... |\n| gdybyśmy | if we (m) | Gdybyśmy mieli czas... |\n| gdybyście | if you (pl) | Gdybyście chcieli... |\n| gdyby | if they | Gdyby wiedzieli... |\n\n## Hypothetical Sentences: gdyby + conditional\n\n**Structure**: gdyby clause (condition) + main clause (consequence)\n\n- **Gdybym miał czas, poszedłbym do kina.** (If I had time, I would go to the cinema. — m)\n- **Gdybym miała pieniądze, kupiłabym nowy komputer.** (If I had money, I would buy a new computer. — f)\n- **Gdyby padał deszcz, zostałbym w domu.** (If it were raining, I would stay home.)\n- **Gdyby ona tu była, powiedziałbym jej prawdę.** (If she were here, I would tell her the truth.)\n\n## Counterfactual Sentences (contrary to reality)\n\nThese describe situations that are NOT real (past counterfactuals):\n\n- **Gdybym wiedział, nie przyszedłbym.** (If I had known, I wouldn't have come.)\n- **Gdybyś powiedziała wcześniej, pomógłbym.** (If you had told [me] earlier, I would have helped.)\n- **Gdyby nie ty, zgubiłbym się.** (If it weren't for you, I would have gotten lost.)\n\n## Word Order and Reversibility\n\nThe order of clauses is flexible:\n- **Gdybym miał czas, poszedłbym.** (condition first)\n- **Poszedłbym, gdybym miał czas.** (consequence first) — both are correct!\n\n## Common Conditional Expressions\n\n| Polish | English |\n|--------|--------|\n| Gdybym tylko mógł/mogła... | If only I could... |\n| Chciałbym/Chciałabym, żeby... | I'd like [someone] to... |\n| Lepiej byłoby, gdyby... | It would be better if... |\n| Na twoim miejscu... | If I were you... |\n| Co byś zrobił/zrobiła, gdyby...? | What would you do if...? |\n\n## Na twoim miejscu (If I were you)\n\n**Na twoim/jego/jej miejscu + conditional** = if I were in your/his/her place:\n- **Na twoim miejscu**, poszedłbym do lekarza. (If I were you, I'd go to the doctor. — m)\n- **Na twoim miejscu**, powiedziałabym mu prawdę. (If I were you, I'd tell him the truth. — f)\n- **Na jego miejscu** zrobiłbym to inaczej. (If I were him, I'd do it differently.)\n\n## Negation in Conditional\n\n'Nie' goes before the main verb (same as in other tenses):\n- **Nie poszedłbym** tam. (I wouldn't go there.)\n- **Nie powiedziałabym** tego nikomu. (I wouldn't say this to anyone. — f)\n- **Gdybym nie miał pieniędzy**, nie kupiłbym tego. (If I didn't have money, I wouldn't buy it.)",
     "notes": [
@@ -14,13 +16,19 @@
       "'Na twoim miejscu' is a fixed expression — always with twoim (locative of twój), never 'na twoim miejscu' agreement changes."
     ]
   },
+  "explanation_fa": "ساختارهای فرضی پیچیده: Gdybym wiedział, powiedziałbym ci (اگر می‌دانستم، بهت می‌گفتم). Gdybyś przyszedł wcześniej, zdążyłbyś (اگر زودتر می‌آمدی، به‌موقع می‌رسیدی). توجه: در هر دو بند وجه شرطی استفاده می‌شود. این برای موقعیت‌های کاملاً فرضی یا غیرواقعی است.",
   "exercises": [
     {
       "id": "b1-ch05-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "A female speaker: 'If I had money, I would buy a new car.' [gdybym, mieć, kupić — f]",
-      "options": ["Gdybym miała pieniądze, kupiłabym nowy samochód.", "Gdybym miał pieniądze, kupiłabym nowy samochód.", "Gdybym miała pieniądze, kupiłbym nowy samochód.", "Gdybyś miała pieniądze, kupiłabym nowy samochód."],
+      "options": [
+        "Gdybym miała pieniądze, kupiłabym nowy samochód.",
+        "Gdybym miał pieniądze, kupiłabym nowy samochód.",
+        "Gdybym miała pieniądze, kupiłbym nowy samochód.",
+        "Gdybyś miała pieniądze, kupiłabym nowy samochód."
+      ],
       "correctIndex": 0,
       "explanation": "Female speaker 1sg: 'Gdybym miała pieniądze, kupiłabym nowy samochód.' Both l-forms must be feminine: 'miała' (had — f) and 'kupiłabym' (I would buy — f). 'Gdybym miał...kupiłabym' = mixed (male had, female bought) — wrong! Both must be consistent gender."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Complete: 'If it were raining, ___.' (I would stay home — male speaker, zostawać/zostać)",
-      "options": ["zostałbym w domu.", "zostałabym w domu.", "zostanę w domu.", "zostaję w domu."],
+      "options": [
+        "zostałbym w domu.",
+        "zostałabym w domu.",
+        "zostanę w domu.",
+        "zostaję w domu."
+      ],
       "correctIndex": 0,
       "explanation": "'Gdyby padał deszcz, zostałbym w domu.' — If it were raining, I would stay home (m). 'Zostałbym' = 1sg male conditional of zostać (perfective: to stay/remain). 'Zostałabym' = female. 'Zostanę' = future indicative (I will stay). 'Zostaję' = present (I am staying). Hypothetical → conditional."
     },
@@ -39,7 +52,10 @@
       "order": 3,
       "prompt": "Complete: 'If I were you (male speaker), I would go to the doctor.' [Na twoim miejscu, pójść] → ___",
       "answer": "Na twoim miejscu poszedłbym do lekarza.",
-      "acceptableAnswers": ["Na twoim miejscu poszedłbym do lekarza.", "Poszedłbym do lekarza na twoim miejscu."],
+      "acceptableAnswers": [
+        "Na twoim miejscu poszedłbym do lekarza.",
+        "Poszedłbym do lekarza na twoim miejscu."
+      ],
       "explanation": "'Na twoim miejscu poszedłbym do lekarza.' — If I were you, I'd go to the doctor (male speaker). 'Na twoim miejscu' = fixed phrase (if I were in your place). 'Poszedłbym' = 1sg male conditional of pójść. 'Do lekarza' = to the doctor (do + gen: lekarz → lekarza)."
     },
     {
@@ -47,7 +63,12 @@
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/b1/ch05/b1-ch05-l04-ex04.mp3",
-      "options": ["Gdybyś powiedział wcześniej, pomogłabym ci.", "Gdybyś powiedziała wcześniej, pomogłabym ci.", "Gdybyś powiedział wcześniej, pomógłbym ci.", "Gdybym powiedziała wcześniej, pomogłabym ci."],
+      "options": [
+        "Gdybyś powiedział wcześniej, pomogłabym ci.",
+        "Gdybyś powiedziała wcześniej, pomogłabym ci.",
+        "Gdybyś powiedział wcześniej, pomógłbym ci.",
+        "Gdybym powiedziała wcześniej, pomogłabym ci."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Gdybyś powiedział wcześniej, pomogłabym ci.' — If you had told [me] earlier, I would have helped you (female speaker). 'Gdybyś powiedział' = if you (m) had said (2sg m l-form). 'Pomogłabym ci' = I would have helped you (1sg f conditional of pomóc: pomógł/pomogła → pomogłabym)."
     },
@@ -56,15 +77,44 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build (male speaker): If only I could fly, I would go to Australia. [Gdybym tylko móc, lecieć, Australia]",
-      "wordBank": ["Gdybym", "Gdybyś", "tylko", "mógł", "mogła", "leciałbym", "leciałabym", "poleciałbym", "do", "Australii", "Australię", "."],
+      "wordBank": [
+        "Gdybym",
+        "Gdybyś",
+        "tylko",
+        "mógł",
+        "mogła",
+        "leciałbym",
+        "leciałabym",
+        "poleciałbym",
+        "do",
+        "Australii",
+        "Australię",
+        "."
+      ],
       "correctSequences": [
-        ["Gdybym", "tylko", "mógł", "poleciałbym", "do", "Australii", "."]
+        [
+          "Gdybym",
+          "tylko",
+          "mógł",
+          "poleciałbym",
+          "do",
+          "Australii",
+          "."
+        ]
       ],
       "explanation": "'Gdybym tylko mógł, poleciałbym do Australii.' — If only I could, I would fly to Australia (male speaker). 'Gdybym tylko mógł' = if only I could (1sg m — mógł is the male l-form of móc). 'Poleciałbym' = I would fly (1sg m conditional of polecieć). 'Do Australii' = to Australia (do + gen)."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 14,
-  "tags": ["conditional", "b1-core", "gdyby", "hypothetical", "counterfactual"],
-  "prerequisites": ["b1-ch05-l03"]
+  "tags": [
+    "conditional",
+    "b1-core",
+    "gdyby",
+    "hypothetical",
+    "counterfactual"
+  ],
+  "prerequisites": [
+    "b1-ch05-l03"
+  ]
 }

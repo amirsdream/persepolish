@@ -4,7 +4,9 @@
   "chapter": 5,
   "lessonOrder": 1,
   "title": "Present Tense — Group 1 Verbs (-am / -asz)",
+  "title_fa": "زمان حال — گروه ۱ (-am/-asz)",
   "grammarPoint": "Group 1 verbs: czytać, pisać, słuchać, pracować, rozmawiać — present tense conjugation",
+  "grammarPoint_fa": "صرف افعال گروه اول: pracować، mieszkać، słuchać",
   "explanation": {
     "text": "Polish verbs are grouped by their conjugation pattern. **Group 1** verbs end in **-am / -asz** in the present tense. Most infinitives in this group end in **-ać**.\n\n**Endings for Group 1 (-am/-asz):**\n\n| Person | Singular | Plural |\n|--------|----------|--------|\n| 1st (ja) | **-am** | **-amy** |\n| 2nd (ty) | **-asz** | **-acie** |\n| 3rd (on/ona/ono) | **-a** | **-ają** |\n\n**Key Group 1 verbs:**\n\n| Infinitive | Meaning | ja form |\n|-----------|---------|--------|\n| czytać | to read | czytam |\n| pisać | to write | piszę* |\n| słuchać | to listen | słucham |\n| pracować | to work | pracuję* |\n| rozmawiać | to talk | rozmawiam |\n| mieszkać | to live/reside | mieszkam |\n| oglądać | to watch | oglądam |\n| pytać | to ask | pytam |\n\n*Note: **pisać** and **pracować** have stem changes — they follow modified patterns but their endings are still predictable.*\n\n**Examples:**\n- Czytam książkę. = I am reading a book.\n- Słuchasz muzyki? = Are you listening to music?\n- On pracuje w szkole. = He works at school.",
     "notes": [
@@ -14,13 +16,19 @@
       "mieszkać is essential: Mieszkam w Warszawie. = I live in Warsaw."
     ]
   },
+  "explanation_fa": "افعال گروه اول (مصدر به -ać/-ować): پسوندها: -am، -asz، -a، -amy، -acie، -ają. مثال: pracować (کار کردن) → pracuję، pracujesz، pracuje، pracujemy، pracujecie، pracują. توجه: افعال -ować در زمان حال به -uj- تبدیل می‌شوند.",
   "exercises": [
     {
       "id": "a1-ch05-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Choose the correct form: Ja ___ gazetę. (I read a newspaper.)",
-      "options": ["czytam", "czytasz", "czyta", "czytają"],
+      "options": [
+        "czytam",
+        "czytasz",
+        "czyta",
+        "czytają"
+      ],
       "correctIndex": 0,
       "explanation": "'Czytać' Group 1: ja → czytam. 'Czytam gazetę' = I read/am reading a newspaper."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Oni ___ w Krakowie. (They live in Kraków.) [mieszkać, oni form]",
       "answer": "mieszkają",
-      "acceptableAnswers": ["mieszkają"],
+      "acceptableAnswers": [
+        "mieszkają"
+      ],
       "hint": "Group 1 oni/one form: -ają"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch05/a1-ch05-l01-ex03.mp3",
-      "options": ["Pracuję w biurze.", "Pracujesz w biurze.", "Pracuje w biurze.", "Pracujemy w biurze."],
+      "options": [
+        "Pracuję w biurze.",
+        "Pracujesz w biurze.",
+        "Pracuje w biurze.",
+        "Pracujemy w biurze."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Pracuję w biurze.' — I work in an office. 'Pracować' → pracuję (ja form, -ować verbs use -uję)."
     },
@@ -47,9 +62,24 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: She watches TV every day.",
-      "wordBank": ["Ona", "ogląda", "oglądasz", "telewizję", "telewizja", "każdego", "każdy", "dnia"],
+      "wordBank": [
+        "Ona",
+        "ogląda",
+        "oglądasz",
+        "telewizję",
+        "telewizja",
+        "każdego",
+        "każdy",
+        "dnia"
+      ],
       "correctSequences": [
-        ["Ona", "ogląda", "telewizję", "każdego", "dnia"]
+        [
+          "Ona",
+          "ogląda",
+          "telewizję",
+          "każdego",
+          "dnia"
+        ]
       ],
       "explanation": "'Ona ogląda telewizję każdego dnia' = She watches TV every day. 'Oglądać' → ona ogląda (Group 1, 3rd singular -a). 'Każdego dnia' = every day (genitive)."
     },
@@ -58,13 +88,27 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Which sentence is correct? (We are talking about Poland.)",
-      "options": ["Rozmawiamy o Polsce.", "Rozmawiamy o Polskę.", "Rozmawiacie o Polsce.", "Rozmawiają o Polska."],
+      "options": [
+        "Rozmawiamy o Polsce.",
+        "Rozmawiamy o Polskę.",
+        "Rozmawiacie o Polsce.",
+        "Rozmawiają o Polska."
+      ],
       "correctIndex": 0,
       "explanation": "'Rozmawiamy o Polsce' = We are talking about Poland. 'Rozmawiać' → my → rozmawiamy (Group 1 -amy). 'O + locative': Polska → Polsce."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["present-tense", "group1-verbs", "conjugation", "a1-core"],
-  "prerequisites": ["a1-ch01-l01", "a1-ch01-l02", "a1-ch01-l03"]
+  "tags": [
+    "present-tense",
+    "group1-verbs",
+    "conjugation",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch01-l01",
+    "a1-ch01-l02",
+    "a1-ch01-l03"
+  ]
 }

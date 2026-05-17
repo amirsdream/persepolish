@@ -4,7 +4,9 @@
   "chapter": 20,
   "lessonOrder": 2,
   "title": "Tense Review — Past, Present, Future",
+  "title_fa": "مرور زمان‌ها — گذشته، حال، آینده",
   "grammarPoint": "Complete A2 tense system review: past tense forms (all genders/numbers), present tense groups, imperfective future (będę + inf), perfective future (present-looking), and conditional",
+  "grammarPoint_fa": "مرور زمان‌های سه‌گانه با هر دو وجه",
   "explanation": {
     "text": "A complete overview of the Polish tense system covered in A1–A2.\n\n## PRESENT TENSE (Czas teraźniejszy)\n\n**Group 1** (-am/-asz): czytać, pracować, mówić\n**Group 2** (-ę/-esz / -ę/-isz): pisać (piszę/piszesz), mieć (mam/masz)\n\n| | Group 1 (czytać) | Group 2 (pisać) |\n|--|--|--|\n| ja | czyt**am** | pisz**ę** |\n| ty | czyt**asz** | pisz**esz** |\n| on/ona | czyt**a** | pisz**e** |\n| my | czyt**amy** | pisz**emy** |\n| wy | czyt**acie** | pisz**ecie** |\n| oni/one | czyt**ają** | pisz**ą** |\n\n## PAST TENSE (Czas przeszły)\n\n| Person | Masculine | Feminine | Neuter |\n|--------|----------|---------|-------|\n| ja | czytał**em** | czytał**am** | — |\n| ty | czytał**eś** | czytał**aś** | — |\n| on/ona/ono | czytał | czytał**a** | czytał**o** |\n| my | czytali**śmy** | czytały**śmy** | — |\n| wy | czytali**ście** | czytały**ście** | — |\n| oni/one | czyta**li** | czyta**ły** | — |\n\n## IMPERFECTIVE FUTURE (będę + inf or l-form)\n\n- Jutro **będę czytać** gazetę. (I will be reading)\n- Będę **czytał/czytała** (l-form variant — same meaning)\n\n## PERFECTIVE FUTURE (present-looking conjugation)\n\n- **Napiszę** jutro ten email. (I will write — completed)\n- **Zrobię** to zaraz. (I will do it right away)\n\n## CONDITIONAL (Tryb warunkowy)\n\n- Masc: chciał**bym**, pisał**bym**, szedł**bym**\n- Fem: chciała**bym**, pisała**bym**, szła**bym**\n- + gdyby clauses for hypotheticals\n\n## Key Time Expressions\n\n| Past | Present | Future |\n|------|---------|--------|\n| wczoraj | teraz | jutro |\n| w zeszłym tygodniu | w tej chwili | w przyszłym tygodniu |\n| dawno temu | zwykle | za tydzień |\n| ostatnio | codziennie | wkrótce |",
     "notes": [
@@ -14,13 +16,19 @@
       "Time words help: jutro + perfective future; codziennie + imperfective (any tense)."
     ]
   },
+  "explanation_fa": "جدول کامل زمان‌ها: حال (فقط ناکامل): czytam. گذشته کامل: przeczytałem/przeczytałam. گذشته ناکامل: czytałem/czytałam. آینده ناکامل: będę czytać / będę czytał(a). آینده کامل: przeczytam. این جدول را با افعال مختلف تمرین کنید.",
   "exercises": [
     {
       "id": "a2-ch20-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Wczoraj ona ___ list. (Yesterday she wrote a letter.) [past fem sg]",
-      "options": ["napisała", "napisał", "napisało", "napisali"],
+      "options": [
+        "napisała",
+        "napisał",
+        "napisało",
+        "napisali"
+      ],
       "correctIndex": 0,
       "explanation": "Feminine singular past tense: -ła ending. 'Ona napisała list' = She wrote a letter. 'Napisał' = masc sg (he). 'Napisało' = neuter sg. 'Napisali' = virile plural (they, men group)."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Jutro ___ ten raport. (Tomorrow I will finish this report.) [perf future, 1st sg]",
-      "options": ["skończę", "będę kończyć", "skończyłem", "kończę"],
+      "options": [
+        "skończę",
+        "będę kończyć",
+        "skończyłem",
+        "kończę"
+      ],
       "correctIndex": 0,
       "explanation": "'Skończę' = perfective future (I will finish/complete). Tomorrow + perfective = completed result. 'Będę kończyć' = imperfective future (I will be in the process of finishing). 'Skończyłem' = past. 'Kończę' = present."
     },
@@ -38,7 +51,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch20/a2-ch20-l02-ex03.mp3",
-      "options": ["W zeszłym roku mieszkałam w Krakowie.", "W zeszłym roku będę mieszkać w Krakowie.", "W przyszłym roku mieszkałam w Krakowie.", "W zeszłym roku mieszkam w Krakowie."],
+      "options": [
+        "W zeszłym roku mieszkałam w Krakowie.",
+        "W zeszłym roku będę mieszkać w Krakowie.",
+        "W przyszłym roku mieszkałam w Krakowie.",
+        "W zeszłym roku mieszkam w Krakowie."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'W zeszłym roku mieszkałam w Krakowie.' — Last year I (f) lived in Kraków. 'W zeszłym roku' = last year → past tense. 'Mieszkałam' = imperfective past fem sg (I was living / I lived — duration)."
     },
@@ -47,7 +65,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Moi rodzice ___ do Polski w 1990 roku. (My parents (men+women) moved to Poland in 1990.) [virile plural past]",
-      "options": ["przyjechali", "przyjechały", "przyjechała", "przyjechał"],
+      "options": [
+        "przyjechali",
+        "przyjechały",
+        "przyjechała",
+        "przyjechał"
+      ],
       "correctIndex": 0,
       "explanation": "'Moi rodzice' = my parents (mixed gender group = virile plural) → -li ending: 'przyjechali'. If it were all women: 'przyjechały'. Virile (at least one man) always takes -li. 'Rodzice' (parents) is virile by default."
     },
@@ -56,15 +79,42 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: She was reading when the phone rang. (imperfective background / perfective event)",
-      "wordBank": ["Kiedy", "czytała", "czytała", ",", "zadzwonił", "zadzwoniła", "telefon", "telefonem", "."],
+      "wordBank": [
+        "Kiedy",
+        "czytała",
+        "czytała",
+        ",",
+        "zadzwonił",
+        "zadzwoniła",
+        "telefon",
+        "telefonem",
+        "."
+      ],
       "correctSequences": [
-        ["Kiedy", "czytała", ",", "zadzwonił", "telefon", "."]
+        [
+          "Kiedy",
+          "czytała",
+          ",",
+          "zadzwonił",
+          "telefon",
+          "."
+        ]
       ],
       "explanation": "'Kiedy czytała, zadzwonił telefon.' — When she was reading, the phone rang. 'Czytała' = imperfective past fem (ongoing background). 'Zadzwonił' = perfective past masc (telefon = m, one-time event). Classic Polish aspect contrast."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["tense", "review", "a2-core"],
-  "prerequisites": ["a2-ch11-l01", "a2-ch11-l02", "a2-ch11-l03", "a2-ch13-l01", "a2-ch13-l02"]
+  "tags": [
+    "tense",
+    "review",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a2-ch11-l01",
+    "a2-ch11-l02",
+    "a2-ch11-l03",
+    "a2-ch13-l01",
+    "a2-ch13-l02"
+  ]
 }

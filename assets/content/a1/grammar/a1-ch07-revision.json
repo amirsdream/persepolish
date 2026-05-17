@@ -3,8 +3,9 @@
   "level": "a1",
   "chapter": 7,
   "title": "Chapter 7 Revision: Food & Restaurant",
+  "title_fa": "مرور فصل ۷: غذا و رستوران",
   "description": "Mixed questions covering instrumental case, adjective agreement, restaurant phrases, lubić constructions, and food vocabulary.",
-  "passThreshold": 0.70,
+  "passThreshold": 0.7,
   "questions": [
     {
       "id": "a1-ch07-rev-q01",
@@ -12,7 +13,12 @@
       "order": 1,
       "sourceLesson": "a1-ch07-l01",
       "prompt": "Jestem ___ (I am a student — m). [student → instrumental]",
-      "options": ["studentem", "student", "studenta", "studencie"],
+      "options": [
+        "studentem",
+        "student",
+        "studenta",
+        "studencie"
+      ],
       "correctIndex": 0,
       "explanation": "'Student' (masculine) → instrumental 'studentem'. After 'być', use instrumental for identity/profession."
     },
@@ -22,7 +28,12 @@
       "order": 2,
       "sourceLesson": "a1-ch07-l01",
       "prompt": "Piję kawę z ___ (with milk). [mleko → instrumental]",
-      "options": ["mlekiem", "mleko", "mleka", "mleku"],
+      "options": [
+        "mlekiem",
+        "mleko",
+        "mleka",
+        "mleku"
+      ],
       "correctIndex": 0,
       "explanation": "'Z + instrumental': mleko (neuter) → 'mlekiem'. 'Piję kawę z mlekiem' = I drink coffee with milk."
     },
@@ -32,7 +43,12 @@
       "order": 3,
       "sourceLesson": "a1-ch07-l02",
       "prompt": "Ona jest ___ nauczycielką. (She is a good teacher.)",
-      "options": ["dobrą", "dobrym", "dobrej", "dobra"],
+      "options": [
+        "dobrą",
+        "dobrym",
+        "dobrej",
+        "dobra"
+      ],
       "correctIndex": 0,
       "explanation": "'Dobry' + feminine 'nauczycielka' → instrumental: 'dobrą'. Feminine instrumental adjective: -ą."
     },
@@ -42,7 +58,12 @@
       "order": 4,
       "sourceVocab": "a1-ch07-vocab",
       "prompt": "What does 'smacznego' mean?",
-      "options": ["cheers!", "thank you", "enjoy your meal!", "good morning"],
+      "options": [
+        "cheers!",
+        "thank you",
+        "enjoy your meal!",
+        "good morning"
+      ],
       "correctIndex": 2,
       "explanation": "'Smacznego!' = Enjoy your meal! / Bon appétit! Said before/during eating."
     },
@@ -52,7 +73,12 @@
       "order": 5,
       "sourceLesson": "a1-ch07-l03",
       "prompt": "How do you say 'The bill, please' in Polish?",
-      "options": ["Poproszę rachunek.", "Proszę rachunek.", "Daj mi rachunek.", "Czy mogę rachunek?"],
+      "options": [
+        "Poproszę rachunek.",
+        "Proszę rachunek.",
+        "Daj mi rachunek.",
+        "Czy mogę rachunek?"
+      ],
       "correctIndex": 0,
       "explanation": "'Poproszę rachunek.' = The bill, please. 'Poproszę' is the standard polite ordering/requesting word."
     },
@@ -62,7 +88,12 @@
       "order": 6,
       "sourceLesson": "a1-ch07-l04",
       "prompt": "Lubię ___ (I like pizza). [pizza → accusative]",
-      "options": ["pizzę", "pizza", "pizzy", "pizzą"],
+      "options": [
+        "pizzę",
+        "pizza",
+        "pizzy",
+        "pizzą"
+      ],
       "correctIndex": 0,
       "explanation": "'Lubić + accusative': pizza (f) → 'pizzę'. 'Lubię pizzę' = I like pizza."
     },
@@ -72,7 +103,12 @@
       "order": 7,
       "sourceLesson": "a1-ch07-l04",
       "prompt": "Nie lubię ___ (I don't like meat). [mięso → after negation]",
-      "options": ["mięsa", "mięso", "mięsem", "mięsu"],
+      "options": [
+        "mięsa",
+        "mięso",
+        "mięsem",
+        "mięsu"
+      ],
       "correctIndex": 0,
       "explanation": "After negation (nie), the object changes to genitive: mięso → 'mięsa'. 'Nie lubię mięsa' = I don't like meat."
     },
@@ -82,7 +118,12 @@
       "order": 8,
       "sourceVocab": "a1-ch07-vocab",
       "prompt": "What does 'pyszny' mean?",
-      "options": ["salty", "spicy", "delicious", "sweet"],
+      "options": [
+        "salty",
+        "spicy",
+        "delicious",
+        "sweet"
+      ],
       "correctIndex": 2,
       "explanation": "'Pyszny' = delicious / yummy. 'Ta zupa jest pyszna!' = This soup is delicious!"
     },
@@ -92,7 +133,12 @@
       "order": 9,
       "sourceLesson": "a1-ch07-l01",
       "prompt": "Jadę do Krakowa ___ (by train). [pociąg → instrumental]",
-      "options": ["pociągiem", "pociąg", "pociągu", "pociągowi"],
+      "options": [
+        "pociągiem",
+        "pociąg",
+        "pociągu",
+        "pociągowi"
+      ],
       "correctIndex": 0,
       "explanation": "Means of transport uses instrumental: 'pociąg' → 'pociągiem'. 'Jadę pociągiem' = I'm going by train."
     },
@@ -102,7 +148,12 @@
       "order": 10,
       "sourceLesson": "a1-ch07-l02",
       "prompt": "Jestem ___ studentem. (I am a young student — m.)",
-      "options": ["młodym", "młodej", "młodą", "młody"],
+      "options": [
+        "młodym",
+        "młodej",
+        "młodą",
+        "młody"
+      ],
       "correctIndex": 0,
       "explanation": "'Młody' + masculine 'studentem' → adjective instrumental: 'młodym'. M/N adjective instrumental: -ym."
     },
@@ -112,7 +163,12 @@
       "order": 11,
       "sourceVocab": "a1-ch07-vocab",
       "prompt": "What does 'kelner' mean?",
-      "options": ["chef", "cashier", "waiter", "customer"],
+      "options": [
+        "chef",
+        "cashier",
+        "waiter",
+        "customer"
+      ],
       "correctIndex": 2,
       "explanation": "'Kelner' = waiter (m). Female: 'kelnerka' = waitress."
     },
@@ -122,7 +178,12 @@
       "order": 12,
       "sourceLesson": "a1-ch07-l04",
       "prompt": "My ___ gotować. (We like cooking.)",
-      "options": ["lubimy", "lubię", "lubią", "lubisz"],
+      "options": [
+        "lubimy",
+        "lubię",
+        "lubią",
+        "lubisz"
+      ],
       "correctIndex": 0,
       "explanation": "'Lubić' Group 2: my → 'lubimy'. 'Lubimy gotować' = We like cooking. Infinitive (gotować) follows unchanged."
     }

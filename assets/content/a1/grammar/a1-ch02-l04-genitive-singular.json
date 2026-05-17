@@ -4,7 +4,9 @@
   "chapter": 2,
   "lessonOrder": 4,
   "title": "Genitive Singular — Possession",
+  "title_fa": "حالت مضاف‌الیهی مفرد — مالکیت",
   "grammarPoint": "Genitive singular case: expressing possession and absence",
+  "grammarPoint_fa": "حالت مضاف‌الیهی مفرد: -a/-u (مذکر/خنثی)، -y/-i (مؤنث)",
   "explanation": {
     "text": "The **genitive case** (dopełniacz) is the most frequently used case after the nominative. It expresses possession ('s), absence (nie ma), and follows many prepositions (do, z, bez, od, dla).\n\n**Genitive singular endings:**\n\n| Gender | Nominative | Genitive | Example |\n|--------|-----------|----------|----------|\n| Masculine animate | -consonant | **-a** | brat → brata |\n| Masculine inanimate | -consonant | **-a / -u** | dom → domu |\n| Feminine -a | -a | **-y / -i** | siostra → siostry |\n| Feminine soft | -ia/-ja | **-i** | pani → pani |\n| Neuter -o | -o | **-a** | okno → okna |\n\n**Key uses:**\n- Possession: *To jest dom **mojego brata*** = This is my brother's house.\n- Absence: ***Nie ma** mamy w domu* = Mum is not at home.",
     "notes": [
@@ -14,13 +16,19 @@
       "After do (to/of), z (from/with), bez (without), dla (for) — always use genitive."
     ]
   },
+  "explanation_fa": "حالت مضاف‌الیهی (dopełniacz) برای بیان مالکیت، نبود و منفی کردن استفاده می‌شود. پسوندهای مفرد: مذکر/خنثی اغلب -a می‌گیرند (brat → brata)، مؤنث -y/-i می‌گیرند (siostra → siostry). پس از nie فعل مستقیم به حالت مضاف‌الیهی می‌رود.",
   "exercises": [
     {
       "id": "a1-ch02-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Choose the correct form: To jest dom ___ (my brother's).",
-      "options": ["mojego brata", "mój brat", "moim bratem", "mój bracie"],
+      "options": [
+        "mojego brata",
+        "mój brat",
+        "moim bratem",
+        "mój bracie"
+      ],
       "correctIndex": 0,
       "explanation": "Possession uses genitive: 'mojego brata' (genitive of 'mój brat'). 'To jest dom mojego brata' = This is my brother's house."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Nie ma ___ w domu. (Mum is not at home.) [mama → ?]",
       "answer": "mamy",
-      "acceptableAnswers": ["mamy"],
+      "acceptableAnswers": [
+        "mamy"
+      ],
       "hint": "Feminine noun mama → genitive singular"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch02/a1-ch02-l04-ex03.mp3",
-      "options": ["To jest samochód taty.", "To jest samochód tatę.", "To jest samochód tatą.", "To jest samochód tato."],
+      "options": [
+        "To jest samochód taty.",
+        "To jest samochód tatę.",
+        "To jest samochód tatą.",
+        "To jest samochód tato."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'To jest samochód taty.' — This is dad's car. 'Taty' is the genitive of 'tata' (masculine noun ending in -a)."
     },
@@ -47,9 +62,22 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: This is my sister's book. [siostra → siostry, książka]",
-      "wordBank": ["To", "jest", "książka", "mojej", "siostry", "siostra"],
+      "wordBank": [
+        "To",
+        "jest",
+        "książka",
+        "mojej",
+        "siostry",
+        "siostra"
+      ],
       "correctSequences": [
-        ["To", "jest", "książka", "mojej", "siostry"]
+        [
+          "To",
+          "jest",
+          "książka",
+          "mojej",
+          "siostry"
+        ]
       ],
       "explanation": "'To jest książka mojej siostry' = This is my sister's book. 'Siostry' = genitive of 'siostra' (feminine -a → -y)."
     },
@@ -58,13 +86,27 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Jadę do ___ (to Warsaw). [Warszawa → ?]",
-      "options": ["Warszawy", "Warszawa", "Warszawę", "Warszawie"],
+      "options": [
+        "Warszawy",
+        "Warszawa",
+        "Warszawę",
+        "Warszawie"
+      ],
       "correctIndex": 0,
       "explanation": "After 'do' (to/of a place) use the genitive: Warszawa (feminine, -a) → Warszawy. 'Jadę do Warszawy' = I'm going to Warsaw."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["genitive", "possession", "nie-ma", "cases", "a1-core"],
-  "prerequisites": ["a1-ch01-l04", "a1-ch02-l01"]
+  "tags": [
+    "genitive",
+    "possession",
+    "nie-ma",
+    "cases",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch01-l04",
+    "a1-ch02-l01"
+  ]
 }

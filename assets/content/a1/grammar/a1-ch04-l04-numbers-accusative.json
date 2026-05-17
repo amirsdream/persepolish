@@ -4,7 +4,9 @@
   "chapter": 4,
   "lessonOrder": 4,
   "title": "Numbers + Nouns — Case Rules",
+  "title_fa": "اعداد + اسم‌ها — قواعد حالت‌دهی",
   "grammarPoint": "Case agreement after numbers: jeden/jedna, dwa/dwie, 3-4, 5+ rule",
+  "grammarPoint_fa": "عدد ۱ + فاعلی؛ ۲-۴ + فاعلی جمع؛ ۵+ + مضاف‌الیهی جمع",
   "explanation": {
     "text": "The case of the noun after a number depends on the number itself:\n\n| Number | Noun form | Example |\n|--------|-----------|----------|\n| **1** (jeden/jedna/jedno) | **Nominative singular** | jeden student, jedna studentka |\n| **2, 3, 4** (dwa, trzy, cztery) | **Nominative plural** (non-virile) or **Genitive singular** (virile) | dwa koty, dwie siostry |\n| **5+** (pięć, sześć…) | **Genitive plural** | pięć studentów, pięć kotów |\n\n**Key patterns for shopping:**\n- jeden złoty (one zloty)\n- dwa / trzy / cztery złote (2/3/4 zloty)\n- pięć złotych (5 zloty and above)\n\nFor now, focus on the 1 / 2-4 / 5+ distinction with common nouns.",
     "notes": [
@@ -14,13 +16,19 @@
       "In shops: Proszę pięć jabłek = Five apples please (genitive plural)."
     ]
   },
+  "explanation_fa": "اعداد لهستانی حالت دستوری اسم را تعیین می‌کنند: 1 + حالت فاعلی مفرد (jeden kot)، 2-4 + حالت فاعلی جمع (dwa koty)، 5+ + حالت مضاف‌الیهی جمع (pięć kotów). این قاعده برای همه اعداد صدک یا بیشتر نیز اعمال می‌شود.",
   "exercises": [
     {
       "id": "a1-ch04-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Choose the correct form: Mam ___ (three cats). [kot → koty pl.]",
-      "options": ["trzy koty", "trzy kotów", "trzech kotów", "trzy kota"],
+      "options": [
+        "trzy koty",
+        "trzy kotów",
+        "trzech kotów",
+        "trzy kota"
+      ],
       "correctIndex": 0,
       "explanation": "After 2-4, use nominative plural (for non-virile nouns): trzy koty. 'Mam trzy koty' = I have three cats."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "To kosztuje pięć ___. (This costs five zloty.) [złoty → genitive plural]",
       "answer": "złotych",
-      "acceptableAnswers": ["złotych"],
+      "acceptableAnswers": [
+        "złotych"
+      ],
       "hint": "After 5+, the noun takes genitive plural: złoty → złotych"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch04/a1-ch04-l04-ex03.mp3",
-      "options": ["Proszę dwie kawy.", "Proszę dwa kawy.", "Proszę dwóch kawy.", "Proszę dwie kawę."],
+      "options": [
+        "Proszę dwie kawy.",
+        "Proszę dwa kawy.",
+        "Proszę dwóch kawy.",
+        "Proszę dwie kawę."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Proszę dwie kawy.' — Two coffees please. 'Dwie' (feminine 2) + 'kawy' (genitive singular of kawa, used after 2-4 for feminine nouns)."
     },
@@ -47,9 +62,20 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: I have one brother. [brat = masculine]",
-      "wordBank": ["Mam", "jednego", "jedną", "brata", "brat", "siostrę"],
+      "wordBank": [
+        "Mam",
+        "jednego",
+        "jedną",
+        "brata",
+        "brat",
+        "siostrę"
+      ],
       "correctSequences": [
-        ["Mam", "jednego", "brata"]
+        [
+          "Mam",
+          "jednego",
+          "brata"
+        ]
       ],
       "explanation": "'Mam jednego brata' = I have one brother. After 'mam' (accusative context), 1 masculine animate = jednego + genitive form."
     },
@@ -58,13 +84,28 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "In a shop: 'Proszę ___ jabłek.' (Five apples please.)",
-      "options": ["pięć", "pięć jabłek", "pięć jabłka", "pięciu"],
+      "options": [
+        "pięć",
+        "pięć jabłek",
+        "pięć jabłka",
+        "pięciu"
+      ],
       "correctIndex": 1,
       "explanation": "After 5+, use the genitive plural: pięć jabłek. 'Proszę pięć jabłek' = Five apples please. 'Jabłek' is genitive plural of 'jabłko'."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["numbers", "accusative", "genitive", "shopping", "a1-core"],
-  "prerequisites": ["a1-ch04-l01", "a1-ch04-l03", "a1-ch02-l04"]
+  "tags": [
+    "numbers",
+    "accusative",
+    "genitive",
+    "shopping",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch04-l01",
+    "a1-ch04-l03",
+    "a1-ch02-l04"
+  ]
 }

@@ -4,7 +4,9 @@
   "chapter": 17,
   "lessonOrder": 3,
   "title": "Travel Phrases in Grammar Context",
+  "title_fa": "عبارات سفر در بافت دستوری",
   "grammarPoint": "Travel vocabulary in grammatical structures: kupić bilet do/na, zarezerwować pokój w, przesiadka w, polecieć do, wrócić z",
+  "grammarPoint_fa": "عبارات سفر با ساختارهای دستوری: rezerwować، podróżować، pytać o",
   "explanation": {
     "text": "Practical travel phrases with their grammatical structures.\n\n**Buying tickets:**\n- Poproszę bilet **do** Krakowa. (bilet do + genitive = ticket to)\n- Poproszę bilet **na** pociąg/samolot. (bilet na + accusative = ticket for train/plane)\n- Bilet w jedną stronę / bilet powrotny. (one-way / return ticket)\n\n**Making reservations:**\n- Chciałbym zarezerwować pokój **w** hotelu... (w + locative)\n- Rezerwuję stolik **na** dwie osoby. (na + accusative: for two)\n- Mam rezerwację **na** nazwisko... (na + accusative: under the name)\n\n**Getting around:**\n- Potrzebuję przesiadki **w** Warszawie. (przesiadka w + locative)\n- Skąd odjeżdża autobus **do** centrum? (do + genitive)\n- Z którego peronu odjeżdża pociąg? (z + genitive: from which platform)\n\n**Returning:**\n- Wróciłam **z** Paryża wczoraj. (wrócić z + genitive)\n- Przyleciałem **z** Londynu. (przylecieć z + genitive)\n\n**Asking for directions:**\n- Jak dojść/dojechać **do** muzeum? (do + genitive)\n- Czy to daleko **od** stacji? (od + genitive: from)",
     "notes": [
@@ -14,13 +16,19 @@
       "Przesiadka = transfer/connection (n): robić przesiadkę."
     ]
   },
+  "explanation_fa": "عبارات سفر با ساختارهای دستوری: rezerwować pokój (اتاق رزرو کردن)، pytać o drogę (راه پرسیدن)، wsiadać do + مضاف‌الیهی (سوار شدن)، wysiadać z + مضاف‌الیهی (پیاده شدن)، przesiadać się na + مفعولی (عوض کردن وسیله)، dojechać do + مضاف‌الیهی (رسیدن به).",
   "exercises": [
     {
       "id": "a2-ch17-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Poproszę dwa bilety ___ Warszawy. (Two tickets to Warsaw, please.) [do + genitive]",
-      "options": ["do", "na", "w", "za"],
+      "options": [
+        "do",
+        "na",
+        "w",
+        "za"
+      ],
       "correctIndex": 0,
       "explanation": "Ticket destination: bilet do + genitive. 'Do Warszawy' (Warszawa → genitive: Warszawy). 'Bilet na Warszawę' is not standard Polish."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Chciałbym zarezerwować pokój ___ hotel Marriott. (I'd like to reserve a room at the Marriott hotel.) [w + locative]",
       "answer": "w",
-      "acceptableAnswers": ["w"],
+      "acceptableAnswers": [
+        "w"
+      ],
       "hint": "Location of hotel: w + locative. W hotelu (hotel → locative: hotelu)"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch17/a2-ch17-l03-ex03.mp3",
-      "options": ["Wróciłam z Paryża wczoraj wieczorem.", "Wróciłam do Paryża wczoraj wieczorem.", "Pojechałam do Paryża wczoraj wieczorem.", "Wróciłem z Paryża wczoraj wieczorem."],
+      "options": [
+        "Wróciłam z Paryża wczoraj wieczorem.",
+        "Wróciłam do Paryża wczoraj wieczorem.",
+        "Pojechałam do Paryża wczoraj wieczorem.",
+        "Wróciłem z Paryża wczoraj wieczorem."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Wróciłam z Paryża wczoraj wieczorem.' — I (f) returned from Paris yesterday evening. 'Wrócić z + genitive': z Paryża (Paryż → genitive: Paryża)."
     },
@@ -47,7 +62,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Mam rezerwację ___ nazwisko Kowalski. (I have a reservation under the name Kowalski.)",
-      "options": ["na", "do", "w", "od"],
+      "options": [
+        "na",
+        "do",
+        "w",
+        "od"
+      ],
       "correctIndex": 0,
       "explanation": "Reservation under a name: 'rezerwacja na nazwisko' (na + accusative). 'Na nazwisko' is a fixed expression meaning 'under the name'."
     },
@@ -56,16 +76,45 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: How do I get to the train station? (on foot — do + genitive)",
-      "wordBank": ["Jak", "dojść", "dojechać", "do", "stacji", "dworzec", "dworca", "kolejowej", "?"],
+      "wordBank": [
+        "Jak",
+        "dojść",
+        "dojechać",
+        "do",
+        "stacji",
+        "dworzec",
+        "dworca",
+        "kolejowej",
+        "?"
+      ],
       "correctSequences": [
-        ["Jak", "dojść", "do", "stacji", "kolejowej"],
-        ["Jak", "dojść", "do", "dworca"]
+        [
+          "Jak",
+          "dojść",
+          "do",
+          "stacji",
+          "kolejowej"
+        ],
+        [
+          "Jak",
+          "dojść",
+          "do",
+          "dworca"
+        ]
       ],
       "explanation": "'Jak dojść do stacji kolejowej?' or 'Jak dojść do dworca?' — How do I get (on foot) to the train station? 'Dojść do + genitive'. 'Stacja kolejowa' → genitive: stacji kolejowej. 'Dworzec' → genitive: dworca."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["travel", "prepositions", "genitive", "a2-core"],
-  "prerequisites": ["a2-ch17-l01", "a2-ch17-l02"]
+  "tags": [
+    "travel",
+    "prepositions",
+    "genitive",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a2-ch17-l01",
+    "a2-ch17-l02"
+  ]
 }

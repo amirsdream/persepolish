@@ -3,8 +3,9 @@
   "level": "a2",
   "chapter": 17,
   "title": "Chapter 17 Revision — Travel & Accommodation",
+  "title_fa": "مرور فصل ۱۷: سفر و اقامتگاه",
   "description": "Mixed revision quiz covering genitive plural, prepositions + cases, travel phrases, and accommodation language from Chapter 17.",
-  "passThreshold": 0.70,
+  "passThreshold": 0.7,
   "questions": [
     {
       "id": "a2-ch17-rev-q01",
@@ -12,7 +13,12 @@
       "order": 1,
       "sourceLesson": "a2-ch17-l01",
       "prompt": "Genitive plural of 'student' (m) — Mam dużo ___.",
-      "options": ["studentów", "studenty", "studentami", "studentom"],
+      "options": [
+        "studentów",
+        "studenty",
+        "studentami",
+        "studentom"
+      ],
       "correctIndex": 0,
       "explanation": "Masculine animate/inanimate nouns take -ów in genitive plural: student → studentów. 'Mam dużo studentów' = I have many students."
     },
@@ -22,7 +28,12 @@
       "order": 2,
       "sourceLesson": "a2-ch17-l01",
       "prompt": "Genitive plural of 'kobieta' (f) — Nie ma tutaj ___.",
-      "options": ["kobiet", "kobietów", "kobietami", "kobietach"],
+      "options": [
+        "kobiet",
+        "kobietów",
+        "kobietami",
+        "kobietach"
+      ],
       "correctIndex": 0,
       "explanation": "Feminine nouns ending in -a take zero ending (drop -a) in genitive plural: kobieta → kobiet. 'Nie ma tutaj kobiet' = There are no women here."
     },
@@ -32,7 +43,12 @@
       "order": 3,
       "sourceLesson": "a2-ch17-l01",
       "prompt": "Genitive plural of 'okno' (n) — W pokoju nie ma ___.",
-      "options": ["okien", "okienów", "okna", "oknom"],
+      "options": [
+        "okien",
+        "okienów",
+        "okna",
+        "oknom"
+      ],
       "correctIndex": 0,
       "explanation": "Neuter nouns in -o/-e take zero ending with fleeting vowel insertion: okno → okien (o inserted before final n). 'Nie ma okien' = There are no windows."
     },
@@ -42,7 +58,12 @@
       "order": 4,
       "sourceLesson": "a2-ch17-l02",
       "prompt": "Idę ___ sklepu. (I'm going to the shop.) [destination]",
-      "options": ["do", "w", "na", "od"],
+      "options": [
+        "do",
+        "w",
+        "na",
+        "od"
+      ],
       "correctIndex": 0,
       "explanation": "'Do + genitive' = to (destination): idę do sklepu. 'W + locative' = in (location). 'Na' = onto/to (surface/event)."
     },
@@ -52,7 +73,12 @@
       "order": 5,
       "sourceLesson": "a2-ch17-l02",
       "prompt": "Kawa ___ mleka, proszę. (Coffee without milk, please.)",
-      "options": ["bez", "z", "do", "od"],
+      "options": [
+        "bez",
+        "z",
+        "do",
+        "od"
+      ],
       "correctIndex": 0,
       "explanation": "'Bez + genitive' = without: bez mleka (mleko → genitive: mleka). Contrast: 'z mlekiem' = with milk (z + instrumental)."
     },
@@ -62,7 +88,12 @@
       "order": 6,
       "sourceLesson": "a2-ch17-l03",
       "prompt": "Poproszę bilet ___ Krakowa. (A ticket to Kraków, please.)",
-      "options": ["do", "na", "w", "za"],
+      "options": [
+        "do",
+        "na",
+        "w",
+        "za"
+      ],
       "correctIndex": 0,
       "explanation": "Ticket destination: bilet do + genitive. 'Bilet do Krakowa' = ticket to Kraków (Kraków → genitive: Krakowa)."
     },
@@ -72,7 +103,12 @@
       "order": 7,
       "sourceLesson": "a2-ch17-l03",
       "prompt": "Wróciłam ___ Paryża wczoraj. (I returned from Paris yesterday.) [wrócić z + gen]",
-      "options": ["z", "do", "na", "od"],
+      "options": [
+        "z",
+        "do",
+        "na",
+        "od"
+      ],
       "correctIndex": 0,
       "explanation": "'Wrócić z + genitive' = to return from. 'Z Paryża' (Paryż → genitive: Paryża). Contrast 'do Paryża' = to Paris (destination)."
     },
@@ -82,7 +118,12 @@
       "order": 8,
       "sourceLesson": "a2-ch17-l04",
       "prompt": "Chciałbym pokój ___ łazienką. (I'd like a room with a bathroom.)",
-      "options": ["z", "bez", "do", "na"],
+      "options": [
+        "z",
+        "bez",
+        "do",
+        "na"
+      ],
       "correctIndex": 0,
       "explanation": "'Z + instrumental' = with: z łazienką (łazienka → instrumental: łazienką). 'Bez łazienki' = without a bathroom."
     },
@@ -92,7 +133,12 @@
       "order": 9,
       "sourceLesson": "a2-ch17-l04",
       "prompt": "Pokój jest ___ trzecim piętrze. (The room is on the third floor.)",
-      "options": ["na", "w", "do", "przy"],
+      "options": [
+        "na",
+        "w",
+        "do",
+        "przy"
+      ],
       "correctIndex": 0,
       "explanation": "Floor location: 'na + locative'. 'Na trzecim piętrze' = on the third floor (piętro → locative: piętrze)."
     },
@@ -102,7 +148,12 @@
       "order": 10,
       "sourceVocab": "a2-ch17-vocab",
       "prompt": "What does 'nocleg' mean?",
-      "options": ["overnight stay / accommodation", "reservation", "platform", "connection"],
+      "options": [
+        "overnight stay / accommodation",
+        "reservation",
+        "platform",
+        "connection"
+      ],
       "correctIndex": 0,
       "explanation": "'Nocleg' (m) = overnight stay / accommodation. From 'noc' (night) + 'leg' (root of leżeć, to lie). E.g. 'Szukam noclegu' = I'm looking for accommodation."
     },
@@ -112,7 +163,12 @@
       "order": 11,
       "sourceVocab": "a2-ch17-vocab",
       "prompt": "What is 'bilet powrotny'?",
-      "options": ["return ticket", "one-way ticket", "boarding pass", "platform ticket"],
+      "options": [
+        "return ticket",
+        "one-way ticket",
+        "boarding pass",
+        "platform ticket"
+      ],
       "correctIndex": 0,
       "explanation": "'Bilet powrotny' = return ticket. From 'powrotny' (return, adj.) < 'powrót' (return, n.). Contrast: 'bilet w jedną stronę' = one-way ticket."
     },
@@ -122,7 +178,12 @@
       "order": 12,
       "sourceLesson": "a2-ch17-l04",
       "prompt": "O której należy się ___? (What time do we need to check out?)",
-      "options": ["wymeldować", "zameldować", "wynająć", "zapłacić"],
+      "options": [
+        "wymeldować",
+        "zameldować",
+        "wynająć",
+        "zapłacić"
+      ],
       "correctIndex": 0,
       "explanation": "'Wymeldować się' (perf) = to check out. 'Zameldować się' = to check in. Both come from 'meldunek' (registration). 'O której należy się wymeldować?' = What time is check-out?"
     }

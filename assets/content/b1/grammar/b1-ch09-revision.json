@@ -3,8 +3,9 @@
   "chapter": 9,
   "level": "b1",
   "title": "Chapter 9 Revision: Verbal Nouns",
+  "title_fa": "مرور فصل ۹ B1: اسم مصدرها",
   "description": "Test your knowledge of verbal noun formation, aspect distinction, and usage in Polish.",
-  "passThreshold": 0.70,
+  "passThreshold": 0.7,
   "questions": [
     {
       "id": "b1-ch09-rev-q01",
@@ -37,7 +38,9 @@
       "type": "fill_blank",
       "prompt": "Lubię ___ (read/the act of reading). [use imperfective verbal noun]",
       "answer": "czytanie",
-      "acceptableAnswers": ["czytanie"],
+      "acceptableAnswers": [
+        "czytanie"
+      ],
       "explanation": "After lubić, use the imperfective verbal noun (genitive after negation, accusative after positive). Czytanie (imperfective) = the ongoing enjoyment of reading as an activity."
     },
     {
@@ -71,7 +74,10 @@
       "type": "fill_blank",
       "prompt": "___ (smoking) jest zabronione w tym budynku.",
       "answer": "Palenie",
-      "acceptableAnswers": ["Palenie", "palenie"],
+      "acceptableAnswers": [
+        "Palenie",
+        "palenie"
+      ],
       "explanation": "Palenie (verbal noun from palić) acts as a subject here. In signs and formal notices, verbal nouns are commonly used as subjects."
     },
     {
@@ -91,9 +97,22 @@
       "id": "b1-ch09-rev-q08",
       "type": "sentence_builder",
       "prompt": "Build: 'Learning Polish requires patience.'",
-      "wordBank": ["Uczenie", "się", "polskiego", "wymaga", "cierpliwości", "czas"],
+      "wordBank": [
+        "Uczenie",
+        "się",
+        "polskiego",
+        "wymaga",
+        "cierpliwości",
+        "czas"
+      ],
       "correctSequences": [
-        ["Uczenie", "się", "polskiego", "wymaga", "cierpliwości"]
+        [
+          "Uczenie",
+          "się",
+          "polskiego",
+          "wymaga",
+          "cierpliwości"
+        ]
       ],
       "explanation": "Uczenie się polskiego wymaga cierpliwości. The reflexive verbal noun 'uczenie się' (learning) is the subject; polskiego is genitive (of Polish); cierpliwości is genitive after wymagać."
     },
@@ -128,7 +147,10 @@
       "type": "fill_blank",
       "prompt": "Nie lubię ___ (doing homework). [verbal noun from 'odrabiać' + 'lekcji'/'prac domowych']",
       "answer": "odrabiania lekcji",
-      "acceptableAnswers": ["odrabiania lekcji", "odrabiania prac domowych"],
+      "acceptableAnswers": [
+        "odrabiania lekcji",
+        "odrabiania prac domowych"
+      ],
       "explanation": "After 'nie lubić' use the genitive. The verbal noun odrabiania (genitive of odrabianie, from odrabiać) + lekcji (genitive). 'Nie lubię odrabiania lekcji.'"
     },
     {

@@ -4,7 +4,9 @@
   "chapter": 10,
   "lessonOrder": 1,
   "title": "Adjective Agreement in Nominative",
+  "title_fa": "تطبیق صفت در حالت فاعلی",
   "grammarPoint": "Nominative adjective agreement: dobry/dobra/dobre; predicate vs. attributive adjectives",
+  "grammarPoint_fa": "پسوندهای صفت در حالت فاعلی: -y/-i (مذکر)، -a (مؤنث)، -e (خنثی)",
   "explanation": {
     "text": "Polish adjectives must agree with the noun in **gender, number, and case**. In the nominative (subject) case, the endings are:\n\n**Nominative singular adjective endings:**\n\n| Gender | Ending | Example |\n|--------|--------|--------|\n| Masculine | **-y / -i** | dobry, nowy, stary, duży |\n| Feminine | **-a** | dobra, nowa, stara, duża |\n| Neuter | **-e** | dobre, nowe, stare, duże |\n\n**Nominative plural:**\n\n| Type | Ending | Example |\n|------|--------|--------|\n| Virile (m-personal pl) | **-i / -y** | dobrzy (men), nowi (men) |\n| Non-virile (f, n, mixed) | **-e** | dobre (things/women/children) |\n\n**Adjective + noun examples:**\n- **dobry** student (m) = good student\n- **dobra** studentka (f) = good student\n- **dobre** dziecko (n) = good child\n- **dobrzy** studenci (m-pers pl) = good students (men)\n- **dobre** studentki (f pl) = good students (women)\n\n**Key adjectives to know:**\n\n| Polish (m) | Feminine | Neuter | English |\n|-----------|----------|--------|---------|\n| dobry | dobra | dobre | good |\n| zły | zła | złe | bad |\n| nowy | nowa | nowe | new |\n| stary | stara | stare | old |\n| mały | mała | małe | small |\n| duży | duża | duże | big |\n| piękny | piękna | piękne | beautiful |\n| ciekawy | ciekawa | ciekawe | interesting |",
     "notes": [
@@ -14,13 +16,19 @@
       "After jest (predicate): Ten film jest dobry. = This film is good. (no case change needed for predicate)"
     ]
   },
+  "explanation_fa": "صفات در لهستانی با اسم از نظر جنسیت، حالت و تعداد تطبیق می‌یابند. در حالت فاعلی مفرد: مذکر: -y/-i (duży dom)، مؤنث: -a (duża szkoła)، خنثی: -e (duże okno). جمع مذکر جاندار: -i/-y (duzi chłopcy)، سایر جمع‌ها: -e (duże domy، duże okna).",
   "exercises": [
     {
       "id": "a1-ch10-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "To jest ___ film. (This is a good film.) [dobry → m]",
-      "options": ["dobry", "dobra", "dobre", "dobrzy"],
+      "options": [
+        "dobry",
+        "dobra",
+        "dobre",
+        "dobrzy"
+      ],
       "correctIndex": 0,
       "explanation": "'Film' is masculine → adjective: 'dobry'. 'To jest dobry film' = This is a good film."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "To jest ___ książka. (This is an interesting book.) [ciekawy → f]",
       "answer": "ciekawa",
-      "acceptableAnswers": ["ciekawa"],
+      "acceptableAnswers": [
+        "ciekawa"
+      ],
       "hint": "Feminine nominative adjective: -y → -a"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch10/a1-ch10-l01-ex03.mp3",
-      "options": ["Mam nowe mieszkanie.", "Mam nowy mieszkanie.", "Mam nowa mieszkanie.", "Mam nowych mieszkanie."],
+      "options": [
+        "Mam nowe mieszkanie.",
+        "Mam nowy mieszkanie.",
+        "Mam nowa mieszkanie.",
+        "Mam nowych mieszkanie."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Mam nowe mieszkanie.' — I have a new flat. 'Mieszkanie' is neuter → adjective in accusative (= nominative for neuter): 'nowe'."
     },
@@ -47,9 +62,24 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: This is a beautiful city.",
-      "wordBank": ["To", "jest", "są", "piękne", "piękny", "piękna", "miasto", "miastem", "miastach"],
+      "wordBank": [
+        "To",
+        "jest",
+        "są",
+        "piękne",
+        "piękny",
+        "piękna",
+        "miasto",
+        "miastem",
+        "miastach"
+      ],
       "correctSequences": [
-        ["To", "jest", "piękne", "miasto"]
+        [
+          "To",
+          "jest",
+          "piękne",
+          "miasto"
+        ]
       ],
       "explanation": "'To jest piękne miasto' = This is a beautiful city. 'Miasto' is neuter → 'piękne' (neuter nominative)."
     },
@@ -58,13 +88,26 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Mam ___ psa. (I have a good dog.) [dobry → accusative of m animate]",
-      "options": ["dobrego", "dobry", "dobra", "dobre"],
+      "options": [
+        "dobrego",
+        "dobry",
+        "dobra",
+        "dobre"
+      ],
       "correctIndex": 0,
       "explanation": "'Dobry' + masculine animate 'pies' → accusative: 'dobrego psa'. M animate accusative adjective: -ego."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["adjectives", "agreement", "nominative", "a1-core"],
-  "prerequisites": ["a1-ch01-l04", "a1-ch06-l02"]
+  "tags": [
+    "adjectives",
+    "agreement",
+    "nominative",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch01-l04",
+    "a1-ch06-l02"
+  ]
 }

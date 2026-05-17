@@ -3,8 +3,9 @@
   "level": "a1",
   "chapter": 8,
   "title": "Chapter 8 Revision: Transport & Travel",
+  "title_fa": "مرور فصل ۸: حمل‌ونقل و سفر",
   "description": "Mixed questions covering motion verbs iść/jechać, do+genitive, genitive singular and plural, and transport vocabulary.",
-  "passThreshold": 0.70,
+  "passThreshold": 0.7,
   "questions": [
     {
       "id": "a1-ch08-rev-q01",
@@ -12,7 +13,12 @@
       "order": 1,
       "sourceLesson": "a1-ch08-l01",
       "prompt": "I'm walking to the market square right now. Which verb is correct?",
-      "options": ["Idę na rynek.", "Jadę na rynek.", "Chodzę na rynek.", "Jeżdżę na rynek."],
+      "options": [
+        "Idę na rynek.",
+        "Jadę na rynek.",
+        "Chodzę na rynek.",
+        "Jeżdżę na rynek."
+      ],
       "correctIndex": 0,
       "explanation": "'Idę' = going on foot right now (current motion). 'Jadę' = by vehicle. 'Chodzę' = habitually on foot."
     },
@@ -22,7 +28,12 @@
       "order": 2,
       "sourceLesson": "a1-ch08-l01",
       "prompt": "She regularly commutes to work by train. Which is correct?",
-      "options": ["Ona jeździ do pracy pociągiem.", "Ona jedzie do pracy pociągiem.", "Ona idzie do pracy pociągiem.", "Ona chodzi do pracy pociągiem."],
+      "options": [
+        "Ona jeździ do pracy pociągiem.",
+        "Ona jedzie do pracy pociągiem.",
+        "Ona idzie do pracy pociągiem.",
+        "Ona chodzi do pracy pociągiem."
+      ],
       "correctIndex": 0,
       "explanation": "'Jeździ' (jeździć) = habitual vehicle motion. 'Jedzie' = current trip by vehicle. 'Pociągiem' = by train (instrumental)."
     },
@@ -32,7 +43,12 @@
       "order": 3,
       "sourceLesson": "a1-ch08-l02",
       "prompt": "Jadę ___ (to Gdańsk). [Gdańsk → genitive]",
-      "options": ["do Gdańska", "do Gdańsk", "w Gdańsku", "na Gdańsk"],
+      "options": [
+        "do Gdańska",
+        "do Gdańsk",
+        "w Gdańsku",
+        "na Gdańsk"
+      ],
       "correctIndex": 0,
       "explanation": "'Do + genitive': Gdańsk (m) → Gdańska. 'Jadę do Gdańska' = I'm going to Gdańsk."
     },
@@ -42,7 +58,12 @@
       "order": 4,
       "sourceVocab": "a1-ch08-vocab",
       "prompt": "What does 'dworzec' mean?",
-      "options": ["airport", "station (train/bus)", "bus stop", "taxi rank"],
+      "options": [
+        "airport",
+        "station (train/bus)",
+        "bus stop",
+        "taxi rank"
+      ],
       "correctIndex": 1,
       "explanation": "'Dworzec' = station (train/bus). 'Idę na dworzec' = I'm going to the station."
     },
@@ -52,7 +73,12 @@
       "order": 5,
       "sourceLesson": "a1-ch08-l03",
       "prompt": "Nie ma ___ (There's no bread). [chleb → genitive]",
-      "options": ["chleba", "chleb", "chlebem", "chlebie"],
+      "options": [
+        "chleba",
+        "chleb",
+        "chlebem",
+        "chlebie"
+      ],
       "correctIndex": 0,
       "explanation": "'Nie ma + genitive': chleb (m animate) → chleba. 'Nie ma chleba' = There is no bread."
     },
@@ -62,7 +88,12 @@
       "order": 6,
       "sourceLesson": "a1-ch08-l03",
       "prompt": "Nie mam ___ (I don't have a ticket). [bilet → genitive after negation]",
-      "options": ["biletu", "bilet", "biletem", "bilecie"],
+      "options": [
+        "biletu",
+        "bilet",
+        "biletem",
+        "bilecie"
+      ],
       "correctIndex": 0,
       "explanation": "After negation, accusative → genitive: bilet (m inanimate) → biletu. 'Nie mam biletu' = I don't have a ticket."
     },
@@ -72,7 +103,12 @@
       "order": 7,
       "sourceLesson": "a1-ch08-l04",
       "prompt": "W Krakowie jest dużo ___ (In Kraków there are a lot of tourists). [turysta → genitive plural]",
-      "options": ["turystów", "turyści", "turysty", "turystom"],
+      "options": [
+        "turystów",
+        "turyści",
+        "turysty",
+        "turystom"
+      ],
       "correctIndex": 0,
       "explanation": "'Dużo + genitive plural': turysta (m animate) → turystów. Masculine animate genitive plural: -ów."
     },
@@ -82,7 +118,12 @@
       "order": 8,
       "sourceVocab": "a1-ch08-vocab",
       "prompt": "What does 'pieszo' mean?",
-      "options": ["by bus", "on foot", "by car", "by bike"],
+      "options": [
+        "by bus",
+        "on foot",
+        "by car",
+        "by bike"
+      ],
       "correctIndex": 1,
       "explanation": "'Pieszo' = on foot. 'Chodzę do pracy pieszo' = I walk to work."
     },
@@ -92,7 +133,12 @@
       "order": 9,
       "sourceLesson": "a1-ch08-l02",
       "prompt": "What is the difference between 'jestem w domu' and 'idę do domu'?",
-      "options": ["I'm at home vs. I'm going home.", "I'm going home vs. I'm at home.", "I was home vs. I went home.", "I came home vs. I left home."],
+      "options": [
+        "I'm at home vs. I'm going home.",
+        "I'm going home vs. I'm at home.",
+        "I was home vs. I went home.",
+        "I came home vs. I left home."
+      ],
       "correctIndex": 0,
       "explanation": "'W domu' = at home (locative, position). 'Do domu' = (going) home (genitive, direction). Essential distinction!"
     },
@@ -102,7 +148,12 @@
       "order": 10,
       "sourceLesson": "a1-ch08-l04",
       "prompt": "Kupiłem sześć ___ (I bought six oranges). [pomarańcza → genitive plural]",
-      "options": ["pomarańczy", "pomarańcze", "pomarańcza", "pomarańczom"],
+      "options": [
+        "pomarańczy",
+        "pomarańcze",
+        "pomarańcza",
+        "pomarańczom"
+      ],
       "correctIndex": 0,
       "explanation": "After 6 (5+), use genitive plural: pomarańcza (f) → pomarańczy. Feminine genitive plural often has zero ending or -y/-i."
     },
@@ -112,7 +163,12 @@
       "order": 11,
       "sourceVocab": "a1-ch08-vocab",
       "prompt": "What does 'wakacje' mean?",
-      "options": ["weekend", "holiday / vacation", "journey", "weekend trip"],
+      "options": [
+        "weekend",
+        "holiday / vacation",
+        "journey",
+        "weekend trip"
+      ],
       "correctIndex": 1,
       "explanation": "'Wakacje' = holiday / vacation. 'Jadę na wakacje' = I'm going on holiday."
     },
@@ -122,7 +178,12 @@
       "order": 12,
       "sourceLesson": "a1-ch08-l01",
       "prompt": "Jadę ___ (by car). [samochód → instrumental]",
-      "options": ["samochodem", "samochód", "samochodu", "samochodzie"],
+      "options": [
+        "samochodem",
+        "samochód",
+        "samochodu",
+        "samochodzie"
+      ],
       "correctIndex": 0,
       "explanation": "Transport: instrumental case. 'Samochód' → 'samochodem'. 'Jadę samochodem' = I'm going by car."
     }

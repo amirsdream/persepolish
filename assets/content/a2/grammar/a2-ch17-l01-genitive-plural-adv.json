@@ -4,7 +4,9 @@
   "chapter": 17,
   "lessonOrder": 1,
   "title": "Genitive Plural — Advanced Patterns",
+  "title_fa": "مضاف‌الیهی جمع — الگوهای پیشرفته",
   "grammarPoint": "Genitive plural patterns: masculine -ów/-y/-i, feminine zero ending/-y/-i, neuter zero ending/-y; zero-ending exceptions",
+  "grammarPoint_fa": "مضاف‌الیهی جمع: -ów (مذکر)، -∅/-i/-y (مؤنث)، -∅ (خنثی)",
   "explanation": {
     "text": "The **genitive plural** is needed after numbers 5+, dużo/mało/wiele/ile, and the preposition bez/do/z/dla/od/po.\n\n**Masculine noun genitive plural:**\n\n| Type | Rule | Example |\n|------|------|--------|\n| Hard m-animate | + -ów | student → **studentów** |\n| Hard m-inanimate | + -ów | rok → **lat** (irregular!) |\n| Soft m | + -y/-i | słownik → **słowników**, gość → **gości** |\n\n**Feminine noun genitive plural:**\n\n| Type | Rule | Example |\n|------|------|--------|\n| f -a (hard) | zero ending | kobieta → **kobiet** |\n| f -a (soft) | + -y/-i | ulica → **ulic**, kolacja → **kolacji** |\n| f -ość/-ść | + -y/-i | miłość → **miłości** |\n\n**Neuter noun genitive plural:**\n\n| Type | Rule | Example |\n|------|------|--------|\n| n -o | zero ending | okno → **okien** (fleeting e!) |\n| n -e | zero ending | morze → **mórz** (fleeting ó!) |\n| n -ie | + -ań/-eń/-y | mieszkanie → **mieszkań** |\n\n**Key irregular genitive plurals:**\n- rok → **lat** (not roków)\n- dziecko → **dzieci**\n- człowiek → **ludzi**\n- oko → **oczu**\n- ucho → **uszu**\n\n**Numbers and genitive plural:**\n- pięć **studentów** = five students\n- dużo **kobiet** = many women\n- kilka **mieszkań** = several flats",
     "notes": [
@@ -14,13 +16,19 @@
       "Rok → lat (completely irregular — memorize for seasons/years)."
     ]
   },
+  "explanation_fa": "الگوهای مضاف‌الیهی جمع: اسم‌های مذکر اغلب -ów: studentów، kotów. استثنا: برادران → braci. مؤنث: -a حذف می‌شود: kobiet، sióstr. خنثی: اغلب بدون پسوند: okien، miast. برخی مؤنث‌ها -i/-y می‌گیرند: nocy، rzeczy.",
   "exercises": [
     {
       "id": "a2-ch17-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "W klasie jest pięciu ___. (There are five students (m-animate) in the class.) [student — gen pl]",
-      "options": ["studentów", "studenty", "studentów", "student"],
+      "options": [
+        "studentów",
+        "studenty",
+        "studentów",
+        "student"
+      ],
       "correctIndex": 0,
       "explanation": "Masculine animate genitive plural: studentów (-ów ending). 'Pięciu studentów' = five students (virile: pięciu + gen pl animate)."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Mieszkam tu od pięciu ___. (I've lived here for five years.) [rok — gen pl, irregular]",
       "answer": "lat",
-      "acceptableAnswers": ["lat"],
+      "acceptableAnswers": [
+        "lat"
+      ],
       "hint": "Rok → irregular genitive plural: lat (not 'roków')"
     },
     {
@@ -38,7 +48,12 @@
       "type": "multiple_choice",
       "order": 3,
       "prompt": "W tym budynku jest dużo ___. (In this building there are many flats.) [mieszkanie — gen pl]",
-      "options": ["mieszkań", "mieszkanie", "mieszkania", "mieszkaniów"],
+      "options": [
+        "mieszkań",
+        "mieszkanie",
+        "mieszkania",
+        "mieszkaniów"
+      ],
       "correctIndex": 0,
       "explanation": "Neuter -anie nouns: mieszkanie → genitive plural: mieszkań (-ań ending). 'Dużo mieszkań' = many flats."
     },
@@ -47,7 +62,12 @@
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/a2/ch17/a2-ch17-l01-ex04.mp3",
-      "options": ["Na tej ulicy jest dużo sklepów.", "Na tej ulicy jest dużo sklep.", "Na tej ulicy jest wiele sklepu.", "Na tej ulicy jest kilka sklepów."],
+      "options": [
+        "Na tej ulicy jest dużo sklepów.",
+        "Na tej ulicy jest dużo sklep.",
+        "Na tej ulicy jest wiele sklepu.",
+        "Na tej ulicy jest kilka sklepów."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Na tej ulicy jest dużo sklepów.' — On this street there are many shops. 'Sklep' (m inanimate) → gen pl: sklepów (-ów ending). 'Dużo' + gen pl."
     },
@@ -56,13 +76,24 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "W mieście mieszka sto tysięcy ___. (A hundred thousand people live in the city.) [człowiek — gen pl, irregular]",
-      "options": ["ludzi", "człowieków", "człowieki", "ludziów"],
+      "options": [
+        "ludzi",
+        "człowieków",
+        "człowieki",
+        "ludziów"
+      ],
       "correctIndex": 0,
       "explanation": "'Człowiek' → irregular genitive plural: 'ludzi' (completely different stem). 'Ludzi' = of people (gen pl). 'Sto tysięcy ludzi' = 100,000 people."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": ["genitive-plural", "cases", "a2-core"],
-  "prerequisites": ["a1-ch08-l04"]
+  "tags": [
+    "genitive-plural",
+    "cases",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a1-ch08-l04"
+  ]
 }

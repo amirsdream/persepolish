@@ -4,7 +4,9 @@
   "chapter": 9,
   "lessonOrder": 2,
   "title": "Reflexive Verbs with się",
+  "title_fa": "افعال بازتابی با się",
   "grammarPoint": "Reflexive particle się: myć się, uczyć się, czuć się, bać się, cieszyć się",
+  "grammarPoint_fa": "افعال بازتابی: myć się، ubierać się، nazywać się و دیگران",
   "explanation": {
     "text": "Many Polish verbs use the reflexive particle **się**, which indicates that the action refers back to the subject (oneself) or is inherently reflexive.\n\n**Types of się verbs:**\n\n**1. True reflexives** (action on oneself):\n- myć **się** = to wash oneself\n- ubierać **się** = to get dressed\n- golić **się** = to shave (oneself)\n\n**2. Inherently reflexive** (verb only exists with się):\n- bać **się** = to be afraid\n- śmiać **się** = to laugh\n- cieszyć **się** = to be happy / rejoice\n- starać **się** = to try / make an effort\n\n**3. Emotional/state się:**\n- czuć **się** = to feel (health/emotion)\n- nudzić **się** = to be bored\n\n**Conjugation pattern:** się stays the same for all persons!\n\n| Person | Example |\n|--------|--------|\n| Ja | **czuję się** dobrze |\n| Ty | **czujesz się** dobrze |\n| On/ona | **czuje się** dobrze |\n| My | **czujemy się** dobrze |\n\n**Word order:** się usually comes after the verb, but can move: *Nie czuję się dobrze* / *Jak się czujesz?*\n\n**Health expressions:**\n- Czuję się dobrze/źle. = I feel well/bad.\n- Boli mnie głowa. = My head hurts. (see next lesson)\n- Jestem przeziębiony/a. = I have a cold.",
     "notes": [
@@ -14,13 +16,19 @@
       "uczyć się = to learn/study (next word in this chapter review)."
     ]
   },
+  "explanation_fa": "ذره się در لهستانی با افعال بازتابی (برگشتی) استفاده می‌شود. نمونه‌ها: myć się (شستن خود)، ubierać się (لباس پوشیدن)، nazywać się (اسم داشتن)، czuć się (احساس کردن). się همیشه پس از فعل یا در جای طبیعی جمله قرار می‌گیرد، نه الزاماً بلافاصله پس از فعل.",
   "exercises": [
     {
       "id": "a1-ch09-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Jak ___ czujesz? (How do you feel?)",
-      "options": ["się", "si", "siebie", "swój"],
+      "options": [
+        "się",
+        "si",
+        "siebie",
+        "swój"
+      ],
       "correctIndex": 0,
       "explanation": "'Jak się czujesz?' = How do you feel? 'Się' is the reflexive particle — same for all persons."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "On ___ boi węży. (He is afraid of snakes.) [bać się, on]",
       "answer": "się",
-      "acceptableAnswers": ["się"],
+      "acceptableAnswers": [
+        "się"
+      ],
       "hint": "bać się = to be afraid; się stays the same"
     },
     {
@@ -38,7 +48,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch09/a1-ch09-l02-ex03.mp3",
-      "options": ["Nie czuję się dzisiaj dobrze.", "Nie czuje się dzisiaj dobrze.", "Nie czujesz się dzisiaj dobrze.", "Nie czuliśmy się dzisiaj dobrze."],
+      "options": [
+        "Nie czuję się dzisiaj dobrze.",
+        "Nie czuje się dzisiaj dobrze.",
+        "Nie czujesz się dzisiaj dobrze.",
+        "Nie czuliśmy się dzisiaj dobrze."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Nie czuję się dzisiaj dobrze.' — I don't feel well today. 'Czuć się' (to feel): czuję się (ja). 'Dzisiaj' = today."
     },
@@ -47,10 +62,28 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: She is happy today.",
-      "wordBank": ["Ona", "cieszy", "się", "cieszyć", "dzisiaj", "dziś", "dobrze"],
+      "wordBank": [
+        "Ona",
+        "cieszy",
+        "się",
+        "cieszyć",
+        "dzisiaj",
+        "dziś",
+        "dobrze"
+      ],
       "correctSequences": [
-        ["Ona", "cieszy", "się", "dzisiaj"],
-        ["Ona", "cieszy", "się", "dziś"]
+        [
+          "Ona",
+          "cieszy",
+          "się",
+          "dzisiaj"
+        ],
+        [
+          "Ona",
+          "cieszy",
+          "się",
+          "dziś"
+        ]
       ],
       "explanation": "'Ona cieszy się dzisiaj' = She is happy today. 'Cieszyć się' → 3rd person: cieszy się. 'Dzisiaj/dziś' = today."
     },
@@ -59,13 +92,26 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "My ___ każdego ranka. (We wash ourselves every morning.) [myć się]",
-      "options": ["myjemy się", "myję się", "myją się", "myjesz się"],
+      "options": [
+        "myjemy się",
+        "myję się",
+        "myją się",
+        "myjesz się"
+      ],
       "correctIndex": 0,
       "explanation": "'Myć się' → my form: 'myjemy się'. 'Myjemy się każdego ranka' = We wash ourselves every morning."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 9,
-  "tags": ["reflexive", "sie", "health", "a1-core"],
-  "prerequisites": ["a1-ch05-l01", "a1-ch05-l02"]
+  "tags": [
+    "reflexive",
+    "sie",
+    "health",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch05-l01",
+    "a1-ch05-l02"
+  ]
 }

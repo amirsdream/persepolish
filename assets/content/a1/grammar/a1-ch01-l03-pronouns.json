@@ -4,7 +4,9 @@
   "chapter": 1,
   "lessonOrder": 3,
   "title": "Personal Pronouns",
+  "title_fa": "ضمایر شخصی",
   "grammarPoint": "Polish personal pronouns: ja, ty, on, ona, ono, my, wy, oni, one",
+  "grammarPoint_fa": "ضمایر شخصی لهستانی: ja، ty، on/ona/ono، my، wy، oni/one",
   "explanation": {
     "text": "Polish has nine personal pronouns covering singular and plural. Unlike English, they are often **omitted** in speech because verb endings show who the subject is. Use pronouns when you want to emphasise who is doing the action.\n\n| | Singular | Plural |\n|--|----------|--------|\n| 1st | **ja** (I) | **my** (we) |\n| 2nd | **ty** (you) | **wy** (you all) |\n| 3rd m. | **on** (he) | **oni** (they — mixed/male) |\n| 3rd f. | **ona** (she) | **one** (they — all female) |\n| 3rd n. | **ono** (it) | **one** (they — neuter) |\n\nIn everyday speech: *Idę do sklepu* (not *Ja idę…*) is more natural.",
     "notes": [
@@ -14,13 +16,19 @@
       "Pan (Mr) / Pani (Ms) are used instead of ty in formal address — covered in A2."
     ]
   },
+  "explanation_fa": "ضمایر شخصی لهستانی: ja (من)، ty (تو)، on (او-مذکر)، ona (او-مؤنث)، ono (آن-خنثی)، my (ما)، wy (شما)، oni (آن‌ها-مذکر/مختلط)، one (آن‌ها-مؤنث/خنثی). در لهستانی ضمایر اغلب حذف می‌شوند، اما برای تأکید استفاده می‌شوند.",
   "exercises": [
     {
       "id": "a1-ch01-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Which pronoun means 'she'?",
-      "options": ["ona", "on", "ono", "one"],
+      "options": [
+        "ona",
+        "on",
+        "ono",
+        "one"
+      ],
       "correctIndex": 0,
       "explanation": "'Ona' = she. 'On' = he. 'Ono' = it (neuter). 'One' = they (all-female/neuter)."
     },
@@ -30,7 +38,10 @@
       "order": 2,
       "prompt": "___ jesteśmy z Polski. (We are from Poland.)",
       "answer": "My",
-      "acceptableAnswers": ["My", "my"],
+      "acceptableAnswers": [
+        "My",
+        "my"
+      ],
       "hint": "First person plural subject pronoun"
     },
     {
@@ -38,7 +49,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch01/a1-ch01-l03-ex03.mp3",
-      "options": ["On jest z Warszawy.", "Ona jest z Warszawy.", "Ono jest z Warszawy.", "Oni są z Warszawy."],
+      "options": [
+        "On jest z Warszawy.",
+        "Ona jest z Warszawy.",
+        "Ono jest z Warszawy.",
+        "Oni są z Warszawy."
+      ],
       "correctIndex": 1,
       "explanation": "You heard: 'Ona jest z Warszawy.' — She is from Warsaw. 'Ona' = she, 'jest' = is, 'z Warszawy' = from Warsaw."
     },
@@ -47,9 +63,20 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: He is a student. (Use the pronoun for emphasis.)",
-      "wordBank": ["On", "Ona", "jest", "są", "studentem", "studentką"],
+      "wordBank": [
+        "On",
+        "Ona",
+        "jest",
+        "są",
+        "studentem",
+        "studentką"
+      ],
       "correctSequences": [
-        ["On", "jest", "studentem"]
+        [
+          "On",
+          "jest",
+          "studentem"
+        ]
       ],
       "explanation": "'On jest studentem' = He is a student. On = he, jest = is (3rd sg.), studentem = instrumental of student."
     },
@@ -58,13 +85,24 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Piotr i Marek są Polakami. What pronoun could replace 'Piotr i Marek'?",
-      "options": ["oni", "one", "ono", "my"],
+      "options": [
+        "oni",
+        "one",
+        "ono",
+        "my"
+      ],
       "correctIndex": 0,
       "explanation": "Piotr and Marek are two males, so the pronoun is 'oni' (they — mixed or male group)."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 8,
-  "tags": ["pronouns", "personal-pronouns", "a1-core"],
-  "prerequisites": ["a1-ch01-l01"]
+  "tags": [
+    "pronouns",
+    "personal-pronouns",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch01-l01"
+  ]
 }

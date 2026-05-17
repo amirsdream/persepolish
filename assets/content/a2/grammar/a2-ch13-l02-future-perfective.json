@@ -4,7 +4,9 @@
   "chapter": 13,
   "lessonOrder": 2,
   "title": "Future Tense — Perfective",
+  "title_fa": "زمان آینده — کامل",
   "grammarPoint": "Perfective future: present-looking conjugation of perfective verbs (napiszę, zrobię, kupię) = future meaning",
+  "grammarPoint_fa": "آینده کامل: صرف مستقیم فعل کامل در زمان حال",
   "explanation": {
     "text": "Perfective verbs do NOT have a true present tense. Their **present-looking conjugation** is actually **future tense**.\n\n**Key insight:** When you conjugate a perfective verb in the 'present', it means FUTURE.\n\n**Examples — perfective future forms:**\n\n| Infinitive | ja | ty | on/ona | my | wy | oni/one |\n|-----------|----|----|--------|----|----|--------|\n| napisać | **napiszę** | **napiszesz** | **napisze** | **napiszemy** | **napiszecie** | **napiszą** |\n| zrobić | **zrobię** | **zrobisz** | **zrobi** | **zrobimy** | **zrobicie** | **zrobią** |\n| kupić | **kupię** | **kupisz** | **kupi** | **kupimy** | **kupicie** | **kupią** |\n| pójść | **pójdę** | **pójdziesz** | **pójdzie** | **pójdziemy** | **pójdziecie** | **pójdą** |\n\n**Imperfective vs. Perfective future:**\n\n| | Imperfective future | Perfective future |\n|-|--------------------|-----------------|\n| Form | będę + infinitive | present-looking form |\n| Meaning | will be doing (ongoing) | will do (completed) |\n| Example | Będę czytać | Przeczytam |\n\n**Context examples:**\n- Jutro **napiszę** e-mail. = Tomorrow I'll write [and send] the email. (completed)\n- Jutro będę pisać e-maile. = Tomorrow I'll be writing emails. (ongoing, many)\n- **Zrobię** to dziś wieczorem. = I'll do it tonight. (completed promise)\n- Gdzie **pójdziemy** w weekend? = Where will we go at the weekend?",
     "notes": [
@@ -14,13 +16,19 @@
       "Use imperfective future for: ongoing/habitual/background future activity."
     ]
   },
+  "explanation_fa": "افعال کامل فقط آینده دارند (نه حال). صرف مستقیم: zrobię (خواهم کرد)، zrobisz (خواهی کرد)، zrobi (خواهد کرد)، zrobimy، zrobicie، zrobią. این ساختار برای بیان عمل کامل‌شده در آینده استفاده می‌شود: Jutro zrobię zadanie (فردا تکلیفم را تمام خواهم کرد).",
   "exercises": [
     {
       "id": "a2-ch13-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Jutro ___ ten raport. (Tomorrow I will finish [write] this report.) [napisać, ja]",
-      "options": ["napiszę", "będę pisać", "piszę", "pisałem"],
+      "options": [
+        "napiszę",
+        "będę pisać",
+        "piszę",
+        "pisałem"
+      ],
       "correctIndex": 0,
       "explanation": "Single completed future event → perfective future: napiszę. 'Będę pisać' (imperfective) = I'll be writing — ongoing, not necessarily finishing."
     },
@@ -30,7 +38,9 @@
       "order": 2,
       "prompt": "Ona ___ zakupy jutro rano. (She will do the shopping tomorrow morning.) [zrobić, ona perfective future]",
       "answer": "zrobi",
-      "acceptableAnswers": ["zrobi"],
+      "acceptableAnswers": [
+        "zrobi"
+      ],
       "hint": "Perfective future of 'zrobić', ona: zrobi"
     },
     {
@@ -38,7 +48,12 @@
       "type": "multiple_choice",
       "order": 3,
       "prompt": "'Kupisz mi chleb?' — What does this mean?",
-      "options": ["Will you buy me some bread?", "Did you buy me some bread?", "Are you buying me some bread?", "You used to buy me bread."],
+      "options": [
+        "Will you buy me some bread?",
+        "Did you buy me some bread?",
+        "Are you buying me some bread?",
+        "You used to buy me bread."
+      ],
       "correctIndex": 0,
       "explanation": "'Kupisz' = perfective future of 'kupić' (ty). Present-looking form of a perfective verb = future in Polish. 'Kupisz mi chleb?' = Will you buy me some bread?"
     },
@@ -47,9 +62,25 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: We will go to the cinema on Saturday. (perfective future — pójść)",
-      "wordBank": ["Pójdziemy", "Będziemy", "iść", "do", "kina", "kino", "w", "sobotę", "sobota"],
+      "wordBank": [
+        "Pójdziemy",
+        "Będziemy",
+        "iść",
+        "do",
+        "kina",
+        "kino",
+        "w",
+        "sobotę",
+        "sobota"
+      ],
       "correctSequences": [
-        ["Pójdziemy", "do", "kina", "w", "sobotę"]
+        [
+          "Pójdziemy",
+          "do",
+          "kina",
+          "w",
+          "sobotę"
+        ]
       ],
       "explanation": "'Pójdziemy do kina w sobotę.' — We will go to the cinema on Saturday. 'Pójść' perfective future: pójdziemy. 'Do kina' = genitive destination. 'W sobotę' = on Saturday."
     },
@@ -58,13 +89,25 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Choose the perfective future to express 'I'll call you after work.' [zadzwonić, ja]",
-      "options": ["Zadzwonię do ciebie po pracy.", "Będę dzwonić do ciebie po pracy.", "Dzwonię do ciebie po pracy.", "Dzwoniłem do ciebie po pracy."],
+      "options": [
+        "Zadzwonię do ciebie po pracy.",
+        "Będę dzwonić do ciebie po pracy.",
+        "Dzwonię do ciebie po pracy.",
+        "Dzwoniłem do ciebie po pracy."
+      ],
       "correctIndex": 0,
       "explanation": "Single completed future call = perfective: zadzwonię. 'Będę dzwonić' = imperfective future (I'll be calling — ongoing). 'Zadzwonię po pracy' = I'll call [once, completed] after work."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["future-tense", "perfective", "a2-core"],
-  "prerequisites": ["a2-ch13-l01", "a2-ch12-l02"]
+  "tags": [
+    "future-tense",
+    "perfective",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a2-ch13-l01",
+    "a2-ch12-l02"
+  ]
 }

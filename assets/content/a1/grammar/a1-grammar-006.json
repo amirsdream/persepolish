@@ -3,7 +3,9 @@
   "level": "a1",
   "order": 6,
   "title": "Adjective Agreement — Gender & Number",
+  "title_fa": "تطبیق صفت — جنسیت و تعداد",
   "explanation": "In Polish, adjectives must agree with the noun they describe in gender, number, and case. In the nominative singular: masculine adjectives end in -y or -i (duży dom — big house), feminine adjectives end in -a (duża kawa — big coffee), and neuter adjectives end in -e (duże miasto — big city). In the nominative plural, adjectives that describe masculine personal nouns end in -i or -y (virile); all other plural nouns take adjectives ending in -e (non-virile).",
+  "explanation_fa": "صفات با اسم از نظر جنسیت تطبیق می‌یابند. فاعلی مفرد: -y/-i (مذکر)، -a (مؤنث)، -e (خنثی). جمع: -i/-y (مذکر جاندار)، -e (بقیه). مثال: duży dom (خانه بزرگ)، duża szkoła (مدرسه بزرگ)، duże okno (پنجره بزرگ).",
   "examples": [
     {
       "polish": "duży dom",
@@ -40,7 +42,9 @@
       "id": "a1-g006-ex02",
       "prompt": "Complete with the correct form of 'mały' (small) for a feminine noun: 'small girl' (dziewczynka = girl, f)",
       "sentence_template": "___ dziewczynka",
-      "accepted_answers": ["mała"],
+      "accepted_answers": [
+        "mała"
+      ],
       "explanation": "'Dziewczynka' is feminine. Feminine adjectives in the nominative end in -a: mały → mała."
     },
     {
@@ -61,7 +65,9 @@
       "id": "a1-g006-ex04",
       "prompt": "Complete with the correct form of 'nowy' (new) for a neuter noun: 'new window' (okno = window, n)",
       "sentence_template": "___ okno",
-      "accepted_answers": ["nowe"],
+      "accepted_answers": [
+        "nowe"
+      ],
       "explanation": "'Okno' is neuter. Neuter adjectives in the nominative end in -e: nowy → nowe."
     },
     {
@@ -82,7 +88,9 @@
       "id": "a1-g006-ex06",
       "prompt": "Complete: 'a red car' (samochód = car, masculine; czerwony = red)",
       "sentence_template": "___ samochód",
-      "accepted_answers": ["czerwony"],
+      "accepted_answers": [
+        "czerwony"
+      ],
       "explanation": "'Samochód' is masculine inanimate. Masculine adjectives in the nominative end in -y: czerwony samochód."
     }
   ]

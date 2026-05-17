@@ -4,7 +4,9 @@
   "chapter": 19,
   "lessonOrder": 4,
   "title": "Register Comparison — Full Sentences",
+  "title_fa": "مقایسه سبک رسمی و غیررسمی",
   "grammarPoint": "Comparing formal and informal Polish in complete dialogues: same meaning expressed at different register levels — real-world application",
+  "grammarPoint_fa": "تبدیل جملات غیررسمی به رسمی و برعکس",
   "explanation": {
     "text": "Let's see formal vs informal register in full conversational and written contexts.\n\n## Scenario 1: Making a complaint\n\n**Informal**: Hej, chcę powiedzieć, że wasze jedzenie było niedobre.\n**Formal**: Szanowni Państwo, pragnę złożyć skargę na jakość podanego posiłku.\n\n## Scenario 2: Asking for help\n\n**Informal**: Przepraszam, możesz mi powiedzieć, gdzie jest toaleta?\n**Formal**: Przepraszam, czy mógłby Pan wskazać mi drogę do toalety?\n\n## Scenario 3: Requesting information\n\n**Informal**: Chcę wiedzieć, ile kosztuje bilet.\n**Formal**: Uprzejmie proszę o informację dotyczącą ceny biletu.\n\n## Scenario 4: Applying for a job (written)\n\n**Informal**: Hej, chcę pracować w waszej firmie. Jestem dobry w marketingu.\n**Formal**: Szanowni Państwo, zwracam się z prośbą o rozważenie mojej kandydatury na stanowisko specjalisty ds. marketingu. Posiadam trzyletnie doświadczenie w tej dziedzinie.\n\n## Scenario 5: Declining an invitation\n\n**Informal**: Nie mogę przyjść, bo mam inne plany.\n**Formal**: Niestety, nie będę w stanie uczestniczyć w spotkaniu ze względu na wcześniejsze zobowiązania.\n\n## Key Formal Patterns to Remember\n\n| Pattern | Example | Meaning |\n|---------|---------|--------|\n| ze względu na + acc | ze względu na chorobę | due to illness |\n| w związku z + instr | w związku z Pańskim pismem | regarding your letter |\n| uprzejmie proszę o + acc | uprzejmie proszę o odpowiedź | I kindly request a reply |\n| nie będę w stanie + inf | nie będę w stanie przyjść | I will not be able to come |\n| zwracam się z prośbą o + acc | zwracam się z prośbą o informację | I am writing to request information |",
     "notes": [
@@ -14,13 +16,19 @@
       "Full register switch = change pronoun (ty→Pan/Pani), vocabulary (gadać→rozmawiać), structure (simple→complex)."
     ]
   },
+  "explanation_fa": "تمرین تبدیل سبک: جمله غیررسمی «Chcę żebyś mi pomógł» (می‌خواهم کمکم کنی) در سبک رسمی: «Uprzejmie proszę o udzielenie mi pomocy» (مؤدبانه تقاضا می‌کنم به من کمک فرمایید). شناخت سطح رسمیت برای ارتباطات حرفه‌ای و اداری در لهستان ضروری است.",
   "exercises": [
     {
       "id": "a2-ch19-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Formal version of 'Nie mogę przyjść, bo jestem chory.' Choose the most formal alternative:",
-      "options": ["Niestety, nie będę w stanie przybyć ze względu na chorobę.", "Niestety, nie mogę przyjść, bo jestem chory.", "Przykro mi, nie dam rady przyjść.", "Nie przyjdę, bo choruję."],
+      "options": [
+        "Niestety, nie będę w stanie przybyć ze względu na chorobę.",
+        "Niestety, nie mogę przyjść, bo jestem chory.",
+        "Przykro mi, nie dam rady przyjść.",
+        "Nie przyjdę, bo choruję."
+      ],
       "correctIndex": 0,
       "explanation": "The most formal: 'Niestety, nie będę w stanie przybyć ze względu na chorobę.' Uses: 'nie będę w stanie' (formal can't), 'przybyć' (formal arrive), 'ze względu na' (formal due to), 'chorobę' (illness - acc of choroba)."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "What does 'ze względu na' mean in formal Polish?",
-      "options": ["due to / owing to", "in relation to", "because of someone", "next to"],
+      "options": [
+        "due to / owing to",
+        "in relation to",
+        "because of someone",
+        "next to"
+      ],
       "correctIndex": 0,
       "explanation": "'Ze względu na + accusative' = due to / owing to (formal reason phrase). 'Ze względu na chorobę' = due to illness. Informal equivalent: 'bo jestem chory' (because I'm sick). Very common in formal letters."
     },
@@ -38,7 +51,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch19/a2-ch19-l04-ex03.mp3",
-      "options": ["Uprzejmie proszę o odpowiedź do piątku.", "Proszę odpowiedzieć do piątku.", "Czy może Pan odpisać do piątku?", "Odpiszcie do piątku, proszę."],
+      "options": [
+        "Uprzejmie proszę o odpowiedź do piątku.",
+        "Proszę odpowiedzieć do piątku.",
+        "Czy może Pan odpisać do piątku?",
+        "Odpiszcie do piątku, proszę."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Uprzejmie proszę o odpowiedź do piątku.' — I kindly request a reply by Friday. 'Uprzejmie proszę o + accusative' = formal request structure. 'Odpowiedź' = reply/answer (f). 'Do piątku' = by Friday (do + genitive of deadline)."
     },
@@ -47,7 +65,12 @@
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Formal way to say 'I'm sorry I can't come to the meeting':",
-      "options": ["Niestety, nie będę w stanie uczestniczyć w spotkaniu.", "Niestety, nie mogę przyjść na spotkanie.", "Sorry, nie dam rady.", "Przykro mi, mam inne sprawy."],
+      "options": [
+        "Niestety, nie będę w stanie uczestniczyć w spotkaniu.",
+        "Niestety, nie mogę przyjść na spotkanie.",
+        "Sorry, nie dam rady.",
+        "Przykro mi, mam inne sprawy."
+      ],
       "correctIndex": 0,
       "explanation": "Most formal: 'Niestety, nie będę w stanie uczestniczyć w spotkaniu.' Key formal elements: 'nie będę w stanie' (cannot), 'uczestniczyć w + locative' (participate in). Less formal but acceptable: 'nie mogę przyjść na spotkanie'."
     },
@@ -56,15 +79,48 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build a formal request: I am writing to request information about your offer. (zwracać się z prośbą)",
-      "wordBank": ["Zwracam", "się", "z", "prośbą", "prośby", "o", "informację", "informacji", "dotyczącą", "Państwa", "oferty", "ofertą", "."],
+      "wordBank": [
+        "Zwracam",
+        "się",
+        "z",
+        "prośbą",
+        "prośby",
+        "o",
+        "informację",
+        "informacji",
+        "dotyczącą",
+        "Państwa",
+        "oferty",
+        "ofertą",
+        "."
+      ],
       "correctSequences": [
-        ["Zwracam", "się", "z", "prośbą", "o", "informację", "dotyczącą", "Państwa", "oferty", "."]
+        [
+          "Zwracam",
+          "się",
+          "z",
+          "prośbą",
+          "o",
+          "informację",
+          "dotyczącą",
+          "Państwa",
+          "oferty",
+          "."
+        ]
       ],
       "explanation": "'Zwracam się z prośbą o informację dotyczącą Państwa oferty.' — I am writing to request information about your offer. 'Zwracać się z prośbą o + accusative' = to write requesting. 'Dotyczącą' = concerning (participle agreeing with informację, f acc). 'Państwa oferty' = your offer (genitive)."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["formal-register", "comparison", "a2-core"],
-  "prerequisites": ["a2-ch19-l01", "a2-ch19-l02", "a2-ch19-l03"]
+  "tags": [
+    "formal-register",
+    "comparison",
+    "a2-core"
+  ],
+  "prerequisites": [
+    "a2-ch19-l01",
+    "a2-ch19-l02",
+    "a2-ch19-l03"
+  ]
 }

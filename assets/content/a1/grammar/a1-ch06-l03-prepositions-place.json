@@ -4,7 +4,9 @@
   "chapter": 6,
   "lessonOrder": 3,
   "title": "Prepositions of Place",
+  "title_fa": "حروف اضافه مکانی",
   "grammarPoint": "Spatial prepositions: w/na (locative for position), do/z (genitive for movement), przy, obok, przed, za, między",
+  "grammarPoint_fa": "حروف اضافه مکانی: w، na، przed، za، obok، między، pod، nad",
   "explanation": {
     "text": "Polish uses different prepositions depending on whether you express **static position** or **movement**.\n\n**Static position (locative case):**\n\n| Preposition | Meaning | Example |\n|------------|---------|--------|\n| **w** | in, inside | w pokoju = in the room |\n| **na** | on, at | na stole = on the table |\n| **przy** | next to, by | przy oknie = by the window |\n| **przed** | in front of | przed domem = in front of the house |\n| **za** | behind | za drzwiami = behind the door |\n| **między** | between | między domami = between the houses |\n\n**Movement — towards (accusative):**\n- Idę **do** domu. = I'm going home. (do + genitive)\n- Idę **na** rynek. = I'm going to the market. (na + accusative for some destinations)\n\n**Movement — away from (genitive):**\n- Wychodzę **z** domu. = I'm leaving the house. (z + genitive)\n- Wracam **ze** szkoły. = I'm coming back from school. (z/ze + genitive)\n\n**Key rule:** *w/na + locative* = WHERE (position); *do + genitive* = WHERE TO (destination); *z + genitive* = FROM WHERE (origin).",
     "notes": [
@@ -14,13 +16,19 @@
       "obok + genitive: obok sklepu = next to the shop."
     ]
   },
+  "explanation_fa": "حروف اضافه مکانی و حالت‌های دستوری متناظر: w/na + مکانی (موقعیت)، przed/za/obok/między/pod/nad + ابزاری (موقعیت). مثال: Książka jest na stole (کتاب روی میز است)، Kot śpi pod stołem (گربه زیر میز می‌خوابد).",
   "exercises": [
     {
       "id": "a1-ch06-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Kot jest ___ stole. (The cat is on the table.) [position]",
-      "options": ["na", "do", "z", "przy"],
+      "options": [
+        "na",
+        "do",
+        "z",
+        "przy"
+      ],
       "correctIndex": 0,
       "explanation": "'Na + locative' for position on a surface: 'na stole' = on the table. 'Na' is used for horizontal surfaces and open spaces."
     },
@@ -30,7 +38,10 @@
       "order": 2,
       "prompt": "Idę ___ szkoły do domu. (I'm going from school to home.) [movement away from]",
       "answer": "ze",
-      "acceptableAnswers": ["ze", "z"],
+      "acceptableAnswers": [
+        "ze",
+        "z"
+      ],
       "hint": "Use z/ze + genitive for 'from'. Ze is used before consonant clusters like szk-."
     },
     {
@@ -38,7 +49,12 @@
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch06/a1-ch06-l03-ex03.mp3",
-      "options": ["Siedzę przy oknie.", "Siedzę w oknie.", "Siedzę na oknie.", "Siedzę za oknem."],
+      "options": [
+        "Siedzę przy oknie.",
+        "Siedzę w oknie.",
+        "Siedzę na oknie.",
+        "Siedzę za oknem."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Siedzę przy oknie.' — I'm sitting by the window. 'Przy + locative' = next to/by. 'Okno' → locative 'oknie'."
     },
@@ -47,9 +63,22 @@
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: I'm going to the shop.",
-      "wordBank": ["Idę", "Jestem", "do", "w", "sklepu", "sklepie", "sklep", "sklepem"],
+      "wordBank": [
+        "Idę",
+        "Jestem",
+        "do",
+        "w",
+        "sklepu",
+        "sklepie",
+        "sklep",
+        "sklepem"
+      ],
       "correctSequences": [
-        ["Idę", "do", "sklepu"]
+        [
+          "Idę",
+          "do",
+          "sklepu"
+        ]
       ],
       "explanation": "'Idę do sklepu' = I'm going to the shop. Direction/destination uses 'do + genitive': sklep → sklepu."
     },
@@ -58,13 +87,27 @@
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Pies śpi ___ kanapą. (The dog is sleeping behind the sofa.) [position]",
-      "options": ["za", "przed", "przy", "między"],
+      "options": [
+        "za",
+        "przed",
+        "przy",
+        "między"
+      ],
       "correctIndex": 0,
       "explanation": "'Za' = behind (+ instrumental for position). 'Za kanapą' = behind the sofa. 'Kanapa' → instrumental 'kanapą'."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": ["prepositions", "locative", "place", "movement", "a1-core"],
-  "prerequisites": ["a1-ch06-l01", "a1-ch08-l02"]
+  "tags": [
+    "prepositions",
+    "locative",
+    "place",
+    "movement",
+    "a1-core"
+  ],
+  "prerequisites": [
+    "a1-ch06-l01",
+    "a1-ch08-l02"
+  ]
 }

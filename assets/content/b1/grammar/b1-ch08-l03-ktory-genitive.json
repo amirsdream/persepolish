@@ -4,7 +4,9 @@
   "chapter": 8,
   "lessonOrder": 3,
   "title": "Relative Clauses — który in Genitive & Other Cases",
+  "title_fa": "جملات موصولی — który در حالت مضاف‌الیهی و سایر حالت‌ها",
   "grammarPoint": "który in genitive (którego/której/których — possession, negation), dative (któremu/której/którym), and instrumental (którym/którą/którymi) cases",
+  "grammarPoint_fa": "który در حالت‌های مضاف‌الیهی، دادی، ابزاری، مکانی",
   "explanation": {
     "text": "Beyond nominative and accusative, 'który' appears in all other cases depending on its function in the relative clause.\n\n## Full Declension of który\n\n| Case | M sg | F sg | N sg | Virile pl | Non-virile pl |\n|------|------|------|------|-----------|---------------|\n| Nom | który | która | które | którzy | które |\n| Gen | **którego** | **której** | **którego** | **których** | **których** |\n| Dat | **któremu** | **której** | **któremu** | **którym** | **którym** |\n| Acc | którego/który | **którą** | które | **których** | które |\n| Instr | **którym** | **którą** | **którym** | **którymi** | **którymi** |\n| Loc | **którym** | **której** | **którym** | **których** | **których** |\n\n## Genitive: Possession and After Negation\n\n**Possession** (whose = czyj → którego/której/których):\n- Mężczyzna, **którego** córka... (The man whose daughter... — genitive of origin)\n- Firma, **której** prezes... (The company whose president... — f gen)\n- Dzieci, **których** rodzice... (The children whose parents... — pl gen)\n\n**After negation** (po zaprzeczeniu — genitive!): Polish uses genitive after negated verbs\n- Firma, **której** nie znam. (A company that I don't know — genitive after negation)\n\n## Genitive After Prepositions\n\nWhen the relative clause contains a genitive preposition (do, od, bez, dla, z, u, spod, zza):\n- Miasto, **z którego** pochodzi. (The city from which he comes.)\n- Dom, **do którego** idziemy. (The house to which we're going.)\n- Osoba, **od której** dostałem list. (The person from whom I received the letter.)\n- Kraj, **z którego** ona jest. (The country she is from.)\n\n## Dative: Indirect Object\n\n- To jest student, **któremu** pomogłem. (This is the student to whom I helped — dative of help).\n- Znasz kobietę, **której** dałem książkę? (Do you know the woman to whom I gave the book?)\n- To są dzieci, **którym** kupiłem lody. (These are the children for whom I bought ice cream.)\n\n## Instrumental: With, By Means Of\n\n- Mężczyzna, **z którym** rozmawiam. (The man with whom I'm talking.)\n- Restauracja, **w której** jemy. (The restaurant in which we're eating — locative!)\n- Narzędzie, **którym** pracuje. (The tool with which he works — instrumental.)\n- Kolega, **z którym** studiuję. (The colleague with whom I study.)\n\n## Locative: Location/After Certain Prepositions\n\n- Miasto, **w którym** mieszkam. (The city in which I live.)\n- Szkoła, **o której** mówię. (The school about which I'm speaking.)\n- Temat, **przy którym** zostajemy. (The topic that we're sticking to.)",
     "notes": [
@@ -14,13 +16,19 @@
       "Locative is the most common oblique case in relative clauses: 'miasto, w którym' (city I live in), 'szkoła, w której' (school I attend), 'biuro, w którym' (office I work in)."
     ]
   },
+  "explanation_fa": "który در حالت‌های مختلف: مضاف‌الیهی: którego/której/których — dom, którego szukam (خانه‌ای که دنبالش می‌گردم). دادی: któremu/której/którym — człowiek, któremu pomogłem. ابزاری: którym/którą/którymi — długopis, którym piszę. مکانی: którym/której/których — miasto, w którym mieszkam.",
   "exercises": [
     {
       "id": "b1-ch08-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "To jest miasto, ___ mieszkam. (This is the city in which I live.) ['miasto' = n, w + locative]",
-      "options": ["w którym", "w który", "w której", "w którymi"],
+      "options": [
+        "w którym",
+        "w który",
+        "w której",
+        "w którymi"
+      ],
       "correctIndex": 0,
       "explanation": "'Miasto' = neuter → locative = 'którym' (same as dative/instrumental masc/neut). With preposition 'w': 'w którym'. 'To jest miasto, w którym mieszkam.' = This is the city I live in. 'W którym' = neuter/masculine locative. 'W której' = feminine locative. Always: preposition + proper case of który."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Znam kobietę, ___ pomogłem. (I know the woman to whom I helped.) ['kobieta' = f, dative]",
-      "options": ["której", "którą", "która", "którymi"],
+      "options": [
+        "której",
+        "którą",
+        "która",
+        "którymi"
+      ],
       "correctIndex": 0,
       "explanation": "'Kobieta' = feminine → dative = 'której'. 'Pomóc komuś' = to help SOMEONE (dative). 'Znam kobietę, której pomogłem.' = I know the woman to whom I helped. 'Której' = dative feminine. Note: 'której' is ALSO genitive feminine — here context ('pomóc' takes dative) tells us it's dative."
     },
@@ -39,7 +52,9 @@
       "order": 3,
       "prompt": "Complete: Kraj, ___ ona jest. (The country she is from.) ['kraj' = m, z + genitive]",
       "answer": "z którego",
-      "acceptableAnswers": ["z którego"],
+      "acceptableAnswers": [
+        "z którego"
+      ],
       "explanation": "'Kraj' = masculine → genitive = 'którego'. With preposition 'z' (from): 'z którego'. 'Kraj, z którego ona jest.' = The country she is from. 'Być z + gen' = to be from. Preposition 'z' + genitive: 'z którego' (m/n gen)."
     },
     {
@@ -47,7 +62,12 @@
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/b1/ch08/b1-ch08-l03-ex04.mp3",
-      "options": ["Mężczyzna, z którym rozmawiałam, jest nauczycielem.", "Mężczyzna, z który rozmawiałam, jest nauczycielem.", "Mężczyzna, z którą rozmawiałam, jest nauczycielem.", "Mężczyzna, z którymi rozmawiałam, jest nauczycielem."],
+      "options": [
+        "Mężczyzna, z którym rozmawiałam, jest nauczycielem.",
+        "Mężczyzna, z który rozmawiałam, jest nauczycielem.",
+        "Mężczyzna, z którą rozmawiałam, jest nauczycielem.",
+        "Mężczyzna, z którymi rozmawiałam, jest nauczycielem."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Mężczyzna, z którym rozmawiałam, jest nauczycielem.' — The man with whom I (f) was talking is a teacher. 'Mężczyzna' = m → instrumental = 'którym'. With 'z': 'z którym'. 'Rozmawiałam' = I talked (f). 'Jest nauczycielem' = is a teacher (instrumental after być)."
     },
@@ -56,15 +76,44 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: These are the children for whom I bought ice cream. [dzieci = n pl, którym, kupić lody]",
-      "wordBank": ["To", "są", "dzieci", "którym", "którymi", "których", "kupiłem", "kupiłam", "lody", "lodów", "."],
+      "wordBank": [
+        "To",
+        "są",
+        "dzieci",
+        "którym",
+        "którymi",
+        "których",
+        "kupiłem",
+        "kupiłam",
+        "lody",
+        "lodów",
+        "."
+      ],
       "correctSequences": [
-        ["To", "są", "dzieci", "którym", "kupiłem", "lody", "."]
+        [
+          "To",
+          "są",
+          "dzieci",
+          "którym",
+          "kupiłem",
+          "lody",
+          "."
+        ]
       ],
       "explanation": "'To są dzieci, którym kupiłem lody.' — These are the children for whom I bought ice cream. 'Dzieci' = neuter plural → dative = 'którym'. 'Kupić coś komuś' = to buy something FOR someone (komuś = dative). So 'którym' = dative (for them). 'Lody' = ice cream (accusative, object of kupić)."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 14,
-  "tags": ["relative-clauses", "b1-core", "który", "genitive", "dative", "instrumental"],
-  "prerequisites": ["b1-ch08-l02"]
+  "tags": [
+    "relative-clauses",
+    "b1-core",
+    "który",
+    "genitive",
+    "dative",
+    "instrumental"
+  ],
+  "prerequisites": [
+    "b1-ch08-l02"
+  ]
 }

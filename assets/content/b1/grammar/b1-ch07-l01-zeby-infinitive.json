@@ -4,7 +4,9 @@
   "chapter": 7,
   "lessonOrder": 1,
   "title": "Żeby + Infinitive (Purpose Clauses)",
+  "title_fa": "żeby + مصدر — جملات هدف",
   "grammarPoint": "żeby + infinitive to express purpose (in order to): Idę do sklepu, żeby kupić chleb — when both clauses share the same subject",
+  "grammarPoint_fa": "żeby + مصدر وقتی فاعل هر دو بند یکی است",
   "explanation": {
     "text": "**Żeby + infinitive** expresses **purpose** (in order to, so as to) when both clauses have the **same subject**.\n\n## Basic Rule: Same Subject → żeby + infinitive\n\nWhen the subject of the main clause and the purpose clause is the **same person**:\n\n- Idę do sklepu, **żeby kupić** chleb. (I'm going to the shop **in order to buy** bread.)\n- Uczę się polskiego, **żeby rozmawiać** z Polakami. (I'm studying Polish **in order to talk** to Poles.)\n- Wyszedł wcześnie, **żeby zdążyć** na autobus. (He left early **in order to make** the bus.)\n- Ćwiczę codziennie, **żeby być** zdrowy. (I exercise every day **in order to be** healthy.)\n\n**Structure**: main clause + **żeby** + infinitive (same subject implied)\n\n## żeby vs aby vs po to żeby\n\nAll three express purpose, with slight style differences:\n\n| Form | Register | Example |\n|------|---------|--------|\n| **żeby** | informal/neutral | Idę, żeby kupić. |\n| **aby** | formal/literary | Przyszedł, aby zaprotestować. |\n| **po to żeby** | emphatic | Po to tu jestem, żeby pomóc. |\n| **żeby nie** | negative purpose | Uciekłem, żeby go nie spotkać. |\n\n## Perfective vs Imperfective in Purpose Clauses\n\nWith **żeby + infinitive**, use:\n- **Perfective** for completed, specific action: Idę, żeby **kupić** (buy one time) chleb.\n- **Imperfective** for repeated/ongoing purpose: Chodzę, żeby **ćwiczyć** (practice regularly).\n\n| Purpose | Infinitive | Meaning |\n|---------|-----------|--------|\n| buy (once) | żeby kupić | in order to buy |\n| buy (regularly) | żeby kupować | in order to buy (habitual) |\n| read (finish) | żeby przeczytać | in order to read (through) |\n| read (practice) | żeby czytać | in order to read (regularly) |\n\n## Common Purpose Patterns\n\n**Movement verbs + żeby**:\n- Idę/jadę/lecę do [X], żeby... (I'm going to [X] in order to...)\n- Wróciłem, żeby... (I came back in order to...)\n- Zostałem, żeby... (I stayed in order to...)\n\n**Activity verbs + żeby**:\n- Uczę się, żeby... (I'm studying in order to...)\n- Ćwiczę, żeby... (I'm practicing in order to...)\n- Pracuję, żeby... (I'm working in order to...)\n\n**Negative purpose (so as not to)**:\n- Uciekłem, **żeby go nie spotkać**. (I ran away so as not to meet him.)\n- Szepczę, **żeby nie obudzić** dzieci. (I'm whispering so as not to wake the children.)\n- Zamknąłem drzwi, **żeby nie wchodził** zimne powietrze. (I closed the door so that cold air wouldn't come in.)\n\n## Expressing 'For the Purpose of' with po to\n\n**Po to + żeby** emphasizes the purpose even more:\n- **Po to tu jestem**, żeby pomóc. (I am here specifically in order to help.)\n- **Po to pojechałem** do Krakowa, żeby zobaczyć Wawel. (I went to Kraków specifically to see Wawel.)",
     "notes": [
@@ -14,13 +16,19 @@
       "po to żeby = emphatic purpose (that's why I... for that very purpose). Used to stress intentionality."
     ]
   },
+  "explanation_fa": "żeby + مصدر وقتی فاعل هر دو بند یکسان است: Uczę się, żeby zdać egzamin (درس می‌خوانم تا امتحان قبول شوم). Idę do sklepu, żeby kupić chleb (می‌روم مغازه تا نان بخرم). این ساختار معادل «تا» در فارسی است و بسیار رایج‌تر از ساختار بعدی است.",
   "exercises": [
     {
       "id": "b1-ch07-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "I'm going to the library in order to study. [iść, żeby, uczyć się — same subject]",
-      "options": ["Idę do biblioteki, żeby się uczyć.", "Idę do biblioteki, żebym się uczył.", "Idę do biblioteki, żeby się uczyła.", "Idę do biblioteki, że uczę się."],
+      "options": [
+        "Idę do biblioteki, żeby się uczyć.",
+        "Idę do biblioteki, żebym się uczył.",
+        "Idę do biblioteki, żeby się uczyła.",
+        "Idę do biblioteki, że uczę się."
+      ],
       "correctIndex": 0,
       "explanation": "Same subject (I) → żeby + infinitive: 'Idę do biblioteki, żeby się uczyć.' Infinitive 'uczyć się' (reflexive — needs 'się'). 'Żebym się uczył' = different-subject form (1sg l-form). 'Że uczę się' = statement (not purpose). Same subject + purpose → żeby + infinitive."
     },
@@ -29,7 +37,12 @@
       "type": "multiple_choice",
       "order": 2,
       "prompt": "He left early so as not to be late. [wyjść wcześnie, żeby nie, spóźnić się]",
-      "options": ["Wyszedł wcześnie, żeby się nie spóźnić.", "Wyszedł wcześnie, żeby się nie spóźnił.", "Wyszedł wcześnie, żeby nie był spóźniony.", "Wyszedł wcześnie, że się nie spóźnił."],
+      "options": [
+        "Wyszedł wcześnie, żeby się nie spóźnić.",
+        "Wyszedł wcześnie, żeby się nie spóźnił.",
+        "Wyszedł wcześnie, żeby nie był spóźniony.",
+        "Wyszedł wcześnie, że się nie spóźnił."
+      ],
       "correctIndex": 0,
       "explanation": "Negative purpose, same subject → 'żeby nie + infinitive': 'Wyszedł wcześnie, żeby się nie spóźnić.' 'Żeby nie spóźnić się' = so as not to be late. The reflexive 'się' splits: 'żeby się nie spóźnić' (more natural order). 'Żeby się nie spóźnił' = so that he wouldn't be late (l-form, different subjects)."
     },
@@ -39,7 +52,10 @@
       "order": 3,
       "prompt": "Complete with purpose clause: Uczę się polskiego, ___ rozmawiać z Polakami. (in order to talk)",
       "answer": "żeby",
-      "acceptableAnswers": ["żeby", "aby"],
+      "acceptableAnswers": [
+        "żeby",
+        "aby"
+      ],
       "explanation": "'Uczę się polskiego, żeby rozmawiać z Polakami.' — I'm studying Polish in order to talk to Poles. Same subject (I study, I talk) → 'żeby + infinitive'. 'Aby' also correct (formal). 'Żebym rozmawiał' = different subject form (wrong here — same subject). 'Żeby rozmawiać' = purposeful activity (imperfective = repeated)."
     },
     {
@@ -47,7 +63,12 @@
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/b1/ch07/b1-ch07-l01-ex04.mp3",
-      "options": ["Zostaję po pracy, żeby skończyć raport.", "Zostaję po pracy, żebym skończył raport.", "Zostałem po pracy, żeby skończyć raport.", "Zostaję po pracy, że skończę raport."],
+      "options": [
+        "Zostaję po pracy, żeby skończyć raport.",
+        "Zostaję po pracy, żebym skończył raport.",
+        "Zostałem po pracy, żeby skończyć raport.",
+        "Zostaję po pracy, że skończę raport."
+      ],
       "correctIndex": 0,
       "explanation": "You heard: 'Zostaję po pracy, żeby skończyć raport.' — I'm staying after work in order to finish the report. 'Żeby + infinitive': 'skończyć' (perfective — to finish completely). Same subject (I stay, I finish). 'Po pracy' = after work. 'Zostaję' = present (I'm staying)."
     },
@@ -56,15 +77,40 @@
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: She whispered so as not to wake the children. [szeptać, żeby nie, obudzić, dzieci]",
-      "wordBank": ["Szeptała", "szepce", "żeby", "żebym", "nie", "obudzić", "obudziła", "dzieci", "dzieciom", "."],
+      "wordBank": [
+        "Szeptała",
+        "szepce",
+        "żeby",
+        "żebym",
+        "nie",
+        "obudzić",
+        "obudziła",
+        "dzieci",
+        "dzieciom",
+        "."
+      ],
       "correctSequences": [
-        ["Szeptała", "żeby", "nie", "obudzić", "dzieci", "."]
+        [
+          "Szeptała",
+          "żeby",
+          "nie",
+          "obudzić",
+          "dzieci",
+          "."
+        ]
       ],
       "explanation": "'Szeptała, żeby nie obudzić dzieci.' — She whispered so as not to wake the children. Negative purpose, same subject → 'żeby nie + infinitive': 'żeby nie obudzić'. 'Dzieci' = accusative of 'dziecko' (plural: dzieci). 'Szeptała' = she whispered (imperfective 3sg f past). All same subject → infinitive form."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": ["żeby", "b1-core", "purpose-clauses", "infinitive"],
-  "prerequisites": ["b1-ch06-l04"]
+  "tags": [
+    "żeby",
+    "b1-core",
+    "purpose-clauses",
+    "infinitive"
+  ],
+  "prerequisites": [
+    "b1-ch06-l04"
+  ]
 }
