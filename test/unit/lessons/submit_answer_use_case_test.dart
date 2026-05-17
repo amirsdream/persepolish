@@ -35,13 +35,13 @@ void main() {
     });
   });
 
-  group('SubmitAnswerUseCase — FillInBlank', () {
-    final exercise = FillInBlankExercise(
+  group('SubmitAnswerUseCase — FillBlank', () {
+    final exercise = FillBlankExercise(
       id: 'test-fill-01',
-      prompt: 'Test fill',
+      prompt: '___ z Polski.',
       explanation: 'Accept jestem or Jestem.',
-      sentenceTemplate: '___ z Polski.',
-      acceptedAnswers: ['jestem', 'Jestem'],
+      answer: 'jestem',
+      acceptableAnswers: ['jestem', 'Jestem'],
     );
 
     test('accepts exact match (lowercase)', () {
@@ -64,39 +64,45 @@ void main() {
       expect(result.isCorrect, isFalse);
     });
 
-    test('correctDisplay shows first accepted answer', () {
+    test('correctDisplay shows canonical answer', () {
       final result = useCase.execute(exercise: exercise, answer: 'wrong');
       expect(result.correctDisplay, equals('jestem'));
     });
   });
 
-  group('SubmitAnswerUseCase — SentenceOrder', () {
-    final exercise = SentenceOrderExercise(
+  group('SubmitAnswerUseCase — SentenceBuilder', () {
+    final exercise = SentenceBuilderExercise(
       id: 'test-order-01',
       prompt: 'Order the words',
-      explanation: 'Correct order is [1, 0, 2].',
-      words: ['świat', 'Dzień', 'dobry'],
-      correctOrder: [1, 0, 2],
+      explanation: 'Correct order: Dzień dobry świat.',
+      wordBank: ['świat', 'Dzień', 'dobry'],
+      correctSequences: [
+        ['Dzień', 'dobry', 'świat'],
+      ],
     );
 
-    test('accepts correct order', () {
-      final result = useCase.execute(exercise: exercise, answer: [1, 0, 2]);
+    test('accepts correct sequence', () {
+      final result = useCase.execute(
+          exercise: exercise, answer: ['Dzień', 'dobry', 'świat']);
       expect(result.isCorrect, isTrue);
     });
 
-    test('rejects wrong order', () {
-      final result = useCase.execute(exercise: exercise, answer: [0, 1, 2]);
+    test('rejects wrong sequence', () {
+      final result = useCase.execute(
+          exercise: exercise, answer: ['świat', 'Dzień', 'dobry']);
       expect(result.isCorrect, isFalse);
     });
 
-    test('rejects incomplete order', () {
-      final result = useCase.execute(exercise: exercise, answer: [1, 0]);
+    test('rejects incomplete sequence', () {
+      final result =
+          useCase.execute(exercise: exercise, answer: ['Dzień', 'dobry']);
       expect(result.isCorrect, isFalse);
     });
 
-    test('correctDisplay joins correct words in order', () {
-      final result = useCase.execute(exercise: exercise, answer: [0, 1, 2]);
-      expect(result.correctDisplay, equals('Dzień świat dobry'));
+    test('correctDisplay is canonical answer (first sequence joined)', () {
+      final result = useCase.execute(
+          exercise: exercise, answer: ['świat', 'Dzień', 'dobry']);
+      expect(result.correctDisplay, equals('Dzień dobry świat'));
     });
   });
 

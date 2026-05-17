@@ -19,12 +19,13 @@ final class SubmitAnswerUseCase {
 
   AnswerResult execute({
     required Exercise exercise,
-    required dynamic answer, // int (MC), String (Fill), List<int> (Order)
+    required dynamic answer,
   }) {
     return switch (exercise) {
       MultipleChoiceExercise mc => _evaluateMC(mc, answer as int),
-      FillInBlankExercise fill => _evaluateFill(fill, answer as String),
-      SentenceOrderExercise order => _evaluateOrder(order, answer as List<int>),
+      FillBlankExercise fill => _evaluateFill(fill, answer as String),
+      DictationMcExercise dictation => _evaluateDictation(dictation, answer as int),
+      SentenceBuilderExercise builder => _evaluateBuilder(builder, answer as List<String>),
     };
   }
 
@@ -35,18 +36,25 @@ final class SubmitAnswerUseCase {
         correctDisplay: ex.options[ex.correctIndex],
       );
 
-  AnswerResult _evaluateFill(FillInBlankExercise ex, String answer) =>
+  AnswerResult _evaluateFill(FillBlankExercise ex, String answer) =>
       AnswerResult(
         isCorrect: ex.isCorrect(answer),
         explanation: ex.explanation,
-        correctDisplay: ex.acceptedAnswers.first,
+        correctDisplay: ex.answer,
       );
 
-  AnswerResult _evaluateOrder(SentenceOrderExercise ex, List<int> order) =>
+  AnswerResult _evaluateDictation(DictationMcExercise ex, int selectedIndex) =>
       AnswerResult(
-        isCorrect: ex.isCorrect(order),
+        isCorrect: ex.isCorrect(selectedIndex),
         explanation: ex.explanation,
-        correctDisplay: ex.correctSentence.join(' '),
+        correctDisplay: ex.options[ex.correctIndex],
+      );
+
+  AnswerResult _evaluateBuilder(SentenceBuilderExercise ex, List<String> chosen) =>
+      AnswerResult(
+        isCorrect: ex.isCorrect(chosen),
+        explanation: ex.explanation,
+        correctDisplay: ex.canonicalAnswer,
       );
 }
 

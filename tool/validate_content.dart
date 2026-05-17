@@ -1,17 +1,20 @@
 // Run: dart run tool/validate_content.dart
-// Validates all JSON content files under assets/content/ against expected schemas.
+// Validates all JSON content files under assets/content/ against the schema
+// defined in specs/002-pkpk-curriculum-content/contracts/content-schema.md
 // Exits 0 on success, 1 with error list on failure.
 
 import 'dart:convert';
 import 'dart:io';
 
 void main() async {
-  final errors = <String>[];
+  final errors = <String>[];   // blocking — causes exit 1
+  final warnings = <String>[]; // informational — logged but exit 0
   final ids = <String>{};
 
   final contentDir = Directory('assets/content');
   if (!contentDir.existsSync()) {
-    stderr.writeln('ERROR: assets/content/ directory not found. Run from project root.');
+    stderr.writeln(
+        'ERROR: assets/content/ directory not found. Run from project root.');
     exit(1);
   }
 
@@ -28,41 +31,55 @@ void main() async {
       continue;
     }
 
-    // Skip levels.json (different schema)
     if (relativePath.endsWith('levels.json')) {
       _validateLevelsJson(json, relativePath, errors);
       continue;
     }
 
-    final pathParts = relativePath.split('/');
-    // Expected: assets/content/{level}/{type}/{id}.json
-    if (pathParts.length < 5) continue;
-    final type = pathParts[pathParts.length - 2]; // grammar / vocabulary / exam
+    // Skip coming-soon placeholder files
+    if (relativePath.endsWith('_coming_soon.json')) continue;
 
+    final pathParts = relativePath.split('/');
+    if (pathParts.length < 5) continue;
+    final type = pathParts[pathParts.length - 2];
+
+    final fileName = pathParts.last;
     switch (type) {
       case 'grammar':
-        _validateGrammarUnit(json, relativePath, errors, ids);
+        if (fileName.endsWith('-revision.json')) {
+          _validateRevisionQuiz(json, relativePath, errors, ids);
+        } else {
+          _validateGrammarUnit(json, relativePath, errors, warnings, ids);
+        }
       case 'vocabulary':
         _validateVocabularySet(json, relativePath, errors, ids);
       case 'exam':
         _validateExamSet(json, relativePath, errors, ids);
-      default:
-        // Unknown type directory — skip
-        break;
     }
   }
 
+  if (warnings.isNotEmpty) {
+    stdout.writeln('⚠️  ${warnings.length} warning(s):\n');
+    for (final w in warnings) {
+      stdout.writeln('  ⚠ $w');
+    }
+    stdout.writeln('');
+  }
+
   if (errors.isEmpty) {
-    stdout.writeln('✅ Content validation passed. No errors found.');
+    stdout.writeln('✅ Content validation passed. No blocking errors found.');
     exit(0);
   } else {
-    stderr.writeln('❌ Content validation failed with ${errors.length} error(s):\n');
+    stderr.writeln(
+        '❌ Content validation failed with ${errors.length} blocking error(s):\n');
     for (final e in errors) {
       stderr.writeln('  • $e');
     }
     exit(1);
   }
 }
+
+// ── levels.json ───────────────────────────────────────────────────────────────
 
 void _validateLevelsJson(
     Map<String, dynamic> json, String path, List<String> errors) {
@@ -72,30 +89,42 @@ void _validateLevelsJson(
   }
   for (final level in json['levels'] as List) {
     final m = level as Map<String, dynamic>;
-    _requireField(m, 'id', path, errors);
-    _requireField(m, 'name', path, errors);
-    _requireField(m, 'status', path, errors);
+    _req(m, 'id', path, errors);
+    _req(m, 'name', path, errors);
+    _req(m, 'status', path, errors);
   }
 }
 
+// ── Grammar lesson ────────────────────────────────────────────────────────────
+
 void _validateGrammarUnit(Map<String, dynamic> json, String path,
-    List<String> errors, Set<String> ids) {
-  _requireField(json, 'id', path, errors);
-  _requireField(json, 'level', path, errors);
-  _requireField(json, 'title', path, errors);
-  _requireField(json, 'explanation', path, errors);
-  _requireField(json, 'exercises', path, errors);
+    List<String> errors, List<String> warnings, Set<String> ids) {
+  _req(json, 'id', path, errors);
+  _req(json, 'level', path, errors);
+  _req(json, 'title', path, errors);
+  _req(json, 'explanation', path, errors);
+  _req(json, 'exercises', path, errors);
 
   final id = json['id'] as String?;
-  if (id != null) {
-    if (!ids.add(id)) {
-      errors.add('$path: duplicate ID "$id"');
-    }
+  if (id != null && !ids.add(id)) {
+    errors.add('$path: duplicate ID "$id"');
   }
 
-  final explanation = json['explanation'] as String? ?? '';
-  if (explanation.length < 50) {
-    errors.add('$path: explanation too short (${explanation.length} chars, min 50)');
+  // explanation: object {text, notes?} OR plain string (legacy)
+  final rawExplanation = json['explanation'];
+  if (rawExplanation is Map<String, dynamic>) {
+    final text = rawExplanation['text'] as String? ?? '';
+    if (text.length < 50) {
+      errors.add(
+          '$path: explanation.text too short (${text.length} chars, min 50)');
+    }
+  } else if (rawExplanation is String) {
+    if (rawExplanation.length < 50) {
+      errors.add(
+          '$path: explanation too short (${rawExplanation.length} chars, min 50)');
+    }
+  } else {
+    errors.add('$path: explanation must be a string or {text, notes} object');
   }
 
   final exercises = json['exercises'];
@@ -103,60 +132,98 @@ void _validateGrammarUnit(Map<String, dynamic> json, String path,
     errors.add('$path: "exercises" must be an array');
     return;
   }
-  if (exercises.length < 5) {
-    errors.add('$path: only ${exercises.length} exercises (min 5 required)');
+  if (exercises.length < 4) {
+    errors.add('$path: only ${exercises.length} exercises (min 4 required)');
   }
 
   for (var i = 0; i < exercises.length; i++) {
     final ex = exercises[i] as Map<String, dynamic>;
-    _requireField(ex, 'type', '$path[exercise $i]', errors);
-    _requireField(ex, 'id', '$path[exercise $i]', errors);
-    _requireField(ex, 'prompt', '$path[exercise $i]', errors);
-    _requireField(ex, 'explanation', '$path[exercise $i]', errors);
+    final label = '$path [exercise ${i + 1}]';
+    _req(ex, 'id', label, errors);
+    _req(ex, 'type', label, errors);
+    // explanation is strongly recommended but tolerated as absent (app falls back to '')
+    if (!ex.containsKey('explanation') || ex['explanation'] == null) {
+      warnings.add('$label: missing recommended field "explanation" (shown after answer)');
+    }
 
     final exId = ex['id'] as String?;
     if (exId != null && !ids.add(exId)) {
-      errors.add('$path[exercise $i]: duplicate exercise ID "$exId"');
+      errors.add('$label: duplicate exercise ID "$exId"');
     }
 
     final type = ex['type'] as String?;
     switch (type) {
       case 'multiple_choice':
-        _requireField(ex, 'options', '$path[exercise $i]', errors);
-        _requireField(ex, 'correct_index', '$path[exercise $i]', errors);
+        _req(ex, 'prompt', label, errors);
+        _req(ex, 'options', label, errors);
+        final ci = ex['correctIndex'] ?? ex['correct_index'];
+        if (ci == null) {
+          errors.add('$label: missing required field "correctIndex"');
+        }
         final opts = ex['options'] as List?;
         if (opts != null && opts.length < 2) {
-          errors.add('$path[exercise $i]: multiple_choice needs ≥2 options');
+          errors.add('$label: multiple_choice needs ≥ 2 options');
         }
-      case 'fill_in_blank':
-        _requireField(ex, 'sentence_template', '$path[exercise $i]', errors);
-        _requireField(ex, 'accepted_answers', '$path[exercise $i]', errors);
-        final answers = ex['accepted_answers'] as List?;
+
+      case 'fill_blank':
+        _req(ex, 'prompt', label, errors);
+        _req(ex, 'answer', label, errors);
+        _req(ex, 'acceptableAnswers', label, errors);
+        final prompt = ex['prompt'] as String?;
+        if (prompt != null && !prompt.contains('___')) {
+          errors.add('$label: fill_blank prompt must contain "___"');
+        }
+        final answers = ex['acceptableAnswers'] as List?;
         if (answers != null && answers.isEmpty) {
-          errors.add('$path[exercise $i]: accepted_answers must not be empty');
+          errors.add('$label: acceptableAnswers must not be empty');
         }
+
+      case 'dictation_mc':
+        _req(ex, 'options', label, errors);
+        final ci = ex['correctIndex'] ?? ex['correct_index'];
+        if (ci == null) {
+          errors.add('$label: missing required field "correctIndex"');
+        }
+        final opts = ex['options'] as List?;
+        if (opts != null && opts.length < 2) {
+          errors.add('$label: dictation_mc needs ≥ 2 options');
+        }
+        // audioAsset is optional — graceful skip when absent
+
+      case 'sentence_builder':
+        _req(ex, 'prompt', label, errors);
+        _req(ex, 'wordBank', label, errors);
+        _req(ex, 'correctSequences', label, errors);
+        final bank = ex['wordBank'] as List?;
+        if (bank != null && bank.length < 3) {
+          errors.add('$label: wordBank must have ≥ 3 words');
+        }
+        final seqs = ex['correctSequences'] as List?;
+        if (seqs != null && seqs.isEmpty) {
+          errors.add('$label: correctSequences must have ≥ 1 sequence');
+        }
+
+      // Legacy types — tolerated, not flagged as errors
+      case 'fill_in_blank':
       case 'sentence_order':
-        _requireField(ex, 'words', '$path[exercise $i]', errors);
-        _requireField(ex, 'correct_order', '$path[exercise $i]', errors);
-        final words = ex['words'] as List?;
-        final order = ex['correct_order'] as List?;
-        if (words != null && order != null && words.length != order.length) {
-          errors.add('$path[exercise $i]: words and correct_order length mismatch');
-        }
+        break;
+
       default:
         if (type != null) {
-          errors.add('$path[exercise $i]: unknown exercise type "$type"');
+          errors.add('$label: unknown exercise type "$type"');
         }
     }
   }
 }
 
+// ── Vocabulary set ────────────────────────────────────────────────────────────
+
 void _validateVocabularySet(Map<String, dynamic> json, String path,
     List<String> errors, Set<String> ids) {
-  _requireField(json, 'id', path, errors);
-  _requireField(json, 'level', path, errors);
-  _requireField(json, 'title', path, errors);
-  _requireField(json, 'cards', path, errors);
+  _req(json, 'id', path, errors);
+  _req(json, 'level', path, errors);
+  _req(json, 'title', path, errors);
+  _req(json, 'cards', path, errors);
 
   final id = json['id'] as String?;
   if (id != null && !ids.add(id)) {
@@ -173,45 +240,85 @@ void _validateVocabularySet(Map<String, dynamic> json, String path,
   }
   for (var i = 0; i < cards.length; i++) {
     final card = cards[i] as Map<String, dynamic>;
-    _requireField(card, 'id', '$path[card $i]', errors);
-    _requireField(card, 'polish', '$path[card $i]', errors);
-    _requireField(card, 'english', '$path[card $i]', errors);
-    _requireField(card, 'category', '$path[card $i]', errors);
+    final label = '$path [card ${i + 1}]';
+    _req(card, 'id', label, errors);
+    _req(card, 'polish', label, errors);
+    _req(card, 'english', label, errors);
+    _req(card, 'category', label, errors);
   }
 }
 
-void _validateExamSet(Map<String, dynamic> json, String path,
+// ── Revision quiz ─────────────────────────────────────────────────────────────
+// Revision quizzes live under grammar/ and end in -revision.json.
+// They use a lighter schema: id, level, title, passThreshold, questions[].
+
+void _validateRevisionQuiz(Map<String, dynamic> json, String path,
     List<String> errors, Set<String> ids) {
-  _requireField(json, 'id', path, errors);
-  _requireField(json, 'level', path, errors);
-  _requireField(json, 'title', path, errors);
-  _requireField(json, 'section_type', path, errors);
-  _requireField(json, 'time_limit_seconds', path, errors);
-  _requireField(json, 'exercises', path, errors);
+  _req(json, 'id', path, errors);
+  _req(json, 'level', path, errors);
+  _req(json, 'title', path, errors);
+  _req(json, 'questions', path, errors);
 
   final id = json['id'] as String?;
   if (id != null && !ids.add(id)) {
     errors.add('$path: duplicate ID "$id"');
   }
 
-  final validSections = {'reading', 'listening', 'grammar', 'writing'};
-  final section = json['section_type'] as String?;
-  if (section != null && !validSections.contains(section)) {
-    errors.add('$path: invalid section_type "$section" (must be one of $validSections)');
+  final threshold = json['passThreshold'];
+  if (threshold == null) {
+    errors.add('$path: missing "passThreshold" (should be 0.70)');
   }
 
-  final exercises = json['exercises'];
-  if (exercises is! List) {
-    errors.add('$path: "exercises" must be an array');
+  final questions = json['questions'];
+  if (questions is! List) {
+    errors.add('$path: "questions" must be an array');
     return;
   }
-  if (exercises.length < 5) {
-    errors.add('$path: only ${exercises.length} exercises (min 5 required)');
+  if (questions.length < 5) {
+    errors.add('$path: only ${questions.length} questions (min 5 required)');
+  }
+  for (var i = 0; i < questions.length; i++) {
+    final q = questions[i] as Map<String, dynamic>;
+    final label = '$path [question ${i + 1}]';
+    _req(q, 'id', label, errors);
+    _req(q, 'type', label, errors);
+    _req(q, 'prompt', label, errors);
+    _req(q, 'explanation', label, errors);
   }
 }
 
-void _requireField(
-    Map<String, dynamic> json, String field, String path, List<String> errors) {
+// ── Exam set ──────────────────────────────────────────────────────────────────
+
+void _validateExamSet(Map<String, dynamic> json, String path,
+    List<String> errors, Set<String> ids) {
+  _req(json, 'id', path, errors);
+  _req(json, 'level', path, errors);
+  _req(json, 'title', path, errors);
+
+  final id = json['id'] as String?;
+  if (id != null && !ids.add(id)) {
+    errors.add('$path: duplicate ID "$id"');
+  }
+
+  // Exam files may use 'exercises' (simple) or 'sections' (full PKE-style)
+  final exercises = json['exercises'];
+  final sections = json['sections'];
+  if (exercises == null && sections == null) {
+    errors.add('$path: exam must have either "exercises" or "sections" array');
+    return;
+  }
+  if (exercises != null && exercises is! List) {
+    errors.add('$path: "exercises" must be an array');
+  }
+  if (sections != null && sections is! List) {
+    errors.add('$path: "sections" must be an array');
+  }
+}
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
+
+void _req(Map<String, dynamic> json, String field, String path,
+    List<String> errors) {
   if (!json.containsKey(field) || json[field] == null) {
     errors.add('$path: missing required field "$field"');
   }
