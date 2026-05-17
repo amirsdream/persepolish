@@ -380,10 +380,17 @@ class _FlipCardState extends State<_FlipCard>
     return AnimatedBuilder(
       animation: _ctrl,
       builder: (context, _) {
-        final angle = _flipAnim.value * math.pi;
+        final angle = _flipAnim.value * math.pi; // 0 → π
+
+        // Front half:  angle sweeps  0  → π/2  (flat → edge-on)
+        // Back  half:  angle sweeps -π/2 → 0   (edge-on → flat, no mirror)
+        //
+        // Using  (angle - π)  for the back gives exactly -π/2 at the
+        // midpoint and 0 at completion — the back face is never mirrored
+        // because it arrives at rotateY(0) = identity when fully visible.
+        // No inner counter-rotation needed at all.
         final isShowingFront = angle <= math.pi / 2;
-        // Mirror the angle for the back half so it sweeps back to 0
-        final displayAngle = isShowingFront ? angle : math.pi - angle;
+        final displayAngle = isShowingFront ? angle : angle - math.pi;
 
         return Transform.scale(
           scale: _scaleAnim.value,
@@ -394,15 +401,10 @@ class _FlipCardState extends State<_FlipCard>
             alignment: Alignment.center,
             child: isShowingFront
                 ? _CardFront(card: widget.card)
-                : Transform(
-                    // Counter-rotate back face to un-mirror it
-                    transform: Matrix4.identity()..rotateY(math.pi),
-                    alignment: Alignment.center,
-                    child: _CardBack(
-                      card: widget.card,
-                      teachingLang: widget.teachingLang,
-                      isFa: widget.isFa,
-                    ),
+                : _CardBack(
+                    card: widget.card,
+                    teachingLang: widget.teachingLang,
+                    isFa: widget.isFa,
                   ),
           ),
         );
