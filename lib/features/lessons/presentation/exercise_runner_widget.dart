@@ -102,6 +102,7 @@ class _ExerciseRunnerWidgetState extends ConsumerState<ExerciseRunnerWidget> {
             FillBlankExercise fill => _FillBlankInput(
                 key: ValueKey(exercise.id),
                 exercise: fill,
+                teachingLang: teachingLang,
                 controller: _textController,
                 enabled: !_answered,
               ),
@@ -114,6 +115,8 @@ class _ExerciseRunnerWidgetState extends ConsumerState<ExerciseRunnerWidget> {
                   explanation: dictation.explanation,
                   options: dictation.options,
                   correctIndex: dictation.correctIndex,
+                  promptFa: dictation.promptFa,
+                  explanationFa: dictation.explanationFa,
                 ),
                 teachingLang: teachingLang,
                 selectedIndex: _selectedOption,
@@ -125,6 +128,7 @@ class _ExerciseRunnerWidgetState extends ConsumerState<ExerciseRunnerWidget> {
             SentenceBuilderExercise builder => _SentenceBuilderInput(
                 key: ValueKey(exercise.id),
                 exercise: builder,
+                teachingLang: teachingLang,
                 chosenWords: _chosenWords,
                 enabled: !_answered,
                 onChanged: (words) => setState(() => _chosenWords = words),
@@ -237,6 +241,7 @@ class _AudioPrompt extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final l10n = AppLocalizations.of(context)!;
     final hasAudio = exercise.audioAsset != null;
     return Container(
       padding: const EdgeInsets.all(Spacing.md),
@@ -255,8 +260,8 @@ class _AudioPrompt extends StatelessWidget {
           Expanded(
             child: Text(
               hasAudio
-                  ? 'Listen and select the correct written form.'
-                  : 'Select the correct written form. (Audio coming soon)',
+                  ? l10n.exerciseDictationListen
+                  : l10n.exerciseDictationNoAudio,
               style: Theme.of(context).textTheme.titleMedium,
             ),
           ),
@@ -268,7 +273,7 @@ class _AudioPrompt extends StatelessWidget {
               onPressed: () {
                 // TODO: play audio via audio_player package
               },
-              tooltip: 'Play audio',
+              tooltip: l10n.exerciseDictationListen,
             ),
         ],
       ),
@@ -356,23 +361,30 @@ class _FillBlankInput extends StatelessWidget {
   const _FillBlankInput({
     super.key,
     required this.exercise,
+    required this.teachingLang,
     required this.controller,
     required this.enabled,
   });
 
   final FillBlankExercise exercise;
+  final String teachingLang;
   final TextEditingController controller;
   final bool enabled;
 
   @override
   Widget build(BuildContext context) {
-    // Show the prompt with ___ highlighted
-    final parts = exercise.prompt.split('___');
+    final l10n = AppLocalizations.of(context)!;
+    final isFa = teachingLang == 'fa';
+    // Use localized prompt — falls back to English if no Persian version
+    final localizedPrompt = exercise.localizedPrompt(teachingLang);
+    final parts = localizedPrompt.split('___');
     return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
+      crossAxisAlignment:
+          isFa ? CrossAxisAlignment.end : CrossAxisAlignment.start,
       children: [
         if (parts.length >= 2)
           RichText(
+            textDirection: isFa ? TextDirection.rtl : TextDirection.ltr,
             text: TextSpan(
               style: Theme.of(context)
                   .textTheme
@@ -394,7 +406,8 @@ class _FillBlankInput extends StatelessWidget {
           )
         else
           Text(
-            exercise.prompt,
+            localizedPrompt,
+            textDirection: isFa ? TextDirection.rtl : TextDirection.ltr,
             style: Theme.of(context)
                 .textTheme
                 .bodyLarge
@@ -403,7 +416,8 @@ class _FillBlankInput extends StatelessWidget {
         if (exercise.hint != null) ...[
           const SizedBox(height: Spacing.xs),
           Text(
-            'Hint: ${exercise.hint}',
+            l10n.exerciseHintLabel(exercise.hint!),
+            textDirection: isFa ? TextDirection.rtl : TextDirection.ltr,
             style: Theme.of(context).textTheme.bodySmall?.copyWith(
                   color: AppColors.onSurfaceVariant,
                   fontStyle: FontStyle.italic,
@@ -416,7 +430,7 @@ class _FillBlankInput extends StatelessWidget {
           enabled: enabled,
           autofocus: true,
           decoration: InputDecoration(
-            hintText: AppLocalizations.of(context)!.exerciseTypeAnswerHint,
+            hintText: l10n.exerciseTypeAnswerHint,
             hintStyle: const TextStyle(color: AppColors.onSurfaceVariant),
             filled: true,
             fillColor: AppColors.surfaceVariant,
@@ -438,12 +452,14 @@ class _SentenceBuilderInput extends StatefulWidget {
   const _SentenceBuilderInput({
     super.key,
     required this.exercise,
+    required this.teachingLang,
     required this.chosenWords,
     required this.enabled,
     required this.onChanged,
   });
 
   final SentenceBuilderExercise exercise;
+  final String teachingLang;
   final List<String> chosenWords;
   final bool enabled;
   final ValueChanged<List<String>> onChanged;
@@ -493,7 +509,7 @@ class _SentenceBuilderInputState extends State<_SentenceBuilderInput> {
             ),
             child: _chosen.isEmpty
                 ? Text(
-                    'Tap words below to build the sentence',
+                    AppLocalizations.of(context)!.exerciseSentenceBuilderHint,
                     style: Theme.of(context).textTheme.bodyMedium?.copyWith(
                           color: AppColors.onSurfaceVariant,
                           fontStyle: FontStyle.italic,

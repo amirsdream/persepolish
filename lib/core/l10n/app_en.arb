@@ -164,5 +164,47 @@
   "@wordBankTitle": { "description": "Title for the word bank screen" },
 
   "completionAccuracyLabel": "Accuracy",
-  "@completionAccuracyLabel": { "description": "Sublabel on accuracy stat chip in completion screen" }
+  "@completionAccuracyLabel": { "description": "Sublabel on accuracy stat chip in completion screen" },
+
+  "exerciseDictationListen": "Listen and select the correct written form.",
+  "@exerciseDictationListen": { "description": "Prompt shown in dictation exercise when audio is available" },
+
+  "exerciseDictationNoAudio": "Select the correct written form. (Audio coming soon)",
+  "@exerciseDictationNoAudio": { "description": "Prompt shown in dictation exercise when audio is missing" },
+
+  "exerciseSentenceBuilderHint": "Tap words below to build the sentence",
+  "@exerciseSentenceBuilderHint": { "description": "Placeholder in sentence builder empty drop zone" },
+
+  "exerciseHintLabel": "Hint: {hint}",
+  "@exerciseHintLabel": {
+    "description": "Hint shown below fill-in-blank prompt",
+    "placeholders": { "hint": { "type": "String" } }
+  },
+
+  "vocabCardMeaning": "Meaning",
+  "@vocabCardMeaning": { "description": "Label for vocabulary card meaning side" },
+
+  "vocabCardExample": "Example",
+  "@vocabCardExample": { "description": "Label for vocabulary card example sentence" },
+
+  "flashcardFlipHint": "Tap to flip",
+  "@flashcardFlipHint": { "description": "Hint text on flashcard front" },
+
+  "flashcardKnowIt": "Know it ✓",
+  "@flashcardKnowIt": { "description": "Button to mark vocab card as known" },
+
+  "flashcardStillLearning": "Still learning",
+  "@flashcardStillLearning": { "description": "Button to keep vocab card in review queue" },
+
+  "flashcardProgress": "{known} / {total} known",
+  "@flashcardProgress": {
+    "description": "Progress counter on flashcard screen",
+    "placeholders": {
+      "known": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+
+  "flashcardSetComplete": "Set complete! Great work.",
+  "@flashcardSetComplete": { "description": "Message when all flashcards in set are reviewed" }
 }

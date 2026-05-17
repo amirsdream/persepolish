@@ -164,5 +164,47 @@
   "@wordBankTitle": { "description": "Title for the word bank screen" },
 
   "completionAccuracyLabel": "دقت",
-  "@completionAccuracyLabel": { "description": "Sublabel on accuracy stat chip in completion screen" }
+  "@completionAccuracyLabel": { "description": "Sublabel on accuracy stat chip in completion screen" },
+
+  "exerciseDictationListen": "گوش بده و شکل نوشتاری درست را انتخاب کن.",
+  "@exerciseDictationListen": { "description": "Prompt shown in dictation exercise when audio is available" },
+
+  "exerciseDictationNoAudio": "شکل نوشتاری درست را انتخاب کن. (صدا به زودی اضافه می‌شود)",
+  "@exerciseDictationNoAudio": { "description": "Prompt shown in dictation exercise when audio is missing" },
+
+  "exerciseSentenceBuilderHint": "روی کلمات پایین بزن تا جمله بسازی",
+  "@exerciseSentenceBuilderHint": { "description": "Placeholder in sentence builder empty drop zone" },
+
+  "exerciseHintLabel": "راهنما: {hint}",
+  "@exerciseHintLabel": {
+    "description": "Hint shown below fill-in-blank prompt",
+    "placeholders": { "hint": { "type": "String" } }
+  },
+
+  "vocabCardMeaning": "معنی",
+  "@vocabCardMeaning": { "description": "Label for vocabulary card meaning side" },
+
+  "vocabCardExample": "مثال",
+  "@vocabCardExample": { "description": "Label for vocabulary card example sentence" },
+
+  "flashcardFlipHint": "بزن تا برگردانی",
+  "@flashcardFlipHint": { "description": "Hint text on flashcard front" },
+
+  "flashcardKnowIt": "بلدم ✓",
+  "@flashcardKnowIt": { "description": "Button to mark vocab card as known" },
+
+  "flashcardStillLearning": "هنوز دارم یاد می‌گیرم",
+  "@flashcardStillLearning": { "description": "Button to keep vocab card in review queue" },
+
+  "flashcardProgress": "{known} از {total} بلد",
+  "@flashcardProgress": {
+    "description": "Progress counter on flashcard screen",
+    "placeholders": {
+      "known": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+
+  "flashcardSetComplete": "مجموعه تموم شد! آفرین.",
+  "@flashcardSetComplete": { "description": "Message when all flashcards in set are reviewed" }
 }
