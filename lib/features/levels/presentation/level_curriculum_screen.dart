@@ -427,8 +427,10 @@ class _ChapterSection extends StatelessWidget {
               padding: const EdgeInsets.all(Spacing.sm),
               itemCount: group.items.length,
               itemBuilder: (context, i) => Padding(
-                padding: EdgeInsets.only(
-                    right: i < group.items.length - 1 ? Spacing.xs : 0),
+                // EdgeInsetsDirectional.end flips to physical left in RTL,
+                // so inter-item gaps always appear on the trailing side.
+                padding: EdgeInsetsDirectional.only(
+                    end: i < group.items.length - 1 ? Spacing.xs : 0),
                 child: _LessonPill(
                   unit: group.items[i],
                   levelId: levelId,
@@ -542,32 +544,22 @@ class _LessonPill extends StatelessWidget {
                 ],
               ),
 
-              // Stars (compact) for completed
-              if (isComplete)
-                Row(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: List.generate(
-                    3,
-                    (i) => Icon(
-                      i < unit.stars
-                          ? Icons.star_rounded
-                          : Icons.star_border_rounded,
-                      color: i < unit.stars
-                          ? AppColors.starGold
-                          : AppColors.starEmpty,
-                      size: 10,
-                    ),
+              // Stars: earned (lit) when complete, empty otherwise
+              Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: List.generate(
+                  3,
+                  (i) => Icon(
+                    isComplete && i < unit.stars
+                        ? Icons.star_rounded
+                        : Icons.star_border_rounded,
+                    color: isComplete && i < unit.stars
+                        ? AppColors.starGold
+                        : AppColors.starEmpty,
+                    size: 10,
                   ),
-                )
-              else
-                // Play icon for not started / in-progress
-                Icon(
-                  isInProgress
-                      ? Icons.play_circle_rounded
-                      : Icons.circle_outlined,
-                  color: sc,
-                  size: 14,
                 ),
+              ),
 
               // Short title
               Text(

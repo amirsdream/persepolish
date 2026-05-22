@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch20-l04-writing-review",
+  "chapter": 20,
+  "lessonOrder": 4,
+  "level": "b1",
+  "title": "B1 Writing Skills Review",
+  "title_fa": "مرور مهارت‌های نوشتاری B1",
+  "grammarPoint": "B1 writing tasks: formal letters, informal emails, short descriptions; common mistakes to avoid",
+  "grammarPoint_fa": "تکالیف نوشتاری B1: نامه‌های رسمی، ایمیل‌های غیررسمی، توصیف‌های کوتاه؛ اشتباهات رایج برای اجتناب",
+  "explanation": {
+    "text": "**PKE B1 Writing Section (10% of exam):**\nTypically 1-2 tasks, 80-120 words each\n\n**Task types:**\n1. Formal letter/email (formal request, complaint, application)\n2. Informal email/letter (to a friend)\n3. Short text (description, opinion, announcement)\n\n**Formal letter checklist:**\n☐ Date in genitive: 22 maja 2026 roku\n☐ Correct salutation: Szanowny/Szanowna Panie/Pani...\n☐ Pan/Pani + 3rd person verbs throughout\n☐ Formal vocabulary: pragnę, posiadam, uprzejmie proszę\n☐ Closing: Z poważaniem\n\n**Common errors to avoid:**\n1. ✗ 'Czy masz czas?' → ✓ 'Czy Pan/Pani ma czas?'\n2. ✗ 'Chcę powiedzieć' → ✓ 'Pragnę poinformować'\n3. ✗ 'Nagle dzwonił' → ✓ 'Nagle zadzwonił' (aspect!)\n4. ✗ 'Mimo deszcz' → ✓ 'Mimo deszczu' (genitive!)\n5. ✗ 'Wbrew prawa' → ✓ 'Wbrew prawu' (dative — unique!)\n\n**Useful B1 writing structures:**\n\n**Giving reasons:**\n- Ponieważ... (because)\n- Z tego powodu... (for this reason)\n- W związku z tym... (in connection with this)\n\n**Contrasting:**\n- Jednak... (however)\n- Choć / mimo że... (although)\n- Z jednej strony... z drugiej strony... (on one hand... on the other)\n\n**Sequencing:**\n- Po pierwsze... po drugie... (firstly... secondly...)\n- Następnie... (next, then)\n- W końcu... (finally)\n\n**B1 sample writing prompt:**\n*'Napisz email do szefa z prośbą o urlop w sierpniu.'*\n→ Use: Szanowny Panie Dyrektorze / Zwracam się z prośbą o... / Z poważaniem",
+    "notes": [
+      "B1 writing is 10% of PKE — but errors in aspect/case still reduce grammar marks",
+      "Formal tasks: always Pan/Pani + 3rd person; never use 'ty' to address the reader",
+      "Aspect errors are the most common grammar mistakes in B1 writing",
+      "Connectors make your writing coherent and raise your score"
+    ]
+  },
+  "explanation_fa": "بخش نوشتار PKE B1 (۱۰٪ آزمون): ۱-۲ تکلیف، ۸۰-۱۲۰ کلمه. انواع تکلیف: نامه رسمی، ایمیل غیررسمی، متن کوتاه. چک‌لیست نامه رسمی: تاریخ با مضاف‌الیه، سلام درست، Pan/Pani + سوم شخص، واژگان رسمی، Z poważaniem. اشتباهات رایج: جنبه اشتباه (nagle dzwonił)، حالت اشتباه (mimo deszcz)، خطاب غیررسمی. ساختارهای نوشتاری مفید: دلیل (ponieważ، z tego powodu)، تضاد (jednak، choć)، توالی (po pierwsze، następnie، w końcu).",
+  "exercises": [
+    {
+      "id": "b1-ch20-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "In a formal email to your director, how do you say 'I want to inform you that...'?",
+      "prompt_fa": "در ایمیل رسمی به مدیرتان، چطور می‌گویید 'می‌خواهم به شما اطلاع دهم که...'؟",
+      "options": [
+        "Pragnę poinformować Pana, że... (formal)",
+        "Chcę ci powiedzieć, że... (informal)",
+        "Mówię ci, że... (spoken/informal)",
+        "Informuję cię, że... (wrong address form)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Pragnę poinformować Pana, że...' — formal: pragnę (wish/desire), poinformować (to inform, elevated), Pana (formal address). Not 'chcę' or 'ci'.",
+      "explanation_fa": "'Pragnę poinformować Pana, że...' — رسمی: pragnę (آرزو دارم)، poinformować (اطلاع دادن، مرتفع)، Pana (خطاب رسمی). نه 'chcę' یا 'ci'."
+    },
+    {
+      "id": "b1-ch20-l04-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Correct the aspect error: 'Nagle dzwonił telefon.' (what should 'dzwonił' be?)",
+      "context_fa": "خطای جنبه را اصلاح کنید: 'Nagle dzwonił telefon.' ('dzwonił' باید چه باشد؟)",
+      "sentence": "Nagle ___ telefon.",
+      "prompt": "Nagle ___ telefon.",
+      "prompt_fa": "Nagle ___ telefon.",
+      "answer": "zadzwonił",
+      "acceptableAnswers": ["zadzwonił"],
+      "hint": "nagle + perfective: zadzwonić (perf) → past masculine: zadzwonił",
+      "explanation": "'Nagle zadzwonił telefon.' — Suddenly the phone rang. Nagle + perfective is the rule. 'Dzwonił' (imperf) was wrong — it would mean 'was ringing' (ongoing background, not sudden event).",
+      "explanation_fa": "'Nagle zadzwonił telefon.' — ناگهان تلفن زنگ زد. nagle + کامل قانون است. 'Dzwonił' (ناکامل) اشتباه بود — یعنی 'داشت زنگ می‌زد' (پس‌زمینه ادامه‌دار، نه رویداد ناگهانی)."
+    },
+    {
+      "id": "b1-ch20-l04-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch20/b1-ch20-l04-ex03.mp3",
+      "prompt": "Which correctly-written formal sentence did you hear?",
+      "prompt_fa": "کدام جمله رسمی درست نوشته‌شده را شنیدید؟",
+      "options": [
+        "Zwracam się do Pana z prośbą o spotkanie.",
+        "Zwracam się do ciebie z prośbą o spotkanie.",
+        "Zwracam się z Panem z prośbą o spotkanie.",
+        "Zwracam się dla Pana z prośbą o spotkanie."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Zwracam się do Pana z prośbą o spotkanie.' — I turn to you (sir) with a request for a meeting. 'Do Pana' (gen.) = to you (formal male).",
+      "explanation_fa": "'Zwracam się do Pana z prośbą o spotkanie.' — با درخواست جلسه به شما (آقا) مراجعه می‌کنم. 'Do Pana' (مضاف‌الیه) = به شما (خطاب رسمی مذکر)."
+    },
+    {
+      "id": "b1-ch20-l04-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build with a contrast connector: 'On one hand it's expensive; on the other hand, the quality is high.'",
+      "prompt_fa": "با کانکتور تضاد بسازید: 'از یک طرف گران است؛ از طرف دیگر کیفیت بالاست.'",
+      "wordBank": ["Z", "jednej", "strony", "jest", "drogie", "drugiej", "jakość", "wysoka"],
+      "correctSequences": [["Z", "jednej", "strony", "jest", "drogie", "drugiej", "jakość", "wysoka"]],
+      "explanation": "'Z jednej strony jest drogie, z drugiej strony jakość jest wysoka.' — The classic Polish contrast structure: 'z jednej strony... z drugiej strony...' (on one hand... on the other...)",
+      "explanation_fa": "'Z jednej strony jest drogie, z drugiej strony jakość jest wysoka.' — ساختار کلاسیک تضاد لهستانی: 'z jednej strony... z drugiej strony...' (از یک طرف... از طرف دیگر...)"
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 12,
+  "tags": ["b1-review", "writing", "formal-register", "exam-prep"],
+  "prerequisites": ["b1-ch20-l01", "b1-ch20-l02", "b1-ch20-l03"]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch20-l02-vocab-review",
+  "chapter": 20,
+  "lessonOrder": 2,
+  "level": "b1",
+  "title": "B1 Vocabulary Review: Word Formation & Idioms",
+  "title_fa": "مرور واژگان B1: ساخت کلمه و اصطلاحات",
+  "grammarPoint": "Review of B1 word formation (suffixes, diminutives, derived nouns) and key idiomatic expressions",
+  "grammarPoint_fa": "مرور ساخت کلمه در B1 (پسوندها، کوچک‌کننده‌ها، اسامی مشتق) و عبارات اصطلاحی کلیدی",
+  "explanation": {
+    "text": "**B1 Word Formation — What you should know:**\n\n**Agent nouns:**\n- -arz suffix: piekarz, dziennikarz, murarz, malarz, rzeźbiarz\n- -ista suffix (masc. despite -a): artysta, turysta, dentysta, pianista\n- Feminine: -arka (dziennikarka), -istka (artystka, dentystka)\n\n**Abstract nouns:**\n- -ość (always f.): wolność, mądrość, miłość, możliwość, gotowość\n- Exceptions: głupota (not głupość), smutek (not smutność)\n\n**Verbal nouns (always neuter):**\n- czytanie, pisanie, gotowanie, spotkanie, ogłoszenie\n\n**Diminutives:**\n- Masculine: stolik (stół), domek (dom), nożyk (nóż)\n- Feminine: herbatka (herbata), kawka (kawa), główka (głowa)\n- Neuter: okienko (okno), miasteczko (miasto), słówko (słowo)\n\n**B1 Key vocabulary domains:**\n\n| Domain | Key words |\n|--------|----------|\n| Numerals | dwoje, oboje, tuzin, setka, para |\n| Prepositions | mimo, wbrew, według, podczas, wzdłuż |\n| Discourse | jednak, ponadto, z kolei, tymczasem |\n| Media | wzrost, spadek, ogłoszono, według |\n| Formal | pragnę, posiadam, uprzejmie, z poważaniem |\n| Idioms | wstać lewą nogą, oczko w głowie, mieć dość |\n\n**B1 derivation chains (know these!):**\n- pisać → pisanie → pisarz → pisarka → pisarstwo\n- wolny → wolność → oswobodzić\n- stół → stolik → stolarz → stolarka\n- miasto → miasteczko → mieszczanin",
+    "notes": [
+      "B1 exams often test suffix recognition and word family knowledge",
+      "Know at least 5 words in each suffix category (-arz, -ista, -ość)",
+      "Diminutives are stylistically important — used in everyday speech constantly",
+      "Discourse connectors (jednak, ponadto) essential for writing tasks"
+    ]
+  },
+  "explanation_fa": "ساخت کلمه در B1: اسامی فاعلی: -arz (piekarz، dziennikarz)، -ista (artysta، turysta — مذکر با پایان -a!)، مؤنث: -arka، -istka. اسامی انتزاعی -ość (همه مؤنث): wolność، mądrość، miłość. استثناها: głupota، smutek. اسامی فعلی (همه خنثی): czytanie، pisanie. کوچک‌کننده‌ها: -ik/-ek (مذکر)، -ka (مؤنث)، -ko (خنثی). حوزه‌های واژگانی کلیدی B1: اعداد، حروف اضافه، گفتمان، رسانه، رسمی، اصطلاحات. زنجیره‌های اشتقاقی: pisać → pisanie → pisarz → pisarka.",
+  "exercises": [
+    {
+      "id": "b1-ch20-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "From 'zdolny' (capable), what is the correct abstract noun?",
+      "prompt_fa": "از 'zdolny' (توانا)، اسم انتزاعی درست کدام است؟",
+      "options": [
+        "zdolność (capability, ability)",
+        "zdolnota (wrong suffix)",
+        "zdolnienie (wrong — not an -ość word)",
+        "zdolnik (wrong — agent suffix)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Zdolność' = capability/ability. Zdolny (capable) + -ość = zdolność (f.). All -ość nouns are feminine.",
+      "explanation_fa": "'Zdolność' = توانایی/استعداد. Zdolny (توانا) + -ość = zdolność (مؤنث). همه اسامی -ość مؤنث هستند."
+    },
+    {
+      "id": "b1-ch20-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Identify the suffix and meaning: 'rzeźbiarz' is a ___-arz agent noun meaning:",
+      "context_fa": "پسوند و معنا را شناسایی کنید: 'rzeźbiarz' یک اسم فاعلی -arz است به معنای:",
+      "sentence": "Rzeźbiarz tworzy rzeźby — po angielsku to '___'.",
+      "prompt": "Rzeźbiarz tworzy rzeźby — po angielsku to '___'.",
+      "prompt_fa": "Rzeźbiarz tworzy rzeźby — po angielsku to '___'.",
+      "answer": "sculptor",
+      "acceptableAnswers": ["sculptor", "a sculptor"],
+      "hint": "rzeźba = sculpture; rzeźbiarz = the person who makes sculptures",
+      "explanation": "'Rzeźbiarz' = sculptor. Rzeźba (sculpture) + -arz = rzeźbiarz (the one who makes sculptures). Feminine: rzeźbiarka.",
+      "explanation_fa": "'Rzeźbiarz' = مجسمه‌ساز. rzeźba (مجسمه) + -arz = rzeźbiarz (کسی که مجسمه می‌سازد). مؤنث: rzeźbiarka."
+    },
+    {
+      "id": "b1-ch20-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch20/b1-ch20-l02-ex03.mp3",
+      "prompt": "Which derived noun sentence did you hear?",
+      "prompt_fa": "کدام جمله اسم مشتق را شنیدید؟",
+      "options": [
+        "Miłość jest ważniejsza niż mądrość.",
+        "Miłosny jest ważniejszy niż mądry.",
+        "Miłość jest ważniejsza niż mądry.",
+        "Miły jest ważniejszy niż mądrość."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Miłość jest ważniejsza niż mądrość.' — Love is more important than wisdom. Both -ość nouns (feminine), both from adjectives (miły, mądry).",
+      "explanation_fa": "'Miłość jest ważniejsza niż mądrość.' — عشق مهم‌تر از خرد است. هر دو اسم -ość (مؤنث)، هر دو از صفات (miły، mądry)."
+    },
+    {
+      "id": "b1-ch20-l02-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build with a discourse connector: 'Furthermore, the journalist wrote about freedom.'",
+      "prompt_fa": "با کانکتور گفتمانی بسازید: 'علاوه بر این، روزنامه‌نگار درباره آزادی نوشت.'",
+      "wordBank": ["Ponadto", "dziennikarz", "napisał", "o", "wolności", "Jednak", "dziennikarka"],
+      "correctSequences": [["Ponadto", "dziennikarz", "napisał", "o", "wolności"]],
+      "explanation": "'Ponadto dziennikarz napisał o wolności.' — Furthermore, the journalist wrote about freedom. 'Ponadto' = furthermore; 'o wolności' = about freedom (locative after 'o').",
+      "explanation_fa": "'Ponadto dziennikarz napisał o wolności.' — علاوه بر این، روزنامه‌نگار درباره آزادی نوشت. 'Ponadto' = علاوه بر این؛ 'o wolności' = درباره آزادی (مکانی بعد از 'o')."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 12,
+  "tags": ["b1-review", "vocabulary", "word-formation", "exam-prep"],
+  "prerequisites": ["b1-ch15-l04", "b1-ch19-l04"]
+}

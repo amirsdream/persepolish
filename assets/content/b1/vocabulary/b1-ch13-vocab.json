@@ -1,0 +1,262 @@
+{
+  "id": "b1-ch13-vocab",
+  "chapter": 13,
+  "level": "b1",
+  "title": "Discourse Markers and Connectors",
+  "title_fa": "نشانه‌های گفتمانی و ربط‌دهنده‌ها",
+  "cards": [
+    {
+      "id": "b1-ch13-w001",
+      "polish": "jednak",
+      "english": "however, yet, nevertheless",
+      "pronunciation": "YED-nak",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Chciałem pójść, jednak zostałem w domu.",
+      "exampleEnglish": "I wanted to go, however I stayed at home."
+    },
+    {
+      "id": "b1-ch13-w002",
+      "polish": "natomiast",
+      "english": "whereas, while (on the other hand)",
+      "pronunciation": "nah-TOH-myahst",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Ja lubię kawę, natomiast ona woli herbatę.",
+      "exampleEnglish": "I like coffee, whereas she prefers tea."
+    },
+    {
+      "id": "b1-ch13-w003",
+      "polish": "z kolei",
+      "english": "in turn, for one's part",
+      "pronunciation": "z KOH-lay",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Marek pracuje w banku. Z kolei jego żona uczy w szkole.",
+      "exampleEnglish": "Marek works in a bank. His wife, in turn, teaches at school."
+    },
+    {
+      "id": "b1-ch13-w004",
+      "polish": "ponadto",
+      "english": "moreover, furthermore, in addition",
+      "pronunciation": "poh-NAD-toh",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Jest inteligentny. Ponadto świetnie gotuje.",
+      "exampleEnglish": "He is intelligent. Moreover, he cooks brilliantly."
+    },
+    {
+      "id": "b1-ch13-w005",
+      "polish": "ponadto",
+      "english": "moreover, furthermore",
+      "pronunciation": "poh-NAD-toh",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Projekt jest ciekawy. Ponadto ma dobry budżet.",
+      "exampleEnglish": "The project is interesting. Furthermore, it has a good budget."
+    },
+    {
+      "id": "b1-ch13-w006",
+      "polish": "wręcz",
+      "english": "in fact, outright, practically",
+      "pronunciation": "VRENCH",
+      "gender": null,
+      "category": "intensifier",
+      "examplePolish": "To jest wręcz niemożliwe.",
+      "exampleEnglish": "This is practically impossible."
+    },
+    {
+      "id": "b1-ch13-w007",
+      "polish": "właśnie",
+      "english": "exactly, just (now), precisely",
+      "pronunciation": "VLAHSH-nyeh",
+      "gender": null,
+      "category": "particle",
+      "examplePolish": "Właśnie o to mi chodziło.",
+      "exampleEnglish": "That's precisely what I meant."
+    },
+    {
+      "id": "b1-ch13-w008",
+      "polish": "przecież",
+      "english": "after all, but (expressing obviousness)",
+      "pronunciation": "PZHE-chesh",
+      "gender": null,
+      "category": "particle",
+      "examplePolish": "Przecież to wiedziałeś!",
+      "exampleEnglish": "You knew that all along!"
+    },
+    {
+      "id": "b1-ch13-w009",
+      "polish": "chyba",
+      "english": "probably, I think (hedging)",
+      "pronunciation": "HY-bah",
+      "gender": null,
+      "category": "particle",
+      "examplePolish": "Chyba masz rację.",
+      "exampleEnglish": "I think you're right."
+    },
+    {
+      "id": "b1-ch13-w010",
+      "polish": "podobno",
+      "english": "apparently, supposedly",
+      "pronunciation": "poh-DOB-noh",
+      "gender": null,
+      "category": "particle",
+      "examplePolish": "Podobno dostała nową pracę.",
+      "exampleEnglish": "Apparently she got a new job."
+    },
+    {
+      "id": "b1-ch13-w011",
+      "polish": "mianowicie",
+      "english": "namely, that is to say",
+      "pronunciation": "myah-noh-VEE-cheh",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Problem polega na tym, mianowicie że nie mamy dość czasu.",
+      "exampleEnglish": "The problem is this, namely that we don't have enough time."
+    },
+    {
+      "id": "b1-ch13-w012",
+      "polish": "poza tym",
+      "english": "besides, apart from that",
+      "pronunciation": "POH-zah tym",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Nie lubię tej restauracji. Poza tym jest za droga.",
+      "exampleEnglish": "I don't like this restaurant. Besides, it's too expensive."
+    },
+    {
+      "id": "b1-ch13-w013",
+      "polish": "jednocześnie",
+      "english": "simultaneously, at the same time",
+      "pronunciation": "yed-noh-CHESH-nyeh",
+      "gender": null,
+      "category": "adverb",
+      "examplePolish": "Słuchał muzyki i jednocześnie uczył się.",
+      "exampleEnglish": "He listened to music and studied at the same time."
+    },
+    {
+      "id": "b1-ch13-w014",
+      "polish": "tymczasem",
+      "english": "meanwhile, in the meantime",
+      "pronunciation": "tym-CHAH-sem",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Gotowałam obiad. Tymczasem dzieci bawiły się w ogrodzie.",
+      "exampleEnglish": "I was cooking dinner. Meanwhile, the children played in the garden."
+    },
+    {
+      "id": "b1-ch13-w015",
+      "polish": "w końcu",
+      "english": "finally, in the end, after all",
+      "pronunciation": "v KON-tsoo",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "W końcu zdecydowali się wyjechać.",
+      "exampleEnglish": "In the end, they decided to leave."
+    },
+    {
+      "id": "b1-ch13-w016",
+      "polish": "co więcej",
+      "english": "what's more, furthermore",
+      "pronunciation": "tsoh VYEH-tsey",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Jest świetnym pracownikiem. Co więcej, zawsze jest punktualny.",
+      "exampleEnglish": "He's a great worker. What's more, he's always punctual."
+    },
+    {
+      "id": "b1-ch13-w017",
+      "polish": "tak więc",
+      "english": "so, therefore, thus",
+      "pronunciation": "tak VYEH-ts",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Pada deszcz. Tak więc zostaniemy w domu.",
+      "exampleEnglish": "It's raining. So we'll stay at home."
+    },
+    {
+      "id": "b1-ch13-w018",
+      "polish": "z drugiej strony",
+      "english": "on the other hand",
+      "pronunciation": "z DROO-gyey STROH-ny",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "To drogi kurs. Z drugiej strony, nauczę się dużo.",
+      "exampleEnglish": "It's an expensive course. On the other hand, I'll learn a lot."
+    },
+    {
+      "id": "b1-ch13-w019",
+      "polish": "innymi słowy",
+      "english": "in other words",
+      "pronunciation": "een-NY-mee SWOH-vy",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Projekt nie powiódł się. Innymi słowy, straciliśmy czas.",
+      "exampleEnglish": "The project failed. In other words, we wasted time."
+    },
+    {
+      "id": "b1-ch13-w020",
+      "polish": "na przykład (np.)",
+      "english": "for example (e.g.)",
+      "pronunciation": "nah PZHYK-wad",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Lubię sporty wodne, na przykład pływanie i kajakarstwo.",
+      "exampleEnglish": "I like water sports, for example swimming and kayaking."
+    },
+    {
+      "id": "b1-ch13-w021",
+      "polish": "to znaczy (tzn.)",
+      "english": "that is (i.e.), meaning",
+      "pronunciation": "toh ZNAH-chee",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Jestem wegetarianinem, to znaczy nie jem mięsa.",
+      "exampleEnglish": "I'm a vegetarian, that is, I don't eat meat."
+    },
+    {
+      "id": "b1-ch13-w022",
+      "polish": "mimo to",
+      "english": "despite this, even so",
+      "pronunciation": "MEE-moh toh",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Wiedziałem o ryzyku. Mimo to pojechałem.",
+      "exampleEnglish": "I knew about the risk. Even so, I went."
+    },
+    {
+      "id": "b1-ch13-w023",
+      "polish": "o ile wiem",
+      "english": "as far as I know",
+      "pronunciation": "oh EE-leh vyem",
+      "gender": null,
+      "category": "expression",
+      "examplePolish": "O ile wiem, ona nadal mieszka w Warszawie.",
+      "exampleEnglish": "As far as I know, she still lives in Warsaw."
+    },
+    {
+      "id": "b1-ch13-w024",
+      "polish": "z jednej strony",
+      "english": "on one hand",
+      "pronunciation": "z YED-ney STROH-ny",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Z jednej strony chcę pojechać, z drugiej strony boję się.",
+      "exampleEnglish": "On one hand I want to go, on the other hand I'm scared."
+    },
+    {
+      "id": "b1-ch13-w025",
+      "polish": "jak wiadomo",
+      "english": "as is well known, as we know",
+      "pronunciation": "yak vyah-DOH-moh",
+      "gender": null,
+      "category": "expression",
+      "examplePolish": "Jak wiadomo, Polska ma piękne jeziora.",
+      "exampleEnglish": "As is well known, Poland has beautiful lakes."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 12,
+  "tags": ["discourse", "connectors", "b1-vocabulary"]
+}

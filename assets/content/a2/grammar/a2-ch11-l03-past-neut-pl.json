@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Dzieci ___ w parku przez dwie godziny. (The children played in the park for two hours.) [bawić się, one past]",
+      "prompt_fa": "بچه‌ها ___ دو ساعت در پارک بازی کردند. [bawić się، جمع غیر مذکر گذشته]",
       "options": [
         "bawiły się",
         "bawiło się",
@@ -30,24 +31,34 @@
         "bawiłem się"
       ],
       "correctIndex": 0,
-      "explanation": "'Dzieci' (children) is non-virile plural → 'bawiły się' (-ły ending). If a mixed group with boys: 'bawili się'."
+      "explanation": "'Dzieci' (children) is non-virile plural → 'bawiły się' (-ły ending). If a mixed group with boys: 'bawili się'.",
+      "explanation_fa": "'Dzieci' (بچه‌ها) جمع غیر مذکر است → 'bawiły się' (پسوند -ły). اگر گروه مختلط با پسر باشد: 'bawili się'."
     },
     {
       "id": "a2-ch11-l03-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "My (group of men and women) ___ razem na kolację. (We went out for dinner together.) [wychodzić, my m-pers past]",
+      "context": "Kasia and Tomek describe their evening out together. Complete:",
+      "context_fa": "کاسیا و تومک شب خود را با هم توصیف می‌کنند. کامل کنید:",
+      "sentence": "My (group of men and women) ___ razem na kolację.",
+      "translation": "(We went out for dinner together.) [wychodzić, my m-pers past]",
+      "translation_fa": "(ما با هم برای شام بیرون رفتیم.) [wychodzić، اول شخص جمع مذکر/مختلط گذشته]",
+      "prompt": "My (group of men and women) ___ razem na kolację.",
+      "prompt_fa": "My (group of men and women) ___ razem na kolację.",
       "answer": "wychodziliśmy",
       "acceptableAnswers": [
         "wychodziliśmy"
       ],
-      "hint": "Mixed/male group (my virile): -liśmy ending (wychodzić → wychodziliśmy)"
+      "hint": "Mixed/male group (my virile): -liśmy ending (wychodzić → wychodziliśmy)",
+      "explanation": "Mixed group 'my' (virile) past: wychodziliśmy (-liśmy ending). Women-only group would be: wychodzіłyśmy.",
+      "explanation_fa": "گذشته جمع مختلط (my virile): wychodziliśmy (پسوند -liśmy). گروه فقط زنان می‌شد: wychodzіłyśmy."
     },
     {
       "id": "a2-ch11-l03-ex03",
       "type": "multiple_choice",
       "order": 3,
       "prompt": "Dziecko nie ___ obiadu. (The child didn't eat lunch.) [jeść, ono past]",
+      "prompt_fa": "بچه ناهار ___ نخورد. [jeść، سوم شخص مفرد خنثی گذشته]",
       "options": [
         "jadło",
         "jedli",
@@ -55,13 +66,15 @@
         "jadłem"
       ],
       "correctIndex": 0,
-      "explanation": "'Dziecko' (child) is neuter → past neuter: jadło (-ło ending). 'Jeść' → jadł- stem."
+      "explanation": "'Dziecko' (child) is neuter → past neuter: jadło (-ło ending). 'Jeść' → jadł- stem.",
+      "explanation_fa": "'Dziecko' (بچه) خنثی است → گذشته خنثی: jadło (پسوند -ło). فعل jeść → بن jadł-."
     },
     {
       "id": "a2-ch11-l03-ex04",
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: They (women) worked hard all week.",
+      "prompt_fa": "بسازید: آن‌ها (زنان) تمام هفته سخت کار کردند.",
       "wordBank": [
         "One",
         "Oni",
@@ -70,9 +83,7 @@
         "ciężko",
         "przez",
         "cały",
-        "cały",
-        "tydzień",
-        "tygodnia"
+        "tydzień"
       ],
       "correctSequences": [
         [
@@ -84,13 +95,15 @@
           "tydzień"
         ]
       ],
-      "explanation": "'One pracowały ciężko przez cały tydzień.' — They (women) worked hard all week. Non-virile plural: pracowały. 'Przez cały tydzień' = for the whole week."
+      "explanation": "'One pracowały ciężko przez cały tydzień.' — They (women) worked hard all week. Non-virile plural: pracowały. 'Przez cały tydzień' = for the whole week.",
+      "explanation_fa": "'One pracowały ciężko przez cały tydzień.' — آن‌ها (زنان) تمام هفته سخت کار کردند. جمع غیر مذکر: pracowały. 'Przez cały tydzień' = برای تمام هفته."
     },
     {
       "id": "a2-ch11-l03-ex05",
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Choose the correct form: 'We (two women) read the same book.' [czytać, my f past]",
+      "prompt_fa": "شکل درست را انتخاب کنید: 'ما (دو زن) همان کتاب را خواندیم.' [czytać، اول شخص جمع مؤنث گذشته]",
       "options": [
         "Czytałyśmy tę samą książkę.",
         "Czytaliśmy tę samą książkę.",
@@ -98,7 +111,103 @@
         "Czytałam tę samą książkę."
       ],
       "correctIndex": 0,
-      "explanation": "'My' (we, two women = non-virile) → past: czytałyśmy (-łyśmy ending). If any male was in the group, 'czytaliśmy' would be used instead."
+      "explanation": "'My' (we, two women = non-virile) → past: czytałyśmy (-łyśmy ending). If any male was in the group, 'czytaliśmy' would be used instead.",
+      "explanation_fa": "'My' (ما، دو زن = غیر مذکر) → گذشته: czytałyśmy (پسوند -łyśmy). اگر هر مردی در گروه بود، 'czytaliśmy' استفاده می‌شد."
+    },
+    {
+      "id": "a2-ch11-l03-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Marek i Tomek ___ do kawiarni po obiedzie. (Marek and Tomek went to the café after lunch.) [iść, oni past]",
+      "prompt_fa": "مارک و تومک بعد از ناهار ___ به کافه رفتند. [iść، سوم شخص جمع مذکر گذشته]",
+      "options": [
+        "poszli",
+        "poszły",
+        "szli",
+        "szły"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Marek i Tomek' = virile plural (two men) → 'pójść' past virile: poszli. 'Poszły' would be non-virile (women/things). 'Szli' is imperfective past.",
+      "explanation_fa": "'Marek i Tomek' = جمع مذکر (دو مرد) → گذشته کامل مذکر فعل pójść: poszli. 'Poszły' برای غیر مذکر (زنان/اشیاء) است. 'Szli' گذشته ناکامل است."
+    },
+    {
+      "id": "a2-ch11-l03-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Ania describes what the cat did. Complete:",
+      "context_fa": "آنیا توصیف می‌کند گربه چه کرد. کامل کنید:",
+      "sentence": "Kot ___ cały dzień na kanapie.",
+      "translation": "(The cat slept all day on the sofa.) [spać, ono past neuter]",
+      "translation_fa": "(گربه تمام روز روی کاناپه خوابید.) [spać، سوم شخص مفرد خنثی گذشته]",
+      "prompt": "Kot ___ cały dzień na kanapie.",
+      "prompt_fa": "Kot ___ cały dzień na kanapie.",
+      "answer": "spało",
+      "acceptableAnswers": [
+        "spało"
+      ],
+      "hint": "'Kot' (cat) can be treated as neuter here: spać past neuter → spało (-ło ending)",
+      "explanation": "'Kot' (cat) as an animal — neuter form spało (-ło ending). 'Spać' past stem: spa- → spało.",
+      "explanation_fa": "'Kot' (گربه) به عنوان حیوان — شکل خنثی: spało (پسوند -ło). بن گذشته spać: spa- → spało."
+    },
+    {
+      "id": "a2-ch11-l03-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch11/a2-ch11-l03-ex08.mp3",
+      "options": [
+        "Oni pracowali do wieczora.",
+        "One pracowały do wieczora.",
+        "On pracował do wieczora.",
+        "Ona pracowała do wieczora."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Oni pracowali do wieczora.' — They (men/mixed) worked until evening. Virile plural past: pracowali (-li ending).",
+      "explanation_fa": "شنیدید: 'Oni pracowali do wieczora.' — آن‌ها (مردان/مختلط) تا عصر کار کردند. گذشته جمع مذکر: pracowali (پسوند -li)."
+    },
+    {
+      "id": "a2-ch11-l03-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: The children ate dinner at six.",
+      "prompt_fa": "بسازید: بچه‌ها ساعت شش شام خوردند.",
+      "wordBank": [
+        "Dzieci",
+        "jadły",
+        "jadli",
+        "obiad",
+        "o",
+        "szóstej",
+        "kolację"
+      ],
+      "correctSequences": [
+        [
+          "Dzieci",
+          "jadły",
+          "kolację",
+          "o",
+          "szóstej"
+        ]
+      ],
+      "explanation": "'Dzieci jadły kolację o szóstej.' — The children ate dinner at six. Non-virile plural: jadły (-ły ending). 'O szóstej' = at six (o'clock).",
+      "explanation_fa": "'Dzieci jadły kolację o szóstej.' — بچه‌ها ساعت شش شام خوردند. جمع غیر مذکر: jadły (پسوند -ły). 'O szóstej' = ساعت شش."
+    },
+    {
+      "id": "a2-ch11-l03-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Kasia i Ania ___ razem po polsku przez całe lato. (Kasia and Ania spoke Polish together all summer.) [mówić, one past]",
+      "prompt_fa": "کاسیا و آنیا تمام تابستان با هم به لهستانی ___ صحبت کردند. [mówić، سوم شخص جمع مؤنث گذشته]",
+      "options": [
+        "mówiły",
+        "mówili",
+        "mówiło",
+        "mówiłam"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Kasia i Ania' = two women = non-virile plural 'one' → past: mówiły (-ły ending). 'Mówili' would be for a group with at least one male.",
+      "explanation_fa": "'Kasia i Ania' = دو زن = جمع غیر مذکر 'one' → گذشته: mówiły (پسوند -ły). 'Mówili' برای گروهی با حداقل یک مرد استفاده می‌شود."
     }
   ],
   "xpReward": 20,

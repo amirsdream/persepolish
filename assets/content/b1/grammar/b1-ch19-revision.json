@@ -1,0 +1,148 @@
+{
+  "id": "b1-ch19-revision",
+  "chapter": 19,
+  "level": "b1",
+  "title": "Chapter 19 Revision: Idioms & Proverbs",
+  "title_fa": "مرور فصل ۱۹ B1: اصطلاحات و ضرب‌المثل‌ها",
+  "description": "Test your knowledge of Polish idioms with body parts, everyday expressions, proverbs, and conversational phrases.",
+  "passThreshold": 0.7,
+  "questions": [
+    {
+      "id": "b1-ch19-rev-q01",
+      "type": "multiple_choice",
+      "prompt": "What does 'wstać lewą nogą' mean?",
+      "prompt_fa": "'wstać lewą nogą' چه معنایی دارد؟",
+      "options": ["To get up on the wrong side of bed (be grumpy)", "To stand on one's left leg", "To get up early", "To wake up suddenly"],
+      "correctIndex": 0,
+      "explanation": "'Wstać lewą nogą' = to get up on the wrong side of bed. When someone is in a bad mood all day, you say they got up with their left leg (wrong foot).",
+      "explanation_fa": "'Wstać lewą nogą' = با پای چپ بیدار شدن. وقتی کسی تمام روز بداخلاق است، می‌گویند با پای چپ بلند شده."
+    },
+    {
+      "id": "b1-ch19-rev-q02",
+      "type": "multiple_choice",
+      "prompt": "Which idiom means 'the apple of one's eye' (most beloved person)?",
+      "prompt_fa": "کدام اصطلاح به معنای 'نور چشم' (محبوب‌ترین شخص) است؟",
+      "options": ["oczko w głowie", "złota rączka", "głowa na karku", "serce na dłoni"],
+      "correctIndex": 0,
+      "explanation": "'Oczko w głowie' = the apple of one's eye. Literally: 'little eye in the head' = the most precious, beloved person.",
+      "explanation_fa": "'Oczko w głowie' = نور چشم/عزیز دل. به معنای واقعی: 'چشمک کوچک در سر' = محبوب‌ترین، عزیزترین شخص."
+    },
+    {
+      "id": "b1-ch19-rev-q03",
+      "type": "fill_blank",
+      "prompt": "Complete: 'Bez pracy nie ma ___.' (No pain, no gain — the missing word: 'cakes' gen. pl.)",
+      "prompt_fa": "کامل کنید: 'Bez pracy nie ma ___.' (زحمت بی‌زحمت نمی‌شود — کلمه کم: 'کلوچه' جمع مضاف‌الیه)",
+      "answer": "kołaczy",
+      "acceptableAnswers": ["kołaczy"],
+      "hint": "kołacz (old-style cake) → genitive plural: kołaczy; after 'nie ma' + genitive",
+      "explanation": "'Bez pracy nie ma kołaczy.' — No pain, no gain. 'Kołaczy' = genitive plural of 'kołacz' (traditional Polish cake = reward).",
+      "explanation_fa": "'Bez pracy nie ma kołaczy.' — زحمت بی‌زحمت نمی‌شود. 'Kołaczy' = مضاف‌الیه جمع 'kołacz' (کلوچه سنتی لهستانی = پاداش)."
+    },
+    {
+      "id": "b1-ch19-rev-q04",
+      "type": "multiple_choice",
+      "prompt": "What does 'Nie mój cyrk, nie moje małpy.' mean?",
+      "prompt_fa": "'Nie mój cyrk, nie moje małpy.' چه معنایی دارد؟",
+      "options": [
+        "Not my problem. (Not my circus, not my monkeys.)",
+        "I don't like circuses or monkeys.",
+        "Someone else's entertainment is not my concern.",
+        "Things are chaotic and out of control."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nie mój cyrk, nie moje małpy.' = Not my circus, not my monkeys = Not my problem. Polish proverb now widely used internationally.",
+      "explanation_fa": "'Nie mój cyrk, nie moje małpy.' = نه سیرک من، نه میمون‌های من = به من ربطی ندارد. ضرب‌المثل لهستانی که اکنون در سطح بین‌المللی گسترده استفاده می‌شود."
+    },
+    {
+      "id": "b1-ch19-rev-q05",
+      "type": "multiple_choice",
+      "prompt": "What does 'być w siódmym niebie' mean?",
+      "prompt_fa": "'być w siódmym niebie' چه معنایی دارد؟",
+      "options": ["To be in seventh heaven (extremely happy)", "To be very high up", "To be in a dream", "To be confused"],
+      "correctIndex": 0,
+      "explanation": "'Być w siódmym niebie' = to be in seventh heaven = to be overjoyed. Same as English! Used after very good news.",
+      "explanation_fa": "'Być w siódmym niebie' = در آسمان هفتم بودن = بسیار شاد بودن. معادل انگلیسی دارد! بعد از اخبار بسیار خوب استفاده می‌شود."
+    },
+    {
+      "id": "b1-ch19-rev-q06",
+      "type": "fill_blank",
+      "prompt": "Complete: 'Lepiej ___ niż wcale.' (Better late than never.)",
+      "prompt_fa": "کامل کنید: 'Lepiej ___ niż wcale.' (دیر بهتر از هرگز.)",
+      "answer": "późno",
+      "acceptableAnswers": ["późno"],
+      "hint": "późno = late (adverb); lepiej późno niż wcale = better late than never",
+      "explanation": "'Lepiej późno niż wcale.' — Better late than never. 'Późno' = late (adverb), 'wcale' = at all/never (in negated context).",
+      "explanation_fa": "'Lepiej późno niż wcale.' — دیر بهتر از هرگز. 'Późno' = دیر (قید)، 'wcale' = اصلاً/هرگز (در زمینه منفی)."
+    },
+    {
+      "id": "b1-ch19-rev-q07",
+      "type": "multiple_choice",
+      "prompt": "What does 'wyjść na jaw' mean?",
+      "prompt_fa": "'wyjść na jaw' چه معنایی دارد؟",
+      "options": ["To come to light, be revealed", "To go out for some fresh air", "To leave the building", "To make an appearance"],
+      "correctIndex": 0,
+      "explanation": "'Wyjść na jaw' = to come to light/be revealed. 'Wyszło na jaw, że...' = It came to light that... Fixed idiomatic phrase.",
+      "explanation_fa": "'Wyjść na jaw' = آشکار شدن/معلوم شدن. 'Wyszło na jaw، że...' = آشکار شد که... عبارت اصطلاحی ثابت."
+    },
+    {
+      "id": "b1-ch19-rev-q08",
+      "type": "multiple_choice",
+      "prompt": "What does 'na własną rękę' mean?",
+      "prompt_fa": "'na własną rękę' چه معنایی دارد؟",
+      "options": ["On one's own, independently", "By hand (manually)", "With one's own hand (signature)", "At one's own risk only"],
+      "correctIndex": 0,
+      "explanation": "'Na własną rękę' = on one's own, independently (without help or authorization). 'Zrobiła to na własną rękę.' = She did it on her own.",
+      "explanation_fa": "'Na własną rękę' = به تنهایی، مستقلانه (بدون کمک یا اجازه). 'Zrobiła to na własną rękę.' = این کار را به تنهایی انجام داد."
+    },
+    {
+      "id": "b1-ch19-rev-q09",
+      "type": "fill_blank",
+      "prompt": "Complete: 'Masz ___!' (You're right!)",
+      "prompt_fa": "کامل کنید: 'Masz ___!' (حق داری!)",
+      "answer": "rację",
+      "acceptableAnswers": ["rację"],
+      "hint": "mieć rację = to be right; racja → accusative: rację",
+      "explanation": "'Masz rację!' — You're right! 'Mieć rację' = to be right; 'rację' = accusative of 'racja'.",
+      "explanation_fa": "'Masz rację!' — حق داری! 'Mieć rację' = حق داشتن؛ 'rację' = مفعولی 'racja'."
+    },
+    {
+      "id": "b1-ch19-rev-q10",
+      "type": "multiple_choice",
+      "prompt": "What does 'Nie wszystko złoto, co się świeci.' mean in English?",
+      "prompt_fa": "'Nie wszystko złoto, co się świeci.' در انگلیسی چه معنایی دارد؟",
+      "options": ["All that glitters is not gold.", "Not all gold things shine.", "Gold is not everything.", "Not everything is golden that shines."],
+      "correctIndex": 0,
+      "explanation": "'Nie wszystko złoto, co się świeci.' = All that glitters is not gold. A direct equivalent of the English proverb! Structure: 'nie wszystko' = not everything + 'co się świeci' = that glitters.",
+      "explanation_fa": "'Nie wszystko złoto, co się świeci.' = همه چیزی که می‌درخشد طلا نیست. معادل مستقیم ضرب‌المثل انگلیسی! ساختار: 'nie wszystko' = نه همه چیز + 'co się świeci' = که می‌درخشد."
+    },
+    {
+      "id": "b1-ch19-rev-q11",
+      "type": "multiple_choice",
+      "prompt": "What does 'wziąć nogi za pas' mean?",
+      "prompt_fa": "'wziąć nogi za pas' چه معنایی دارد؟",
+      "options": [
+        "To take to one's heels (run away fast)",
+        "To buckle one's belt",
+        "To stretch one's legs",
+        "To cross one's legs"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wziąć nogi za pas' = to take to one's heels, run away quickly. Literally: 'to take one's legs behind one's belt.' = run very fast.",
+      "explanation_fa": "'Wziąć nogi za pas' = پا به فرار گذاشتن. به معنای واقعی: 'پاها را پشت کمربند گذاشتن.' = خیلی سریع دویدن."
+    },
+    {
+      "id": "b1-ch19-rev-q12",
+      "type": "multiple_choice",
+      "prompt": "What does 'Chodzi mi o to, że...' mean?",
+      "prompt_fa": "'Chodzi mi o to, że...' چه معنایی دارد؟",
+      "options": ["What I mean is... / What I'm getting at is...", "I'm going to say that...", "It concerns me that...", "I'm walking towards the fact that..."],
+      "correctIndex": 0,
+      "explanation": "'Chodzi mi o to, że...' = What I mean is... A very common conversational expression to clarify or rephrase what you're saying.",
+      "explanation_fa": "'Chodzi mi o to, że...' = منظورم اینه که... یک عبارت مکالمه‌ای بسیار رایج برای روشن‌سازی یا بازگویی آنچه می‌گویید."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 8,
+  "tags": ["idioms", "proverbs", "expressions", "b1-core"],
+  "prerequisites": ["b1-ch19-l01", "b1-ch19-l02", "b1-ch19-l03", "b1-ch19-l04"]
+}

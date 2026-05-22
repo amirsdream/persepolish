@@ -8,46 +8,58 @@
   "grammarPoint": "Genitive plural patterns: masculine -ów/-y/-i, feminine zero ending/-y/-i, neuter zero ending/-y; zero-ending exceptions",
   "grammarPoint_fa": "مضاف‌الیهی جمع: -ów (مذکر)، -∅/-i/-y (مؤنث)، -∅ (خنثی)",
   "explanation": {
-    "text": "The **genitive plural** is needed after numbers 5+, dużo/mało/wiele/ile, and the preposition bez/do/z/dla/od/po.\n\n**Masculine noun genitive plural:**\n\n| Type | Rule | Example |\n|------|------|--------|\n| Hard m-animate | + -ów | student → **studentów** |\n| Hard m-inanimate | + -ów | rok → **lat** (irregular!) |\n| Soft m | + -y/-i | słownik → **słowników**, gość → **gości** |\n\n**Feminine noun genitive plural:**\n\n| Type | Rule | Example |\n|------|------|--------|\n| f -a (hard) | zero ending | kobieta → **kobiet** |\n| f -a (soft) | + -y/-i | ulica → **ulic**, kolacja → **kolacji** |\n| f -ość/-ść | + -y/-i | miłość → **miłości** |\n\n**Neuter noun genitive plural:**\n\n| Type | Rule | Example |\n|------|------|--------|\n| n -o | zero ending | okno → **okien** (fleeting e!) |\n| n -e | zero ending | morze → **mórz** (fleeting ó!) |\n| n -ie | + -ań/-eń/-y | mieszkanie → **mieszkań** |\n\n**Key irregular genitive plurals:**\n- rok → **lat** (not roków)\n- dziecko → **dzieci**\n- człowiek → **ludzi**\n- oko → **oczu**\n- ucho → **uszu**\n\n**Numbers and genitive plural:**\n- pięć **studentów** = five students\n- dużo **kobiet** = many women\n- kilka **mieszkań** = several flats",
+    "text": "The **genitive plural** is needed after numbers 5+, dużo/mało/wiele/ile, and the preposition bez/do/z/dla/od/po.\n\n**Masculine noun genitive plural:**\n\n| Type | Rule | Example |\n|------|------|--------|\n| Hard m-animate | + -ów | student → **studentów** |\n| Hard m-inanimate | + -ów | rok → **lat** (irregular!) |\n| Soft m | + -y/-i | słownik → **słowników**, gość → **gości** |\n\n**Feminine noun genitive plural:**\n\n| Type | Rule | Example |\n|------|------|--------|\n| f -a (hard) | zero ending | kobieta → **kobiet** |\n| f -a (soft) | + -y/-i | ulica → **ulic**, kolacja → **kolacji** |\n| f -ość/-ść | + -y/-i | miłość → **miłości** |\n\n**Neuter noun genitive plural:**\n\n| Type | Rule | Example |\n|------|------|--------|\n| n -o | zero ending | okno → **okien** (fleeting e!) |\n| n -e | zero ending | morze → **mórz** (fleeting ó!) |\n| n -ie | + -ań/-eń/-y | mieszkanie → **mieszkań** |\n\n**Key irregular genitive plurals:**\n- rok → **lat** (not roków)\n- dziecko → **dzieci**\n- człowiek → **ludzi**\n- oko → **oczu**\n- ucho → **uszu**\n- ręka → **rąk**\n- dzień → **dni**\n\n**Numbers and genitive plural:**\n- pięć **studentów** = five students\n- dużo **kobiet** = many women\n- kilka **mieszkań** = several flats",
     "notes": [
       "Masculine animate nouns: -ów (studentów, lekarzy). Hard: -ów, soft: -y/-i.",
       "Feminine nouns ending -a: usually zero ending (kobieta → kobiet, ulica → ulic).",
       "Neuter -o nouns: often fleeting vowel in gen pl (okno → okien, morze → mórz).",
-      "Rok → lat (completely irregular — memorize for seasons/years)."
+      "Rok → lat (completely irregular — memorize for seasons/years).",
+      "Irregular: dziecko → dzieci, człowiek → ludzi, oko → oczu, ręka → rąk, dzień → dni."
     ]
   },
-  "explanation_fa": "الگوهای مضاف‌الیهی جمع: اسم‌های مذکر اغلب -ów: studentów، kotów. استثنا: برادران → braci. مؤنث: -a حذف می‌شود: kobiet، sióstr. خنثی: اغلب بدون پسوند: okien، miast. برخی مؤنث‌ها -i/-y می‌گیرند: nocy، rzeczy.",
+  "explanation_fa": "الگوهای مضاف‌الیهی جمع: اسم‌های مذکر اغلب -ów: studentów، kotów. استثنا: برادران → braci. مؤنث: -a حذف می‌شود: kobiet، sióstr. خنثی: اغلب بدون پسوند: okien، miast. برخی مؤنث‌ها -i/-y می‌گیرند: nocy، rzeczy. استثناهای کلیدی: rok→lat، dziecko→dzieci، człowiek→ludzi، oko→oczu، ręka→rąk، dzień→dni.",
   "exercises": [
     {
       "id": "a2-ch17-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "W klasie jest pięciu ___. (There are five students (m-animate) in the class.) [student — gen pl]",
+      "prompt_fa": "در کلاس پنج دانش‌آموز (مذکر) هستند. [student — جمع مضاف‌الیهی]",
       "options": [
         "studentów",
         "studenty",
-        "studentów",
+        "studentem",
         "student"
       ],
       "correctIndex": 0,
-      "explanation": "Masculine animate genitive plural: studentów (-ów ending). 'Pięciu studentów' = five students (virile: pięciu + gen pl animate)."
+      "explanation": "Masculine animate genitive plural: studentów (-ów ending). 'Pięciu studentów' = five students (virile: pięciu + gen pl animate).",
+      "explanation_fa": "جمع مضاف‌الیهی مذکر جاندار: studentów (پسوند -ów). 'Pięciu studentów' = پنج دانش‌آموز (مذکر با پسوند -ów)."
     },
     {
       "id": "a2-ch17-l01-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Mieszkam tu od pięciu ___. (I've lived here for five years.) [rok — gen pl, irregular]",
+      "context": "Irregular genitive plural. Complete the sentence:",
+      "context_fa": "جمع مضاف‌الیهی استثنایی. جمله را کامل کنید:",
+      "sentence": "Mieszkam tu od pięciu ___.",
+      "translation": "(I've lived here for five years.) [rok — gen pl, irregular]",
+      "translation_fa": "(اینجا پنج سال است که زندگی می‌کنم.) [rok — جمع مضاف‌الیهی، استثنایی]",
+      "prompt": "Mieszkam tu od pięciu ___.",
+      "prompt_fa": "Mieszkam tu od pięciu ___.",
       "answer": "lat",
       "acceptableAnswers": [
         "lat"
       ],
-      "hint": "Rok → irregular genitive plural: lat (not 'roków')"
+      "hint": "Rok → irregular genitive plural: lat (not 'roków')",
+      "explanation": "Rok → lat (completely irregular genitive plural). 'Pięciu lat' = five years. After 'od' (for/since), we need genitive: pięciu lat.",
+      "explanation_fa": "rok → lat (جمع مضاف‌الیهی کاملاً استثنایی). پس از od (برای/از)، مضاف‌الیه لازم است: od pięciu lat = پنج سال است."
     },
     {
       "id": "a2-ch17-l01-ex03",
       "type": "multiple_choice",
       "order": 3,
       "prompt": "W tym budynku jest dużo ___. (In this building there are many flats.) [mieszkanie — gen pl]",
+      "prompt_fa": "در این ساختمان آپارتمان‌های زیادی هستند. [mieszkanie — جمع مضاف‌الیهی]",
       "options": [
         "mieszkań",
         "mieszkanie",
@@ -55,12 +67,15 @@
         "mieszkaniów"
       ],
       "correctIndex": 0,
-      "explanation": "Neuter -anie nouns: mieszkanie → genitive plural: mieszkań (-ań ending). 'Dużo mieszkań' = many flats."
+      "explanation": "Neuter -anie nouns: mieszkanie → genitive plural: mieszkań (-ań ending). 'Dużo mieszkań' = many flats.",
+      "explanation_fa": "اسم‌های خنثی با -anie: mieszkanie → جمع مضاف‌الیهی: mieszkań (پسوند -ań). 'Dużo mieszkań' = آپارتمان‌های زیاد."
     },
     {
       "id": "a2-ch17-l01-ex04",
       "type": "dictation_mc",
       "order": 4,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch17/a2-ch17-l01-ex04.mp3",
       "options": [
         "Na tej ulicy jest dużo sklepów.",
@@ -69,13 +84,15 @@
         "Na tej ulicy jest kilka sklepów."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Na tej ulicy jest dużo sklepów.' — On this street there are many shops. 'Sklep' (m inanimate) → gen pl: sklepów (-ów ending). 'Dużo' + gen pl."
+      "explanation": "You heard: 'Na tej ulicy jest dużo sklepów.' — On this street there are many shops. 'Sklep' (m inanimate) → gen pl: sklepów (-ów ending). 'Dużo' + gen pl.",
+      "explanation_fa": "شنیدید: 'Na tej ulicy jest dużo sklepów.' — در این خیابان مغازه‌های زیادی هستند. sklep (مذکر غیرجاندار) → جمع مضاف‌الیهی: sklepów. dużo + مضاف‌الیه جمع."
     },
     {
       "id": "a2-ch17-l01-ex05",
       "type": "multiple_choice",
       "order": 5,
       "prompt": "W mieście mieszka sto tysięcy ___. (A hundred thousand people live in the city.) [człowiek — gen pl, irregular]",
+      "prompt_fa": "یکصد هزار نفر در شهر زندگی می‌کنند. [człowiek — جمع مضاف‌الیهی، استثنایی]",
       "options": [
         "ludzi",
         "człowieków",
@@ -83,7 +100,100 @@
         "ludziów"
       ],
       "correctIndex": 0,
-      "explanation": "'Człowiek' → irregular genitive plural: 'ludzi' (completely different stem). 'Ludzi' = of people (gen pl). 'Sto tysięcy ludzi' = 100,000 people."
+      "explanation": "'Człowiek' → irregular genitive plural: 'ludzi' (completely different stem). 'Ludzi' = of people (gen pl). 'Sto tysięcy ludzi' = 100,000 people.",
+      "explanation_fa": "człowiek → جمع مضاف‌الیهی استثنایی: ludzi (بن کاملاً متفاوت). ludzi = از مردم (مضاف‌الیه جمع). sto tysięcy ludzi = صد هزار نفر."
+    },
+    {
+      "id": "a2-ch17-l01-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Tomek has five children. Tomek ma pięcioro ___. [dziecko — gen pl, irregular]",
+      "prompt_fa": "توْمک پنج فرزند دارد. [dziecko — جمع مضاف‌الیهی، استثنایی]",
+      "options": [
+        "dzieci",
+        "dziecków",
+        "dziecka",
+        "dzieciów"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Dziecko' → irregular genitive plural: 'dzieci'. 'Pięcioro dzieci' = five children (pięcioro is the collective numeral for mixed-gender groups/children).",
+      "explanation_fa": "dziecko → جمع مضاف‌الیهی استثنایی: dzieci. pięcioro dzieci = پنج بچه (pięcioro برای گروه مختلط یا بچه‌ها)."
+    },
+    {
+      "id": "a2-ch17-l01-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Irregular genitive plural — body parts. Complete:",
+      "context_fa": "جمع مضاف‌الیهی استثنایی — اعضای بدن. کامل کنید:",
+      "sentence": "Kasia ma parę pięknych ___.",
+      "translation": "(Kasia has a pair of beautiful eyes.) [oko — gen pl: oczu]",
+      "translation_fa": "(کاسیا یک جفت چشم زیبا دارد.) [oko — جمع مضاف‌الیهی: oczu]",
+      "prompt": "Kasia ma parę pięknych ___.",
+      "prompt_fa": "Kasia ma parę pięknych ___.",
+      "answer": "oczu",
+      "acceptableAnswers": [
+        "oczu"
+      ],
+      "hint": "oko (eye) → irregular gen pl: oczu",
+      "explanation": "Oko (eye) → irregular genitive plural: oczu. 'Para oczu' = a pair of eyes. Also: ucho → uszu (ears).",
+      "explanation_fa": "oko (چشم) → جمع مضاف‌الیهی استثنایی: oczu. para oczu = یک جفت چشم. همچنین: ucho → uszu (گوش)."
+    },
+    {
+      "id": "a2-ch17-l01-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch17/a2-ch17-l01-ex08.mp3",
+      "options": [
+        "Ile masz dni urlopu w tym roku?",
+        "Ile masz dnia urlopu w tym roku?",
+        "Ile masz dzień urlopu w tym roku?",
+        "Ile masz dni urlopów w tym roku?"
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Ile masz dni urlopu w tym roku?' — How many days of holiday do you have this year? 'Dzień' → irregular gen pl: dni. 'Urlopu' = gen sg of urlop (holiday/leave). 'Ile' + gen pl.",
+      "explanation_fa": "شنیدید: 'Ile masz dni urlopu w tym roku?' — چند روز تعطیلی امسال داری؟ dzień → جمع مضاف‌الیهی استثنایی: dni. ile + مضاف‌الیه جمع."
+    },
+    {
+      "id": "a2-ch17-l01-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: Marek bought a lot of books. (dużo + gen pl)",
+      "prompt_fa": "بسازید: ماْرک کتاب‌های زیادی خرید. (dużo + جمع مضاف‌الیهی)",
+      "wordBank": [
+        "Marek",
+        "kupił",
+        "dużo",
+        "książek",
+        "książki",
+        "wiele",
+        "wczoraj",
+        "."
+      ],
+      "correctSequences": [
+        ["Marek", "kupił", "dużo", "książek", "."],
+        ["Marek", "kupił", "wiele", "książek", "."],
+        ["Marek", "wczoraj", "kupił", "dużo", "książek", "."]
+      ],
+      "explanation": "'Marek kupił dużo książek.' — Marek bought a lot of books. 'Książka' (f) → gen pl: książek (zero ending with fleeting e). 'Dużo/wiele' + gen pl.",
+      "explanation_fa": "Marek kupił dużo książek. — ماْرک کتاب‌های زیادی خرید. książka (مؤنث) → جمع مضاف‌الیهی: książek (پسوند صفر با e گریزان). dużo/wiele + مضاف‌الیه جمع."
+    },
+    {
+      "id": "a2-ch17-l01-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Ania washed her hands. Ania umyła ___. [ręka — gen pl, irregular]",
+      "prompt_fa": "آنیا دست‌هایش را شست. [ręka — جمع مضاف‌الیهی، استثنایی]",
+      "options": [
+        "ręce",
+        "rąk",
+        "ręką",
+        "rękę"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Umyć ręce' = to wash one's hands. Here 'ręce' is the accusative plural of ręka (hand). Note: gen pl of ręka = rąk (irregular with vowel change ę→ą). 'Umyła ręce' = washed (her) hands (acc pl).",
+      "explanation_fa": "umyć ręce = دست شستن. اینجا ręce مفعول جمع ręka است (حالت مفعولی). توجه: جمع مضاف‌الیهی ręka = rąk (استثنایی با تغییر واکه ę→ą). umyła ręce = دست‌هایش را شست (مفعول جمع)."
     }
   ],
   "xpReward": 25,

@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch18-l03-impersonal-media",
+  "chapter": 18,
+  "lessonOrder": 3,
+  "level": "b1",
+  "title": "Impersonal Constructions in Media",
+  "title_fa": "ساختارهای غیرشخصی در رسانه",
+  "grammarPoint": "Passive impersonal forms (-no/-to), 'się' passive, and formal impersonal expressions in Polish journalism",
+  "grammarPoint_fa": "شکل‌های غیرشخصی منفعل (-no/-to)، منفعل 'się' و عبارات غیرشخصی رسمی در روزنامه‌نگاری لهستانی",
+  "explanation": {
+    "text": "**Polish media uses three impersonal passive structures:**\n\n**1. The -no/-to impersonal passive (unique to Polish):**\nFormed from the past passive participle — but with -o ending, no subject:\n- Ogłoszono wyniki. (The results were announced. / It was announced...)\n- Podpisano umowę. (An agreement was signed.)\n- Zatrzymano podejrzanego. (A suspect was detained.)\n- Potwierdzono informacje. (The information was confirmed.)\n\nFormation: perf. past passive participle → -no/-to:\n- ogłosić → ogłoszony → **ogłoszono**\n- podpisać → podpisany → **podpisano**\n- zatrzymać → zatrzymany → **zatrzymano**\n\n**2. Reflexive się passive:**\nVerb + się + (nominative subject):\n- Mówi się, że... (It is said that... / People say that...)\n- Uważa się, że... (It is considered that...)\n- Podaje się do wiadomości, że... (It is made known that...)\n- Twierdzi się, że... (It is claimed that...)\n\n**3. Third person plural passive:**\n- Twierdzą, że... (They say that... = impersonal)\n- Poinformowali, że... (They informed that...)\n- Donoszą z Warszawy, że... (Reports from Warsaw say that...)\n\n**Why impersonal in media?**\n- Avoids naming who did the action (when unknown or irrelevant)\n- Sounds more objective and authoritative\n- Common in news: 'Ogłoszono', 'Poinformowano', 'Stwierdzono'\n\n**Common impersonal media phrases:**\n- Poinformowano, że... — It was reported that...\n- Stwierdzono, że... — It was stated that...\n- Według źródeł... — According to sources...\n- Jak podają media... — As media report...",
+    "notes": [
+      "The -no/-to form never changes — it has no gender, number, or case agreement",
+      "'Ogłoszono wyniki' not 'ogłoszono wynikow' — the object stays accusative",
+      "'Mówi się' is very common in speech too: 'Mówi się, że...' = People say that...",
+      "In headlines: 'Ogłoszono' / 'Poinformowano' appear without subject — very journalistic"
+    ]
+  },
+  "explanation_fa": "رسانه لهستانی از سه ساختار منفعل غیرشخصی استفاده می‌کند: ۱) منفعل غیرشخصی -no/-to: از وجه منفعل گذشته کامل (ogłoszono، podpisano، zatrzymano). هرگز تغییر نمی‌کند — بدون جنس، عدد، حالت. ۲) منفعل się: Mówi się، że... (گفته می‌شود)، Uważa się، że... (تصور می‌شود). ۳) جمع سوم شخص: Twierdzą، że... (ادعا می‌کنند). چرا غیرشخصی: جلوگیری از نام بردن فاعل، بی‌طرف‌تر. عبارات رایج: Poinformowano، że... ، Stwierdzono، że... ، Według źródeł...",
+  "exercises": [
+    {
+      "id": "b1-ch18-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Which sentence uses the -no/-to impersonal passive correctly?",
+      "prompt_fa": "کدام جمله از منفعل غیرشخصی -no/-to به درستی استفاده می‌کند؟",
+      "options": [
+        "Ogłoszono nowe przepisy. (It was announced — no subject)",
+        "Ogłoszono nowe przepisów. (Wrong — genitive object)",
+        "Ogłoszony nowe przepisy. (Participle, not impersonal)",
+        "Ogłosiło się nowe przepisy. (Wrong form)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ogłoszono nowe przepisy.' — New regulations were announced. -no/-to form + accusative object. The form 'ogłoszono' never changes regardless of object.",
+      "explanation_fa": "'Ogłoszono nowe przepisy.' — مقررات جدید اعلام شد. شکل -no/-to + مفعول مفعولی. شکل 'ogłoszono' هرگز تغییر نمی‌کند."
+    },
+    {
+      "id": "b1-ch18-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Headline style: 'An agreement was signed.' Use -no passive of 'podpisać':",
+      "context_fa": "سبک تیتر: 'توافق امضا شد.' از منفعل -no 'podpisać' استفاده کنید:",
+      "sentence": "___ umowę.",
+      "prompt": "___ umowę.",
+      "prompt_fa": "___ umowę.",
+      "answer": "Podpisano",
+      "acceptableAnswers": ["Podpisano", "podpisano"],
+      "hint": "podpisać → podpisany → podpisano (impersonal -no passive)",
+      "explanation": "'Podpisano umowę.' — An agreement was signed. Podpisać → podpisany → podpisano. Classic media/official language.",
+      "explanation_fa": "'Podpisano umowę.' — توافق امضا شد. Podpisać → podpisany → podpisano. زبان کلاسیک رسانه‌ای/رسمی."
+    },
+    {
+      "id": "b1-ch18-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch18/b1-ch18-l03-ex03.mp3",
+      "prompt": "Which impersonal sentence did you hear?",
+      "prompt_fa": "کدام جمله غیرشخصی را شنیدید؟",
+      "options": [
+        "Mówi się, że ceny wzrosną.",
+        "Mówię się, że ceny wzrosną.",
+        "Mówiono się, że ceny wzrosły.",
+        "Mówi się, że cena wzrosła."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mówi się, że ceny wzrosną.' — It is said that prices will rise. 'Mówi się' = impersonal (people say). 'Ceny' = plural; 'wzrosną' = future plural.",
+      "explanation_fa": "'Mówi się, że ceny wzrosną.' — گفته می‌شود که قیمت‌ها افزایش خواهند یافت. 'Mówi się' = غیرشخصی (مردم می‌گویند). 'Ceny' = جمع؛ 'wzrosną' = آینده جمع."
+    },
+    {
+      "id": "b1-ch18-l03-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build the impersonal: 'It is considered that the economy is improving.'",
+      "prompt_fa": "غیرشخصی را بسازید: 'تصور می‌شود که اقتصاد در حال بهبود است.'",
+      "wordBank": ["Uważa", "się", "że", "gospodarka", "się", "poprawia", "Uważają", "poprawił"],
+      "correctSequences": [["Uważa", "się", "że", "gospodarka", "się", "poprawia"]],
+      "explanation": "'Uważa się, że gospodarka się poprawia.' — It is considered that the economy is improving. 'Uważa się' = impersonal (it is considered); 'poprawia się' = is improving (reflexive).",
+      "explanation_fa": "'Uważa się, że gospodarka się poprawia.' — تصور می‌شود که اقتصاد در حال بهبود است. 'Uważa się' = غیرشخصی (تصور می‌شود)؛ 'poprawia się' = در حال بهبود است (بازتابی)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["media-language", "impersonal", "passive", "b1-core"],
+  "prerequisites": ["b1-ch18-l01", "b1-ch18-l02"]
+}

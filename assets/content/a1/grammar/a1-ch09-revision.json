@@ -12,7 +12,8 @@
       "type": "multiple_choice",
       "order": 1,
       "sourceLesson": "a1-ch09-l01",
-      "prompt": "Daję prezent ___ (I give a gift to my friend — m). [przyjaciel → dative]",
+      "prompt": "Ania wants to give a birthday present. Complete: Daję prezent ___ (I give a gift to my friend — m). [przyjaciel → dative]",
+      "prompt_fa": "آنیا می‌خواهد هدیه تولد بدهد. کامل کنید: Daję prezent ___ (به دوستم هدیه می‌دهم — م). [przyjaciel → دادی]",
       "options": [
         "przyjacielowi",
         "przyjaciela",
@@ -20,14 +21,16 @@
         "przyjacielu"
       ],
       "correctIndex": 0,
-      "explanation": "'Przyjaciel' → dative 'przyjacielowi' (-owi). Indirect object (to whom) = dative."
+      "explanation": "'Przyjaciel' → dative 'przyjacielowi' (-owi). Indirect object (to whom) = dative. Masculine animate nouns take -owi.",
+      "explanation_fa": "'Przyjaciel' → دادی 'przyjacielowi' (-owi). مفعول غیرمستقیم (به چه کسی) = دادی. اسم‌های مذکر جاندار -owi می‌گیرند."
     },
     {
       "id": "a1-ch09-rev-q02",
       "type": "multiple_choice",
       "order": 2,
       "sourceLesson": "a1-ch09-l01",
-      "prompt": "Pomagam ___ (I help my sister). [siostra → dative]",
+      "prompt": "Tomek helps his sister with her university application. Complete: Pomagam ___ (I help my sister). [siostra → dative]",
+      "prompt_fa": "تامک به خواهرش با درخواست دانشگاهش کمک می‌کند. کامل کنید: Pomagam ___ (به خواهرم کمک می‌کنم). [siostra → دادی]",
       "options": [
         "siostrze",
         "siostry",
@@ -35,14 +38,16 @@
         "siostrą"
       ],
       "correctIndex": 0,
-      "explanation": "'Siostra' → dative 'siostrze'. Feminine -a nouns: dative -ie/-e (with softening). 'Pomagam siostrze.'"
+      "explanation": "'Siostra' → dative 'siostrze'. Feminine -a nouns: dative -ie/-e (with softening: str → strze). 'Pomagam siostrze.'",
+      "explanation_fa": "'Siostra' → دادی 'siostrze'. اسم‌های مؤنث -a: دادی -ie/-e (با نرم‌شدن: str → strze). 'Pomagam siostrze.'"
     },
     {
       "id": "a1-ch09-rev-q03",
       "type": "multiple_choice",
       "order": 3,
       "sourceLesson": "a1-ch09-l02",
-      "prompt": "Jak ___ czujesz? (How do you feel?)",
+      "prompt": "Kasia returns from hospital. Marek asks her: Jak ___ czujesz? (How do you feel?)",
+      "prompt_fa": "کاسیا از بیمارستان برمی‌گردد. ماریک از او می‌پرسد: Jak ___ czujesz? (حالت چطور است؟)",
       "options": [
         "się",
         "siebie",
@@ -50,14 +55,16 @@
         "swój"
       ],
       "correctIndex": 0,
-      "explanation": "'Jak się czujesz?' = How do you feel? Reflexive particle 'się' — same for all persons."
+      "explanation": "'Jak się czujesz?' = How do you feel? Reflexive particle 'się' — same for all persons, never changes.",
+      "explanation_fa": "'Jak się czujesz?' = حالت چطور است؟ ذره بازتابی 'się' — برای همه شخص‌ها یکسان است، هرگز تغییر نمی‌کند."
     },
     {
       "id": "a1-ch09-rev-q04",
       "type": "vocab_translation",
       "order": 4,
       "sourceVocab": "a1-ch09-vocab",
-      "prompt": "What does 'gorączka' mean?",
+      "prompt": "Ania checks her temperature and it is 39°C. What does 'gorączka' mean?",
+      "prompt_fa": "آنیا دمای بدنش را اندازه می‌گیرد و ۳۹ درجه است. 'gorączka' چه معنایی دارد؟",
       "options": [
         "headache",
         "cold",
@@ -65,14 +72,16 @@
         "allergy"
       ],
       "correctIndex": 2,
-      "explanation": "'Gorączka' = fever / high temperature. 'Mam gorączkę' = I have a fever."
+      "explanation": "'Gorączka' = fever / high temperature. 'Mam gorączkę' = I have a fever. (gorączka → accusative gorączkę after mam).",
+      "explanation_fa": "'Gorączka' = تب / دمای بالا. 'Mam gorączkę' = تب دارم. (gorączka → مفعولی gorączkę بعد از mam)."
     },
     {
       "id": "a1-ch09-rev-q05",
       "type": "multiple_choice",
       "order": 5,
       "sourceLesson": "a1-ch09-l03",
-      "prompt": "My head hurts. Which is correct?",
+      "prompt": "Tomek woke up and can barely move his head. Which sentence is correct?",
+      "prompt_fa": "تامک بیدار شد و به زحمت می‌تواند سرش را تکان دهد. کدام جمله درست است؟",
       "options": [
         "Boli mnie głowa.",
         "Bolą mnie głowę.",
@@ -80,14 +89,16 @@
         "Boli mi głowa."
       ],
       "correctIndex": 0,
-      "explanation": "'Boli mnie głowa.' — boli (singular), mnie (accusative of ja), głowa (subject). The person = accusative!"
+      "explanation": "'Boli mnie głowa.' — boli (singular), mnie (accusative of ja, NOT dative mi), głowa (subject). The person = accusative!",
+      "explanation_fa": "'Boli mnie głowa.' — boli (مفرد)، mnie (مفعولی ja، نه دادی mi)، głowa (فاعل). شخصی که درد دارد = مفعولی!"
     },
     {
       "id": "a1-ch09-rev-q06",
       "type": "multiple_choice",
       "order": 6,
       "sourceLesson": "a1-ch09-l03",
-      "prompt": "My legs hurt. Which is correct?",
+      "prompt": "Kasia has been standing at a concert for 3 hours. Which sentence is correct?",
+      "prompt_fa": "کاسیا ۳ ساعت در یک کنسرت ایستاده بود. کدام جمله درست است؟",
       "options": [
         "Bolą mnie nogi.",
         "Boli mnie nogi.",
@@ -95,14 +106,16 @@
         "Boli mnie nogę."
       ],
       "correctIndex": 0,
-      "explanation": "'Bolą mnie nogi.' — bolą (plural body parts), mnie (accusative). 'Nogi' = plural, so 'bolą' not 'boli'."
+      "explanation": "'Bolą mnie nogi.' — bolą (plural body parts — nogi = plural), mnie (accusative). 'Nogi' = plural, so 'bolą' not 'boli'.",
+      "explanation_fa": "'Bolą mnie nogi.' — bolą (اعضای جمع — nogi = جمع)، mnie (مفعولی). 'Nogi' = جمع، پس 'bolą' نه 'boli'."
     },
     {
       "id": "a1-ch09-rev-q07",
       "type": "multiple_choice",
       "order": 7,
       "sourceLesson": "a1-ch09-l04",
-      "prompt": "I must see a doctor. Which is correct?",
+      "prompt": "Marek has a serious cough. Which sentence correctly says 'I must see a doctor'?",
+      "prompt_fa": "ماریک سرفه شدیدی دارد. کدام جمله درست می‌گوید 'باید پیش دکتر بروم'؟",
       "options": [
         "Muszę iść do lekarza.",
         "Musię do lekarza.",
@@ -110,14 +123,16 @@
         "Trzeba lekarzowi."
       ],
       "correctIndex": 0,
-      "explanation": "'Muszę iść do lekarza.' = I must go to the doctor. 'Musieć → ja: muszę + infinitive (iść)'. 'Do lekarza' = genitive."
+      "explanation": "'Muszę iść do lekarza.' = I must go to the doctor. 'Musieć → ja: muszę + infinitive (iść)'. 'Do lekarza' = genitive.",
+      "explanation_fa": "'Muszę iść do lekarza.' = باید پیش دکتر بروم. 'Musieć → ja: muszę + مصدر (iść)'. 'Do lekarza' = مضاف‌الیهی."
     },
     {
       "id": "a1-ch09-rev-q08",
       "type": "vocab_translation",
       "order": 8,
       "sourceVocab": "a1-ch09-vocab",
-      "prompt": "What does 'apteka' mean?",
+      "prompt": "Kasia needs to pick up a prescription. What does 'apteka' mean?",
+      "prompt_fa": "کاسیا باید نسخه را تحویل بگیرد. 'apteka' چه معنایی دارد؟",
       "options": [
         "hospital",
         "doctor's surgery",
@@ -125,14 +140,16 @@
         "clinic"
       ],
       "correctIndex": 2,
-      "explanation": "'Apteka' = pharmacy / chemist. 'Idę do apteki' = I'm going to the pharmacy."
+      "explanation": "'Apteka' = pharmacy / chemist. 'Idę do apteki' = I'm going to the pharmacy (do + genitive).",
+      "explanation_fa": "'Apteka' = داروخانه. 'Idę do apteki' = دارم به داروخانه می‌روم (do + مضاف‌الیهی)."
     },
     {
       "id": "a1-ch09-rev-q09",
       "type": "multiple_choice",
       "order": 9,
       "sourceLesson": "a1-ch09-l04",
-      "prompt": "Nie ___ tu palić. (Smoking is not allowed here.)",
+      "prompt": "Tomek points at a sign in the hospital. Complete: Nie ___ tu palić. (Smoking is not allowed here.)",
+      "prompt_fa": "تامک به تابلویی در بیمارستان اشاره می‌کند. کامل کنید: Nie ___ tu palić. (اینجا سیگار ممنوع است.)",
       "options": [
         "można",
         "musisz",
@@ -140,14 +157,16 @@
         "masz"
       ],
       "correctIndex": 0,
-      "explanation": "'Nie można' = it is not allowed (impersonal). 'Nie można tu palić' = smoking is not allowed here."
+      "explanation": "'Nie można' = it is not allowed (impersonal negative of można). 'Nie można tu palić' = smoking is not allowed here. 'Trzeba' means obligation (must), not prohibition.",
+      "explanation_fa": "'Nie można' = مجاز نیست (منفی غیرشخصی można). 'Nie można tu palić' = اینجا سیگار ممنوع است. 'Trzeba' اجبار (باید) را بیان می‌کند، نه ممنوعیت."
     },
     {
       "id": "a1-ch09-rev-q10",
       "type": "multiple_choice",
       "order": 10,
       "sourceLesson": "a1-ch09-l02",
-      "prompt": "We laugh. Which is correct? [śmiać się]",
+      "prompt": "Ania tells a funny story. Complete: My ___ (We laugh). [śmiać się]",
+      "prompt_fa": "آنیا یک داستان خنده‌دار تعریف می‌کند. کامل کنید: My ___ (ما می‌خندیم). [śmiać się]",
       "options": [
         "Śmiejemy się.",
         "Śmiejemy.",
@@ -155,14 +174,16 @@
         "Śmieje się."
       ],
       "correctIndex": 0,
-      "explanation": "'Śmiejemy się' = We laugh. 'Śmiać się' → my: śmiejemy się. 'Się' stays with the verb."
+      "explanation": "'Śmiejemy się' = We laugh. 'Śmiać się' → my: śmiejemy się. 'Się' stays with the verb — it is an inherently reflexive verb.",
+      "explanation_fa": "'Śmiejemy się' = ما می‌خندیم. 'Śmiać się' → my: śmiejemy się. 'Się' با فعل می‌ماند — این یک فعل ذاتاً بازتابی است."
     },
     {
       "id": "a1-ch09-rev-q11",
       "type": "vocab_translation",
       "order": 11,
       "sourceVocab": "a1-ch09-vocab",
-      "prompt": "What does 'chory' mean?",
+      "prompt": "Marek calls in sick to work. What does 'chory' mean?",
+      "prompt_fa": "ماریک با کار زنگ می‌زند و مریضی می‌گوید. 'chory' چه معنایی دارد؟",
       "options": [
         "healthy",
         "tired",
@@ -170,14 +191,16 @@
         "hungry"
       ],
       "correctIndex": 2,
-      "explanation": "'Chory/chora' = ill / sick. Antonym: 'zdrowy/zdrowa' = healthy."
+      "explanation": "'Chory/chora' = ill / sick. Antonym: 'zdrowy/zdrowa' = healthy. 'Jestem chory/a' = I am sick.",
+      "explanation_fa": "'Chory/chora' = مریض / بیمار. متضاد: 'zdrowy/zdrowa' = سالم. 'Jestem chory/a' = مریض هستم."
     },
     {
       "id": "a1-ch09-rev-q12",
       "type": "multiple_choice",
       "order": 12,
       "sourceLesson": "a1-ch09-l04",
-      "prompt": "Czy ___ mi pomóc? (Can you help me?)",
+      "prompt": "Kasia drops her heavy bag. Complete: Czy ___ mi pomóc? (Can you help me?)",
+      "prompt_fa": "کاسیا کیف سنگینش را می‌اندازد. کامل کنید: Czy ___ mi pomóc? (می‌توانی به من کمک کنی؟)",
       "options": [
         "możesz",
         "musisz",
@@ -185,7 +208,8 @@
         "trzeba"
       ],
       "correctIndex": 0,
-      "explanation": "'Możesz mi pomóc?' = Can you help me? 'Móc → ty: możesz'. 'Mi' = dative of 'ja'."
+      "explanation": "'Możesz mi pomóc?' = Can you help me? 'Móc → ty: możesz'. 'Mi' = dative of 'ja' (to me). Asking for ability/permission → móc.",
+      "explanation_fa": "'Możesz mi pomóc?' = می‌توانی به من کمک کنی؟ 'Móc → ty: możesz'. 'Mi' = دادی ja (به من). پرسش درباره توانایی/اجازه → móc."
     }
   ]
 }

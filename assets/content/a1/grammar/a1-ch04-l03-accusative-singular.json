@@ -8,21 +8,22 @@
   "grammarPoint": "Accusative singular: the case of direct objects after verbs like mieć, kupić, lubić",
   "grammarPoint_fa": "حالت مفعولی مفرد: مذکر جاندار -a، مؤنث -ę، خنثی = فاعلی",
   "explanation": {
-    "text": "The **accusative case** (biernik) marks the direct object — the thing being acted on. It is essential for sentences like 'I have a cat' or 'I'm buying bread'.\n\n**Accusative singular endings:**\n\n| Gender | Nominative | Accusative | Rule |\n|--------|-----------|------------|------|\n| Masculine animate (people, animals) | -consonant | **-a** | pies → psa, kot → kota |\n| Masculine inanimate (things) | -consonant | **= Nominative** | dom → dom, chleb → chleb |\n| Feminine -a | -a | **-ę** | kobieta → kobietę, mama → mamę |\n| Neuter | -o/-e | **= Nominative** | okno → okno, morze → morze |\n\n**Common verbs that take the accusative:**\nmieć (have), kupić/kupować (buy), lubić (like), widzieć (see), jeść (eat), pić (drink), czytać (read)",
+    "text": "## Accusative Singular — Direct Object\n\nThe **accusative case** (biernik) marks the direct object — the thing being acted on. It is essential for sentences like 'I have a cat' or 'I'm buying bread'.\n\n### Accusative singular endings\n\n| Gender | Nominative | Accusative | Rule | Example |\n|--------|-----------|------------|------|----------|\n| Masculine **animate** (people, animals) | consonant | **-a** | add -a | pies → psa, kot → kota, brat → brata |\n| Masculine **inanimate** (things) | consonant | **= Nominative** | no change | dom → dom, chleb → chleb, stół → stół |\n| Feminine **-a** | -a | **-ę** | replace -a | kobieta → kobietę, mama → mamę, kawa → kawę |\n| Feminine **-i** | -i | **-ię** | replace -i | pani → panią |\n| Neuter **-o/-e** | -o/-e | **= Nominative** | no change | okno → okno, morze → morze |\n\n> 🔑 **Key:** Masculine animate = like genitive (-a added). Masculine inanimate = no change. Feminine -a → -ę.\n\n### Common verbs that take the accusative\n\n| Verb | English | Example |\n|------|---------|----------|\n| **mieć** | to have | Mam kota. |\n| **kupić / kupować** | to buy | Kupuję chleb. |\n| **lubić** | to like | Lubię kawę. |\n| **widzieć** | to see | Widzę kobietę. |\n| **jeść** | to eat | Jem jabłko. |\n| **pić** | to drink | Piję herbatę. |\n| **czytać** | to read | Czytam książkę. |\n| **znać** | to know (person/thing) | Znam Marię. |\n\n### Animate vs. inanimate — the key distinction\n\n| Noun | Type | Nominative | Accusative |\n|------|------|-----------|------------|\n| pies (dog) | masculine animate | pies | **psa** |\n| kot (cat) | masculine animate | kot | **kota** |\n| brat (brother) | masculine animate | brat | **brata** |\n| dom (house) | masculine inanimate | dom | **dom** |\n| chleb (bread) | masculine inanimate | chleb | **chleb** |\n| samochód (car) | masculine inanimate | samochód | **samochód** |\n\n### Feminine -a → -ę examples\n\n| Nominative | Accusative | English |\n|-----------|------------|----------|\n| kawa | **kawę** | coffee |\n| herbata | **herbatę** | tea |\n| kobieta | **kobietę** | woman |\n| mama | **mamę** | mum |\n| ulica | **ulicę** | street |\n| restauracja | **restaurację** | restaurant |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Lubię kawa.* | *Lubię **kawę**.* | feminine -a → -ę |\n| *Widzę kot.* | *Widzę **kota**.* | masc. animate → -a |\n| *Mam domem.* | *Mam **dom**.* | masc. inanimate = no change |\n| *Jem jabłka.* | *Jem **jabłko**.* | neuter = no change |",
     "notes": [
-      "Masculine animate (-a ending): pies → psa, student → studenta, kot → kota.",
-      "Masculine inanimate (= nominative): dom, chleb, samochód — no change.",
-      "Feminine -a changes to -ę: mama → mamę, kobieta → kobietę.",
-      "Neuter is always the same as nominative: okno, dziecko, morze."
+      "Masculine animate (-a ending): pies → psa, student → studenta, kot → kota, brat → brata",
+      "Masculine inanimate (= nominative): dom, chleb, samochód — no change in accusative",
+      "Feminine -a changes to -ę: mama → mamę, kobieta → kobietę, kawa → kawę",
+      "Neuter is always same as nominative in accusative: okno → okno, jabłko → jabłko"
     ]
   },
-  "explanation_fa": "حالت مفعولی (biernik) برای مفعول مستقیم فعل استفاده می‌شود. تغییرات: مذکر جاندار مثل مضاف‌الیهی (brat → brata)، مذکر غیرجاندار = فاعلی (stół → stół)، مؤنث: -a → -ę (kobieta → kobietę)، خنثی = فاعلی (okno → okno).",
+  "explanation_fa": "## حالت مفعولی مفرد — مفعول مستقیم\n\n**حالت مفعولی** (biernik) برای مفعول مستقیم فعل استفاده می‌شود — چیزی که روی آن عمل انجام می‌شود. برای جملاتی مثل 'گربه دارم' یا 'نان می‌خرم' ضروری است.\n\n### پسوندهای مفعولی مفرد\n\n| جنسیت | فاعلی | مفعولی | قانون | مثال |\n|--------|-------|--------|-------|------|\n| مذکر **جاندار** (افراد، حیوانات) | مصوت | **-a** | اضافه کن | pies → psa، kot → kota، brat → brata |\n| مذکر **غیرجاندار** (اشیاء) | مصوت | **= فاعلی** | بدون تغییر | dom → dom، chleb → chleb |\n| مؤنث **-a** | -a | **-ę** | -a را جایگزین کن | kobieta → kobietę، kawa → kawę |\n| خنثی **-o/-e** | -o/-e | **= فاعلی** | بدون تغییر | okno → okno |\n\n> 🔑 **نکته کلیدی:** مذکر جاندار = مثل مضاف‌الیهی (-a اضافه می‌شود). مذکر غیرجاندار = بدون تغییر. مؤنث -a → -ę.\n\n### افعال رایجی که مفعولی می‌گیرند\n\n| فعل | فارسی | مثال |\n|-----|-------|------|\n| **mieć** | داشتن | Mam kota. |\n| **kupić / kupować** | خریدن | Kupuję chleb. |\n| **lubić** | دوست داشتن | Lubię kawę. |\n| **widzieć** | دیدن | Widzę kobietę. |\n| **jeść** | خوردن | Jem jabłko. |\n| **pić** | نوشیدن | Piję herbatę. |\n| **czytać** | خواندن | Czytam książkę. |\n\n### مذکر جاندار در مقابل غیرجاندار — تمایز کلیدی\n\n| اسم | نوع | فاعلی | مفعولی |\n|-----|-----|-------|--------|\n| pies (سگ) | مذکر جاندار | pies | **psa** |\n| kot (گربه) | مذکر جاندار | kot | **kota** |\n| dom (خانه) | مذکر غیرجاندار | dom | **dom** |\n| chleb (نان) | مذکر غیرجاندار | chleb | **chleb** |\n\n### مؤنث -a → -ę\n\n| فاعلی | مفعولی | فارسی |\n|-------|--------|-------|\n| kawa | **kawę** | قهوه |\n| herbata | **herbatę** | چای |\n| kobieta | **kobietę** | زن |\n| mama | **mamę** | مادر |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Lubię kawa.* | *Lubię **kawę**.* | مؤنث -a → -ę |\n| *Widzę kot.* | *Widzę **kota**.* | مذکر جاندار → -a |\n| *Mam domem.* | *Mam **dom**.* | مذکر غیرجاندار = بدون تغییر |\n| *Jem jabłka.* | *Jem **jabłko**.* | خنثی = بدون تغییر |",
   "exercises": [
     {
       "id": "a1-ch04-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Widzę ___ (I see a dog). [pies = masculine animate]",
+      "prompt": "Marek is at the park. Complete: Widzę ___ (I see a dog). [pies = masculine animate]",
+      "prompt_fa": "ماریک در پارک است. کامل کنید: Widzę ___ (یک سگ می‌بینم). [pies = مذکر جاندار]",
       "options": [
         "psa",
         "pies",
@@ -30,24 +31,35 @@
         "psu"
       ],
       "correctIndex": 0,
-      "explanation": "'Pies' (dog) is masculine animate → accusative adds -a: psa. 'Widzę psa' = I see a dog."
+      "explanation": "'Pies' (dog) is masculine animate → accusative adds -a: psa. 'Widzę psa' = I see a dog. Animate males always get -a in accusative.",
+      "explanation_fa": "'Pies' (سگ) مذکر جاندار است → مفعولی -a اضافه می‌کند: psa. 'Widzę psa' = یک سگ می‌بینم. مذکرهای جاندار همیشه -a در مفعولی می‌گیرند."
     },
     {
       "id": "a1-ch04-l03-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Kupuję ___. (I'm buying bread.) [chleb = masculine inanimate]",
       "answer": "chleb",
       "acceptableAnswers": [
         "chleb"
       ],
-      "hint": "Masculine inanimate nouns don't change in the accusative"
+      "hint": "Masculine inanimate nouns don't change in the accusative",
+      "explanation": "'Chleb' is masculine inanimate → accusative = nominative (no change). 'Kupuję chleb' = I'm buying bread.",
+      "explanation_fa": "'Chleb' مذکر غیرجاندار است → مفعولی = فاعلی (بدون تغییر). 'Kupuję chleb' = دارم نان می‌خرم.",
+      "context": "Kasia is at the bakery. Complete:",
+      "context_fa": "کاسیا در نانوایی است. کامل کنید:",
+      "sentence": "Kupuję ___.",
+      "translation": "(I'm buying bread.) [chleb = masculine inanimate]",
+      "translation_fa": "(دارم نان می‌خرم.) [chleb = مذکر غیرجاندار]",
+      "prompt": "Kupuję ___.",
+      "prompt_fa": "Kupuję ___."
     },
     {
       "id": "a1-ch04-l03-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch04/a1-ch04-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Lubię kawę.",
         "Lubię kawa.",
@@ -55,19 +67,19 @@
         "Lubię kawie."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Lubię kawę.' — I like coffee. 'Kawa' (feminine -a) → accusative 'kawę' (kawa → kawę)."
+      "explanation": "You heard: 'Lubię kawę.' — I like coffee. 'Kawa' (feminine -a) → accusative 'kawę'. The -a ending becomes -ę.",
+      "explanation_fa": "شنیدید: 'Lubię kawę.' — قهوه دوست دارم. 'Kawa' (مؤنث -a) → مفعولی 'kawę'. پسوند -a به -ę تبدیل می‌شود."
     },
     {
       "id": "a1-ch04-l03-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: I see the woman. [kobieta → kobietę]",
+      "prompt": "Tap the words in order: I see the woman. [kobieta → kobietę]",
+      "prompt_fa": "کلمات را به ترتیب بزنید: زن را می‌بینم. [kobieta → kobietę]",
       "wordBank": [
         "Widzę",
-        "Widzą",
         "kobietę",
         "kobieta",
-        "kobiety",
         "mężczyznę"
       ],
       "correctSequences": [
@@ -76,13 +88,15 @@
           "kobietę"
         ]
       ],
-      "explanation": "'Widzę kobietę' = I see the woman. Feminine: kobieta → kobietę (accusative -ę replaces -a)."
+      "explanation": "'Widzę kobietę' = I see the woman. Feminine: kobieta → kobietę (accusative -ę replaces -a). 'Kobieta' is the nominative distractor.",
+      "explanation_fa": "'Widzę kobietę' = زن را می‌بینم. مؤنث: kobieta → kobietę (مفعولی -ę جایگزین -a می‌شود). 'Kobieta' شکل فاعلی است."
     },
     {
       "id": "a1-ch04-l03-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Mam ___. (I have a window.) [okno = neuter]",
+      "prompt": "Tomek is listing things he owns. Complete: Mam ___. (I have a window.) [okno = neuter]",
+      "prompt_fa": "تامک دارد چیزهایی که دارد را فهرست می‌کند. کامل کنید: Mam ___. (یک پنجره دارم.) [okno = خنثی]",
       "options": [
         "okno",
         "okna",
@@ -90,7 +104,97 @@
         "oknie"
       ],
       "correctIndex": 0,
-      "explanation": "Neuter nouns stay the same in the accusative: okno → okno. 'Mam okno' = I have a window."
+      "explanation": "Neuter nouns stay the same in the accusative: okno → okno. 'Mam okno' = I have a window. Neuter accusative always equals nominative.",
+      "explanation_fa": "اسم‌های خنثی در حالت مفعولی بدون تغییر می‌مانند: okno → okno. 'Mam okno' = یک پنجره دارم. مفعولی خنثی همیشه با فاعلی برابر است."
+    },
+    {
+      "id": "a1-ch04-l03-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Ania buys a book (f: książka). Complete: Kupuję ___.",
+      "prompt_fa": "آنیا یک کتاب می‌خرد (م: książka). کامل کنید: Kupuję ___.",
+      "options": [
+        "książkę",
+        "książka",
+        "książki",
+        "książką"
+      ],
+      "correctIndex": 0,
+      "explanation": "Feminine accusative: -a → -ę. Książka → książkę. 'Kupuję książkę' = I am buying a book. The -ę ending marks feminine accusative.",
+      "explanation_fa": "مفعولی مؤنث: -a → -ę. Książka → książkę. 'Kupuję książkę' = دارم کتاب می‌خرم. پسوند -ę نشانه مفعولی مؤنث است."
+    },
+    {
+      "id": "a1-ch04-l03-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "psa",
+      "acceptableAnswers": [
+        "psa"
+      ],
+      "hint": "Animate masculine accusative = genitive form: pies → psa",
+      "explanation": "Animate masculine accusative = genitive: pies → psa. 'Widzę psa' = I see a dog. This is a key rule: animate m-nouns use genitive form as accusative.",
+      "explanation_fa": "مفعولی مذکر جاندار = مضاف‌الیهی: pies → psa. 'Widzę psa' = سگ را می‌بینم. این قانون مهمی است: اسم‌های مذکر جاندار شکل مضاف‌الیهی را به عنوان مفعولی استفاده می‌کنند.",
+      "context": "Kasia sees a dog (masculine animate: pies). Complete:",
+      "context_fa": "کاسیا یک سگ می‌بیند (مذکر جاندار: pies). کامل کنید:",
+      "sentence": "Widzę ___.",
+      "translation": "[pies → accusative]",
+      "translation_fa": "[pies → مفعولی]",
+      "prompt": "Widzę ___.",
+      "prompt_fa": "Widzę ___."
+    },
+    {
+      "id": "a1-ch04-l03-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "For inanimate masculine nouns (e.g. stół = table), the accusative is...",
+      "prompt_fa": "برای اسم‌های مذکر غیرجاندار (مثلاً stół = میز)، مفعولی...",
+      "options": [
+        "same as nominative",
+        "same as genitive",
+        "same as dative",
+        "same as instrumental"
+      ],
+      "correctIndex": 0,
+      "explanation": "Inanimate masculine nouns: accusative = nominative (no change). 'Mam stół' = I have a table. Only animate masculine nouns borrow the genitive form.",
+      "explanation_fa": "اسم‌های مذکر غیرجاندار: مفعولی = فاعلی (بدون تغییر). 'Mam stół' = یک میز دارم. فقط اسم‌های مذکر جاندار شکل مضاف‌الیهی را قرض می‌گیرند."
+    },
+    {
+      "id": "a1-ch04-l03-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tomek says he likes Polish coffee. Arrange the words.",
+      "prompt_fa": "تامک می‌گوید قهوه لهستانی دوست دارد. کلمات را به ترتیب بزنید.",
+      "wordBank": [
+        "Lubię",
+        "polską kawę",
+        "polskiej kawy",
+        "kawę"
+      ],
+      "correctSequences": [
+        [
+          "Lubię",
+          "polską kawę"
+        ]
+      ],
+      "explanation": "'Lubię polską kawę' = I like Polish coffee. Lubić + accusative: kawa (f) → kawę, polska (f adj.) → polską.",
+      "explanation_fa": "'Lubię polską kawę' = قهوه لهستانی دوست دارم. lubić + مفعولی: kawa (م) → kawę، polska (صفت م) → polską."
+    },
+    {
+      "id": "a1-ch04-l03-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch04/a1-ch04-l03-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Tomek czyta ciekawą książkę o historii.",
+        "Tomek czyta ciekawy książkę o historii.",
+        "Tomek czyta ciekawą książka o historii.",
+        "Tomek czyta ciekawa książkę o historii."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Tomek czyta ciekawą książkę o historii.' — Tomek reads an interesting book about history. Feminine accusative: ciekawa → ciekawą, książka → książkę.",
+      "explanation_fa": "شنیدید: 'Tomek czyta ciekawą książkę o historii.' — تامک کتاب جالبی درباره تاریخ می‌خواند. مفعولی مؤنث: ciekawa → ciekawą، książka → książkę."
     }
   ],
   "xpReward": 20,

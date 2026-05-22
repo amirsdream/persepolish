@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch14-l01-diminutives-ek-ka",
+  "chapter": 14,
+  "lessonOrder": 1,
+  "level": "b1",
+  "title": "Diminutives: -ek and -ka Suffixes",
+  "title_fa": "کوچک‌سازها: پسوندهای -ek و -ka",
+  "grammarPoint": "Diminutive formation with -ek (masculine) and -ka (feminine): stolik, herbatka, kotek",
+  "grammarPoint_fa": "ساخت کوچک‌ساز با -ek (مذکر) و -ka (مؤنث): stolik، herbatka، kotek",
+  "explanation": {
+    "text": "Polish **diminutives** make nouns smaller or express endearment. They are extremely common in everyday speech.\n\n**Masculine diminutives with -ek / -ik / -czek:**\n\n| Base | Diminutive | Meaning |\n|------|-----------|--------|\n| stół | **stolik** | small table |\n| dom | **domek** | small house |\n| kot | **kotek** | kitty/small cat |\n| chłopiec | **chłopczyk** | little boy |\n| brat | **braciszek** | little brother |\n| nos | **nosek** | little nose |\n| las | **lasek** | small forest |\n| talerz | **talerzyk** | small plate |\n\n**Feminine diminutives with -ka / -eczka / -uszka:**\n\n| Base | Diminutive | Meaning |\n|------|-----------|--------|\n| herbata | **herbatka** | a cup of tea (endearing) |\n| kawa | **kawka** | a coffee (endearing) |\n| mama | **mamusia** | mummy |\n| ręka | **rączka** | little hand |\n| książka | **książeczka** | small/dear book |\n| torba | **torebka** | small bag/purse |\n| sukienka | **sukieneczka** | little dress |\n\n**Consonant changes before -ek/-ka (palatalization):**\n- t → ci: kot → kotek (t→t before -ek, but: kot → koci- when + -czek)\n- k → cz: teczka → teczuszka; but reka → raczka → raczuszka\n- g → dz: droga → drodzka (colloquial)\n\n**When to use:**\n1. Literal smallness: stolik (small table)\n2. Affection/endearment: kawka (a nice coffee)\n3. With children or close friends: chlopczyk (little boy)",
+    "notes": [
+      "Diminutives change the final consonant (palatalization) before adding suffix",
+      "Very frequent in Polish everyday speech and children's language",
+      "-ek for masculine, -ka for feminine (general rule)",
+      "Some diminutives have become standard words: torebka (bag), tabletka (tablet)"
+    ]
+  },
+  "explanation_fa": "کوچک‌سازها در لهستانی برای نشان دادن کوچکی یا محبت استفاده می‌شوند و در گفتار روزمره بسیار رایج‌اند. مذکر با -ek/-ik/-czek: stolik (میز کوچک)، domek (خانه کوچک)، kotek (بچه‌گربه). مؤنث با -ka/-eczka/-uszka: herbatka (یک فنجان چای با محبت)، kawka (یک قهوه با محبت)، rączka (دست کوچولو). قبل از پسوند تغییرات صوتی (پالاتالیزاسیون) اتفاق می‌افتد.",
+  "exercises": [
+    {
+      "id": "b1-ch14-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "What is the diminutive of 'stół' (table)?",
+      "prompt_fa": "کوچک‌ساز 'stół' (میز) چیست؟",
+      "options": [
+        "stolik",
+        "stółek",
+        "stołka",
+        "stólnik"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Stół' → 'stolik' (small table, café table). The -ik suffix is added after the stem 'stol-'. Very common in Polish cafés and restaurants.",
+      "explanation_fa": "'Stół' → 'stolik' (میز کوچک، میز کافه). پسوند -ik بعد از ریشه 'stol-' اضافه می‌شود. در کافه‌ها و رستوران‌های لهستانی بسیار رایج است."
+    },
+    {
+      "id": "b1-ch14-l01-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Offer someone a nice cup of tea (endearing diminutive of herbata):",
+      "context_fa": "به کسی یک فنجان چای با محبت پیشنهاد دهید (کوچک‌ساز محبت‌آمیز herbata):",
+      "sentence": "Czy napijesz się ___?",
+      "prompt": "Czy napijesz się ___?",
+      "prompt_fa": "Czy napijesz się ___?",
+      "answer": "herbatki",
+      "acceptableAnswers": ["herbatki"],
+      "hint": "herbata → herbatka → genitive after napijesz się: herbatki",
+      "explanation": "'Herbatka' is the diminutive of 'herbata'. After 'napijesz się' (will you drink), genitive is used: 'herbatki'.",
+      "explanation_fa": "'Herbatka' کوچک‌ساز 'herbata' است. بعد از 'napijesz się' (آیا می‌نوشی)، مضاف‌الیه استفاده می‌شود: 'herbatki'."
+    },
+    {
+      "id": "b1-ch14-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch14/b1-ch14-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Usiądź przy stoliku przy oknie.",
+        "Usiądź przy stole przy oknie.",
+        "Usiądź przy stolku przy oknie.",
+        "Usiądź przy stoleczku przy oknie."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Przy stoliku' = at the small table (locative of 'stolik'). Common in café/restaurant context.",
+      "explanation_fa": "'Przy stoliku' = کنار میز کوچک (مکانی 'stolik'). در کافه/رستوران رایج است."
+    },
+    {
+      "id": "b1-ch14-l01-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: The kitty is sleeping in a small house.",
+      "prompt_fa": "بسازید: بچه‌گربه در خانه کوچکی خوابیده.",
+      "wordBank": ["Kotek", "Kot", "śpi", "w", "domku", "domek", "domu"],
+      "correctSequences": [["Kotek", "śpi", "w", "domku"]],
+      "explanation": "'Kotek śpi w domku.' — The kitty sleeps in a small house. 'Kotek' (diminutive of 'kot') + 'domku' (locative of 'domek', diminutive of 'dom').",
+      "explanation_fa": "'Kotek śpi w domku.' — بچه‌گربه در خانه کوچکی می‌خوابد. 'Kotek' (کوچک‌ساز 'kot') + 'domku' (مکانی 'domek'، کوچک‌ساز 'dom')."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["diminutives", "word-formation", "b1-core"],
+  "prerequisites": ["a1-ch01-l01"]
+}

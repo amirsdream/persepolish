@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch16-l02-aspect-storytelling",
+  "chapter": 16,
+  "lessonOrder": 2,
+  "level": "b1",
+  "title": "Sequential vs. Simultaneous Actions",
+  "title_fa": "اقدامات متوالی در مقابل همزمان",
+  "grammarPoint": "Perfective sequence (then...then...then) vs. imperfective simultaneous (while...and...at the same time)",
+  "grammarPoint_fa": "توالی کامل (سپس...سپس...سپس) در مقابل همزمانی ناکامل (در حالی که...و...در همان زمان)",
+  "explanation": {
+    "text": "**Aspect controls whether actions happen one after another or simultaneously:**\n\n**Perfective sequence** — actions completed one by one, plot moves forward:\n- **Wstał**, ubrał się i **wyszedł**. (He got up, got dressed and went out.) — 3 completed events in order\n- **Zamknął** drzwi, **wsiadł** do samochodu i **odjechał**. (He closed the door, got in the car and drove away.)\n- Each perfective verb = one completed step in a chain\n\n**Imperfective simultaneous** — actions happening at the same time:\n- **Słuchał** muzyki i **gotował** obiad. (He was listening to music and cooking lunch.) — both ongoing together\n- **Czytała** gazetę, **pijąc** kawę. (She was reading the newspaper, drinking coffee.)\n- Both actions overlap in time\n\n**Key connectors:**\n\n| Connector | Meaning | Aspect |\n|-----------|---------|--------|\n| **kiedy** + imperf | while (background) | imperfective |\n| **podczas gdy** | while/whereas | imperfective |\n| **gdy** + perf | when (= after) | perfective |\n| **po** + verbal noun | after (doing) | perfective action |\n| **zanim** | before | perfective |\n\n**Examples:**\n- Kiedy **czekał** na tramwaj, **zaczął** padać deszcz. (While he was waiting for the tram [imperf], it started to rain [perf].)\n- Gdy **przyszedł** do domu, **zadzwonił** telefon. (When he got home [perf], the phone rang [perf].)\n- Po **zjedzeniu** śniadania **wyszła** z domu. (After eating breakfast [perf verbal noun], she left the house [perf].)\n\n**The writer's toolkit:**\n- Perfective chain = fast-paced action sequence\n- Imperfective pair = atmospheric, simultaneous scene\n- Mix them for dynamic, engaging narrative",
+    "notes": [
+      "Perfective verbs in sequence: each one completed before the next begins",
+      "Imperfective verbs together: overlapping, simultaneous actions",
+      "kiedy + imperfective = 'while' (background); gdy + perfective = 'when' (after)",
+      "po + verbal noun always signals a completed prior action"
+    ]
+  },
+  "explanation_fa": "جنبه کنترل می‌کند که آیا اقدامات پشت سر هم یا همزمان رخ می‌دهند: توالی کامل = هر فعل کامل قبل از شروع بعدی (wstał، ubrał się، wyszedł). همزمانی ناکامل = اقداماتی که همپوشانی دارند (słuchał muzyki i gotował). کلیدواژه‌های اتصال: kiedy + ناکامل = 'در حالی که' (پس‌زمینه)؛ gdy + کامل = 'وقتی که' (بعد از)؛ po + اسم فعلی = 'بعد از انجام'. زنجیره فعل کامل = توالی اقدام سریع؛ جفت ناکامل = صحنه‌آرایی همزمان.",
+  "exercises": [
+    {
+      "id": "b1-ch16-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Which sentence shows TWO actions happening simultaneously (at the same time)?",
+      "prompt_fa": "کدام جمله دو عمل را که همزمان رخ می‌دهند نشان می‌دهد؟",
+      "options": [
+        "Gotowała obiad i słuchała radia. (imperfective pair)",
+        "Ugotowała obiad i nastawiła radio. (perfective pair)",
+        "Ugotowała obiad, a potem włączyła radio. (sequence)",
+        "Po ugotowaniu obiadu włączyła radio. (after + event)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Gotowała i słuchała' — both imperfective = two ongoing, simultaneous actions. The perfective options show completed sequential events.",
+      "explanation_fa": "'Gotowała i słuchała' — هر دو ناکامل = دو عمل ادامه‌دار همزمان. گزینه‌های کامل رویدادهای متوالی کامل‌شده را نشان می‌دهند."
+    },
+    {
+      "id": "b1-ch16-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Sequence of completed actions: He opened the door, entered, and sat down. Fill the second verb (wejść, perfective past masculine):",
+      "context_fa": "توالی اقدامات کامل‌شده: در را باز کرد، وارد شد و نشست. فعل دوم را پر کنید (wejść، گذشته کامل مذکر):",
+      "sentence": "Otworzył drzwi, ___ do środka i usiadł.",
+      "prompt": "Otworzył drzwi, ___ do środka i usiadł.",
+      "prompt_fa": "Otworzył drzwi, ___ do środka i usiadł.",
+      "answer": "wszedł",
+      "acceptableAnswers": ["wszedł"],
+      "hint": "wejść (perf) = to enter; past masculine: wszedł",
+      "explanation": "'Otworzył drzwi, wszedł do środka i usiadł.' — Opened, entered, sat down: three perfective verbs in sequence.",
+      "explanation_fa": "'Otworzył drzwi, wszedł do środka i usiadł.' — باز کرد، وارد شد، نشست: سه فعل کامل متوالی."
+    },
+    {
+      "id": "b1-ch16-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch16/b1-ch16-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Kiedy czytała książkę, zadzwonił telefon.",
+        "Kiedy czytała książkę, dzwonił telefon.",
+        "Gdy przeczytała książkę, zadzwoniła.",
+        "Kiedy przeczytała książkę, dzwonił telefon."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Kiedy czytała' (imperf background) + 'zadzwonił' (perf event) = while she was reading, the phone rang. Classic background → event pattern.",
+      "explanation_fa": "'Kiedy czytała' (ناکامل پس‌زمینه) + 'zadzwonił' (کامل رویداد) = در حالی که داشت می‌خواند، تلفن زنگ زد. الگوی کلاسیک پس‌زمینه → رویداد."
+    },
+    {
+      "id": "b1-ch16-l02-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: After eating dinner, he went for a walk.",
+      "prompt_fa": "بسازید: بعد از خوردن شام، رفت قدم بزند.",
+      "wordBank": ["Po", "zjedzeniu", "kolacji", "poszedł", "na", "spacer", "obiad", "zjadł"],
+      "correctSequences": [["Po", "zjedzeniu", "kolacji", "poszedł", "na", "spacer"]],
+      "explanation": "'Po zjedzeniu kolacji poszedł na spacer.' — After eating dinner (po + verbal noun), he went for a walk (perf). 'Po zjedzeniu' = after eating (completed action).",
+      "explanation_fa": "'Po zjedzeniu kolacji poszedł na spacer.' — بعد از خوردن شام (po + اسم فعلی)، رفت قدم بزند (کامل). 'Po zjedzeniu' = بعد از خوردن (عمل کامل‌شده)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["aspect", "narrative", "sequence", "simultaneous", "b1-core"],
+  "prerequisites": ["b1-ch16-l01"]
+}

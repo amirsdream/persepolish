@@ -12,7 +12,8 @@
       "type": "multiple_choice",
       "order": 1,
       "sourceLesson": "a1-ch10-l01",
-      "prompt": "To jest ___ film. (This is a good film.) [dobry → m nominative]",
+      "prompt": "Tomek recommends something to watch. Complete: To jest ___ film. (This is a good film.) [dobry → m nominative]",
+      "prompt_fa": "تامک چیزی را برای تماشا توصیه می‌کند. کامل کنید: To jest ___ film. (این یک فیلم خوب است.) [dobry → فاعلی مذکر]",
       "options": [
         "dobry",
         "dobra",
@@ -20,14 +21,16 @@
         "dobrzy"
       ],
       "correctIndex": 0,
-      "explanation": "'Film' is masculine → nominative adjective: 'dobry'. 'To jest dobry film.'"
+      "explanation": "'Film' is masculine → nominative adjective: 'dobry'. 'To jest dobry film.' Masculine nominative singular: -y.",
+      "explanation_fa": "'Film' مذکر است → صفت فاعلی: 'dobry'. 'To jest dobry film.' فاعلی مفرد مذکر: -y."
     },
     {
       "id": "a1-ch10-rev-q02",
       "type": "multiple_choice",
       "order": 2,
       "sourceLesson": "a1-ch10-l01",
-      "prompt": "Mam ___ książkę. (I have an interesting book.) [ciekawy → f accusative]",
+      "prompt": "Kasia buys a book for her trip. Complete: Mam ___ książkę. (I have an interesting book.) [ciekawy → f accusative]",
+      "prompt_fa": "کاسیا کتابی برای سفرش می‌خرد. کامل کنید: Mam ___ książkę. (یک کتاب جالب دارم.) [ciekawy → مفعولی مؤنث]",
       "options": [
         "ciekawą",
         "ciekawy",
@@ -35,14 +38,16 @@
         "ciekawej"
       ],
       "correctIndex": 0,
-      "explanation": "'Książka' (f) in accusative → 'książkę'; adjective 'ciekawy' → f accusative: 'ciekawą'. 'Mam ciekawą książkę.'"
+      "explanation": "'Książka' (f) in accusative → 'książkę'; adjective 'ciekawy' → f accusative: 'ciekawą'. 'Mam ciekawą książkę.' Feminine accusative adjective: -ą.",
+      "explanation_fa": "'Książka' (مؤنث) در مفعولی → 'książkę'؛ صفت 'ciekawy' → مفعولی مؤنث: 'ciekawą'. 'Mam ciekawą książkę.' صفت مفعولی مؤنث: -ą."
     },
     {
       "id": "a1-ch10-rev-q03",
       "type": "multiple_choice",
       "order": 3,
       "sourceLesson": "a1-ch10-l02",
-      "prompt": "Kraków jest ___ niż Warszawa. (Kraków is smaller than Warsaw.)",
+      "prompt": "Marek looks at a map of Poland. Complete: Kraków jest ___ niż Warszawa. (Kraków is smaller than Warsaw.)",
+      "prompt_fa": "ماریک به نقشه لهستان نگاه می‌کند. کامل کنید: Kraków jest ___ niż Warszawa. (کراکوف از ورشو کوچک‌تر است.)",
       "options": [
         "mniejszy",
         "mały",
@@ -50,14 +55,16 @@
         "mniej"
       ],
       "correctIndex": 0,
-      "explanation": "'Mniejszy' = comparative of 'mały' (small). 'Kraków jest mniejszy niż Warszawa.'"
+      "explanation": "'Mniejszy' = comparative of 'mały' (small). 'Kraków jest mniejszy niż Warszawa.' Kraków (m) → mniejszy (m comparative).",
+      "explanation_fa": "'Mniejszy' = تفضیلی 'mały' (کوچک). 'Kraków jest mniejszy niż Warszawa.' Kraków (م) → mniejszy (تفضیلی مذکر)."
     },
     {
       "id": "a1-ch10-rev-q04",
       "type": "vocab_translation",
       "order": 4,
       "sourceVocab": "a1-ch10-vocab",
-      "prompt": "What does 'pływanie' mean?",
+      "prompt": "Ania joins a sports club for her favourite activity. What does 'pływanie' mean?",
+      "prompt_fa": "آنیا به یک باشگاه ورزشی برای فعالیت مورد علاقه‌اش می‌پیوندد. 'pływanie' چه معنایی دارد؟",
       "options": [
         "running",
         "swimming",
@@ -65,14 +72,16 @@
         "dancing"
       ],
       "correctIndex": 1,
-      "explanation": "'Pływanie' = swimming. 'Chodzę na pływanie' = I go swimming."
+      "explanation": "'Pływanie' = swimming (verbal noun from pływać). 'Chodzę na pływanie' = I go swimming. 'Lubię pływać' = I like swimming.",
+      "explanation_fa": "'Pływanie' = شنا (اسم فعلی از pływać). 'Chodzę na pływanie' = می‌روم شنا. 'Lubię pływać' = شنا دوست دارم."
     },
     {
       "id": "a1-ch10-rev-q05",
       "type": "multiple_choice",
       "order": 5,
       "sourceLesson": "a1-ch10-l03",
-      "prompt": "Gram ___ (I play guitar). [gitara → na + locative]",
+      "prompt": "Kasia is a musician. Complete: Gram ___ (I play guitar). [gitara → na + locative]",
+      "prompt_fa": "کاسیا یک نوازنده است. کامل کنید: Gram ___ (گیتار می‌نوازم). [gitara → na + مکانی]",
       "options": [
         "na gitarze",
         "w gitarze",
@@ -80,14 +89,16 @@
         "w gitarę"
       ],
       "correctIndex": 0,
-      "explanation": "Instruments: 'grać na + locative'. 'Gitara' → locative 'gitarze'. 'Gram na gitarze.'"
+      "explanation": "Instruments: 'grać na + locative'. 'Gitara' → locative 'gitarze'. 'Gram na gitarze' = I play guitar.",
+      "explanation_fa": "سازها: 'grać na + مکانی'. 'Gitara' → مکانی 'gitarze'. 'Gram na gitarze' = گیتار می‌نوازم."
     },
     {
       "id": "a1-ch10-rev-q06",
       "type": "multiple_choice",
       "order": 6,
       "sourceLesson": "a1-ch10-l03",
-      "prompt": "Lubię grać ___ (I like playing football). [piłka nożna → w + accusative]",
+      "prompt": "Tomek watches football every weekend. Complete: Lubię grać ___ (I like playing football). [piłka nożna → w + accusative]",
+      "prompt_fa": "تامک هر آخر هفته فوتبال تماشا می‌کند. کامل کنید: Lubię grać ___ (دوست دارم فوتبال بازی کنم). [piłka nożna → w + مفعولی]",
       "options": [
         "w piłkę nożną",
         "na piłkę nożną",
@@ -95,14 +106,16 @@
         "piłkę nożną"
       ],
       "correctIndex": 0,
-      "explanation": "Sports: 'grać w + accusative'. 'Piłka nożna' (f) → acc: 'piłkę nożną'. 'Lubię grać w piłkę nożną.'"
+      "explanation": "Sports: 'grać w + accusative'. 'Piłka nożna' (f) → acc: 'piłkę nożną'. 'Lubię grać w piłkę nożną.'",
+      "explanation_fa": "ورزش: 'grać w + مفعولی'. 'Piłka nożna' (مؤنث) → مفعولی: 'piłkę nożną'. 'Lubię grać w piłkę nożną.'"
     },
     {
       "id": "a1-ch10-rev-q07",
       "type": "multiple_choice",
       "order": 7,
       "sourceLesson": "a1-ch10-l04",
-      "prompt": "Which case is used after 'nie ma'?",
+      "prompt": "Ania checks the fridge — there's no milk. Which case is used after 'nie ma'?",
+      "prompt_fa": "آنیا یخچال را چک می‌کند — شیری نیست. بعد از 'nie ma' کدام حالت استفاده می‌شود؟",
       "options": [
         "genitive",
         "accusative",
@@ -110,14 +123,16 @@
         "instrumental"
       ],
       "correctIndex": 0,
-      "explanation": "'Nie ma + genitive'. 'Nie ma wody' (genitive of woda). This is a key A1 rule."
+      "explanation": "'Nie ma + genitive'. 'Nie ma mleka' (genitive of mleko = mleka). This is a key A1 rule: negated existence/having = genitive.",
+      "explanation_fa": "'Nie ma + مضاف‌الیهی'. 'Nie ma mleka' (مضاف‌الیهی mleko = mleka). این یک قانون کلیدی A1 است: وجود/داشتن منفی = مضاف‌الیهی."
     },
     {
       "id": "a1-ch10-rev-q08",
       "type": "vocab_translation",
       "order": 8,
       "sourceVocab": "a1-ch10-vocab",
-      "prompt": "What does 'wolny czas' mean?",
+      "prompt": "Marek asks what Kasia does when she's not working. What does 'wolny czas' mean?",
+      "prompt_fa": "ماریک می‌پرسد کاسیا وقتی کار نمی‌کند چه می‌کند. 'wolny czas' چه معنایی دارد؟",
       "options": [
         "working time",
         "free time",
@@ -125,14 +140,16 @@
         "lunch break"
       ],
       "correctIndex": 1,
-      "explanation": "'Wolny czas' = free time. 'Co robisz w wolnym czasie?' = What do you do in your free time?"
+      "explanation": "'Wolny czas' = free time. 'Co robisz w wolnym czasie?' = What do you do in your free time? 'Wolny' = free (adjective).",
+      "explanation_fa": "'Wolny czas' = وقت آزاد. 'Co robisz w wolnym czasie?' = در وقت آزادت چه می‌کنی؟ 'Wolny' = آزاد (صفت)."
     },
     {
       "id": "a1-ch10-rev-q09",
       "type": "multiple_choice",
       "order": 9,
       "sourceLesson": "a1-ch10-l04",
-      "prompt": "Jestem ___ (I am a teacher — m). [instrumental after być]",
+      "prompt": "Tomek starts his first job at a school. Complete: Jestem ___ (I am a teacher — m). [instrumental after być]",
+      "prompt_fa": "تامک اولین شغلش را در یک مدرسه شروع می‌کند. کامل کنید: Jestem ___ (معلم هستم — م). [ابزاری بعد از być]",
       "options": [
         "nauczycielem",
         "nauczyciel",
@@ -140,14 +157,16 @@
         "nauczycielu"
       ],
       "correctIndex": 0,
-      "explanation": "'Być + instrumental': nauczyciel → 'nauczycielem'. Identity/profession after 'być' = instrumental."
+      "explanation": "'Być + instrumental': nauczyciel → 'nauczycielem'. Identity/profession after 'być' = instrumental. Masculine -el → -elem.",
+      "explanation_fa": "'Być + ابزاری': nauczyciel → 'nauczycielem'. هویت/شغل بعد از 'być' = ابزاری. مذکر -el → -elem."
     },
     {
       "id": "a1-ch10-rev-q10",
       "type": "multiple_choice",
       "order": 10,
       "sourceLesson": "a1-ch10-l02",
-      "prompt": "What is the superlative of 'dobry' (good)?",
+      "prompt": "Kasia asks which restaurant is best. What is the superlative of 'dobry' (good)?",
+      "prompt_fa": "کاسیا می‌پرسد کدام رستوران بهترین است. عالی 'dobry' (خوب) چیست؟",
       "options": [
         "najlepszy",
         "bardziej dobry",
@@ -155,14 +174,16 @@
         "najbardziej dobry"
       ],
       "correctIndex": 0,
-      "explanation": "'Najlepszy' = best. Superlative = naj- + comparative: lepszy → najlepszy. Irregular!"
+      "explanation": "'Najlepszy' = best. Superlative = naj- + comparative: lepszy → najlepszy. Irregular! 'Dobry → lepszy → najlepszy'.",
+      "explanation_fa": "'Najlepszy' = بهترین. عالی = naj- + تفضیلی: lepszy → najlepszy. نامنظم! 'Dobry → lepszy → najlepszy'."
     },
     {
       "id": "a1-ch10-rev-q11",
       "type": "vocab_translation",
       "order": 11,
       "sourceVocab": "a1-ch10-vocab",
-      "prompt": "What does 'interesować się' mean?",
+      "prompt": "Ania discovers a new hobby. What does 'interesować się' mean?",
+      "prompt_fa": "آنیا یک سرگرمی جدید کشف می‌کند. 'interesować się' چه معنایی دارد؟",
       "options": [
         "to play a game",
         "to be interested in",
@@ -170,14 +191,16 @@
         "to practice"
       ],
       "correctIndex": 1,
-      "explanation": "'Interesować się + instrumental' = to be interested in. 'Interesuję się muzyką' = I'm interested in music."
+      "explanation": "'Interesować się + instrumental' = to be interested in. 'Interesuję się muzyką' = I'm interested in music. It's a reflexive verb (się).",
+      "explanation_fa": "'Interesować się + ابزاری' = علاقه داشتن به. 'Interesuję się muzyką' = به موسیقی علاقه دارم. یک فعل بازتابی است (się)."
     },
     {
       "id": "a1-ch10-rev-q12",
       "type": "multiple_choice",
       "order": 12,
       "sourceLesson": "a1-ch10-l04",
-      "prompt": "Complete A1 review: Nie ___ (I don't have money). [nie mieć + genitive]",
+      "prompt": "Tomek forgot his wallet at home. Complete A1 review: Nie ___ (I don't have money). [nie mieć + genitive]",
+      "prompt_fa": "تامک کیف پولش را خانه فراموش کرد. مرور A1: Nie ___ (پول ندارم). [nie mieć + مضاف‌الیهی]",
       "options": [
         "mam pieniędzy",
         "mam pieniądze",
@@ -185,7 +208,8 @@
         "mają pieniędzy"
       ],
       "correctIndex": 0,
-      "explanation": "'Nie mam pieniędzy' = I don't have money. After negation, accusative → genitive: pieniądze → pieniędzy."
+      "explanation": "'Nie mam pieniędzy' = I don't have money. After negation (nie), accusative → genitive: pieniądze (acc) → pieniędzy (gen). This is the A1 negation rule.",
+      "explanation_fa": "'Nie mam pieniędzy' = پول ندارم. بعد از منفی (nie)، مفعولی → مضاف‌الیهی: pieniądze (مفعولی) → pieniędzy (مضاف‌الیهی). این قانون منفی A1 است."
     }
   ]
 }

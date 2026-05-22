@@ -1,0 +1,178 @@
+{
+  "id": "b1-ch20-revision",
+  "chapter": 20,
+  "level": "b1",
+  "title": "Chapter 20 Revision: B1 Mixed Review",
+  "title_fa": "مرور فصل ۲۰ B1: مرور مختلط B1",
+  "description": "Final B1 chapter review testing aspect, formal register, word formation, idioms, and media language across all B1 chapters.",
+  "passThreshold": 0.7,
+  "questions": [
+    {
+      "id": "b1-ch20-rev-q01",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses aspect CORRECTLY?",
+      "prompt_fa": "کدام جمله جنبه را به درستی استفاده می‌کند؟",
+      "options": [
+        "Nagle zadzwonił telefon. (perf after 'nagle' ✓)",
+        "Nagle dzwonił telefon. (imperf after 'nagle' ✗)",
+        "Słońce zaświeciło przez cały dzień. (perf for ongoing ✗)",
+        "Codziennie napisał list. (perf for habitual ✗)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nagle zadzwonił' ✓ = perf after 'nagle' (sudden events). 'Dzwonił' = imperf = wrong here. 'Zaświeciło przez cały dzień' = perf for ongoing = wrong. 'Napisał codziennie' = perf for habitual = wrong.",
+      "explanation_fa": "'Nagle zadzwonił' ✓ = کامل بعد از 'nagle' (رویدادهای ناگهانی). 'Dzwonił' = ناکامل = اینجا اشتباه. 'Zaświeciło przez cały dzień' = کامل برای ادامه‌دار = اشتباه. 'Napisał codziennie' = کامل برای عادتی = اشتباه."
+    },
+    {
+      "id": "b1-ch20-rev-q02",
+      "type": "multiple_choice",
+      "prompt": "Which preposition takes DATIVE case (not genitive)?",
+      "prompt_fa": "کدام حرف اضافه حالت مفعول غیرمستقیم (نه مضاف‌الیه) می‌گیرد؟",
+      "options": [
+        "wbrew (against — wbrew rozsądkowi)",
+        "mimo (despite — mimo deszczu)",
+        "według (according to — według ministra)",
+        "wzdłuż (along — wzdłuż rzeki)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wbrew' = the ONLY common B1 preposition taking dative. 'Wbrew rozsądkowi' (against reason). All others (mimo, według, wzdłuż, wokół) take genitive.",
+      "explanation_fa": "'Wbrew' = تنها حرف اضافه رایج B1 که دیتیو می‌گیرد. 'Wbrew rozsądkowi' (علی‌رغم عقل). همه دیگران (mimo، według، wzdłuż، wokół) مضاف‌الیه می‌گیرند."
+    },
+    {
+      "id": "b1-ch20-rev-q03",
+      "type": "fill_blank",
+      "prompt": "Formal address: change 'Czy masz wolne miejsce?' to formal (to a female receptionist):",
+      "prompt_fa": "خطاب رسمی: 'Czy masz wolne miejsce?' را به رسمی تبدیل کنید (به یک منشی زن):",
+      "answer": "Czy Pani ma wolne miejsce",
+      "acceptableAnswers": ["Czy Pani ma wolne miejsce?", "Czy Pani ma wolne miejsce"],
+      "hint": "ty → Pani; masz → ma (3rd person singular)",
+      "explanation": "'Czy Pani ma wolne miejsce?' — Pani + 3rd person 'ma'. Never use 'masz' or 'ty' in formal Polish.",
+      "explanation_fa": "'Czy Pani ma wolne miejsce?' — Pani + سوم شخص 'ma'. هرگز از 'masz' یا 'ty' در لهستانی رسمی استفاده نکنید."
+    },
+    {
+      "id": "b1-ch20-rev-q04",
+      "type": "multiple_choice",
+      "prompt": "From 'piękny' (beautiful), what is the correct abstract noun?",
+      "prompt_fa": "از 'piękny' (زیبا)، اسم انتزاعی درست کدام است؟",
+      "options": ["piękność (beauty — -ość suffix)", "piękno (neuter adj form)", "pięknik (wrong — agent suffix)", "pięknota (wrong suffix)"],
+      "correctIndex": 0,
+      "explanation": "'Piękność' = beauty. Piękny (beautiful) + -ość = piękność (f.). Note: 'piękno' exists as a poetic/archaic form, but 'piękność' is the standard -ość form.",
+      "explanation_fa": "'Piękność' = زیبایی. Piękny (زیبا) + -ość = piękność (مؤنث). توجه: 'piękno' به صورت شعری/کهنه وجود دارد، اما 'piękność' شکل استاندارد -ość است."
+    },
+    {
+      "id": "b1-ch20-rev-q05",
+      "type": "multiple_choice",
+      "prompt": "What does 'Ogłoszono nowe wyniki.' mean and what grammar structure is it?",
+      "prompt_fa": "'Ogłoszono nowe wyniki.' چه معنایی دارد و چه ساختار دستوری است؟",
+      "options": [
+        "New results were announced. (-no impersonal passive)",
+        "They announced new results. (active 3rd pl.)",
+        "The announcement of new results. (noun phrase)",
+        "Let new results be announced. (subjunctive)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ogłoszono' = -no impersonal passive. 'The results were announced.' No subject stated. This structure is ubiquitous in Polish news and official language.",
+      "explanation_fa": "'Ogłoszono' = منفعل غیرشخصی -no. 'نتایج اعلام شد.' فاعلی ذکر نشده. این ساختار در اخبار و زبان رسمی لهستانی همه‌جا وجود دارد."
+    },
+    {
+      "id": "b1-ch20-rev-q06",
+      "type": "fill_blank",
+      "prompt": "Idiom: 'She works very hard' (like an ox): 'Haruje ___.'",
+      "prompt_fa": "اصطلاح: 'خیلی سخت کار می‌کند' (مثل گاو): 'Haruje ___.'",
+      "answer": "jak wół",
+      "acceptableAnswers": ["jak wół"],
+      "hint": "harować jak wół = to work like an ox",
+      "explanation": "'Haruje jak wół.' — She works like an ox (very hard). 'Harować' = to toil, slog; 'wół' = ox.",
+      "explanation_fa": "'Haruje jak wół.' — مثل گاو کار می‌کند (خیلی سخت). 'Harować' = سخت کار کردن؛ 'wół' = گاو نر."
+    },
+    {
+      "id": "b1-ch20-rev-q07",
+      "type": "multiple_choice",
+      "prompt": "In narrative: 'Był piękny dzień. Słońce świeciło. Nagle ___.' Which aspect continues correctly?",
+      "prompt_fa": "در روایت: 'Był piękny dzień. Słońce świeciło. Nagle ___.' کدام جنبه درست ادامه می‌دهد؟",
+      "options": [
+        "Perfective (nagle → sudden plot event: rozległ się strzał, zadzwonił...)",
+        "Imperfective (continuing the background description)",
+        "Present tense (switching time frame)",
+        "Future tense (predicting what will happen)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Background (imperf) → 'nagle' → perfective event. The pattern: 'był', 'świeciło' = background, then 'nagle' signals the plot turn with a perfective verb.",
+      "explanation_fa": "پس‌زمینه (ناکامل) → 'nagle' → رویداد کامل. الگو: 'był'، 'świeciło' = پس‌زمینه، سپس 'nagle' نقطه چرخش طرح را با فعل کامل نشان می‌دهد."
+    },
+    {
+      "id": "b1-ch20-rev-q08",
+      "type": "multiple_choice",
+      "prompt": "What does 'Mądry Polak po szkodzie.' mean?",
+      "prompt_fa": "'Mądry Polak po szkodzie.' چه معنایی دارد؟",
+      "options": [
+        "Poles are wise after the fact (self-deprecating — wisdom comes too late)",
+        "A wise Pole can prevent damage",
+        "Polish wisdom avoids loss",
+        "A clever person learns from others' mistakes"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mądry Polak po szkodzie.' = Poles are wise after the damage/fact. A self-deprecating proverb: 'We only learn after something goes wrong.'",
+      "explanation_fa": "'Mądry Polak po szkodzie.' = لهستانی‌ها بعد از شکست عاقل می‌شوند. ضرب‌المثل خودانتقادانه: 'فقط وقتی چیزی اشتباه می‌رود یاد می‌گیریم.'"
+    },
+    {
+      "id": "b1-ch20-rev-q09",
+      "type": "fill_blank",
+      "prompt": "Headline nominalization: 'Prices rose' → '___ cen' (from 'wzrosnąć'):",
+      "prompt_fa": "اسمی‌سازی تیتر: 'قیمت‌ها افزایش یافتند' → '___ cen' (از 'wzrosnąć'):",
+      "answer": "Wzrost",
+      "acceptableAnswers": ["Wzrost", "wzrost"],
+      "hint": "wzrosnąć → wzrost (rise, increase — root noun)",
+      "explanation": "'Wzrost cen' = Rise in prices. Nominalized from 'ceny wzrosły' → 'wzrost cen'. Common media headline pattern.",
+      "explanation_fa": "'Wzrost cen' = افزایش قیمت‌ها. اسمی‌شده از 'ceny wzrosły' → 'wzrost cen'. الگوی رایج تیتر رسانه‌ای."
+    },
+    {
+      "id": "b1-ch20-rev-q10",
+      "type": "multiple_choice",
+      "prompt": "'Zwracam się do Pana z prośbą o spotkanie.' What case is 'Pana' and why?",
+      "prompt_fa": "'Zwracam się do Pana z prośbą o spotkanie.' 'Pana' چه حالتی دارد و چرا؟",
+      "options": [
+        "Genitive — after 'do' (to): Pan → Pana",
+        "Accusative — direct object of 'zwracam'",
+        "Dative — indirect object",
+        "Nominative — subject of the sentence"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Do' + genitive: Pan → Pana. 'Zwracam się do Pana' = I turn to you (sir). 'Do' always triggers genitive.",
+      "explanation_fa": "'Do' + مضاف‌الیه: Pan → Pana. 'Zwracam się do Pana' = به شما (جناب) مراجعه می‌کنم. 'Do' همیشه مضاف‌الیه می‌طلبد."
+    },
+    {
+      "id": "b1-ch20-rev-q11",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses 'mimo że' (although)?",
+      "prompt_fa": "کدام جمله 'mimo że' (اگرچه) را درست استفاده می‌کند؟",
+      "options": [
+        "Mimo że padało, wyszłam na spacer.",
+        "Mimo że padało, ale wyszłam na spacer.",
+        "Mimo że padało jednak wyszłam na spacer.",
+        "Mimo padało, wyszłam na spacer."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mimo że + clause, main clause.' No additional 'ale' or 'jednak' needed after 'mimo że'. The conjunction 'mimo że' already marks the contrast.",
+      "explanation_fa": "'Mimo że + جمله، جمله اصلی.' نیازی به 'ale' یا 'jednak' اضافی بعد از 'mimo że' نیست.接续词 'mimo że' خودش تضاد را نشان می‌دهد."
+    },
+    {
+      "id": "b1-ch20-rev-q12",
+      "type": "multiple_choice",
+      "prompt": "What verbal noun is formed from 'rozumieć' (to understand)?",
+      "prompt_fa": "از 'rozumieć' (فهمیدن) چه اسم فعلی ساخته می‌شود؟",
+      "options": [
+        "rozumienie (understanding — neuter verbal noun)",
+        "rozumiałość (wrong suffix)",
+        "rozumienie się (wrong — reflexive verbal noun not standard)",
+        "rozumność (different meaning — reasonableness)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Rozumienie' = understanding. Rozumieć → rozumienie (verbal noun, neuter). 'Czytanie ze zrozumieniem' = reading comprehension (zrozumienie = from 'zrozumieć' perf.).",
+      "explanation_fa": "'Rozumienie' = فهمیدن/درک. Rozumieć → rozumienie (اسم فعلی، خنثی). 'Czytanie ze zrozumieniem' = خواندن با درک مطلب (zrozumienie = از 'zrozumieć' کامل)."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 10,
+  "tags": ["b1-review", "mixed-grammar", "exam-prep", "b1-core"],
+  "prerequisites": ["b1-ch20-l01", "b1-ch20-l02", "b1-ch20-l03", "b1-ch20-l04"]
+}

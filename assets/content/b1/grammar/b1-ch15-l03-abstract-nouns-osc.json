@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch15-l03-abstract-nouns-osc",
+  "chapter": 15,
+  "lessonOrder": 3,
+  "level": "b1",
+  "title": "Abstract Nouns: -ość Suffix",
+  "title_fa": "اسامی انتزاعی: پسوند -ość",
+  "grammarPoint": "Abstract noun formation with -ość: piękny→piękność, wolny→wolność, radosny→radość",
+  "grammarPoint_fa": "ساخت اسامی انتزاعی با -ość: piękny→piękność، wolny→wolność، radosny→radość",
+  "explanation": {
+    "text": "The suffix **-ość** turns adjectives into abstract nouns meaning 'the quality of being X':\n\n**Adjective + -ość → Abstract noun:**\n\n| Adjective | Meaning | Abstract noun | Meaning |\n|-----------|---------|--------------|--------|\n| piękny | beautiful | **piękność** | beauty |\n| wolny | free | **wolność** | freedom |\n| młody | young | **młodość** | youth |\n| stary | old | **starość** | old age |\n| mądry | wise | **mądrość** | wisdom |\n| głupi | stupid | **głupota** (!) | stupidity |\n| miły | nice | **miłość** | love |\n| wesoły | cheerful | **wesołość** | cheerfulness |\n| smutny | sad | **smutek** (!) | sadness |\n| pewny | certain | **pewność** | certainty |\n| gotowy | ready | **gotowość** | readiness |\n| możliwy | possible | **możliwość** | possibility |\n| zdolny | capable | **zdolność** | ability |\n\n**Spelling rule:**\n- Hard consonant before -ość → consonant softens: wolny → woln- + ość = **wolność** (n→ń)\n- mądry → mądr- + ość = **mądrość** (r→rz? No — mądrość stays)\n- Most just add -ość directly\n\n**All -ość nouns are FEMININE:**\n- piękność, wolność, miłość, mądrość — all feminine\n- Genitive: piękności, wolności, miłości\n- Locative: o piękności, o wolności, o miłości\n\n**Note exceptions:**\n- głupi → **głupota** (not głupość)\n- smutny → **smutek** (not smutność)\n- These irregular forms must be memorized",
+    "notes": [
+      "All -ość nouns are feminine regardless of the adjective's gender",
+      "Exceptions: głupota (not głupość), smutek (not smutność)",
+      "miłość = love (from miły = nice/dear) — important word!",
+      "możliwość (possibility) is very frequent in B1+ contexts"
+    ]
+  },
+  "explanation_fa": "پسوند -ość صفات را به اسامی انتزاعی مؤنث تبدیل می‌کند: wolny→wolność (آزاد→آزادی)، mądry→mądrość (خردمند→خرد)، piękny→piękność (زیبا→زیبایی)، możliwy→możliwość (ممکن→امکان). همه اسامی -ość مؤنث هستند. استثناها که باید حفظ شوند: głupi→głupota (احمق→حماقت)، smutny→smutek (غمگین→غم). نکته: miłość (عشق) از miły (محبوب) است.",
+  "exercises": [
+    {
+      "id": "b1-ch15-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "What is the abstract noun from 'wolny' (free)?",
+      "prompt_fa": "اسم انتزاعی از 'wolny' (آزاد) چیست؟",
+      "options": [
+        "wolność",
+        "wolna",
+        "wolnienie",
+        "wolnota"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wolność' = freedom. Adjective 'wolny' (free) + -ość = wolność. Note the spelling: wolny → woln- + ość = wolność.",
+      "explanation_fa": "'Wolność' = آزادی. صفت 'wolny' (آزاد) + -ość = wolność. توجه به هجی: wolny → woln- + ość = wolność."
+    },
+    {
+      "id": "b1-ch15-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "He spoke about the possibility of a new agreement. Complete:",
+      "context_fa": "او درباره امکان توافق جدید صحبت کرد. کامل کنید:",
+      "sentence": "Mówił o ___ nowej umowy.",
+      "prompt": "Mówił o ___ nowej umowy.",
+      "prompt_fa": "Mówił o ___ nowej umowy.",
+      "answer": "możliwości",
+      "acceptableAnswers": ["możliwości"],
+      "hint": "możliwość → locative after 'o': możliwości",
+      "explanation": "'O możliwości' = about the possibility. 'Możliwość' (f.) → locative: 'możliwości'.",
+      "explanation_fa": "'O możliwości' = درباره امکان. 'Możliwość' (مؤنث) → مکانی: 'możliwości'."
+    },
+    {
+      "id": "b1-ch15-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch15/b1-ch15-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Miłość jest ważniejsza niż pieniądze.",
+        "Miłota jest ważniejsza niż pieniądze.",
+        "Miła jest ważniejsza niż pieniądze.",
+        "Miłości jest ważniejsza niż pieniądze."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Miłość jest ważniejsza niż pieniądze.' — Love is more important than money. 'Miłość' from 'miły' (dear/nice) + -ość = love.",
+      "explanation_fa": "'Miłość jest ważniejsza niż pieniądze.' — عشق مهم‌تر از پول است. 'Miłość' از 'miły' (محبوب) + -ość = عشق."
+    },
+    {
+      "id": "b1-ch15-l03-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: Wisdom comes with age.",
+      "prompt_fa": "بسازید: خرد با سن می‌آید.",
+      "wordBank": ["Mądrość", "przychodzi", "z", "wiekiem", "Mądry", "Głupota"],
+      "correctSequences": [["Mądrość", "przychodzi", "z", "wiekiem"]],
+      "explanation": "'Mądrość przychodzi z wiekiem.' — Wisdom comes with age. 'Mądrość' (from mądry = wise) + instrumental 'z wiekiem'.",
+      "explanation_fa": "'Mądrość przychodzi z wiekiem.' — خرد با سن می‌آید. 'Mądrość' (از mądry = خردمند) + ابزاری 'z wiekiem'."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["word-formation", "abstract-nouns", "osc", "b1-core"],
+  "prerequisites": ["b1-ch15-l01", "b1-ch15-l02"]
+}

@@ -1,0 +1,288 @@
+{
+  "id": "b1-exam-01",
+  "level": "b1",
+  "title": "B1 Level Exam — PKE Style",
+  "title_fa": "آزمون سطح B1 — سبک PKE",
+  "description": "A comprehensive B1 Polish State Exam (PKE) style test covering grammar, reading comprehension, listening, and writing.",
+  "description_fa": "آزمون جامع سبک PKE برای سطح B1 لهستانی شامل دستور زبان، درک مطلب، گوش دادن و نوشتار.",
+  "passThreshold": 0.6,
+  "sections": [
+    {
+      "id": "b1-exam-s1",
+      "title": "Section 1: Grammar (35%)",
+      "title_fa": "بخش ۱: دستور زبان (۳۵٪)",
+      "weight": 0.35,
+      "questions": [
+        {
+          "id": "b1-exam-q01",
+          "type": "multiple_choice",
+          "prompt": "Choose the correct aspect: 'Każdego ranka ___ kawę i czytał gazetę.' (habitual past of 'pić')",
+          "prompt_fa": "جنبه درست را انتخاب کنید: 'Każdego ranka ___ kawę i czytał gazetę.' (گذشته عادتی 'pić')",
+          "options": ["pił (imperfective — habitual)", "wypił (perfective — single completion)", "pije (present — wrong tense)", "pił się (reflexive — wrong)"],
+          "correctIndex": 0,
+          "explanation": "'Każdego ranka' (every morning) + imperfective = habitual past. 'Pił kawę' = used to drink coffee (every morning). Perfective 'wypił' would mean he drank it once (to completion).",
+          "explanation_fa": "'Każdego ranka' (هر صبح) + ناکامل = گذشته عادتی. 'Pił kawę' = هر روز قهوه می‌نوشید. کامل 'wypił' یعنی یک‌بار نوشید (تا تمام شدن)."
+        },
+        {
+          "id": "b1-exam-q02",
+          "type": "multiple_choice",
+          "prompt": "Choose the correct form: 'Działał ___ rozsądkowi i poniósł klęskę.' (wbrew — against)",
+          "prompt_fa": "شکل درست را انتخاب کنید: 'Działał ___ rozsądkowi i poniósł klęskę.' (wbrew — علی‌رغم)",
+          "options": ["wbrew (+ dative: rozsądkowi)", "mimo (+ genitive: rozsądku)", "według (+ genitive: rozsądku)", "wzdłuż (+ genitive — means 'along', wrong here)"],
+          "correctIndex": 0,
+          "explanation": "'Wbrew + dative' = against. 'Rozsądkowi' = dative of 'rozsądek' (reason). 'Działał wbrew rozsądkowi' = He acted against reason. Wbrew is the only common B1 preposition with dative.",
+          "explanation_fa": "'Wbrew + دیتیو' = علی‌رغم. 'Rozsądkowi' = دیتیو 'rozsądek' (عقل). 'Działał wbrew rozsądkowi' = علی‌رغم عقل عمل کرد. wbrew تنها حرف اضافه رایج B1 با دیتیو است."
+        },
+        {
+          "id": "b1-exam-q03",
+          "type": "multiple_choice",
+          "prompt": "Choose the correct formal greeting for a male judge:",
+          "prompt_fa": "سلام رسمی درست برای یک قاضی مرد را انتخاب کنید:",
+          "options": ["Szanowny Panie Sędzio,", "Szanowny Pan Sędzia,", "Drogi Panie Sędzia,", "Szanownego Pana Sędzię,"],
+          "correctIndex": 0,
+          "explanation": "'Szanowny Panie Sędzio,' — vocative: Pan → Panie, Sędzia → Sędzio. Szanowny agrees with the masculine vocative.",
+          "explanation_fa": "'Szanowny Panie Sędzio,' — ندا: Pan → Panie، Sędzia → Sędzio. Szanowny با ندای مذکر هم‌خوانی دارد."
+        },
+        {
+          "id": "b1-exam-q04",
+          "type": "multiple_choice",
+          "prompt": "'Oboje dzieci bawiły się w ogrodzie.' — What is 'oboje' here?",
+          "prompt_fa": "'Oboje dzieci bawiły się w ogrodzie.' — 'oboje' اینجا چیست؟",
+          "options": [
+            "Collective numeral 'both' for mixed gender (oboje + genitive plural)",
+            "Distributive numeral (each one separately)",
+            "An adjective agreeing with 'dzieci'",
+            "An adverb modifying 'bawiły się'"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Oboje' = both (mixed/neuter/children). Collective numeral + genitive plural. 'Oboje dzieci' = both children. Verb: neuter plural 'bawiły się'.",
+          "explanation_fa": "'Oboje' = هر دو (مختلط/خنثی/بچه‌ها). عدد جمعی + مضاف‌الیه جمع. 'Oboje dzieci' = هر دو بچه. فعل: جمع خنثی 'bawiły się'."
+        },
+        {
+          "id": "b1-exam-q05",
+          "type": "multiple_choice",
+          "prompt": "Complete: 'Po ___ raportu, szef podjął decyzję.' (przeczytać, verbal noun locative)",
+          "prompt_fa": "کامل کنید: 'Po ___ raportu, szef podjął decyzję.' (przeczytać، مکانی اسم فعلی)",
+          "options": ["przeczytaniu (verbal noun: przeczytanie → przeczytaniu)", "przeczytaniu się (wrong reflexive)", "przeczytać (infinitive — wrong with 'po')", "przeczytanym (participle — wrong)"],
+          "correctIndex": 0,
+          "explanation": "'Po przeczytaniu raportu' = after reading the report. 'Po' + verbal noun (locative): przeczytać → przeczytanie → przeczytaniu.",
+          "explanation_fa": "'Po przeczytaniu raportu' = بعد از خواندن گزارش. 'Po' + اسم فعلی (مکانی): przeczytać → przeczytanie → przeczytaniu."
+        },
+        {
+          "id": "b1-exam-q06",
+          "type": "multiple_choice",
+          "prompt": "What does 'Ogłoszono wyniki egzaminu.' mean? What grammar feature?",
+          "prompt_fa": "'Ogłoszono wyniki egzaminu.' چه معنایی دارد؟ چه ویژگی دستوری؟",
+          "options": [
+            "The exam results were announced. (-no impersonal passive)",
+            "They will announce the results. (future)",
+            "The exam results are being announced. (present passive)",
+            "He/she announced the exam results. (active past)"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Ogłoszono' = impersonal -no passive of 'ogłosić'. 'The results were announced.' No subject — who announced it is not stated. Classic media/official language.",
+          "explanation_fa": "'Ogłoszono' = منفعل غیرشخصی -no از 'ogłosić'. 'نتایج اعلام شد.' بدون فاعل — چه کسی اعلام کرد ذکر نشده. زبان کلاسیک رسانه‌ای/رسمی."
+        },
+        {
+          "id": "b1-exam-q07",
+          "type": "multiple_choice",
+          "prompt": "Identify the narrative background (imperfective) among these:",
+          "prompt_fa": "پس‌زمینه روایی (ناکامل) را در میان اینها شناسایی کنید:",
+          "options": [
+            "Deszcz padał od rana. (ongoing — background)",
+            "Nagle rozległ się strzał. (sudden event)",
+            "Wstał i wyszedł. (sequence of events)",
+            "Zamknął drzwi. (completed action)"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Deszcz padał' (imperf) = background — rain had been falling (ongoing atmospheric description). All others are perfective events.",
+          "explanation_fa": "'Deszcz padał' (ناکامل) = پس‌زمینه — باران می‌بارید (توصیف جوی ادامه‌دار). همه دیگران رویدادهای کامل هستند."
+        },
+        {
+          "id": "b1-exam-q08",
+          "type": "multiple_choice",
+          "prompt": "Which clitic placement is CORRECT?",
+          "prompt_fa": "کدام قرارگیری کلیتیک درست است؟",
+          "options": [
+            "On mi powiedział. (mi = 2nd position, after subject ✓)",
+            "Mi on powiedział. (mi = sentence-initial ✗)",
+            "On powiedział mi. (mi = final position — marked/less natural)",
+            "Powiedział on mi. (inverted — stylistically unusual)"
+          ],
+          "correctIndex": 0,
+          "explanation": "'On mi powiedział.' — Clitic 'mi' in 2nd position (after subject 'on'). Rule: clitics (mi, go, jej, się, mu) go in 2nd position, never sentence-initial.",
+          "explanation_fa": "'On mi powiedział.' — کلیتیک 'mi' در جایگاه دوم (بعد از فاعل 'on'). قانون: کلیتیک‌ها (mi، go، jej، się، mu) در جایگاه دوم می‌روند، هرگز در ابتدای جمله."
+        },
+        {
+          "id": "b1-exam-q09",
+          "type": "multiple_choice",
+          "prompt": "What abstract noun is formed from 'gotowy' (ready)?",
+          "prompt_fa": "از 'gotowy' (آماده) چه اسم انتزاعی ساخته می‌شود؟",
+          "options": ["gotowość (readiness — -ość suffix, feminine)", "gotowota (wrong suffix)", "gotowanie (different — cooking, from gotować)", "gotownik (wrong — agent suffix)"],
+          "correctIndex": 0,
+          "explanation": "'Gotowość' = readiness, willingness. Gotowy (ready) + -ość = gotowość (f.). All -ość nouns are feminine.",
+          "explanation_fa": "'Gotowość' = آمادگی/تمایل. Gotowy (آماده) + -ość = gotowość (مؤنث). همه اسامی -ość مؤنث هستند."
+        },
+        {
+          "id": "b1-exam-q10",
+          "type": "multiple_choice",
+          "prompt": "Which sentence shows correct Polish word order with contrastive focus?",
+          "prompt_fa": "کدام جمله ترتیب کلمات درست لهستانی با تمرکز تضادی را نشان می‌دهد؟",
+          "options": [
+            "To Marek kupił kwiaty, nie Anna. (fronted subject = contrastive)",
+            "Marek kupił to kwiaty. (wrong position of 'to')",
+            "Kupił to Marek kwiaty. (unnatural order)",
+            "Kwiaty Marek to kupił. (awkward)"
+          ],
+          "correctIndex": 0,
+          "explanation": "'To Marek kupił kwiaty, nie Anna.' — 'To + fronted element' = contrastive focus: It was MAREK who bought the flowers (not Anna). Classic B1 word order pattern.",
+          "explanation_fa": "'To Marek kupił kwiaty, nie Anna.' — 'To + عنصر جلوآمده' = تمرکز تضادی: این مارک بود که گل‌ها را خرید (نه آنا). الگوی کلاسیک ترتیب کلمات B1."
+        }
+      ]
+    },
+    {
+      "id": "b1-exam-s2",
+      "title": "Section 2: Reading Comprehension (35%)",
+      "title_fa": "بخش ۲: درک مطلب خواندنی (۳۵٪)",
+      "weight": 0.35,
+      "readingText": "Warszawa, 15 maja. W środę rząd ogłosił nowy program wsparcia dla rodzin z dziećmi. Według ministra polityki społecznej, nowe świadczenia wejdą w życie od września. Miesięcznie każda rodzina otrzyma 500 złotych na każde dziecko do 18. roku życia. Opozycja twierdzi, że kwota jest niewystarczająca w obliczu rosnącej inflacji, jednak rząd broni swojej decyzji. Według sondaży, większość Polaków popiera nowy program. W związku z tym oczekuje się, że liczba wniosków będzie bardzo wysoka.",
+      "readingText_translation": "Warsaw, 15 May. On Wednesday the government announced a new support programme for families with children. According to the social policy minister, new benefits will come into force from September. Each family will receive 500 złoty per month for each child up to 18. The opposition claims the amount is insufficient in the face of rising inflation, however the government defends its decision. According to polls, most Poles support the new programme. In connection with this, it is expected that the number of applications will be very high.",
+      "questions": [
+        {
+          "id": "b1-exam-q11",
+          "type": "multiple_choice",
+          "prompt": "When will the new benefits start?",
+          "prompt_fa": "کمک‌های جدید از کی شروع می‌شوند؟",
+          "options": ["From September (od września)", "From January", "Immediately (from Wednesday)", "From next year"],
+          "correctIndex": 0,
+          "explanation": "The text states: 'nowe świadczenia wejdą w życie od września' = new benefits will come into force from September.",
+          "explanation_fa": "متن بیان می‌کند: 'nowe świadczenia wejdą w życie od września' = کمک‌های جدید از سپتامبر اجرایی می‌شوند."
+        },
+        {
+          "id": "b1-exam-q12",
+          "type": "multiple_choice",
+          "prompt": "What is the opposition's view of the new programme?",
+          "prompt_fa": "دیدگاه اپوزیسیون درباره برنامه جدید چیست؟",
+          "options": [
+            "It claims the amount is insufficient due to inflation",
+            "It fully supports the new programme",
+            "It says the programme should start sooner",
+            "It wants to cancel the programme"
+          ],
+          "correctIndex": 0,
+          "explanation": "Text: 'Opozycja twierdzi, że kwota jest niewystarczająca w obliczu rosnącej inflacji' = The opposition claims the amount is insufficient given rising inflation.",
+          "explanation_fa": "متن: 'Opozycja twierdzi، że kwota jest niewystarczająca w obliczu rosnącej inflacji' = اپوزیسیون ادعا می‌کند مبلغ با توجه به تورم رو به افزایش کافی نیست."
+        },
+        {
+          "id": "b1-exam-q13",
+          "type": "multiple_choice",
+          "prompt": "Which word signals a contrast in the text?",
+          "prompt_fa": "کدام کلمه تضاد را در متن نشان می‌دهد؟",
+          "options": ["jednak (however)", "według (according to)", "w związku z tym (in connection)", "że (that)"],
+          "correctIndex": 0,
+          "explanation": "'Jednak' = however — signals that despite the opposition's criticism, the government defends its decision. Classic contrast connector.",
+          "explanation_fa": "'Jednak' = اما/ولی — نشان می‌دهد که علی‌رغم انتقاد اپوزیسیون، دولت از تصمیم خود دفاع می‌کند. کانکتور تضاد کلاسیک."
+        }
+      ]
+    },
+    {
+      "id": "b1-exam-s3",
+      "title": "Section 3: Listening (20%)",
+      "title_fa": "بخش ۳: گوش دادن (۲۰٪)",
+      "weight": 0.20,
+      "questions": [
+        {
+          "id": "b1-exam-q14",
+          "type": "dictation_mc",
+          "audioAsset": "assets/audio/b1/exam/b1-exam-q14.mp3",
+          "prompt": "Which sentence did you hear? (Focus on aspect and preposition)",
+          "prompt_fa": "کدام جمله را شنیدید؟ (روی جنبه و حرف اضافه تمرکز کنید)",
+          "options": [
+            "Mimo że padał deszcz, poszedł na spacer.",
+            "Mimo deszcz, poszedł na spacer.",
+            "Mimo że padł deszcz, chodził na spacer.",
+            "Chociaż deszcz padał, szedł na spacer i wrócił."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Mimo że padał deszcz' (imperf — ongoing rain) + 'poszedł na spacer' (perf — single action). Correct 'mimo że' structure with full clause.",
+          "explanation_fa": "'Mimo że padał deszcz' (ناکامل — باران ادامه‌دار) + 'poszedł na spacer' (کامل — عمل منفرد). ساختار درست 'mimo że' با جمله کامل."
+        },
+        {
+          "id": "b1-exam-q15",
+          "type": "dictation_mc",
+          "audioAsset": "assets/audio/b1/exam/b1-exam-q15.mp3",
+          "prompt": "Which sentence did you hear? (Focus on Pan/Pani form)",
+          "prompt_fa": "کدام جمله را شنیدید؟ (روی شکل Pan/Pani تمرکز کنید)",
+          "options": [
+            "Czy Pan ma chwilę na rozmowę?",
+            "Czy masz chwilę na rozmowę?",
+            "Czy Pan masz chwilę na rozmowę?",
+            "Czy Panie ma chwilę na rozmowę?"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Czy Pan ma chwilę?' — Pan + 3rd person singular 'ma'. 'Masz' would be informal. 'Panie' is vocative, not the correct form here.",
+          "explanation_fa": "'Czy Pan ma chwilę?' — Pan + سوم شخص مفرد 'ma'. 'Masz' غیررسمی خواهد بود. 'Panie' ندا است، نه شکل درست اینجا."
+        },
+        {
+          "id": "b1-exam-q16",
+          "type": "dictation_mc",
+          "audioAsset": "assets/audio/b1/exam/b1-exam-q16.mp3",
+          "prompt": "Which headline did you hear?",
+          "prompt_fa": "کدام تیتر را شنیدید؟",
+          "options": [
+            "Wzrost cen energii o 12% w trzecim kwartale.",
+            "Spadek cen energii o 12% w trzecim kwartale.",
+            "Wzrost ceny energii o 12% w trzecim kwartale.",
+            "Wzrost cen energii w 12% trzecim kwartale."
+          ],
+          "correctIndex": 0,
+          "explanation": "'Wzrost cen energii o 12%' — 'cen' = genitive plural of 'cena' (prices); 'o 12%' = by 12% (percentage change construction).",
+          "explanation_fa": "'Wzrost cen energii o 12%' — 'cen' = مضاف‌الیه جمع 'cena' (قیمت‌ها)؛ 'o 12%' = به میزان ۱۲٪ (ساختار تغییر درصدی)."
+        }
+      ]
+    },
+    {
+      "id": "b1-exam-s4",
+      "title": "Section 4: Writing Task (10%)",
+      "title_fa": "بخش ۴: تکلیف نوشتاری (۱۰٪)",
+      "weight": 0.10,
+      "questions": [
+        {
+          "id": "b1-exam-q17",
+          "type": "multiple_choice",
+          "prompt": "You need to write a formal email requesting a meeting. Which opening is MOST appropriate?",
+          "prompt_fa": "باید یک ایمیل رسمی برای درخواست جلسه بنویسید. کدام شروع مناسب‌ترین است؟",
+          "options": [
+            "Szanowny Panie Dyrektorze, zwracam się z prośbą o spotkanie.",
+            "Hej, chciałem pogadać o spotkaniu.",
+            "Dzień dobry, masz czas na spotkanie?",
+            "Drogi Panie, chcę spotkania z Tobą."
+          ],
+          "correctIndex": 0,
+          "explanation": "Formal email: 'Szanowny Panie Dyrektorze' (vocative), 'zwracam się z prośbą o' (formal request structure). 'Hej' and 'chciałem pogadać' are informal.",
+          "explanation_fa": "ایمیل رسمی: 'Szanowny Panie Dyrektorze' (ندا)، 'zwracam się z prośbą o' (ساختار درخواست رسمی). 'Hej' و 'chciałem pogadać' غیررسمی هستند."
+        },
+        {
+          "id": "b1-exam-q18",
+          "type": "multiple_choice",
+          "prompt": "Which closing is MOST appropriate for a formal complaint letter?",
+          "prompt_fa": "کدام خاتمه برای نامه شکایت رسمی مناسب‌ترین است؟",
+          "options": [
+            "Z poważaniem, (Yours sincerely)",
+            "Cześć! (informal greeting)",
+            "Pa, pa! (bye bye — very informal)",
+            "Do widzenia, (goodbye — verbal, not written)"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Z poważaniem' = Yours sincerely — the standard formal written closing. 'Do widzenia' is spoken farewell, not used in formal letters.",
+          "explanation_fa": "'Z poważaniem' = با احترام — خاتمه استاندارد رسمی نوشتاری. 'Do widzenia' خداحافظی گفتاری است، در نامه‌های رسمی استفاده نمی‌شود."
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 18,
+  "xpReward": 100,
+  "estimatedMinutes": 60,
+  "tags": ["b1-exam", "pke", "grammar", "reading", "listening", "writing"],
+  "prerequisites": ["b1-ch20-l04"]
+}

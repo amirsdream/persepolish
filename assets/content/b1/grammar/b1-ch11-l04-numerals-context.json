@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch11-l04-numerals-context",
+  "chapter": 11,
+  "lessonOrder": 4,
+  "level": "b1",
+  "title": "Advanced Numerals in Real-World Context",
+  "title_fa": "اعداد پیشرفته در متن واقعی",
+  "grammarPoint": "Collective and distributive numerals in statistics, group descriptions, and real-world Polish texts",
+  "grammarPoint_fa": "اعداد جمعی و توزیعی در آمار، توصیف گروه‌ها و متون واقعی لهستانی",
+  "explanation": {
+    "text": "At B1 level, you encounter collective and distributive numerals in authentic contexts:\n\n**Statistics and reports:**\n- W wypadku zginęło **dwoje** ludzi. (Two people died in the accident.)\n- Na liście jest **pięcioro** kandydatów. (There are five candidates on the list.)\n- **Ośmioro** z nich zdało egzamin. (Eight of them passed the exam.)\n\n**Group descriptions:**\n- Przyszło **troje** znajomych. (Three acquaintances came — mixed gender.)\n- Mamy **czworo** wnucząt. (We have four grandchildren.)\n- **Siedmioro** rodzeństwa mieszka w Krakowie.\n\n**Ordinal-collective combinations:**\n- Zdobyli **pierwsze** miejsce jako **dwoje**. (They won first place as a pair.)\n- **Oboje** rodzice byli obecni. (Both parents were present.) — 'oboje' = both (m+f)\n\n**Formal/journalistic register:**\n- Dwoje nieletnich zostało zatrzymanych. (Two minors were detained.)\n- Dziesięcioro dzieci uczestniczyło w programie.\n\n**Oboje / obydwoje:**\n- **Oboje** = both (mixed gender or general)\n- Oboje rozmawiają po polsku. (Both of them speak Polish.)\n- Lubię ich oboje. (I like them both.)\n\n**Troje vs. trzech:**\n- **Trzech** panów (three men — all male, genitive)\n- **Trzy** panie (three women — all female)\n- **Troje** przyjaciół (three friends — mixed gender)",
+    "notes": [
+      "oboje = both (mixed gender); obydwoje = emphatic both; oba/obie = both same gender",
+      "In formal texts, collective numerals signal precision about mixed-gender groups",
+      "Pluralia tantum always need collective: troje skrzypiec, dwoje spodni",
+      "Statistics in newspapers use collective numerals for groups of people"
+    ]
+  },
+  "explanation_fa": "در سطح B1 با اعداد جمعی در متن‌های واقعی مواجه می‌شوید: آمار (W wypadku zginęło dwoje ludzi)، توصیف گروه‌ها (Przyszło troje znajomych)، روزنامه‌نگاری رسمی. 'oboje' = هر دو (مختلط جنسیتی): Oboje rozmawiają po polsku. تفاوت: trzech panów (مردان)، trzy panie (زنان)، troje przyjaciół (مختلط).",
+  "exercises": [
+    {
+      "id": "b1-ch11-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "A news article: 'W wypadku rannych zostało ___ osób.' (5 people, mixed gender) Choose correctly.",
+      "prompt_fa": "مقاله خبری: 'W wypadku rannych zostało ___ osób.' (۵ نفر، مختلط جنسیتی) به‌درستی انتخاب کنید.",
+      "options": [
+        "pięcioro",
+        "pięć",
+        "pięciu",
+        "pięć osób"
+      ],
+      "correctIndex": 0,
+      "explanation": "For a mixed-gender group of people in formal/journalistic context: 'pięcioro osób'. 'Pięć' is possible colloquially but 'pięcioro' is more precise for mixed groups.",
+      "explanation_fa": "برای گروه مختلط جنسیتی در متن رسمی/روزنامه‌ای: 'pięcioro osób'. 'Pięć' در گفتار عادی هم ممکن است اما 'pięcioro' برای گروه‌های مختلط دقیق‌تر است."
+    },
+    {
+      "id": "b1-ch11-l04-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Both my parents speak Polish. Use 'oboje':",
+      "context_fa": "هر دو والدینم لهستانی صحبت می‌کنند. از 'oboje' استفاده کنید:",
+      "sentence": "___ moi rodzice mówią po polsku.",
+      "prompt": "___ moi rodzice mówią po polsku.",
+      "prompt_fa": "___ moi rodzice mówią po polsku.",
+      "answer": "Oboje",
+      "acceptableAnswers": ["Oboje", "oboje"],
+      "hint": "oboje = both (mixed gender — mother + father)",
+      "explanation": "'Oboje moi rodzice' — both my parents (mixed gender: mama + tata). 'Oboje' is the collective form of 'both' for mixed pairs.",
+      "explanation_fa": "'Oboje moi rodzice' — هر دو والدینم (مختلط جنسیتی: مادر + پدر). 'Oboje' شکل جمعی 'هر دو' برای جفت‌های مختلط است."
+    },
+    {
+      "id": "b1-ch11-l04-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch11/b1-ch11-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Troje nieletnich zostało zatrzymanych przez policję.",
+        "Trzech nieletnich zostało zatrzymane przez policję.",
+        "Trzy nieletnie zostały zatrzymane przez policję.",
+        "Troje nieletnich zostały zatrzymane przez policję."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Troje nieletnich' — collective for mixed-gender group (minors). Passive verb 'zostało zatrzymanych' — genitive after collective numeral, neuter singular 'zostało'.",
+      "explanation_fa": "'Troje nieletnich' — جمعی برای گروه مختلط (صغار). فعل مجهول 'zostało zatrzymanych' — مضاف‌الیه بعد از عدد جمعی، مفرد خنثی 'zostało'."
+    },
+    {
+      "id": "b1-ch11-l04-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: Eight of them qualified for the finals.",
+      "prompt_fa": "بسازید: هشت نفر از آن‌ها به فینال راه یافتند.",
+      "wordBank": ["Ośmioro", "Ośmiu", "z", "nich", "zakwalifikowało", "zakwalifikowali", "się", "do", "finału"],
+      "correctSequences": [["Ośmioro", "z", "nich", "zakwalifikowało", "się", "do", "finału"]],
+      "explanation": "'Ośmioro z nich zakwalifikowało się do finału.' — Eight of them qualified. Collective numeral 'ośmioro' + 3rd sg neuter 'zakwalifikowało'.",
+      "explanation_fa": "'Ośmioro z nich zakwalifikowało się do finału.' — هشت نفر از آن‌ها راه یافتند. عدد جمعی 'ośmioro' + مفرد خنثی سوم شخص 'zakwalifikowało'."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["numerals", "collective", "oboje", "b1-core"],
+  "prerequisites": ["b1-ch11-l01", "b1-ch11-l02", "b1-ch11-l03"]
+}

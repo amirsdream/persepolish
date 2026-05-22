@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch18-l01-news-headlines",
+  "chapter": 18,
+  "lessonOrder": 1,
+  "level": "b1",
+  "title": "Polish News Headlines",
+  "title_fa": "تیترهای اخبار لهستانی",
+  "grammarPoint": "Ellipsis in headlines: dropped articles (Polish has none), reduced verbs, nominalization, subject-verb-object compression",
+  "grammarPoint_fa": "حذف در تیترها: حذف فعل، اسمی‌سازی، فشرده‌سازی فاعل-فعل-مفعول",
+  "explanation": {
+    "text": "**Polish news headlines use a compressed, elliptical style:**\n\nUnlike full sentences, headlines often:\n1. **Drop the verb 'być' (to be)**\n2. **Use nominalized forms** instead of verb clauses\n3. **Use present tense** for past events (historical present)\n4. **Omit subject pronouns** and articles (Polish has none anyway)\n\n**Headline patterns:**\n\n**1. Subject + [jest] + complement (no verb):**\n- 'Polska gospodarka [jest] silna.' → Headline: 'Polska gospodarka silna'\n- 'Ceny [są] wysokie.' → Headline: 'Ceny wysokie'\n\n**2. Nominalization (noun phrase instead of clause):**\n- Full: 'Rząd zdecydował, żeby obniżyć podatki.'\n- Headline: 'Obniżka podatków przez rząd' (Tax reduction by the government)\n- 'wzrost' (rise), 'spadek' (fall), 'zmiana' (change), 'decyzja' (decision)\n\n**3. Genitive chains:**\n- 'Decyzja ministra finansów w sprawie budżetu'\n- 'Wzrost cen energii o 15%'\n\n**4. Key headline vocabulary:**\n\n| Word | Meaning |\n|------|--------|\n| wzrost | rise, increase |\n| spadek | fall, decrease |\n| obniżka | reduction |\n| podwyżka | rise (wages/prices) |\n| umowa | agreement |\n| decyzja | decision |\n| wyniki | results |\n| rekord | record |\n| kryzys | crisis |\n| przełom | breakthrough |\n\n**Reading tip:** When you see a headline, mentally expand it:\n- 'Nowy rekord sprzedaży aut' → Osiągnięto nowy rekord sprzedaży samochodów. (A new car sales record has been achieved.)",
+    "notes": [
+      "Polish headlines drop 'być' but keep content verbs (wybuchł, ogłoszono, wzrosły)",
+      "Genitive chains are very common: 'decyzja ministra o podwyżce cen gazu'",
+      "Nominalization: verb → noun: obniżyć → obniżka, wzrosnąć → wzrost, spaść → spadek",
+      "Headlines use impersonal forms: 'ogłoszono' (it was announced), 'poinformowano' (it was informed)"
+    ]
+  },
+  "explanation_fa": "تیترهای اخبار لهستانی از سبک فشرده و حذفی استفاده می‌کنند: ۱) حذف فعل 'być': 'Polska gospodarka silna' (به جای 'jest silna') ۲) اسمی‌سازی: wzrost (افزایش)، spadek (کاهش)، obniżka، decyzja ۳) زنجیره‌های مضاف‌الیه: 'decyzja ministra w sprawie budżetu' ۴) زمان حال تاریخی برای رویدادهای گذشته. واژگان کلیدی تیتر: wzrost، spadek، umowa، wyniki، rekord، przełom. برای خواندن: تیتر را به جمله کامل گسترش دهید.",
+  "exercises": [
+    {
+      "id": "b1-ch18-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Headline: 'Wzrost cen energii o 15%.' What does 'wzrost' indicate?",
+      "prompt_fa": "تیتر: 'Wzrost cen energii o 15%.' 'wzrost' چه چیزی را نشان می‌دهد؟",
+      "options": [
+        "An increase/rise (nominalization from 'wzrosnąć' = to rise)",
+        "A decrease (from 'spaść' = to fall)",
+        "A decision (from 'zdecydować' = to decide)",
+        "A record (from 'rekord' = record)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wzrost' = rise/increase. From 'wzrosnąć' (to rise). Full version: 'Ceny energii wzrosły o 15%.' Headlines nominalize: verb → noun.",
+      "explanation_fa": "'Wzrost' = افزایش/رشد. از 'wzrosnąć' (افزایش یافتن). نسخه کامل: 'Ceny energii wzrosły o 15%.' تیترها اسمی می‌کنند: فعل → اسم."
+    },
+    {
+      "id": "b1-ch18-l01-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Expand the headline into a full sentence: 'Decyzja rządu o podwyżce płac' → 'Rząd ___ decyzję o podwyżce płac.' (podjąć, perf, past):",
+      "context_fa": "تیتر را به جمله کامل گسترش دهید: 'Decyzja rządu o podwyżce płac' → 'Rząd ___ decyzję o podwyżce płac.' (podjąć، کامل، گذشته):",
+      "sentence": "Rząd ___ decyzję o podwyżce płac.",
+      "prompt": "Rząd ___ decyzję o podwyżce płac.",
+      "prompt_fa": "Rząd ___ decyzję o podwyżce płac.",
+      "answer": "podjął",
+      "acceptableAnswers": ["podjął"],
+      "hint": "podjąć (perf) = to take, make (a decision); past masculine: podjął",
+      "explanation": "'Rząd podjął decyzję o podwyżce płac.' — The government made a decision on a pay rise. 'Podjąć decyzję' = to make a decision (set phrase).",
+      "explanation_fa": "'Rząd podjął decyzję o podwyżce płac.' — دولت تصمیمی درباره افزایش حقوق گرفت. 'Podjąć decyzję' = تصمیم گرفتن (عبارت ثابت)."
+    },
+    {
+      "id": "b1-ch18-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch18/b1-ch18-l01-ex03.mp3",
+      "prompt": "Which headline did you hear?",
+      "prompt_fa": "کدام تیتر را شنیدید؟",
+      "options": [
+        "Nowy rekord sprzedaży samochodów w Polsce.",
+        "Nowy wynik sprzedaży samochodów w Polsce.",
+        "Nowe rekordy sprzedaży samochodu w Polsce.",
+        "Nowy rekord kupna samochodów w Polsce."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nowy rekord sprzedaży samochodów w Polsce.' — A new car sales record in Poland. 'Rekord sprzedaży' = sales record; 'samochodów' = genitive plural.",
+      "explanation_fa": "'Nowy rekord sprzedaży samochodów w Polsce.' — رکورد جدید فروش خودرو در لهستان. 'Rekord sprzedaży' = رکورد فروش؛ 'samochodów' = مضاف‌الیه جمع."
+    },
+    {
+      "id": "b1-ch18-l01-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build the headline: 'Fall in unemployment rate' (as a noun phrase):",
+      "prompt_fa": "تیتر را بسازید: 'کاهش نرخ بیکاری' (به شکل عبارت اسمی):",
+      "wordBank": ["Spadek", "bezrobocia", "stopy", "Wzrost", "Obniżka", "stopa"],
+      "correctSequences": [["Spadek", "stopy", "bezrobocia"]],
+      "explanation": "'Spadek stopy bezrobocia' — Fall in the unemployment rate. 'Spadek' = fall; 'stopa bezrobocia' = unemployment rate (genitive chain).",
+      "explanation_fa": "'Spadek stopy bezrobocia' — کاهش نرخ بیکاری. 'Spadek' = افت/کاهش؛ 'stopa bezrobocia' = نرخ بیکاری (زنجیره مضاف‌الیه)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["media-language", "headlines", "nominalization", "b1-core"],
+  "prerequisites": ["b1-ch15-l04", "b1-ch17-l01"]
+}

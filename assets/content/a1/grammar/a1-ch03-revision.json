@@ -13,14 +13,11 @@
       "order": 1,
       "sourceLesson": "a1-ch03-l01",
       "prompt": "What gender is 'wolność' (freedom)?",
-      "options": [
-        "feminine",
-        "masculine",
-        "neuter",
-        "it has no gender"
-      ],
+      "prompt_fa": "جنسیت 'wolność' (آزادی) چیست؟",
+      "options": ["feminine", "masculine", "neuter", "it has no gender"],
       "correctIndex": 0,
-      "explanation": "Nouns ending in -ość are always feminine: wolność, radość, miłość."
+      "explanation": "Nouns ending in -ość are always feminine: wolność, radość, miłość — no exceptions.",
+      "explanation_fa": "اسم‌های ختم‌شونده به -ość همیشه مؤنث هستند: wolność، radość، miłość — بدون استثنا."
     },
     {
       "id": "a1-ch03-rev-q02",
@@ -28,14 +25,11 @@
       "order": 2,
       "sourceLesson": "a1-ch03-l02",
       "prompt": "Ona jest ___. (She is a doctor.)",
-      "options": [
-        "lekarką",
-        "lekarzem",
-        "lekarz",
-        "lekarka"
-      ],
+      "prompt_fa": "Ona jest ___. (او دکتر است.)",
+      "options": ["lekarką", "lekarzem", "lekarz", "lekarka"],
       "correctIndex": 0,
-      "explanation": "After 'jest', use the instrumental. Feminine: lekarka → lekarką."
+      "explanation": "After 'jest', use the instrumental. Female speaker → feminine: lekarka → instrumental lekarką.",
+      "explanation_fa": "بعد از 'jest'، از ابزاری استفاده کنید. گوینده مؤنث → مؤنث: lekarka → ابزاری lekarką."
     },
     {
       "id": "a1-ch03-rev-q03",
@@ -43,6 +37,7 @@
       "order": 3,
       "sourceLesson": "a1-ch03-l03",
       "prompt": "How do you negate 'Rozumiem cię.'?",
+      "prompt_fa": "چطور 'Rozumiem cię.' را منفی می‌کنید؟",
       "options": [
         "Nie rozumiem cię.",
         "Rozumiem nie cię.",
@@ -50,7 +45,8 @@
         "Rozumiem cię nie."
       ],
       "correctIndex": 0,
-      "explanation": "'Nie' goes directly before the verb: 'Nie rozumiem cię.' = I don't understand you."
+      "explanation": "'Nie' goes directly before the verb: 'Nie rozumiem cię.' = I don't understand you.",
+      "explanation_fa": "'Nie' مستقیماً قبل از فعل می‌آید: 'Nie rozumiem cię.' = تو را نمی‌فهمم."
     },
     {
       "id": "a1-ch03-rev-q04",
@@ -58,6 +54,7 @@
       "order": 4,
       "sourceLesson": "a1-ch03-l04",
       "prompt": "How do you ask 'Where are you from?' in Polish?",
+      "prompt_fa": "چطور 'اهل کجایی؟' را به لهستانی می‌گویید؟",
       "options": [
         "Skąd jesteś?",
         "Gdzie jesteś?",
@@ -65,7 +62,8 @@
         "Jak jesteś?"
       ],
       "correctIndex": 0,
-      "explanation": "'Skąd' = from where. 'Skąd jesteś?' = Where are you from? 'Gdzie' = where (location, not origin)."
+      "explanation": "'Skąd' = from where. 'Skąd jesteś?' = Where are you from? 'Gdzie' = where (location, not origin).",
+      "explanation_fa": "'Skąd' = از کجا. 'Skąd jesteś?' = اهل کجایی؟ 'Gdzie' = کجا (موقعیت، نه منشأ)."
     },
     {
       "id": "a1-ch03-rev-q05",
@@ -73,14 +71,11 @@
       "order": 5,
       "sourceVocab": "a1-ch03-vocab",
       "prompt": "What does 'pielęgniarka' mean?",
-      "options": [
-        "doctor",
-        "teacher",
-        "nurse (female)",
-        "pharmacist"
-      ],
+      "prompt_fa": "'pielęgniarka' چه معنایی دارد؟",
+      "options": ["doctor", "teacher", "nurse (female)", "pharmacist"],
       "correctIndex": 2,
-      "explanation": "'Pielęgniarka' = nurse (female). Male form: 'pielęgniarz'."
+      "explanation": "'Pielęgniarka' = nurse (female). Male form: 'pielęgniarz'. 'Lekarka' = female doctor.",
+      "explanation_fa": "'Pielęgniarka' = پرستار (مؤنث). شکل مذکر: 'pielęgniarz'. 'Lekarka' = دکتر زن."
     },
     {
       "id": "a1-ch03-rev-q06",
@@ -88,14 +83,11 @@
       "order": 6,
       "sourceVocab": "a1-ch03-vocab",
       "prompt": "What does 'zawód' mean?",
-      "options": [
-        "failure",
-        "profession / occupation",
-        "work",
-        "employee"
-      ],
+      "prompt_fa": "'zawód' چه معنایی دارد؟",
+      "options": ["failure", "profession / occupation", "work", "employee"],
       "correctIndex": 1,
-      "explanation": "'Zawód' = profession / occupation. (Note: the same word also means 'disappointment' in a different context.)"
+      "explanation": "'Zawód' = profession / occupation. 'Praca' = work/job. Note: zawód also means 'disappointment' in a different context.",
+      "explanation_fa": "'Zawód' = شغل / حرفه. 'Praca' = کار/شغل. توجه: zawód در زمینه دیگری به معنای 'ناامیدی' هم هست."
     },
     {
       "id": "a1-ch03-rev-q07",
@@ -103,14 +95,11 @@
       "order": 7,
       "sourceLesson": "a1-ch03-l02",
       "prompt": "On jest ___. (He is a teacher.)",
-      "options": [
-        "nauczycielem",
-        "nauczycielką",
-        "nauczyciel",
-        "nauczyciela"
-      ],
+      "prompt_fa": "On jest ___. (او معلم است.)",
+      "options": ["nauczycielem", "nauczycielką", "nauczyciel", "nauczyciela"],
       "correctIndex": 0,
-      "explanation": "After 'jest', use the instrumental. Masculine: nauczyciel → nauczycielem."
+      "explanation": "After 'jest', use the instrumental. Masculine: nauczyciel → instrumental nauczycielem.",
+      "explanation_fa": "بعد از 'jest'، از ابزاری استفاده کنید. مذکر: nauczyciel → ابزاری nauczycielem."
     },
     {
       "id": "a1-ch03-rev-q08",
@@ -118,6 +107,7 @@
       "order": 8,
       "sourceLesson": "a1-ch03-l04",
       "prompt": "Which sentence is a correct yes/no question?",
+      "prompt_fa": "کدام جمله یک سؤال بله/خیر درست است؟",
       "options": [
         "Czy masz psa?",
         "Masz czy psa?",
@@ -125,7 +115,8 @@
         "Masz psa czy?"
       ],
       "correctIndex": 0,
-      "explanation": "'Czy' starts the yes/no question: 'Czy masz psa?' = Do you have a dog?"
+      "explanation": "'Czy' starts the yes/no question: 'Czy masz psa?' = Do you have a dog? Czy always goes first.",
+      "explanation_fa": "'Czy' سؤال بله/خیر را شروع می‌کند: 'Czy masz psa?' = سگ داری؟ Czy همیشه اول می‌آید."
     },
     {
       "id": "a1-ch03-rev-q09",
@@ -133,14 +124,11 @@
       "order": 9,
       "sourceVocab": "a1-ch03-vocab",
       "prompt": "What does 'programista' mean?",
-      "options": [
-        "programmer (male)",
-        "scientist",
-        "engineer",
-        "designer"
-      ],
+      "prompt_fa": "'programista' چه معنایی دارد؟",
+      "options": ["programmer (male)", "scientist", "engineer", "designer"],
       "correctIndex": 0,
-      "explanation": "'Programista' = programmer (male). Female: 'programistka'."
+      "explanation": "'Programista' = programmer (male). Female: 'programistka'. 'Inżynier' = engineer.",
+      "explanation_fa": "'Programista' = برنامه‌نویس (مذکر). مؤنث: 'programistka'. 'Inżynier' = مهندس."
     },
     {
       "id": "a1-ch03-rev-q10",
@@ -148,14 +136,11 @@
       "order": 10,
       "sourceLesson": "a1-ch03-l01",
       "prompt": "Which noun is masculine despite ending in -a?",
-      "options": [
-        "mężczyzna",
-        "kobieta",
-        "mama",
-        "córka"
-      ],
+      "prompt_fa": "کدام اسم با وجود پسوند -a مذکر است؟",
+      "options": ["mężczyzna", "kobieta", "mama", "córka"],
       "correctIndex": 0,
-      "explanation": "'Mężczyzna' (man) ends in -a but is grammatically masculine because it refers to a male person."
+      "explanation": "'Mężczyzna' (man) ends in -a but is grammatically masculine because it refers to a male person. The semantic rule overrides the ending.",
+      "explanation_fa": "'Mężczyzna' (مرد) به -a ختم می‌شود اما از نظر دستوری مذکر است، چون به یک شخص مذکر اشاره دارد. قانون معنایی بر پسوند غلبه می‌کند."
     },
     {
       "id": "a1-ch03-rev-q11",
@@ -163,14 +148,11 @@
       "order": 11,
       "sourceLesson": "a1-ch03-l03",
       "prompt": "Complete: ___ mam samochodu. (I don't have a car.)",
-      "options": [
-        "Nie",
-        "Czy",
-        "Tak",
-        "Co"
-      ],
+      "prompt_fa": "کامل کنید: ___ mam samochodu. (ماشین ندارم.)",
+      "options": ["Nie", "Czy", "Tak", "Co"],
       "correctIndex": 0,
-      "explanation": "'Nie mam samochodu' = I don't have a car. 'Nie' negates the verb. 'Samochodu' is genitive after negation."
+      "explanation": "'Nie mam samochodu' = I don't have a car. 'Nie' negates the verb mam. 'Samochodu' is genitive after negation.",
+      "explanation_fa": "'Nie mam samochodu' = ماشین ندارم. 'Nie' فعل mam را منفی می‌کند. 'Samochodu' مضاف‌الیهی پس از منفی است."
     },
     {
       "id": "a1-ch03-rev-q12",
@@ -178,14 +160,11 @@
       "order": 12,
       "sourceVocab": "a1-ch03-vocab",
       "prompt": "What does 'strażak' mean?",
-      "options": [
-        "soldier",
-        "firefighter",
-        "police officer",
-        "guard"
-      ],
+      "prompt_fa": "'strażak' چه معنایی دارد؟",
+      "options": ["soldier", "firefighter", "police officer", "guard"],
       "correctIndex": 1,
-      "explanation": "'Strażak' = firefighter. 'Policjant' = police officer. 'Żołnierz' = soldier."
+      "explanation": "'Strażak' = firefighter. 'Policjant' = police officer. 'Żołnierz' = soldier. 'Strażnik' = guard.",
+      "explanation_fa": "'Strażak' = آتش‌نشان. 'Policjant' = پلیس. 'Żołnierz' = سرباز. 'Strażnik' = نگهبان."
     }
   ]
 }

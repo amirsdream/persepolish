@@ -8,21 +8,22 @@
   "grammarPoint": "Genitive singular case: expressing possession and absence",
   "grammarPoint_fa": "حالت مضاف‌الیهی مفرد: -a/-u (مذکر/خنثی)، -y/-i (مؤنث)",
   "explanation": {
-    "text": "The **genitive case** (dopełniacz) is the most frequently used case after the nominative. It expresses possession ('s), absence (nie ma), and follows many prepositions (do, z, bez, od, dla).\n\n**Genitive singular endings:**\n\n| Gender | Nominative | Genitive | Example |\n|--------|-----------|----------|----------|\n| Masculine animate | -consonant | **-a** | brat → brata |\n| Masculine inanimate | -consonant | **-a / -u** | dom → domu |\n| Feminine -a | -a | **-y / -i** | siostra → siostry |\n| Feminine soft | -ia/-ja | **-i** | pani → pani |\n| Neuter -o | -o | **-a** | okno → okna |\n\n**Key uses:**\n- Possession: *To jest dom **mojego brata*** = This is my brother's house.\n- Absence: ***Nie ma** mamy w domu* = Mum is not at home.",
+    "text": "## Genitive Singular — Possession\n\nThe **genitive case** (*dopełniacz*) is the second most important case in Polish after the nominative. You will encounter it every day in conversation. It is used in four key situations.\n\n### The four main uses of the genitive\n\n| Use | Structure | Example |\n|-----|-----------|----------|\n| **Possession** | noun + genitive noun | dom **brata** = brother's house |\n| **Absence** | nie ma + genitive | **Nie ma** taty = Dad isn't here |\n| **After prepositions** | do/z/bez/od/dla + genitive | jadę **do Warszawy** = I'm going to Warsaw |\n| **After negation** | nie + verb + genitive | Nie mam **czasu** = I don't have time |\n\n### Genitive singular endings\n\n| Gender | Nominative | Genitive ending | Genitive | Notes |\n|--------|-----------|-----------------|---------|-------|\n| Masculine animate | brat, kot, tata | **-a** | brata, kota, taty | includes males ending in -a |\n| Masculine inanimate | dom, stół, samochód | **-u** (most) | domu, stołu, samochodu | some take -a: ser, sklep |\n| Feminine -a | mama, siostra, kobieta | **-y** | mamy, siostry, kobiety | after hard consonant |\n| Feminine -a (after k/g) | córka, kolega | **-i** | córki, kolegi | k/g → soft before -i |\n| Feminine -ia | pani, Zosia | **-i** | pani, Zosi | already soft |\n| Neuter -o | okno, miasto, słowo | **-a** | okna, miasta, słowa | same ending as nom. plural! |\n| Neuter -e | morze, pole | **-a** | morza, pola | |\n\n> ⚠️ Masculine animate nouns **always** take -a. When in doubt, if it is a living male thing, use -a.\n\n### Use 1 — Possession ('s)\n\nPolish has no apostrophe-s. Instead, the possessed noun goes in the genitive **after** the thing possessed:\n\n| Polish | English |\n|--------|---------|\n| *dom **brata*** | brother's house |\n| *samochód **taty*** | dad's car |\n| *mieszkanie **siostry*** | sister's flat |\n| *książka **nauczyciela*** | the teacher's book |\n\n> 💡 Word order: **dom brata** (house of-brother) — English reverses this order with 's.\n\n### Use 2 — Nie ma (absence, non-existence)\n\n**Nie ma** + genitive is one of the most useful phrases in Polish:\n\n| Polish | English |\n|--------|---------|\n| *Nie ma **mamy** w domu.* | Mum isn't at home. |\n| *Nie ma **ojca**.* | Dad isn't here. |\n| *Nie ma **czasu**.* | There's no time. |\n| *Nie ma **problemu**.* | No problem. |\n| *Nie ma **mleka** w lodówce.* | There's no milk in the fridge. |\n\n> 🔑 **Nie ma** is formed from *nie* + *ma* (3rd person of *mieć*) but it means 'there is no' or '[person] isn't here'.\n\n### Use 3 — Prepositions that always take genitive\n\nThese prepositions **always** require the genitive:\n\n| Preposition | Meaning | Example |\n|-------------|---------|----------|\n| **do** | to, into, until | Jadę **do Warszawy**. |\n| **z** | from, out of | Jestem **z Polski**. |\n| **bez** | without | Kawa **bez cukru**. |\n| **od** | from (a person/time) | List **od mamy**. |\n| **dla** | for | Prezent **dla taty**. |\n| **u** | at someone's place | Jestem **u siostry**. |\n| **koło** | near, next to | Mieszkam **koło dworca**. |\n\n### Use 4 — After negation\n\nWhen you negate any verb (not just *mieć*), the direct object shifts to genitive:\n\n| Affirmative (accusative) | Negative (genitive) |\n|--------------------------|---------------------|\n| *Mam **czas**.* | *Nie mam **czasu**.* |\n| *Mam **brata**.* | *Nie mam **brata**.* |\n| *Widzę **kota**.* | *Nie widzę **kota**.* |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Nie ma tata.* | *Nie ma **taty**.* | nie ma requires genitive |\n| *Jadę do Warszawa.* | *Jadę do **Warszawy**.* | do requires genitive |\n| *dom brat* | *dom **brata**.* | possession requires genitive |\n| *Nie mam czas.* | *Nie mam **czasu**.* | negation requires genitive |",
     "notes": [
-      "nie ma + genitive = there is no / [person] is not here",
-      "Masculine animate nouns always take -a in genitive (brat → brata, kot → kota).",
-      "Feminine nouns in -a take -y (after hard consonants) or -i (after k, g, soft consonants).",
-      "After do (to/of), z (from/with), bez (without), dla (for) — always use genitive."
+      "nie ma + genitive = there is no / [person] is not here — memorise this construction now",
+      "Masculine animate nouns always take -a in genitive (brat → brata, ojciec → ojca)",
+      "Feminine -a nouns take -y after hard consonants, -i after k/g (siostra → siostry, córka → córki)",
+      "do / z / bez / od / dla / u always require genitive — no exceptions"
     ]
   },
-  "explanation_fa": "حالت مضاف‌الیهی (dopełniacz) برای بیان مالکیت، نبود و منفی کردن استفاده می‌شود. پسوندهای مفرد: مذکر/خنثی اغلب -a می‌گیرند (brat → brata)، مؤنث -y/-i می‌گیرند (siostra → siostry). پس از nie فعل مستقیم به حالت مضاف‌الیهی می‌رود.",
+  "explanation_fa": "## حالت مضاف‌الیهی مفرد — مالکیت\n\n**حالت مضاف‌الیهی** (*dopełniacz*) دومین حالت مهم لهستانی پس از فاعلی است. هر روز در مکالمه با آن روبرو می‌شوید. در چهار موقعیت اصلی به کار می‌رود.\n\n### چهار کاربرد اصلی مضاف‌الیهی\n\n| کاربرد | ساختار | مثال |\n|--------|--------|------|\n| **مالکیت** | اسم + اسم مضاف‌الیهی | dom **brata** = خانه برادر |\n| **نبود** | nie ma + مضاف‌الیهی | **Nie ma** taty = بابا اینجا نیست |\n| **بعد از حروف اضافه** | do/z/bez/od/dla + مضاف‌الیهی | jadę **do Warszawy** = دارم به ورشو می‌رم |\n| **بعد از منفی** | nie + فعل + مضاف‌الیهی | Nie mam **czasu** = وقت ندارم |\n\n### پسوندهای مضاف‌الیهی مفرد\n\n| جنسیت | فاعلی | پسوند مضاف‌الیهی | مضاف‌الیهی | توضیح |\n|--------|-------|-----------------|-----------|-------|\n| مذکر جاندار | brat, kot, tata | **-a** | brata, kota, taty | شامل مذکرهای ختم‌شونده به -a |\n| مذکر غیرجاندار | dom, stół, samochód | **-u** (اکثر) | domu, stołu, samochodu | برخی -a می‌گیرند |\n| مؤنث -a | mama, siostra, kobieta | **-y** | mamy, siostry, kobiety | بعد از مصوت سخت |\n| مؤنث -a (بعد از k/g) | córka, kolega | **-i** | córki, kolegi | |\n| خنثی -o | okno, miasto, słowo | **-a** | okna, miasta, słowa | مثل جمع فاعلی! |\n\n> ⚠️ اسم‌های مذکر جاندار **همیشه** -a می‌گیرند. وقتی شک دارید، اگر موجود زنده مذکر است، -a استفاده کنید.\n\n### کاربرد ۱ — مالکیت\n\nلهستانی آپاستروف ندارد. به جایش اسم مالک در مضاف‌الیهی **بعد** از چیزی که دارند می‌آید:\n\n| لهستانی | فارسی |\n|---------|-------|\n| *dom **brata*** | خانه برادر |\n| *samochód **taty*** | ماشین بابا |\n| *mieszkanie **siostry*** | آپارتمان خواهر |\n| *książka **nauczyciela*** | کتاب معلم |\n\n> 💡 ترتیب کلمات: **dom brata** (خانه از-برادر) — فارسی همین ترتیب را دارد: خانه برادر.\n\n### کاربرد ۲ — Nie ma (نبود)\n\n**Nie ma** + مضاف‌الیهی یکی از مفیدترین عبارات لهستانی است:\n\n| لهستانی | فارسی |\n|---------|-------|\n| *Nie ma **mamy** w domu.* | مامان خانه نیست. |\n| *Nie ma **ojca**.* | بابا اینجا نیست. |\n| *Nie ma **czasu**.* | وقت نیست. |\n| *Nie ma **problemu**.* | مشکلی نیست. |\n| *Nie ma **mleka** w lodówce.* | شیر توی یخچال نیست. |\n\n### کاربرد ۳ — حروف اضافه‌ای که همیشه مضاف‌الیهی می‌طلبند\n\n| حرف اضافه | معنی | مثال |\n|-----------|------|------|\n| **do** | به، تا | Jadę **do Warszawy**. |\n| **z** | از | Jestem **z Polski**. |\n| **bez** | بدون | Kawa **bez cukru**. |\n| **od** | از (شخص/زمان) | List **od mamy**. |\n| **dla** | برای | Prezent **dla taty**. |\n| **u** | پیش کسی | Jestem **u siostry**. |\n\n### کاربرد ۴ — بعد از منفی\n\nوقتی هر فعلی منفی می‌شود، مفعول مستقیم به مضاف‌الیهی تغییر می‌کند:\n\n| مثبت (مفعولی) | منفی (مضاف‌الیهی) |\n|---------------|------------------|\n| *Mam **czas**.* | *Nie mam **czasu**.* |\n| *Mam **brata**.* | *Nie mam **brata**.* |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Nie ma tata.* | *Nie ma **taty**.* | nie ma مضاف‌الیهی می‌طلبد |\n| *Jadę do Warszawa.* | *Jadę do **Warszawy**.* | do مضاف‌الیهی می‌طلبد |\n| *dom brat* | *dom **brata**.* | مالکیت مضاف‌الیهی می‌طلبد |\n| *Nie mam czas.* | *Nie mam **czasu**.* | منفی مضاف‌الیهی می‌طلبد |",
   "exercises": [
     {
       "id": "a1-ch02-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Choose the correct form: To jest dom ___ (my brother's).",
+      "prompt": "You are pointing at a house. It belongs to your brother. Complete: To jest dom ___.",
+      "prompt_fa": "دارید به یک خانه اشاره می‌کنید. متعلق به برادرتان است. کامل کنید: To jest dom ___.",
       "options": [
         "mojego brata",
         "mój brat",
@@ -30,24 +31,35 @@
         "mój bracie"
       ],
       "correctIndex": 0,
-      "explanation": "Possession uses genitive: 'mojego brata' (genitive of 'mój brat'). 'To jest dom mojego brata' = This is my brother's house."
+      "explanation": "To show possession, put the owner in the genitive: brat → brata (masculine animate -a ending), mój → mojego. Polish says 'house of-my-brother', the reverse of the English apostrophe-s.",
+      "explanation_fa": "برای نشان دادن مالکیت، صاحب را در حالت مضاف‌الیهی بگذارید: brat → brata (مذکر جاندار، پسوند -a)، mój → mojego. لهستانی می‌گوید 'خانه از-برادرم'."
     },
     {
       "id": "a1-ch02-l04-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Nie ma ___ w domu. (Mum is not at home.) [mama → ?]",
       "answer": "mamy",
       "acceptableAnswers": [
         "mamy"
       ],
-      "hint": "Feminine noun mama → genitive singular"
+      "hint": "Feminine noun mama → genitive singular (mama ends in -a → -y)",
+      "explanation": "'Nie ma' (is not here / there is no) always takes the genitive. Mama is feminine and ends in -a, so the genitive is -y: mama → mamy.",
+      "explanation_fa": "'Nie ma' (اینجا نیست / وجود ندارد) همیشه مضاف‌الیهی می‌طلبد. mama مؤنث است و به -a ختم می‌شود، پس مضاف‌الیهی -y می‌گیرد: mama → mamy.",
+      "context": "You come home and your mum is not there. Complete:",
+      "context_fa": "به خانه می‌روید و مادرتان آنجا نیست. کامل کنید:",
+      "sentence": "Nie ma ___ w domu.",
+      "translation": "[mama → genitive: mamy]",
+      "translation_fa": "[mama → مضاف‌الیهی: mamy]",
+      "prompt": "Nie ma ___ w domu.",
+      "prompt_fa": "Nie ma ___ w domu."
     },
     {
       "id": "a1-ch02-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch02/a1-ch02-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "To jest samochód taty.",
         "To jest samochód tatę.",
@@ -55,20 +67,22 @@
         "To jest samochód tato."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'To jest samochód taty.' — This is dad's car. 'Taty' is the genitive of 'tata' (masculine noun ending in -a)."
+      "explanation": "You heard: 'To jest samochód taty.' — This is dad's car. 'Tata' is a masculine noun ending in -a, and its genitive is -y: tata → taty.",
+      "explanation_fa": "شنیدید: 'To jest samochód taty.' — این ماشین باباست. 'Tata' یک اسم مذکر ختم‌شونده به -a است و مضاف‌الیهی‌اش -y می‌گیرد: tata → taty."
     },
     {
       "id": "a1-ch02-l04-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: This is my sister's book. [siostra → siostry, książka]",
+      "prompt": "Arrange: This is my sister's book. [siostra → siostry, książka]",
+      "prompt_fa": "کلمات را به ترتیب بزنید: این کتاب خواهر من است. [siostra → siostry، książka]",
       "wordBank": [
         "To",
         "jest",
+        "siostra",
         "książka",
         "mojej",
-        "siostry",
-        "siostra"
+        "siostry"
       ],
       "correctSequences": [
         [
@@ -79,13 +93,15 @@
           "siostry"
         ]
       ],
-      "explanation": "'To jest książka mojej siostry' = This is my sister's book. 'Siostry' = genitive of 'siostra' (feminine -a → -y)."
+      "explanation": "'To jest książka mojej siostry' = This is my sister's book. The owner (siostra) goes in the genitive: siostry. The possessive moja also shifts to its genitive form: mojej.",
+      "explanation_fa": "'To jest książka mojej siostry' = این کتاب خواهر من است. صاحب (siostra) به مضاف‌الیهی می‌رود: siostry. ضمیر ملکی moja هم به شکل مضاف‌الیهی می‌رود: mojej."
     },
     {
       "id": "a1-ch02-l04-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Jadę do ___ (to Warsaw). [Warszawa → ?]",
+      "prompt": "You are buying a train ticket to Warsaw. Complete: Jadę do ___. [Warszawa → ?]",
+      "prompt_fa": "دارید بلیط قطار به ورشو می‌خرید. کامل کنید: Jadę do ___. [Warszawa → ?]",
       "options": [
         "Warszawy",
         "Warszawa",
@@ -93,7 +109,97 @@
         "Warszawie"
       ],
       "correctIndex": 0,
-      "explanation": "After 'do' (to/of a place) use the genitive: Warszawa (feminine, -a) → Warszawy. 'Jadę do Warszawy' = I'm going to Warsaw."
+      "explanation": "The preposition 'do' (to / into a place) always takes the genitive. Warszawa is feminine and ends in -a, so the genitive is -y: Warszawa → Warszawy.",
+      "explanation_fa": "حرف اضافه 'do' (به / به سمت مکانی) همیشه مضاف‌الیهی می‌طلبد. Warszawa مؤنث است و به -a ختم می‌شود، پس مضاف‌الیهی -y می‌گیرد: Warszawa → Warszawy."
+    },
+    {
+      "id": "a1-ch02-l04-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Tomek can't find his key. Complete: Nie ma ___. (There is no key.) [klucz = masculine]",
+      "prompt_fa": "تامک کلیدش را پیدا نمی‌کند. کامل کنید: Nie ma ___. (کلیدی نیست.) [klucz = مذکر]",
+      "options": [
+        "klucza",
+        "klucz",
+        "kluczem",
+        "kluczu"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nie ma + genitive': klucz (m animate-like) → klucza. 'Nie ma klucza' = There is no key. Masculine genitive sg. of animate nouns = -a.",
+      "explanation_fa": "'Nie ma + مضاف‌الیهی': klucz (م) → klucza. 'Nie ma klucza' = کلیدی نیست. مضاف‌الیهی مفرد مذکر اسم‌های جاندار = -a."
+    },
+    {
+      "id": "a1-ch02-l04-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "Kasi",
+      "acceptableAnswers": [
+        "Kasi"
+      ],
+      "hint": "Female name ending in -a: genitive = -i (Kasia → Kasi)",
+      "explanation": "Kasia → Kasi (genitive of feminine -ia nouns drops -a, adds -i). 'Książka Kasi' = Kasia's book.",
+      "explanation_fa": "Kasia → Kasi (مضاف‌الیهی اسم‌های مؤنث -ia، -a را حذف می‌کند و -i اضافه می‌کند). 'Książka Kasi' = کتاب کاسیا.",
+      "context": "Ania says:",
+      "context_fa": "آنیا می‌گوید:",
+      "sentence": "'Kasia's book' = książka ___.",
+      "translation": "[Kasia → genitive]",
+      "translation_fa": "[Kasia → مضاف‌الیهی]",
+      "prompt": "'Kasia's book' = książka ___.",
+      "prompt_fa": "'Kasia's book' = książka ___."
+    },
+    {
+      "id": "a1-ch02-l04-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Marek sees an empty shelf. 'Nie ma wody' means...",
+      "prompt_fa": "مارک یک قفسه خالی می‌بیند. 'Nie ma wody' یعنی...",
+      "options": [
+        "There is no water",
+        "There is water",
+        "He has no water",
+        "No water please"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nie ma' = there is no / there are no. It always takes the genitive. 'Wody' = genitive of 'woda' (water, feminine).",
+      "explanation_fa": "'Nie ma' = وجود ندارد. همیشه مضاف‌الیهی می‌گیرد. 'Wody' = مضاف‌الیهی 'woda' (آب، مؤنث)."
+    },
+    {
+      "id": "a1-ch02-l04-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Kasia is going to school. Arrange the words.",
+      "prompt_fa": "کاسیا دارد به مدرسه می‌رود. کلمات را به ترتیب بزنید.",
+      "wordBank": [
+        "Idę",
+        "do szkoły",
+        "do szkołę",
+        "szkoła"
+      ],
+      "correctSequences": [
+        [
+          "Idę",
+          "do szkoły"
+        ]
+      ],
+      "explanation": "'Idę do szkoły' = I am going to school. 'Do + genitive': szkoła (f) → szkoły. Never 'do szkołę' (accusative is wrong here).",
+      "explanation_fa": "'Idę do szkoły' = دارم به مدرسه می‌روم. 'Do + مضاف‌الیهی': szkoła (م) → szkoły. هرگز 'do szkołę' نمی‌شود (مفعولی اینجا اشتباه است)."
+    },
+    {
+      "id": "a1-ch02-l04-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch02/a1-ch02-l04-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Nie ma mleka w lodówce.",
+        "Nie ma mleko w lodówce.",
+        "Nie jest mleka w lodówce.",
+        "Nie ma mleku w lodówce."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Nie ma mleka w lodówce.' — There is no milk in the fridge. 'Mleka' = genitive of mleko (n). 'W lodówce' = in the fridge (locative).",
+      "explanation_fa": "شنیدید: 'Nie ma mleka w lodówce.' — در یخچال شیر نیست. 'Mleka' = مضاف‌الیهی mleko (خنثی). 'W lodówce' = در یخچال (مکانی)."
     }
   ],
   "xpReward": 20,

@@ -1,0 +1,88 @@
+{
+  "id": "b2-ch01-l01-aspect-complex-tenses",
+  "chapter": 1,
+  "lessonOrder": 1,
+  "level": "b2",
+  "title": "Aspect in Complex Tenses",
+  "title_fa": "جنبه در زمان‌های پیچیده",
+  "grammarPoint": "Aspect with future perfect, pluperfect, and conditional: będę był przeczytał vs. będę czytał; był przeczytał (pluperfect)",
+  "grammarPoint_fa": "جنبه با آینده کامل، ماضی بعید و شرطی: będę był przeczytał در مقابل będę czytał؛ był przeczytał (ماضی بعید)",
+  "explanation": {
+    "text": "**At B2, aspect operates across ALL tense-mood combinations:**\n\n**1. Future — two aspects:**\n- Imperf future: będę czytał (I will be reading — ongoing)\n- Perf future: przeczytam (I will read/finish reading — completed)\n\n**2. Compound future (będę + infinitive):**\n- Będę czytał = I will be reading (ongoing process)\n- Będę gotował = I will be cooking\n- Only imperfective verbs form this compound future!\n- Perfective verbs: single word future (przeczytam, ugotuje)\n\n**3. Pluperfect (czas zaprzeszły) — rare but literary:**\nFormed with: był/była/było + past participle\n- Był przeczytał książkę, zanim ona wróciła. (He had read the book before she returned.)\n- Była napisała list, gdy... (She had written the letter when...)\n- Usage: increasingly rare in modern Polish; more common in 19th-century literature\n- Modern replacement: simple past + zanim/już (by the time/already)\n\n**4. Conditional + aspect:**\n- Czytałbym / czytałabym (I would read — imperf = process/habit)\n- Przeczytałbym / Przeczytałabym (I would read/finish — perf = completion)\n- Byłbym przeczytał (I would have read — counterfactual past)\n\n**5. Future perfect (futurum exactum):**\n- Kiedy wrócisz, przeczytam już tę książkę. (By the time you return, I will have read this book.)\n- Perfective future used for 'will have done' — no special construction needed!\n\n**The aspect rule holds everywhere:** perf = completion/event; imperf = process/state/habit",
+    "notes": [
+      "Only imperfective verbs have compound future (będę czytał); perfective use simple form (przeczytam)",
+      "Pluperfect (był przeczytał) is archaic/literary — modern Polish uses just past tense with context",
+      "Conditional: czytałbym = would read (process); przeczytałbym = would read (to completion)",
+      "Future perfect: just use perfective future 'przeczytam' — 'will have read' context is clear"
+    ]
+  },
+  "explanation_fa": "در B2، جنبه در همه ترکیب‌های زمان-حالت عمل می‌کند: ۱) آینده: będę czytał (ناکامل = در حال خواندن خواهم بود) در مقابل przeczytam (کامل = خواهم خواند/تمام خواهم کرد). ۲) آینده مرکب (będę + مصدر): فقط افعال ناکامل! ۳) ماضی بعید (نادر، ادبی): był przeczytał = خوانده بود. ۴) شرطی + جنبه: czytałbym (خواندن در حال) در مقابل przeczytałbym (خواندن تا پایان). قانون جنبه در همه جا: کامل = تکمیل/رویداد؛ ناکامل = فرآیند/حالت/عادت.",
+  "exercises": [
+    {
+      "id": "b2-ch01-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Which form shows ONGOING future action (I will be reading)?",
+      "prompt_fa": "کدام شکل عمل آینده ادامه‌دار را نشان می‌دهد (در حال خواندن خواهم بود)؟",
+      "options": [
+        "Będę czytał (imperfective compound future = ongoing)",
+        "Przeczytam (perfective simple future = completion)",
+        "Czytałem (imperfective past = was reading)",
+        "Przeczytałem (perfective past = read/finished)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Będę czytał' = I will be reading (ongoing process). 'Przeczytam' = I will read (to completion). Only imperfective verbs form the compound future 'będę + past participle'.",
+      "explanation_fa": "'Będę czytał' = در حال خواندن خواهم بود (فرآیند ادامه‌دار). 'Przeczytam' = خواهم خواند (تا تکمیل). فقط افعال ناکامل آینده مرکب 'będę + شاهد گذشته' را می‌سازند."
+    },
+    {
+      "id": "b2-ch01-l01-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "I would finish reading this book (conditional completion, masculine speaker): ___ tę książkę.",
+      "context_fa": "خواندن این کتاب را تمام می‌کردم (شرطی تکمیل، گوینده مذکر): ___ tę książkę.",
+      "sentence": "___ tę książkę, gdybym miał więcej czasu.",
+      "prompt": "___ tę książkę, gdybym miał więcej czasu.",
+      "prompt_fa": "___ tę książkę, gdybym miał więcej czasu.",
+      "answer": "Przeczytałbym",
+      "acceptableAnswers": ["Przeczytałbym"],
+      "hint": "przeczytać (perf) + conditional masculine: przeczytałbym = I would read/finish",
+      "explanation": "'Przeczytałbym tę książkę' — I would read this book (to completion). Perfective conditional = completion. 'Czytałbym' would mean 'I would be reading' (process).",
+      "explanation_fa": "'Przeczytałbym tę książkę' — این کتاب را می‌خواندم (تا پایان). شرطی کامل = تکمیل. 'Czytałbym' یعنی 'داشتم می‌خواندم' (فرآیند)."
+    },
+    {
+      "id": "b2-ch01-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b2/ch01/b2-ch01-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Kiedy wrócisz, przeczytam już ten artykuł.",
+        "Kiedy wrócisz, będę czytał już ten artykuł.",
+        "Kiedy wrócisz, czytałem już ten artykuł.",
+        "Kiedy wrócisz, przeczytałem już ten artykuł."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Przeczytam już' = I will have already read (perfective future = future perfect in context). 'By the time you return, I will have already read this article.'",
+      "explanation_fa": "'Przeczytam już' = قبلاً خواهم خواند (آینده کامل در زمینه = آینده کامل). 'تا وقتی برگردی، این مقاله را قبلاً خوانده خواهم بود.'"
+    },
+    {
+      "id": "b2-ch01-l01-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: I would have finished the report before the meeting.",
+      "prompt_fa": "بسازید: قبل از جلسه گزارش را تمام کرده بودم.",
+      "wordBank": ["Byłbym", "skończył", "raport", "przed", "spotkaniem", "Skończyłbym", "po"],
+      "correctSequences": [
+        ["Byłbym", "skończył", "raport", "przed", "spotkaniem"],
+        ["Skończyłbym", "raport", "przed", "spotkaniem"]
+      ],
+      "explanation": "'Byłbym skończył raport przed spotkaniem.' — I would have finished the report before the meeting. Counterfactual past: byłbym + past participle. Or: 'Skończyłbym' = conditional completion (simpler).",
+      "explanation_fa": "'Byłbym skończył raport przed spotkaniem.' — قبل از جلسه گزارش را تمام کرده بودم. گذشته خلاف واقع: byłbym + شاهد گذشته. یا: 'Skończyłbym' = تکمیل شرطی (ساده‌تر)."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 12,
+  "tags": ["aspect", "complex-tenses", "conditional", "b2-core"],
+  "prerequisites": ["b1-ch16-l04", "b1-ch20-l01"]
+}

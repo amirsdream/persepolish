@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch11-l01-collective-numerals",
+  "chapter": 11,
+  "lessonOrder": 1,
+  "level": "b1",
+  "title": "Collective Numerals: dwoje, troje, czworo",
+  "title_fa": "اعداد جمعی: dwoje, troje, czworo",
+  "grammarPoint": "Collective numerals dwoje/troje/czworo + genitive plural (used for mixed-gender groups and certain nouns)",
+  "grammarPoint_fa": "اعداد جمعی dwoje/troje/czworo + مضاف‌الیه جمع (برای گروه‌های مختلط جنسیتی و اسامی خاص)",
+  "explanation": {
+    "text": "**Collective numerals** are used instead of cardinal numbers in specific contexts:\n\n**When to use collective numerals:**\n1. Mixed-gender groups of people: dwoje dzieci (two children), troje przyjaciół\n2. Nouns that only exist in plural (pluralia tantum): dwoje drzwi (two doors), troje skrzypiec (three violins)\n3. Young animals: dwoje kociąt (two kittens), troje szczeniąt\n4. Sometimes for pairs: dwoje oczu (two eyes, as a pair)\n\n**Forms:**\n| Cardinal | Collective | Example |\n|---------|-----------|--------|\n| dwa/dwie | **dwoje** | dwoje dzieci |\n| trzy | **troje** | troje przyjaciół |\n| cztery | **czworo** | czworo rodzeństwa |\n| pięć | **pięcioro** | pięcioro studentów |\n| sześć | **sześcioro** | sześcioro dzieci |\n\n**Grammar rule:** collective numeral + genitive plural\n- dwoje dzieci (not: dwa dziecko)\n- troje drzwi (not: trzy drzwi — but trzy drzwi also used colloquially)\n- czworo szczeniąt\n\n**As subject:** takes 3rd person singular verb!\n- Dwoje dzieci **bawi się** w parku. (Two children are playing...)\n- Troje moich przyjaciół **pojechało** na wakacje.",
+    "notes": [
+      "Collective numerals are mandatory with pluralia tantum nouns (words only in plural form)",
+      "Mixed male+female groups: troje przyjaciół (m+f) vs. trzech przyjaciół (all male) vs. trzy przyjaciółki (all female)",
+      "Verb after collective numeral = 3rd person singular neuter: dwoje dzieci bawiło się",
+      "Higher collectives: pięcioro, sześcioro, siedmioro, ośmioro, dziewięcioro, dziesięcioro"
+    ]
+  },
+  "explanation_fa": "اعداد جمعی در لهستانی برای گروه‌های مختلط جنسیتی، اسامی جمع‌تنها (pluralia tantum مثل drzwi, skrzypce) و حیوانات جوان استفاده می‌شوند: dwoje dzieci (دو کودک)، troje drzwi (سه در). بعد از عدد جمعی فعل مفرد خنثی می‌آید: Dwoje dzieci bawiło się.",
+  "exercises": [
+    {
+      "id": "b1-ch11-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Which form is correct for 'two children playing'?",
+      "prompt_fa": "کدام شکل برای 'دو کودک در حال بازی' درست است؟",
+      "options": [
+        "Dwoje dzieci bawi się.",
+        "Dwa dziecko bawi się.",
+        "Dwie dzieci bawią się.",
+        "Dwoje dzieci bawią się."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Dzieci' requires the collective numeral 'dwoje' (mixed/general group noun). Verb = 3rd sg: bawi się (not bawią się).",
+      "explanation_fa": "'Dzieci' عدد جمعی 'dwoje' می‌خواهد. فعل = مفرد سوم شخص: bawi się (نه bawią się)."
+    },
+    {
+      "id": "b1-ch11-l01-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "There are three doors in this corridor. Use collective numeral:",
+      "context_fa": "در این راهرو سه در وجود دارد. از عدد جمعی استفاده کنید:",
+      "sentence": "W tym korytarzu jest ___ drzwi.",
+      "prompt": "W tym korytarzu jest ___ drzwi.",
+      "prompt_fa": "W tym korytarzu jest ___ drzwi.",
+      "answer": "troje",
+      "acceptableAnswers": ["troje"],
+      "hint": "drzwi = plurale tantum → needs collective numeral",
+      "explanation": "'Drzwi' is a plurale tantum (only plural form exists), so it requires a collective numeral: troje drzwi.",
+      "explanation_fa": "'Drzwi' اسم جمع‌تنها است، پس عدد جمعی می‌خواهد: troje drzwi."
+    },
+    {
+      "id": "b1-ch11-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch11/b1-ch11-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Czworo dzieci siedzi przy stole.",
+        "Cztery dziecka siedzą przy stole.",
+        "Czworo dzieci siedzą przy stole.",
+        "Cztery dzieci siedzi przy stole."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Czworo dzieci' — collective numeral + genitive plural. Verb: 3rd person singular 'siedzi' (not siedzą).",
+      "explanation_fa": "'Czworo dzieci' — عدد جمعی + مضاف‌الیه جمع. فعل: مفرد سوم شخص 'siedzi'."
+    },
+    {
+      "id": "b1-ch11-l01-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: Five students (mixed group) passed the exam.",
+      "prompt_fa": "بسازید: پنج دانشجو (گروه مختلط) در امتحان قبول شدند.",
+      "wordBank": ["Pięcioro", "Pięć", "studentów", "zdało", "zdali", "egzamin"],
+      "correctSequences": [["Pięcioro", "studentów", "zdało", "egzamin"]],
+      "explanation": "'Pięcioro studentów zdało egzamin.' — collective numeral for mixed group + genitive plural + 3rd sg neuter verb.",
+      "explanation_fa": "'Pięcioro studentów zdało egzamin.' — عدد جمعی برای گروه مختلط + مضاف‌الیه جمع + فعل مفرد خنثی."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["numerals", "collective", "b1-core"],
+  "prerequisites": ["a1-ch04-l01", "a1-ch04-l02"]
+}

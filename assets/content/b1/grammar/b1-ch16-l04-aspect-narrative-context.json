@@ -1,0 +1,88 @@
+{
+  "id": "b1-ch16-l04-aspect-narrative-context",
+  "chapter": 16,
+  "lessonOrder": 4,
+  "level": "b1",
+  "title": "Aspect in Authentic Polish Texts",
+  "title_fa": "جنبه در متن‌های واقعی لهستانی",
+  "grammarPoint": "Reading and analyzing aspect patterns in short narrative passages; news report structure",
+  "grammarPoint_fa": "خواندن و تحلیل الگوهای جنبه در گذرهای روایی کوتاه؛ ساختار گزارش خبری",
+  "explanation": {
+    "text": "**Reading aspect in real Polish texts:**\n\nWhen you read Polish stories or news, train yourself to notice aspect patterns. Here's a short passage with analysis:\n\n---\n*'Był piękny poranek. Słońce świeciło, ptaki śpiewały. Marek siedział przy oknie i pił kawę. Nagle zadzwonił telefon. Podniósł słuchawkę. — Halo? — powiedział. Ale nikt nie odpowiedział. Rozłączył się i wrócił do okna. Znowu zaczął padać deszcz.'*\n---\n\n**Aspect breakdown:**\n| Verb | Aspect | Role |\n|------|--------|------|\n| Był | imperf | state — opening |\n| świeciło | imperf | background |\n| śpiewały | imperf | background |\n| siedział | imperf | ongoing |\n| pił | imperf | ongoing |\n| zadzwonił | perf | EVENT ← plot turns here |\n| podniósł | perf | EVENT |\n| powiedział | perf | EVENT |\n| odpowiedział | perf | EVENT (neg.) |\n| rozłączył się | perf | EVENT |\n| wrócił | perf | EVENT |\n| zaczął padać | perf+imperf | new ongoing situation |\n\n**News report structure:**\nPolish journalism uses the same pattern:\n- Lead: perfective events (what happened)\n- Context: imperfective background (situation, ongoing issues)\n- Quote: direct speech (any aspect)\n\n**Example news lead:**\n*'W nocy z piątku na sobotę **wybuchł** pożar w centrum Warszawy. Straż pożarna **przybyła** na miejsce po dziesięciu minutach. Budynek **płonął** od wielu godzin...'*\n- wybuchł (perf) — event\n- przybyła (perf) — event\n- płonął (imperf) — ongoing background",
+    "notes": [
+      "In a paragraph, count imperfs vs perfs to understand the narrative tempo",
+      "High perfective density = fast action; high imperfective density = slow description",
+      "News: perfective for the news event, imperfective for context and background",
+      "After 'nagle' (suddenly), expect perfective — it marks a plot turn"
+    ]
+  },
+  "explanation_fa": "در متن‌های واقعی لهستانی: تمرین کنید الگوهای جنبه را تشخیص دهید. تراکم بالای کامل = اقدام سریع؛ تراکم بالای ناکامل = توصیف کند. ساختار خبری: کامل برای رویداد خبری (wybuchł pożar، przybyła straż)، ناکامل برای پس‌زمینه و زمینه (płonął). بعد از 'nagle' انتظار فعل کامل داشته باشید — نقطه چرخش طرح را نشان می‌دهد. برای تحلیل متن: هر فعل را بررسی کنید: ناکامل = صحنه/حالت/ادامه‌دار؛ کامل = رویداد/پیشرفت.",
+  "exercises": [
+    {
+      "id": "b1-ch16-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "In the passage: 'Siedział przy oknie i pił kawę. Nagle zadzwonił telefon.' Which verb marks the PLOT TURN?",
+      "prompt_fa": "در متن: 'Siedział przy oknie i pił kawę. Nagle zadzwonił telefon.' کدام فعل نقطه چرخش طرح را نشان می‌دهد؟",
+      "options": [
+        "zadzwonił (perfective — sudden event)",
+        "siedział (imperfective — ongoing)",
+        "pił (imperfective — ongoing)",
+        "nagle (adverb — not a verb)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Zadzwonił' (perf) + 'nagle' = the plot turn. Two imperfectives set the background; then the perfective event breaks the routine.",
+      "explanation_fa": "'Zadzwonił' (کامل) + 'nagle' = نقطه چرخش طرح. دو ناکامل پس‌زمینه را برپا می‌کنند؛ سپس رویداد کامل روال را می‌شکند."
+    },
+    {
+      "id": "b1-ch16-l04-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "News report: Fire broke out in the city centre. Use perfective past of 'wybuchnąć' (3rd sg neuter = pożar m):",
+      "context_fa": "گزارش خبری: آتش‌سوزی در مرکز شهر اتفاق افتاد. از گذشته کامل 'wybuchnąć' استفاده کنید (سوم مفرد):",
+      "sentence": "W centrum miasta ___ pożar.",
+      "prompt": "W centrum miasta ___ pożar.",
+      "prompt_fa": "W centrum miasta ___ pożar.",
+      "answer": "wybuchł",
+      "acceptableAnswers": ["wybuchł"],
+      "hint": "wybuchnąć (perf) = to break out/explode; past masculine: wybuchł",
+      "explanation": "'W centrum miasta wybuchł pożar.' — A fire broke out in the city centre. Perfective = single event, news-worthy occurrence.",
+      "explanation_fa": "'W centrum miasta wybuchł pożar.' — در مرکز شهر آتش‌سوزی اتفاق افتاد. کامل = رویداد منفرد، اتفاق خبرساز."
+    },
+    {
+      "id": "b1-ch16-l04-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch16/b1-ch16-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Deszcz padał od rana, gdy nagle przestało wiać.",
+        "Deszcz padł od rana, gdy nagle przestało wiać.",
+        "Deszcz padał od rana, gdy nagle przestawało wiać.",
+        "Deszcz pada od rana, gdy nagle przestało wiać."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Padał' (imperf, background — ongoing rain) + 'przestało' (perf, event — suddenly stopped blowing). Perfect aspect contrast.",
+      "explanation_fa": "'Padał' (ناکامل، پس‌زمینه — باران ادامه‌دار) + 'przestało' (کامل، رویداد — ناگهان متوقف شد). تضاد جنبه عالی."
+    },
+    {
+      "id": "b1-ch16-l04-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: He was reading when suddenly the lights went out.",
+      "prompt_fa": "بسازید: داشت می‌خواند که ناگهان برق رفت.",
+      "wordBank": ["Czytał", "gdy", "nagle", "zgasło", "światło", "Czytał", "kiedy", "Przeczytał"],
+      "correctSequences": [
+        ["Czytał", "gdy", "nagle", "zgasło", "światło"],
+        ["Czytał", "kiedy", "nagle", "zgasło", "światło"]
+      ],
+      "explanation": "'Czytał, gdy nagle zgasło światło.' — 'Czytał' (imperf, ongoing background) + 'zgasło' (perf, sudden event). The aspect contrast is the key: background interrupted by event.",
+      "explanation_fa": "'Czytał, gdy nagle zgasło światło.' — 'Czytał' (ناکامل، پس‌زمینه ادامه‌دار) + 'zgasło' (کامل، رویداد ناگهانی). تضاد جنبه کلید است: پس‌زمینه‌ای که توسط رویداد قطع می‌شود."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["aspect", "narrative", "reading-comprehension", "news", "b1-core"],
+  "prerequisites": ["b1-ch16-l01", "b1-ch16-l02", "b1-ch16-l03"]
+}

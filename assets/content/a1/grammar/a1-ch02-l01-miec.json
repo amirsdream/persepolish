@@ -8,20 +8,22 @@
   "grammarPoint": "Present tense of mieć: mam, masz, ma, mamy, macie, mają",
   "grammarPoint_fa": "زمان حال فعل mieć: mam، masz، ma، mamy، macie، mają",
   "explanation": {
-    "text": "The verb **mieć** (to have) is one of the most common Polish verbs. It follows a regular conjugation pattern in the present tense.\n\n| Person | Polish | English |\n|--------|--------|---------|\n| ja | **mam** | I have |\n| ty | **masz** | you have |\n| on/ona/ono | **ma** | he/she/it has |\n| my | **mamy** | we have |\n| wy | **macie** | you (all) have |\n| oni/one | **mają** | they have |\n\nAfter mieć, the possessed noun goes in the **accusative case** (covered in Ch.4). For now practise with words that don't change much.",
+    "text": "## Verb mieć — to have\n\n**Mieć** is the second most important Polish verb after *być* (to be). You will use it every day — for possessions, family, age, and much more.\n\n### Full conjugation table\n\n| Person | Polish | Pronunciation | English |\n|--------|--------|---------------|---------|\n| ja | **mam** | *mahm* | I have |\n| ty | **masz** | *mahsh* | you have |\n| on / ona / ono | **ma** | *mah* | he / she / it has |\n| my | **mamy** | *mah-mih* | we have |\n| wy | **macie** | *mah-cheh* | you (all) have |\n| oni / one | **mają** | *mah-yown* | they have |\n\n> 💡 **The key form is *mam*** — the most frequent word in everyday Polish speech. Learn it first.\n\n### Use 1 — Possessions and relationships\n\nUse *mieć* exactly like English 'to have':\n\n| Polish | English |\n|--------|---------|\n| *Mam kota.* | I have a cat. |\n| *Masz brata?* | Do you have a brother? |\n| *Ona ma siostrę.* | She has a sister. |\n| *Mamy duże mieszkanie.* | We have a big flat. |\n| *Oni mają troje dzieci.* | They have three children. |\n\n### Use 2 — Expressing age\n\nPolish does NOT use *być* for age — it uses *mieć*:\n\n| Polish | English |\n|--------|---------|\n| *Mam 20 lat.* | I am 20 years old. |\n| *Ona ma 35 lat.* | She is 35 years old. |\n| *Ile masz lat?* | How old are you? |\n\n> ⚠️ **Never say** *Jestem 20 lat* — that is a classic beginner error!\n\n### Use 3 — Negation: nie mam\n\nTo say 'I don't have', put **nie** directly before the verb:\n\n| Polish | English |\n|--------|---------|\n| *Nie mam samochodu.* | I don't have a car. |\n| *Nie mam czasu.* | I don't have time. |\n| *Nie mam brata.* | I don't have a brother. |\n\n> 🔍 Notice that the object changes to **genitive** after negation (*brata*, *samochodu*, *czasu*) — this is a key Polish grammar rule you will study in depth later.\n\n### Family vocabulary with mieć\n\n| Polish | English |\n|--------|---------|\n| *Mam brata.* | I have a brother. |\n| *Mam siostrę.* | I have a sister. |\n| *Mam dwóch braci.* | I have two brothers. |\n| *Mam dwie siostry.* | I have two sisters. |\n| *Nie mam rodzeństwa.* | I have no siblings. |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Jestem 25 lat.* | *Mam 25 lat.* | Age uses *mieć*, not *być* |\n| *Nie mam nie brata.* | *Nie mam brata.* | Only one negation needed |\n| *Ja mam pies.* | *Mam psa.* | Pronoun optional; object in accusative |\n| *Oni ma dom.* | *Oni mają dom.* | *Oni* takes *mają*, not *ma* |",
     "notes": [
-      "mam = I have (most frequent form — learn it first)",
-      "Negation: nie mam = I don't have",
-      "Mieć is also used in age: Mam 25 lat = I am 25 years old."
+      "mam = I have — the single most useful form; learn it instantly",
+      "Age is expressed with mieć: Mam 25 lat = I am 25 (literally: I have 25 years)",
+      "Negation: nie mam = I don't have — the noun after it changes to genitive",
+      "oni/one both use mają — same form for any group"
     ]
   },
-  "explanation_fa": "فعل mieć (داشتن) یکی از پرکاربردترین افعال لهستانی است. اشکال: mam (دارم)، masz (داری)، ma (دارد)، mamy (داریم)، macie (دارید)، mają (دارند). برای بیان مالکیت و روابط خانوادگی استفاده می‌شود: Mam brata (برادر دارم).",
+  "explanation_fa": "## فعل mieć — داشتن\n\n**Mieć** دومین فعل پرکاربرد لهستانی پس از *być* (بودن) است. هر روز از آن برای بیان مالکیت، روابط خانوادگی، سن و موارد دیگر استفاده خواهید کرد.\n\n### جدول کامل صرف\n\n| شخص | لهستانی | تلفظ | فارسی |\n|------|---------|-------|-------|\n| من | **mam** | *مام* | دارم |\n| تو | **masz** | *ماش* | داری |\n| او (مذکر/مؤنث/خنثی) | **ma** | *ما* | دارد |\n| ما | **mamy** | *مامی* | داریم |\n| شما | **macie** | *ماچه* | دارید |\n| آن‌ها | **mają** | *مایون* | دارند |\n\n> 💡 **مهم‌ترین شکل *mam*** است — پرکاربردترین کلمه در مکالمه روزمره لهستانی. اول آن را یاد بگیرید.\n\n### کاربرد ۱ — مالکیت و روابط خانوادگی\n\n| لهستانی | فارسی |\n|---------|-------|\n| *Mam kota.* | گربه دارم. |\n| *Masz brata?* | برادر داری؟ |\n| *Ona ma siostrę.* | او (مؤنث) خواهر دارد. |\n| *Mamy duże mieszkanie.* | آپارتمان بزرگی داریم. |\n| *Oni mają troje dzieci.* | آن‌ها سه بچه دارند. |\n\n### کاربرد ۲ — بیان سن\n\nدر لهستانی سن را با *mieć* بیان می‌کنند، نه با *być*:\n\n| لهستانی | فارسی |\n|---------|-------|\n| *Mam 20 lat.* | ۲۰ سالم است. (تحت‌اللفظی: ۲۰ سال دارم) |\n| *Ona ma 35 lat.* | او ۳۵ ساله است. |\n| *Ile masz lat?* | چند سالته؟ |\n\n> ⚠️ **هرگز نگویید** *Jestem 20 lat* — این اشتباه رایج مبتدیان است!\n\n### کاربرد ۳ — منفی کردن: nie mam\n\nبرای «ندارم» فعل *nie* را مستقیماً قبل از فعل بگذارید:\n\n| لهستانی | فارسی |\n|---------|-------|\n| *Nie mam samochodu.* | ماشین ندارم. |\n| *Nie mam czasu.* | وقت ندارم. |\n| *Nie mam brata.* | برادر ندارم. |\n\n> 🔍 توجه کنید که مفعول بعد از منفی به حالت **مضاف‌الیهی** (genitive) تغییر می‌کند (*brata*، *samochodu*، *czasu*) — این یک قانون کلیدی دستور زبان لهستانی است.\n\n### واژگان خانوادگی با mieć\n\n| لهستانی | فارسی |\n|---------|-------|\n| *Mam brata.* | برادر دارم. |\n| *Mam siostrę.* | خواهر دارم. |\n| *Nie mam rodzeństwa.* | خواهر و برادر ندارم. |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Jestem 25 lat.* | *Mam 25 lat.* | سن با mieć بیان می‌شود، نه być |\n| *Nie mam nie brata.* | *Nie mam brata.* | فقط یک منفی نیاز است |\n| *Oni ma dom.* | *Oni mają dom.* | oni با mają می‌آید، نه ma |",
   "exercises": [
     {
       "id": "a1-ch02-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Choose the correct form: Ona ___ kota.",
+      "prompt": "Katarzyna has a cat at home. Complete: Ona ___ kota.",
+      "prompt_fa": "کاتاژینا یک گربه در خانه دارد. کامل کنید: Ona ___ kota.",
       "options": [
         "mam",
         "masz",
@@ -29,25 +31,36 @@
         "mają"
       ],
       "correctIndex": 2,
-      "explanation": "Third person singular (ona = she) uses ma. 'Ona ma kota' = She has a cat."
+      "explanation": "For she (ona), mieć becomes ma. 'Ona ma kota' = She has a cat. The same form is used for on (he) and ono (it).",
+      "explanation_fa": "برای ona (او مؤنث)، فعل mieć می‌شود ma. 'Ona ma kota' = او گربه دارد. همین شکل برای on (مذکر) و ono (خنثی) هم استفاده می‌شود."
     },
     {
       "id": "a1-ch02-l01-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "___ brata i siostrę. (I have a brother and a sister.)",
       "answer": "Mam",
       "acceptableAnswers": [
         "Mam",
         "mam"
       ],
-      "hint": "First person singular of mieć"
+      "hint": "First person singular of mieć",
+      "explanation": "'Mam' = I have. It is the most useful form of mieć — you will use it dozens of times every day.",
+      "explanation_fa": "'Mam' = دارم. پرکاربردترین شکل فعل mieć است — هر روز ده‌ها بار از آن استفاده می‌کنید.",
+      "context": "You are telling a friend about your siblings. Complete:",
+      "context_fa": "شما به دوستی درباره خواهر و برادرتان می‌گویید. کامل کنید:",
+      "sentence": "___ brata i siostrę.",
+      "translation": "",
+      "translation_fa": "",
+      "prompt": "___ brata i siostrę.",
+      "prompt_fa": "___ brata i siostrę."
     },
     {
       "id": "a1-ch02-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch02/a1-ch02-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Mamy dużo czasu.",
         "Macie dużo czasu.",
@@ -55,39 +68,37 @@
         "Ma dużo czasu."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Mamy dużo czasu.' — We have a lot of time. First person plural mamy."
+      "explanation": "You heard: 'Mamy dużo czasu.' — We have a lot of time. The -my ending is the clue: it always means 'we'.",
+      "explanation_fa": "شنیدید: 'Mamy dużo czasu.' — وقت زیادی داریم. پسوند -my نشانه 'ما' است."
     },
     {
       "id": "a1-ch02-l01-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: They have a dog.",
+      "prompt": "Arrange: They have a dog.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: آن‌ها سگ دارند.",
       "wordBank": [
         "Oni",
         "mają",
         "mamy",
-        "psa",
-        "kota",
-        "dom"
+        "psa"
       ],
       "correctSequences": [
-        [
-          "mają",
-          "psa"
-        ],
         [
           "Oni",
           "mają",
           "psa"
         ]
       ],
-      "explanation": "'Mają psa' = They have a dog. 'Oni' is optional. 'Psa' is the accusative of 'pies'."
+      "explanation": "'Mają psa' = They have a dog. 'Oni' is optional. Note that 'psa' is the accusative of 'pies' — objects after mieć take the accusative case.",
+      "explanation_fa": "'Mają psa' = آن‌ها سگ دارند. 'Oni' اختیاری است. توجه کنید 'psa' حالت مفعولی 'pies' است — مفعول بعد از mieć حالت مفعولی می‌گیرد."
     },
     {
       "id": "a1-ch02-l01-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "How do you say 'I don't have a car' in Polish?",
+      "prompt": "Bartek sold his car last week. How does he say 'I don't have a car'?",
+      "prompt_fa": "بارتک هفته گذشته ماشینش را فروخت. چطور می‌گوید «ماشین ندارم»؟",
       "options": [
         "Nie mam samochodu.",
         "Nie ma samochodu.",
@@ -95,7 +106,97 @@
         "Nie masz samochodu."
       ],
       "correctIndex": 0,
-      "explanation": "'Nie mam' = I don't have. Negation places 'nie' directly before the verb. Note 'samochodu' is genitive after negation."
+      "explanation": "'Nie mam' = I don't have. Put nie directly before the verb. After negation, the noun shifts to genitive: samochód → samochodu.",
+      "explanation_fa": "'Nie mam' = ندارم. nie را مستقیماً قبل از فعل بگذارید. بعد از منفی، اسم به حالت مضاف‌الیهی تغییر می‌کند: samochód → samochodu."
+    },
+    {
+      "id": "a1-ch02-l01-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia shows her apartment to guests. Complete: Ja ___ duże mieszkanie. (I have a big flat.)",
+      "prompt_fa": "کاسیا آپارتمانش را به مهمانان نشان می‌دهد. کامل کنید: Ja ___ duże mieszkanie. (یک آپارتمان بزرگ دارم.)",
+      "options": [
+        "mam",
+        "masz",
+        "ma",
+        "mamy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ja (I) → mam. First person singular of mieć. 'Mam duże mieszkanie' = I have a big flat.",
+      "explanation_fa": "Ja (من) → mam. اول شخص مفرد فعل mieć. 'Mam duże mieszkanie' = یک آپارتمان بزرگ دارم."
+    },
+    {
+      "id": "a1-ch02-l01-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "masz",
+      "acceptableAnswers": [
+        "masz"
+      ],
+      "hint": "ty (you) → 2nd person singular of mieć",
+      "explanation": "Ty (you) → masz. 'Czy masz brata?' = Do you have a brother? 'Brata' is the accusative (or genitive after negation) of 'brat'.",
+      "explanation_fa": "ty (تو) → masz. 'Czy masz brata?' = آیا برادر داری؟ 'Brata' حالت مفعولی (یا مضاف‌الیهی بعد از منفی) 'brat' است.",
+      "context": "Tomek calls his friend:",
+      "context_fa": "تامک با دوستش تلفن می‌کند:",
+      "sentence": "Czy ty ___ brata?",
+      "translation": "(Do you have a brother?)",
+      "translation_fa": "(آیا برادر داری؟)",
+      "prompt": "Czy ty ___ brata?",
+      "prompt_fa": "Czy ty ___ brata?"
+    },
+    {
+      "id": "a1-ch02-l01-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Complete: Oni ___ troje dzieci. (They have three children.)",
+      "prompt_fa": "کامل کنید: Oni ___ troje dzieci. (آن‌ها سه فرزند دارند.)",
+      "options": [
+        "mają",
+        "mam",
+        "ma",
+        "macie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oni (they) → mają. Third person plural of mieć. 'Oni mają troje dzieci' = They have three children.",
+      "explanation_fa": "Oni (آن‌ها) → mają. سوم شخص جمع فعل mieć. 'Oni mają troje dzieci' = آن‌ها سه فرزند دارند."
+    },
+    {
+      "id": "a1-ch02-l01-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Marek and Kasia say they have a big house. Arrange the words.",
+      "prompt_fa": "مارک و کاسیا می‌گویند یک خانه بزرگ دارند. کلمات را به ترتیب بزنید.",
+      "wordBank": [
+        "Mamy",
+        "duży dom",
+        "mam",
+        "małe"
+      ],
+      "correctSequences": [
+        [
+          "Mamy",
+          "duży dom"
+        ]
+      ],
+      "explanation": "'Mamy duży dom' = We have a big house. My (we) → mamy. 'Dom' is masculine so adjective = duży (not duże).",
+      "explanation_fa": "'Mamy duży dom' = ما یک خانه بزرگ داریم. my (ما) → mamy. 'Dom' مذکر است پس صفت = duży (نه duże)."
+    },
+    {
+      "id": "a1-ch02-l01-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch02/a1-ch02-l01-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Mam starszego brata i młodszą siostrę.",
+        "Masz starszego brata i młodszą siostrę.",
+        "Ma starszego brata i młodszą siostrę.",
+        "Mam starszą siostrę i młodszego brata."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Mam starszego brata i młodszą siostrę.' — I have an older brother and a younger sister. 'Starszego' = older (m acc.), 'młodszą' = younger (f acc.).",
+      "explanation_fa": "شنیدید: 'Mam starszego brata i młodszą siostrę.' — یک برادر بزرگ‌تر و یک خواهر کوچک‌تر دارم. 'Starszego' = بزرگ‌تر (م مفعولی)، 'młodszą' = کوچک‌تر (م مفعولی)."
     }
   ],
   "xpReward": 20,

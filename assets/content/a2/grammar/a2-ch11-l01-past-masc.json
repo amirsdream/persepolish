@@ -6,9 +6,9 @@
   "title": "Past Tense — Masculine Singular",
   "title_fa": "زمان گذشته — مفرد مذکر",
   "grammarPoint": "Past tense masculine singular: robiłem/robiłeś/robił — the -ł- marker and personal endings",
-  "grammarPoint_fa": "پسوند گذشته مذکر: -ł (مفرد) — pracował، czytał، był",
+  "grammarPoint_fa": "پسوند گذشته مذکر مفرد: robiłem/robiłeś/robił — علامت -ł- و پسوندهای شخصی",
   "explanation": {
-    "text": "The Polish past tense is built on the **-ł-** marker (like an 'l') added to the verb stem, then followed by **personal endings** that change by gender.\n\n**Masculine singular past endings:**\n\n| Person | Ending | Example (robić) |\n|--------|--------|----------------|\n| ja (m) | **-łem** | robiłem |\n| ty (m) | **-łeś** | robiłeś |\n| on | **-ł** | robił |\n\n**How to form the past tense:**\n1. Take the infinitive: robić\n2. Remove -ć: robi-\n3. Add -ł + ending: robiłem, robiłeś, robił\n\n**Common verbs in masculine past:**\n\n| Infinitive | on (3rd m) | ja (m) |\n|-----------|-----------|--------|\n| robić | **robił** | robiłem |\n| czytać | **czytał** | czytałem |\n| pracować | **pracował** | pracowałem |\n| mieszkać | **mieszkał** | mieszkałem |\n| mówić | **mówił** | mówiłem |\n| kupić | **kupił** | kupiłem |\n\n**Example sentences:**\n- Wczoraj **czytałem** gazetę. = Yesterday I (m) read a newspaper.\n- On **pracował** w Londynie. = He worked in London.\n- **Kupiłeś** bilet? = Did you (m) buy a ticket?",
+    "text": "The Polish past tense is built on the **-ł-** marker (like an 'l') added to the verb stem, then followed by **personal endings** that change by gender.\n\n**Masculine singular past endings:**\n\n| Person | Ending | Example (robić) |\n|--------|--------|----------------|\n| ja (m) | **-łem** | robiłem |\n| ty (m) | **-łeś** | robiłeś |\n| on | **-ł** | robił |\n\n**How to form the past tense:**\n1. Take the infinitive: robić\n2. Remove -ć: robi-\n3. Add -ł + ending: robiłem, robiłeś, robił\n\n**Common verbs in masculine past:**\n\n| Infinitive | on (3rd m) | ja (m) |\n|-----------|-----------|--------|\n| robić | **robił** | robiłem |\n| czytać | **czytał** | czytałem |\n| pracować | **pracował** | pracowałem |\n| mieszkać | **mieszkał** | mieszkałem |\n| mówić | **mówił** | mówiłem |\n| kupić | **kupił** | kupiłem |",
     "notes": [
       "The -ł- marker is the core of the past tense — never omit it.",
       "Masculine singular: -łem (ja), -łeś (ty), -ł (on). Note: no ending for 'on'.",
@@ -16,38 +16,43 @@
       "'Wczoraj' (yesterday), 'ostatnio' (recently), 'w zeszłym roku' (last year) signal past tense."
     ]
   },
-  "explanation_fa": "در لهستانی فعل گذشته بر اساس جنسیت فاعل تغییر می‌کند. برای مفرد مذکر پسوند -ł افزوده می‌شود: pracować → on pracował (او کار کرد)، czytać → on czytał (او خواند)، być → on był (او بود). این پسوند بر اساس جنسیت دستوری، نه معنایی، تعیین می‌شود.",
+  "explanation_fa": "در لهستانی فعل گذشته بر اساس جنسیت فاعل تغییر می‌کند. برای مفرد مذکر علامت -ł افزوده می‌شود: pracować → on pracował (او کار کرد)، czytać → on czytał (او خواند)، być → on był (او بود). پسوندهای شخصی: -łem (من/ja)، -łeś (تو/ty)، -ł (او/on).",
   "exercises": [
     {
       "id": "a2-ch11-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Wczoraj ___ w parku. (I (m) walked in the park yesterday.) [chodzić, ja m past]",
-      "options": [
-        "chodziłem",
-        "chodzę",
-        "chodziłam",
-        "chodził"
-      ],
+      "prompt": "Wczoraj ___ w parku. Which form completes 'I (m) walked in the park yesterday'?",
+      "prompt_fa": "دیروز ___ در پارک. کدام شکل جمله 'من (م) دیروز در پارک راه رفتم' را کامل می‌کند؟",
+      "options": ["chodziłem", "chodzę", "chodziłam", "chodził"],
       "correctIndex": 0,
-      "explanation": "'Chodzić' past masculine ja: chodziłem (-łem ending). 'Wczoraj' = yesterday."
+      "explanation": "'Chodzić' past masculine ja: chodziłem (-łem ending). 'Wczoraj' = yesterday.",
+      "explanation_fa": "گذشته فعل 'chodzić' برای ja مذکر: chodziłem (پسوند -łem). 'Wczoraj' = دیروز."
     },
     {
       "id": "a2-ch11-l01-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "On ___ w tej firmie przez pięć lat. (He worked in this company for five years.) [pracować, on past]",
+      "context": "Marek worked in this company for five years. Complete:",
+      "context_fa": "ماریک پنج سال در این شرکت کار کرد. کامل کنید:",
+      "sentence": "On ___ w tej firmie przez pięć lat.",
+      "translation": "(He worked) [pracować → on past: -ował]",
+      "translation_fa": "(او کار کرد) [pracować → گذشته on: -ował]",
+      "prompt": "On ___ w tej firmie przez pięć lat.",
+      "prompt_fa": "On ___ w tej firmie przez pięć lat.",
       "answer": "pracował",
-      "acceptableAnswers": [
-        "pracował"
-      ],
-      "hint": "Masculine 3rd person past: -ował (pracować → pracował)"
+      "acceptableAnswers": ["pracował"],
+      "hint": "Masculine 3rd person past: -ował (pracować → pracował)",
+      "explanation": "'Pracować' past masculine 3rd person: pracował. The -ować ending becomes -ował in past.",
+      "explanation_fa": "گذشته سوم شخص مذکر فعل 'pracować': pracował. پسوند -ować در گذشته به -ował تبدیل می‌شود."
     },
     {
       "id": "a2-ch11-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch11/a2-ch11-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Czy czytałeś tę książkę?",
         "Czy czytałaś tę książkę?",
@@ -55,59 +60,106 @@
         "Czy czytałem tę książkę?"
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Czy czytałeś tę książkę?' — Did you (m) read this book? 'Czytać' past masculine ty: czytałeś (-łeś ending)."
+      "explanation": "You heard: 'Czy czytałeś tę książkę?' — Did you (m) read this book? 'Czytać' past masculine ty: czytałeś (-łeś ending).",
+      "explanation_fa": "شنیدید: 'Czy czytałeś tę książkę?' — آیا تو (م) این کتاب را خواندی؟ گذشته ty مذکر از 'czytać': czytałeś (پسوند -łeś)."
     },
     {
       "id": "a2-ch11-l01-ex04",
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: Yesterday he bought a new car.",
-      "wordBank": [
-        "Wczoraj",
-        "on",
-        "kupił",
-        "kupiła",
-        "nowy",
-        "nowe",
-        "samochód",
-        "samochodu",
-        "samochodem"
-      ],
-      "correctSequences": [
-        [
-          "Wczoraj",
-          "on",
-          "kupił",
-          "nowy",
-          "samochód"
-        ]
-      ],
-      "explanation": "'Wczoraj on kupił nowy samochód.' — Yesterday he bought a new car. 'Kupić' past masculine: kupił. 'Nowy samochód' = accusative (m inanimate, no change)."
+      "prompt_fa": "کلمات را به ترتیب بزنید: دیروز او یک ماشین جدید خرید.",
+      "wordBank": ["Wczoraj", "kupił", "kupiła", "nowy", "nowe", "samochód"],
+      "correctSequences": [["Wczoraj", "kupił", "nowy", "samochód"]],
+      "explanation": "'Wczoraj kupił nowy samochód.' — Yesterday he bought a new car. 'Kupić' past masculine: kupił. 'Nowy samochód' = accusative (m inanimate, no change).",
+      "explanation_fa": "'Wczoraj kupił nowy samochód.' — دیروز او یک ماشین جدید خرید. گذشته مذکر فعل 'kupić': kupił."
     },
     {
       "id": "a2-ch11-l01-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Mój tata ___ w Londynie przez rok. (My dad lived in London for a year.) [mieszkać, on]",
+      "prompt": "Tomek's father lived in London for a year. Choose the correct form: Mój tata ___ w Londynie przez rok.",
+      "prompt_fa": "پدر تامک یک سال در لندن زندگی کرد. فرم درست را انتخاب کنید: Mój tata ___ w Londynie przez rok.",
+      "options": ["mieszkał", "mieszkałem", "mieszkałeś", "mieszkam"],
+      "correctIndex": 0,
+      "explanation": "'Mieszkać' past masculine 3rd person: mieszkał (-ł ending). No personal ending for 'on' in past tense.",
+      "explanation_fa": "گذشته سوم شخص مذکر 'mieszkać': mieszkał (پسوند -ł). در گذشته برای 'on' پسوند شخصی نمی‌آید."
+    },
+    {
+      "id": "a2-ch11-l01-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia asks Tomek: 'Did you (m) see that film?' Choose the correct past form for 'widzieć, ty m'.",
+      "prompt_fa": "کاسیا از تامک می‌پرسد: 'آیا آن فیلم را دیدی؟' فرم گذشته درست را برای 'widzieć، ty م' انتخاب کنید.",
+      "options": ["widziałeś", "widziałam", "widział", "widziałem"],
+      "correctIndex": 0,
+      "explanation": "'Widzieć' past masculine ty: widziałeś (-łeś ending). 'Ty' masculine past always ends -łeś.",
+      "explanation_fa": "گذشته ty مذکر از 'widzieć': widziałeś (پسوند -łeś). برای ty مذکر همیشه -łeś می‌آید."
+    },
+    {
+      "id": "a2-ch11-l01-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Marek tells Ania he spoke Polish at the meeting. Complete:",
+      "context_fa": "ماریک به آنیا می‌گوید که در جلسه لهستانی صحبت کرد. کامل کنید:",
+      "sentence": "Na spotkaniu ___ po polsku.",
+      "translation": "(I spoke Polish at the meeting) [mówić → ja m past: mówiłem]",
+      "translation_fa": "(در جلسه لهستانی حرف زدم) [mówić → ja م گذشته: mówiłem]",
+      "prompt": "Na spotkaniu ___ po polsku.",
+      "prompt_fa": "Na spotkaniu ___ po polsku.",
+      "answer": "mówiłem",
+      "acceptableAnswers": ["mówiłem"],
+      "hint": "ja masculine past of mówić: mówiłem (-iłem ending)",
+      "explanation": "'Mówić' past masculine ja: mówiłem. Stem: mówi- + ł + em = mówiłem.",
+      "explanation_fa": "گذشته ja مذکر از 'mówić': mówiłem. ریشه: mówi- + ł + em = mówiłem."
+    },
+    {
+      "id": "a2-ch11-l01-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "audioAsset": "assets/audio/a2/ch11/a2-ch11-l01-ex08.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
-        "mieszkał",
-        "mieszkałem",
-        "mieszkałeś",
-        "mieszkam"
+        "Tomek pracował w Warszawie przez rok.",
+        "Tomek pracowała w Warszawie przez rok.",
+        "Tomek pracowałem w Warszawie przez rok.",
+        "Tomek pracuje w Warszawie przez rok."
       ],
       "correctIndex": 0,
-      "explanation": "'Mieszkać' past masculine 3rd person: mieszkał (-ł ending). No personal ending for 'on' in past tense."
+      "explanation": "You heard: 'Tomek pracował w Warszawie przez rok.' — Tomek worked in Warsaw for a year. 'Pracować' past masculine 3rd: pracował.",
+      "explanation_fa": "شنیدید: 'Tomek pracował w Warszawie przez rok.' — تامک یک سال در ورشو کار کرد. گذشته سوم شخص مذکر 'pracować': pracował."
+    },
+    {
+      "id": "a2-ch11-l01-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: Marek studied Polish at university last year.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: ماریک سال گذشته در دانشگاه لهستانی خواند.",
+      "wordBank": ["Marek", "studiował", "studiowała", "polskiego", "na", "uniwersytecie"],
+      "correctSequences": [["Marek", "studiował", "polskiego", "na", "uniwersytecie"]],
+      "explanation": "'Marek studiował polskiego na uniwersytecie.' — Marek studied Polish at university. 'Studiować' past masc 3rd: studiował. 'Polskiego' = genitive after studiować.",
+      "explanation_fa": "'Marek studiował polskiego na uniwersytecie.' — ماریک در دانشگاه لهستانی خواند. گذشته سوم شخص مذکر 'studiować': studiował."
+    },
+    {
+      "id": "a2-ch11-l01-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Tomek is talking about last weekend. Which sentence says 'I (m) played football on Saturday'?",
+      "prompt_fa": "تامک درباره آخر هفته گذشته صحبت می‌کند. کدام جمله 'من (م) شنبه فوتبال بازی کردم' را می‌گوید؟",
+      "options": [
+        "W sobotę grałem w piłkę nożną.",
+        "W sobotę grałam w piłkę nożną.",
+        "W sobotę grał w piłkę nożną.",
+        "W sobotę gram w piłkę nożną."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Grać' past masculine ja: grałem. 'W sobotę' = on Saturday. 'W piłkę nożną' = football (accusative after grać w).",
+      "explanation_fa": "گذشته ja مذکر از 'grać': grałem. 'W sobotę' = شنبه. 'W piłkę nożną' = فوتبال."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": [
-    "past-tense",
-    "masculine",
-    "a2-core"
-  ],
-  "prerequisites": [
-    "a1-ch05-l01",
-    "a1-ch05-l02"
-  ]
+  "tags": ["past-tense", "masculine", "a2-core"],
+  "prerequisites": ["a1-ch05-l01", "a1-ch05-l02"]
 }

@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch12-l04-advanced-prep-context",
+  "chapter": 12,
+  "lessonOrder": 4,
+  "level": "b1",
+  "title": "Advanced Prepositions in Complex Sentences",
+  "title_fa": "حروف اضافه پیشرفته در جمله‌های پیچیده",
+  "grammarPoint": "Combining advanced prepositions in authentic contexts: mimo, wbrew, według, podczas, wzdłuż, wokół",
+  "grammarPoint_fa": "ترکیب حروف اضافه پیشرفته در متن‌های واقعی: mimo، wbrew، według، podczas، wzdłuż، wokół",
+  "explanation": {
+    "text": "At B1 level, you need to recognize and use all the advanced prepositions in connected text:\n\n**Review of all B1 prepositions + their cases:**\n\n| Preposition | Case | Meaning | Example |\n|------------|------|---------|--------|\n| mimo | genitive | despite | mimo deszczu |\n| wbrew | dative | against/contrary to | wbrew zasadom |\n| według | genitive | according to | według planu |\n| podczas | genitive | during | podczas spotkania |\n| wzdłuż | genitive | along | wzdłuż rzeki |\n| wokół | genitive | around | wokół miasta |\n| naprzeciw(ko) | genitive | opposite | naprzeciwko parku |\n| wśród | genitive | among (people) | wśród studentów |\n| pośród | genitive | among (things) | pośród drzew |\n| zamiast | genitive | instead of | zamiast kawy |\n| oprócz | genitive | apart from/except | oprócz mnie |\n| bez | genitive | without | bez mleka |\n\n**In authentic text (combining prepositions):**\n\n*Newspaper:* Według raportu, podczas ostatniej burzy woda wylała wzdłuż całego wybrzeża.\n*(According to the report, during the last storm, water flooded along the entire coast.)*\n\n*Story:* Mimo zmęczenia, wbrew radom lekarza, wróciła do pracy.\n*(Despite fatigue, against the doctor's advice, she returned to work.)*\n\n*Description:* Wokół starego zamku, pośród drzew, są ukryte skarby.\n*(Around the old castle, among the trees, treasures are hidden.)*",
+    "notes": [
+      "Most B1 prepositions take genitive; only wbrew takes dative",
+      "In formal/journalistic Polish, advanced prepositions are very common",
+      "Prepositions can stack in complex sentences: Mimo... według... podczas...",
+      "podle (informal) = według (formal) — regional variant"
+    ]
+  },
+  "explanation_fa": "در سطح B1 باید تمام حروف اضافه پیشرفته را در متن مرتبط بشناسید و استفاده کنید. اکثر حروف اضافه B1 مضاف‌الیه می‌گیرند؛ فقط 'wbrew' دادی می‌گیرد. در لهستانی رسمی و روزنامه‌ای این حروف اضافه بسیار رایج هستند و می‌توانند در جملات پیچیده با هم ترکیب شوند.",
+  "exercises": [
+    {
+      "id": "b1-ch12-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Read: 'Według prognoz, ___ weekendu będzie padać.' Which preposition fits?",
+      "prompt_fa": "بخوانید: 'Według prognoz, ___ weekendu będzie padać.' کدام حرف اضافه مناسب است؟",
+      "options": [
+        "podczas",
+        "wzdłuż",
+        "wbrew",
+        "wokół"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Podczas weekendu' = during the weekend. 'Podczas' + genitive for a period of time.",
+      "explanation_fa": "'Podczas weekendu' = در طول آخر هفته. 'Podczas' + مضاف‌الیه برای یک دوره زمانی."
+    },
+    {
+      "id": "b1-ch12-l04-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Translate: Despite the difficulties, according to experts the economy is growing. Complete the first part:",
+      "context_fa": "ترجمه کنید: علی‌رغم مشکلات، طبق نظر متخصصان اقتصاد در حال رشد است. بخش اول را کامل کنید:",
+      "sentence": "___ trudności, według ekspertów gospodarka rośnie.",
+      "prompt": "___ trudności, według ekspertów gospodarka rośnie.",
+      "prompt_fa": "___ trudności, według ekspertów gospodarka rośnie.",
+      "answer": "Mimo",
+      "acceptableAnswers": ["Mimo", "mimo"],
+      "hint": "despite = mimo + genitive",
+      "explanation": "'Mimo trudności' = despite the difficulties (genitive plural of 'trudność'). Then 'według ekspertów' = according to experts.",
+      "explanation_fa": "'Mimo trudności' = علی‌رغم مشکلات (مضاف‌الیه جمع 'trudność'). سپس 'według ekspertów' = طبق نظر متخصصان."
+    },
+    {
+      "id": "b1-ch12-l04-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch12/b1-ch12-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Wbrew zasadom zaparkowali naprzeciwko szkoły.",
+        "Mimo zasad zaparkowali naprzeciwko szkoły.",
+        "Według zasad zaparkowali naprzeciwko szkoły.",
+        "Podczas zasad zaparkowali naprzeciwko szkoły."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wbrew zasadom' (against the rules — dative) + 'naprzeciwko szkoły' (opposite the school — genitive). Both prepositions used correctly.",
+      "explanation_fa": "'Wbrew zasadom' (برخلاف قوانین — دادی) + 'naprzeciwko szkoły' (روبروی مدرسه — مضاف‌الیه). هر دو حرف اضافه به‌درستی استفاده شده."
+    },
+    {
+      "id": "b1-ch12-l04-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: During the meeting, according to the plan, they discussed the budget.",
+      "prompt_fa": "بسازید: در طول جلسه، طبق برنامه، بودجه را بحث کردند.",
+      "wordBank": ["Podczas", "spotkania", "według", "planu", "omawiali", "budżet", "wbrew"],
+      "correctSequences": [["Podczas", "spotkania", "według", "planu", "omawiali", "budżet"]],
+      "explanation": "'Podczas spotkania, według planu, omawiali budżet.' — During the meeting, according to the plan, they discussed the budget.",
+      "explanation_fa": "'Podczas spotkania, według planu, omawiali budżet.' — در طول جلسه، طبق برنامه، بودجه را بحث کردند."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["prepositions", "advanced", "b1-core"],
+  "prerequisites": ["b1-ch12-l01", "b1-ch12-l02", "b1-ch12-l03"]
+}

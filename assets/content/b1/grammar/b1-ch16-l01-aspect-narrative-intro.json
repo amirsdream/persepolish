@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch16-l01-aspect-narrative-intro",
+  "chapter": 16,
+  "lessonOrder": 1,
+  "level": "b1",
+  "title": "Aspect in Storytelling: Background vs. Foreground",
+  "title_fa": "جنبه در داستان‌پردازی: پس‌زمینه در مقابل پیش‌زمینه",
+  "grammarPoint": "Imperfective = background/setting/ongoing; Perfective = foreground events that advance the plot",
+  "grammarPoint_fa": "ناکامل = پس‌زمینه/فضاسازی/ادامه‌دار؛ کامل = رویدادهای پیش‌زمینه که طرح را پیش می‌برند",
+  "explanation": {
+    "text": "In Polish narrative (stories, novels, news reports), **aspect** does a crucial job:\n\n**Imperfective past** = sets the scene, describes ongoing states, background actions:\n- Był wieczór. (It was evening.) — state/setting\n- Wiatr **wiał** zimno. (The wind was blowing coldly.) — ongoing\n- Dzieci **bawiły się** w ogrodzie. (Children were playing in the garden.) — ongoing\n\n**Perfective past** = events that happen once, advance the plot, mark plot points:\n- Nagle **otworzyły się** drzwi. (Suddenly the doors opened.) — event\n- **Wszedł** wysoki mężczyzna. (A tall man entered.) — event\n- **Powiedział** tylko jedno słowo. (He said only one word.) — event\n\n**Classic narrative pattern:**\n1. BACKGROUND (imperfective): Był piękny letni dzień. Słońce świeciło, ptaki śpiewały.\n2. EVENT (perfective): Nagle zadzwonił telefon.\n3. BACKGROUND continues (imperfective): Kasia siedziała przy oknie...\n4. EVENT (perfective): Podniosła słuchawkę.\n\n**The literary rhythm:**\n- Imperfective: slow, descriptive, atmospheric\n- Perfective: fast, action-advancing, pivotal\n\nGood Polish writing alternates these rhythms for effect.",
+    "notes": [
+      "Imperfective = description, background, atmosphere; Perfective = events, plot points",
+      "Nagle (suddenly) almost always triggers a perfective verb",
+      "State verbs (był, wiedział, chciał, lubił) are always imperfective",
+      "Learning to read aspect in narrative helps comprehension enormously"
+    ]
+  },
+  "explanation_fa": "در روایت لهستانی (داستان‌ها، رمان‌ها، گزارش‌های خبری)، جنبه نقش حیاتی دارد: ناکامل گذشته = فضاسازی، حالت‌های ادامه‌دار، اقدامات پس‌زمینه (Był wieczór، wiatr wiał). کامل گذشته = رویدادهایی که یک‌بار اتفاق می‌افتند و طرح را پیش می‌برند (nagle otworzyły się drzwi، wszedł mężczyzna). الگوی کلاسیک: پس‌زمینه ناکامل → رویداد کامل → پس‌زمینه ناکامل → رویداد کامل. 'Nagle' (ناگهان) تقریباً همیشه فعل کامل می‌طلبد.",
+  "exercises": [
+    {
+      "id": "b1-ch16-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "In a story: 'Była zimna noc. Śnieg ___ cicho.' Which aspect fits the background description?",
+      "prompt_fa": "در داستان: 'Była zimna noc. Śnieg ___ cicho.' کدام جنبه برای توصیف پس‌زمینه مناسب است؟",
+      "options": [
+        "padał (imperfective — ongoing background)",
+        "padł (perfective — single event)",
+        "zapadł (perfective — fell/sank)",
+        "pada (present — not past narrative)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Padał' (imperfective) = was falling — sets the atmospheric background. 'Padł' (perfective) would mean 'it fell once' — too abrupt for description.",
+      "explanation_fa": "'Padał' (ناکامل) = می‌بارید — پس‌زمینه فضایی را تعیین می‌کند. 'Padł' (کامل) یعنی 'یک‌بار بارید' — برای توصیف خیلی ناگهانی است."
+    },
+    {
+      "id": "b1-ch16-l01-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "A story event: Suddenly the phone rang. Use perfective past of 'zadzwonić':",
+      "context_fa": "یک رویداد داستانی: ناگهان تلفن زنگ زد. از گذشته کامل 'zadzwonić' استفاده کنید:",
+      "sentence": "Nagle ___ telefon.",
+      "prompt": "Nagle ___ telefon.",
+      "prompt_fa": "Nagle ___ telefon.",
+      "answer": "zadzwonił",
+      "acceptableAnswers": ["zadzwonił"],
+      "hint": "nagle = suddenly → perfective event: zadzwonił (perf. past of zadzwonić)",
+      "explanation": "'Nagle zadzwonił telefon.' — Suddenly the phone rang. 'Nagle' + perfective = classic narrative event pattern.",
+      "explanation_fa": "'Nagle zadzwonił telefon.' — ناگهان تلفن زنگ زد. 'Nagle' + کامل = الگوی کلاسیک رویداد روایی."
+    },
+    {
+      "id": "b1-ch16-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch16/b1-ch16-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Słońce świeciło, gdy nagle rozległ się strzał.",
+        "Słońce zaświeciło, gdy nagle rozlegał się strzał.",
+        "Słońce świeciło, gdy nagle rozlegały się strzały.",
+        "Słońce zaświeciło, gdy nagle rozlega się strzał."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Słońce świeciło' (imperf, background) + 'nagle rozległ się strzał' (perf, event). Perfect narrative structure: background → sudden event.",
+      "explanation_fa": "'Słońce świeciło' (ناکامل، پس‌زمینه) + 'nagle rozległ się strzał' (کامل، رویداد). ساختار روایی عالی: پس‌زمینه → رویداد ناگهانی."
+    },
+    {
+      "id": "b1-ch16-l01-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build the narrative: 'Children were playing (ongoing) when suddenly they heard a loud noise.'",
+      "prompt_fa": "روایت را بسازید: 'بچه‌ها داشتند بازی می‌کردند (ادامه‌دار) که ناگهان صدای بلندی شنیدند.'",
+      "wordBank": ["Dzieci", "bawiły", "się", "gdy", "nagle", "usłyszały", "głośny", "hałas"],
+      "correctSequences": [["Dzieci", "bawiły", "się", "gdy", "nagle", "usłyszały", "głośny", "hałas"]],
+      "explanation": "'Dzieci bawiły się, gdy nagle usłyszały głośny hałas.' — 'Bawiły się' (imperf, background) + 'usłyszały' (perf, event) = correct narrative aspect.",
+      "explanation_fa": "'Dzieci bawiły się, gdy nagle usłyszały głośny hałas.' — 'Bawiły się' (ناکامل، پس‌زمینه) + 'usłyszały' (کامل، رویداد) = جنبه روایی درست."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["aspect", "narrative", "storytelling", "b1-core"],
+  "prerequisites": ["b1-ch01-l01", "b1-ch02-l01"]
+}

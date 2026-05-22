@@ -5,24 +5,25 @@
   "lessonOrder": 4,
   "title": "Questions — czy and Question Words",
   "title_fa": "سؤال با czy و کلمات پرسشی",
-  "grammarPoint": "Yes/no questions with czy; question words kto, co, gdzie, skąd, jak",
-  "grammarPoint_fa": "ساختن سؤال با czy (بله/خیر) و کلمات پرسشی kto، co، gdzie، kiedy",
+  "grammarPoint": "Yes/no questions with czy; WH-question words: kto, co, gdzie, skąd, kiedy, jak, dlaczego, ile",
+  "grammarPoint_fa": "سؤالات بله/خیر با czy؛ کلمات پرسشی: kto، co، gdzie، skąd، kiedy، jak",
   "explanation": {
-    "text": "Polish forms questions in two ways:\n\n**1. Yes/No questions with czy**\nAdd **czy** at the beginning of a statement to make a yes/no question. Word order stays the same.\n- *Mówisz po polsku.* → **Czy** *mówisz po polsku?*\n- *Jesteś studentem.* → **Czy** *jesteś studentem?*\n\nAlternatively, you can use rising intonation without 'czy' in informal speech.\n\n**2. Question words (WH-questions)**\n\n| Question word | Polish | Example |\n|---------------|--------|---------|\n| who | **kto** | Kto to jest? |\n| what | **co** | Co to jest? |\n| where | **gdzie** | Gdzie mieszkasz? |\n| where from | **skąd** | Skąd jesteś? |\n| how | **jak** | Jak się masz? |\n| what name | **jak się nazywasz** | Jak się nazywasz? |",
+    "text": "## Questions — czy and Question Words\n\nPolish forms questions in two ways: **yes/no questions** (using *czy* or rising intonation) and **WH-questions** (using a question word).\n\n### 1. Yes/No questions with czy\n\nAdd **czy** at the very start of a statement to make a yes/no question. Word order stays the same:\n\n| Statement | Question | English |\n|-----------|----------|---------|\n| *Mówisz po polsku.* | **Czy** mówisz po polsku? | Do you speak Polish? |\n| *Jesteś studentem.* | **Czy** jesteś studentem? | Are you a student? |\n| *Masz brata.* | **Czy** masz brata? | Do you have a brother? |\n| *Ona pracuje tu.* | **Czy** ona pracuje tu? | Does she work here? |\n\n> 💡 In informal speech, *czy* is optional — rising intonation alone signals a question: *Mówisz po polsku?*\n\n### 2. WH-question words\n\n| Polish | English | Example | Typical answer |\n|--------|---------|---------|----------------|\n| **kto** | who | Kto to jest? | To jest Kasia. |\n| **co** | what | Co to jest? | To jest herbata. |\n| **gdzie** | where | Gdzie mieszkasz? | Mieszkam w Krakowie. |\n| **skąd** | from where | Skąd jesteś? | Jestem z Polski. |\n| **dokąd** | to where | Dokąd idziesz? | Idę do sklepu. |\n| **kiedy** | when | Kiedy przyjeżdżasz? | W piątek. |\n| **jak** | how | Jak się masz? | Dobrze, dziękuję. |\n| **dlaczego** | why | Dlaczego płaczesz? | Bo jestem smutna. |\n| **ile** | how many/much | Ile masz lat? | Mam 25 lat. |\n\n### kto and co — always 3rd person singular\n\n*Kto* (who) and *co* (what) always take a **3rd person singular** verb, regardless of the expected answer:\n\n| Polish | English |\n|--------|---------|\n| *Kto to **jest**?* | Who is this? |\n| *Kto **mówi**?* | Who speaks? |\n| *Co **to jest**?* | What is this? |\n\n### gdzie vs. skąd vs. dokąd\n\n| Question | Meaning | Example |\n|----------|---------|----------|\n| *gdzie?* | where (location) | Gdzie jesteś? = Where are you? |\n| *skąd?* | from where (origin) | Skąd jesteś? = Where are you from? |\n| *dokąd?* | to where (destination) | Dokąd idziesz? = Where are you going? |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Mówisz czy po polsku?* | *Czy mówisz po polsku?* | czy goes at the very start |\n| *Kto są tutaj?* | *Kto jest tutaj?* | kto takes 3rd sg verb |\n| *Gdzie jesteś z?* | *Skąd jesteś?* | 'from where' = skąd, not gdzie+z |\n| *Jak dużo?* | *Ile?* | quantity = ile, not jak dużo |",
     "notes": [
-      "czy at the start = yes/no question marker, like English 'do you...?'",
-      "kto = who (takes 3rd person singular verb: Kto to jest?)",
-      "co = what (also 3rd person singular: Co to jest?)",
-      "skąd = from where (Skąd jesteś? = Where are you from?)"
+      "czy at the start = yes/no question marker; in informal speech it is optional",
+      "kto (who) and co (what) always take 3rd person singular: Kto jest? Kto mówi?",
+      "gdzie = where (static), skąd = from where (origin), dokąd = to where (destination)",
+      "ile = how many/much for quantities; jak = how for manner/state"
     ]
   },
-  "explanation_fa": "برای سؤال بله/خیر از czy در ابتدای جمله استفاده کنید: Czy masz brata? (برادر داری؟). کلمات پرسشی: kto (کی)، co (چی)، gdzie (کجا)، kiedy (کی/چه وقت)، jak (چطور)، dlaczego (چرا)، ile (چقدر/چند).",
+  "explanation_fa": "## سؤال با czy و کلمات پرسشی\n\nلهستانی سؤال را به دو روش می‌سازد: **سؤال بله/خیر** (با *czy* یا آهنگ صعودی) و **سؤال‌های kto/co/gdzie** (با کلمه پرسشی).\n\n### ۱. سؤال بله/خیر با czy\n\n**czy** را در ابتدای جمله قرار دهید تا سؤال بله/خیر بسازید. ترتیب کلمات تغییر نمی‌کند:\n\n| جمله | سؤال | فارسی |\n|------|------|-------|\n| *Mówisz po polsku.* | **Czy** mówisz po polsku? | لهستانی حرف می‌زنی؟ |\n| *Masz brata.* | **Czy** masz brata? | برادر داری؟ |\n\n> 💡 در گفتار غیررسمی، *czy* اختیاری است — آهنگ صعودی به تنهایی سؤال را نشان می‌دهد.\n\n### ۲. کلمات پرسشی\n\n| لهستانی | فارسی | مثال | جواب معمول |\n|---------|-------|------|------------|\n| **kto** | کی | Kto to jest? | To jest Kasia. |\n| **co** | چی | Co to jest? | To jest herbata. |\n| **gdzie** | کجا (مکان) | Gdzie mieszkasz? | Mieszkam w Krakowie. |\n| **skąd** | از کجا (منشأ) | Skąd jesteś? | Jestem z Polski. |\n| **kiedy** | چه وقت | Kiedy przyjeżdżasz? | W piątek. |\n| **jak** | چطور | Jak się masz? | Dobrze, dziękuję. |\n| **dlaczego** | چرا | Dlaczego płaczesz? | Bo jestem smutna. |\n| **ile** | چقدر/چند | Ile masz lat? | Mam 25 lat. |\n\n### kto و co — همیشه سوم شخص مفرد\n\n*Kto* (کی) و *co* (چی) همیشه با فعل **سوم شخص مفرد** می‌آیند:\nKto to **jest**? — Kto **mówi**? — Co to **jest**?\n\n### تفاوت gdzie / skąd / dokąd\n\n| سؤال | معنی | مثال |\n|------|------|------|\n| *gdzie?* | کجا (موقعیت) | Gdzie jesteś? = کجایی؟ |\n| *skąd?* | از کجا (منشأ) | Skąd jesteś? = اهل کجایی؟ |\n| *dokąd?* | به کجا (مقصد) | Dokąd idziesz? = کجا می‌ری؟ |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Mówisz czy po polsku?* | *Czy mówisz po polsku?* | czy باید در ابتدا باشد |\n| *Kto są tutaj?* | *Kto jest tutaj?* | kto با فعل سوم شخص مفرد می‌آید |\n| *Gdzie jesteś z?* | *Skąd jesteś?* | 'از کجا' = skąd، نه gdzie |",
   "exercises": [
     {
       "id": "a1-ch03-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Turn into a question: 'Mówisz po polsku.'",
+      "prompt": "Marek wants to ask if Kasia speaks Polish. Which sentence is correct?",
+      "prompt_fa": "ماریک می‌خواهد بپرسد آیا کاسیا لهستانی حرف می‌زند. کدام جمله درست است؟",
       "options": [
         "Czy mówisz po polsku?",
         "Mówisz czy po polsku?",
@@ -30,25 +31,36 @@
         "Mówisz po polsku czy?"
       ],
       "correctIndex": 0,
-      "explanation": "Add 'czy' at the beginning: 'Czy mówisz po polsku?' = Do you speak Polish? The rest of the sentence stays the same."
+      "explanation": "Add 'czy' at the start: 'Czy mówisz po polsku?' = Do you speak Polish? The rest of the sentence stays in the same word order.",
+      "explanation_fa": "'czy' را در ابتدا اضافه کنید: 'Czy mówisz po polsku?' = لهستانی حرف می‌زنی؟ بقیه جمله به همان ترتیب کلمات باقی می‌ماند."
     },
     {
       "id": "a1-ch03-l04-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "___ jesteś? (Where are you from?)",
       "answer": "Skąd",
       "acceptableAnswers": [
         "Skąd",
         "skąd"
       ],
-      "hint": "The question word meaning 'from where'"
+      "hint": "The question word meaning 'from where' (origin)",
+      "explanation": "'Skąd jesteś?' = Where are you from? 'Skąd' = from where (origin). Compare: 'Gdzie jesteś?' = Where are you? (location).",
+      "explanation_fa": "'Skąd jesteś?' = اهل کجایی؟ 'Skąd' = از کجا (منشأ). مقایسه: 'Gdzie jesteś?' = کجایی؟ (موقعیت).",
+      "context": "Complete the sentence:",
+      "context_fa": "جمله را کامل کنید:",
+      "sentence": "___ jesteś?",
+      "translation": "(Where are you from?)",
+      "translation_fa": "(اهل کجایی؟)",
+      "prompt": "___ jesteś?",
+      "prompt_fa": "___ jesteś?"
     },
     {
       "id": "a1-ch03-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch03/a1-ch03-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Kto to jest?",
         "Co to jest?",
@@ -56,19 +68,19 @@
         "Jak to jest?"
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Kto to jest?' — Who is this? 'Kto' = who. Compare: 'Co to jest?' = What is this?"
+      "explanation": "You heard: 'Kto to jest?' — Who is this? 'Kto' = who (takes 3rd sg verb). Compare: 'Co to jest?' = What is this?",
+      "explanation_fa": "شنیدید: 'Kto to jest?' — این کیه؟ 'Kto' = کی (با فعل سوم شخص مفرد می‌آید). مقایسه: 'Co to jest?' = این چیه؟"
     },
     {
       "id": "a1-ch03-l04-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build a question: Do you have a brother?",
+      "prompt": "Tap the words in order: Do you have a brother?",
+      "prompt_fa": "کلمات را به ترتیب بزنید: برادر داری؟",
       "wordBank": [
         "Czy",
         "masz",
-        "mam",
         "brata",
-        "brat",
         "siostrę"
       ],
       "correctSequences": [
@@ -78,13 +90,15 @@
           "brata"
         ]
       ],
-      "explanation": "'Czy masz brata?' = Do you have a brother? 'Brata' is the accusative/genitive of 'brat'."
+      "explanation": "'Czy masz brata?' = Do you have a brother? 'Czy' starts the yes/no question. 'Brata' is the accusative of 'brat'. 'Siostrę' is a distractor (sister).",
+      "explanation_fa": "'Czy masz brata?' = برادر داری؟ 'Czy' سؤال بله/خیر را شروع می‌کند. 'Brata' مفعولی 'brat' است. 'Siostrę' گزینه اضافه است (خواهر)."
     },
     {
       "id": "a1-ch03-l04-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Which question asks 'Where do you live?'",
+      "prompt": "Ania wants to know where Tomek lives. Which question should she ask?",
+      "prompt_fa": "آنیا می‌خواهد بداند تامک کجا زندگی می‌کند. کدام سؤال باید بپرسد؟",
       "options": [
         "Gdzie mieszkasz?",
         "Skąd jesteś?",
@@ -92,7 +106,99 @@
         "Kto tam jest?"
       ],
       "correctIndex": 0,
-      "explanation": "'Gdzie mieszkasz?' = Where do you live? 'Gdzie' = where (location). 'Skąd' = from where (origin)."
+      "explanation": "'Gdzie mieszkasz?' = Where do you live? 'Gdzie' = where (static location). 'Skąd jesteś?' asks about origin (where someone is from).",
+      "explanation_fa": "'Gdzie mieszkasz?' = کجا زندگی می‌کنی؟ 'Gdzie' = کجا (موقعیت ثابت). 'Skąd jesteś?' درباره منشأ می‌پرسد (اهل کجا بودن)."
+    },
+    {
+      "id": "a1-ch03-l04-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Tomek wants to ask 'Who is that?' Which question word does he use?",
+      "prompt_fa": "تامک می‌خواهد بپرسد «آن کیست؟» از کدام کلمه سؤالی استفاده می‌کند؟",
+      "options": [
+        "Kto",
+        "Co",
+        "Gdzie",
+        "Jak"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Kto' = who (for people). 'Kto to jest?' = Who is that? Use 'co' for things, 'gdzie' for places, 'jak' for manner.",
+      "explanation_fa": "'Kto' = کی (برای اشخاص). 'Kto to jest?' = آن کیست؟ از 'co' برای اشیاء، 'gdzie' برای مکان‌ها، 'jak' برای روش استفاده کنید."
+    },
+    {
+      "id": "a1-ch03-l04-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "Co",
+      "acceptableAnswers": [
+        "Co",
+        "co"
+      ],
+      "hint": "Use the question word for 'what' (for things)",
+      "explanation": "'Co to jest?' = What is this/that? 'Co' asks about things and objects. 'Kto' would be used for people.",
+      "explanation_fa": "'Co to jest?' = این/آن چیست؟ 'Co' درباره اشیاء و چیزها می‌پرسد. 'Kto' برای اشخاص استفاده می‌شود.",
+      "context": "Ania asks what is on the table:",
+      "context_fa": "آنیا می‌پرسد روی میز چیست:",
+      "sentence": "___ to jest?",
+      "translation": "(What is this?)",
+      "translation_fa": "(این چیست؟)",
+      "prompt": "___ to jest?",
+      "prompt_fa": "___ to jest?"
+    },
+    {
+      "id": "a1-ch03-l04-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Marek asks: 'Czy masz brata?' This is a...",
+      "prompt_fa": "مارک می‌پرسد: 'Czy masz brata؟' این یک... است.",
+      "options": [
+        "yes/no question",
+        "wh-question",
+        "exclamation",
+        "command"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Czy' starts a yes/no question. The expected answer is 'tak' (yes) or 'nie' (no). 'Czy masz brata?' = Do you have a brother?",
+      "explanation_fa": "'Czy' یک سؤال بله/خیر را شروع می‌کند. جواب مورد انتظار 'tak' (بله) یا 'nie' (خیر) است. 'Czy masz brata?' = آیا برادر داری؟"
+    },
+    {
+      "id": "a1-ch03-l04-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Kasia wonders where Ania is. Arrange: Where is Ania?",
+      "prompt_fa": "کاسیا می‌خواهد بداند آنیا کجاست. کلمات را به ترتیب بزنید: آنیا کجاست؟",
+      "wordBank": [
+        "Gdzie",
+        "jest",
+        "Ania",
+        "Co"
+      ],
+      "correctSequences": [
+        [
+          "Gdzie",
+          "jest",
+          "Ania"
+        ]
+      ],
+      "explanation": "'Gdzie jest Ania?' = Where is Ania? Question word first: Gdzie + verb + subject. 'Co' would ask 'what', not 'where'.",
+      "explanation_fa": "'Gdzie jest Ania?' = آنیا کجاست؟ کلمه سؤالی اول: Gdzie + فعل + فاعل. 'Co' «چی» می‌پرسد، نه «کجا»."
+    },
+    {
+      "id": "a1-ch03-l04-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch03/a1-ch03-l04-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Czy Tomek jest z Krakowa?",
+        "Co Tomek jest z Krakowa?",
+        "Gdzie Tomek jest z Krakowa?",
+        "Kto Tomek jest z Krakowa?"
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Czy Tomek jest z Krakowa?' — Is Tomek from Kraków? 'Czy' starts the yes/no question. 'Z + genitive' = from: Kraków → Krakowa.",
+      "explanation_fa": "شنیدید: 'Czy Tomek jest z Krakowa?' — آیا تامک از کراکوف است؟ 'Czy' سؤال بله/خیر را شروع می‌کند. 'Z + مضاف‌الیهی' = از: Kraków → Krakowa."
     }
   ],
   "xpReward": 20,

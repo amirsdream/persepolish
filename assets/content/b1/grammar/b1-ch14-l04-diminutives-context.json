@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch14-l04-diminutives-context",
+  "chapter": 14,
+  "lessonOrder": 4,
+  "level": "b1",
+  "title": "Diminutives in Everyday Speech and Informal Register",
+  "title_fa": "کوچک‌سازها در گفتار روزمره و لحن غیررسمی",
+  "grammarPoint": "Recognizing and using diminutives in authentic Polish conversations, stories, and informal texts",
+  "grammarPoint_fa": "شناخت و استفاده از کوچک‌سازها در مکالمات واقعی لهستانی، داستان‌ها و متون غیررسمی",
+  "explanation": {
+    "text": "At B1 level, you need to recognize diminutives in natural Polish text and conversation:\n\n**Diminutives in typical contexts:**\n\n*Grocery shopping:*\n- Poproszę **chlebek** (a loaf of bread, please)\n- Czy ma pani **jajeczka**? (Do you have eggs? — endearing/polite)\n- Daj mi **serek** please. (Give me some cheese — familiar)\n\n*With children:*\n- Już **sypiam** jak **dzieciątko**. (I'm sleeping like a baby.)\n- Ładny **misio**! (Pretty teddy bear!)\n- Daj **rączki**. (Give your hands.)\n\n*Family conversations:*\n- **Mamusia** już idzie. (Mummy is coming.)\n- **Tatusiu**, czy mogę? (Daddy, may I?)\n- **Babciu**, zrobiłaś ciasteczka? (Granny, did you make cookies?)\n\n*Informal stories and folk tales:*\n- Był sobie pewien **królik**... (There was once a little rabbit...)\n- W małym **domeczku** mieszkała **staruszka**. (In a small house lived an old lady.)\n\n**Diminutives as standard words (no longer felt as small):**\n| Diminutive | Felt as standard | Meaning |\n|-----------|-----------------|--------|\n| stołek | standard | stool, chair |\n| kożuszek | standard | sheepskin jacket |\n| baranek | standard | lamb |\n| paluszek | standard | finger cracker |\n| torebka | standard | bag, purse |\n| tabletka | standard | tablet, pill |",
+    "notes": [
+      "Many diminutives are now the default/standard form — not felt as diminutive",
+      "Recognizing diminutives = key for B1 reading comprehension",
+      "Diminutives appear extensively in folklore, children's literature, and casual speech",
+      "Some diminutives have shifted meaning: stołek = stool (not just a small stół)"
+    ]
+  },
+  "explanation_fa": "در سطح B1 باید کوچک‌سازها را در متن و مکالمات واقعی لهستانی بشناسید. در خرید خواروبار: chlebek (یک قرص نان)، jajeczka (تخم‌مرغ — محبت‌آمیز)، serek (کمی پنیر). با بچه‌ها: misio (خرس عروسکی)، rączki (دست‌ها). در خانواده: mamusia، tatusiu، babcia. بسیاری از کوچک‌سازها اکنون کلمه استاندارد هستند: torebka (کیف)، tabletka (قرص).",
+  "exercises": [
+    {
+      "id": "b1-ch14-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "In a story: 'W domeczku mieszkała stara baba.' What does 'domeczku' tell you?",
+      "prompt_fa": "در داستان: 'W domeczku mieszkała stara baba.' 'domeczku' چه چیزی به شما می‌گوید؟",
+      "options": [
+        "It's a small/humble house — sets a fairy-tale, intimate tone",
+        "It's a big, grand house",
+        "It's a modern house",
+        "The house belongs to a doctor"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Domeczek' (double diminutive of dom) signals a humble, small, fairy-tale cottage. Common in Polish folk tales (bajki).",
+      "explanation_fa": "'Domeczek' (کوچک‌ساز مضاعف dom) یک کلبه کوچک، فروتنانه و افسانه‌ای را نشان می‌دهد. در افسانه‌های عامیانه لهستانی (bajki) رایج است."
+    },
+    {
+      "id": "b1-ch14-l04-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "At the market, ask for a little bread (informal, polite request):",
+      "context_fa": "در بازار، یک قرص نان با لحن غیررسمی و مؤدبانه بخواهید:",
+      "sentence": "Poproszę ___ razowego.",
+      "prompt": "Poproszę ___ razowego.",
+      "prompt_fa": "Poproszę ___ razowego.",
+      "answer": "chlebka",
+      "acceptableAnswers": ["chlebka", "chlebek"],
+      "hint": "chleb → chlebek → accusative/genitive: chlebka",
+      "explanation": "'Chlebka razowego' — some wholegrain bread. 'Chlebek' is the polite diminutive of 'chleb' used in market shopping.",
+      "explanation_fa": "'Chlebka razowego' — کمی نان سبوس‌دار. 'Chlebek' کوچک‌ساز مؤدبانه 'chleb' است که در خرید بازار استفاده می‌شود."
+    },
+    {
+      "id": "b1-ch14-l04-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch14/b1-ch14-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Babcia upiekła pyszne ciasteczka.",
+        "Babcia upiekła pyszne ciasta.",
+        "Babcia upiekła pyszny ciastek.",
+        "Babcia upiekła pyszne ciastka."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ciasteczka' = little cookies (diminutive plural of 'ciastko'). Common in family/home baking context.",
+      "explanation_fa": "'Ciasteczka' = کوکی‌های کوچک (جمع کوچک‌ساز 'ciastko'). در متن خانگی/خانوادگی رایج است."
+    },
+    {
+      "id": "b1-ch14-l04-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build a fairy-tale opening: 'There was a small rabbit who lived in a little house.'",
+      "prompt_fa": "یک آغاز افسانه‌وار بسازید: 'یک خرگوش کوچولو بود که در یک خانه کوچک زندگی می‌کرد.'",
+      "wordBank": ["Był", "sobie", "królik", "króliček", "który", "mieszkał", "w", "domku"],
+      "correctSequences": [["Był", "sobie", "królik", "który", "mieszkał", "w", "domku"]],
+      "explanation": "'Był sobie królik, który mieszkał w domku.' — There was a rabbit who lived in a little house. 'Był sobie' = fairy-tale opener. 'Domku' = locative of 'domek'.",
+      "explanation_fa": "'Był sobie królik, który mieszkał w domku.' — یک خرگوش بود که در یک خانه کوچک زندگی می‌کرد. 'Był sobie' = آغازگر افسانه. 'Domku' = مکانی 'domek'."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["diminutives", "register", "everyday-speech", "b1-core"],
+  "prerequisites": ["b1-ch14-l01", "b1-ch14-l02", "b1-ch14-l03"]
+}

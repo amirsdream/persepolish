@@ -24,6 +24,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Wczoraj ___ do kina. (I (m) went to the cinema yesterday.) [iść, ja m past]",
+      "prompt_fa": "دیروز ___ به سینما رفتم. (من [مذکر] دیروز به سینما رفتم.) [iść، اول شخص مفرد مذکر گذشته]",
       "options": [
         "szedłem",
         "idłem",
@@ -31,23 +32,34 @@
         "szłem"
       ],
       "correctIndex": 0,
-      "explanation": "'Iść' past masc ja: szedłem. The stem is szedł- (not id-). 'Do kina' = genitive destination."
+      "explanation": "'Iść' past masc ja: szedłem. The stem is szedł- (not id-). 'Do kina' = genitive destination.",
+      "explanation_fa": "گذشته مذکر اول شخص مفرد فعل iść: szedłem. بن szedł- است (نه id-). 'Do kina' = مقصد (حالت مضاف‌الیه)."
     },
     {
       "id": "a2-ch11-l04-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Ona ___ chora przez tydzień. (She was ill for a week.) [być, ona past]",
+      "context": "Tomek describes Ania's illness. Complete:",
+      "context_fa": "تومک بیماری آنیا را توصیف می‌کند. کامل کنید:",
+      "sentence": "Ona ___ chora przez tydzień.",
+      "translation": "(She was ill for a week.) [być, ona past]",
+      "translation_fa": "(او یک هفته بیمار بود.) [być، سوم شخص مفرد مؤنث گذشته]",
+      "prompt": "Ona ___ chora przez tydzień.",
+      "prompt_fa": "Ona ___ chora przez tydzień.",
       "answer": "była",
       "acceptableAnswers": [
         "była"
       ],
-      "hint": "być past feminine 3rd person: była"
+      "hint": "być past feminine 3rd person: była",
+      "explanation": "'Być' past feminine 3rd person (ona): była. Compare masculine: on był. 'Przez tydzień' = for a week.",
+      "explanation_fa": "گذشته مؤنث سوم شخص مفرد فعل być: była. مقایسه مذکر: on był. 'Przez tydzień' = برای یک هفته."
     },
     {
       "id": "a2-ch11-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch11/a2-ch11-l04-ex03.mp3",
       "options": [
         "Nie mogłam zasnąć całą noc.",
@@ -56,23 +68,23 @@
         "Nie mogliśmy zasnąć całą noc."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Nie mogłam zasnąć całą noc.' — I (f) couldn't fall asleep all night. 'Móc' past feminine ja: mogłam."
+      "explanation": "You heard: 'Nie mogłam zasnąć całą noc.' — I (f) couldn't fall asleep all night. 'Móc' past feminine ja: mogłam.",
+      "explanation_fa": "شنیدید: 'Nie mogłam zasnąć całą noc.' — من [مؤنث] تمام شب نتوانستم بخوابم. گذشته مؤنث اول شخص مفرد فعل móc: mogłam."
     },
     {
       "id": "a2-ch11-l04-ex04",
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: They (mixed group) took the train to Warsaw.",
+      "prompt_fa": "بسازید: آن‌ها (گروه مختلط) با قطار به ورشو رفتند.",
       "wordBank": [
         "Oni",
         "One",
         "wzięli",
         "wzięły",
         "pociąg",
-        "pociągiem",
         "do",
-        "Warszawy",
-        "Warszawa"
+        "Warszawy"
       ],
       "correctSequences": [
         [
@@ -83,13 +95,15 @@
           "Warszawy"
         ]
       ],
-      "explanation": "'Oni wzięli pociąg do Warszawy.' — They (mixed/male group) took a train to Warsaw. 'Wziąć' past virile plural: wzięli. 'Pociąg' = accusative (direct object). 'Do Warszawy' = genitive destination."
+      "explanation": "'Oni wzięli pociąg do Warszawy.' — They (mixed/male group) took a train to Warsaw. 'Wziąć' past virile plural: wzięli. 'Pociąg' = accusative (direct object). 'Do Warszawy' = genitive destination.",
+      "explanation_fa": "'Oni wzięli pociąg do Warszawy.' — آن‌ها (گروه مختلط/مذکر) با قطار به ورشو رفتند. گذشته جمع مذکر فعل wziąć: wzięli. 'Pociąg' = مفعول مستقیم. 'Do Warszawy' = مقصد."
     },
     {
       "id": "a2-ch11-l04-ex05",
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Which past form is INCORRECT?",
+      "prompt_fa": "کدام شکل گذشته نادرست است؟",
       "options": [
         "ona idła",
         "ona szła",
@@ -97,7 +111,104 @@
         "oni szli"
       ],
       "correctIndex": 0,
-      "explanation": "'Idła' does NOT exist — the feminine past of 'iść' is 'szła', not 'idła'. The stem changes completely: szedł/szła/szli/szły."
+      "explanation": "'Idła' does NOT exist — the feminine past of 'iść' is 'szła', not 'idła'. The stem changes completely: szedł/szła/szli/szły.",
+      "explanation_fa": "'Idła' وجود ندارد — شکل گذشته مؤنث 'iść' 'szła' است، نه 'idła'. بن کاملاً تغییر می‌کند: szedł/szła/szli/szły."
+    },
+    {
+      "id": "a2-ch11-l04-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Marek ___ wcześniej do domu niż zwykle. (Marek came home earlier than usual.) [przyjść, on past]",
+      "prompt_fa": "مارک ___ زودتر از معمول به خانه آمد. [przyjść، سوم شخص مفرد مذکر گذشته]",
+      "options": [
+        "przyszedł",
+        "przyszła",
+        "przyszli",
+        "przychodził"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Przyjść' (perfective of przychodzić) past masculine 3rd person: przyszedł. The stem mirrors iść: szedł → przyszedł.",
+      "explanation_fa": "گذشته مذکر سوم شخص مفرد فعل przyjść: przyszedł. بن مشابه iść است: szedł → przyszedł."
+    },
+    {
+      "id": "a2-ch11-l04-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Kasia talks about what she couldn't do. Complete:",
+      "context_fa": "کاسیا درباره چیزی که نتوانست انجام دهد صحبت می‌کند. کامل کنید:",
+      "sentence": "Wczoraj nie ___ otworzyć okna.",
+      "translation": "(Yesterday I [f] couldn't open the window.) [móc, ja f past]",
+      "translation_fa": "(دیروز من [مؤنث] نتوانستم پنجره را باز کنم.) [móc، اول شخص مفرد مؤنث گذشته]",
+      "prompt": "Wczoraj nie ___ otworzyć okna.",
+      "prompt_fa": "Wczoraj nie ___ otworzyć okna.",
+      "answer": "mogłam",
+      "acceptableAnswers": [
+        "mogłam"
+      ],
+      "hint": "móc past feminine ja: mogłam (mógł- stem, feminine -am ending)",
+      "explanation": "'Móc' past feminine ja: mogłam. The stem is mógł- for masculine but softens in feminine: mogła/mogłam.",
+      "explanation_fa": "گذشته مؤنث اول شخص مفرد فعل móc: mogłam. بن برای مذکر mógł- است اما در مؤنث تغییر می‌کند: mogła/mogłam."
+    },
+    {
+      "id": "a2-ch11-l04-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch11/a2-ch11-l04-ex08.mp3",
+      "options": [
+        "Oni byli razem w Warszawie.",
+        "One były razem w Warszawie.",
+        "On był razem w Warszawie.",
+        "Ona była razem w Warszawie."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Oni byli razem w Warszawie.' — They (men/mixed) were together in Warsaw. 'Być' past virile plural: byli.",
+      "explanation_fa": "شنیدید: 'Oni byli razem w Warszawie.' — آن‌ها (مردان/مختلط) با هم در ورشو بودند. گذشته جمع مذکر فعل być: byli."
+    },
+    {
+      "id": "a2-ch11-l04-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: She couldn't sleep last night.",
+      "prompt_fa": "بسازید: او دیشب نتوانست بخوابد.",
+      "wordBank": [
+        "Ona",
+        "nie",
+        "mogła",
+        "mógł",
+        "spać",
+        "wczoraj",
+        "wieczorem"
+      ],
+      "correctSequences": [
+        [
+          "Ona",
+          "nie",
+          "mogła",
+          "spać",
+          "wczoraj",
+          "wieczorem"
+        ]
+      ],
+      "explanation": "'Ona nie mogła spać wczoraj wieczorem.' — She couldn't sleep last night. 'Móc' past feminine: mogła. 'Wczoraj wieczorem' = last night (yesterday evening).",
+      "explanation_fa": "'Ona nie mogła spać wczoraj wieczorem.' — او دیشب نتوانست بخوابد. گذشته مؤنث فعل móc: mogła. 'Wczoraj wieczorem' = دیشب."
+    },
+    {
+      "id": "a2-ch11-l04-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Which sentence correctly describes 'Ania and Kasia were at school'?",
+      "prompt_fa": "کدام جمله به درستی 'آنیا و کاسیا در مدرسه بودند' را توصیف می‌کند؟",
+      "options": [
+        "Ania i Kasia były w szkole.",
+        "Ania i Kasia byli w szkole.",
+        "Ania i Kasia był w szkole.",
+        "Ania i Kasia byłam w szkole."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ania i Kasia' = two women = non-virile plural → 'być' past non-virile: były. 'Byli' is for virile (mixed/male) groups.",
+      "explanation_fa": "'Ania i Kasia' = دو زن = جمع غیر مذکر → گذشته غیر مذکر فعل być: były. 'Byli' برای گروه‌های مذکر/مختلط است."
     }
   ],
   "xpReward": 25,

@@ -29,6 +29,8 @@ sealed class Exercise {
       // legacy aliases kept for backwards compat
       'fill_in_blank' => FillBlankExercise.fromJsonLegacy(json),
       'sentence_order' => SentenceBuilderExercise.fromJsonLegacy(json),
+      // vocab_translation uses the same structure as multiple_choice
+      'vocab_translation' => MultipleChoiceExercise.fromJson(json),
       _ => throw ArgumentError('Unknown exercise type: $type'),
     };
   }
@@ -85,6 +87,11 @@ final class FillBlankExercise extends Exercise {
     super.promptFa,
     super.explanationFa,
     this.hint,
+    this.context,
+    this.contextFa,
+    this.sentence,
+    this.translation,
+    this.translationFa,
   });
 
   /// Canonical correct answer (also in acceptableAnswers).
@@ -95,6 +102,26 @@ final class FillBlankExercise extends Exercise {
 
   /// Optional grammatical hint shown before submission.
   final String? hint;
+
+  // ── Structured display fields (new schema) ──────────────────────────────
+  /// Instruction / context sentence shown at the top (English).
+  /// e.g. "Kasia travels to work by train. Complete:"
+  final String? context;
+
+  /// Persian version of [context].
+  final String? contextFa;
+
+  /// The Polish sentence containing exactly one '___' placeholder.
+  /// e.g. "Jadę ___ ."
+  /// When present, used instead of parsing [prompt].
+  final String? sentence;
+
+  /// Translation / grammar notes shown below the sentence (English).
+  /// e.g. "(by train) [pociąg → instrumental]"
+  final String? translation;
+
+  /// Persian version of [translation].
+  final String? translationFa;
 
   bool isCorrect(String input) => acceptableAnswers
       .any((a) => a.toLowerCase() == input.toLowerCase().trim());
@@ -110,6 +137,11 @@ final class FillBlankExercise extends Exercise {
         hint: json['hint'] as String?,
         promptFa: json['prompt_fa'] as String?,
         explanationFa: json['explanation_fa'] as String?,
+        context: json['context'] as String?,
+        contextFa: json['context_fa'] as String?,
+        sentence: json['sentence'] as String?,
+        translation: json['translation'] as String?,
+        translationFa: json['translation_fa'] as String?,
       );
 
   /// Legacy schema: sentence_template / accepted_answers fields.

@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch14-l02-diminutives-ko",
+  "chapter": 14,
+  "lessonOrder": 2,
+  "level": "b1",
+  "title": "Diminutives: -ko, -uszko, -eczko Suffixes",
+  "title_fa": "کوچک‌سازها: پسوندهای -ko، -uszko، -eczko",
+  "grammarPoint": "Neuter diminutives with -ko/-uszko/-eczko: dziecko→dzieciątko, słowo→słówko, okno→okienko",
+  "grammarPoint_fa": "کوچک‌سازهای خنثی با -ko/-uszko/-eczko: dziecko→dzieciątko، słowo→słówko، okno→okienko",
+  "explanation": {
+    "text": "**Neuter diminutives** typically use -ko, -uszko, or -eczko:\n\n**-ko suffix:**\n\n| Base | Diminutive | Meaning |\n|------|-----------|--------|\n| słowo | **słówko** | little word |\n| okno | **okienko** | small window / ticket window |\n| miasto | **miasteczko** | small town |\n| dziecko | **dzieciątko** | little child (baby) |\n| serce | **serduszko** | little heart (endearing) |\n| ucho | **uszko** | little ear / wonton |\n\n**-uszko / -uszek (very affectionate):**\n- serce → **serduszko** (little heart — very tender)\n- ucho → **uszko** (little ear)\n- kwiat → **kwiatuszek** (little flower)\n\n**-eczko (even more diminutive):**\n- okno → okienko → **okieneczko** (tiny little window)\n- miasto → miasteczko → miasteczeczko (very small town — rare)\n\n**Special cases — lexicalized diminutives:**\nSome diminutives have become standard words:\n- **okienko** = ticket window / chat window (computer)\n- **miasteczko** = small town / village\n- **słówko** = vocabulary item / word in a phrase book\n- **serduszko** = sweetheart / small heart\n- **uszko** = wonton (the food!), little ear\n\n**Double diminutives:**\n- mały → malutki → malusieńki (tinier and tinier — very colloquial)\n- domek → domeczek (even smaller house)\n\n**In children's language:** virtually every noun gets diminutivized:\n- łyżeczka (little spoon), kubeczek (little cup), misio (teddy bear)",
+    "notes": [
+      "Neuter nouns ending in -o/-e: add -ko → okno→okienko, słowo→słówko",
+      "Some diminutives are now the standard word (okienko, miasteczko)",
+      "Affectionate double diminutives show increasing tenderness/smallness",
+      "In children's speech, diminutives are pervasive"
+    ]
+  },
+  "explanation_fa": "کوچک‌سازهای خنثی معمولاً از -ko/-uszko/-eczko استفاده می‌کنند: słowo→słówko (کلمه کوچک)، okno→okienko (پنجره کوچک/گیشه)، miasto→miasteczko (شهر کوچک). برخی کوچک‌سازها به کلمات استاندارد تبدیل شده‌اند: okienko (گیشه بلیت)، miasteczko (شهرک). در زبان کودکان تقریباً همه اسامی کوچک‌ساز می‌شوند.",
+  "exercises": [
+    {
+      "id": "b1-ch14-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "What is the diminutive of 'słowo' (word)?",
+      "prompt_fa": "کوچک‌ساز 'słowo' (کلمه) چیست؟",
+      "options": [
+        "słówko",
+        "słowko",
+        "słoweczko",
+        "słówek"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Słowo' → 'słówko' — the vowel lengthens (ó) and -ko is added. Common meaning: a word (in a phrase book), a little word.",
+      "explanation_fa": "'Słowo' → 'słówko' — واکه کشیده می‌شود (ó) و -ko اضافه می‌شود. معنی رایج: یک کلمه (در کتاب عبارات)، یک کلمه کوچک."
+    },
+    {
+      "id": "b1-ch14-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "In a train station, you buy a ticket at the 'ticket window'. Use the lexicalized diminutive of 'okno':",
+      "context_fa": "در ایستگاه قطار، بلیت را در 'گیشه' می‌خرید. از کوچک‌ساز استاندارد 'okno' استفاده کنید:",
+      "sentence": "Kupiłam bilet w ___.",
+      "prompt": "Kupiłam bilet w ___.",
+      "prompt_fa": "Kupiłam bilet w ___.",
+      "answer": "okienku",
+      "acceptableAnswers": ["okienku"],
+      "hint": "okno → okienko (ticket window) → locative: okienku",
+      "explanation": "'Okienku' = locative of 'okienko' (ticket window). 'Okienko' is the diminutive of 'okno' but now standard for ticket windows.",
+      "explanation_fa": "'Okienku' = مکانی 'okienko' (گیشه بلیت). 'Okienko' کوچک‌ساز 'okno' است اما اکنون برای گیشه‌ها استاندارد است."
+    },
+    {
+      "id": "b1-ch14-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch14/b1-ch14-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Mieszkamy w małym miasteczku na Mazurach.",
+        "Mieszkamy w małym mieście na Mazurach.",
+        "Mieszkamy w małym miastku na Mazurach.",
+        "Mieszkamy w malutkim miasteczku na Mazurach."
+      ],
+      "correctIndex": 0,
+      "explanation": "'W małym miasteczku' — in a small town. 'Miasteczko' is the standard word for a small/minor town (diminutive of 'miasto').",
+      "explanation_fa": "'W małym miasteczku' — در یک شهرک کوچک. 'Miasteczko' کلمه استاندارد برای شهر/شهرک کوچک است (کوچک‌ساز 'miasto')."
+    },
+    {
+      "id": "b1-ch14-l02-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build an endearing sentence: 'My sweetheart/little heart, how are you?'",
+      "prompt_fa": "جمله محبت‌آمیزی بسازید: 'عزیزم/قلب کوچولوی من، حال تو چطوره؟'",
+      "wordBank": ["Serduszko", "Serce", "moje", "jak", "się", "masz", "czujesz"],
+      "correctSequences": [["Serduszko", "moje", "jak", "się", "masz"]],
+      "explanation": "'Serduszko moje, jak się masz?' — My sweetheart, how are you? 'Serduszko' is the affectionate diminutive of 'serce' (heart).",
+      "explanation_fa": "'Serduszko moje, jak się masz?' — عزیزم، حالت چطوره؟ 'Serduszko' کوچک‌ساز محبت‌آمیز 'serce' (قلب) است."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["diminutives", "word-formation", "b1-core"],
+  "prerequisites": ["b1-ch14-l01"]
+}

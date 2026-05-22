@@ -1,0 +1,183 @@
+{
+  "id": "b1-ch11-revision",
+  "chapter": 11,
+  "level": "b1",
+  "title": "Chapter 11 Revision: Advanced Numerals",
+  "title_fa": "مرور فصل ۱۱ B1: اعداد پیشرفته",
+  "description": "Test your knowledge of collective numerals (dwoje/troje), distributive po, and their real-world applications.",
+  "passThreshold": 0.7,
+  "questions": [
+    {
+      "id": "b1-ch11-rev-q01",
+      "type": "multiple_choice",
+      "prompt": "Which numeral is correct: 'There were ___ children in the playground (mixed group)'?",
+      "prompt_fa": "کدام عدد درست است: 'در زمین بازی ___ کودک بود (گروه مختلط)'؟",
+      "options": [
+        "czworo dzieci",
+        "cztery dziecka",
+        "cztery dzieci",
+        "czworo dziecko"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Czworo dzieci' — collective numeral for mixed-gender group + genitive plural 'dzieci'.",
+      "explanation_fa": "'Czworo dzieci' — عدد جمعی برای گروه مختلط + مضاف‌الیه جمع 'dzieci'."
+    },
+    {
+      "id": "b1-ch11-rev-q02",
+      "type": "multiple_choice",
+      "prompt": "With plurale tantum noun 'drzwi' (doors), which is correct?",
+      "prompt_fa": "با اسم جمع‌تنها 'drzwi' کدام درست است؟",
+      "options": [
+        "dwoje drzwi",
+        "dwa drzwi",
+        "dwie drzwi",
+        "dwoje drzwia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pluralia tantum require collective numerals: 'dwoje drzwi'. 'Dwa/dwie' are used with countable nouns that have both singular and plural forms.",
+      "explanation_fa": "اسامی جمع‌تنها به اعداد جمعی نیاز دارند: 'dwoje drzwi'. 'Dwa/dwie' با اسامی قابل‌شمارش که مفرد و جمع دارند استفاده می‌شوند."
+    },
+    {
+      "id": "b1-ch11-rev-q03",
+      "type": "multiple_choice",
+      "prompt": "After a collective numeral like 'troje', the verb should be:",
+      "prompt_fa": "بعد از عدد جمعی مثل 'troje' فعل باید:",
+      "options": [
+        "3rd person singular neuter: troje dzieci bawiło się",
+        "3rd person plural: troje dzieci bawiły się",
+        "3rd person plural masculine: troje dzieci bawili się",
+        "2nd person plural: troje dzieci bawicie się"
+      ],
+      "correctIndex": 0,
+      "explanation": "Collective numerals take 3rd person SINGULAR NEUTER verb: 'troje dzieci bawiło się' (not bawiły/bawili).",
+      "explanation_fa": "اعداد جمعی فعل مفرد خنثی سوم شخص می‌گیرند: 'troje dzieci bawiło się' (نه bawiły/bawili)."
+    },
+    {
+      "id": "b1-ch11-rev-q04",
+      "type": "fill_blank",
+      "prompt": "Każdy dostał ___ jabłku. (one apple each — dative)",
+      "prompt_fa": "Każdy dostał ___ jabłku. (یک سیب برای هر کدام)",
+      "answer": "po",
+      "acceptableAnswers": ["po"],
+      "hint": "po + dative singular = one each",
+      "explanation": "'Po jabłku' — distributive 'one each'. 'Po' + dative singular for 'one of something each'.",
+      "explanation_fa": "'Po jabłku' — توزیعی 'یکی برای هر کدام'. 'Po' + دادی مفرد برای 'یکی از چیزی برای هر کدام'."
+    },
+    {
+      "id": "b1-ch11-rev-q05",
+      "type": "multiple_choice",
+      "prompt": "What does 'Szli po dwóch' mean?",
+      "prompt_fa": "'Szli po dwóch' چه معنایی دارد؟",
+      "options": [
+        "They walked in pairs / in twos.",
+        "They walked after two (o'clock).",
+        "Two of them walked.",
+        "They walked two times."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Po dwóch' = in groups of two, in pairs — sequential/distributive movement pattern.",
+      "explanation_fa": "'Po dwóch' = دو نفر دو نفر، به صورت جفت — الگوی حرکت ترتیبی/توزیعی."
+    },
+    {
+      "id": "b1-ch11-rev-q06",
+      "type": "multiple_choice",
+      "prompt": "Choose: 'Both my parents are doctors.' (mixed gender)",
+      "prompt_fa": "انتخاب کنید: 'هر دو والدینم دکتر هستند.' (مختلط جنسیتی)",
+      "options": [
+        "Oboje moi rodzice są lekarzami.",
+        "Oba moi rodzice są lekarzami.",
+        "Obie moje rodzice są lekarzami.",
+        "Obydwa moje rodzice są lekarzami."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Oboje' for mixed gender (mother + father). 'Oba' = both (masculine plural), 'obie' = both (feminine plural).",
+      "explanation_fa": "'Oboje' برای جنسیت مختلط (مادر + پدر). 'Oba' = هر دو (مذکر جمع)، 'obie' = هر دو (مؤنث جمع)."
+    },
+    {
+      "id": "b1-ch11-rev-q07",
+      "type": "fill_blank",
+      "prompt": "Ćwiczę ___ dwa razy w tygodniu. (I exercise twice a week — each week)",
+      "prompt_fa": "Ćwiczę ___ dwa razy w tygodniu. (هر هفته دو بار ورزش می‌کنم)",
+      "answer": "po",
+      "acceptableAnswers": ["po"],
+      "hint": "po + numeral = iterative frequency per period",
+      "explanation": "'Po dwa razy w tygodniu' = twice each week. 'Po' marks the iterative/repeated-per-period meaning.",
+      "explanation_fa": "'Po dwa razy w tygodniu' = دو بار در هر هفته. 'Po' معنی تکراری/در هر دوره را نشان می‌دهد."
+    },
+    {
+      "id": "b1-ch11-rev-q08",
+      "type": "multiple_choice",
+      "prompt": "A journalistic sentence: 'Sześcioro uczestników ___ egzamin.' Complete correctly.",
+      "prompt_fa": "جمله روزنامه‌ای: 'Sześcioro uczestników ___ egzamin.' به‌درستی کامل کنید.",
+      "options": [
+        "zdało",
+        "zdali",
+        "zdały",
+        "zdało się"
+      ],
+      "correctIndex": 0,
+      "explanation": "Collective numeral 'sześcioro' → 3rd person singular neuter: 'zdało' (neuter past tense).",
+      "explanation_fa": "عدد جمعی 'sześcioro' → مفرد خنثی سوم شخص: 'zdało' (گذشته خنثی)."
+    },
+    {
+      "id": "b1-ch11-rev-q09",
+      "type": "multiple_choice",
+      "prompt": "Students each received five tasks. Which is correct?",
+      "prompt_fa": "هر دانشجو پنج تکلیف دریافت کرد. کدام درست است؟",
+      "options": [
+        "Studenci dostali po pięć zadań.",
+        "Studenci dostali pięcioro zadań.",
+        "Studenci dostali po pięciu zadań.",
+        "Studenci dostali pięć każdy zadań."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Po pięć zadań' — distributive 'five each'. For 5+: po pięć (numeral doesn't change). 'Zadań' = genitive plural.",
+      "explanation_fa": "'Po pięć zadań' — توزیعی 'پنج تا برای هر کدام'. برای ۵ به بالا: po pięć (عدد تغییر نمی‌کند). 'Zadań' = مضاف‌الیه جمع."
+    },
+    {
+      "id": "b1-ch11-rev-q10",
+      "type": "multiple_choice",
+      "prompt": "Which phrase means 'looking around the room' (movement of gaze)?",
+      "prompt_fa": "کدام عبارت به معنی 'نگاه کردن دور اتاق' (حرکت نگاه) است؟",
+      "options": [
+        "rozglądać się po pokoju",
+        "rozglądać się w pokoju",
+        "rozglądać się przez pokój",
+        "rozglądać się na pokój"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Rozglądać się po pokoju' — 'po' + dative for movement across a surface/space. 'Po pokoju' = around/through the room.",
+      "explanation_fa": "'Rozglądać się po pokoju' — 'po' + دادی برای حرکت در سطح/فضا. 'Po pokoju' = دور اتاق/در سرتاسر اتاق."
+    },
+    {
+      "id": "b1-ch11-rev-q11",
+      "type": "fill_blank",
+      "prompt": "Mamy ___ wnucząt. (We have five grandchildren — collective)",
+      "prompt_fa": "Mamy ___ wnucząt. (ما پنج نوه داریم)",
+      "answer": "pięcioro",
+      "acceptableAnswers": ["pięcioro"],
+      "hint": "wnuczęta = young ones → collective numeral; five = pięcioro",
+      "explanation": "'Pięcioro wnucząt' — collective numeral for young family members. 'Wnuczęta' = grandchildren (young ones).",
+      "explanation_fa": "'Pięcioro wnucząt' — عدد جمعی برای اعضای جوان خانواده. 'Wnuczęta' = نوه‌ها (جوان)."
+    },
+    {
+      "id": "b1-ch11-rev-q12",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses 'po kolei'?",
+      "prompt_fa": "کدام جمله 'po kolei' را به‌درستی به‌کار می‌برد؟",
+      "options": [
+        "Proszę odpowiadać po kolei.",
+        "Proszę odpowiadać po kolejny.",
+        "Proszę odpowiadać po kolejnemu.",
+        "Proszę odpowiadać po kolejo."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Po kolei' is a fixed adverbial phrase meaning 'in turn, one by one'. It doesn't inflect.",
+      "explanation_fa": "'Po kolei' یک عبارت قیدی ثابت است به معنی 'به ترتیب، یکی یکی'. تصریف نمی‌شود."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 8,
+  "tags": ["numerals", "collective", "distributive", "b1-core"],
+  "prerequisites": ["b1-ch11-l01", "b1-ch11-l02", "b1-ch11-l03", "b1-ch11-l04"]
+}

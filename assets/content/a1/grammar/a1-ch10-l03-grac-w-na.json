@@ -4,25 +4,26 @@
   "chapter": 10,
   "lessonOrder": 3,
   "title": "grać w and grać na — Sports and Instruments",
-  "title_fa": "grać w و grać na — ورزش و ساز",
+  "title_fa": "grać w و grać na — ورزش و ساز موسیقی",
   "grammarPoint": "grać w + accusative (sports/games); grać na + locative (instruments)",
-  "grammarPoint_fa": "grać w + مفعولی (ورزش) و grać na + مکانی (ساز موسیقی)",
+  "grammarPoint_fa": "grać w + مفعولی (ورزش/بازی) و grać na + مکانی (ساز موسیقی)",
   "explanation": {
-    "text": "The verb **grać** (to play) uses different prepositions depending on what you play:\n\n**grać w + accusative** = to play (a sport or game)\n\n| Sport/Game | grać w + acc | Polish |\n|------------|-------------|--------|\n| piłka nożna (football) | gram w piłkę nożną | I play football |\n| tenis | gram w tenisa | I play tennis |\n| koszykówka (basketball) | gram w koszykówkę | I play basketball |\n| szachy (chess, pl) | gram w szachy | I play chess |\n| karty (cards, pl) | gram w karty | I play cards |\n\n**grać na + locative** = to play (a musical instrument)\n\n| Instrument | grać na + loc | Polish |\n|-----------|--------------|--------|\n| gitara (guitar) | gram na gitarze | I play guitar |\n| piano / fortepian | gram na pianinie | I play piano |\n| skrzypce (violin, pl) | gram na skrzypcach | I play violin |\n| flet (flute) | gram na flecie | I play flute |\n| perkusja (drums) | gram na perkusji | I play drums |\n\n**Conjugation of grać (Group 1):**\n\n| Person | Form |\n|--------|------|\n| ja | **gram** |\n| ty | **grasz** |\n| on/ona | **gra** |\n| my | **gramy** |\n| wy | **gracie** |\n| oni/one | **grają** |",
+    "text": "## grać w and grać na — Sports and Instruments\n\nThe verb **grać** (to play) uses **two different prepositions** depending on what you play. This is one of the most useful A1 patterns for hobbies.\n\n### The key rule\n\n| What you play | Preposition + case | Example |\n|---------------|-------------------|---------|\n| **Sports / games** | **w + accusative** | gram w tenisa |\n| **Musical instruments** | **na + locative** | gram na gitarze |\n\n### Conjugation of grać (Group 1: -am/-asz)\n\n| Person | Form | English |\n|--------|------|---------|\n| ja | **gram** | I play |\n| ty | **grasz** | you play |\n| on / ona | **gra** | he/she plays |\n| my | **gramy** | we play |\n| wy | **gracie** | you (pl) play |\n| oni / one | **grają** | they play |\n\n### grać w + accusative — sports and games\n\n| Sport/Game | Nominative | Accusative | Example |\n|------------|-----------|------------|----------|\n| piłka nożna (football) | piłka nożna (f) | piłkę nożną | Gram **w piłkę nożną**. |\n| tenis (tennis) | tenis (m inan) | tenisa | Gram **w tenisa**. |\n| koszykówka (basketball) | koszykówka (f) | koszykówkę | Gram **w koszykówkę**. |\n| siatkówka (volleyball) | siatkówka (f) | siatkówkę | Gram **w siatkówkę**. |\n| szachy (chess, pl) | szachy (pl) | szachy | Gram **w szachy**. |\n| karty (cards, pl) | karty (pl) | karty | Gram **w karty**. |\n\n### grać na + locative — musical instruments\n\n| Instrument | Nominative | Locative | Example |\n|-----------|-----------|----------|---------|\n| gitara (guitar) | gitara (f) | gitarze | Gram **na gitarze**. |\n| piano / pianino | pianino (n) | pianinie | Gram **na pianinie**. |\n| skrzypce (violin, pl) | skrzypce (pl) | skrzypcach | Gram **na skrzypcach**. |\n| flet (flute) | flet (m) | flecie | Gram **na flecie**. |\n| perkusja (drums) | perkusja (f) | perkusji | Gram **na perkusji**. |\n| trąbka (trumpet) | trąbka (f) | trąbce | Gram **na trąbce**. |\n\n### Useful hobby expressions\n\n| Polish | English |\n|--------|---------|\n| Jakie masz hobby? | What are your hobbies? |\n| Gram w piłkę nożną. | I play football. |\n| Gram na gitarze. | I play guitar. |\n| Uprawiam sport. | I do sport (general). |\n| Chodzę na siłownię. | I go to the gym. |\n| Lubię grać w szachy. | I like playing chess. |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Gram na tenisa.* | *Gram **w** tenisa.* | sport = w + accusative |\n| *Gram w gitarze.* | *Gram **na** gitarze.* | instrument = na + locative |\n| *Gram w gitara.* | *Gram na **gitarze**.* | na + locative (gitara → gitarze) |\n| *Gram w piłka.* | *Gram w **piłkę**.* | w + accusative (piłka → piłkę) |",
     "notes": [
-      "grać w + accusative for sports: piłka nożna → w piłkę nożną.",
-      "grać na + locative for instruments: gitara → na gitarze.",
-      "'Uprawiać sport' = to do sport (general). 'Grać' is for team sports and games with winners.",
-      "grać is Group 1: gram/grasz/gra/gramy/gracie/grają."
+      "Sports and games: grać W + accusative: w tenisa, w piłkę nożną, w szachy, w karty",
+      "Instruments: grać NA + locative: na gitarze, na pianinie, na skrzypcach, na flecie",
+      "'Uprawiać sport' = to do sport in general (not grać). Grać is for specific sports with winners.",
+      "grać is Group 1: gram/grasz/gra/gramy/gracie/grają"
     ]
   },
-  "explanation_fa": "در لهستانی دو ساختار متفاوت برای «بازی/نواختن» وجود دارد: grać w + حالت مفعولی برای ورزش و بازی: grać w piłkę (فوتبال بازی کردن)، grać w szachy (شطرنج بازی کردن). grać na + حالت مکانی برای ساز موسیقی: grać na gitarze (گیتار نواختن)، grać na pianinie (پیانو نواختن).",
+  "explanation_fa": "## grać w و grać na — ورزش و ساز موسیقی\n\nفعل **grać** (بازی کردن / نواختن) از **دو حرف اضافه متفاوت** استفاده می‌کند بسته به اینکه چه چیزی بازی می‌کنید.\n\n### قانون کلیدی\n\n| آنچه بازی می‌کنید | حرف اضافه + حالت | مثال |\n|------------------|-----------------|------|\n| **ورزش / بازی** | **w + مفعولی** | gram w tenisa |\n| **سازهای موسیقی** | **na + مکانی** | gram na gitarze |\n\n### صرف grać (گروه ۱: -am/-asz)\n\n| شخص | شکل | فارسی |\n|------|-----|-------|\n| ja | **gram** | بازی می‌کنم |\n| ty | **grasz** | بازی می‌کنی |\n| on / ona | **gra** | بازی می‌کند |\n| my | **gramy** | بازی می‌کنیم |\n\n### grać w + مفعولی — ورزش و بازی\n\n| ورزش/بازی | لهستانی | فارسی |\n|----------|---------|-------|\n| فوتبال | Gram **w piłkę nożną**. | فوتبال بازی می‌کنم. |\n| تنیس | Gram **w tenisa**. | تنیس بازی می‌کنم. |\n| بسکتبال | Gram **w koszykówkę**. | بسکتبال بازی می‌کنم. |\n| شطرنج | Gram **w szachy**. | شطرنج بازی می‌کنم. |\n\n### grać na + مکانی — سازهای موسیقی\n\n| ساز | لهستانی | فارسی |\n|-----|---------|-------|\n| گیتار | Gram **na gitarze**. | گیتار می‌نوازم. |\n| پیانو | Gram **na pianinie**. | پیانو می‌نوازم. |\n| ویولن | Gram **na skrzypcach**. | ویولن می‌نوازم. |\n| فلوت | Gram **na flecie**. | فلوت می‌نوازم. |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Gram na tenisa.* | *Gram **w** tenisa.* | ورزش = w + مفعولی |\n| *Gram w gitarze.* | *Gram **na** gitarze.* | ساز = na + مکانی |\n| *Gram w piłka.* | *Gram w **piłkę**.* | w + مفعولی (piłka → piłkę) |",
   "exercises": [
     {
       "id": "a1-ch10-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Gram ___ (I play tennis). [tenis → w + accusative]",
+      "prompt": "Tomek plays every Sunday with his friends. Complete: Gram ___ (I play tennis). [tenis → w + accusative]",
+      "prompt_fa": "تامک هر یکشنبه با دوستانش بازی می‌کند. کامل کنید: Gram ___ (تنیس بازی می‌کنم). [tenis → w + مفعولی]",
       "options": [
         "w tenisa",
         "na tenisie",
@@ -30,24 +31,35 @@
         "na tenis"
       ],
       "correctIndex": 0,
-      "explanation": "'Grać w + accusative': tenis (m inanimate) → 'w tenisa' (acc of tenis). 'Gram w tenisa' = I play tennis."
+      "explanation": "'Grać w + accusative': tenis (m inanimate) → 'w tenisa' (acc of tenis). 'Gram w tenisa' = I play tennis. Sports use w + accusative.",
+      "explanation_fa": "'Grać w + مفعولی': tenis (مذکر غیرجاندار) → 'w tenisa' (مفعولی tenis). 'Gram w tenisa' = تنیس بازی می‌کنم. ورزش‌ها از w + مفعولی استفاده می‌کنند."
     },
     {
       "id": "a1-ch10-l03-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Ona gra ___ gitarze. (She plays guitar.) [na + locative]",
       "answer": "na",
       "acceptableAnswers": [
         "na"
       ],
-      "hint": "Instruments use 'na + locative'"
+      "hint": "Instruments use 'na + locative' (NOT 'w')",
+      "explanation": "Instruments always use 'na + locative'. 'Ona gra na gitarze' = She plays guitar. 'Gitara' → locative 'gitarze'.",
+      "explanation_fa": "سازها همیشه از 'na + مکانی' استفاده می‌کنند. 'Ona gra na gitarze' = او گیتار می‌نوازد. 'Gitara' → مکانی 'gitarze'.",
+      "context": "Kasia has been learning an instrument since childhood. Complete:",
+      "context_fa": "کاسیا از کودکی یک ساز یاد می‌گیرد. کامل کنید:",
+      "sentence": "Ona gra ___ gitarze.",
+      "translation": "(She plays guitar.) [na + locative]",
+      "translation_fa": "(او گیتار می‌نوازد.) [na + مکانی]",
+      "prompt": "Ona gra ___ gitarze.",
+      "prompt_fa": "Ona gra ___ gitarze."
     },
     {
       "id": "a1-ch10-l03-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch10/a1-ch10-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Gram w piłkę nożną i na pianinie.",
         "Gram w piłkę nożną i na piano.",
@@ -55,40 +67,38 @@
         "Gram piłkę nożną i na pianino."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Gram w piłkę nożną i na pianinie.' — I play football and piano. 'W + acc' for sport; 'na + locative' for instrument: pianino → pianinie."
+      "explanation": "You heard: 'Gram w piłkę nożną i na pianinie.' — I play football and piano. 'W + acc' for sport: piłkę nożną. 'Na + locative' for instrument: pianino → pianinie.",
+      "explanation_fa": "شنیدید: 'Gram w piłkę nożną i na pianinie.' — فوتبال و پیانو بازی می‌کنم. 'W + مفعولی' برای ورزش: piłkę nożną. 'Na + مکانی' برای ساز: pianino → pianinie."
     },
     {
       "id": "a1-ch10-l03-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: My brother plays chess.",
+      "prompt": "Tap the words in order: My brother plays chess.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: برادرم شطرنج بازی می‌کند.",
       "wordBank": [
-        "Mój",
-        "brat",
+        "Mój brat",
         "gra",
-        "gram",
         "w",
-        "na",
-        "szachy",
-        "szachach",
-        "szacha"
+        "szachy"
       ],
       "correctSequences": [
         [
-          "Mój",
-          "brat",
+          "Mój brat",
           "gra",
           "w",
           "szachy"
         ]
       ],
-      "explanation": "'Mój brat gra w szachy' = My brother plays chess. 'Szachy' (plural) + 'w' + accusative (same as nominative for this noun)."
+      "explanation": "'Mój brat gra w szachy' = My brother plays chess. 'Szachy' is always plural, uses 'w' + accusative (same form as nominative for these nouns).",
+      "explanation_fa": "'Mój brat gra w szachy' = برادرم شطرنج بازی می‌کند. 'Szachy' همیشه جمع است، از 'w' + مفعولی استفاده می‌کند (همان شکل فاعلی برای این اسم‌ها)."
     },
     {
       "id": "a1-ch10-l03-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Czy ___ na jakimś instrumencie? (Do you play any instrument?)",
+      "prompt": "Marek meets someone at a music school. He asks: Czy ___ na jakimś instrumencie? (Do you play any instrument?)",
+      "prompt_fa": "ماریک با کسی در مدرسه موسیقی آشنا می‌شود. می‌پرسد: Czy ___ na jakimś instrumencie? (آیا سازی می‌نوازی؟)",
       "options": [
         "grasz",
         "gram",
@@ -96,7 +106,99 @@
         "gramy"
       ],
       "correctIndex": 0,
-      "explanation": "'Grasz' = you play (ty form of grać). 'Czy grasz na jakimś instrumencie?' = Do you play any instrument?"
+      "explanation": "'Grasz' = you play (ty form of grać). 'Czy grasz na jakimś instrumencie?' = Do you play any instrument? 'Jakimś' = any (locative form).",
+      "explanation_fa": "'Grasz' = بازی می‌کنی (شکل ty از grać). 'Czy grasz na jakimś instrumencie?' = آیا سازی می‌نوازی؟ 'Jakimś' = هیچ (شکل مکانی)."
+    },
+    {
+      "id": "a1-ch10-l03-ex06",
+      "type": "fill_blank",
+      "order": 6,
+      "answer": "w",
+      "acceptableAnswers": [
+        "w"
+      ],
+      "hint": "Sports and games: grać W + accusative",
+      "explanation": "'Grać w + accusative' for sports. 'Siatkówka' (f) → accusative 'siatkówkę'. 'Ona gra w siatkówkę' = She plays volleyball.",
+      "explanation_fa": "'Grać w + مفعولی' برای ورزش‌ها. 'Siatkówka' (مؤنث) → مفعولی 'siatkówkę'. 'Ona gra w siatkówkę' = او والیبال بازی می‌کند.",
+      "context": "Ania plays volleyball with friends on weekends. Complete:",
+      "context_fa": "آنیا آخر هفته‌ها با دوستان والیبال بازی می‌کند. کامل کنید:",
+      "sentence": "Ona gra ___ siatkówkę.",
+      "translation": "[w + accusative]",
+      "translation_fa": "[w + مفعولی]",
+      "prompt": "Ona gra ___ siatkówkę.",
+      "prompt_fa": "Ona gra ___ siatkówkę."
+    },
+    {
+      "id": "a1-ch10-l03-ex07",
+      "type": "multiple_choice",
+      "order": 7,
+      "prompt": "Tomek plays trumpet in a band. Which is correct?",
+      "prompt_fa": "تامک در یک گروه موسیقی ترومپت می‌نوازد. کدام درست است؟",
+      "options": [
+        "Gram na trąbce.",
+        "Gram w trąbkę.",
+        "Gram na trąbkę.",
+        "Gram w trąbce."
+      ],
+      "correctIndex": 0,
+      "explanation": "Instruments use 'na + locative'. 'Trąbka' (f -ka) → locative: 'trąbce'. 'Gram na trąbce' = I play trumpet.",
+      "explanation_fa": "سازها از 'na + مکانی' استفاده می‌کنند. 'Trąbka' (مؤنث -ka) → مکانی: 'trąbce'. 'Gram na trąbce' = ترومپت می‌نوازم."
+    },
+    {
+      "id": "a1-ch10-l03-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Kasia and Marek challenge each other. Complete: Lubimy grać ___ karty wieczorem. (We like playing cards in the evenings.)",
+      "prompt_fa": "کاسیا و ماریک همدیگر را به چالش می‌طلبند. کامل کنید: Lubimy grać ___ karty wieczorem. (عصرها ورق‌بازی دوست داریم.)",
+      "options": [
+        "w",
+        "na",
+        "do",
+        "z"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Grać w karty' = to play cards. Cards (games/sports) use 'w + accusative'. 'Karty' is already in accusative (same as nominative). 'Lubimy grać w karty' = We like playing cards.",
+      "explanation_fa": "'Grać w karty' = ورق بازی کردن. ورق‌بازی (بازی/ورزش) از 'w + مفعولی' استفاده می‌کند. 'Karty' در مفعولی همان فاعلی است. 'Lubimy grać w karty' = ورق‌بازی دوست داریم."
+    },
+    {
+      "id": "a1-ch10-l03-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tap the words in order: Ania plays violin in the school orchestra.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: آنیا در ارکستر مدرسه ویولن می‌نوازد.",
+      "wordBank": [
+        "Ania",
+        "gra",
+        "na",
+        "skrzypcach"
+      ],
+      "correctSequences": [
+        [
+          "Ania",
+          "gra",
+          "na",
+          "skrzypcach"
+        ]
+      ],
+      "explanation": "'Ania gra na skrzypcach' = Ania plays violin. 'Skrzypce' (always plural) → locative: 'skrzypcach'. Instruments: grać na + locative.",
+      "explanation_fa": "'Ania gra na skrzypcach' = آنیا ویولن می‌نوازد. 'Skrzypce' (همیشه جمع) → مکانی: 'skrzypcach'. سازها: grać na + مکانی."
+    },
+    {
+      "id": "a1-ch10-l03-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch10/a1-ch10-l03-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Tomek gra w piłkę nożną i na perkusji.",
+        "Tomek gra na piłkę nożną i w perkusji.",
+        "Tomek gra w piłkę nożną i w perkusji.",
+        "Tomek gra na piłkę nożną i na perkusji."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Tomek gra w piłkę nożną i na perkusji.' — Tomek plays football and drums. Sport: 'w piłkę nożną' (w + acc). Instrument: 'na perkusji' (na + locative: perkusja → perkusji).",
+      "explanation_fa": "شنیدید: 'Tomek gra w piłkę nożną i na perkusji.' — تامک فوتبال و درامز می‌نوازد. ورزش: 'w piłkę nożną' (w + مفعولی). ساز: 'na perkusji' (na + مکانی: perkusja → perkusji)."
     }
   ],
   "xpReward": 20,

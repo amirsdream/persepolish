@@ -1,0 +1,88 @@
+{
+  "id": "b1-ch20-l01-grammar-review",
+  "chapter": 20,
+  "lessonOrder": 1,
+  "level": "b1",
+  "title": "B1 Grammar Review: Aspect & Cases",
+  "title_fa": "مرور دستور زبان B1: جنبه و حالت‌ها",
+  "grammarPoint": "Comprehensive review of B1 grammar: aspect mastery, advanced cases, prepositions, word order, nominalization",
+  "grammarPoint_fa": "مرور جامع دستور زبان B1: تسلط بر جنبه، حالت‌های پیشرفته، حروف اضافه، ترتیب کلمات، اسمی‌سازی",
+  "explanation": {
+    "text": "**B1 Grammar Mastery Checklist:**\n\n**ASPECT — The core of B1:**\n✓ Imperfective = ongoing/habitual/description\n✓ Perfective = completed single event\n✓ Aspect in narrative: imperf=background, perf=events\n✓ nagle + perfective (sudden events)\n✓ kiedy + imperf vs. gdy + perf\n✓ po + verbal noun (after completing)\n\n**ADVANCED CASES:**\n✓ Genitive plural (essential!): kobiet, mężczyzn, dzieci\n✓ Collective numerals: dwoje, troje + gen.pl (dzieci)\n✓ Distributive: po + dative (po dwa = two each)\n✓ mimo + genitive (despite)\n✓ wbrew + dative (against — only dative preposition!)\n✓ według + genitive (according to)\n✓ wzdłuż / wokół + genitive (along, around)\n\n**WORD FORMATION:**\n✓ -arz / -ista agent nouns (piekarz, artysta)\n✓ -ość abstract nouns (wolność, mądrość)\n✓ Verbal nouns -nie/-cie (czytanie, pisanie)\n✓ Diminutives -ek/-ka/-ko (stolik, herbatka)\n\n**SYNTAX:**\n✓ Topic-comment word order\n✓ Contrastive fronting: To Marek zrobił.\n✓ nie + verb (double negation: nie + nic/nikt/żaden)\n✓ Clitic placement (mi, go, się = 2nd position)\n\n**REGISTER:**\n✓ Formal: Pan/Pani + 3rd person verbs\n✓ -no/-to impersonal passive (ogłoszono)\n✓ Mówi się, że... (impersonal)\n✓ Formal letter structure + phrases\n\n**Quick diagnostic: Identify the error in each:**\n1. *Nagle dzwonił telefon.* → Should be: zadzwonił (perf after nagle)\n2. *Proszę, masz chwilę?* → Should be: Czy Pan ma chwilę? (formal)\n3. *Mimo deszczu, wyszłem.* → ✓ Correct (mimo + genitive = deszczu)\n4. *Wbrew przepisom przyjechał.* → Should check: przepisom (dative of przepisy) ✓",
+    "notes": [
+      "Aspect is the most important B1 topic — spend extra time reviewing it",
+      "wbrew = ONLY common B1 preposition taking dative; all others take genitive",
+      "Pan/Pani + 3rd person is a very common exam task (formal writing)",
+      "Verbal nouns are always neuter; -ość nouns are always feminine"
+    ]
+  },
+  "explanation_fa": "چک‌لیست تسلط بر دستور زبان B1: جنبه (مهم‌ترین موضوع B1): ناکامل = ادامه‌دار/عادتی/توصیف؛ کامل = رویداد منفرد کامل. حالت‌های پیشرفته: مضاف‌الیه جمع، اعداد جمعی، po + مفرد توزیعی، mimo + مضاف‌الیه، wbrew + مفعول غیرمستقیم (تنها پیش‌وند B1 با دیتیو!). ساخت کلمه: -arz/-ista، -ość، اسامی فعلی -nie/-cie، کوچک‌کننده‌ها. نحو: ترتیب موضوع-تفسیر، تأکید برگشتی. سبک: Pan/Pani + سوم شخص، -no/-to غیرشخصی. خطاهای رایج: nagle + ناکامل (باید کامل باشد)، ty در نوشتار رسمی (باید Pan/Pani باشد).",
+  "exercises": [
+    {
+      "id": "b1-ch20-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Identify the error: 'Nagle dzwonił telefon.'",
+      "prompt_fa": "خطا را شناسایی کنید: 'Nagle dzwonił telefon.'",
+      "options": [
+        "'Dzwonił' should be 'zadzwonił' (perfective after 'nagle')",
+        "The word order should be 'Telefon nagle dzwonił'",
+        "It should be 'Nagle dzwoniło telefon'",
+        "There is no error in this sentence"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nagle' almost always triggers a perfective verb. 'Dzwonił' (imperf) is wrong here — it should be 'zadzwonił' (perf). Correct: 'Nagle zadzwonił telefon.'",
+      "explanation_fa": "'Nagle' تقریباً همیشه فعل کامل می‌طلبد. 'Dzwonił' (ناکامل) اینجا اشتباه است — باید 'zadzwonił' (کامل) باشد. درست: 'Nagle zadzwonił telefon.'"
+    },
+    {
+      "id": "b1-ch20-l01-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Formal address: Change to formal Polish: 'Czy masz chwilę?' (to a male professor):",
+      "context_fa": "خطاب رسمی: به لهستانی رسمی تبدیل کنید: 'Czy masz chwilę?' (به یک استاد مرد):",
+      "sentence": "Czy Pan ___ chwilę?",
+      "prompt": "Czy Pan ___ chwilę?",
+      "prompt_fa": "Czy Pan ___ chwilę?",
+      "answer": "ma",
+      "acceptableAnswers": ["ma"],
+      "hint": "Pan + 3rd person singular: mieć → ma (not masz)",
+      "explanation": "'Czy Pan ma chwilę?' — Do you (sir) have a moment? Pan takes 3rd person singular 'ma', not informal 'masz'.",
+      "explanation_fa": "'Czy Pan ma chwilę?' — آیا لحظه‌ای وقت دارید (جناب)؟ Pan سوم شخص مفرد 'ma' می‌گیرد، نه شکل غیررسمی 'masz'."
+    },
+    {
+      "id": "b1-ch20-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch20/b1-ch20-l01-ex03.mp3",
+      "prompt": "Which correct B1 sentence did you hear?",
+      "prompt_fa": "کدام جمله درست B1 را شنیدید؟",
+      "options": [
+        "Po przeczytaniu artykułu, zrozumiałam temat.",
+        "Po czytaniu artykułu, zrozumiałam temat.",
+        "Po przeczytać artykuł, zrozumiałam temat.",
+        "Po artykule przeczytałam, zrozumiałam temat."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Po przeczytaniu artykułu' = After reading the article. 'Po' + verbal noun (locative): przeczytać → przeczytanie → przeczytaniu. Perfective verbal noun = completed prior action.",
+      "explanation_fa": "'Po przeczytaniu artykułu' = بعد از خواندن مقاله. 'Po' + اسم فعلی (مکانی): przeczytać → przeczytanie → przeczytaniu. اسم فعلی کامل = عمل قبلی کامل‌شده."
+    },
+    {
+      "id": "b1-ch20-l01-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build with correct aspect: 'She was reading when suddenly the lights went out.'",
+      "prompt_fa": "با جنبه درست بسازید: 'داشت می‌خواند که ناگهان برق رفت.'",
+      "wordBank": ["Czytała", "gdy", "nagle", "zgasło", "światło", "Przeczytała", "kiedy"],
+      "correctSequences": [
+        ["Czytała", "gdy", "nagle", "zgasło", "światło"],
+        ["Czytała", "kiedy", "nagle", "zgasło", "światło"]
+      ],
+      "explanation": "'Czytała, gdy nagle zgasło światło.' — Czytała (imperf, ongoing background) + zgasło (perf, sudden event). Perfect aspect contrast: background interrupted by event.",
+      "explanation_fa": "'Czytała, gdy nagle zgasło światło.' — Czytała (ناکامل، پس‌زمینه ادامه‌دار) + zgasło (کامل، رویداد ناگهانی). تضاد جنبه عالی: پس‌زمینه که توسط رویداد قطع می‌شود."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 12,
+  "tags": ["b1-review", "aspect", "grammar", "exam-prep"],
+  "prerequisites": ["b1-ch01-l01", "b1-ch16-l04"]
+}

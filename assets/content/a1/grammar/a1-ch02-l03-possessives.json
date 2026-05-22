@@ -8,20 +8,22 @@
   "grammarPoint": "mój, moja, moje / twój, twoja, twoje — agreement with noun gender",
   "grammarPoint_fa": "ضمایر ملکی: mój/moja/moje، twój/twoja/twoje و غیره",
   "explanation": {
-    "text": "Polish possessive pronouns agree with the **gender of the noun they modify**, not the gender of the owner. The most important ones for beginners are the 1st and 2nd person singular forms:\n\n| Possessive | Masculine | Feminine | Neuter |\n|------------|-----------|----------|--------|\n| my (1st sg.) | **mój** | **moja** | **moje** |\n| your (2nd sg.) | **twój** | **twoja** | **twoje** |\n| his | **jego** | **jego** | **jego** |\n| her | **jej** | **jej** | **jej** |\n| our | **nasz** | **nasza** | **nasze** |\n| your (pl.) | **wasz** | **wasza** | **wasze** |\n\nRemember: choose the form to match the noun, not the speaker.",
+    "text": "## Possessive Pronouns\n\nPolish possessive pronouns **agree with the noun they modify** — not with the owner. This means you choose *mój, moja,* or *moje* based on the gender of the thing possessed, not whether you (the speaker) are male or female.\n\n> 🔑 **Rule:** Look at the noun → choose the matching form.\n\n### The full possessive table (nominative singular)\n\n| Owner | Masculine noun | Feminine noun | Neuter noun | Example |\n|-------|---------------|---------------|-------------|---------|\n| I (1st sg.) | **mój** | **moja** | **moje** | mój brat / moja mama / moje dziecko |\n| you (2nd sg.) | **twój** | **twoja** | **twoje** | twój dom / twoja siostra / twoje auto |\n| he | **jego** | **jego** | **jego** | jego syn / jego córka / jego okno |\n| she | **jej** | **jej** | **jej** | jej mąż / jej mama / jej dziecko |\n| we | **nasz** | **nasza** | **nasze** | nasz kot / nasza rodzina / nasze mieszkanie |\n| you (pl.) | **wasz** | **wasza** | **wasze** | wasz brat / wasza babcia / wasze miasto |\n| they | **ich** | **ich** | **ich** | ich dom / ich córka / ich dziecko |\n\n### jego / jej / ich — the easy ones\n\n*Jego* (his), *jej* (her), and *ich* (their) are **indeclinable** — they **never change** regardless of the noun's gender:\n\n| Polish | English |\n|--------|---------|\n| *To jest **jego** brat.* | This is his brother. |\n| *To jest **jego** siostra.* | This is his sister. |\n| *To jest **jego** dziecko.* | This is his child. |\n| *To jest **jej** mąż.* | This is her husband. |\n| *To jest **ich** dom.* | This is their house. |\n\n### mój / twój — 4 forms each\n\n*Mój* and *twój* are fully declinable and change with gender:\n\n| | Masculine | Feminine | Neuter | Plural (non-virile) | Plural (virile) |\n|--|-----------|----------|--------|--------------------|----------------|\n| mój | **mój** | **moja** | **moje** | **moje** | **moi** |\n| twój | **twój** | **twoja** | **twoje** | **twoje** | **twoi** |\n\n> 💡 **Virile plural** (*moi bracia* = my brothers) — you will see this more in later lessons.\n\n### nasz / wasz — 3 forms each\n\n| | Masculine | Feminine | Neuter |\n|--|-----------|----------|--------|\n| nasz | **nasz** | **nasza** | **nasze** |\n| wasz | **wasz** | **wasza** | **wasze** |\n\n### Dropping possessives in context\n\nJust like the subject pronoun, Poles often **drop the possessive** when ownership is obvious:\n\n| Formal | Natural spoken Polish |\n|--------|-----------------------|\n| *Gdzie jest moja mama?* | *Gdzie jest mama?* |\n| *Mój tata pracuje.* | *Tata pracuje.* |\n| *Jak się ma twoja rodzina?* | *Jak się ma rodzina?* |\n\n### Practical examples — family\n\n| Polish | English |\n|--------|---------|\n| *To jest mój ojciec.* | This is my father. |\n| *To jest moja matka.* | This is my mother. |\n| *To jest nasze mieszkanie.* | This is our flat. |\n| *To jest jej brat.* | This is her brother. |\n| *To są ich dzieci.* | These are their children. |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *moja brat* | *mój brat* | brat is masculine → mój |\n| *mój mama* | *moja mama* | mama is feminine → moja |\n| *jego-go dom* | *jego dom* | jego never changes — no extra suffix |\n| *nasz córka* | *nasza córka* | córka is feminine → nasza |",
     "notes": [
-      "mój/twój have a special plural: moi/twoi (virile), moje/twoje (non-virile).",
-      "jego/jej do not change — they are indeclinable.",
-      "In practice, Poles often drop the possessive when context is clear: 'Gdzie jest mama?' not 'Gdzie jest moja mama?'"
+      "Possessives agree with the NOUN, not the owner — moja mama is used by both men and women",
+      "jego / jej / ich never change — the same form works for any noun gender",
+      "mój/twój have special virile plural: moi/twoi (for all-male or mixed groups)",
+      "Poles drop possessives freely when context is clear — 'Gdzie jest mama?' is more natural than 'Gdzie jest moja mama?'"
     ]
   },
-  "explanation_fa": "ضمایر ملکی با جنسیت اسم تطبیق می‌یابند: mój (مذکر)، moja (مؤنث)، moje (خنثی/جمع). همینطور: twój/twoja/twoje (مال تو)، jego/jej (مال او)، nasz/nasza/nasze (مال ما)، wasz/wasza/wasze (مال شما)، ich (مال آن‌ها).",
+  "explanation_fa": "## ضمایر ملکی\n\nضمایر ملکی لهستانی با **اسمی که توصیف می‌کنند تطبیق می‌یابند** — نه با جنسیت صاحب. یعنی شکل *mój، moja* یا *moje* را بر اساس جنسیت چیزی که دارید انتخاب می‌کنید، نه اینکه خودتان مذکر یا مؤنث هستید.\n\n> 🔑 **قانون:** به اسم نگاه کنید → شکل متناسب را انتخاب کنید.\n\n### جدول کامل ضمایر ملکی (فاعلی مفرد)\n\n| صاحب | اسم مذکر | اسم مؤنث | اسم خنثی | مثال |\n|------|----------|----------|----------|------|\n| من (اول مفرد) | **mój** | **moja** | **moje** | mój brat / moja mama / moje dziecko |\n| تو (دوم مفرد) | **twój** | **twoja** | **twoje** | twój dom / twoja siostra / twoje auto |\n| او (مذکر) | **jego** | **jego** | **jego** | jego syn / jego córka / jego okno |\n| او (مؤنث) | **jej** | **jej** | **jej** | jej mąż / jej mama / jej dziecko |\n| ما | **nasz** | **nasza** | **nasze** | nasz kot / nasza rodzina / nasze mieszkanie |\n| شما (جمع) | **wasz** | **wasza** | **wasze** | wasz brat / wasza babcia / wasze miasto |\n| آن‌ها | **ich** | **ich** | **ich** | ich dom / ich córka / ich dziecko |\n\n### jego / jej / ich — ساده‌ترین‌ها\n\n*Jego* (مال او مذکر)، *jej* (مال او مؤنث) و *ich* (مال آن‌ها) **تغییر نمی‌کنند** — صرف نظر از جنسیت اسم:\n\n| لهستانی | فارسی |\n|---------|-------|\n| *To jest **jego** brat.* | این برادرشه (مذکر). |\n| *To jest **jego** siostra.* | این خواهرشه (مذکر). |\n| *To jest **jej** mąż.* | این شوهرشه (مؤنث). |\n| *To jest **ich** dom.* | این خانه‌شونه. |\n\n### mój / twój — هر کدام ۴ شکل\n\n| | مذکر | مؤنث | خنثی | جمع (non-virile) | جمع (virile) |\n|--|------|------|------|-----------------|-------------|\n| mój | **mój** | **moja** | **moje** | **moje** | **moi** |\n| twój | **twój** | **twoja** | **twoje** | **twoje** | **twoi** |\n\n### nasz / wasz — هر کدام ۳ شکل\n\n| | مذکر | مؤنث | خنثی |\n|--|------|------|------|\n| nasz | **nasz** | **nasza** | **nasze** |\n| wasz | **wasz** | **wasza** | **wasze** |\n\n### حذف ضمایر ملکی در مکالمه\n\nمثل ضمیر فاعلی، لهستانی‌ها اغلب **ضمیر ملکی را حذف می‌کنند** وقتی مالکیت واضح است:\n\n| رسمی | مکالمه طبیعی |\n|------|--------------|\n| *Gdzie jest moja mama?* | *Gdzie jest mama?* |\n| *Mój tata pracuje.* | *Tata pracuje.* |\n\n### مثال‌های کاربردی — خانواده\n\n| لهستانی | فارسی |\n|---------|-------|\n| *To jest mój ojciec.* | این پدرمه. |\n| *To jest moja matka.* | این مادرمه. |\n| *To jest nasze mieszkanie.* | این آپارتمان ماست. |\n| *To są ich dzieci.* | اینا بچه‌هاشونن. |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *moja brat* | *mój brat* | brat مذکر است → mój |\n| *mój mama* | *moja mama* | mama مؤنث است → moja |\n| *jego-go dom* | *jego dom* | jego هرگز تغییر نمی‌کند |\n| *nasz córka* | *nasza córka* | córka مؤنث است → nasza |",
   "exercises": [
     {
       "id": "a1-ch02-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Choose the correct possessive: To jest ___ brat. (This is my brother.)",
+      "prompt": "Wojtek is introducing his brother. Complete: To jest ___ brat.",
+      "prompt_fa": "وویتک دارد برادرش را معرفی می‌کند. کامل کنید: To jest ___ brat.",
       "options": [
         "mój",
         "moja",
@@ -29,24 +31,35 @@
         "moją"
       ],
       "correctIndex": 0,
-      "explanation": "'Brat' (brother) is masculine, so the possessive is 'mój'. 'To jest mój brat' = This is my brother."
+      "explanation": "The possessive matches the noun, not the speaker. 'Brat' (brother) is masculine, so use the masculine form: mój.",
+      "explanation_fa": "ضمیر ملکی با اسم تطابق پیدا می‌کند، نه با گوینده. 'Brat' (برادر) مذکر است، پس از شکل مذکر استفاده می‌شود: mój."
     },
     {
       "id": "a1-ch02-l03-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "To jest ___ siostra. (This is your sister.) [siostra = feminine]",
       "answer": "twoja",
       "acceptableAnswers": [
         "twoja"
       ],
-      "hint": "Feminine form of 'your' (2nd person singular)"
+      "hint": "Feminine form of 'your' (2nd person singular)",
+      "explanation": "'Siostra' is feminine, so the possessive 'your' must be in its feminine form: twoja. The noun gender decides the possessive ending.",
+      "explanation_fa": "'Siostra' مؤنث است، پس ضمیر ملکی 'your' باید به شکل مؤنث باشد: twoja. جنسیت اسم شکل ضمیر ملکی را تعیین می‌کند.",
+      "context": "You are asking about your friend's sister. Complete:",
+      "context_fa": "شما درباره خواهر دوستتان می‌پرسید. کامل کنید:",
+      "sentence": "To jest ___ siostra.",
+      "translation": "[siostra = feminine]",
+      "translation_fa": "[siostra = مؤنث]",
+      "prompt": "To jest ___ siostra.",
+      "prompt_fa": "To jest ___ siostra."
     },
     {
       "id": "a1-ch02-l03-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch02/a1-ch02-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "To jest nasze dziecko.",
         "To jest nasza córka.",
@@ -54,19 +67,20 @@
         "To są nasze dzieci."
       ],
       "correctIndex": 2,
-      "explanation": "You heard: 'To jest nasz syn.' — This is our son. 'Syn' is masculine → 'nasz' (not nasza/nasze)."
+      "explanation": "You heard: 'To jest nasz syn.' — This is our son. 'Syn' (son) is masculine, so the possessive 'our' is nasz, not nasza or nasze.",
+      "explanation_fa": "شنیدید: 'To jest nasz syn.' — این پسر ماست. 'Syn' (پسر) مذکر است، پس ضمیر ملکی 'ما' می‌شود nasz، نه nasza یا nasze."
     },
     {
       "id": "a1-ch02-l03-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: This is my dog. [pies = masculine]",
+      "prompt": "Arrange: This is my dog. [pies = masculine]",
+      "prompt_fa": "کلمات را به ترتیب بزنید: این سگ من است. [pies = مذکر]",
       "wordBank": [
         "To",
+        "moja",
         "jest",
         "mój",
-        "moja",
-        "moje",
         "pies"
       ],
       "correctSequences": [
@@ -77,13 +91,15 @@
           "pies"
         ]
       ],
-      "explanation": "'To jest mój pies' = This is my dog. 'Pies' is masculine → use 'mój'."
+      "explanation": "'To jest mój pies' = This is my dog. 'Pies' is masculine, so the possessive is mój. If it were a female dog (suka), you would say moja.",
+      "explanation_fa": "'To jest mój pies' = این سگ من است. 'Pies' مذکر است پس ضمیر ملکی mój می‌شود. اگر سگ ماده بود (suka)، می‌گفتید moja."
     },
     {
       "id": "a1-ch02-l03-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "To jest ___ auto. (This is her car.) [auto = neuter]",
+      "prompt": "Magda just bought a new car. Complete: To jest ___ auto. [auto = neuter]",
+      "prompt_fa": "ماگدا تازه یک ماشین جدید خریده. کامل کنید: To jest ___ auto. [auto = خنثی]",
       "options": [
         "jej",
         "jego",
@@ -91,7 +107,98 @@
         "je"
       ],
       "correctIndex": 0,
-      "explanation": "'Jej' = her (possessive, 3rd feminine). Since 'jej' is indeclinable, it stays the same regardless of the noun's gender: 'To jest jej auto'."
+      "explanation": "'Jej' = her. Unlike mój/twój, the forms jej, jego, and ich never change — they stay the same regardless of noun gender.",
+      "explanation_fa": "'Jej' = مال او (مؤنث). برخلاف mój/twój، شکل‌های jej، jego و ich هرگز تغییر نمی‌کنند — صرف نظر از جنسیت اسم همین شکل را دارند."
+    },
+    {
+      "id": "a1-ch02-l03-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Marek refers to his masculine noun 'brat' (brother). Which possessive form is correct?",
+      "prompt_fa": "مارک به اسم مذکرش 'brat' (برادر) اشاره می‌کند. کدام شکل ملکی درست است؟",
+      "options": [
+        "mój brat",
+        "moja brat",
+        "moje brat",
+        "moją brat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Masculine nouns take 'mój'. 'Mój brat' = my brother. The possessive must agree with the noun's gender: mój (m) / moja (f) / moje (n).",
+      "explanation_fa": "اسم‌های مذکر 'mój' می‌گیرند. 'Mój brat' = برادرم. ضمیر ملکی باید با جنسیت اسم موافق باشد: mój (م) / moja (م) / moje (خ)."
+    },
+    {
+      "id": "a1-ch02-l03-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "moja",
+      "acceptableAnswers": [
+        "moja"
+      ],
+      "hint": "mama = feminine noun → feminine possessive",
+      "explanation": "'Mama' is feminine → possessive = 'moja'. 'To jest moja mama' = This is my mum.",
+      "explanation_fa": "'Mama' مؤنث است → ضمیر ملکی = 'moja'. 'To jest moja mama' = این مامانم است.",
+      "context": "Kasia shows a family photo:",
+      "context_fa": "کاسیا یک عکس خانوادگی نشان می‌دهد:",
+      "sentence": "To jest ___ mama.",
+      "translation": "(This is my mum.) [Choose: mój/moja/moje]",
+      "translation_fa": "(این مامانم است.) [انتخاب کنید: mój/moja/moje]",
+      "prompt": "To jest ___ mama.",
+      "prompt_fa": "To jest ___ mama."
+    },
+    {
+      "id": "a1-ch02-l03-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Ania talks about her female friend's notebook. 'Her book' in Polish is...",
+      "prompt_fa": "آنیا درباره دفتر دوست مؤنثش صحبت می‌کند. «کتاب او» به لهستانی...",
+      "options": [
+        "jej książka",
+        "jego książka",
+        "nasza książka",
+        "twoja książka"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Jej' = her (possessive of ona). Note that 'jej' never changes form — it stays 'jej' regardless of the noun's gender.",
+      "explanation_fa": "'Jej' = مال او (مؤنث). توجه کنید که 'jej' هرگز تغییر شکل نمی‌دهد — صرف نظر از جنسیت اسم، 'jej' باقی می‌ماند."
+    },
+    {
+      "id": "a1-ch02-l03-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tomek says their house is big. Arrange the words.",
+      "prompt_fa": "تامک می‌گوید خانه‌شان بزرگ است. کلمات را به ترتیب بزنید.",
+      "wordBank": [
+        "Nasz dom",
+        "jest",
+        "duży",
+        "mój"
+      ],
+      "correctSequences": [
+        [
+          "Nasz dom",
+          "jest",
+          "duży"
+        ]
+      ],
+      "explanation": "'Nasz dom jest duży' = Our house is big. 'Nasz' = our (masculine noun agreement). 'Dom' is masculine so adjective = duży.",
+      "explanation_fa": "'Nasz dom jest duży' = خانه‌مان بزرگ است. 'Nasz' = مال ما (تطابق با اسم مذکر). 'Dom' مذکر است پس صفت = duży."
+    },
+    {
+      "id": "a1-ch02-l03-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch02/a1-ch02-l03-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Twoja córka jest bardzo mądra.",
+        "Twój córka jest bardzo mądra.",
+        "Twoje córka jest bardzo mądra.",
+        "Twoja syn jest bardzo mądry."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Twoja córka jest bardzo mądra.' — Your daughter is very clever. 'Córka' is feminine → 'twoja' (feminine possessive). 'Mądra' = clever (f agreement).",
+      "explanation_fa": "شنیدید: 'Twoja córka jest bardzo mądra.' — دخترت خیلی باهوش است. 'Córka' مؤنث است → 'twoja' (ضمیر ملکی مؤنث). 'Mądra' = باهوش (تطابق مؤنث)."
     }
   ],
   "xpReward": 20,

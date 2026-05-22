@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Co powiedziała? — She said [completed, one utterance] that she's tired. Which verb?",
+      "prompt_fa": "چه گفت؟ — او [کامل، یک بار] گفت که خسته است. کدام فعل؟",
       "options": [
         "powiedzieć (perfective)",
         "mówić (imperfective)",
@@ -30,25 +31,35 @@
         "Neither fits"
       ],
       "correctIndex": 0,
-      "explanation": "A single, completed speech act = perfective: 'powiedzieć'. 'Powiedziała, że jest zmęczona.' 'Mówiła' would imply she kept talking/used to say."
+      "explanation": "A single, completed speech act = perfective: 'powiedzieć'. 'Powiedziała, że jest zmęczona.' 'Mówiła' would imply she kept talking/used to say.",
+      "explanation_fa": "یک عمل گفتاری تمام‌شده = کامل: 'powiedzieć'. 'Powiedziała, że jest zmęczona.' 'Mówiła' مفهوم ادامه صحبت یا عادت را می‌رساند."
     },
     {
       "id": "a2-ch12-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "W końcu ___ mieszkanie. (I finally cleaned the flat.) [posprzątać — perfective, ja m past]",
+      "context": "Tomek finally finishes tidying up. Complete:",
+      "context_fa": "تومک بالاخره تمیز کردن را تمام می‌کند. کامل کنید:",
+      "sentence": "W końcu ___ mieszkanie.",
+      "translation": "(I finally cleaned the flat.) [posprzątać — perfective, ja m past]",
+      "translation_fa": "(بالاخره آپارتمان را تمیز کردم.) [posprzątać — کامل، اول شخص مفرد مذکر گذشته]",
+      "prompt": "W końcu ___ mieszkanie.",
+      "prompt_fa": "W końcu ___ mieszkanie.",
       "answer": "posprzątałem",
       "acceptableAnswers": [
         "posprzątałem",
         "posprzątałam"
       ],
-      "hint": "Perfective of 'sprzątać' = posprzątać → past masc: posprzątałem"
+      "hint": "Perfective of 'sprzątać' = posprzątać → past masc: posprzątałem",
+      "explanation": "'W końcu' + completed result → perfective posprzątać past: posprzątałem (m) / posprzątałam (f). 'Sprzątałem' would be ongoing process.",
+      "explanation_fa": "'W końcu' + نتیجه کامل → کامل posprzątać گذشته: posprzątałem (مذکر) / posprzątałam (مؤنث). 'Sprzątałem' فرآیند در حال انجام بود."
     },
     {
       "id": "a2-ch12-l02-ex03",
       "type": "multiple_choice",
       "order": 3,
       "prompt": "Wczoraj wieczorem ___ całą kolację. (Last night I ate up the whole dinner.) [jeść/zjeść]",
+      "prompt_fa": "دیشب ___ تمام شام را خوردم. [jeść/zjeść]",
       "options": [
         "zjadłem",
         "jadłem",
@@ -56,23 +67,23 @@
         "zjem"
       ],
       "correctIndex": 0,
-      "explanation": "Completed action, single event: perfective 'zjeść' → past zjadłem. 'Jadłem' (imperfective) means I was eating, without emphasis on completion."
+      "explanation": "Completed action, single event: perfective 'zjeść' → past zjadłem. 'Jadłem' (imperfective) means I was eating, without emphasis on completion.",
+      "explanation_fa": "عمل کامل‌شده، رویداد واحد: کامل 'zjeść' → گذشته zjadłem. 'Jadłem' (ناکامل) یعنی داشتم می‌خوردم، بدون تأکید بر تکمیل."
     },
     {
       "id": "a2-ch12-l02-ex04",
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: Every day she cooked dinner for the family. (habitual — imperfective)",
+      "prompt_fa": "بسازید: او هر روز برای خانواده ناهار می‌پخت. (عادتی — ناکامل)",
       "wordBank": [
         "Codziennie",
         "ona",
         "gotowała",
         "ugotowała",
         "obiad",
-        "obiadu",
         "dla",
-        "rodziny",
-        "rodzina"
+        "rodziny"
       ],
       "correctSequences": [
         [
@@ -84,13 +95,15 @@
           "rodziny"
         ]
       ],
-      "explanation": "'Codziennie ona gotowała obiad dla rodziny.' — habitual action → imperfective: gotowała. 'Ugotowała' would be a single completed cooking event."
+      "explanation": "'Codziennie ona gotowała obiad dla rodziny.' — habitual action → imperfective: gotowała. 'Ugotowała' would be a single completed cooking event.",
+      "explanation_fa": "'Codziennie ona gotowała obiad dla rodziny.' — عمل عادتی → ناکامل: gotowała. 'Ugotowała' یک رویداد پختن تمام‌شده بود."
     },
     {
       "id": "a2-ch12-l02-ex05",
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Which is the PERFECTIVE partner of 'kupować'?",
+      "prompt_fa": "کدام شریک کامل فعل 'kupować' است؟",
       "options": [
         "kupić",
         "nakupować",
@@ -98,7 +111,103 @@
         "pokupić"
       ],
       "correctIndex": 0,
-      "explanation": "'Kupować' (imperfective) → 'kupić' (perfective). This is a stem change pair, not a prefix pair. 'Kupiłem' = I bought [completed]. 'Kupowałem' = I was buying / I used to buy."
+      "explanation": "'Kupować' (imperfective) → 'kupić' (perfective). This is a stem change pair, not a prefix pair. 'Kupiłem' = I bought [completed]. 'Kupowałem' = I was buying / I used to buy.",
+      "explanation_fa": "'Kupować' (ناکامل) → 'kupić' (کامل). این یک جفت تغییر بن است، نه جفت پیشوندی. 'Kupiłem' = خریدم [کامل]. 'Kupowałem' = داشتم می‌خریدم / عادت داشتم بخرم."
+    },
+    {
+      "id": "a2-ch12-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Marek ___ kawę każdego ranka w tej kawiarni. (Marek drank coffee every morning in that café.) [pić/wypić]",
+      "prompt_fa": "مارک ___ هر صبح در آن کافه قهوه می‌نوشید. [pić/wypić]",
+      "options": [
+        "pił (imperfective — habitual)",
+        "wypił (perfective — completed)",
+        "Both are correct",
+        "Neither is correct"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Każdego ranka' (every morning) = habitual → imperfective: pił. 'Wypił' = he drank up [finished] the coffee — one completed event.",
+      "explanation_fa": "'Każdego ranka' (هر صبح) = عادتی → ناکامل: pił. 'Wypił' = قهوه را تمام کرد — یک رویداد تمام‌شده."
+    },
+    {
+      "id": "a2-ch12-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Ania tells about completing a book. Complete:",
+      "context_fa": "آنیا درباره تمام کردن یک کتاب می‌گوید. کامل کنید:",
+      "sentence": "Wczoraj w końcu ___ tę powieść.",
+      "translation": "(Yesterday I finally read [finished] that novel.) [przeczytać, ja f past perfective]",
+      "translation_fa": "(دیروز بالاخره آن رمان را خواندم [تمام کردم].) [przeczytać، اول شخص مفرد مؤنث گذشته کامل]",
+      "prompt": "Wczoraj w końcu ___ tę powieść.",
+      "prompt_fa": "Wczoraj w końcu ___ tę powieść.",
+      "answer": "przeczytałam",
+      "acceptableAnswers": [
+        "przeczytałam",
+        "przeczytałem"
+      ],
+      "hint": "przeczytać (perfective of czytać) → past feminine ja: przeczytałam",
+      "explanation": "'W końcu' + completed reading → perfective przeczytać past: przeczytałam (f) / przeczytałem (m). 'Czytałam' would mean ongoing reading without completion.",
+      "explanation_fa": "'W końcu' + خواندن کامل → کامل przeczytać گذشته: przeczytałam (مؤنث) / przeczytałem (مذکر). 'Czytałam' خواندن در حال انجام بدون تکمیل بود."
+    },
+    {
+      "id": "a2-ch12-l02-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch12/a2-ch12-l02-ex08.mp3",
+      "options": [
+        "Tomek napisał do niej długi list.",
+        "Tomek pisał do niej długi list.",
+        "Tomek pisze do niej długi list.",
+        "Tomek napisze do niej długi list."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Tomek napisał do niej długi list.' — Tomek wrote her a long letter [completed]. Perfective 'napisać' past masculine: napisał.",
+      "explanation_fa": "شنیدید: 'Tomek napisał do niej długi list.' — تومک یک نامه بلند برایش نوشت [کامل]. کامل 'napisać' گذشته مذکر: napisał."
+    },
+    {
+      "id": "a2-ch12-l02-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: Kasia bought a new book yesterday.",
+      "prompt_fa": "بسازید: کاسیا دیروز یک کتاب جدید خرید.",
+      "wordBank": [
+        "Kasia",
+        "kupiła",
+        "kupowała",
+        "nową",
+        "książkę",
+        "wczoraj"
+      ],
+      "correctSequences": [
+        [
+          "Kasia",
+          "kupiła",
+          "nową",
+          "książkę",
+          "wczoraj"
+        ]
+      ],
+      "explanation": "'Kasia kupiła nową książkę wczoraj.' — Kasia bought a new book yesterday. Single completed purchase → perfective kupić past feminine: kupiła.",
+      "explanation_fa": "'Kasia kupiła nową książkę wczoraj.' — کاسیا دیروز یک کتاب جدید خرید. خرید تمام‌شده واحد → کامل kupić گذشته مؤنث: kupiła."
+    },
+    {
+      "id": "a2-ch12-l02-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Which sentence uses the IMPERFECTIVE correctly?",
+      "prompt_fa": "کدام جمله از ناکامل به درستی استفاده می‌کند؟",
+      "options": [
+        "Często czytałem gazety przed śniadaniem.",
+        "Często przeczytałem gazety przed śniadaniem.",
+        "Raz czytałem tę książkę.",
+        "W końcu czytałem ten raport."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Często' (often) + routine action → imperfective: czytałem. Option 2 with 'często + perfective' is unnatural. 'Raz' (once) and 'w końcu' (finally) take perfective.",
+      "explanation_fa": "'Często' (اغلب) + عمل روتین → ناکامل: czytałem. گزینه ۲ با 'często + کامل' غیر طبیعی است. 'Raz' (یک بار) و 'w końcu' (بالاخره) کامل می‌گیرند."
     }
   ],
   "xpReward": 25,

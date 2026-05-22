@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch18-l02-nominalization",
+  "chapter": 18,
+  "lessonOrder": 2,
+  "level": "b1",
+  "title": "Nominalization: Verbs Becoming Nouns",
+  "title_fa": "اسمی‌سازی: تبدیل افعال به اسم",
+  "grammarPoint": "Verbal nouns (-nie/-cie) and action nouns (wzrost, decyzja, zmiana) in formal and media language",
+  "grammarPoint_fa": "اسامی فعلی (-nie/-cie) و اسامی عمل (wzrost، decyzja، zmiana) در زبان رسمی و رسانه‌ای",
+  "explanation": {
+    "text": "**Polish forms abstract action nouns in two main ways:**\n\n**1. Verbal nouns (-nie/-cie) from infinitive:**\n- czytać → czytanie (reading)\n- pisać → pisanie (writing)\n- uczyć się → uczenie się (learning)\n- jechać → jechanie (riding/going)\n- spotkać → spotkanie (meeting — also a regular noun!)\n\n**Pattern:** Remove -ć/-c from infinitive + add -nie (or -cie for -źć, -żdź, -ść):\n- robić → rob- + ienie = robienie\n- mówić → mów- + ienie = mówienie\n- czekać → czeka + nie = czekanie\n- wyjść → wyj- + ście = wyjście (exit — also noun!)\n\n**Uses of verbal nouns:**\n- Po + verbal noun: 'Po przeczytaniu artykułu...' (After reading the article...)\n- Subject of sentence: 'Czytanie jest ważne.' (Reading is important.)\n- Object: 'Lubię gotowanie.' (I like cooking.)\n\n**2. Root nouns (action/result nouns):**\n- wzrosnąć → **wzrost** (rise) — no suffix change, root noun\n- spaść → **spadek** (fall)\n- zdecydować → **decyzja** (decision)\n- zmienić → **zmiana** (change)\n- wygrać → **wygrana/zwycięstwo** (win/victory)\n- stracić → **strata** (loss)\n- podwyższyć → **podwyżka** (rise/hike)\n- obniżyć → **obniżka** (reduction)\n\n**In media language:**\n- 'W związku ze **wzrostem** cen...' (In connection with the price rise...)\n- 'Po **ogłoszeniu** wyników...' (After the announcement of results...)\n- '**Zmiana** kursu waluty' (Currency rate change)\n\n**Nominalization makes language more formal and condensed.**",
+    "notes": [
+      "Verbal nouns in -nie/-cie are always neuter gender",
+      "'Spotkanie' and 'wyjście' are lexicalized — they've become standard nouns",
+      "In journalism: nominalization compresses information (spadek = 'it fell', wzrost = 'it rose')",
+      "Po + verbal noun always implies completion: 'po przeczytaniu' = after having read"
+    ]
+  },
+  "explanation_fa": "لهستانی اسامی انتزاعی عمل را دو روش می‌سازد: ۱) اسامی فعلی (-nie/-cie) از مصدر: czytać → czytanie، pisać → pisanie. قانون: مصدر بدون -ć + -nie. کاربردها: po + اسم فعلی (بعد از خواندن...)، فاعل جمله، مفعول. ۲) اسامی ریشه: wzrost (از wzrosnąć)، spadek، decyzja، zmiana، podwyżka، obniżka. در زبان رسانه‌ای: اسمی‌سازی اطلاعات را فشرده می‌کند. اسامی فعلی -nie/-cie همیشه خنثی هستند.",
+  "exercises": [
+    {
+      "id": "b1-ch18-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "What is the verbal noun from 'gotować' (to cook)?",
+      "prompt_fa": "اسم فعلی از 'gotować' (پختن) چیست؟",
+      "options": [
+        "gotowanie (cooking — neuter verbal noun)",
+        "gotowość (readiness — different suffix)",
+        "gotowy (ready — adjective)",
+        "gotując (cooking — gerund adverb)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Gotowanie' = cooking. Gotować → gotown- + anie = gotowanie. Neuter verbal noun. 'Lubię gotowanie.' (I like cooking.)",
+      "explanation_fa": "'Gotowanie' = پختن/آشپزی. Gotować → gotown- + anie = gotowanie. اسم فعلی خنثی. 'Lubię gotowanie.' (دوست دارم آشپزی کنم.)"
+    },
+    {
+      "id": "b1-ch18-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "In media: 'Following the announcement of results:' = Po ___ wyników (verbal noun from 'ogłosić' — perf):",
+      "context_fa": "در رسانه: 'بعد از اعلام نتایج:' = Po ___ wyników (اسم فعلی از 'ogłosić' — کامل):",
+      "sentence": "Po ___ wyników, prezes zabrał głos.",
+      "prompt": "Po ___ wyników, prezes zabrał głos.",
+      "prompt_fa": "Po ___ wyników, prezes zabrał głos.",
+      "answer": "ogłoszeniu",
+      "acceptableAnswers": ["ogłoszeniu"],
+      "hint": "ogłosić → ogłoszenie (announcement) → locative/genitive after po: ogłoszeniu",
+      "explanation": "'Po ogłoszeniu wyników' — After the announcement of results. Ogłosić → ogłoszenie (verbal noun, neuter) → after 'po': ogłoszeniu (locative).",
+      "explanation_fa": "'Po ogłoszeniu wyników' — بعد از اعلام نتایج. Ogłosić → ogłoszenie (اسم فعلی، خنثی) → بعد از 'po': ogłoszeniu (مکانی)."
+    },
+    {
+      "id": "b1-ch18-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch18/b1-ch18-l02-ex03.mp3",
+      "prompt": "Which nominalised phrase did you hear?",
+      "prompt_fa": "کدام عبارت اسمی‌شده را شنیدید؟",
+      "options": [
+        "Zmiana kursu waluty wpłynęła na gospodarkę.",
+        "Zmienić kurs waluty wpłynęło na gospodarkę.",
+        "Zmiana kurs waluty wpłynęła na gospodarkę.",
+        "Zmiana kursem waluty wpłynęła na gospodarkę."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Zmiana kursu waluty' — Currency rate change (nominalized). 'Zmiana' (f.) = change (from zmienić). Genitive chain: kursu waluty.",
+      "explanation_fa": "'Zmiana kursu waluty' — تغییر نرخ ارز (اسمی‌شده). 'Zmiana' (مؤنث) = تغییر (از zmienić). زنجیره مضاف‌الیه: kursu waluty."
+    },
+    {
+      "id": "b1-ch18-l02-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: After reading the report, she made a decision.",
+      "prompt_fa": "بسازید: بعد از خواندن گزارش، تصمیم گرفت.",
+      "wordBank": ["Po", "przeczytaniu", "raportu", "podjęła", "decyzję", "czytaniu", "raport"],
+      "correctSequences": [["Po", "przeczytaniu", "raportu", "podjęła", "decyzję"]],
+      "explanation": "'Po przeczytaniu raportu, podjęła decyzję.' — After reading the report, she made a decision. 'Po przeczytaniu' = after having read (perfective verbal noun + locative).",
+      "explanation_fa": "'Po przeczytaniu raportu, podjęła decyzję.' — بعد از خواندن گزارش، تصمیم گرفت. 'Po przeczytaniu' = بعد از خواندن (اسم فعلی کامل + مکانی)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["media-language", "nominalization", "verbal-nouns", "b1-core"],
+  "prerequisites": ["b1-ch18-l01"]
+}

@@ -6,23 +6,24 @@
   "title": "Modal Verbs — musieć, móc, chcieć, trzeba",
   "title_fa": "افعال وجهی — musieć، móc، chcieć، trzeba",
   "grammarPoint": "Modal verbs: musieć (must), móc (can/may), chcieć (want), trzeba (one must) + infinitive",
-  "grammarPoint_fa": "افعال وجهی: musieć (باید)، móc (توانستن)، chcieć (خواستن) + مصدر",
+  "grammarPoint_fa": "افعال وجهی: musieć (باید)، móc (توانستن/می‌توانم)، chcieć (خواستن)، trzeba (لازم است) + مصدر",
   "explanation": {
-    "text": "**Modal verbs** express necessity, possibility, or desire. In Polish they are followed by the **infinitive**.\n\n**Key modal verbs:**\n\n| Verb | Meaning | ja form | ty form |\n|------|---------|---------|--------|\n| **musieć** | must / have to | muszę | musisz |\n| **móc** | can / may / be able to | mogę | możesz |\n| **chcieć** | want to | chcę | chcesz |\n| **trzeba** | one must / it is necessary | — | — |\n| **można** | one can / it is allowed | — | — |\n\n**trzeba and można** are impersonal (no subject conjugation):\n- Trzeba iść. = One must go. / You need to go.\n- Nie można palić. = Smoking is not allowed.\n\n**Examples:**\n- Muszę iść do lekarza. = I must go to the doctor.\n- Możesz mi pomóc? = Can you help me?\n- Chcę się napić wody. = I want to drink some water.\n- Trzeba odpocząć. = You need to rest.\n- Nie możemy tu parkować. = We can't park here.\n\n**In health context:**\n- Musisz wziąć lekarstwo. = You must take the medicine.\n- Trzeba odpocząć w domu. = You need to rest at home.",
+    "text": "## Modal Verbs — musieć, móc, chcieć, trzeba\n\n**Modal verbs** express necessity, possibility, desire, or permission. In Polish they are always followed by the **infinitive**.\n\n### The four key modal verbs\n\n| Verb | Meaning | Type |\n|------|---------|------|\n| **musieć** | must / have to | obligation |\n| **móc** | can / be able to / may | ability / permission |\n| **chcieć** | want to | desire |\n| **trzeba** | one must / it is necessary | impersonal obligation |\n| **można** | one can / it is allowed | impersonal permission |\n\n### Full conjugations\n\n| Person | musieć | móc | chcieć |\n|--------|--------|-----|--------|\n| ja | **muszę** | **mogę** | **chcę** |\n| ty | **musisz** | **możesz** | **chcesz** |\n| on/ona | **musi** | **może** | **chce** |\n| my | **musimy** | **możemy** | **chcemy** |\n| wy | **musicie** | **możecie** | **chcecie** |\n| oni/one | **muszą** | **mogą** | **chcą** |\n\n> 🔑 **trzeba** and **można** are **impersonal** — they have no subject and never conjugate. Always followed by infinitive.\n\n### Examples in context\n\n| Polish | English |\n|--------|---------|\n| Muszę iść do lekarza. | I must go to the doctor. |\n| Musisz wziąć lekarstwo. | You must take the medicine. |\n| Możesz mi pomóc? | Can you help me? |\n| Nie możemy tu parkować. | We can't park here. |\n| Chcę się napić wody. | I want to drink some water. |\n| Ona chce zostać w domu. | She wants to stay home. |\n| Trzeba odpocząć. | You need to rest. |\n| Nie można tu palić. | Smoking is not allowed here. |\n\n### Health context — modal verbs at the doctor\n\n| Polish | English |\n|--------|---------|\n| Muszę iść do lekarza. | I must go to the doctor. |\n| Musisz wziąć lekarstwo. | You must take the medicine. |\n| Trzeba odpocząć w domu. | You need to rest at home. |\n| Można wziąć aspirynę. | You can take aspirin. |\n| Nie można pić alkoholu. | You must not drink alcohol. |\n\n### Negation — important difference!\n\n| Polish | English | Meaning |\n|--------|---------|----------|\n| Nie **muszę** iść. | I don't *have to* go. | no obligation |\n| Nie **mogę** iść. | I *can't* go. | impossibility |\n| Nie **chcę** iść. | I don't *want to* go. | no desire |\n| Nie **można** wejść. | Entry is *not allowed*. | prohibition |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Muszę do lekarza.* | *Muszę **iść** do lekarza.* | modal + infinitive required |\n| *Musię pójść.* | ***Muszę** pójść.* | correct form is muszę |\n| *Trzeba idę.* | *Trzeba **iść**.* | trzeba + infinitive only |\n| *Mogę tu nie palić.* | *Nie **można** tu palić.* | use nie można for prohibition |",
     "notes": [
-      "musieć: muszę, musisz, musi, musimy, musicie, muszą.",
-      "móc: mogę, możesz, może, możemy, możecie, mogą.",
-      "chcieć: chcę, chcesz, chce, chcemy, chcecie, chcą.",
-      "trzeba/można = impersonal, used with infinitive: Trzeba jeść. Można wejść?"
+      "musieć: muszę, musisz, musi, musimy, musicie, muszą — all followed by infinitive",
+      "móc: mogę, możesz, może, możemy, możecie, mogą — can/may/be able to",
+      "chcieć: chcę, chcesz, chce, chcemy, chcecie, chcą — want to",
+      "trzeba/można = impersonal, no subject: Trzeba jeść. Można wejść?"
     ]
   },
-  "explanation_fa": "افعال وجهی با مصدر همراه می‌شوند: Muszę iść (باید بروم)، Mogę pomóc (می‌توانم کمک کنم)، Chcę jeść (می‌خواهم بخورم). trzeba (باید) ساختار غیرشخصی دارد: Trzeba pracować (باید کار کرد). نفی: Nie musisz (مجبور نیستی)، Nie możesz (نمی‌توانی).",
+  "explanation_fa": "## افعال وجهی — musieć، móc، chcieć، trzeba\n\n**افعال وجهی** اجبار، امکان، تمایل یا اجازه را بیان می‌کنند. در لهستانی همیشه با **مصدر** همراه می‌شوند.\n\n### چهار فعل وجهی کلیدی\n\n| فعل | معنی | نوع |\n|-----|------|-----|\n| **musieć** | باید / مجبورم | اجبار |\n| **móc** | توانستن / می‌توانم | توانایی/اجازه |\n| **chcieć** | خواستن / می‌خواهم | تمایل |\n| **trzeba** | لازم است / باید | اجبار غیرشخصی |\n| **można** | مجاز است / می‌توان | اجازه غیرشخصی |\n\n### صرف کامل\n\n| شخص | musieć | móc | chcieć |\n|------|--------|-----|--------|\n| ja | **muszę** | **mogę** | **chcę** |\n| ty | **musisz** | **możesz** | **chcesz** |\n| on/ona | **musi** | **może** | **chce** |\n| my | **musimy** | **możemy** | **chcemy** |\n| wy | **musicie** | **możecie** | **chcecie** |\n| oni/one | **muszą** | **mogą** | **chcą** |\n\n> 🔑 **trzeba** و **można** **غیرشخصی** هستند — هیچ فاعلی ندارند و هرگز صرف نمی‌شوند. همیشه با مصدر.\n\n### مثال‌ها در زمینه\n\n| لهستانی | فارسی |\n|---------|-------|\n| Muszę iść do lekarza. | باید پیش دکتر بروم. |\n| Możesz mi pomóc? | می‌توانی به من کمک کنی؟ |\n| Chcę się napić wody. | می‌خواهم آب بنوشم. |\n| Trzeba odpocząć. | باید استراحت کرد. |\n| Nie można tu palić. | اینجا سیگار ممنوع است. |\n\n### منفی — تفاوت مهم!\n\n| لهستانی | فارسی | معنی |\n|---------|-------|------|\n| Nie **muszę** iść. | مجبور نیستم بروم. | بدون اجبار |\n| Nie **mogę** iść. | نمی‌توانم بروم. | ناتوانی |\n| Nie **można** wejść. | ورود ممنوع است. | ممنوعیت |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Muszę do lekarza.* | *Muszę **iść** do lekarza.* | وجهی + مصدر لازم است |\n| *Musię pójść.* | ***Muszę** pójść.* | شکل درست muszę است |\n| *Trzeba idę.* | *Trzeba **iść**.* | trzeba فقط با مصدر |",
   "exercises": [
     {
       "id": "a1-ch09-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "I must go to the doctor. Which is correct?",
+      "prompt": "Marek has a high fever. Which sentence correctly says 'I must go to the doctor'?",
+      "prompt_fa": "ماریک تب بالا دارد. کدام جمله درست می‌گوید 'باید پیش دکتر بروم'؟",
       "options": [
         "Muszę iść do lekarza.",
         "Musię iść do lekarza.",
@@ -30,24 +31,35 @@
         "Muszę do lekarza."
       ],
       "correctIndex": 0,
-      "explanation": "'Muszę iść do lekarza.' = I must go to the doctor. 'Musieć' → ja: muszę. Always followed by infinitive: iść."
+      "explanation": "'Muszę iść do lekarza.' = I must go to the doctor. 'Musieć' → ja: muszę. Always followed by infinitive: iść. 'Do lekarza' = genitive (to the doctor's).",
+      "explanation_fa": "'Muszę iść do lekarza.' = باید پیش دکتر بروم. 'Musieć' → ja: muszę. همیشه با مصدر: iść. 'Do lekarza' = مضاف‌الیهی (پیش دکتر)."
     },
     {
       "id": "a1-ch09-l04-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Czy ___ mi pomóc? (Can you help me?) [móc, ty form]",
       "answer": "możesz",
       "acceptableAnswers": [
         "możesz"
       ],
-      "hint": "móc, ty form: możesz"
+      "hint": "móc, ty form: możesz (can you)",
+      "explanation": "'Móc' → ty form: 'możesz'. 'Czy możesz mi pomóc?' = Can you help me? 'Mi' = dative of 'ja' (to me). Followed by infinitive: pomóc.",
+      "explanation_fa": "'Móc' → شکل ty: 'możesz'. 'Czy możesz mi pomóc?' = می‌توانی به من کمک کنی؟ 'Mi' = دادی ja (به من). با مصدر: pomóc.",
+      "context": "Kasia drops something and needs help. Complete:",
+      "context_fa": "کاسیا چیزی می‌اندازد و به کمک نیاز دارد. کامل کنید:",
+      "sentence": "Czy ___ mi pomóc?",
+      "translation": "(Can you help me?) [móc, ty form]",
+      "translation_fa": "(می‌توانی به من کمک کنی؟) [móc، شکل ty]",
+      "prompt": "Czy ___ mi pomóc?",
+      "prompt_fa": "Czy ___ mi pomóc?"
     },
     {
       "id": "a1-ch09-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch09/a1-ch09-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Trzeba odpocząć i dużo pić.",
         "Trzeba odpocząć i dużo picie.",
@@ -55,22 +67,20 @@
         "Trzeba odpocząć i dużo pijesz."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Trzeba odpocząć i dużo pić.' — You need to rest and drink a lot. 'Trzeba' (impersonal) + infinitive. 'Dużo pić' = drink a lot."
+      "explanation": "You heard: 'Trzeba odpocząć i dużo pić.' — You need to rest and drink a lot. 'Trzeba' (impersonal) + infinitive. 'Dużo pić' = drink a lot (infinitive).",
+      "explanation_fa": "شنیدید: 'Trzeba odpocząć i dużo pić.' — باید استراحت کنی و زیاد بنوشی. 'Trzeba' (غیرشخصی) + مصدر. 'Dużo pić' = زیاد نوشیدن (مصدر)."
     },
     {
       "id": "a1-ch09-l04-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: I want to drink some water.",
+      "prompt": "Tap the words in order: I want to drink some water.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: می‌خواهم آب بنوشم.",
       "wordBank": [
         "Chcę",
-        "Chcesz",
         "się",
         "napić",
-        "wypić",
-        "wody",
-        "wodę",
-        "woda"
+        "wody"
       ],
       "correctSequences": [
         [
@@ -78,20 +88,17 @@
           "się",
           "napić",
           "wody"
-        ],
-        [
-          "Chcę",
-          "wypić",
-          "wodę"
         ]
       ],
-      "explanation": "'Chcę się napić wody' = I want to drink some water. 'Chcieć → ja: chcę + infinitive'. 'Napić się + genitive': wody."
+      "explanation": "'Chcę się napić wody' = I want to drink some water. 'Chcieć → ja: chcę + infinitive'. 'Napić się + genitive': wody (genitive of woda).",
+      "explanation_fa": "'Chcę się napić wody' = می‌خواهم آب بنوشم. 'Chcieć → ja: chcę + مصدر'. 'Napić się + مضاف‌الیهی': wody (مضاف‌الیهی woda)."
     },
     {
       "id": "a1-ch09-l04-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Nie ___ tu palić. (You can't/are not allowed to smoke here.) [impersonal prohibition]",
+      "prompt": "Tomek sees a no-smoking sign. How does he explain it to Ania? 'Nie ___ tu palić.' (You can't/are not allowed to smoke here.)",
+      "prompt_fa": "تامک یک تابلوی سیگار ممنوع می‌بیند. چطور برای آنیا توضیح می‌دهد؟ 'Nie ___ tu palić.' (اینجا سیگار ممنوع است.)",
       "options": [
         "można",
         "musisz",
@@ -99,7 +106,99 @@
         "trzeba"
       ],
       "correctIndex": 0,
-      "explanation": "'Nie można tu palić' = Smoking is not allowed here. 'Nie można' = it is not permitted (impersonal negative). 'Trzeba' = one must (obligation)."
+      "explanation": "'Nie można tu palić' = Smoking is not allowed here. 'Nie można' = it is not permitted (impersonal negative). 'Trzeba' expresses obligation (must), while 'nie można' expresses prohibition (not allowed).",
+      "explanation_fa": "'Nie można tu palić' = اینجا سیگار ممنوع است. 'Nie można' = مجاز نیست (منفی غیرشخصی). 'Trzeba' اجبار را بیان می‌کند (باید)، در حالی که 'nie można' ممنوعیت را (مجاز نیست)."
+    },
+    {
+      "id": "a1-ch09-l04-ex06",
+      "type": "fill_blank",
+      "order": 6,
+      "answer": "musi",
+      "acceptableAnswers": [
+        "musi"
+      ],
+      "hint": "musieć, 3rd person singular (on/ona): musi",
+      "explanation": "'Musieć' → ona: 'musi'. 'Ona musi odpocząć' = She must rest. Modal verb + infinitive: odpocząć.",
+      "explanation_fa": "'Musieć' → ona: 'musi'. 'Ona musi odpocząć' = او باید استراحت کند. فعل وجهی + مصدر: odpocząć.",
+      "context": "Ania is exhausted after work. Complete:",
+      "context_fa": "آنیا بعد از کار خسته است. کامل کنید:",
+      "sentence": "Ona ___ odpocząć.",
+      "translation": "(She must rest.) [musieć, ona form]",
+      "translation_fa": "(او باید استراحت کند.) [musieć، شکل ona]",
+      "prompt": "Ona ___ odpocząć.",
+      "prompt_fa": "Ona ___ odpocząć."
+    },
+    {
+      "id": "a1-ch09-l04-ex07",
+      "type": "multiple_choice",
+      "order": 7,
+      "prompt": "Kasia wants to know if she's allowed to open the window. How does she ask?",
+      "prompt_fa": "کاسیا می‌خواهد بداند آیا می‌تواند پنجره را باز کند. چطور می‌پرسد؟",
+      "options": [
+        "Czy można otworzyć okno?",
+        "Czy trzeba otworzyć okno?",
+        "Czy muszę otworzyć okno?",
+        "Czy chcę otworzyć okno?"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Czy można otworzyć okno?' = Is it possible/allowed to open the window? 'Można' = impersonal permission (one can/may). Appropriate for asking general permission.",
+      "explanation_fa": "'Czy można otworzyć okno?' = آیا می‌توان پنجره را باز کرد؟ 'Można' = اجازه غیرشخصی (می‌توان). مناسب برای پرسیدن اجازه کلی."
+    },
+    {
+      "id": "a1-ch09-l04-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Tomek says he has no obligation to come. Which is correct: 'I don't have to come'?",
+      "prompt_fa": "تامک می‌گوید اجباری به آمدن ندارد. کدام درست است: 'مجبور نیستم بیایم'؟",
+      "options": [
+        "Nie muszę przychodzić.",
+        "Nie mogę przychodzić.",
+        "Nie chcę przychodzić.",
+        "Nie można przychodzić."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nie muszę' = I don't have to (no obligation). 'Nie mogę' = I can't (inability). 'Nie chcę' = I don't want to. 'Nie można' = it's not allowed (impersonal prohibition).",
+      "explanation_fa": "'Nie muszę' = مجبور نیستم (بدون اجبار). 'Nie mogę' = نمی‌توانم (ناتوانی). 'Nie chcę' = نمی‌خواهم. 'Nie można' = مجاز نیست (ممنوعیت غیرشخصی)."
+    },
+    {
+      "id": "a1-ch09-l04-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tap the words in order: We want to go to the cinema tonight.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: امشب می‌خواهیم به سینما برویم.",
+      "wordBank": [
+        "Chcemy",
+        "iść",
+        "do",
+        "kina"
+      ],
+      "correctSequences": [
+        [
+          "Chcemy",
+          "iść",
+          "do",
+          "kina"
+        ]
+      ],
+      "explanation": "'Chcemy iść do kina' = We want to go to the cinema. 'Chcieć' → my: chcemy. Modal + infinitive: iść. 'Do kina' = to the cinema (kino → genitive kina).",
+      "explanation_fa": "'Chcemy iść do kina' = امشب می‌خواهیم به سینما برویم. 'Chcieć' → my: chcemy. فعل وجهی + مصدر: iść. 'Do kina' = به سینما (kino → مضاف‌الیهی kina)."
+    },
+    {
+      "id": "a1-ch09-l04-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch09/a1-ch09-l04-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Muszę wziąć lekarstwo trzy razy dziennie.",
+        "Musię wziąć lekarstwo trzy razy dziennie.",
+        "Muszę wziąć lekarstwu trzy razy dziennie.",
+        "Muszę brać lekarstwo trzy razy dzienni."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Muszę wziąć lekarstwo trzy razy dziennie.' — I must take the medicine three times a day. 'Muszę' + infinitive 'wziąć'. 'Lekarstwo' = accusative (take what). 'Trzy razy dziennie' = three times a day.",
+      "explanation_fa": "شنیدید: 'Muszę wziąć lekarstwo trzy razy dziennie.' — باید دارو را روزی سه بار بخورم. 'Muszę' + مصدر 'wziąć'. 'Lekarstwo' = مفعولی (چه چیزی بخوری). 'Trzy razy dziennie' = روزی سه بار."
     }
   ],
   "xpReward": 20,

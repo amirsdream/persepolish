@@ -1,0 +1,88 @@
+{
+  "id": "b1-ch20-l03-reading-strategies",
+  "chapter": 20,
+  "lessonOrder": 3,
+  "level": "b1",
+  "title": "B1 Reading & Listening Strategies",
+  "title_fa": "راهکارهای خواندن و شنیدن B1",
+  "grammarPoint": "Exam strategies: skimming, scanning, inference from context, handling unknown words in B1 Polish texts",
+  "grammarPoint_fa": "راهکارهای آزمون: خواندن سریع، جستجوی خاص، استنتاج از متن، برخورد با کلمات ناشناخته در متن B1",
+  "explanation": {
+    "text": "**PKE B1 Exam: Reading & Listening Strategies**\n\n**The B1 Polish State Exam (PKE) reading section:**\n- 3-4 texts of 150-250 words each\n- Question types: multiple choice, true/false, matching, gap-fill\n- Time: approximately 35 minutes\n\n**Strategy 1: Skim the questions FIRST**\n- Read all questions before reading the text\n- Know what information to look for\n- Underline key words in questions\n\n**Strategy 2: Scan for specific information**\n- Proper nouns (names, places) = easy anchors\n- Numbers and dates = scan targets\n- Repeated words = topic indicators\n\n**Strategy 3: Handle unknown words**\n1. Check the suffix: -ość (abstract), -arz (person), -anie (action)\n2. Identify the root: 'niechęć' → 'chcieć' → unwillingness\n3. Use context: surrounding words reveal meaning\n4. Skip and return: sometimes later context clarifies\n\n**Strategy 4: Aspect as comprehension tool**\n- Perf verbs = key events (what happened)\n- Imperf verbs = ongoing situation (background)\n- Find the perfective verbs to reconstruct the storyline\n\n**Strategy 5: Formal text patterns**\n- Opening: topic + position statement\n- Body: evidence + contrast (jednak, ale, choć)\n- Closing: summary or recommendation\n\n**B1 Listening tips:**\n- Dictation: focus on aspect (padał vs. padł)\n- Listen for sentence stress — stressed = important\n- If you miss something, use context from what you DID hear\n- Common trap: near-homophones like 'siódmym' vs. 'siódemką'\n\n**Key connectors to recognize in listening:**\n- ponieważ / bo / dlatego że (because)\n- jednak / ale / lecz (but, however)\n- mimo że / chociaż (although)\n- żeby / aby (in order to)",
+    "notes": [
+      "PKE B1 reading has 35% weight — the most important section",
+      "Always read questions first — never read text 'cold'",
+      "Aspect recognition helps reconstruct narrative even with vocabulary gaps",
+      "In dictation exercises, the wrong options often differ only in aspect: padał vs. padł"
+    ]
+  },
+  "explanation_fa": "راهکارهای آزمون PKE B1: بخش خواندن (۳۵٪): ۳-۴ متن ۱۵۰-۲۵۰ کلمه‌ای. راهکار ۱: ابتدا سؤالات را بخوانید. راهکار ۲: برای اطلاعات خاص جستجو کنید (اسامی خاص، اعداد، کلمات تکراری). راهکار ۳: کلمات ناشناخته: پسوند بررسی کنید، ریشه پیدا کنید، از زمینه استفاده کنید. راهکار ۴: جنبه به عنوان ابزار درک: فعل کامل = رویداد کلیدی؛ ناکامل = پس‌زمینه. نکات گوش دادن: جنبه در دیکته (padał در مقابل padł)، تکیه جمله، کانکتورها: ponieważ، jednak، mimo że، żeby.",
+  "exercises": [
+    {
+      "id": "b1-ch20-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "In a reading text, you see mostly imperfective verbs with one perfective. What does the perfective indicate?",
+      "prompt_fa": "در متن خواندنی، اکثراً افعال ناکامل می‌بینید با یک کامل. کامل چه چیزی را نشان می‌دهد؟",
+      "options": [
+        "The key plot event — the most important thing that happened",
+        "Background description (same as the imperfectives)",
+        "Future plans mentioned in the text",
+        "A habitual action of the main character"
+      ],
+      "correctIndex": 0,
+      "explanation": "A single perfective among imperfectives = the key event. That perfective verb is likely the answer to 'What happened?' in the comprehension questions.",
+      "explanation_fa": "یک کامل در میان ناکامل‌ها = رویداد کلیدی. آن فعل کامل احتمالاً پاسخ 'چه اتفاقی افتاد؟' در سؤالات درک مطلب است."
+    },
+    {
+      "id": "b1-ch20-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Unknown word strategy: 'Wyraził swoją niechęć do współpracy.' You don't know 'niechęć'. What root can you identify?",
+      "context_fa": "راهکار کلمه ناشناخته: 'Wyraził swoją niechęć do współpracy.' 'niechęć' را نمی‌دانید. چه ریشه‌ای می‌توانید شناسایی کنید؟",
+      "sentence": "'Niechęć' = nie + chęć; 'chcieć' means 'to want', so niechęć means '___'.",
+      "prompt": "'Niechęć' = nie + chęć; 'chcieć' means 'to want', so niechęć means '___'.",
+      "prompt_fa": "'Niechęć' = nie + chęć; 'chcieć' به معنای 'خواستن' است، پس niechęć به معنای '___' است.",
+      "answer": "unwillingness",
+      "acceptableAnswers": ["unwillingness", "reluctance", "disinclination"],
+      "hint": "nie = not/un-; chęć = desire/willingness; niechęć = un-desire = unwillingness",
+      "explanation": "'Niechęć' = nie (negation prefix) + chęć (desire/willingness) = unwillingness, reluctance. Root identification strategy works!",
+      "explanation_fa": "'Niechęć' = nie (پیشوند نفی) + chęć (خواستن/تمایل) = بی‌میلی، بی‌رغبتی. راهکار شناسایی ریشه کار می‌کند!"
+    },
+    {
+      "id": "b1-ch20-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch20/b1-ch20-l03-ex03.mp3",
+      "prompt": "Dictation practice: Which sentence did you hear? (Focus on aspect)",
+      "prompt_fa": "تمرین دیکته: کدام جمله را شنیدید؟ (روی جنبه تمرکز کنید)",
+      "options": [
+        "Deszcz padał przez całą noc.",
+        "Deszcz padł przez całą noc.",
+        "Deszcz pada przez całą noc.",
+        "Deszcz padnie przez całą noc."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Padał' (imperf) = was falling (ongoing throughout the night). 'Padł' (perf) would mean 'it fell once' — impossible for rain through the night. Aspect determines which is correct.",
+      "explanation_fa": "'Padał' (ناکامل) = می‌بارید (ادامه‌دار در طول شب). 'Padł' (کامل) یعنی 'یک‌بار بارید' — برای باران در طول شب غیرممکن است. جنبه تعیین می‌کند کدام درست است."
+    },
+    {
+      "id": "b1-ch20-l03-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build a connector sentence: 'Although it was raining, she went for a walk.'",
+      "prompt_fa": "یک جمله کانکتوری بسازید: 'اگرچه باران می‌بارید، رفت قدم بزند.'",
+      "wordBank": ["Mimo", "że", "padał", "deszcz", "poszła", "na", "spacer", "chociaż"],
+      "correctSequences": [
+        ["Mimo", "że", "padał", "deszcz", "poszła", "na", "spacer"],
+        ["chociaż", "padał", "deszcz", "poszła", "na", "spacer"]
+      ],
+      "explanation": "'Mimo że padał deszcz, poszła na spacer.' — Although it was raining, she went for a walk. 'Mimo że' = although (despite the fact that). 'Padał' (imperf) = ongoing rain; 'poszła' (perf) = she went.",
+      "explanation_fa": "'Mimo że padał deszcz, poszła na spacer.' — اگرچه باران می‌بارید، رفت قدم بزند. 'Mimo że' = اگرچه (علی‌رغم اینکه). 'Padał' (ناکامل) = باران ادامه‌دار؛ 'poszła' (کامل) = رفت."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 12,
+  "tags": ["b1-review", "exam-strategies", "reading", "exam-prep"],
+  "prerequisites": ["b1-ch20-l01", "b1-ch20-l02"]
+}

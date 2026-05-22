@@ -1,0 +1,86 @@
+{
+  "id": "b1-ch12-l03-wzdluz-prep",
+  "chapter": 12,
+  "lessonOrder": 3,
+  "level": "b1",
+  "title": "Spatial Prepositions with Genitive: wzdłuż, wokół, naprzeciw",
+  "title_fa": "حروف اضافه مکانی با مضاف‌الیه: wzdłuż، wokół، naprzeciw",
+  "grammarPoint": "wzdłuż + genitive (along), wokół + genitive (around), naprzeciw + genitive (opposite), pośród + genitive (among)",
+  "grammarPoint_fa": "wzdłuż + مضاف‌الیه (در امتداد)، wokół + مضاف‌الیه (دور، اطراف)، naprzeciw + مضاف‌الیه (روبروی)، pośród + مضاف‌الیه (در میان)",
+  "explanation": {
+    "text": "Several spatial prepositions at B1 level all take the **genitive**:\n\n**wzdłuż + GENITIVE — 'along':**\n- Szliśmy **wzdłuż rzeki**. (We walked along the river.)\n- Drzewa rosną **wzdłuż drogi**. (Trees grow along the road.)\n- **Wzdłuż wybrzeża** ciągną się plaże. (Beaches stretch along the coast.)\n\n**wokół + GENITIVE — 'around, surrounding':**\n- Usiedli **wokół stołu**. (They sat around the table.)\n- **Wokół miasta** są lasy. (There are forests around the city.)\n- Zebrali się **wokół ogniska**. (They gathered around the campfire.)\n\n**naprzeciw / naprzeciwko + GENITIVE — 'opposite, across from':**\n- Mieszkam **naprzeciwko parku**. (I live opposite the park.)\n- Bank jest **naprzeciw poczty**. (The bank is opposite the post office.)\n- Siedziała **naprzeciw mnie**. (She was sitting opposite me.)\n\n**pośród + GENITIVE — 'among, in the middle of':**\n- **Pośród drzew** stał stary dom. (Among the trees stood an old house.)\n- Poczuła się **pośród przyjaciół**. (She felt among friends.)\n\n**wśród + GENITIVE — 'among (people/things)':**\n- **Wśród studentów** było dużo obcokrajowców. (Among the students were many foreigners.)\n- Jest popularny **wśród młodzieży**. (He is popular among young people.)",
+    "notes": [
+      "All these prepositions take GENITIVE",
+      "wzdłuż = motion or position along a line",
+      "wokół = surrounding on all sides (circular)",
+      "naprzeciw/naprzeciwko = face to face, on the opposite side",
+      "wśród (among people) vs. pośród (among things/in the midst of)"
+    ]
+  },
+  "explanation_fa": "چند حرف اضافه مکانی در سطح B1 که همه مضاف‌الیه می‌گیرند: wzdłuż (در امتداد): wzdłuż rzeki (در امتداد رودخانه)؛ wokół (دور): wokół stołu (دور میز)؛ naprzeciw/ko (روبروی): naprzeciwko parku (روبروی پارک)؛ wśród (در میان مردم): wśród studentów (در میان دانشجویان)؛ pośród (در میان چیزها): pośród drzew (در میان درختان).",
+  "exercises": [
+    {
+      "id": "b1-ch12-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "How do you say 'We cycled along the river'?",
+      "prompt_fa": "چطور می‌گویید 'در امتداد رودخانه دوچرخه‌سواری کردیم'؟",
+      "options": [
+        "Jechaliśmy na rowerze wzdłuż rzeki.",
+        "Jechaliśmy na rowerze wokół rzeki.",
+        "Jechaliśmy na rowerze wśród rzeki.",
+        "Jechaliśmy na rowerze naprzeciw rzeki."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wzdłuż rzeki' = along the river (movement along a linear feature). 'Rzeka' → genitive: 'rzeki'.",
+      "explanation_fa": "'Wzdłuż rzeki' = در امتداد رودخانه (حرکت در امتداد یک عارضه خطی). 'Rzeka' → مضاف‌الیه: 'rzeki'."
+    },
+    {
+      "id": "b1-ch12-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "The hotel is opposite the train station. Complete:",
+      "context_fa": "هتل روبروی ایستگاه قطار است. کامل کنید:",
+      "sentence": "Hotel jest ___ dworca kolejowego.",
+      "prompt": "Hotel jest ___ dworca kolejowego.",
+      "prompt_fa": "Hotel jest ___ dworca kolejowego.",
+      "answer": "naprzeciwko",
+      "acceptableAnswers": ["naprzeciwko", "naprzeciw"],
+      "hint": "opposite = naprzeciw / naprzeciwko + genitive",
+      "explanation": "'Naprzeciwko dworca kolejowego' = opposite the railway station. 'Dworzec' → genitive: 'dworca'.",
+      "explanation_fa": "'Naprzeciwko dworca kolejowego' = روبروی ایستگاه راه‌آهن. 'Dworzec' → مضاف‌الیه: 'dworca'."
+    },
+    {
+      "id": "b1-ch12-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch12/b1-ch12-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Wśród uczestników było wiele znanych osób.",
+        "Pośród uczestników było wiele znanych osób.",
+        "Wokół uczestników było wiele znanych osób.",
+        "Wzdłuż uczestników było wiele znanych osób."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wśród uczestników' = among the participants (people). 'Wśród' is used for people/groups. 'Uczestnik' → genitive plural: 'uczestników'.",
+      "explanation_fa": "'Wśród uczestników' = در میان شرکت‌کنندگان (مردم). 'Wśród' برای مردم/گروه‌ها استفاده می‌شود. 'Uczestnik' → مضاف‌الیه جمع: 'uczestników'."
+    },
+    {
+      "id": "b1-ch12-l03-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: Children gathered around the campfire.",
+      "prompt_fa": "بسازید: بچه‌ها دور آتش جمع شدند.",
+      "wordBank": ["Dzieci", "zebrały", "się", "wokół", "wzdłuż", "ogniska", "ogień"],
+      "correctSequences": [["Dzieci", "zebrały", "się", "wokół", "ogniska"]],
+      "explanation": "'Dzieci zebrały się wokół ogniska.' — Children gathered around the campfire. 'Wokół' + genitive 'ogniska'.",
+      "explanation_fa": "'Dzieci zebrały się wokół ogniska.' — بچه‌ها دور آتش جمع شدند. 'Wokół' + مضاف‌الیه 'ogniska'."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["prepositions", "spatial", "genitive", "b1-core"],
+  "prerequisites": ["b1-ch12-l01", "b1-ch12-l02"]
+}

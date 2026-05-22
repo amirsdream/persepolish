@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch17-l01-formal-letter-structure",
+  "chapter": 17,
+  "lessonOrder": 1,
+  "level": "b1",
+  "title": "Polish Formal Letter Structure",
+  "title_fa": "ساختار نامه رسمی لهستانی",
+  "grammarPoint": "Layout of a formal Polish letter: sender, date, recipient, subject, salutation, body, closing, signature",
+  "grammarPoint_fa": "چیدمان نامه رسمی لهستانی: فرستنده، تاریخ، گیرنده، موضوع، سلام، متن، خداحافظی، امضا",
+  "explanation": {
+    "text": "**A formal Polish letter follows a strict layout:**\n\n```\n[Sender's name & address]          [City, date]\n\n[Recipient's name/title]\n[Recipient's address]\n\nSzanowny Panie / Szanowna Pani [Name],\n\n[Body paragraphs]\n\nZ poważaniem,\n[Signature]\n```\n\n**Date formats:**\n- Warszawa, 22 maja 2026 roku (genitive month!)\n- Kraków, dnia 10 marca 2026 r.\n\n**Months in genitive (for dates):**\n| Month | Genitive |\n|-------|----------|\n| styczeń | stycznia |\n| luty | lutego |\n| marzec | marca |\n| kwiecień | kwietnia |\n| maj | maja |\n| czerwiec | czerwca |\n| lipiec | lipca |\n| sierpień | sierpnia |\n| wrzesień | września |\n| październik | października |\n| listopad | listopada |\n| grudzień | grudnia |\n\n**Salutations:**\n- Szanowny Panie + [title/name in vocative] — Dear Sir\n- Szanowna Pani + [title/name in vocative] — Dear Madam\n- Szanowni Państwo — Dear Ladies and Gentlemen\n- Szanowny Panie Doktorze — Dear Dr. [vocative!]\n\n**Closing formulas:**\n- Z poważaniem — Yours sincerely / Respectfully\n- Z wyrazami szacunku — With expressions of respect\n- Łączę pozdrowienia — With warm regards (slightly less formal)",
+    "notes": [
+      "Months in dates always take genitive case: 22 maja, 10 marca",
+      "Szanowny/Szanowna takes the VOCATIVE case of the name that follows",
+      "Pan/Pani in formal letters always capitalized: Pan Dyrektor, Pani Profesor",
+      "'Z poważaniem' = most common closing for formal correspondence"
+    ]
+  },
+  "explanation_fa": "نامه رسمی لهستانی چیدمان دقیقی دارد: فرستنده و آدرس در بالا سمت چپ، تاریخ در بالا سمت راست، گیرنده زیر آن. ماه‌ها در تاریخ مضاف‌الیه می‌گیرند: 22 maja، 10 marca. احوال‌پرسی: Szanowny Panie / Szanowna Pani + اسم. Szanowni Państwo برای گروه. خداحافظی: Z poważaniem (مؤدبانه)، Z wyrazami szacunku (با احترام). Pan/Pani در نامه‌های رسمی همیشه با حرف بزرگ نوشته می‌شوند.",
+  "exercises": [
+    {
+      "id": "b1-ch17-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "How do you write the date '15th April 2026' in a formal Polish letter?",
+      "prompt_fa": "تاریخ '۱۵ آوریل ۲۰۲۶' را چگونه در نامه رسمی لهستانی می‌نویسید؟",
+      "options": [
+        "15 kwietnia 2026 roku (genitive month)",
+        "15 kwiecień 2026 (nominative month)",
+        "15/04/2026 (numeral format)",
+        "piętnastego czwartego 2026 (ordinal numbers)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dates in Polish letters use genitive month: 'kwiecień' → 'kwietnia'. Full format: '15 kwietnia 2026 roku'.",
+      "explanation_fa": "تاریخ‌ها در نامه‌های لهستانی از ماه مضاف‌الیه استفاده می‌کنند: 'kwiecień' → 'kwietnia'. فرمت کامل: '15 kwietnia 2026 roku'."
+    },
+    {
+      "id": "b1-ch17-l01-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Write the correct salutation for a letter to a female professor:",
+      "context_fa": "احوال‌پرسی درست را برای نامه به یک استاد زن بنویسید:",
+      "sentence": "___ Pani Profesor,",
+      "prompt": "___ Pani Profesor,",
+      "prompt_fa": "___ Pani Profesor,",
+      "answer": "Szanowna",
+      "acceptableAnswers": ["Szanowna"],
+      "hint": "Szanowna = female form of Szanowny (dear/respected)",
+      "explanation": "'Szanowna Pani Profesor,' — Dear (female) Professor. Szanowna = feminine form of the formal greeting adjective.",
+      "explanation_fa": "'Szanowna Pani Profesor,' — استاد محترمه. Szanowna = شکل مؤنث صفت احوال‌پرسی رسمی."
+    },
+    {
+      "id": "b1-ch17-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch17/b1-ch17-l01-ex03.mp3",
+      "prompt": "Which formal closing did you hear?",
+      "prompt_fa": "کدام خداحافظی رسمی را شنیدید؟",
+      "options": [
+        "Z poważaniem",
+        "Z powodzeniem",
+        "Z pozdrowniami",
+        "Z pozdrowieniami"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Z poważaniem' = Yours sincerely / Respectfully — the standard formal letter closing in Polish.",
+      "explanation_fa": "'Z poważaniem' = با احترام — خداحافظی استاندارد نامه رسمی در لهستانی."
+    },
+    {
+      "id": "b1-ch17-l01-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build the opening salutation for a group: 'Dear Ladies and Gentlemen,'",
+      "prompt_fa": "جمله احوال‌پرسی برای گروه را بسازید: 'خانم‌ها و آقایان محترم،'",
+      "wordBank": ["Szanowni", "Państwo", "Szanowny", "Panie", "Szanowna"],
+      "correctSequences": [["Szanowni", "Państwo"]],
+      "explanation": "'Szanowni Państwo,' — Dear Ladies and Gentlemen. 'Państwo' = formal plural (ladies and gentlemen), so 'szanowni' takes the virile plural form.",
+      "explanation_fa": "'Szanowni Państwo,' — خانم‌ها و آقایان محترم. 'Państwo' = جمع رسمی (خانم‌ها و آقایان)، بنابراین 'szanowni' شکل جمع مذکر را می‌گیرد."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["formal-writing", "letters", "dates", "b1-core"],
+  "prerequisites": ["b1-ch01-l01", "b1-ch02-l01"]
+}

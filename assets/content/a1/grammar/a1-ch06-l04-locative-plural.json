@@ -8,21 +8,22 @@
   "grammarPoint": "Locative plural endings: -ach (nouns), -ych/-ich (adjectives); w domach, w małych pokojach",
   "grammarPoint_fa": "پسوندهای جمع مکانی: -ach (اسم‌ها)، -ych/-ich (صفات)",
   "explanation": {
-    "text": "The **locative plural** is actually one of the most regular forms in Polish — nouns take **-ach** and adjectives take **-ych / -ich**.\n\n**Locative plural noun ending: -ach**\n\n| Nominative singular | Nominative plural | Locative plural |\n|--------------------|------------------|-----------------|\n| dom (house) | domy | **domach** |\n| szkoła (school) | szkoły | **szkołach** |\n| miasto (city) | miasta | **miastach** |\n| pokój (room) | pokoje | **pokojach** |\n| ulica (street) | ulice | **ulicach** |\n\n**Locative plural adjective ending: -ych / -ich**\n\n| Adjective | Locative plural | Example |\n|----------|-----------------|--------|\n| duży | **dużych** | w dużych domach |\n| mały | **małych** | w małych miastach |\n| nowy | **nowych** | w nowych sklepach |\n| stary | **starych** | w starych ulicach |\n\n**Examples:**\n- Mieszkam w dużych miastach. = I live in big cities.\n- Pracuję w różnych sklepach. = I work in various shops.\n- Dzieci bawią się w małych pokojach. = Children play in small rooms.",
+    "text": "## Locative Plural — Nouns and Adjectives\n\nThe **locative plural** is actually one of the most regular forms in Polish — nouns take **-ach** (all genders!) and adjectives take **-ych / -ich**.\n\n### Locative plural noun ending: -ach (universal rule)\n\n| Nominative singular | Nominative plural | Locative plural | English |\n|--------------------|------------------|-----------------|----------|\n| dom (m) | domy | **domach** | houses |\n| sklep (m) | sklepy | **sklepach** | shops |\n| szkoła (f) | szkoły | **szkołach** | schools |\n| ulica (f) | ulice | **ulicach** | streets |\n| miasto (n) | miasta | **miastach** | cities |\n| pokój (m) | pokoje | **pokojach** | rooms |\n| mieszkanie (n) | mieszkania | **mieszkaniach** | flats |\n\n> 🔑 **The golden rule:** ALL nouns in locative plural take **-ach**, regardless of gender. This is uniquely easy!\n\n### Locative plural adjective endings: -ych / -ich\n\n| Adjective | Locative plural | Example phrase |\n|----------|-----------------|----------------|\n| duży | **dużych** | w dużych domach |\n| mały | **małych** | w małych miastach |\n| nowy | **nowych** | w nowych sklepach |\n| stary | **starych** | w starych ulicach |\n| dobry | **dobrych** | w dobrych szkołach |\n| tani | **tanich** | w tanich sklepach |\n\n> 🔑 Hard-stem adjectives → **-ych**. Soft-stem adjectives and those ending in k/g → **-ich**.\n\n### Examples in context\n\n| Polish | English |\n|--------|---------|\n| Mieszkam w **dużych miastach**. | I live in big cities. |\n| Pracuję w **różnych sklepach**. | I work in various shops. |\n| Dzieci uczą się w **małych szkołach**. | Children study in small schools. |\n| Mieszkamy w **nowych mieszkaniach**. | We live in new flats. |\n| Koty śpią w **ciepłych pokojach**. | Cats sleep in warm rooms. |\n\n### -ach is unique to locative plural\n\nThe **-ach** ending appears ONLY in the locative plural — in no other case. This makes it easy to recognise:\n- w domach → locative plural (guaranteed)\n- na ulicach → locative plural (guaranteed)\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *w duże domy* | *w dużych **domach*** | locative pl: -ach + -ych |\n| *w małej mieszkaniach* | *w małych **mieszkaniach*** | adjective must be plural (-ych) |\n| *w miaście* (plural meaning) | *w **miastach*** | plural location needs -ach |",
     "notes": [
-      "ALL nouns in locative plural take -ach: domach, szkołach, miastach, ulicach, pokojach.",
-      "Adjective locative plural: -ych (hard stems) or -ich (soft stems/after k,g): dużych, małych, nowych, dobrych.",
-      "The -ach ending is unique to locative — it does not appear in any other case plural.",
-      "This is one of the easiest plural forms to remember — just add -ach to the stem."
+      "ALL nouns in locative plural take -ach: domach, szkołach, miastach, ulicach, pokojach",
+      "Adjective locative plural: -ych (hard stems) or -ich (soft stems/after k,g): dużych, małych, tanich",
+      "The -ach ending is unique to locative plural — it does not appear in any other case plural",
+      "This is one of the easiest plural forms: just add -ach to the stem for nouns"
     ]
   },
-  "explanation_fa": "جمع مکانی اسم‌ها: پسوند -ach می‌گیرند (dom → w domach، szkoła → w szkołach). صفات جمع: -ych/-ich (w dużych domach — در خانه‌های بزرگ). این قاعده برای همه جنسیت‌ها یکسان است.",
+  "explanation_fa": "## حالت مکانی جمع — اسم‌ها و صفات\n\n**مکانی جمع** در واقع یکی از منظم‌ترین اشکال لهستانی است — اسم‌ها **-ach** می‌گیرند (برای همه جنسیت‌ها!) و صفات **-ych / -ich** می‌گیرند.\n\n### پسوند اسم مکانی جمع: -ach (قانون عمومی)\n\n| فاعلی مفرد | فاعلی جمع | مکانی جمع | فارسی |\n|-----------|----------|----------|-------|\n| dom (م) | domy | **domach** | خانه‌ها |\n| szkoła (مؤ) | szkoły | **szkołach** | مدرسه‌ها |\n| miasto (خ) | miasta | **miastach** | شهرها |\n| pokój (م) | pokoje | **pokojach** | اتاق‌ها |\n| mieszkanie (خ) | mieszkania | **mieszkaniach** | آپارتمان‌ها |\n\n> 🔑 **قانون طلایی:** همه اسم‌ها در مکانی جمع **-ach** می‌گیرند، صرف نظر از جنسیت. این فوق‌العاده آسان است!\n\n### پسوندهای صفت مکانی جمع: -ych / -ich\n\n| صفت | مکانی جمع | مثال |\n|-----|----------|------|\n| duży | **dużych** | w dużych domach |\n| mały | **małych** | w małych miastach |\n| nowy | **nowych** | w nowych sklepach |\n| stary | **starych** | w starych ulicach |\n| tani | **tanich** | w tanich sklepach |\n\n### مثال‌ها در زمینه\n\n| لهستانی | فارسی |\n|---------|-------|\n| Mieszkam w **dużych miastach**. | در شهرهای بزرگ زندگی می‌کنم. |\n| Pracuję w **różnych sklepach**. | در مغازه‌های مختلف کار می‌کنم. |\n| Dzieci uczą się w **małych szkołach**. | بچه‌ها در مدرسه‌های کوچک درس می‌خوانند. |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *w duże domy* | *w dużych **domach*** | مکانی جمع: -ach + -ych |\n| *w małej mieszkaniach* | *w małych **mieszkaniach*** | صفت باید جمع باشد (-ych) |",
   "exercises": [
     {
       "id": "a1-ch06-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Mieszkamy w ___ (in apartments / flats). [mieszkanie → locative plural]",
+      "prompt": "Tomek and Ania live in flats. Complete: Mieszkamy w ___ (in apartments). [mieszkanie → locative plural]",
+      "prompt_fa": "تامک و آنیا در آپارتمان زندگی می‌کنند. کامل کنید: Mieszkamy w ___ (در آپارتمان‌ها). [mieszkanie → مکانی جمع]",
       "options": [
         "mieszkaniach",
         "mieszkania",
@@ -30,67 +31,74 @@
         "mieszkań"
       ],
       "correctIndex": 0,
-      "explanation": "'Mieszkanie' (neuter) → locative plural: 'mieszkaniach' (-ach ending). 'Mieszkamy w mieszkaniach' = We live in flats."
+      "explanation": "'Mieszkanie' (neuter) → locative plural: 'mieszkaniach' (-ach ending). 'Mieszkamy w mieszkaniach' = We live in flats. All nouns take -ach in locative plural.",
+      "explanation_fa": "'Mieszkanie' (خنثی) → مکانی جمع: 'mieszkaniach' (پسوند -ach). 'Mieszkamy w mieszkaniach' = در آپارتمان‌ها زندگی می‌کنیم. همه اسم‌ها در مکانی جمع -ach می‌گیرند."
     },
     {
       "id": "a1-ch06-l04-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Dzieci uczą się w ___ szkołach. (Children study in big schools.) [duży → adj loc pl]",
       "answer": "dużych",
       "acceptableAnswers": [
         "dużych"
       ],
-      "hint": "Adjective locative plural: -ych (hard stems)"
+      "hint": "Adjective locative plural for hard stems: -ych",
+      "explanation": "Adjective locative plural (hard stem): 'duży' → 'dużych'. 'W dużych szkołach' = in big schools.",
+      "explanation_fa": "صفت مکانی جمع (ریشه سخت): 'duży' → 'dużych'. 'W dużych szkołach' = در مدارس بزرگ.",
+      "context": "Marek's children attend large schools. Complete:",
+      "context_fa": "فرزندان ماریک در مدارس بزرگ درس می‌خوانند. کامل کنید:",
+      "sentence": "Dzieci uczą się w ___ szkołach.",
+      "translation": "[duży → adj loc pl]",
+      "translation_fa": "[duży → صفت مکانی جمع]",
+      "prompt": "Dzieci uczą się w ___ szkołach.",
+      "prompt_fa": "Dzieci uczą się w ___ szkołach."
     },
     {
       "id": "a1-ch06-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch06/a1-ch06-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Pracuję w różnych miastach.",
         "Pracuję w różne miasta.",
-        "Pracuję w różnych miastach.",
-        "Pracuję w różnych miasto."
+        "Pracuję w różnych miasto.",
+        "Pracuję w różny miastach."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Pracuję w różnych miastach.' — I work in various cities. 'Miasto' pl → 'miastach'; 'różny' pl → 'różnych'."
+      "explanation": "You heard: 'Pracuję w różnych miastach.' — I work in various cities. 'Miasto' pl → 'miastach' (-ach); 'różny' pl → 'różnych' (-ych).",
+      "explanation_fa": "شنیدید: 'Pracuję w różnych miastach.' — در شهرهای مختلف کار می‌کنم. 'Miasto' جمع → 'miastach' (-ach)؛ 'różny' جمع → 'różnych' (-ych)."
     },
     {
       "id": "a1-ch06-l04-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: Books are in small rooms.",
+      "prompt": "Tap the words in order: Books are in small rooms.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: کتاب‌ها در اتاق‌های کوچک هستند.",
       "wordBank": [
         "Książki",
-        "Książka",
         "są",
-        "jest",
         "w",
-        "małych",
-        "małej",
-        "mały",
-        "pokojach",
-        "pokój",
-        "pokoje"
+        "małych pokojach"
       ],
       "correctSequences": [
         [
           "Książki",
           "są",
           "w",
-          "małych",
-          "pokojach"
+          "małych pokojach"
         ]
       ],
-      "explanation": "'Książki są w małych pokojach' = Books are in small rooms. 'Pokój' → loc pl 'pokojach'; 'mały' → adj loc pl 'małych'."
+      "explanation": "'Książki są w małych pokojach' = Books are in small rooms. 'Pokój' → loc pl 'pokojach'; 'mały' → adj loc pl 'małych'.",
+      "explanation_fa": "'Książki są w małych pokojach' = کتاب‌ها در اتاق‌های کوچک هستند. 'Pokój' → مکانی جمع 'pokojach'؛ 'mały' → صفت مکانی جمع 'małych'."
     },
     {
       "id": "a1-ch06-l04-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "What is the locative plural of 'ulica' (street)?",
+      "prompt": "Kasia walks in the streets every morning. What is the locative plural of 'ulica' (street)?",
+      "prompt_fa": "کاسیا هر صبح در خیابان‌ها قدم می‌زند. مکانی جمع 'ulica' (خیابان) چیست؟",
       "options": [
         "ulicach",
         "ulicy",
@@ -98,7 +106,97 @@
         "ulic"
       ],
       "correctIndex": 0,
-      "explanation": "'Ulica' → locative plural: 'ulicach'. All nouns take -ach in locative plural. 'W ulicach' = in the streets."
+      "explanation": "'Ulica' → locative plural: 'ulicach'. All nouns take -ach in locative plural regardless of gender. 'Na ulicach' = on/in the streets.",
+      "explanation_fa": "'Ulica' → مکانی جمع: 'ulicach'. همه اسم‌ها صرف نظر از جنسیت در مکانی جمع -ach می‌گیرند. 'Na ulicach' = در خیابان‌ها."
+    },
+    {
+      "id": "a1-ch06-l04-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia talks about cities she has visited. What is the locative plural of 'miasto' (city)?",
+      "prompt_fa": "کاسیا درباره شهرهایی که بازدید کرده صحبت می‌کند. مکانی جمع 'miasto' (شهر) چیست؟",
+      "options": [
+        "miastach",
+        "miastę",
+        "miastom",
+        "miasty"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Miasto' → locative plural 'miastach'. The -ach ending is universal for locative plural. 'W miastach' = in (the) cities.",
+      "explanation_fa": "'Miasto' → مکانی جمع 'miastach'. پسوند -ach برای مکانی جمع جهانی است. 'W miastach' = در شهرها."
+    },
+    {
+      "id": "a1-ch06-l04-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "górach",
+      "acceptableAnswers": [
+        "górach"
+      ],
+      "hint": "Góry (mountains) → locative plural",
+      "explanation": "'Góry' (mountains, pl.) → locative plural 'górach'. 'W górach' = in the mountains. This is a common fixed expression.",
+      "explanation_fa": "'Góry' (کوه‌ها، جمع) → مکانی جمع 'górach'. 'W górach' = در کوه‌ها. این یک عبارت ثابت رایج است.",
+      "context": "Tomek loves hiking. 'In the mountains' in Polish:",
+      "context_fa": "تامک عاشق کوهنوردی است. «در کوه‌ها» به لهستانی:",
+      "sentence": "w ___.",
+      "translation": "",
+      "translation_fa": "",
+      "prompt": "w ___.",
+      "prompt_fa": "w ___."
+    },
+    {
+      "id": "a1-ch06-l04-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Ania tells Marek: locative plural always ends in...",
+      "prompt_fa": "آنیا به مارک می‌گوید: مکانی جمع همیشه به... ختم می‌شود.",
+      "options": [
+        "-ach",
+        "-om",
+        "-ami",
+        "-ów"
+      ],
+      "correctIndex": 0,
+      "explanation": "Locative plural = always -ach (all genders, no exceptions). 'W domach' (houses), 'w szkołach' (schools), 'w oknach' (windows) — all take -ach.",
+      "explanation_fa": "مکانی جمع = همیشه -ach (همه جنسیت‌ها، بدون استثناء). 'W domach' (خانه‌ها)، 'w szkołach' (مدرسه‌ها)، 'w oknach' (پنجره‌ها) — همه -ach می‌گیرند."
+    },
+    {
+      "id": "a1-ch06-l04-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Marek says they live in big cities. Arrange the words.",
+      "prompt_fa": "مارک می‌گوید آن‌ها در شهرهای بزرگ زندگی می‌کنند. کلمات را به ترتیب بزنید.",
+      "wordBank": [
+        "Mieszkamy",
+        "w dużych miastach",
+        "duże miasta",
+        "miastach"
+      ],
+      "correctSequences": [
+        [
+          "Mieszkamy",
+          "w dużych miastach"
+        ]
+      ],
+      "explanation": "'Mieszkamy w dużych miastach' = We live in big cities. Locative plural: miasto → miastach; duży → dużych (adj. loc. pl. -ych).",
+      "explanation_fa": "'Mieszkamy w dużych miastach' = در شهرهای بزرگ زندگی می‌کنیم. مکانی جمع: miasto → miastach؛ duży → dużych (صفت مکانی جمع -ych)."
+    },
+    {
+      "id": "a1-ch06-l04-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch06/a1-ch06-l04-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Kasia uwielbia spacerować po starych ulicach Krakowa.",
+        "Kasia uwielbia spacerować po stare ulice Krakowa.",
+        "Kasia uwielbia spacerować w starych ulicach Krakowa.",
+        "Kasia uwielbia spacerować przy starych ulicach Krakowa."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Kasia uwielbia spacerować po starych ulicach Krakowa.' — Kasia loves walking along the old streets of Kraków. 'Po + locative plural': ulicach. 'Starych' = old (adj. loc. pl.).",
+      "explanation_fa": "شنیدید: 'Kasia uwielbia spacerować po starych ulicach Krakowa.' — کاسیا عاشق قدم زدن در خیابان‌های قدیمی کراکوف است. 'Po + مکانی جمع': ulicach. 'Starych' = قدیمی (صفت مکانی جمع)."
     }
   ],
   "xpReward": 20,

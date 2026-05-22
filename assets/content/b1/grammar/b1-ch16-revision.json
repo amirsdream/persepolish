@@ -1,0 +1,178 @@
+{
+  "id": "b1-ch16-revision",
+  "chapter": 16,
+  "level": "b1",
+  "title": "Chapter 16 Revision: Aspect in Narrative",
+  "title_fa": "مرور فصل ۱۶ B1: جنبه در روایت",
+  "description": "Test your understanding of imperfective (background/ongoing) vs. perfective (events/plot) in Polish storytelling and news texts.",
+  "passThreshold": 0.7,
+  "questions": [
+    {
+      "id": "b1-ch16-rev-q01",
+      "type": "multiple_choice",
+      "prompt": "In a story, which aspect sets the atmospheric background (scene-setting)?",
+      "prompt_fa": "در داستان، کدام جنبه پس‌زمینه جوی را برپا می‌کند (فضاسازی)؟",
+      "options": ["Imperfective past", "Perfective past", "Present tense", "Future tense"],
+      "correctIndex": 0,
+      "explanation": "Imperfective past = background, description, ongoing states. Perfective past = events that advance the plot.",
+      "explanation_fa": "ناکامل گذشته = پس‌زمینه، توصیف، حالت‌های ادامه‌دار. کامل گذشته = رویدادهایی که طرح را پیش می‌برند."
+    },
+    {
+      "id": "b1-ch16-rev-q02",
+      "type": "multiple_choice",
+      "prompt": "What does 'nagle' (suddenly) almost always signal in a narrative?",
+      "prompt_fa": "'nagle' (ناگهان) در روایت تقریباً همیشه چه چیزی را نشان می‌دهد؟",
+      "options": [
+        "A perfective verb (plot-turning event)",
+        "An imperfective verb (background)",
+        "A state verb (ongoing)",
+        "A future tense verb"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nagle' + perfective = classic narrative event pattern. 'Nagle zadzwonił telefon.' 'Nagle rozległ się strzał.' Sudden events = perfective.",
+      "explanation_fa": "'nagle' + کامل = الگوی کلاسیک رویداد روایی. رویدادهای ناگهانی = کامل."
+    },
+    {
+      "id": "b1-ch16-rev-q03",
+      "type": "fill_blank",
+      "prompt": "Background: Snow was falling. Use imperfective past of 'padać' (3rd sg neuter: śnieg m → padać):",
+      "prompt_fa": "پس‌زمینه: برف می‌بارید. از گذشته ناکامل 'padać' استفاده کنید:",
+      "answer": "padał",
+      "acceptableAnswers": ["padał"],
+      "hint": "śnieg padał (imperf) = snow was falling (ongoing background)",
+      "explanation": "'Śnieg padał.' — Snow was falling. Imperfective = ongoing background action.",
+      "explanation_fa": "'Śnieg padał.' — برف می‌بارید. ناکامل = عمل پس‌زمینه ادامه‌دار."
+    },
+    {
+      "id": "b1-ch16-rev-q04",
+      "type": "multiple_choice",
+      "prompt": "Which shows a SEQUENCE of completed events (three steps one after another)?",
+      "prompt_fa": "کدام توالی رویدادهای کامل‌شده را نشان می‌دهد (سه مرحله پشت سر هم)؟",
+      "options": [
+        "Wstał, ubrał się i wyszedł.",
+        "Wstawał, ubierał się i wychodził.",
+        "Wstaje, ubiera się i wychodzi.",
+        "Będzie wstawał, ubierał się i wychodził."
+      ],
+      "correctIndex": 0,
+      "explanation": "Three perfective verbs in sequence = three completed steps. 'Wstawał, ubierał się' = imperfective = habitual/ongoing, not a chain of events.",
+      "explanation_fa": "سه فعل کامل متوالی = سه مرحله کامل‌شده. 'Wstawał, ubierał się' = ناکامل = عادتی/ادامه‌دار، نه زنجیره رویدادها."
+    },
+    {
+      "id": "b1-ch16-rev-q05",
+      "type": "multiple_choice",
+      "prompt": "What does 'Słuchał muzyki i gotował obiad' tell us about the two actions?",
+      "prompt_fa": "'Słuchał muzyki i gotował obiad' چه چیزی درباره دو عمل به ما می‌گوید؟",
+      "options": [
+        "They were happening at the same time (simultaneous)",
+        "One happened after the other (sequential)",
+        "One was completed before the other started",
+        "One interrupted the other"
+      ],
+      "correctIndex": 0,
+      "explanation": "Two imperfective verbs together = simultaneous, overlapping actions. He was listening AND cooking at the same time.",
+      "explanation_fa": "دو فعل ناکامل با هم = اقدامات همزمان و همپوشان. داشت گوش می‌داد و در همان حال آشپزی می‌کرد."
+    },
+    {
+      "id": "b1-ch16-rev-q06",
+      "type": "multiple_choice",
+      "prompt": "Complete: 'Kiedy ___ na autobus, zaczął padać deszcz.' (czekać, imperfective, he)",
+      "prompt_fa": "کامل کنید: 'Kiedy ___ na autobus, zaczął padać deszcz.' (czekać، ناکامل، مذکر)",
+      "options": [
+        "czekał (imperfective — while waiting, background)",
+        "zaczekał (perfective — after waiting)",
+        "czeka (present)",
+        "poczekał (perfective — waited and then)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Kiedy czekał' (imperf background) + 'zaczął padać' (perf event) = while he was waiting, it started to rain.",
+      "explanation_fa": "'Kiedy czekał' (ناکامل پس‌زمینه) + 'zaczął padać' (کامل رویداد) = در حالی که داشت صبر می‌کرد، باران شروع شد."
+    },
+    {
+      "id": "b1-ch16-rev-q07",
+      "type": "fill_blank",
+      "prompt": "After eating dinner [completed action], she went for a walk. Use 'po + zjedzeniu kolacji ___' (pójść, perf, she):",
+      "prompt_fa": "بعد از خوردن شام [عمل کامل]، رفت قدم بزند. از 'po + zjedzeniu kolacji ___' استفاده کنید:",
+      "answer": "poszła",
+      "acceptableAnswers": ["poszła"],
+      "hint": "pójść (perf) = to go; past feminine: poszła",
+      "explanation": "'Po zjedzeniu kolacji poszła na spacer.' 'Po' + verbal noun = after completing an action; then the next perfective event.",
+      "explanation_fa": "'Po zjedzeniu kolacji poszła na spacer.' 'po' + اسم فعلی = بعد از تکمیل یک عمل؛ سپس رویداد کامل بعدی."
+    },
+    {
+      "id": "b1-ch16-rev-q08",
+      "type": "multiple_choice",
+      "prompt": "In a news report: 'W nocy wybuchł pożar.' What aspect is 'wybuchł' and why?",
+      "prompt_fa": "در گزارش خبری: 'W nocy wybuchł pożar.' 'wybuchł' چه جنبه‌ای دارد و چرا؟",
+      "options": [
+        "Perfective — a single newsworthy event",
+        "Imperfective — ongoing background",
+        "Perfective — habitual past",
+        "Imperfective — attempted action"
+      ],
+      "correctIndex": 0,
+      "explanation": "News events are perfective: a fire breaking out is a single, completed event. Imperfective would be used for the ongoing burning ('płonął').",
+      "explanation_fa": "رویدادهای خبری کامل هستند: آتش‌سوزی یک رویداد منفرد کامل‌شده است. ناکامل برای سوختن ادامه‌دار استفاده می‌شود ('płonął')."
+    },
+    {
+      "id": "b1-ch16-rev-q09",
+      "type": "multiple_choice",
+      "prompt": "What does 'Otwierał drzwi, ale były zamknięte' imply about the opening?",
+      "prompt_fa": "'Otwierał drzwi, ale były zamknięte' درباره باز کردن چه چیزی را می‌رساند؟",
+      "options": [
+        "He tried to open it but didn't succeed (imperfective = attempted)",
+        "He opened it successfully (perfective = completed)",
+        "He opened it and then closed it",
+        "He will open it later"
+      ],
+      "correctIndex": 0,
+      "explanation": "Imperfective 'otwierał' = attempted action that may not have succeeded. Compare: 'otworzył' = definitely opened (completed).",
+      "explanation_fa": "ناکامل 'otwierał' = عمل تلاش‌شده‌ای که ممکن است موفق نشده باشد. مقایسه: 'otworzył' = قطعاً باز کرد (کامل‌شده)."
+    },
+    {
+      "id": "b1-ch16-rev-q10",
+      "type": "multiple_choice",
+      "prompt": "Opening a story: 'Była ciemna noc. Wiatr szumiał. Deszcz padał.' Why are all three verbs imperfective?",
+      "prompt_fa": "شروع داستان: 'Była ciemna noc. Wiatr szumiał. Deszcz padał.' چرا هر سه فعل ناکامل هستند؟",
+      "options": [
+        "Scene-setting uses imperfective to create atmosphere before events happen",
+        "All past tense verbs in Polish openings must be imperfective",
+        "Night, wind, and rain are always described with imperfective",
+        "The verbs are all state verbs which must be imperfective"
+      ],
+      "correctIndex": 0,
+      "explanation": "Opening paragraphs establish the atmospheric scene before any plot events. All description = imperfective. The first perfective will mark the first story event.",
+      "explanation_fa": "پاراگراف‌های ابتدایی صحنه جوی را قبل از هر رویداد طرح برپا می‌کنند. همه توصیف‌ها = ناکامل. اولین کامل اولین رویداد داستان را نشان می‌دهد."
+    },
+    {
+      "id": "b1-ch16-rev-q11",
+      "type": "fill_blank",
+      "prompt": "Event: Suddenly the door opened. Use perfective past of 'otworzyć się' (drzwi n.pl → 3rd pl):",
+      "prompt_fa": "رویداد: ناگهان در باز شد. از گذشته کامل 'otworzyć się' استفاده کنید (drzwi n.pl):",
+      "answer": "otworzyły się",
+      "acceptableAnswers": ["otworzyły się"],
+      "hint": "otworzyć się (perf) → past neuter plural: otworzyły się",
+      "explanation": "'Nagle otworzyły się drzwi.' — Suddenly the door opened. Perfective = single completed event, the plot turn.",
+      "explanation_fa": "'Nagle otworzyły się drzwi.' — ناگهان در باز شد. کامل = رویداد منفرد کامل‌شده، نقطه چرخش طرح."
+    },
+    {
+      "id": "b1-ch16-rev-q12",
+      "type": "multiple_choice",
+      "prompt": "A paragraph has 8 imperfective verbs, then suddenly 4 perfective verbs. What is the narrative effect?",
+      "prompt_fa": "یک پاراگراف 8 فعل ناکامل دارد، سپس ناگهان 4 فعل کامل. اثر روایی چیست؟",
+      "options": [
+        "Slow atmospheric build-up, then fast action sequence",
+        "Fast action, then slow description",
+        "Eight events, then four background states",
+        "Present situation followed by past events"
+      ],
+      "correctIndex": 0,
+      "explanation": "High imperfective density = slow, atmospheric description. Shift to perfective = the story picks up pace, events happen rapidly. This is classic literary technique.",
+      "explanation_fa": "تراکم بالای ناکامل = توصیف کند و جوی. تغییر به کامل = داستان شتاب می‌گیرد، رویدادها سریع اتفاق می‌افتند. این تکنیک ادبی کلاسیک است."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 8,
+  "tags": ["aspect", "narrative", "storytelling", "b1-core"],
+  "prerequisites": ["b1-ch16-l01", "b1-ch16-l02", "b1-ch16-l03", "b1-ch16-l04"]
+}

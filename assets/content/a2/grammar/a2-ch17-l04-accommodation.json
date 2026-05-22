@@ -8,21 +8,23 @@
   "grammarPoint": "Accommodation phrases in grammatical context: zameldować się, wymeldować się, śniadanie w cenie, pokój z łazienką, na pierwszym piętrze",
   "grammarPoint_fa": "عبارات هتل و اقامتگاه: zameldować się، wymeldować się، numer pokoju",
   "explanation": {
-    "text": "Language for hotels and accommodation, with focus on grammatical structures.\n\n**Hotel check-in / check-out:**\n- **Zameldować się** = to check in\n  - Chciałbym się zameldować. = I'd like to check in.\n- **Wymeldować się** = to check out\n  - O której godzinie należy się wymeldować? = What time do we need to check out?\n\n**Describing room features:**\n- pokój **z** łazienką = room with bathroom (z + instr)\n- pokój **bez** balkonu = room without a balcony (bez + gen)\n- pokój **na** pierwszym piętrze = room on the first floor (na + loc)\n- widok **na** morze = sea view (na + accusative)\n\n**Hotel questions:**\n- Czy śniadanie **jest** w cenie? = Is breakfast included?\n- Czy **jest** wolny pokój? = Is there a free room?\n- Czy mogę **zobaczyć** pokój? = Can I see the room?\n- O której **jest** check-out? = What time is check-out?\n\n**Polish floor numbering:**\n- parter = ground floor\n- pierwsze piętro = 1st floor (= 2nd floor in US/UK)\n- drugie piętro = 2nd floor (= 3rd floor)\n\n**Requests at hotel:**\n- Czy mógłby Pan przynieść ręczniki? = Could you bring towels?\n- Proszę o dodatkową poduszkę. = I'd like an extra pillow.",
+    "text": "Language for hotels and accommodation, with focus on grammatical structures.\n\n**Hotel check-in / check-out:**\n- **Zameldować się** = to check in\n  - Chciałbym się zameldować. = I'd like to check in.\n- **Wymeldować się** = to check out\n  - O której godzinie należy się wymeldować? = What time do we need to check out?\n\n**Key hotel vocabulary:**\n- recepcja (f) = reception desk\n- klucz (m) = key\n- numer pokoju = room number\n- doba hotelowa = hotel day (usually until noon)\n- jednoosobowy / dwuosobowy = single / double (room)\n\n**Describing room features:**\n- pokój **z** łazienką = room with bathroom (z + instr)\n- pokój **bez** balkonu = room without a balcony (bez + gen)\n- pokój **na** pierwszym piętrze = room on the first floor (na + loc)\n- widok **na** morze = sea view (na + accusative)\n\n**Hotel questions:**\n- Czy śniadanie **jest** w cenie? = Is breakfast included?\n- Czy **jest** wolny pokój? = Is there a free room?\n- Czy mogę **zobaczyć** pokój? = Can I see the room?\n- O której **jest** check-out? = What time is check-out?\n- Gdzie jest recepcja? = Where is reception?\n- Czy mogę dostać klucz do pokoju? = May I have the room key?\n\n**Polish floor numbering:**\n- parter = ground floor\n- pierwsze piętro = 1st floor (= 2nd floor in US/UK)\n- drugie piętro = 2nd floor (= 3rd floor)\n\n**Requests at hotel:**\n- Czy mógłby Pan przynieść ręczniki? = Could you bring towels?\n- Proszę o dodatkową poduszkę. = I'd like an extra pillow.",
     "notes": [
       "Zameldować się (perf) = check in. Wymeldować się (perf) = check out.",
       "Pokój z łazienką / bez balkonu — z + instrumental, bez + genitive.",
       "Polish parter = ground floor; 1. piętro = UK 1st floor (US 2nd floor).",
-      "Czy śniadanie jest w cenie? = Is breakfast included? Very useful travel phrase."
+      "Czy śniadanie jest w cenie? = Is breakfast included? Very useful travel phrase.",
+      "Recepcja = reception; klucz = key; doba hotelowa = the hotel day period."
     ]
   },
-  "explanation_fa": "عبارات هتل: zameldować się (چک‌این کردن)، wymeldować się (چک‌اوت کردن)، Czy jest wolny pokój? (اتاق خالی هست؟)، pokój jednoosobowy/dwuosobowy (اتاق یک/دو نفره)، śniadanie w cenie (صبحانه در قیمت گنجانده شده)، klucz do pokoju (کلید اتاق).",
+  "explanation_fa": "عبارات هتل: zameldować się (چک‌این کردن)، wymeldować się (چک‌اوت کردن)، Czy jest wolny pokój? (اتاق خالی هست؟)، pokój jednoosobowy/dwuosobowy (اتاق یک/دو نفره)، śniadanie w cenie (صبحانه در قیمت گنجانده شده)، klucz do pokoju (کلید اتاق)، recepcja (پذیرش)، doba hotelowa (یک شبانه‌روز هتل).",
   "exercises": [
     {
       "id": "a2-ch17-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Chciałbym pokój ___ łazienką. (I'd like a room with a bathroom.) [z + instrumental]",
+      "prompt_fa": "می‌خواهم اتاقی با حمام. [z + ابزاری]",
       "options": [
         "z",
         "bez",
@@ -30,23 +32,34 @@
         "w"
       ],
       "correctIndex": 0,
-      "explanation": "'With + noun' = z + instrumental: z łazienką (łazienka → instrumental: łazienką). 'Bez łazienki' = without a bathroom (bez + genitive)."
+      "explanation": "'With + noun' = z + instrumental: z łazienką (łazienka → instrumental: łazienką). 'Bez łazienki' = without a bathroom (bez + genitive).",
+      "explanation_fa": "با + اسم = z + ابزاری: z łazienką (łazienka → ابزاری: łazienką). bez łazienki = بدون حمام (bez + مضاف‌الیهی)."
     },
     {
       "id": "a2-ch17-l04-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Pokój jest ___ trzecim piętrze. (The room is on the third floor.) [na + locative]",
+      "context": "Hotel floor location. Complete:",
+      "context_fa": "موقعیت طبقه هتل. کامل کنید:",
+      "sentence": "Pokój jest ___ trzecim piętrze.",
+      "translation": "(The room is on the third floor.) [na + locative]",
+      "translation_fa": "(اتاق در طبقه سوم است.) [na + مکانی]",
+      "prompt": "Pokój jest ___ trzecim piętrze.",
+      "prompt_fa": "Pokój jest ___ trzecim piętrze.",
       "answer": "na",
       "acceptableAnswers": [
         "na"
       ],
-      "hint": "Floor location: na + locative: na trzecim piętrze"
+      "hint": "Floor location: na + locative: na trzecim piętrze",
+      "explanation": "'Na + locative' = on (floor location). 'Na trzecim piętrze' = on the third floor. 'Piętro' → locative: piętrze. 'Trzecim' = third (loc. form of trzeci).",
+      "explanation_fa": "na + مکانی = در (موقعیت طبقه). na trzecim piętrze = در طبقه سوم. piętro → مکانی: piętrze. trzecim = سوم (شکل مکانی trzeci)."
     },
     {
       "id": "a2-ch17-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch17/a2-ch17-l04-ex03.mp3",
       "options": [
         "Czy śniadanie jest w cenie pokoju?",
@@ -55,13 +68,15 @@
         "Czy mogę dostać śniadanie do pokoju?"
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Czy śniadanie jest w cenie pokoju?' — Is breakfast included in the room price? 'W cenie' = included in the price (w + locative of 'cena')."
+      "explanation": "You heard: 'Czy śniadanie jest w cenie pokoju?' — Is breakfast included in the room price? 'W cenie' = included in the price (w + locative of 'cena').",
+      "explanation_fa": "شنیدید: 'Czy śniadanie jest w cenie pokoju?' — آیا صبحانه در قیمت اتاق گنجانده شده؟ w cenie = در قیمت (w + مکانی cena)."
     },
     {
       "id": "a2-ch17-l04-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "O której należy się ___? (At what time do we need to check out?) [wymeldować się]",
+      "prompt_fa": "ساعت چند باید چک‌اوت کنیم؟ [wymeldować się]",
       "options": [
         "wymeldować",
         "zameldować",
@@ -69,45 +84,123 @@
         "wyjść"
       ],
       "correctIndex": 0,
-      "explanation": "'Wymeldować się' = to check out (perf). 'Zameldować się' = to check in. 'O której należy się wymeldować?' = What time is check-out?"
+      "explanation": "'Wymeldować się' = to check out (perf). 'Zameldować się' = to check in. 'O której należy się wymeldować?' = What time is check-out?",
+      "explanation_fa": "wymeldować się = چک‌اوت کردن (تمام‌شونده). zameldować się = چک‌این کردن. O której należy się wymeldować? = ساعت چند باید چک‌اوت کنیم؟"
     },
     {
       "id": "a2-ch17-l04-ex05",
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: I'd like a room with a sea view. (conditional + z + instrumental)",
+      "prompt_fa": "بسازید: یک اتاق با منظره دریا می‌خواهم. (شرطی + z + ابزاری)",
       "wordBank": [
         "Chciałbym",
         "Chciałabym",
         "pokój",
-        "pokoju",
         "z",
         "bez",
         "widokiem",
-        "widok",
         "na",
         "morze",
         "morza"
       ],
       "correctSequences": [
-        [
-          "Chciałbym",
-          "pokój",
-          "z",
-          "widokiem",
-          "na",
-          "morze"
-        ],
-        [
-          "Chciałabym",
-          "pokój",
-          "z",
-          "widokiem",
-          "na",
-          "morze"
-        ]
+        ["Chciałbym", "pokój", "z", "widokiem", "na", "morze"],
+        ["Chciałabym", "pokój", "z", "widokiem", "na", "morze"]
       ],
-      "explanation": "'Chciałbym/Chciałabym pokój z widokiem na morze.' — I'd like a room with a sea view. 'Z widokiem' = with a view (z + instrumental: widok → widokiem). 'Na morze' = onto the sea (na + accusative: direction/orientation)."
+      "explanation": "'Chciałbym/Chciałabym pokój z widokiem na morze.' — I'd like a room with a sea view. 'Z widokiem' = with a view (z + instrumental: widok → widokiem). 'Na morze' = onto the sea (na + accusative: direction/orientation).",
+      "explanation_fa": "Chciałbym/Chciałabym pokój z widokiem na morze. — یک اتاق با منظره دریا می‌خواهم. z widokiem = با منظره (z + ابزاری: widok → widokiem). na morze = به دریا (na + مفعولی: جهت/توجه)."
+    },
+    {
+      "id": "a2-ch17-l04-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Marek picks up the key at reception. Marek odbiera ___ z recepcji. [klucz — accusative object]",
+      "prompt_fa": "ماْرک کلید را از پذیرش می‌گیرد. [klucz — مفعول مفعولی]",
+      "options": [
+        "klucz",
+        "klucza",
+        "kluczem",
+        "kluczowi"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Odebrać klucz' = to pick up/collect the key. 'Klucz' (m inanimate) → accusative: klucz (same as nominative for m inanimate). 'Z recepcji' = from reception (z + genitive of recepcja).",
+      "explanation_fa": "odebrać klucz = کلید را گرفتن/تحویل گرفتن. klucz (مذکر غیرجاندار) → مفعولی: klucz (مثل اسمی برای مذکر غیرجاندار). z recepcji = از پذیرش (z + مضاف‌الیهی recepcja)."
+    },
+    {
+      "id": "a2-ch17-l04-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Hotel vocabulary. Complete:",
+      "context_fa": "واژگان هتل. کامل کنید:",
+      "sentence": "Proszę o pokój ___.",
+      "translation": "(I'd like a single room, please.) [jednoosobowy — single]",
+      "translation_fa": "(لطفاً یک اتاق یک‌نفره می‌خواهم.) [jednoosobowy — تک‌نفره]",
+      "prompt": "Proszę o pokój ___.",
+      "prompt_fa": "Proszę o pokój ___.",
+      "answer": "jednoosobowy",
+      "acceptableAnswers": [
+        "jednoosobowy",
+        "dwuosobowy"
+      ],
+      "hint": "Single room = pokój jednoosobowy; double room = pokój dwuosobowy",
+      "explanation": "'Pokój jednoosobowy' = single room (one-person room). 'Pokój dwuosobowy' = double room. These are compound adjectives: jedna osoba → jednoosobowy.",
+      "explanation_fa": "pokój jednoosobowy = اتاق تک‌نفره. pokój dwuosobowy = اتاق دو‌نفره. اینها صفت‌های مرکب هستند: jedna osoba → jednoosobowy."
+    },
+    {
+      "id": "a2-ch17-l04-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch17/a2-ch17-l04-ex08.mp3",
+      "options": [
+        "Recepcja jest na parterze.",
+        "Recepcja jest na pierwszym piętrze.",
+        "Recepcja jest w piwnocy.",
+        "Recepcja jest na dole hotelu."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Recepcja jest na parterze.' — Reception is on the ground floor. 'Parter' → locative: parterze. 'Na parterze' = on the ground floor.",
+      "explanation_fa": "شنیدید: 'Recepcja jest na parterze.' — پذیرش در طبقه همکف است. parter → مکانی: parterze. na parterze = در طبقه همکف."
+    },
+    {
+      "id": "a2-ch17-l04-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: Kasia would like to check in. (zameldować się — conditional)",
+      "prompt_fa": "بسازید: کاسیا می‌خواهد چک‌این کند. (zameldować się — شرطی)",
+      "wordBank": [
+        "Kasia",
+        "chciałaby",
+        "chciałabym",
+        "się",
+        "zameldować",
+        "wymeldować",
+        "."
+      ],
+      "correctSequences": [
+        ["Kasia", "chciałaby", "się", "zameldować", "."],
+        ["Kasia", "chciałaby", "zameldować", "się", "."]
+      ],
+      "explanation": "'Kasia chciałaby się zameldować.' — Kasia would like to check in. 'Chciałaby' = she would like (f conditional of chcieć). 'Zameldować się' = to check in (reflexive perfective verb).",
+      "explanation_fa": "Kasia chciałaby się zameldować. — کاسیا می‌خواهد چک‌این کند. chciałaby = او می‌خواهد (شرطی مؤنث chcieć). zameldować się = چک‌این کردن (فعل بازتابی تمام‌شونده)."
+    },
+    {
+      "id": "a2-ch17-l04-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "What does 'doba hotelowa' mean?",
+      "prompt_fa": "عبارت 'doba hotelowa' به چه معناست؟",
+      "options": [
+        "The hotel's 24-hour period (check-in to check-out)",
+        "The hotel day (breakfast time)",
+        "A hotel day trip",
+        "The hotel's daily rate"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Doba hotelowa' = the hotel day — a 24-hour billing period from check-in time to check-out time (typically noon to noon or 3pm to 11am). 'Doba' = a 24-hour day in Polish (different from 'dzień' = daytime).",
+      "explanation_fa": "doba hotelowa = روز هتلی — دوره ۲۴ ساعته صورت‌حساب از زمان چک‌این تا چک‌اوت (معمولاً از ظهر تا ظهر یا ۱۵:۰۰ تا ۱۱:۰۰). doba = یک شبانه‌روز ۲۴ ساعته در لهستانی (متفاوت از dzień = روز)."
     }
   ],
   "xpReward": 20,

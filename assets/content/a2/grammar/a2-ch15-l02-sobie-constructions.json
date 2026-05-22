@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Nie martw się, ___ sobie z tym. (Don't worry, I'll manage with it.) [poradzić sobie, ja]",
+      "prompt_fa": "Nie martw się, ___ sobie z tym. (نگران نباش، من از پسش برمیام.) [poradzić sobie، اول شخص]",
       "options": [
         "poradzę",
         "poradziłem",
@@ -30,23 +31,34 @@
         "radzę sobie"
       ],
       "correctIndex": 0,
-      "explanation": "'Poradzić sobie' (perf): ja future: poradzę. 'Poradzę sobie z tym' = I'll cope/manage with it. 'Nie martw się' = Don't worry (imperative)."
+      "explanation": "'Poradzić sobie' (perf): ja future: poradzę. 'Poradzę sobie z tym' = I'll cope/manage with it. 'Nie martw się' = Don't worry (imperative).",
+      "explanation_fa": "poradzić sobie کامل است، آینده اول شخص: poradzę. poradzę sobie z tym = از پسش برمیام. nie martw się = نگران نباش."
     },
     {
       "id": "a2-ch15-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Kupiłam ___ nowy sweter. (I bought myself a new sweater.) [sobie — dative reflexive]",
+      "context": "Polish. Complete with the reflexive dative:",
+      "context_fa": "لهستانی. دادی بازتابی را تکمیل کنید:",
+      "sentence": "Kupiłam ___ nowy sweter.",
+      "translation": "(I bought myself a new sweater.) [sobie — for oneself]",
+      "translation_fa": "(برای خودم یک پلیور جدید خریدم.) [sobie — برای خود]",
+      "prompt": "Kupiłam ___ nowy sweter.",
+      "prompt_fa": "Kupiłam ___ nowy sweter.",
       "answer": "sobie",
       "acceptableAnswers": [
         "sobie"
       ],
-      "hint": "Dative reflexive 'for oneself': sobie"
+      "hint": "Dative reflexive 'for oneself': sobie",
+      "explanation": "'Kupiłam sobie nowy sweter.' — I bought myself a new sweater. 'Sobie' = dative reflexive, meaning 'for myself'. Used with verbs of obtaining/doing for oneself.",
+      "explanation_fa": "sobie = دادی بازتابی به معنای «برای خود». Kupiłam sobie = برای خودم خریدم."
     },
     {
       "id": "a2-ch15-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch15/a2-ch15-l02-ex03.mp3",
       "options": [
         "Wyobraź sobie, że wygrałem na loterii!",
@@ -55,13 +67,15 @@
         "Wyobraź sobie, że wygrywa na loterii!"
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Wyobraź sobie, że wygrałem na loterii!' — Imagine, I (m) won the lottery! 'Wyobraź sobie' = imagine! (imperative). 'Wygrałem' = m past (I won)."
+      "explanation": "You heard: 'Wyobraź sobie, że wygrałem na loterii!' — Imagine, I (m) won the lottery! 'Wyobraź sobie' = imagine! (imperative). 'Wygrałem' = m past (I won).",
+      "explanation_fa": "شنیدید: 'Wyobraź sobie, że wygrałem na loterii!' — تصور کن، من (مذکر) در لاتاری بردم! wyobraź sobie = تصور کن! wygrałem = گذشته مذکر."
     },
     {
       "id": "a2-ch15-l02-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Nie mogę ___ pozwolić na nowe auto. (I can't afford a new car.) [sobie — position in sentence]",
+      "prompt_fa": "Nie mogę ___ pozwolić na nowe auto. (نمی‌توانم ماشین جدید بخرم.) [sobie — موقعیت در جمله]",
       "options": [
         "sobie",
         "się",
@@ -69,13 +83,15 @@
         "mu"
       ],
       "correctIndex": 0,
-      "explanation": "'Nie mogę sobie pozwolić na + accusative' = I can't afford. 'Sobie' is the dative reflexive. 'Na nowe auto' = accusative (new car)."
+      "explanation": "'Nie mogę sobie pozwolić na + accusative' = I can't afford. 'Sobie' is the dative reflexive. 'Na nowe auto' = accusative (new car).",
+      "explanation_fa": "nie mogę sobie pozwolić na + مفعولی = نمی‌توانم بپردازم. sobie دادی بازتابی است. na nowe auto = مفعولی."
     },
     {
       "id": "a2-ch15-l02-ex05",
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: She finally realized the truth. [zdać sobie sprawę]",
+      "prompt_fa": "بسازید: او بالاخره متوجه حقیقت شد. [zdać sobie sprawę]",
       "wordBank": [
         "W",
         "końcu",
@@ -84,8 +100,7 @@
         "sprawę",
         "prawdy",
         "z",
-        "prawdą",
-        "prawdy"
+        "prawdą"
       ],
       "correctSequences": [
         [
@@ -98,7 +113,108 @@
           "prawdy"
         ]
       ],
-      "explanation": "'W końcu zdała sobie sprawę z prawdy.' — She finally realized the truth. 'Zdać sobie sprawę z + genitive' = to realize. 'Prawda' → genitive: prawdy."
+      "explanation": "'W końcu zdała sobie sprawę z prawdy.' — She finally realized the truth. 'Zdać sobie sprawę z + genitive' = to realize. 'Prawda' → genitive: prawdy.",
+      "explanation_fa": "zdać sobie sprawę z + مضاف‌الیهی = متوجه شدن. prawda → مضاف‌الیهی: prawdy. w końcu = بالاخره."
+    },
+    {
+      "id": "a2-ch15-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Marek ___ kawę i teraz jest gotowy do pracy. (Marek made himself a coffee and now is ready for work.) [zrobić sobie]",
+      "prompt_fa": "Marek ___ kawę i teraz jest gotowy do pracy. (مارک برای خودش قهوه درست کرد.) [zrobić sobie]",
+      "options": [
+        "zrobił sobie",
+        "zrobił się",
+        "zrobiło sobie",
+        "zrobił mi"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Zrobić sobie' = to make for oneself. 'Marek zrobił sobie kawę' = Marek made himself a coffee. 'Sobie' refers back to the subject (Marek).",
+      "explanation_fa": "zrobić sobie = برای خود درست کردن. sobie به فاعل (Marek) برمی‌گردد. zrobił sobie kawę = برای خودش قهوه درست کرد."
+    },
+    {
+      "id": "a2-ch15-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Polish. Complete with the correct expression:",
+      "context_fa": "لهستانی. عبارت صحیح را تکمیل کنید:",
+      "sentence": "Tomek ___ z trudną sytuacją w pracy.",
+      "translation": "(Tomek managed/coped with the difficult situation at work.) [poradzić sobie z + instr]",
+      "translation_fa": "(تومک با موقعیت دشوار در کار کنار آمد.) [poradzić sobie z + ابزاری]",
+      "prompt": "Tomek ___ z trudną sytuacją w pracy.",
+      "prompt_fa": "Tomek ___ z trudną sytuacją w pracy.",
+      "answer": "poradził sobie",
+      "acceptableAnswers": [
+        "poradził sobie",
+        "dał sobie radę"
+      ],
+      "hint": "Poradzić sobie (perf) past m: poradził sobie",
+      "explanation": "'Tomek poradził sobie z trudną sytuacją.' — Tomek managed with the difficult situation. 'Poradzić sobie z + instrumental' = to cope with. Past masc: poradził.",
+      "explanation_fa": "poradzić sobie z + ابزاری = کنار آمدن با. گذشته مذکر: poradził sobie."
+    },
+    {
+      "id": "a2-ch15-l02-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch15/a2-ch15-l02-ex08.mp3",
+      "options": [
+        "Nie mogę sobie przypomnieć jego nazwiska.",
+        "Nie mogę sobie wyobrazić jego nazwiska.",
+        "Nie mogę sobie poradzić z jego nazwiskiem.",
+        "Nie mogę sobie pozwolić na jego nazwisko."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Nie mogę sobie przypomnieć jego nazwiska.' — I can't remember his surname. 'Przypomnieć sobie' = to recall/remember. 'Jego nazwiska' = genitive (his surname).",
+      "explanation_fa": "شنیدید: 'Nie mogę sobie przypomnieć jego nazwiska.' — نمی‌توانم اسم خانوادگی‌اش را به یاد بیاورم. przypomnieć sobie = به یاد آوردن."
+    },
+    {
+      "id": "a2-ch15-l02-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: Kasia bought herself new shoes for the party. [kupić sobie]",
+      "prompt_fa": "بسازید: کاسیا برای مهمانی برای خودش کفش جدید خرید. [kupić sobie]",
+      "wordBank": [
+        "Kasia",
+        "kupiła",
+        "sobie",
+        "się",
+        "nowe",
+        "buty",
+        "na",
+        "imprezę",
+        "imprezy"
+      ],
+      "correctSequences": [
+        [
+          "Kasia",
+          "kupiła",
+          "sobie",
+          "nowe",
+          "buty",
+          "na",
+          "imprezę"
+        ]
+      ],
+      "explanation": "'Kasia kupiła sobie nowe buty na imprezę.' — Kasia bought herself new shoes for the party. 'Kupić sobie' = to buy for oneself. 'Na imprezę' = accusative destination.",
+      "explanation_fa": "kupić sobie = برای خود خریدن. sobie پس از فعل می‌آید. na imprezę = برای مهمانی (مفعولی)."
+    },
+    {
+      "id": "a2-ch15-l02-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Ania ___, że jutro będzie egzamin. (Ania realized that tomorrow there will be an exam.) [zdać sobie sprawę]",
+      "prompt_fa": "Ania ___, że jutro będzie egzamin. (آنیا متوجه شد که فردا امتحان است.) [zdać sobie sprawę]",
+      "options": [
+        "zdała sobie sprawę",
+        "zdała się sprawę",
+        "dała sobie sprawę",
+        "wzięła sobie sprawę"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Zdać sobie sprawę' = to realize (fixed expression). Past f: zdała sobie sprawę. 'Że' = that (conjunction). Never 'zdała się sprawę'.",
+      "explanation_fa": "zdać sobie sprawę = متوجه شدن (عبارت ثابت). گذشته مؤنث: zdała sobie sprawę. هرگز 'zdała się' نمی‌شود."
     }
   ],
   "xpReward": 20,

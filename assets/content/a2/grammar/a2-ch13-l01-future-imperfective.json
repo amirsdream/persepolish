@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Jutro ___ w domu. (Tomorrow I will be at home.) [być, ja — future]",
+      "prompt_fa": "فردا ___ خانه خواهم بود. [być, ja — آینده]",
       "options": [
         "będę",
         "jestem",
@@ -30,23 +31,34 @@
         "byłam"
       ],
       "correctIndex": 0,
-      "explanation": "'Jutro' (tomorrow) = future → będę. 'Być' future 1st person singular: będę. 'Będę w domu' = I will be at home."
+      "explanation": "'Jutro' (tomorrow) = future → będę. 'Być' future 1st person singular: będę. 'Będę w domu' = I will be at home.",
+      "explanation_fa": "'Jutro' (فردا) = آینده → będę. صرف آینده 'być' برای اول شخص مفرد: będę. 'Będę w domu' = فردا خانه خواهم بود."
     },
     {
       "id": "a2-ch13-l01-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Ona ___ uczyć się do egzaminu przez cały tydzień. (She will be studying for the exam all week.) [imperfective future, ona]",
+      "context": "Imperfective future. Complete the sentence with the correct auxiliary.",
+      "context_fa": "آینده ناکامل. جمله را با فعل کمکی درست کامل کنید.",
+      "sentence": "Ona ___ uczyć się do egzaminu przez cały tydzień.",
+      "translation": "(She will be studying for the exam all week.) [imperfective future, ona]",
+      "translation_fa": "(او تمام هفته برای امتحان درس خواهد خواند.) [آینده ناکامل، ona]",
+      "prompt": "Ona ___ uczyć się do egzaminu przez cały tydzień.",
+      "prompt_fa": "Ona ___ uczyć się do egzaminu przez cały tydzień.",
       "answer": "będzie",
       "acceptableAnswers": [
         "będzie"
       ],
-      "hint": "Imperfective future auxiliary for 'ona': będzie + infinitive"
+      "hint": "Imperfective future auxiliary for 'ona': będzie + infinitive",
+      "explanation": "Imperfective future of 'być' for ona: będzie. Będzie uczyć się = she will be studying.",
+      "explanation_fa": "آینده ناکامل 'być' برای ona: będzie. Będzie uczyć się = او مشغول درس خواندن خواهد بود."
     },
     {
       "id": "a2-ch13-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch13/a2-ch13-l01-ex03.mp3",
       "options": [
         "Co będziesz robić w weekend?",
@@ -55,13 +67,15 @@
         "Co zrobisz w weekend?"
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Co będziesz robić w weekend?' — What will you be doing at the weekend? 'Będziesz' (ty) + 'robić' (infinitive) = imperfective future."
+      "explanation": "You heard: 'Co będziesz robić w weekend?' — What will you be doing at the weekend? 'Będziesz' (ty) + 'robić' (infinitive) = imperfective future.",
+      "explanation_fa": "شنیدید: 'Co będziesz robić w weekend?' — آخر هفته چه خواهی کرد؟ będziesz (برای ty) + robić (مصدر) = آینده ناکامل."
     },
     {
       "id": "a2-ch13-l01-ex04",
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: We (m-pers) will be working all summer. (imperfective future)",
+      "prompt_fa": "بسازید: ما (مذکر جمع) تمام تابستان کار خواهیم کرد. (آینده ناکامل)",
       "wordBank": [
         "Będziemy",
         "Będą",
@@ -89,13 +103,15 @@
           "lato"
         ]
       ],
-      "explanation": "'Będziemy pracować przez całe lato.' — We will be working all summer. Imperfective future: będziemy + infinitive (or l-form: pracowali). 'Przez całe lato' = for the whole summer."
+      "explanation": "'Będziemy pracować przez całe lato.' — We will be working all summer. Imperfective future: będziemy + infinitive (or l-form: pracowali). 'Przez całe lato' = for the whole summer.",
+      "explanation_fa": "'Będziemy pracować przez całe lato.' — ما تمام تابستان کار خواهیم کرد. آینده ناکامل: będziemy + مصدر (یا شکل گذشته: pracowali). 'Przez całe lato' = در طول تابستان."
     },
     {
       "id": "a2-ch13-l01-ex05",
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Which correctly expresses 'They (f) will be studying Polish every day'? [imperfective future]",
+      "prompt_fa": "کدام جمله درست است؟ 'آن‌ها (مؤنث) هر روز لهستانی خواهند خواند' [آینده ناکامل]",
       "options": [
         "Będą uczyć się polskiego każdego dnia.",
         "Nauczyły się polskiego każdego dnia.",
@@ -103,7 +119,119 @@
         "Nauczą się polskiego każdego dnia."
       ],
       "correctIndex": 0,
-      "explanation": "Habitual future → imperfective: będą uczyć się (they will study — ongoing). 'Nauczą się' is perfective future (will learn/master — one completion)."
+      "explanation": "Habitual future → imperfective: będą uczyć się (they will study — ongoing). 'Nauczą się' is perfective future (will learn/master — one completion).",
+      "explanation_fa": "آینده عادتی/تکراری → ناکامل: będą uczyć się. 'Nauczą się' کامل است (یک بار یاد خواهند گرفت)."
+    },
+    {
+      "id": "a2-ch13-l01-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Tomek ___ czekał na Kasię przez godzinę jutro. (Tomek will be waiting for Kasia for an hour tomorrow.) [być, on — imperfective future l-form]",
+      "prompt_fa": "Tomek ___ فردا یک ساعت منتظر Kasia خواهد ماند. [być، on — آینده ناکامل با شکل گذشته]",
+      "options": [
+        "będzie",
+        "jest",
+        "był",
+        "będą"
+      ],
+      "correctIndex": 0,
+      "explanation": "Imperfective future auxiliary for 'on': będzie. 'Będzie czekał' = he will be waiting (Option B: będzie + l-form). Duration in future → imperfective.",
+      "explanation_fa": "فعل کمکی آینده ناکامل برای 'on': będzie. 'Będzie czekał' = او منتظر خواهد ماند (روش ب: będzie + شکل گذشته). مدت زمان در آینده → ناکامل."
+    },
+    {
+      "id": "a2-ch13-l01-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Imperfective future with jutro. Complete with the correct verb form.",
+      "context_fa": "آینده ناکامل با jutro. فعل درست را بنویسید.",
+      "sentence": "Jutro Marek ___ gotować obiad przez całe popołudnie.",
+      "translation": "(Tomorrow Marek will be cooking lunch all afternoon.) [będzie + infinitive]",
+      "translation_fa": "(فردا Marek تمام بعدازظهر ناهار خواهد پخت.) [będzie + مصدر]",
+      "prompt": "Jutro Marek ___ gotować obiad przez całe popołudnie.",
+      "prompt_fa": "Jutro Marek ___ gotować obiad przez całe popołudnie.",
+      "answer": "będzie",
+      "acceptableAnswers": [
+        "będzie"
+      ],
+      "hint": "Imperfective future for 'on' (Marek): będzie + infinitive",
+      "explanation": "'Będzie gotować' = he will be cooking (imperfective future). 'Jutro' triggers future; ongoing activity all afternoon → imperfective.",
+      "explanation_fa": "'Będzie gotować' = او آشپزی خواهد کرد (آینده ناکامل). 'Jutro' آینده را نشان می‌دهد؛ فعالیت ادامه‌دار → ناکامل."
+    },
+    {
+      "id": "a2-ch13-l01-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch13/a2-ch13-l01-ex08.mp3",
+      "options": [
+        "Będę uczyć się polskiego w przyszłym tygodniu.",
+        "Uczę się polskiego w przyszłym tygodniu.",
+        "Uczyłem się polskiego w przyszłym tygodniu.",
+        "Nauczę się polskiego w przyszłym tygodniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Będę uczyć się polskiego w przyszłym tygodniu.' — I will be studying Polish next week. 'Będę + uczyć się' = imperfective future. 'W przyszłym tygodniu' = next week.",
+      "explanation_fa": "شنیدید: 'Będę uczyć się polskiego w przyszłym tygodniu.' — هفته آینده لهستانی درس خواهم خواند. 'Będę + uczyć się' = آینده ناکامل."
+    },
+    {
+      "id": "a2-ch13-l01-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: Ania will be reading a book all evening. (imperfective future, Option A)",
+      "prompt_fa": "بسازید: Ania تمام شب کتاب خواهد خواند. (آینده ناکامل، روش الف)",
+      "wordBank": [
+        "Ania",
+        "będzie",
+        "będą",
+        "czytać",
+        "czytała",
+        "książkę",
+        "książki",
+        "przez",
+        "cały",
+        "całe",
+        "wieczór",
+        "wieczoru"
+      ],
+      "correctSequences": [
+        [
+          "Ania",
+          "będzie",
+          "czytać",
+          "książkę",
+          "przez",
+          "cały",
+          "wieczór"
+        ],
+        [
+          "Ania",
+          "będzie",
+          "czytała",
+          "książkę",
+          "przez",
+          "cały",
+          "wieczór"
+        ]
+      ],
+      "explanation": "'Ania będzie czytać książkę przez cały wieczór.' — Ania will be reading a book all evening. 'Będzie czytać' (Option A) or 'będzie czytała' (Option B, l-form f). 'Przez cały wieczór' = all evening.",
+      "explanation_fa": "'Ania będzie czytać książkę przez cały wieczór.' — Ania تمام شب کتاب خواهد خواند. 'Będzie czytać' (روش الف) یا 'będzie czytała' (روش ب). 'Przez cały wieczór' = تمام عصر."
+    },
+    {
+      "id": "a2-ch13-l01-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Which sentence uses imperfective future correctly for an ongoing future action?",
+      "prompt_fa": "کدام جمله از آینده ناکامل برای عمل ادامه‌دار به درستی استفاده می‌کند؟",
+      "options": [
+        "Jutro będę pracować w biurze od rana.",
+        "Jutro napiszę ten raport.",
+        "Zadzwoniłem do ciebie jutro.",
+        "Jutro napisałem raport."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Jutro będę pracować w biurze od rana.' — Tomorrow I'll be working in the office from morning (ongoing). 'Napiszę' is perfective future (completed). The other two have wrong tense.",
+      "explanation_fa": "'Jutro będę pracować w biurze od rana.' — فردا از صبح در دفتر کار خواهم کرد (ادامه‌دار). 'Napiszę' آینده کامل است (یک بار). بقیه زمان غلط دارند."
     }
   ],
   "xpReward": 20,

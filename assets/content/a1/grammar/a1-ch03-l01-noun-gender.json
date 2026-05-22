@@ -6,23 +6,24 @@
   "title": "Noun Gender — Recognition Rules",
   "title_fa": "جنسیت اسم — قواعد تشخیص",
   "grammarPoint": "Recognising masculine, feminine and neuter nouns by ending and meaning",
-  "grammarPoint_fa": "تشخیص جنسیت دستوری اسم‌های لهستانی از روی پسوند",
+  "grammarPoint_fa": "تشخیص جنسیت دستوری اسم‌های لهستانی از روی پسوند و معنی",
   "explanation": {
-    "text": "Knowing a noun's gender is essential for correct agreement throughout Polish. While there are exceptions, reliable patterns exist:\n\n**Masculine** — typically end in a consonant: *kot, dom, pies, student, kraj*\n**Feminine** — typically end in **-a**: *kobieta, mama, herbata, Polska*\n**Neuter** — typically end in **-o** or **-e**: *okno, morze, życie*\n\n**Semantic gender** — Male people are grammatically masculine regardless of ending:\n- *mężczyzna* (man) ends in -a but is masculine\n- *tata* (dad) ends in -a but is masculine\n\n**Profession nouns** follow a natural gender pattern:\n- Masculine: *lekarz, nauczyciel, prawnik*\n- Feminine: *lekarka, nauczycielka, prawniczka*",
+    "text": "## Noun Gender — Recognition Rules\n\nEvery Polish noun has one of three grammatical genders: **masculine**, **feminine**, or **neuter**. Gender controls adjective endings, case endings and verb agreement — so recognising it fast is a core skill.\n\n> 🔑 **Golden rule:** Check the ending first. If the noun refers to a male person, it is masculine regardless of ending.\n\n### Main gender signals\n\n| Gender | Typical ending | Examples |\n|--------|---------------|----------|\n| **Masculine** | consonant | kot, dom, lekarz, kraj, student |\n| **Feminine** | **-a** | kobieta, mama, siostra, herbata, Polska |\n| **Neuter** | **-o** | okno, słowo, miasto, auto |\n| **Neuter** | **-e** | morze, życie, pole |\n| **Neuter** | **-ę** | imię, ramię, zwierzę |\n| **Neuter** | **-um** | muzeum, centrum, liceum |\n\n### Semantic gender — male persons override the ending\n\nNouns referring to **male persons** are masculine even if they end in **-a**:\n\n| Polish | Ending | Gender | Meaning |\n|--------|--------|--------|---------|\n| *mężczyzna* | -a | **masculine** | man |\n| *tata* | -a | **masculine** | dad |\n| *kolega* | -a | **masculine** | (male) colleague |\n| *artysta* | -a | **masculine** | (male) artist |\n\n### Always feminine — the -ość rule\n\nAll abstract nouns ending **-ość** are feminine with no exceptions:\n\n*wolność* (freedom), *radość* (joy), *miłość* (love), *mądrość* (wisdom), *piękność* (beauty)\n\n### Latin loanwords — -um is always neuter\n\n*muzeum* (museum), *centrum* (centre), *liceum* (high school) — neuter and **indeclinable in the singular**.\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *mężczyzna* = feminine | *mężczyzna* = masculine | male person → masculine |\n| *tata* = feminine | *tata* = masculine | male person → masculine |\n| *życie* = masculine | *życie* = neuter | -e ending → neuter |\n| declining *muzeum* | *muzeum* stays the same | Latin -um = indeclinable |",
     "notes": [
-      "Always learn a noun's gender when you learn the word.",
-      "Nouns for males are grammatically masculine, even if they end in -a (tata, mężczyzna).",
-      "Foreign words ending in a stressed vowel tend to be masculine: autobus, but check each one.",
-      "Abstract nouns in -ość are always feminine: wolność, radość, miłość."
+      "Always learn a noun's gender when you first meet it — it is not always predictable",
+      "Male persons are masculine even if they end in -a: tata, mężczyzna, kolega",
+      "All -ość nouns are feminine: wolność, radość, miłość — no exceptions",
+      "Foreign -um words (muzeum, centrum) are neuter and do not decline in singular"
     ]
   },
-  "explanation_fa": "قاعده کلی: اسم‌هایی که به مصوت -a ختم می‌شوند مؤنث هستند (kobieta، mama)؛ اسم‌هایی که به -o، -e، -ę، -um ختم می‌شوند خنثی هستند (dziecko، morze)؛ بقیه اغلب مذکر هستند (kot، lekarz). استثناها وجود دارند؛ مثل mężczyzna که مذکر است.",
+  "explanation_fa": "## جنسیت اسم — قواعد تشخیص\n\nهر اسم لهستانی به یکی از سه جنس دستوری تعلق دارد: **مذکر**، **مؤنث** یا **خنثی**. جنسیت، پسوندهای صفت، حالت و فعل را کنترل می‌کند — بنابراین تشخیص سریع آن مهارتی اساسی است.\n\n> 🔑 **قانون طلایی:** ابتدا پسوند را بررسی کنید. اگر اسم به یک شخص مذکر اشاره دارد، صرف نظر از پسوند، مذکر است.\n\n### علائم اصلی جنسیت\n\n| جنسیت | پسوند معمول | مثال‌ها |\n|--------|------------|--------|\n| **مذکر** | مصوت | kot, dom, lekarz, kraj, student |\n| **مؤنث** | **-a** | kobieta, mama, siostra, herbata, Polska |\n| **خنثی** | **-o** | okno, słowo, miasto, auto |\n| **خنثی** | **-e** | morze, życie, pole |\n| **خنثی** | **-ę** | imię, ramię, zwierzę |\n| **خنثی** | **-um** | muzeum, centrum, liceum |\n\n### جنسیت معنایی — اشخاص مذکر بر پسوند غلبه می‌کنند\n\nاسم‌هایی که به **اشخاص مذکر** اشاره می‌کنند مذکر هستند، حتی اگر به **-a** ختم شوند:\n\n| لهستانی | پسوند | جنسیت | معنی |\n|---------|-------|--------|------|\n| *mężczyzna* | -a | **مذکر** | مرد |\n| *tata* | -a | **مذکر** | بابا |\n| *kolega* | -a | **مذکر** | همکار (مذکر) |\n| *artysta* | -a | **مذکر** | هنرمند (مذکر) |\n\n### همیشه مؤنث — قانون -ość\n\nتمام اسم‌های انتزاعی با پسوند **-ość** بدون استثنا مؤنث هستند:\n*wolność* (آزادی)، *radość* (شادی)، *miłość* (عشق)، *mądrość* (خرد)، *piękność* (زیبایی)\n\n### وام‌واژه‌های لاتین — -um همیشه خنثی است\n\n*muzeum* (موزه)، *centrum* (مرکز)، *liceum* (دبیرستان) — خنثی هستند و در مفرد **صرف نمی‌شوند**.\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *mężczyzna* = مؤنث | *mężczyzna* = مذکر | شخص مذکر → مذکر |\n| *tata* = مؤنث | *tata* = مذکر | شخص مذکر → مذکر |\n| *życie* = مذکر | *życie* = خنثی | پسوند -e → خنثی |\n| صرف کردن *muzeum* | *muzeum* تغییر نمی‌کند | -um لاتین = بدون صرف |",
   "exercises": [
     {
       "id": "a1-ch03-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "What gender is 'wolność' (freedom)?",
+      "prompt": "Tomek is doing a crossword and needs the gender of 'wolność' (freedom). What is it?",
+      "prompt_fa": "تامک دارد جدول کلمات حل می‌کند و باید جنسیت 'wolność' (آزادی) را بداند. چیست؟",
       "options": [
         "feminine",
         "masculine",
@@ -30,67 +31,172 @@
         "it varies"
       ],
       "correctIndex": 0,
-      "explanation": "Nouns ending in -ość are always feminine: wolność (freedom), radość (joy), miłość (love)."
+      "explanation": "All nouns ending in -ość are feminine without exception: wolność (freedom), radość (joy), miłość (love), mądrość (wisdom).",
+      "explanation_fa": "تمام اسم‌های ختم‌شونده به -ość بدون استثنا مؤنث هستند: wolność (آزادی)، radość (شادی)، miłość (عشق)، mądrość (خرد)."
     },
     {
       "id": "a1-ch03-l01-ex02",
-      "type": "fill_blank",
+      "type": "multiple_choice",
       "order": 2,
-      "prompt": "To jest ___ pies. (This is my dog.) — pies is ___.",
-      "answer": "masculine",
-      "acceptableAnswers": [
+      "prompt": "Kasia is confused: 'tata' (dad) ends in -a, like a feminine noun. What is its grammatical gender?",
+      "prompt_fa": "کاسیا گیج شده: 'tata' (بابا) به -a ختم می‌شود، مثل اسم مؤنث. جنسیت دستوری‌اش چیست؟",
+      "options": [
         "masculine",
-        "m"
+        "feminine",
+        "neuter",
+        "both masculine and feminine"
       ],
-      "hint": "'Pies' ends in a consonant — typical of which gender?"
+      "correctIndex": 0,
+      "explanation": "'Tata' ends in -a but refers to a male person (dad), so it is grammatically masculine. The same applies to mężczyzna, kolega, and artysta.",
+      "explanation_fa": "'Tata' به -a ختم می‌شود اما به یک شخص مذکر (بابا) اشاره دارد، پس از نظر دستوری مذکر است. همین برای mężczyzna، kolega و artysta هم صدق می‌کند."
     },
     {
       "id": "a1-ch03-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch03/a1-ch03-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
-        "Mężczyzna jest moim tatą.",
-        "Kobieta jest moim tatą.",
-        "Dziecko jest moim tatą.",
-        "Mężczyzna jest moją mamą."
+        "To jest moje muzeum.",
+        "To jest moja muzeum.",
+        "To jest mój muzeum.",
+        "To jest moim muzeum."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Mężczyzna jest moim tatą.' — The man is my dad. 'Mężczyzna' ends in -a but is masculine (male person)."
+      "explanation": "You heard: 'To jest moje muzeum.' — This is my museum. 'Muzeum' ends in -um → neuter → use 'moje' (neuter possessive).",
+      "explanation_fa": "شنیدید: 'To jest moje muzeum.' — این موزه منه. 'Muzeum' به -um ختم می‌شود → خنثی → از 'moje' (ضمیر ملکی خنثی) استفاده می‌شود."
     },
     {
       "id": "a1-ch03-l01-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Classify: Which word is neuter? [okno, mama, brat, kot]",
+      "prompt": "Tap the words in order: This is a window. [okno = neuter]",
+      "prompt_fa": "کلمات را به ترتیب بزنید: این یک پنجره است. [okno = خنثی]",
       "wordBank": [
-        "okno",
-        "mama",
-        "brat",
-        "kot",
+        "To",
         "jest",
-        "neuter"
+        "okno",
+        "okna"
       ],
       "correctSequences": [
         [
+          "To",
+          "jest",
           "okno"
         ]
       ],
-      "explanation": "'Okno' (window) ends in -o → neuter. 'Mama' = feminine (-a). 'Brat' and 'kot' = masculine (consonant endings)."
+      "explanation": "'To jest okno' = This is a window. 'Okno' ends in -o → neuter. The word 'okna' is a distractor (genitive/plural form).",
+      "explanation_fa": "'To jest okno' = این یک پنجره است. 'Okno' به -o ختم می‌شود → خنثی. 'okna' گزینه اضافه‌ای است (شکل مضاف‌الیهی/جمع)."
     },
     {
       "id": "a1-ch03-l01-ex05",
-      "type": "multiple_choice",
+      "type": "fill_blank",
       "order": 5,
-      "prompt": "Which noun is grammatically masculine despite ending in -a?",
+      "answer": "masculine",
+      "acceptableAnswers": [
+        "masculine"
+      ],
+      "hint": "It refers to a male person — meaning overrides ending",
+      "explanation": "'Mężczyzna' (man) ends in -a but refers to a male person, so it is grammatically masculine. Male persons always override the -a → feminine rule.",
+      "explanation_fa": "'Mężczyzna' (مرد) به -a ختم می‌شود اما به یک شخص مذکر اشاره دارد، پس از نظر دستوری مذکر است. اشخاص مذکر همیشه قانون -a → مؤنث را نقض می‌کنند.",
+      "context": "Complete:",
+      "context_fa": "کامل کنید:",
+      "sentence": "'Mężczyzna' is grammatically ___ even though it ends in -a.",
+      "translation": "",
+      "translation_fa": "",
+      "prompt": "'Mężczyzna' is grammatically ___ even though it ends in -a.",
+      "prompt_fa": "'Mężczyzna' is grammatically ___ even though it ends in -a."
+    },
+    {
+      "id": "a1-ch03-l01-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia wants to know the gender of 'siostra' (sister). What is it?",
+      "prompt_fa": "کاسیا می‌خواهد جنسیت 'siostra' (خواهر) را بداند. چیست؟",
       "options": [
-        "tata",
-        "mama",
-        "córka",
-        "siostra"
+        "feminine",
+        "masculine",
+        "neuter",
+        "it depends"
       ],
       "correctIndex": 0,
-      "explanation": "'Tata' (dad) refers to a male person, so it is grammatically masculine even though it ends in -a. 'Mama', 'córka', 'siostra' are all feminine."
+      "explanation": "'Siostra' ends in -a → feminine. Nouns ending in -a (except male persons like mężczyzna, tata) are feminine.",
+      "explanation_fa": "'Siostra' به -a ختم می‌شود → مؤنث. اسم‌هایی که به -a ختم می‌شوند (به جز اشخاص مذکر مثل mężczyzna، tata) مؤنث هستند."
+    },
+    {
+      "id": "a1-ch03-l01-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "neuter",
+      "acceptableAnswers": [
+        "neuter"
+      ],
+      "hint": "Nouns ending in -o or -e are typically neuter",
+      "explanation": "'Okno' ends in -o → neuter. Neuter nouns take -e adjective endings in nominative singular: nowe okno (new window).",
+      "explanation_fa": "'Okno' به -o ختم می‌شود → خنثی. اسم‌های خنثی در فاعلی مفرد پسوند صفت -e می‌گیرند: nowe okno (پنجره جدید).",
+      "context": "Tomek looks at a window. What gender is 'okno'?",
+      "context_fa": "تامک به یک پنجره نگاه می‌کند. جنس دستوری 'okno' چیست؟",
+      "sentence": "'Okno' ends in -o, so its gender is ___.",
+      "translation": "",
+      "translation_fa": "",
+      "prompt": "'Okno' ends in -o, so its gender is ___.",
+      "prompt_fa": "'Okno' ends in -o, so its gender is ___."
+    },
+    {
+      "id": "a1-ch03-l01-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Marek tests Ania: which of these words is masculine?",
+      "prompt_fa": "مارک آنیا را آزمایش می‌کند: کدام یک از این کلمات مذکر است؟",
+      "options": [
+        "dom (house)",
+        "kawa (coffee)",
+        "okno (window)",
+        "siostra (sister)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Dom' ends in a consonant → masculine. 'Kawa' → feminine (-a). 'Okno' → neuter (-o). 'Siostra' → feminine (-a).",
+      "explanation_fa": "'Dom' به مصوت ختم می‌شود → مذکر. 'Kawa' → مؤنث (-a). 'Okno' → خنثی (-o). 'Siostra' → مؤنث (-a)."
+    },
+    {
+      "id": "a1-ch03-l01-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Ania says her sister is kind. Arrange: The sister is kind.",
+      "prompt_fa": "آنیا می‌گوید خواهرش مهربان است. کلمات را به ترتیب بزنید: خواهر مهربان است.",
+      "wordBank": [
+        "Siostra",
+        "jest",
+        "miła",
+        "miły"
+      ],
+      "correctSequences": [
+        [
+          "Siostra",
+          "jest",
+          "miła"
+        ]
+      ],
+      "explanation": "'Siostra jest miła' = The sister is kind. 'Siostra' is feminine, so the adjective takes the -a ending: miła (not miły, which is masculine).",
+      "explanation_fa": "'Siostra jest miła' = خواهر مهربان است. 'Siostra' مؤنث است، پس صفت پسوند -a می‌گیرد: miła (نه miły که مذکر است)."
+    },
+    {
+      "id": "a1-ch03-l01-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch03/a1-ch03-l01-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Muzeum jest duże i nowoczesne.",
+        "Muzeum jest duży i nowoczesny.",
+        "Muzeum jest duża i nowoczesna.",
+        "Muzeum są duże i nowoczesne."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Muzeum jest duże i nowoczesne.' — The museum is big and modern. 'Muzeum' is neuter → adjectives take neuter -e ending: duże, nowoczesne.",
+      "explanation_fa": "شنیدید: 'Muzeum jest duże i nowoczesne.' — موزه بزرگ و مدرن است. 'Muzeum' خنثی است → صفت‌ها پسوند خنثی -e می‌گیرند: duże، nowoczesne."
     }
   ],
   "xpReward": 20,

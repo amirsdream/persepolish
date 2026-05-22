@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch19-l01-body-idioms",
+  "chapter": 19,
+  "lessonOrder": 1,
+  "level": "b1",
+  "title": "Idioms with Body Parts",
+  "title_fa": "اصطلاحات با اعضای بدن",
+  "grammarPoint": "Common Polish idioms using body parts: głowa (head), ręka (hand), noga (leg), oko (eye), serce (heart)",
+  "grammarPoint_fa": "اصطلاحات رایج لهستانی با اعضای بدن: głowa (سر)، ręka (دست)، noga (پا)، oko (چشم)، serce (قلب)",
+  "explanation": {
+    "text": "**Body-part idioms are very common in Polish everyday speech:**\n\n**GŁOWA (head):**\n- mieć głowę na karku — to have one's head screwed on (be smart)\n- wpaść na głowę — to go over someone's head (too difficult)\n- dać sobie spokój z głowy — to stop bothering about something\n- boli mnie głowa (idiom: from something) — I have a headache (also: I'm sick of it)\n- stracić głowę — to lose one's head (panic OR fall in love)\n\n**RĘKA (hand/arm):**\n- mieć kogoś pod ręką — to have someone at hand\n- dać sobie rękę uciąć — to bet one's life on it (I'd bet my hand on it)\n- umyć ręce — to wash one's hands of something\n- na własną rękę — on one's own, independently\n- złota rączka — a handyman (golden little hand)\n\n**NOGA (leg/foot):**\n- wstać lewą nogą — to get up on the wrong side of bed\n- mieć nogi jak z waty — to have legs like cotton wool (weak/shaking)\n- na własnych nogach — on one's own two feet (independent)\n- brać nogi za pas — to take to one's heels (run away quickly)\n\n**OKO (eye):**\n- mieć oko na kogoś — to have one's eye on someone\n- nie spać oka — not to sleep a wink\n- widzieć na własne oczy — to see with one's own eyes\n- oczko w głowie — the apple of one's eye (darling, favourite)\n\n**SERCE (heart):**\n- z całego serca — with all one's heart\n- brać sobie coś do serca — to take something to heart\n- serce mi się kraje — my heart is breaking",
+    "notes": [
+      "Many Polish idioms are similar to English body-part idioms — but not all!",
+      "'Dać sobie rękę uciąć' = 'I'd bet my hand' — much stronger than English 'bet your life'",
+      "'Złota rączka' (golden little hand) = handyman — the diminutive makes it affectionate",
+      "'Oczko w głowie' = darling/favourite person (literally: little eye in the head)"
+    ]
+  },
+  "explanation_fa": "اصطلاحات با اعضای بدن در لهستانی روزمره بسیار رایج هستند: GŁOWA: mieć głowę na karku (باهوش بودن)، stracić głowę (از دست دادن سر / عاشق شدن). RĘKA: na własną rękę (به تنهایی)، złota rączka (همه‌کاره)، umyć ręce (کنار کشیدن). NOGA: wstać lewą nogą (بد شروع کردن روز)، brać nogi za pas (فرار کردن). OKO: oczko w głowie (عزیزترین کس)، nie spać oka (یک لحظه نخوابیدن). SERCE: z całego serca (با تمام قلب)، brać do serca (جدی گرفتن).",
+  "exercises": [
+    {
+      "id": "b1-ch19-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "What does 'wstać lewą nogą' mean?",
+      "prompt_fa": "'wstać lewą nogą' چه معنایی دارد؟",
+      "options": [
+        "To get up on the wrong side of bed (be in a bad mood)",
+        "To stand on one's left leg",
+        "To get up early in the morning",
+        "To stand up suddenly"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wstać lewą nogą' = to get up on the wrong side of the bed. When someone is grumpy or everything goes wrong for them.",
+      "explanation_fa": "'Wstać lewą nogą' = با پای چپ بلند شدن (بد شروع کردن روز). وقتی کسی بداخلاق است یا همه چیز برایش اشتباه پیش می‌رود."
+    },
+    {
+      "id": "b1-ch19-l01-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Complete the idiom: 'Ona jest oczkiem w ___ babci.' (apple of grandma's eye):",
+      "context_fa": "اصطلاح را کامل کنید: 'Ona jest oczkiem w ___ babci.' (عزیز دل مادربزرگ):",
+      "sentence": "Ona jest oczkiem w ___ babci.",
+      "prompt": "Ona jest oczkiem w ___ babci.",
+      "prompt_fa": "Ona jest oczkiem w ___ babci.",
+      "answer": "głowie",
+      "acceptableAnswers": ["głowie"],
+      "hint": "oczko w głowie = the apple of one's eye; głowa → locative: głowie",
+      "explanation": "'Oczko w głowie babci' = grandma's darling/the apple of grandma's eye. Literally: 'little eye in the head.' 'W' + locative: głowa → głowie.",
+      "explanation_fa": "'Oczko w głowie babci' = عزیز دل مادربزرگ. به معنای واقعی: 'چشمک کوچک در سر.' 'W' + مکانی: głowa → głowie."
+    },
+    {
+      "id": "b1-ch19-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch19/b1-ch19-l01-ex03.mp3",
+      "prompt": "Which idiom did you hear?",
+      "prompt_fa": "کدام اصطلاح را شنیدید؟",
+      "options": [
+        "Zrobiłem to na własną rękę.",
+        "Zrobiłem to na własną nogę.",
+        "Zrobiłem to na własne oko.",
+        "Zrobiłem to na własną głowę."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Na własną rękę' = on one's own, independently. 'Zrobiłem to na własną rękę.' = I did it on my own.",
+      "explanation_fa": "'Na własną rękę' = به تنهایی، مستقلانه. 'Zrobiłem to na własną rękę.' = این کار را به تنهایی انجام دادم."
+    },
+    {
+      "id": "b1-ch19-l01-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: He took to his heels (ran away quickly).",
+      "prompt_fa": "بسازید: پا به فرار گذاشت (خیلی سریع فرار کرد).",
+      "wordBank": ["Wziął", "nogi", "za", "pas", "Miał", "nogi", "jak", "z", "waty"],
+      "correctSequences": [["Wziął", "nogi", "za", "pas"]],
+      "explanation": "'Wziął nogi za pas.' — He took to his heels. Literally: 'He took his legs behind his belt.' = He ran away very quickly.",
+      "explanation_fa": "'Wziął nogi za pas.' — پا به فرار گذاشت. به معنای واقعی: 'پاهایش را پشت کمربندش گذاشت.' = خیلی سریع فرار کرد."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["idioms", "body-parts", "figurative-language", "b1-core"],
+  "prerequisites": ["b1-ch09-l01"]
+}

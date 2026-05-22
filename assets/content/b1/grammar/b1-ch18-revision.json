@@ -1,0 +1,168 @@
+{
+  "id": "b1-ch18-revision",
+  "chapter": 18,
+  "level": "b1",
+  "title": "Chapter 18 Revision: Media Language",
+  "title_fa": "مرور فصل ۱۸ B1: زبان رسانه‌ای",
+  "description": "Test your knowledge of Polish news headlines, nominalization, impersonal constructions, and media reading strategies.",
+  "passThreshold": 0.7,
+  "questions": [
+    {
+      "id": "b1-ch18-rev-q01",
+      "type": "multiple_choice",
+      "prompt": "In the headline 'Wzrost cen paliwa', what does 'wzrost' mean?",
+      "prompt_fa": "در تیتر 'Wzrost cen paliwa'، 'wzrost' چه معنایی دارد؟",
+      "options": ["Rise, increase (nominalized from 'wzrosnąć')", "Fall (from 'spaść')", "Decision (from 'zdecydować')", "Record (from 'rekord')"],
+      "correctIndex": 0,
+      "explanation": "'Wzrost' = rise/increase (from 'wzrosnąć' = to rise). Full: 'Ceny paliwa wzrosły.' Headlines compress: verb → noun (nominalization).",
+      "explanation_fa": "'Wzrost' = افزایش/رشد (از 'wzrosnąć' = افزایش یافتن). کامل: 'Ceny paliwa wzrosły.' تیترها فشرده می‌کنند: فعل → اسم (اسمی‌سازی)."
+    },
+    {
+      "id": "b1-ch18-rev-q02",
+      "type": "multiple_choice",
+      "prompt": "What is the verbal noun from 'pisać' (to write)?",
+      "prompt_fa": "اسم فعلی از 'pisać' (نوشتن) چیست؟",
+      "options": ["pisanie (neuter verbal noun)", "pisanie się", "pisanie (masculine)", "pisan"],
+      "correctIndex": 0,
+      "explanation": "'Pisanie' = writing. Pisać → pisanie (verbal noun, neuter). 'Lubię pisanie.' Verbal nouns are always neuter.",
+      "explanation_fa": "'Pisanie' = نوشتن. Pisać → pisanie (اسم فعلی، خنثی). 'Lubię pisanie.' اسامی فعلی همیشه خنثی هستند."
+    },
+    {
+      "id": "b1-ch18-rev-q03",
+      "type": "fill_blank",
+      "prompt": "Impersonal passive: 'The agreement was signed.' = ___ umowę.",
+      "prompt_fa": "منفعل غیرشخصی: 'توافق امضا شد.' = ___ umowę.",
+      "answer": "Podpisano",
+      "acceptableAnswers": ["Podpisano", "podpisano"],
+      "hint": "podpisać → podpisany → podpisano (impersonal -no passive)",
+      "explanation": "'Podpisano umowę.' The -no/-to impersonal passive never changes. Object remains in accusative.",
+      "explanation_fa": "'Podpisano umowę.' منفعل غیرشخصی -no/-to هرگز تغییر نمی‌کند. مفعول در حالت مفعولی باقی می‌ماند."
+    },
+    {
+      "id": "b1-ch18-rev-q04",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses 'mówi się'?",
+      "prompt_fa": "کدام جمله 'mówi się' را درست استفاده می‌کند؟",
+      "options": [
+        "Mówi się, że sytuacja jest trudna.",
+        "Mówię się, że sytuacja jest trudna.",
+        "Mówią się, że sytuacja jest trudna.",
+        "Mówimy się, że sytuacja jest trudna."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mówi się, że...' = It is said that... / People say that... The impersonal 'się' construction always uses 3rd person singular.",
+      "explanation_fa": "'Mówi się, że...' = گفته می‌شود که... / مردم می‌گویند که... ساختار غیرشخصی 'się' همیشه از سوم شخص مفرد استفاده می‌کند."
+    },
+    {
+      "id": "b1-ch18-rev-q05",
+      "type": "multiple_choice",
+      "prompt": "In journalism, 'według ministra' means:",
+      "prompt_fa": "در روزنامه‌نگاری، 'według ministra' به معنای:",
+      "options": [
+        "According to the minister (według + genitive)",
+        "With the minister (z ministrem)",
+        "Against the minister (przeciwko ministrowi)",
+        "For the minister (dla ministra)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Według + genitive' = according to. 'Ministra' = genitive of 'minister'. Standard journalistic attribution.",
+      "explanation_fa": "'Według + مضاف‌الیه' = طبق. 'Ministra' = مضاف‌الیه 'minister'. انتساب استاندارد روزنامه‌نگاری."
+    },
+    {
+      "id": "b1-ch18-rev-q06",
+      "type": "fill_blank",
+      "prompt": "After the announcement of results: 'Po ___ wyników, prezes przemówił.' (verbal noun from 'ogłosić'):",
+      "prompt_fa": "بعد از اعلام نتایج: 'Po ___ wyników, prezes przemówił.' (اسم فعلی از 'ogłosić'):",
+      "answer": "ogłoszeniu",
+      "acceptableAnswers": ["ogłoszeniu"],
+      "hint": "ogłosić → ogłoszenie (verbal noun) → after 'po': ogłoszeniu (locative)",
+      "explanation": "'Po ogłoszeniu wyników' — after the announcement of results. Ogłoszenie (n.) → locative: ogłoszeniu.",
+      "explanation_fa": "'Po ogłoszeniu wyników' — بعد از اعلام نتایج. Ogłoszenie (خنثی) → مکانی: ogłoszeniu."
+    },
+    {
+      "id": "b1-ch18-rev-q07",
+      "type": "multiple_choice",
+      "prompt": "The fixed phrase 'wejść w życie' means:",
+      "prompt_fa": "عبارت ثابت 'wejść w życie' به معنای:",
+      "options": [
+        "To come into force/effect (for laws/regulations)",
+        "To enter life (literal meaning)",
+        "To begin living somewhere",
+        "To become alive"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wejść w życie' = to come into force/effect. Used for laws, regulations, agreements. 'Przepisy weszły w życie.' = The regulations came into force.",
+      "explanation_fa": "'Wejść w życie' = اجرایی شدن/لازم‌الاجرا شدن. برای قوانین، مقررات، توافق‌ها. 'Przepisy weszły w życie.' = مقررات اجرایی شدند."
+    },
+    {
+      "id": "b1-ch18-rev-q08",
+      "type": "multiple_choice",
+      "prompt": "What connector signals contrast in media text?",
+      "prompt_fa": "کدام کانکتور تضاد را در متن رسانه‌ای نشان می‌دهد؟",
+      "options": ["jednak (however)", "ponadto (furthermore)", "w związku z tym (in connection with this)", "mianowicie (namely)"],
+      "correctIndex": 0,
+      "explanation": "'Jednak' = however — signals a contrast or contrary view. 'Ponadto' = furthermore (addition, not contrast).",
+      "explanation_fa": "'Jednak' = اما/ولی — تضاد یا دیدگاه مخالف را نشان می‌دهد. 'Ponadto' = علاوه بر این (اضافه، نه تضاد)."
+    },
+    {
+      "id": "b1-ch18-rev-q09",
+      "type": "multiple_choice",
+      "prompt": "'Stwierdzono poważne naruszenia.' — What type of construction is this?",
+      "prompt_fa": "'Stwierdzono poważne naruszenia.' — این چه نوع ساختاری است؟",
+      "options": [
+        "Impersonal -no passive (it was found/stated)",
+        "Active past tense (they found)",
+        "Present tense (it is found)",
+        "Future tense (it will be found)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Stwierdzono' = impersonal -no passive of 'stwierdzić' (to state/find). Serious violations were found. No subject — who found it is not stated.",
+      "explanation_fa": "'Stwierdzono' = منفعل غیرشخصی -no از 'stwierdzić' (بیان کردن/یافتن). نقض‌های جدی یافت شد. بدون فاعل — چه کسی آن را یافت مشخص نیست."
+    },
+    {
+      "id": "b1-ch18-rev-q10",
+      "type": "fill_blank",
+      "prompt": "Nominalize for a headline: 'Prices fell' → '___ cen' (root noun from 'spaść'):",
+      "prompt_fa": "برای تیتر اسمی کنید: 'قیمت‌ها افتادند' → '___ cen' (اسم ریشه از 'spaść'):",
+      "answer": "Spadek",
+      "acceptableAnswers": ["Spadek", "spadek"],
+      "hint": "spaść → spadek (fall, drop — root noun)",
+      "explanation": "'Spadek cen' = Fall in prices. Nominalized from 'ceny spadły' (prices fell). 'Spadek' = action noun from 'spaść'.",
+      "explanation_fa": "'Spadek cen' = افت قیمت‌ها. اسمی‌شده از 'ceny spadły' (قیمت‌ها افتادند). 'Spadek' = اسم عمل از 'spaść'."
+    },
+    {
+      "id": "b1-ch18-rev-q11",
+      "type": "multiple_choice",
+      "prompt": "In a news lead, which aspect is used for the main news event?",
+      "prompt_fa": "در لید خبری، کدام جنبه برای رویداد خبری اصلی استفاده می‌شود؟",
+      "options": [
+        "Perfective (single completed event: ogłosił, podpisano, wybuchł)",
+        "Imperfective (ongoing background: rosły, trwało)",
+        "Present tense (describing current state)",
+        "Future tense (predictions)"
+      ],
+      "correctIndex": 0,
+      "explanation": "News events are perfective: they happened once, completely. Background/context uses imperfective. 'Rząd ogłosił' (perf) vs. 'sytuacja była trudna' (imperf background).",
+      "explanation_fa": "رویدادهای خبری کامل هستند: یک‌بار، به طور کامل اتفاق افتادند. پس‌زمینه/زمینه از ناکامل استفاده می‌کند. 'Rząd ogłosił' (کامل) در مقابل 'sytuacja była trudna' (ناکامل پس‌زمینه)."
+    },
+    {
+      "id": "b1-ch18-rev-q12",
+      "type": "multiple_choice",
+      "prompt": "What does the headline 'Rekordowe wyniki spółki w trzecim kwartale' mean?",
+      "prompt_fa": "تیتر 'Rekordowe wyniki spółki w trzecim kwartale' چه معنایی دارد؟",
+      "options": [
+        "Record results of the company in the third quarter",
+        "Recording the results of the company quarterly",
+        "The record company results in three quarters",
+        "Record results from the third quarterly company"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Rekordowe wyniki' = record results (adj + noun). 'Spółki' = genitive of 'spółka' (company). 'W trzecim kwartale' = in the third quarter.",
+      "explanation_fa": "'Rekordowe wyniki' = نتایج رکوردی (صفت + اسم). 'Spółki' = مضاف‌الیه 'spółka' (شرکت). 'W trzecim kwartale' = در سه‌ماهه سوم."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 8,
+  "tags": ["media-language", "headlines", "impersonal", "b1-core"],
+  "prerequisites": ["b1-ch18-l01", "b1-ch18-l02", "b1-ch18-l03", "b1-ch18-l04"]
+}

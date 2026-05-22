@@ -8,21 +8,23 @@
   "grammarPoint": "Preposition-case pairings: do/z/bez/dla/od + genitive; w/na + locative (location) vs accusative (direction); z/przed/za/między + instrumental",
   "grammarPoint_fa": "مرور جامع: کدام حرف اضافه با کدام حالت دستوری می‌آید",
   "explanation": {
-    "text": "A systematic review of which prepositions take which cases.\n\n**Prepositions + GENITIVE:**\n\n| Preposition | Meaning | Example |\n|------------|---------|--------|\n| **do** | to/into (destination) | Idę do sklepu. |\n| **z** | from (origin) | Jestem z Polski. |\n| **bez** | without | Kawa bez mleka. |\n| **dla** | for (recipient) | Prezent dla mamy. |\n| **od** | from (person/time) | Od rana. Od Anny. |\n| **po** | after (time) | Po pracy. |\n| **koło** | near/around | Mieszkam koło parku. |\n\n**Prepositions + LOCATIVE:**\n\n| Preposition | Meaning | Example |\n|------------|---------|--------|\n| **w** | in (location) | Mieszkam w Warszawie. |\n| **na** | on/at (location) | Na stole. |\n| **przy** | next to | Siedzę przy oknie. |\n\n**Prepositions + ACCUSATIVE (direction):**\n\n| Preposition | Meaning | Example |\n|------------|---------|--------|\n| **w** | into | Wchodzę w las. |\n| **na** | onto/to | Jadę na wakacje. |\n| **przez** | through/across | Przechodzę przez park. |\n\n**Prepositions + INSTRUMENTAL:**\n\n| Preposition | Meaning | Example |\n|------------|---------|--------|\n| **z** | with | Kawa z mlekiem. |\n| **przed** | in front of | Przed domem. |\n| **za** | behind | Za domem. |\n| **między** | between | Między blokami. |\n| **nad** | above/over (lake) | Nad morzem. |",
+    "text": "A systematic review of which prepositions take which cases.\n\n**Prepositions + GENITIVE:**\n\n| Preposition | Meaning | Example |\n|------------|---------|--------|\n| **do** | to/into (destination) | Idę do sklepu. |\n| **z** | from (origin) | Jestem z Polski. |\n| **bez** | without | Kawa bez mleka. |\n| **dla** | for (recipient) | Prezent dla mamy. |\n| **od** | from (person/time) | Od rana. Od Anny. |\n| **po** | after (time) | Po pracy. |\n| **koło** | near/around | Mieszkam koło parku. |\n\n**Prepositions + LOCATIVE:**\n\n| Preposition | Meaning | Example |\n|------------|---------|--------|\n| **w** | in (location) | Mieszkam w Warszawie. |\n| **na** | on/at (location) | Na stole. |\n| **przy** | next to | Siedzę przy oknie. |\n\n**Prepositions + ACCUSATIVE (direction):**\n\n| Preposition | Meaning | Example |\n|------------|---------|--------|\n| **w** | into | Wchodzę w las. |\n| **na** | onto/to | Jadę na wakacje. |\n| **przez** | through/across | Przechodzę przez park. |\n| **dla** | for (purpose) | To jest dla ciebie. |\n\n**Prepositions + INSTRUMENTAL:**\n\n| Preposition | Meaning | Example |\n|------------|---------|--------|\n| **z** | with | Kawa z mlekiem. |\n| **przed** | in front of | Przed domem. |\n| **za** | behind | Za domem. |\n| **między** | between | Między blokami. |\n| **nad** | above/over (lake) | Nad morzem. |\n| **pod** | under | Pod stołem. |",
     "notes": [
       "W + locative = in (location). W + accusative = into (direction). Context determines which!",
       "Z + genitive = from. Z + instrumental = with. Two completely different uses.",
       "Do + genitive = to (destination). Idę do sklepu (I'm going to the shop).",
-      "Nad morzem (instrumental) = at the seaside (location). Na morze (accusative) = to the sea (direction)."
+      "Nad morzem (instrumental) = at the seaside (location). Na morze (accusative) = to the sea (direction).",
+      "Między + instrumental = between: między blokami (between the blocks)."
     ]
   },
-  "explanation_fa": "خلاصه حروف اضافه: + مضاف‌الیهی: do، od، z، bez، dla، po (بعد از). + دادی: ku، dzięki. + مفعولی: przez، na (حرکت)، w (زمان). + ابزاری: z، między، przed، za، pod، nad (موقعیت). + مکانی: w، na، o، przy (موقعیت).",
+  "explanation_fa": "خلاصه حروف اضافه: + مضاف‌الیهی: do، od، z، bez، dla، po (بعد از). + دادی: ku، dzięki. + مفعولی: przez، na (حرکت)، w (زمان). + ابزاری: z، między، przed، za، pod، nad (موقعیت). + مکانی: w، na، o، przy (موقعیت). توجه: z هم با مضاف‌الیهی (از) هم با ابزاری (با) می‌آید.",
   "exercises": [
     {
       "id": "a2-ch17-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Mieszkam ___ Krakowie. (I live in Kraków.) [location = w + locative]",
+      "prompt_fa": "من در کراکوف زندگی می‌کنم. [موقعیت = w + مکانی]",
       "options": [
         "w",
         "do",
@@ -30,24 +32,34 @@
         "z"
       ],
       "correctIndex": 0,
-      "explanation": "Location: 'w + locative': w Krakowie (Kraków → locative: Krakowie). 'Do Krakowa' = going to Kraków (destination + genitive)."
+      "explanation": "Location: 'w + locative': w Krakowie (Kraków → locative: Krakowie). 'Do Krakowa' = going to Kraków (destination + genitive).",
+      "explanation_fa": "موقعیت: 'w + مکانی': w Krakowie (Kraków → مکانی: Krakowie). 'Do Krakowa' = رفتن به کراکوف (مقصد + مضاف‌الیهی)."
     },
     {
       "id": "a2-ch17-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Kawa ___ mleka, proszę. (Coffee without milk, please.) [bez + genitive]",
+      "context": "Prepositions with genitive. Complete:",
+      "context_fa": "حروف اضافه با مضاف‌الیهی. کامل کنید:",
+      "sentence": "Kawa ___ mleka, proszę.",
+      "translation": "(Coffee without milk, please.) [bez + genitive]",
+      "translation_fa": "(قهوه بدون شیر، لطفاً.) [bez + مضاف‌الیهی]",
+      "prompt": "Kawa ___ mleka, proszę.",
+      "prompt_fa": "Kawa ___ mleka, proszę.",
       "answer": "bez",
       "acceptableAnswers": [
         "bez"
       ],
-      "hint": "Without = bez + genitive: mleko → mleka"
+      "hint": "Without = bez + genitive: mleko → mleka",
+      "explanation": "'Bez + genitive' = without: bez mleka (mleko → genitive: mleka). Contrast: 'z mlekiem' = with milk (z + instrumental).",
+      "explanation_fa": "bez + مضاف‌الیهی = بدون: bez mleka (mleko → مضاف‌الیهی: mleka). مقایسه: z mlekiem = با شیر (z + ابزاری)."
     },
     {
       "id": "a2-ch17-l02-ex03",
       "type": "multiple_choice",
       "order": 3,
       "prompt": "Jadę ___ wakacje nad morze. (I'm going on holiday to the seaside.) [na + accusative — direction]",
+      "prompt_fa": "دارم برای تعطیلات به ساحل می‌روم. [na + مفعولی — جهت]",
       "options": [
         "na",
         "w",
@@ -55,27 +67,31 @@
         "przy"
       ],
       "correctIndex": 0,
-      "explanation": "'Na wakacje' = on holiday (na + accusative). 'Nad morze' = to the sea (nad + accusative of direction). Location: 'nad morzem' (instrumental)."
+      "explanation": "'Na wakacje' = on holiday (na + accusative). 'Nad morze' = to the sea (nad + accusative of direction). Location: 'nad morzem' (instrumental).",
+      "explanation_fa": "na wakacje = برای تعطیلات (na + مفعولی). nad morze = به دریا (nad + مفعولی، جهت). موقعیت: nad morzem (ابزاری)."
     },
     {
       "id": "a2-ch17-l02-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Prezent jest ___ stole. (The present is on the table.) [na + locative — location]",
+      "prompt_fa": "هدیه روی میز است. [na + مکانی — موقعیت]",
       "options": [
         "na",
         "w",
         "do",
-        "na stole"
+        "pod"
       ],
       "correctIndex": 0,
-      "explanation": "Location on a surface: 'na + locative'. 'Na stole' = on the table (stół → locative: stole). The full answer 'na stole' is the phrase, but the preposition alone is 'na'."
+      "explanation": "Location on a surface: 'na + locative'. 'Na stole' = on the table (stół → locative: stole). 'Na' + locative for surface location.",
+      "explanation_fa": "موقعیت روی سطح: na + مکانی. na stole = روی میز (stół → مکانی: stole). na + مکانی برای موقعیت روی سطح."
     },
     {
       "id": "a2-ch17-l02-ex05",
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Herbata ___ cukrem i cytryną. (Tea with sugar and lemon.) [z + instrumental]",
+      "prompt_fa": "چای با شکر و لیمو. [z + ابزاری]",
       "options": [
         "z",
         "bez",
@@ -83,7 +99,99 @@
         "od"
       ],
       "correctIndex": 0,
-      "explanation": "'Z + instrumental' = with: z cukrem i cytryną (cukier → cukrem, cytryna → cytryną). Contrast: 'z Polski' = from Poland (z + genitive, different meaning)."
+      "explanation": "'Z + instrumental' = with: z cukrem i cytryną (cukier → cukrem, cytryna → cytryną). Contrast: 'z Polski' = from Poland (z + genitive, different meaning).",
+      "explanation_fa": "z + ابزاری = با: z cukrem i cytryną (cukier → cukrem، cytryna → cytryną). مقایسه: z Polski = از لهستان (z + مضاف‌الیهی، معنای متفاوت)."
+    },
+    {
+      "id": "a2-ch17-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Ania lives between the park and the river. Ania mieszka ___ parkiem a rzeką. [między + instrumental]",
+      "prompt_fa": "آنیا بین پارک و رودخانه زندگی می‌کند. [między + ابزاری]",
+      "options": [
+        "między",
+        "przez",
+        "koło",
+        "pod"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Między + instrumental' = between. 'Między parkiem a rzeką' — park → instrumental: parkiem; rzeka → rzeką. Note the conjunction 'a' (and) in this structure.",
+      "explanation_fa": "między + ابزاری = بین. między parkiem a rzeką — park → ابزاری: parkiem؛ rzeka → rzeką. توجه: حرف ربط a (و) در این ساختار."
+    },
+    {
+      "id": "a2-ch17-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Prepositions with instrumental. Complete:",
+      "context_fa": "حروف اضافه با ابزاری. کامل کنید:",
+      "sentence": "Tomek stoi ___ drzwiami.",
+      "translation": "(Tomek is standing in front of the door.) [przed + instrumental]",
+      "translation_fa": "(توْمک جلوی در ایستاده.) [przed + ابزاری]",
+      "prompt": "Tomek stoi ___ drzwiami.",
+      "prompt_fa": "Tomek stoi ___ drzwiami.",
+      "answer": "przed",
+      "acceptableAnswers": [
+        "przed"
+      ],
+      "hint": "In front of = przed + instrumental: drzwi → drzwiami",
+      "explanation": "'Przed + instrumental' = in front of. 'Stać przed' = to stand in front of. 'Drzwi' → instrumental: drzwiami. Contrast: za drzwiami = behind the door.",
+      "explanation_fa": "przed + ابزاری = جلوی. stać przed = جلوی چیزی ایستادن. drzwi → ابزاری: drzwiami. مقایسه: za drzwiami = پشت در."
+    },
+    {
+      "id": "a2-ch17-l02-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch17/a2-ch17-l02-ex08.mp3",
+      "options": [
+        "Kot śpi pod stołem.",
+        "Kot śpi na stole.",
+        "Kot śpi przy stole.",
+        "Kot śpi za stołem."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Kot śpi pod stołem.' — The cat is sleeping under the table. 'Pod + instrumental' = under. 'Stół' → instrumental: stołem.",
+      "explanation_fa": "شنیدید: 'Kot śpi pod stołem.' — گربه زیر میز می‌خوابد. pod + ابزاری = زیر. stół → ابزاری: stołem."
+    },
+    {
+      "id": "a2-ch17-l02-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: Marek drove from Warsaw to Kraków. (z + gen, do + gen)",
+      "prompt_fa": "بسازید: ماْرک از ورشو به کراکوف رانندگی کرد. (z + مضاف‌الیهی، do + مضاف‌الیهی)",
+      "wordBank": [
+        "Marek",
+        "pojechał",
+        "z",
+        "do",
+        "Warszawy",
+        "Krakowa",
+        "Kraków",
+        "Warszawa",
+        "."
+      ],
+      "correctSequences": [
+        ["Marek", "pojechał", "z", "Warszawy", "do", "Krakowa", "."]
+      ],
+      "explanation": "'Marek pojechał z Warszawy do Krakowa.' — Marek drove from Warsaw to Kraków. 'Z + genitive' = from: Warszawa → Warszawy. 'Do + genitive' = to: Kraków → Krakowa.",
+      "explanation_fa": "Marek pojechał z Warszawy do Krakowa. — ماْرک از ورشو به کراکوف رانندگی کرد. z + مضاف‌الیهی = از: Warszawa → Warszawy. do + مضاف‌الیهی = به: Kraków → Krakowa."
+    },
+    {
+      "id": "a2-ch17-l02-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "To jest prezent ___ Kasi. (This is a present for Kasia.) [dla + genitive]",
+      "prompt_fa": "این هدیه‌ای برای کاسیا است. [dla + مضاف‌الیهی]",
+      "options": [
+        "dla",
+        "od",
+        "do",
+        "z"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Dla + genitive' = for (recipient). 'Dla Kasi' = for Kasia (Kasia → genitive: Kasi). Contrast: 'od Kasi' = from Kasia (od + genitive = from a person).",
+      "explanation_fa": "dla + مضاف‌الیهی = برای (گیرنده). dla Kasi = برای کاسیا (Kasia → مضاف‌الیهی: Kasi). مقایسه: od Kasi = از کاسیا (od + مضاف‌الیهی = از شخص)."
     }
   ],
   "xpReward": 20,

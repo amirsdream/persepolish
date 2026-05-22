@@ -12,7 +12,8 @@
       "type": "multiple_choice",
       "order": 1,
       "sourceLesson": "a1-ch06-l01",
-      "prompt": "Jestem ___ (at home). [dom → locative]",
+      "prompt": "Kasia finishes work and says where she is now. Complete: Jestem ___ (at home). [dom → locative]",
+      "prompt_fa": "کاسیا کارش تمام می‌شود و می‌گوید الان کجاست. کامل کنید: Jestem ___ (خانه هستم). [dom → مکانی]",
       "options": [
         "w domu",
         "w dom",
@@ -20,14 +21,16 @@
         "z domu"
       ],
       "correctIndex": 0,
-      "explanation": "'Dom' → locative 'domu'. Position = 'w + locative': w domu = at home."
+      "explanation": "'Dom' → locative 'domu'. Position = 'w + locative': w domu = at home. (Not 'do domu' which means 'going home'!)",
+      "explanation_fa": "'Dom' → مکانی 'domu'. موقعیت = 'w + مکانی': w domu = خانه هستم. (نه 'do domu' که یعنی 'دارم به خانه می‌روم'!)"
     },
     {
       "id": "a1-ch06-rev-q02",
       "type": "multiple_choice",
       "order": 2,
       "sourceLesson": "a1-ch06-l01",
-      "prompt": "Pracuje ___ Polsce. (She works in Poland.) [Polska → locative]",
+      "prompt": "Tomek's colleague works in Poland. Complete: Pracuje ___ Polsce. (She works in Poland.)",
+      "prompt_fa": "همکار تامک در لهستان کار می‌کند. کامل کنید: Pracuje ___ Polsce. (او در لهستان کار می‌کند.)",
       "options": [
         "w",
         "do",
@@ -35,14 +38,16 @@
         "na"
       ],
       "correctIndex": 0,
-      "explanation": "Countries use 'w + locative': w Polsce = in Poland. 'Polska' → locative 'Polsce'."
+      "explanation": "Countries use 'w + locative': w Polsce = in Poland. 'Polska' → locative 'Polsce'. Use 'w' for countries and enclosed spaces.",
+      "explanation_fa": "کشورها از 'w + مکانی' استفاده می‌کنند: w Polsce = در لهستان. 'Polska' → مکانی 'Polsce'. از 'w' برای کشورها و فضاهای محصور استفاده کنید."
     },
     {
       "id": "a1-ch06-rev-q03",
       "type": "multiple_choice",
       "order": 3,
       "sourceLesson": "a1-ch06-l02",
-      "prompt": "Mieszkam w ___ mieszkaniu. (I live in a small flat.) [mały → n locative]",
+      "prompt": "Ania lives in a small flat. Complete: Mieszkam w ___ mieszkaniu. [mały → n locative]",
+      "prompt_fa": "آنیا در یک آپارتمان کوچک زندگی می‌کند. کامل کنید: Mieszkam w ___ mieszkaniu. [mały → مکانی خنثی]",
       "options": [
         "małym",
         "małej",
@@ -50,14 +55,16 @@
         "małe"
       ],
       "correctIndex": 0,
-      "explanation": "'Mieszkanie' is neuter; adjective locative for m/n = -ym: 'małym mieszkaniu'."
+      "explanation": "'Mieszkanie' is neuter; adjective locative for m/n = -ym: 'małym mieszkaniu'. Neuter and masculine share the same adjective ending.",
+      "explanation_fa": "'Mieszkanie' خنثی است؛ صفت مکانی برای م/خ = -ym: 'małym mieszkaniu'. خنثی و مذکر پسوند صفت یکسانی دارند."
     },
     {
       "id": "a1-ch06-rev-q04",
       "type": "multiple_choice",
       "order": 4,
       "sourceLesson": "a1-ch06-l02",
-      "prompt": "Ona pracuje w ___ firmie. (She works in a big company.) [duży → f locative]",
+      "prompt": "Marek's mother runs a big company. Complete: Ona pracuje w ___ firmie. [duży → f locative]",
+      "prompt_fa": "مادر ماریک یک شرکت بزرگ اداره می‌کند. کامل کنید: Ona pracuje w ___ firmie. [duży → مکانی مؤنث]",
       "options": [
         "dużej",
         "dużym",
@@ -65,7 +72,8 @@
         "dużą"
       ],
       "correctIndex": 0,
-      "explanation": "'Firma' is feminine; adjective locative for feminine = -ej: 'dużej firmie'."
+      "explanation": "'Firma' is feminine; adjective locative for feminine = -ej: 'dużej firmie'. Feminine always takes -ej in locative.",
+      "explanation_fa": "'Firma' مؤنث است؛ صفت مکانی برای مؤنث = -ej: 'dużej firmie'. مؤنث همیشه -ej در مکانی می‌گیرد."
     },
     {
       "id": "a1-ch06-rev-q05",
@@ -73,6 +81,7 @@
       "order": 5,
       "sourceVocab": "a1-ch06-vocab",
       "prompt": "What does 'blisko' mean?",
+      "prompt_fa": "'blisko' چه معنایی دارد؟",
       "options": [
         "far",
         "near",
@@ -80,14 +89,16 @@
         "opposite"
       ],
       "correctIndex": 1,
-      "explanation": "'Blisko' = near/close. Antonym: 'daleko' = far."
+      "explanation": "'Blisko' = near/close (adverb). Antonym: 'daleko' = far. 'Bank jest blisko' = The bank is nearby.",
+      "explanation_fa": "'Blisko' = نزدیک (قید). متضاد: 'daleko' = دور. 'Bank jest blisko' = بانک نزدیک است."
     },
     {
       "id": "a1-ch06-rev-q06",
       "type": "multiple_choice",
       "order": 6,
       "sourceLesson": "a1-ch06-l03",
-      "prompt": "Idę ___ sklepu. (I'm going from the shop.) [movement away]",
+      "prompt": "Kasia just left the shop. Complete: Idę ___ sklepu. (I'm going from the shop.)",
+      "prompt_fa": "کاسیا تازه از مغازه بیرون آمد. کامل کنید: Idę ___ sklepu. (دارم از مغازه می‌روم.)",
       "options": [
         "ze",
         "w",
@@ -95,14 +106,16 @@
         "na"
       ],
       "correctIndex": 0,
-      "explanation": "'Ze/z + genitive' = from. 'Ze sklepu' = from the shop. (Ze used before sklep's consonant cluster)."
+      "explanation": "'Ze/z + genitive' = from. 'Ze sklepu' = from the shop. ('Ze' used before the consonant cluster sk-). Movement away uses z/ze.",
+      "explanation_fa": "'Ze/z + مضاف‌الیهی' = از. 'Ze sklepu' = از مغازه. ('Ze' قبل از خوشه صامت sk- استفاده می‌شود). حرکت به دور با z/ze استفاده می‌کند."
     },
     {
       "id": "a1-ch06-rev-q07",
       "type": "multiple_choice",
       "order": 7,
       "sourceLesson": "a1-ch06-l03",
-      "prompt": "Książka leży ___ stole. (The book is lying on the table.) [position]",
+      "prompt": "Tomek's phone is on the table. Complete: Książka leży ___ stole. (The book is lying on the table.)",
+      "prompt_fa": "گوشی تامک روی میز است. کامل کنید: Książka leży ___ stole. (کتاب روی میز است.)",
       "options": [
         "na",
         "w",
@@ -110,14 +123,16 @@
         "za"
       ],
       "correctIndex": 0,
-      "explanation": "'Na + locative' for position on a surface: 'na stole' = on the table."
+      "explanation": "'Na + locative' for position on a surface: 'na stole' = on the table. 'Stół' → locative 'stole'.",
+      "explanation_fa": "'Na + مکانی' برای موقعیت روی یک سطح: 'na stole' = روی میز. 'Stół' → مکانی 'stole'."
     },
     {
       "id": "a1-ch06-rev-q08",
       "type": "multiple_choice",
       "order": 8,
       "sourceLesson": "a1-ch06-l04",
-      "prompt": "Mieszkamy w ___ (in cities). [miasto → locative plural]",
+      "prompt": "Ania and her friends live in various cities. Complete: Mieszkamy w ___ (in cities). [miasto → locative plural]",
+      "prompt_fa": "آنیا و دوستانش در شهرهای مختلف زندگی می‌کنند. کامل کنید: Mieszkamy w ___ (در شهرها). [miasto → مکانی جمع]",
       "options": [
         "miastach",
         "miastę",
@@ -125,7 +140,8 @@
         "miasta"
       ],
       "correctIndex": 0,
-      "explanation": "Locative plural: all nouns take -ach. 'Miasto' → 'miastach'. 'W miastach' = in cities."
+      "explanation": "Locative plural: all nouns take -ach. 'Miasto' → 'miastach'. 'W miastach' = in cities. The -ach ending is unique to locative plural.",
+      "explanation_fa": "مکانی جمع: همه اسم‌ها -ach می‌گیرند. 'Miasto' → 'miastach'. 'W miastach' = در شهرها. پسوند -ach منحصر به مکانی جمع است."
     },
     {
       "id": "a1-ch06-rev-q09",
@@ -133,6 +149,7 @@
       "order": 9,
       "sourceVocab": "a1-ch06-vocab",
       "prompt": "What does 'rynek' mean?",
+      "prompt_fa": "'rynek' چه معنایی دارد؟",
       "options": [
         "park",
         "market square / town square",
@@ -140,14 +157,16 @@
         "post office"
       ],
       "correctIndex": 1,
-      "explanation": "'Rynek' = market square / town square. 'Na rynku' = in/at the market square (locative)."
+      "explanation": "'Rynek' = market square / town square (the central square of a Polish town). 'Na rynku' = in/at the market square (locative).",
+      "explanation_fa": "'Rynek' = میدان اصلی شهر (میدان مرکزی یک شهر لهستانی). 'Na rynku' = در میدان اصلی (مکانی)."
     },
     {
       "id": "a1-ch06-rev-q10",
       "type": "multiple_choice",
       "order": 10,
       "sourceLesson": "a1-ch06-l04",
-      "prompt": "Pracuję w ___ sklepach. (I work in big shops.) [duży → adj loc pl]",
+      "prompt": "Marek works in large shops. Complete: Pracuję w ___ sklepach. [duży → adj loc pl]",
+      "prompt_fa": "ماریک در مغازه‌های بزرگ کار می‌کند. کامل کنید: Pracuję w ___ sklepach. [duży → صفت مکانی جمع]",
       "options": [
         "dużych",
         "dużej",
@@ -155,7 +174,8 @@
         "duże"
       ],
       "correctIndex": 0,
-      "explanation": "Adjective locative plural = -ych (hard stems): 'dużych'. 'W dużych sklepach' = in big shops."
+      "explanation": "Adjective locative plural = -ych (hard stems): 'dużych'. 'W dużych sklepach' = in big shops. All genders use -ych/-ich in adj locative plural.",
+      "explanation_fa": "صفت مکانی جمع = -ych (ریشه سخت): 'dużych'. 'W dużych sklepach' = در مغازه‌های بزرگ. همه جنسیت‌ها در صفت مکانی جمع -ych/-ich استفاده می‌کنند."
     },
     {
       "id": "a1-ch06-rev-q11",
@@ -163,6 +183,7 @@
       "order": 11,
       "sourceVocab": "a1-ch06-vocab",
       "prompt": "What does 'obok' mean?",
+      "prompt_fa": "'obok' چه معنایی دارد؟",
       "options": [
         "opposite",
         "behind",
@@ -170,14 +191,16 @@
         "in front of"
       ],
       "correctIndex": 2,
-      "explanation": "'Obok' = next to / beside (+ genitive). 'Bank jest obok poczty' = The bank is next to the post office."
+      "explanation": "'Obok' = next to / beside (+ genitive). 'Bank jest obok poczty' = The bank is next to the post office.",
+      "explanation_fa": "'Obok' = کنار / بجنب (+ مضاف‌الیهی). 'Bank jest obok poczty' = بانک کنار اداره پست است."
     },
     {
       "id": "a1-ch06-rev-q12",
       "type": "multiple_choice",
       "order": 12,
       "sourceLesson": "a1-ch06-l01",
-      "prompt": "Dzieci bawią się ___ ulicy. (Children play in the streets.) [ulica → loc pl]",
+      "prompt": "Children play in the streets every day. Complete: Dzieci bawią się ___ ulicy. [ulica → loc pl]",
+      "prompt_fa": "بچه‌ها هر روز در خیابان‌ها بازی می‌کنند. کامل کنید: Dzieci bawią się ___ ulicy. [ulica → مکانی جمع]",
       "options": [
         "na ulicach",
         "na ulicy",
@@ -185,7 +208,8 @@
         "przy ulicach"
       ],
       "correctIndex": 0,
-      "explanation": "'Ulica' → locative plural 'ulicach'. 'Na ulicach' = on/in the streets. Streets use 'na' not 'w'."
+      "explanation": "'Ulica' → locative plural 'ulicach'. 'Na ulicach' = on/in the streets (plural). Streets use 'na' not 'w', and plural location needs -ach.",
+      "explanation_fa": "'Ulica' → مکانی جمع 'ulicach'. 'Na ulicach' = در خیابان‌ها (جمع). خیابان‌ها از 'na' استفاده می‌کنند نه 'w'، و موقعیت جمع به -ach نیاز دارد."
     }
   ]
 }

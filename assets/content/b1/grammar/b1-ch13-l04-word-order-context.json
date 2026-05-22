@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch13-l04-word-order-context",
+  "chapter": 13,
+  "lessonOrder": 4,
+  "level": "b1",
+  "title": "Natural Word Order in Connected Discourse",
+  "title_fa": "ترتیب کلمات طبیعی در گفتمان پیوسته",
+  "grammarPoint": "How word order creates coherence in paragraphs: theme-rheme chains, given-new linking",
+  "grammarPoint_fa": "چگونه ترتیب کلمات انسجام در پاراگراف‌ها ایجاد می‌کند: زنجیره‌های تم-رم، پیوند داده-جدید",
+  "explanation": {
+    "text": "In connected text (paragraphs, stories, conversations), Polish word order creates **coherence** through consistent given-new (theme-rheme) chaining:\n\n**How connected discourse works:**\n\n*Sentence 1:* Wczoraj spotkałem **pewną kobietę**. (Yesterday I met a certain woman. — 'woman' = NEW)\n*Sentence 2:* **Ta kobieta** pracuje jako lekarz. (This woman works as a doctor. — 'this woman' = NOW KNOWN, goes first)\n*Sentence 3:* **Lekarz** ten specjalizuje się w kardiologii. (This doctor specializes in cardiology. — 'doctor' = now known)\n\nEach sentence's comment (new info) becomes the next sentence's topic (known info).\n\n**Connecting with pronouns:**\nOnce a person/thing is introduced, use a pronoun — it naturally goes toward the front:\n- Widziałem Marka. **On** mi powiedział... (I saw Marek. He told me...)\n- Kupiłem nowy telefon. **Kosztował** dużo. (I bought a new phone. It cost a lot.)\n\n**Word order signals:**\n- Sentence-initial position → known/given\n- Sentence-final position → new/important\n- Verb immediately after subject → neutral/habitual\n- Fronted object → known object being commented on\n\n**Practical dialogue coherence:**\n- A: Gdzie jest Tomek?\n- B: **Tomek** jest w kuchni. (Tomek = already known → front; location = new → end)\n- A: Co on robi?\n- B: **Gotuje** obiad. (He is cooking dinner. — subject pronoun dropped; 'gotuje' leads as verb.)",
+    "notes": [
+      "Each sentence's new info becomes the next sentence's topic",
+      "Pronouns for known people → naturally move to front/early position",
+      "In dialogue, the question establishes what's known; the answer provides what's new",
+      "Subject pronoun (on/ona/ono/oni) can be dropped when context is clear"
+    ]
+  },
+  "explanation_fa": "در متن پیوسته، ترتیب کلمات زنجیره‌های داده-جدید (موضوع-توضیح) می‌سازد: اطلاعات جدید یک جمله موضوع شناخته‌شده جمله بعدی می‌شود. پس از معرفی شخص/چیزی، از ضمیر استفاده می‌شود که به‌طور طبیعی به اول جمله می‌رود. در گفتگو، سؤال مشخص می‌کند چه چیزی شناخته‌شده است؛ پاسخ اطلاعات جدید را فراهم می‌کند.",
+  "exercises": [
+    {
+      "id": "b1-ch13-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "After 'Kupiłam nową książkę' (I bought a new book), which continuation has the best word order?",
+      "prompt_fa": "بعد از 'Kupiłam nową książkę' کدام ادامه بهترین ترتیب کلمات را دارد؟",
+      "options": [
+        "Ta książka jest bardzo ciekawa.",
+        "Jest bardzo ciekawa ta książka.",
+        "Bardzo ciekawa jest ta książka.",
+        "Ta książka bardzo ciekawa jest."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ta książka' (this book = now known) goes FIRST as topic; 'jest bardzo ciekawa' (is very interesting = new information) goes last as comment.",
+      "explanation_fa": "'Ta książka' (این کتاب = اکنون شناخته) اول به‌عنوان موضوع می‌آید؛ 'jest bardzo ciekawa' (بسیار جالب است = اطلاعات جدید) آخر به‌عنوان توضیح."
+    },
+    {
+      "id": "b1-ch13-l04-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "In dialogue: A asks 'Gdzie mieszka Kasia?' Complete B's answer with best word order:",
+      "context_fa": "در گفتگو: الف می‌پرسد 'Gdzie mieszka Kasia؟' پاسخ ب را با بهترین ترتیب کلمات کامل کنید:",
+      "sentence": "Kasia mieszka ___.",
+      "prompt": "Kasia mieszka ___.",
+      "prompt_fa": "Kasia mieszka ___.",
+      "answer": "w Krakowie",
+      "acceptableAnswers": ["w Krakowie", "na Mokotowie", "w centrum"],
+      "hint": "Kasia (known) goes first; location (new answer) goes last",
+      "explanation": "'Kasia mieszka w Krakowie.' — Kasia (known from question) is topic first; location (new info = answer) comes last.",
+      "explanation_fa": "'Kasia mieszka w Krakowie.' — Kasia (از سؤال شناخته) اول به‌عنوان موضوع؛ مکان (اطلاعات جدید = پاسخ) آخر."
+    },
+    {
+      "id": "b1-ch13-l04-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch13/b1-ch13-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Ten film widziałem już dwa razy.",
+        "Widziałem ten film już dwa razy.",
+        "Już dwa razy widziałem ten film.",
+        "Ten film już widziałem dwa razy."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ten film widziałem już dwa razy.' — This film (known topic) is fronted; 'już dwa razy' (new info: how many times) comes at the end.",
+      "explanation_fa": "'Ten film widziałem już dwa razy.' — این فیلم (موضوع شناخته) پیش آمده؛ 'już dwa razy' (اطلاعات جدید: چند بار) در آخر می‌آید."
+    },
+    {
+      "id": "b1-ch13-l04-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build a coherent follow-up to 'Kupiłem nowy rower.' — comment on its price being high (new info last).",
+      "prompt_fa": "ادامه منسجمی برای 'Kupiłem nowy rower.' بسازید — درباره گران بودن آن اظهار نظر کنید (اطلاعات جدید آخر).",
+      "wordBank": ["Ten", "rower", "kosztował", "dużo", "Dużo", "kosztował"],
+      "correctSequences": [["Ten", "rower", "kosztował", "dużo"]],
+      "explanation": "'Ten rower kosztował dużo.' — This bike (known = topic first) cost a lot (new info = last). Coherent follow-up.",
+      "explanation_fa": "'Ten rower kosztował dużo.' — این دوچرخه (شناخته = موضوع اول) هزینه زیادی داشت (اطلاعات جدید = آخر). ادامه منسجم."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["word-order", "discourse", "coherence", "b1-core"],
+  "prerequisites": ["b1-ch13-l01", "b1-ch13-l02", "b1-ch13-l03"]
+}

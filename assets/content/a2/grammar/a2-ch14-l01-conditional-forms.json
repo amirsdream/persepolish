@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "___ do Włoch, gdybym miał pieniądze. (I (m) would go to Italy if I had money.) [jechać, ja m conditional]",
+      "prompt_fa": "___ اگر پول داشتم به ایتالیا می‌رفتم. (مذکر) [jechać، ja m — وجه شرطی]",
       "options": [
         "Pojechałbym",
         "Pojadę",
@@ -30,23 +31,34 @@
         "Pojechałabym"
       ],
       "correctIndex": 0,
-      "explanation": "'Conditional: jechać → pojechał + bym = pojechałbym (m). 'Pojechałabym' is feminine. 'Gdybym miał' = if I had (conditional clause)."
+      "explanation": "'Conditional: jechać → pojechał + bym = pojechałbym (m). 'Pojechałabym' is feminine. 'Gdybym miał' = if I had (conditional clause).",
+      "explanation_fa": "وجه شرطی: jechać → pojechał + bym = pojechałbym (مذکر). 'Pojechałabym' مؤنث است. 'Gdybym miał' = اگر داشتم (بند شرطی)."
     },
     {
       "id": "a2-ch14-l01-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Ona ___ tam, ale jest zbyt zmęczona. (She would go there, but she's too tired.) [pójść, ona conditional]",
+      "context": "Conditional mood. Complete with the correct form.",
+      "context_fa": "وجه شرطی. شکل درست را بنویسید.",
+      "sentence": "Ona ___ tam, ale jest zbyt zmęczona.",
+      "translation": "(She would go there, but she's too tired.) [pójść, ona — conditional]",
+      "translation_fa": "(او آنجا می‌رفت، اما خیلی خسته است.) [pójść، ona — وجه شرطی]",
+      "prompt": "Ona ___ tam, ale jest zbyt zmęczona.",
+      "prompt_fa": "Ona ___ tam, ale jest zbyt zmęczona.",
       "answer": "poszłaby",
       "acceptableAnswers": [
         "poszłaby"
       ],
-      "hint": "pójść → szła (f l-form) + by = poszłaby"
+      "hint": "pójść → poszła (f l-form) + by = poszłaby",
+      "explanation": "'Pójść' → feminine l-form: poszła + by = poszłaby (she would go). Note: poszła, not szła — pójść is perfective.",
+      "explanation_fa": "'Pójść' → شکل گذشته مؤنث: poszła + by = poszłaby (می‌رفت). توجه: poszła نه szła — pójść کامل است."
     },
     {
       "id": "a2-ch14-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch14/a2-ch14-l01-ex03.mp3",
       "options": [
         "Co byś chciał zjeść?",
@@ -55,13 +67,15 @@
         "Co będziesz chciał zjeść?"
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Co byś chciał zjeść?' — What would you (m) like to eat? 'Byś chciał' = conditional of 'chcieć', ty m. Note: 'by' moved before the l-form."
+      "explanation": "You heard: 'Co byś chciał zjeść?' — What would you (m) like to eat? 'Byś chciał' = conditional of 'chcieć', ty m. Note: 'by' moved before the l-form.",
+      "explanation_fa": "شنیدید: 'Co byś chciał zjeść?' — (مذکر) دوست داری چی بخوری؟ 'Byś chciał' = وجه شرطی 'chcieć'، برای ty m. توجه: 'by' به جلو منتقل شده."
     },
     {
       "id": "a2-ch14-l01-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Which is the correct feminine conditional for 'I (f) would buy that dress'? [kupić]",
+      "prompt_fa": "کدام شکل مؤنث وجه شرطی برای 'من (مؤنث) آن لباس را می‌خریدم' درست است؟ [kupić]",
       "options": [
         "Kupiłabym tę sukienkę.",
         "Kupiłbym tę sukienkę.",
@@ -69,13 +83,15 @@
         "Kupiłam tę sukienkę."
       ],
       "correctIndex": 0,
-      "explanation": "Feminine conditional ja: 'kupiła' (f l-form) + bym = kupiłabym. 'Kupiłbym' is masculine. 'Kupię' = perfective future. 'Kupiłam' = past."
+      "explanation": "Feminine conditional ja: 'kupiła' (f l-form) + bym = kupiłabym. 'Kupiłbym' is masculine. 'Kupię' = perfective future. 'Kupiłam' = past.",
+      "explanation_fa": "وجه شرطی مؤنث ja: 'kupiła' (شکل گذشته مؤنث) + bym = kupiłabym. 'Kupiłbym' مذکر است. 'Kupię' = آینده کامل. 'Kupiłam' = گذشته."
     },
     {
       "id": "a2-ch14-l01-ex05",
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: We (m-pers) would help you, but we don't have time.",
+      "prompt_fa": "بسازید: ما (مذکر جمع) کمکت می‌کردیم، اما وقت نداریم.",
       "wordBank": [
         "Pomoglibyśmy",
         "Pomogłybyśmy",
@@ -83,7 +99,6 @@
         "tobie",
         "ale",
         "nie",
-        "mamy",
         "mamy",
         "czasu",
         "czas"
@@ -98,7 +113,108 @@
           "czasu"
         ]
       ],
-      "explanation": "'Pomoglibyśmy ci, ale nie mamy czasu.' — We (m-pers) would help you, but we don't have time. 'Pomagać → pomóc' → pomoglibyśmy (virile plural conditional). 'Nie mamy czasu' = we don't have time (genitive after negation)."
+      "explanation": "'Pomoglibyśmy ci, ale nie mamy czasu.' — We (m-pers) would help you, but we don't have time. 'Pomagać → pomóc' → pomoglibyśmy (virile plural conditional). 'Nie mamy czasu' = we don't have time (genitive after negation).",
+      "explanation_fa": "'Pomoglibyśmy ci, ale nie mamy czasu.' — ما کمکت می‌کردیم اما وقت نداریم. 'Pomoglibyśmy' = وجه شرطی جمع مذکر. 'Nie mamy czasu' = وقت نداریم (مضاف‌الیه پس از نفی)."
+    },
+    {
+      "id": "a2-ch14-l01-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Tomek ___ to zadanie szybciej, ale nie ma słownika. (Tomek would do this task faster, but he doesn't have a dictionary.) [zrobić, on conditional]",
+      "prompt_fa": "Tomek این تکلیف را سریع‌تر انجام می‌داد، اما دیکشنری ندارد. [zrobić، on — وجه شرطی]",
+      "options": [
+        "zrobiłby",
+        "zrobi",
+        "zrobił",
+        "zrobiłby się"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conditional for 'on': 'zrobił' (m l-form) + by = zrobiłby. 'Zrobi' = perfective future. 'Zrobił' = past.",
+      "explanation_fa": "وجه شرطی برای 'on': 'zrobił' (شکل گذشته مذکر) + by = zrobiłby. 'Zrobi' = آینده کامل. 'Zrobił' = گذشته."
+    },
+    {
+      "id": "a2-ch14-l01-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Conditional mood, feminine plural. Complete with the correct form.",
+      "context_fa": "وجه شرطی، مؤنث جمع. شکل درست را بنویسید.",
+      "sentence": "Kasia i Ania ___ więcej, ale są zbyt zmęczone.",
+      "translation": "(Kasia and Ania would work more, but they are too tired.) [pracować, one — conditional]",
+      "translation_fa": "(Kasia و Ania بیشتر کار می‌کردند، اما خیلی خسته هستند.) [pracować، one — وجه شرطی]",
+      "prompt": "Kasia i Ania ___ więcej, ale są zbyt zmęczone.",
+      "prompt_fa": "Kasia i Ania ___ więcej, ale są zbyt zmęczone.",
+      "answer": "pracowałyby",
+      "acceptableAnswers": [
+        "pracowałyby"
+      ],
+      "hint": "Non-virile plural conditional (one — Kasia and Ania): pracowały + by = pracowałyby",
+      "explanation": "Kasia and Ania = non-virile (one) plural conditional: pracowały (l-form) + by = pracowałyby.",
+      "explanation_fa": "Kasia و Ania = جمع غیر مذکر (one): شکل گذشته pracowały + by = pracowałyby."
+    },
+    {
+      "id": "a2-ch14-l01-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch14/a2-ch14-l01-ex08.mp3",
+      "options": [
+        "Marek pojechałby do Paryża, ale nie ma paszportu.",
+        "Marek pojechał do Paryża, bo miał paszport.",
+        "Marek pojedzie do Paryża, jeśli będzie miał paszport.",
+        "Marek chce pojechać do Paryża z paszportem."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Marek pojechałby do Paryża, ale nie ma paszportu.' — Marek would go to Paris, but he doesn't have a passport. 'Pojechałby' = conditional of 'pojechać', on m.",
+      "explanation_fa": "شنیدید: 'Marek pojechałby do Paryża, ale nie ma paszportu.' — Marek به پاریس می‌رفت اما گذرنامه ندارد. 'Pojechałby' = وجه شرطی 'pojechać'، on m."
+    },
+    {
+      "id": "a2-ch14-l01-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: She (f) would read more, but she doesn't have time.",
+      "prompt_fa": "بسازید: او (مؤنث) بیشتر می‌خواند، اما وقت ندارد.",
+      "wordBank": [
+        "Ona",
+        "czytałaby",
+        "czytałby",
+        "więcej",
+        "ale",
+        "nie",
+        "ma",
+        "mamy",
+        "czasu",
+        "czas"
+      ],
+      "correctSequences": [
+        [
+          "Ona",
+          "czytałaby",
+          "więcej",
+          "ale",
+          "nie",
+          "ma",
+          "czasu"
+        ]
+      ],
+      "explanation": "'Ona czytałaby więcej, ale nie ma czasu.' — She would read more, but she doesn't have time. 'Czytałaby' = feminine conditional (czytała + by). 'Nie ma czasu' = she doesn't have time (genitive).",
+      "explanation_fa": "'Ona czytałaby więcej, ale nie ma czasu.' — او بیشتر می‌خواند اما وقت ندارد. 'Czytałaby' = وجه شرطی مؤنث (czytała + by). 'Nie ma czasu' = وقت ندارد (مضاف‌الیه)."
+    },
+    {
+      "id": "a2-ch14-l01-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Which sentence correctly uses the masculine plural conditional (virile)?",
+      "prompt_fa": "کدام جمله از وجه شرطی مذکر جمع (مردانه) به درستی استفاده می‌کند؟",
+      "options": [
+        "Marek i Tomek pojechaliby tam.",
+        "Marek i Tomek pojechałyby tam.",
+        "Marek i Tomek pojadą tam.",
+        "Marek i Tomek pojechali tam."
+      ],
+      "correctIndex": 0,
+      "explanation": "Virile (male-personal) plural conditional: pojechali + by = pojechaliby. 'Pojechałyby' = non-virile. 'Pojadą' = perfective future. 'Pojechali' = past.",
+      "explanation_fa": "وجه شرطی مذکر جمع (مردانه): pojechali + by = pojechaliby. 'Pojechałyby' = غیر مذکر. 'Pojadą' = آینده کامل. 'Pojechali' = گذشته."
     }
   ],
   "xpReward": 25,

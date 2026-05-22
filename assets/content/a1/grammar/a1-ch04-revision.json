@@ -12,7 +12,8 @@
       "type": "multiple_choice",
       "order": 1,
       "sourceLesson": "a1-ch04-l01",
-      "prompt": "What is 17 in Polish?",
+      "prompt": "Tomek is learning numbers. What is 17 in Polish?",
+      "prompt_fa": "تامک دارد اعداد یاد می‌گیرد. ۱۷ به لهستانی چیست؟",
       "options": [
         "siedemnaście",
         "siedem",
@@ -20,14 +21,16 @@
         "siedemset"
       ],
       "correctIndex": 0,
-      "explanation": "17 = siedemnaście. Pattern: siedem (7) + naście (teen suffix)."
+      "explanation": "17 = siedemnaście. Pattern: siedem (7) + -naście (teen suffix). Don't confuse with siedemdziesiąt (70) or siedemset (700).",
+      "explanation_fa": "۱۷ = siedemnaście. الگو: siedem (۷) + -naście (پسوند نوجوانی). با siedemdziesiąt (۷۰) یا siedemset (۷۰۰) اشتباه نگیرید."
     },
     {
       "id": "a1-ch04-rev-q02",
       "type": "multiple_choice",
       "order": 2,
       "sourceLesson": "a1-ch04-l02",
-      "prompt": "What is 85 in Polish?",
+      "prompt": "Kasia's ticket costs 85 zloty. How does she say the amount?",
+      "prompt_fa": "بلیط کاسیا ۸۵ زلوتی قیمت دارد. مقدار را چطور می‌گوید؟",
       "options": [
         "osiemdziesiąt pięć",
         "pięćdziesiąt osiem",
@@ -35,14 +38,16 @@
         "pięć osiemdziesiąt"
       ],
       "correctIndex": 0,
-      "explanation": "85 = osiemdziesiąt pięć. Tens first: osiemdziesiąt (80) + pięć (5)."
+      "explanation": "85 = osiemdziesiąt pięć. Tens first: osiemdziesiąt (80) + pięć (5). Polish always says tens before units.",
+      "explanation_fa": "۸۵ = osiemdziesiąt pięć. ابتدا دهگان: osiemdziesiąt (۸۰) + pięć (۵). لهستانی همیشه دهگان را قبل از یکی می‌گوید."
     },
     {
       "id": "a1-ch04-rev-q03",
       "type": "multiple_choice",
       "order": 3,
       "sourceLesson": "a1-ch04-l03",
-      "prompt": "Lubię ___ (I like coffee). [kawa → accusative]",
+      "prompt": "Ania is ordering at a café. Complete: Lubię ___ (I like coffee). [kawa → accusative]",
+      "prompt_fa": "آنیا در کافه سفارش می‌دهد. کامل کنید: Lubię ___ (قهوه دوست دارم). [kawa → مفعولی]",
       "options": [
         "kawę",
         "kawa",
@@ -50,14 +55,16 @@
         "kawie"
       ],
       "correctIndex": 0,
-      "explanation": "Lubić + accusative: kawa (feminine -a) → kawę. 'Lubię kawę' = I like coffee."
+      "explanation": "Lubić + accusative: kawa (feminine -a) → kawę. 'Lubię kawę' = I like coffee. Feminine -a becomes -ę in accusative.",
+      "explanation_fa": "lubić + مفعولی: kawa (مؤنث -a) → kawę. 'Lubię kawę' = قهوه دوست دارم. مؤنث -a در مفعولی به -ę تبدیل می‌شود."
     },
     {
       "id": "a1-ch04-rev-q04",
       "type": "multiple_choice",
       "order": 4,
       "sourceLesson": "a1-ch04-l04",
-      "prompt": "Proszę pięć ___ (five apples). [jabłko → genitive plural = jabłek]",
+      "prompt": "Marek is at the market. Complete: Proszę pięć ___ (five apples). [jabłko → genitive plural = jabłek]",
+      "prompt_fa": "ماریک در بازار است. کامل کنید: Proszę pięć ___ (پنج سیب). [jabłko → مضاف‌الیهی جمع = jabłek]",
       "options": [
         "jabłek",
         "jabłka",
@@ -65,7 +72,8 @@
         "jabłkiem"
       ],
       "correctIndex": 0,
-      "explanation": "After 5+, use genitive plural: jabłko → jabłek. 'Proszę pięć jabłek' = Five apples please."
+      "explanation": "After 5+, use genitive plural: jabłko → jabłek. 'Proszę pięć jabłek' = Five apples please. Jabłko (neuter) → jabłek (genitive plural, vowel inserted).",
+      "explanation_fa": "بعد از ۵+، از مضاف‌الیهی جمع استفاده کنید: jabłko → jabłek. 'Proszę pięć jabłek' = پنج سیب لطفاً. jabłko (خنثی) → jabłek (مضاف‌الیهی جمع، مصوت درج می‌شود)."
     },
     {
       "id": "a1-ch04-rev-q05",
@@ -73,6 +81,7 @@
       "order": 5,
       "sourceVocab": "a1-ch04-vocab",
       "prompt": "What does 'wyprzedaż' mean?",
+      "prompt_fa": "'wyprzedaż' چه معنایی دارد؟",
       "options": [
         "checkout",
         "price tag",
@@ -80,7 +89,8 @@
         "receipt"
       ],
       "correctIndex": 2,
-      "explanation": "'Wyprzedaż' = sale — when items are discounted. 'Kasa' = checkout. 'Paragon' = receipt."
+      "explanation": "'Wyprzedaż' = sale — when items are discounted. 'Kasa' = checkout. 'Paragon' = receipt. 'Metka' = price tag.",
+      "explanation_fa": "'Wyprzedaż' = حراجی — وقتی اجناس تخفیف دارند. 'Kasa' = صندوق. 'Paragon' = رسید. 'Metka' = برچسب قیمت."
     },
     {
       "id": "a1-ch04-rev-q06",
@@ -88,6 +98,7 @@
       "order": 6,
       "sourceVocab": "a1-ch04-vocab",
       "prompt": "What does 'ile kosztuje?' mean?",
+      "prompt_fa": "'ile kosztuje?' چه معنایی دارد؟",
       "options": [
         "what size is it?",
         "how much does it cost?",
@@ -95,14 +106,16 @@
         "is it open?"
       ],
       "correctIndex": 1,
-      "explanation": "'Ile kosztuje?' = How much does it cost? 'Ile' = how much. 'Kosztuje' = it costs."
+      "explanation": "'Ile kosztuje?' = How much does it cost? 'Ile' = how much/how many. 'Kosztuje' = it costs (kosztować = to cost).",
+      "explanation_fa": "'Ile kosztuje?' = چقدر قیمت دارد؟ 'Ile' = چقدر/چند. 'Kosztuje' = قیمت دارد (kosztować = قیمت داشتن)."
     },
     {
       "id": "a1-ch04-rev-q07",
       "type": "multiple_choice",
       "order": 7,
       "sourceLesson": "a1-ch04-l01",
-      "prompt": "How do you say 'two sisters' (dwie or dwa)?",
+      "prompt": "Kasia has two sisters. How does she say this? [siostra = feminine]",
+      "prompt_fa": "کاسیا دو خواهر دارد. چطور می‌گوید؟ [siostra = مؤنث]",
       "options": [
         "dwie siostry",
         "dwa siostry",
@@ -110,14 +123,16 @@
         "dwa siostrę"
       ],
       "correctIndex": 0,
-      "explanation": "'Siostra' is feminine → use 'dwie' (feminine form of 2). 'Dwie siostry' = two sisters."
+      "explanation": "'Siostra' is feminine → use 'dwie' (feminine form of 2). 'Dwie siostry' = two sisters. 'Siostry' is nominative plural of siostra.",
+      "explanation_fa": "'Siostra' مؤنث است → از 'dwie' استفاده کنید (شکل مؤنث ۲). 'Dwie siostry' = دو خواهر. 'Siostry' فاعلی جمع siostra است."
     },
     {
       "id": "a1-ch04-rev-q08",
       "type": "multiple_choice",
       "order": 8,
       "sourceLesson": "a1-ch04-l03",
-      "prompt": "Widzę ___ (I see a cat). [kot = masculine animate]",
+      "prompt": "Tomek is at the park. Complete: Widzę ___ (I see a cat). [kot = masculine animate]",
+      "prompt_fa": "تامک در پارک است. کامل کنید: Widzę ___ (یک گربه می‌بینم). [kot = مذکر جاندار]",
       "options": [
         "kota",
         "kot",
@@ -125,7 +140,8 @@
         "kotu"
       ],
       "correctIndex": 0,
-      "explanation": "Masculine animate → accusative adds -a: kot → kota. 'Widzę kota' = I see a cat."
+      "explanation": "Masculine animate → accusative adds -a: kot → kota. 'Widzę kota' = I see a cat. Animals are animate → get accusative -a.",
+      "explanation_fa": "مذکر جاندار → مفعولی -a اضافه می‌کند: kot → kota. 'Widzę kota' = یک گربه می‌بینم. حیوانات جاندار هستند → -a مفعولی می‌گیرند."
     },
     {
       "id": "a1-ch04-rev-q09",
@@ -133,6 +149,7 @@
       "order": 9,
       "sourceVocab": "a1-ch04-vocab",
       "prompt": "What does 'gotówka' mean?",
+      "prompt_fa": "'gotówka' چه معنایی دارد؟",
       "options": [
         "credit card",
         "cash",
@@ -140,14 +157,16 @@
         "bank"
       ],
       "correctIndex": 1,
-      "explanation": "'Gotówka' = cash. 'Karta' = (credit/debit) card. 'Reszta' = change (money returned)."
+      "explanation": "'Gotówka' = cash. 'Karta (kredytowa/debetowa)' = (credit/debit) card. 'Reszta' = change (money returned).",
+      "explanation_fa": "'Gotówka' = پول نقد. 'Karta (kredytowa/debetowa)' = کارت (اعتباری/بانکی). 'Reszta' = باقیمانده پول."
     },
     {
       "id": "a1-ch04-rev-q10",
       "type": "multiple_choice",
       "order": 10,
       "sourceLesson": "a1-ch04-l04",
-      "prompt": "Mam ___ złote. (I have three zloty.)",
+      "prompt": "Ania has exactly 3 zloty. Complete: Mam ___ złote. (I have three zloty.)",
+      "prompt_fa": "آنیا دقیقاً ۳ زلوتی دارد. کامل کنید: Mam ___ złote. (سه زلوتی دارم.)",
       "options": [
         "trzy",
         "trzech",
@@ -155,7 +174,8 @@
         "trzysta"
       ],
       "correctIndex": 0,
-      "explanation": "After 3, use nominative plural for the noun: trzy złote. (złoty → złote in nominative plural)."
+      "explanation": "After 3, use nominative plural for the noun: trzy złote. (złoty → złote in nominative plural). Numbers 2-4 use nominative plural.",
+      "explanation_fa": "بعد از ۳، از فاعلی جمع برای اسم استفاده کنید: trzy złote. (złoty → złote در فاعلی جمع). اعداد ۲–۴ از فاعلی جمع استفاده می‌کنند."
     },
     {
       "id": "a1-ch04-rev-q11",
@@ -163,6 +183,7 @@
       "order": 11,
       "sourceVocab": "a1-ch04-vocab",
       "prompt": "What does 'drogi' mean in a shopping context?",
+      "prompt_fa": "'drogi' در زمینه خرید چه معنایی دارد؟",
       "options": [
         "roads",
         "expensive",
@@ -170,14 +191,16 @@
         "far"
       ],
       "correctIndex": 1,
-      "explanation": "'Drogi' = expensive (adjective, masculine form). Antonym: 'tani' = cheap."
+      "explanation": "'Drogi' = expensive (adjective, masculine form). Antonym: 'tani' = cheap. 'Droga' = expensive (feminine) or road.",
+      "explanation_fa": "'Drogi' = گران (صفت، شکل مذکر). متضاد: 'tani' = ارزان. 'Droga' = گران (مؤنث) یا جاده."
     },
     {
       "id": "a1-ch04-rev-q12",
       "type": "multiple_choice",
       "order": 12,
       "sourceLesson": "a1-ch04-l03",
-      "prompt": "Kupuję ___ (I'm buying a house). [dom = masculine inanimate]",
+      "prompt": "Marek is buying a house. Complete: Kupuję ___ (I'm buying a house). [dom = masculine inanimate]",
+      "prompt_fa": "ماریک دارد یک خانه می‌خرد. کامل کنید: Kupuję ___ (دارم خانه می‌خرم). [dom = مذکر غیرجاندار]",
       "options": [
         "dom",
         "doma",
@@ -185,7 +208,8 @@
         "domu"
       ],
       "correctIndex": 0,
-      "explanation": "Masculine inanimate nouns = same in accusative as nominative: dom → dom. 'Kupuję dom' = I'm buying a house."
+      "explanation": "Masculine inanimate nouns = same in accusative as nominative: dom → dom. 'Kupuję dom' = I'm buying a house. No change for inanimate things.",
+      "explanation_fa": "اسم‌های مذکر غیرجاندار = در مفعولی مثل فاعلی: dom → dom. 'Kupuję dom' = دارم خانه می‌خرم. برای اشیاء بی‌جان تغییری نیست."
     }
   ]
 }

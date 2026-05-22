@@ -1,0 +1,88 @@
+{
+  "id": "b1-ch14-l03-diminutives-affective",
+  "chapter": 14,
+  "lessonOrder": 3,
+  "level": "b1",
+  "title": "Affective Use of Diminutives",
+  "title_fa": "کاربرد عاطفی کوچک‌سازها",
+  "grammarPoint": "Diminutives as emotional signals: endearment, irony, politeness, and baby talk in Polish",
+  "grammarPoint_fa": "کوچک‌سازها به‌عنوان نشانه‌های عاطفی: محبت، کنایه، ادب و زبان بچگانه در لهستانی",
+  "explanation": {
+    "text": "Polish diminutives carry rich **emotional and pragmatic meaning** beyond just size:\n\n**1. Endearment (affection, love):**\n- Mamo, zrób mi **kanapeczkę**! (Mummy, make me a little sandwich!)\n- **Kochanku**, gdzie jesteś? (My darling, where are you?)\n- Przyjdź **juteczko** wcześnie. (Come early, sweetie — using diminutive of 'jutro'!)\n\n**2. Politeness/softening requests:**\n- Przepraszam, czy ma pan **chwileczkę**? (Excuse me, do you have a little moment?)\n- Poproszę **kawusię**. (I'd like a coffee, please — very polite/soft)\n- Zaczekaj **sekundkę**. (Wait just a second — softened request)\n\n**3. With names (hypocoristics):**\n- Katarzyna → Kasia → **Kasieczka** (very affectionate)\n- Tomasz → Tomek → **Tomeczek** (doting)\n- Marek → **Mareczek** (endearing)\n\n**4. Ironic/sarcastic diminutives:**\n- No, no, jaki **grzeczniś**! (Oh, what a little goody-goody! — sarcastic)\n- Taki **spryciarz** z ciebie! (What a little schemer you are! — ironic)\n\n**5. Children's language:**\n- Mamy **misio**, **zajączka**, **piesek**, **koteczek**.\n- Daj **rączkę**. (Give your little hand.)\n\n**Register note:** Diminutives are much more common in Polish than in English. Using them with strangers in a shop is normal (politeness function), not babyish.",
+    "notes": [
+      "Diminutives are a core feature of Polish affective language",
+      "In shops/service: kawka, herbatka, chwileczka = polite, not childish",
+      "Ironic diminutives: mądralińska (know-it-all), grzeczniś (goody-goody)",
+      "Personal names get diminutivized in close relationships"
+    ]
+  },
+  "explanation_fa": "کوچک‌سازهای لهستانی معانی عاطفی و کاربردی غنی دارند: (۱) محبت/دلسوزی: 'Mamo, zrób mi kanapeczkę!' (۲) ادب/نرم‌کردن درخواست: 'Czy ma pan chwileczkę؟' (آیا یک لحظه وقت دارید؟)، 'Poproszę kawusię' (یک قهوه لطفاً — خیلی مؤدبانه). (۳) با اسامی: Katarzyna→Kasieczka. (۴) کنایی: 'jaki grzeczniś!' (چه آدم خوبی — طعنه). کوچک‌سازها در مغازه‌ها/خدمات طبیعی و مؤدبانه هستند.",
+  "exercises": [
+    {
+      "id": "b1-ch14-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "In a bakery, you want to politely ask for 'a little croissant'. Which is most natural?",
+      "prompt_fa": "در نانوایی، می‌خواهید مؤدبانه 'یک کروآسان کوچک' بخواهید. کدام طبیعی‌ترین است؟",
+      "options": [
+        "Poproszę rogalika.",
+        "Poproszę rogal.",
+        "Poproszę małego rogala.",
+        "Chcę rogala."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Rogalik' (diminutive of 'rogal') is the standard polite form for ordering a croissant in a bakery. Very common in Polish service interactions.",
+      "explanation_fa": "'Rogalik' (کوچک‌ساز 'rogal') شکل مؤدبانه استاندارد برای سفارش کروآسان در نانوایی است. در تعاملات خدماتی لهستانی بسیار رایج است."
+    },
+    {
+      "id": "b1-ch14-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Politely ask if someone has a moment (use chwila → chwileczka):",
+      "context_fa": "مؤدبانه بپرسید آیا کسی یک لحظه وقت دارد (از chwila → chwileczka استفاده کنید):",
+      "sentence": "Przepraszam, czy ma pani ___?",
+      "prompt": "Przepraszam, czy ma pani ___?",
+      "prompt_fa": "Przepraszam, czy ma pani ___?",
+      "answer": "chwileczkę",
+      "acceptableAnswers": ["chwileczkę", "chwilkę"],
+      "hint": "chwila → chwileczka/chwilka → accusative: chwileczkę",
+      "explanation": "'Czy ma pani chwileczkę?' = Do you have a moment? (polite). 'Chwileczka' is a double diminutive of 'chwila' — very softening.",
+      "explanation_fa": "'Czy ma pani chwileczkę؟' = آیا یک لحظه وقت دارید؟ (مؤدبانه). 'Chwileczka' کوچک‌ساز مضاعف 'chwila' است — خیلی نرم‌کننده."
+    },
+    {
+      "id": "b1-ch14-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch14/b1-ch14-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Kasieczko, chodź tu!",
+        "Kasiu, chodź tu!",
+        "Kasia, chodź tu!",
+        "Kasiuniu, chodź tu!"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Kasieczko' — double diminutive of Kasia (Katarzyna), used in very affectionate address. Vocative form: Kasieczko (from Kasieczka).",
+      "explanation_fa": "'Kasieczko' — کوچک‌ساز مضاعف Kasia (Katarzyna)، در خطاب بسیار محبت‌آمیز استفاده می‌شود. شکل ندائی: Kasieczko (از Kasieczka)."
+    },
+    {
+      "id": "b1-ch14-l03-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build a polite café order: 'I would like a coffee and a small cake, please.'",
+      "prompt_fa": "یک سفارش مؤدبانه کافه بسازید: 'لطفاً یک قهوه و یک کیک کوچک می‌خواهم.'",
+      "wordBank": ["Poproszę", "kawusię", "kawę", "i", "ciasteczko", "ciastko"],
+      "correctSequences": [
+        ["Poproszę", "kawusię", "i", "ciasteczko"],
+        ["Poproszę", "kawę", "i", "ciasteczko"]
+      ],
+      "explanation": "'Poproszę kawusię i ciasteczko.' — I'd like a coffee and a little cake. Both 'kawusia' (very soft) and 'kawa' work; 'ciasteczko' is the polite diminutive of 'ciasto'.",
+      "explanation_fa": "'Poproszę kawusię i ciasteczko.' — یک قهوه و یک کیک کوچک لطفاً. هم 'kawusia' (خیلی نرم) و هم 'kawa' کار می‌کنند؛ 'ciasteczko' کوچک‌ساز مؤدبانه 'ciasto' است."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["diminutives", "pragmatics", "register", "b1-core"],
+  "prerequisites": ["b1-ch14-l01", "b1-ch14-l02"]
+}

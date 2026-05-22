@@ -8,21 +8,22 @@
   "grammarPoint": "Polish personal pronouns: ja, ty, on, ona, ono, my, wy, oni, one",
   "grammarPoint_fa": "ضمایر شخصی لهستانی: ja، ty، on/ona/ono، my، wy، oni/one",
   "explanation": {
-    "text": "Polish has nine personal pronouns covering singular and plural. Unlike English, they are often **omitted** in speech because verb endings show who the subject is. Use pronouns when you want to emphasise who is doing the action.\n\n| | Singular | Plural |\n|--|----------|--------|\n| 1st | **ja** (I) | **my** (we) |\n| 2nd | **ty** (you) | **wy** (you all) |\n| 3rd m. | **on** (he) | **oni** (they — mixed/male) |\n| 3rd f. | **ona** (she) | **one** (they — all female) |\n| 3rd n. | **ono** (it) | **one** (they — neuter) |\n\nIn everyday speech: *Idę do sklepu* (not *Ja idę…*) is more natural.",
+    "text": "## Polish Personal Pronouns\n\nPolish has **nine** personal pronouns — more than English because it distinguishes gender in the third person plural:\n\n| | Singular | Plural |\n|--|----------|--------|\n| 1st | **ja** (I) | **my** (we) |\n| 2nd | **ty** (you) | **wy** (you all) |\n| 3rd masc. | **on** (he) | **oni** (they — mixed/male) |\n| 3rd fem. | **ona** (she) | **one** (they — all female) |\n| 3rd neut. | **ono** (it) | **one** (they — neuter) |\n\n### The big rule: drop the pronoun\n\nBecause verb endings encode person and number, Poles **routinely omit** the subject pronoun:\n\n| Natural Polish | Literal translation | Meaning |\n|----------------|--------------------|---------|\n| Idę do domu. | [I] go home. | I'm going home. |\n| Masz czas? | [You] have time? | Do you have time? |\n| Jest zmęczony. | [He] is tired. | He is tired. |\n\n### When DO you use the pronoun?\n\nUse it for **contrast or emphasis**:\n\n> *Ja mówię po polsku, a ty po angielsku.* — **I** speak Polish and **you** speak English.\n\n> *On śpi, a ona pracuje.* — **He** is sleeping and **she** is working.\n\n### oni vs. one — the gender split\n\n- **oni** = a group that includes **at least one man** (or any mixed group)\n- **one** = a group that is **entirely female** or **entirely neuter**\n\n| Group | Pronoun | Example |\n|-------|---------|----------|\n| Piotr + Marta | oni | Oni są w domu. |\n| Anna + Marta | one | One są w domu. |\n| two tables (stoły) | one | One są stare. |\n\n### Formal address\n\nIn formal situations, Poles do **not** use *ty/wy*. Instead:\n- *Pan* (sir/Mr) + verb in 3rd person singular\n- *Pani* (ma'am/Ms) + verb in 3rd person singular\n\n> *Czy Pan jest z Warszawy?* — Are you (formal, male) from Warsaw?\n\nFormal pronouns are covered in detail in A2 Chapter 19.\n\n### Quick pronunciation notes\n\n- *ja* — sounds like \"ya\"\n- *ty* — sounds like \"tih\"\n- *oni/one* — \"OH-nee\" / \"OH-neh\"\n- *my* — sounds like \"mih\" (not the English word \"my\")",
     "notes": [
       "Pronouns are dropped in most sentences — the verb ending is enough.",
-      "Use ja/ty/on etc. for contrast or emphasis: 'Ja idę, ty zostajesz.'",
-      "oni = they (group with at least one male); one = they (all female or all neuter)",
+      "Use ja/ty/on etc. for contrast or emphasis only.",
+      "oni = they (group with at least one male or mixed); one = they (all female or all neuter).",
       "Pan (Mr) / Pani (Ms) are used instead of ty in formal address — covered in A2."
     ]
   },
-  "explanation_fa": "ضمایر شخصی لهستانی: ja (من)، ty (تو)، on (او-مذکر)، ona (او-مؤنث)، ono (آن-خنثی)، my (ما)، wy (شما)، oni (آن‌ها-مذکر/مختلط)، one (آن‌ها-مؤنث/خنثی). در لهستانی ضمایر اغلب حذف می‌شوند، اما برای تأکید استفاده می‌شوند.",
+  "explanation_fa": "## ضمایر شخصی لهستانی\n\nلهستانی **نه** ضمیر شخصی دارد — بیشتر از انگلیسی، چون در سوم شخص جمع، جنسیت را متمایز می‌کند:\n\n| | مفرد | جمع |\n|--|------|-----|\n| اول | **ja** (من) | **my** (ما) |\n| دوم | **ty** (تو) | **wy** (شما جمع) |\n| سوم مذکر | **on** (او — مذکر) | **oni** (آن‌ها — مختلط/مذکر) |\n| سوم مؤنث | **ona** (او — مؤنث) | **one** (آن‌ها — همه مؤنث) |\n| سوم خنثی | **ono** (آن — خنثی) | **one** (آن‌ها — خنثی) |\n\n### قانون اصلی: ضمیر را حذف کنید\n\nچون پسوند فعل شخص و عدد را نشان می‌دهد، لهستانی‌ها معمولاً ضمیر فاعلی را **حذف می‌کنند**:\n\n| لهستانی طبیعی | ترجمه لفظی | معنی |\n|--------------|------------|------|\n| Idę do domu. | [من] می‌روم خانه. | دارم می‌روم خانه. |\n| Masz czas? | [تو] وقت داری؟ | وقت داری؟ |\n| Jest zmęczony. | [او] خسته است. | خسته است. |\n\n### کِی ضمیر را استفاده کنید؟\n\nبرای **تضاد یا تأکید** از ضمیر استفاده کنید:\n\n> *Ja mówię po polsku, a ty po angielsku.* — **من** لهستانی حرف می‌زنم و **تو** انگلیسی.\n\n> *On śpi, a ona pracuje.* — **او** (مذکر) می‌خوابد و **او** (مؤنث) کار می‌کند.\n\n### oni در برابر one — تفاوت جنسیتی\n\n- **oni** = گروهی که **حداقل یک مرد** دارد (یا هر گروه مختلط)\n- **one** = گروهی که **کاملاً مؤنث** یا **کاملاً خنثی** است\n\n| گروه | ضمیر | مثال |\n|------|------|------|\n| Piotr + Marta | oni | Oni są w domu. |\n| Anna + Marta | one | One są w domu. |\n| دو میز (stoły) | one | One są stare. |\n\n### مخاطب رسمی\n\nدر موقعیت‌های رسمی، لهستانی‌ها از *ty/wy* استفاده **نمی‌کنند**. به جای آن:\n- *Pan* (آقا) + فعل سوم شخص مفرد\n- *Pani* (خانم) + فعل سوم شخص مفرد\n\n> *Czy Pan jest z Warszawy?* — آیا شما (رسمی، مذکر) از ورشو هستید؟\n\nضمایر رسمی در فصل ۱۹ A2 به تفصیل توضیح داده می‌شود.\n\n### نکات تلفظ\n\n- *ja* — مثل «یا» تلفظ می‌شود\n- *ty* — مثل «تی» \n- *oni/one* — «اُه-نی» / «اُه-نه»\n- *my* — مثل «می» (نه مثل کلمه انگلیسی my)",
   "exercises": [
     {
       "id": "a1-ch01-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Which pronoun means 'she'?",
+      "prompt": "Zofia is telling you about her friend. Which pronoun refers to her female friend?",
+      "prompt_fa": "زوفیا دارد درباره دوست خودش به شما می‌گوید. کدام ضمیر به دوست مؤنث او اشاره دارد؟",
       "options": [
         "ona",
         "on",
@@ -30,25 +31,36 @@
         "one"
       ],
       "correctIndex": 0,
-      "explanation": "'Ona' = she. 'On' = he. 'Ono' = it (neuter). 'One' = they (all-female/neuter)."
+      "explanation": "'Ona' = she. Polish has separate pronouns for he (on), she (ona), and it (ono) — unlike English which uses 'it' for objects.",
+      "explanation_fa": "'Ona' = او (مؤنث). لهستانی برای مذکر (on)، مؤنث (ona) و خنثی (ono) ضمیرهای جداگانه دارد."
     },
     {
       "id": "a1-ch01-l03-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "___ jesteśmy z Polski. (We are from Poland.)",
       "answer": "My",
       "acceptableAnswers": [
         "My",
         "my"
       ],
-      "hint": "First person plural subject pronoun"
+      "hint": "First person plural subject pronoun",
+      "explanation": "My = we. In Polish you usually drop this pronoun, but when you want to emphasise who you mean, you keep it.",
+      "explanation_fa": "My = ما. در لهستانی معمولاً این ضمیر را حذف می‌کنید، اما وقتی می‌خواهید تأکید کنید، آن را نگه می‌دارید.",
+      "context": "Your group is from Poland. Complete:",
+      "context_fa": "گروه شما از لهستان است. کامل کنید:",
+      "sentence": "___ jesteśmy z Polski.",
+      "translation": "",
+      "translation_fa": "",
+      "prompt": "___ jesteśmy z Polski.",
+      "prompt_fa": "___ jesteśmy z Polski."
     },
     {
       "id": "a1-ch01-l03-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch01/a1-ch01-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "On jest z Warszawy.",
         "Ona jest z Warszawy.",
@@ -56,20 +68,20 @@
         "Oni są z Warszawy."
       ],
       "correctIndex": 1,
-      "explanation": "You heard: 'Ona jest z Warszawy.' — She is from Warsaw. 'Ona' = she, 'jest' = is, 'z Warszawy' = from Warsaw."
+      "explanation": "You heard: 'Ona jest z Warszawy.' — She is from Warsaw. Listen for the difference between on (he) and ona (she).",
+      "explanation_fa": "شنیدید: 'Ona jest z Warszawy.' — او (مؤنث) از ورشو است. به تفاوت بین on (مذکر) و ona (مؤنث) گوش دهید."
     },
     {
       "id": "a1-ch01-l03-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: He is a student. (Use the pronoun for emphasis.)",
+      "prompt": "Arrange: He is a student. (Use the pronoun for emphasis.)",
+      "prompt_fa": "کلمات را به ترتیب بزنید: او (مذکر) دانشجو است. (از ضمیر برای تأکید استفاده کنید.)",
       "wordBank": [
         "On",
-        "Ona",
         "jest",
-        "są",
-        "studentem",
-        "studentką"
+        "studentką",
+        "studentem"
       ],
       "correctSequences": [
         [
@@ -78,13 +90,15 @@
           "studentem"
         ]
       ],
-      "explanation": "'On jest studentem' = He is a student. On = he, jest = is (3rd sg.), studentem = instrumental of student."
+      "explanation": "'On jest studentem' = He is a student. The pronoun On is used here for emphasis — in normal speech you would just say 'Jest studentem'.",
+      "explanation_fa": "'On jest studentem' = او دانشجو است. ضمیر On اینجا برای تأکید استفاده شده — در مکالمه عادی فقط می‌گویید 'Jest studentem'."
     },
     {
       "id": "a1-ch01-l03-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Piotr i Marek są Polakami. What pronoun could replace 'Piotr i Marek'?",
+      "prompt": "Piotr and Marek are both Polish. Piotr i Marek są Polakami. Which pronoun replaces their names?",
+      "prompt_fa": "پیوتر و مارک هر دو لهستانی هستند. Piotr i Marek są Polakami. کدام ضمیر جایگزین اسم‌هایشان می‌شود؟",
       "options": [
         "oni",
         "one",
@@ -92,7 +106,99 @@
         "my"
       ],
       "correctIndex": 0,
-      "explanation": "Piotr and Marek are two males, so the pronoun is 'oni' (they — mixed or male group)."
+      "explanation": "A group that includes at least one man uses oni. If the group were all women, you would use one instead.",
+      "explanation_fa": "گروهی که حداقل یک مرد دارد از oni استفاده می‌کند. اگر گروه کاملاً زنانه بود، به جایش one استفاده می‌شد."
+    },
+    {
+      "id": "a1-ch01-l03-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Marek is telling Kasia about his male friend. Which pronoun replaces his friend's name?",
+      "prompt_fa": "مارک دارد به کاسیا درباره دوست مذکرش می‌گوید. کدام ضمیر جایگزین اسم دوستش می‌شود؟",
+      "options": [
+        "on",
+        "ona",
+        "ono",
+        "oni"
+      ],
+      "correctIndex": 0,
+      "explanation": "'On' = he. Use on for any male person. 'On jest moim przyjacielem' = He is my friend.",
+      "explanation_fa": "'On' = او (مذکر). از on برای هر شخص مذکر استفاده کنید. 'On jest moim przyjacielem' = او دوست من است."
+    },
+    {
+      "id": "a1-ch01-l03-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "My",
+      "acceptableAnswers": [
+        "My",
+        "my"
+      ],
+      "hint": "1st person plural subject pronoun (optional but emphasised here)",
+      "explanation": "'My jesteśmy' = We are. Kasia is including herself in the group, so 'my' (we) is correct. It can be dropped in natural speech.",
+      "explanation_fa": "'My jesteśmy' = ما هستیم. کاسیا خودش را در گروه می‌گنجاند، پس 'my' (ما) درست است. در گفتار طبیعی می‌توان آن را حذف کرد.",
+      "context": "Kasia and Ania are classmates. Kasia says:",
+      "context_fa": "کاسیا و آنیا هم‌کلاسی هستند. کاسیا می‌گوید:",
+      "sentence": "___ jesteśmy w tej samej klasie.",
+      "translation": "(We are in the same class.)",
+      "translation_fa": "(ما در یک کلاس هستیم.)",
+      "prompt": "___ jesteśmy w tej samej klasie.",
+      "prompt_fa": "___ jesteśmy w tej samej klasie."
+    },
+    {
+      "id": "a1-ch01-l03-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Tomek talks about a group of girls: Anna, Kasia, and Ania. Which pronoun is correct?",
+      "prompt_fa": "تامک درباره گروهی از دختران صحبت می‌کند: آنا، کاسیا و آنیا. کدام ضمیر درست است؟",
+      "options": [
+        "one",
+        "oni",
+        "ono",
+        "ona"
+      ],
+      "correctIndex": 0,
+      "explanation": "An all-female group uses 'one'. 'One są moimi koleżankami' = They are my (female) colleagues/friends.",
+      "explanation_fa": "یک گروه کاملاً زنانه از 'one' استفاده می‌کند. 'One są moimi koleżankami' = آن‌ها دوستان (مؤنث) من هستند."
+    },
+    {
+      "id": "a1-ch01-l03-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Ania talks about her female friend. Arrange: She is my friend.",
+      "prompt_fa": "آنیا درباره دوست مؤنثش صحبت می‌کند. کلمات را به ترتیب بزنید: او دوست من است.",
+      "wordBank": [
+        "Ona",
+        "jest",
+        "moją przyjaciółką",
+        "mój"
+      ],
+      "correctSequences": [
+        [
+          "Ona",
+          "jest",
+          "moją przyjaciółką"
+        ]
+      ],
+      "explanation": "'Ona jest moją przyjaciółką' = She is my friend. Ona (she) + jest (is) + moją przyjaciółką (my friend — instrumental f.).",
+      "explanation_fa": "'Ona jest moją przyjaciółką' = او دوست من است. Ona (او مؤنث) + jest (است) + moją przyjaciółką (دوست من — ابزاری مؤنث)."
+    },
+    {
+      "id": "a1-ch01-l03-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch01/a1-ch01-l03-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "On i ona są z Krakowa.",
+        "Oni są z Krakowa.",
+        "One są z Krakowa.",
+        "Ono jest z Krakowa."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'On i ona są z Krakowa.' — He and she are from Kraków. When you name both on and ona explicitly, use są (3rd pl.).",
+      "explanation_fa": "شنیدید: 'On i ona są z Krakowa.' — او (مذکر) و او (مؤنث) از کراکوف هستند. وقتی on و ona را صریح ذکر می‌کنید، از są (سوم جمع) استفاده کنید."
     }
   ],
   "xpReward": 20,

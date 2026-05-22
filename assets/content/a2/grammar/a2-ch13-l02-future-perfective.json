@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Jutro ___ ten raport. (Tomorrow I will finish [write] this report.) [napisać, ja]",
+      "prompt_fa": "فردا ___ این گزارش را خواهم نوشت. [napisać، ja]",
       "options": [
         "napiszę",
         "będę pisać",
@@ -30,24 +31,34 @@
         "pisałem"
       ],
       "correctIndex": 0,
-      "explanation": "Single completed future event → perfective future: napiszę. 'Będę pisać' (imperfective) = I'll be writing — ongoing, not necessarily finishing."
+      "explanation": "Single completed future event → perfective future: napiszę. 'Będę pisać' (imperfective) = I'll be writing — ongoing, not necessarily finishing.",
+      "explanation_fa": "یک رویداد کامل در آینده → کامل: napiszę. 'Będę pisać' (ناکامل) = مشغول نوشتن خواهم بود — ادامه‌دار، نه لزوماً تمام‌شده."
     },
     {
       "id": "a2-ch13-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Ona ___ zakupy jutro rano. (She will do the shopping tomorrow morning.) [zrobić, ona perfective future]",
+      "context": "Perfective future. Complete with the correct form.",
+      "context_fa": "آینده کامل. شکل درست را بنویسید.",
+      "sentence": "Ona ___ zakupy jutro rano.",
+      "translation": "(She will do the shopping tomorrow morning.) [zrobić, ona — perfective future]",
+      "translation_fa": "(او فردا صبح خرید خواهد کرد.) [zrobić، ona — آینده کامل]",
+      "prompt": "Ona ___ zakupy jutro rano.",
+      "prompt_fa": "Ona ___ zakupy jutro rano.",
       "answer": "zrobi",
       "acceptableAnswers": [
         "zrobi"
       ],
-      "hint": "Perfective future of 'zrobić', ona: zrobi"
+      "hint": "Perfective future of 'zrobić', ona: zrobi",
+      "explanation": "'Zrobić' perfective future for 'ona': zrobi. One completed shopping trip tomorrow morning → perfective.",
+      "explanation_fa": "آینده کامل 'zrobić' برای 'ona': zrobi. یک خرید کامل فردا صبح → کامل."
     },
     {
       "id": "a2-ch13-l02-ex03",
       "type": "multiple_choice",
       "order": 3,
       "prompt": "'Kupisz mi chleb?' — What does this mean?",
+      "prompt_fa": "'Kupisz mi chleb?' — این جمله چه معنایی دارد؟",
       "options": [
         "Will you buy me some bread?",
         "Did you buy me some bread?",
@@ -55,13 +66,15 @@
         "You used to buy me bread."
       ],
       "correctIndex": 0,
-      "explanation": "'Kupisz' = perfective future of 'kupić' (ty). Present-looking form of a perfective verb = future in Polish. 'Kupisz mi chleb?' = Will you buy me some bread?"
+      "explanation": "'Kupisz' = perfective future of 'kupić' (ty). Present-looking form of a perfective verb = future in Polish. 'Kupisz mi chleb?' = Will you buy me some bread?",
+      "explanation_fa": "'Kupisz' = آینده کامل 'kupić' (برای ty). شکل ظاهراً حال فعل کامل = آینده در لهستانی. 'Kupisz mi chleb?' = برایم نان می‌خری؟"
     },
     {
       "id": "a2-ch13-l02-ex04",
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: We will go to the cinema on Saturday. (perfective future — pójść)",
+      "prompt_fa": "بسازید: ما شنبه به سینما خواهیم رفت. (آینده کامل — pójść)",
       "wordBank": [
         "Pójdziemy",
         "Będziemy",
@@ -82,13 +95,15 @@
           "sobotę"
         ]
       ],
-      "explanation": "'Pójdziemy do kina w sobotę.' — We will go to the cinema on Saturday. 'Pójść' perfective future: pójdziemy. 'Do kina' = genitive destination. 'W sobotę' = on Saturday."
+      "explanation": "'Pójdziemy do kina w sobotę.' — We will go to the cinema on Saturday. 'Pójść' perfective future: pójdziemy. 'Do kina' = genitive destination. 'W sobotę' = on Saturday.",
+      "explanation_fa": "'Pójdziemy do kina w sobotę.' — ما شنبه به سینما خواهیم رفت. آینده کامل 'pójść': pójdziemy. 'Do kina' = مضاف‌الیه. 'W sobotę' = در روز شنبه."
     },
     {
       "id": "a2-ch13-l02-ex05",
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Choose the perfective future to express 'I'll call you after work.' [zadzwonić, ja]",
+      "prompt_fa": "آینده کامل را برای 'بعد از کار با تو تماس خواهم گرفت' انتخاب کنید. [zadzwonić، ja]",
       "options": [
         "Zadzwonię do ciebie po pracy.",
         "Będę dzwonić do ciebie po pracy.",
@@ -96,7 +111,109 @@
         "Dzwoniłem do ciebie po pracy."
       ],
       "correctIndex": 0,
-      "explanation": "Single completed future call = perfective: zadzwonię. 'Będę dzwonić' = imperfective future (I'll be calling — ongoing). 'Zadzwonię po pracy' = I'll call [once, completed] after work."
+      "explanation": "Single completed future call = perfective: zadzwonię. 'Będę dzwonić' = imperfective future (I'll be calling — ongoing). 'Zadzwonię po pracy' = I'll call [once, completed] after work.",
+      "explanation_fa": "یک تماس کامل در آینده = کامل: zadzwonię. 'Będę dzwonić' = آینده ناکامل (مشغول زنگ زدن). 'Zadzwonię po pracy' = بعد از کار زنگ می‌زنم (یک بار، کامل)."
+    },
+    {
+      "id": "a2-ch13-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Tomek ___ do Kasi jutro wieczorem. (Tomek will call Kasia tomorrow evening.) [zadzwonić, on — perfective future]",
+      "prompt_fa": "Tomek فردا شب با Kasia تماس خواهد گرفت. [zadzwonić، on — آینده کامل]",
+      "options": [
+        "zadzwoni",
+        "będzie dzwonić",
+        "dzwonił",
+        "dzwoni"
+      ],
+      "correctIndex": 0,
+      "explanation": "Single completed call → perfective future: zadzwoni (on). 'Będzie dzwonić' = imperfective (ongoing calls). 'Dzwonił' = past. 'Dzwoni' = present.",
+      "explanation_fa": "یک تماس کامل → آینده کامل: zadzwoni (on). 'Będzie dzwonić' = ناکامل (تماس ادامه‌دار). 'Dzwonił' = گذشته."
+    },
+    {
+      "id": "a2-ch13-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Perfective future. Complete with the correct form.",
+      "context_fa": "آینده کامل. شکل درست را بنویسید.",
+      "sentence": "Marek ___ zadanie domowe przed kolacją.",
+      "translation": "(Marek will finish his homework before dinner.) [zrobić, on — perfective future]",
+      "translation_fa": "(Marek قبل از شام تکلیفش را تمام خواهد کرد.) [zrobić، on — آینده کامل]",
+      "prompt": "Marek ___ zadanie domowe przed kolacją.",
+      "prompt_fa": "Marek ___ zadanie domowe przed kolacją.",
+      "answer": "zrobi",
+      "acceptableAnswers": [
+        "zrobi"
+      ],
+      "hint": "Perfective future of 'zrobić' for 'on' (Marek): zrobi",
+      "explanation": "'Zrobić' perfective future for 'on': zrobi. Completing homework = one finished action → perfective.",
+      "explanation_fa": "آینده کامل 'zrobić' برای 'on': zrobi. تمام کردن تکلیف = یک عمل تمام‌شده → کامل."
+    },
+    {
+      "id": "a2-ch13-l02-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch13/a2-ch13-l02-ex08.mp3",
+      "options": [
+        "Napiszę do ciebie jutro.",
+        "Pisałem do ciebie jutro.",
+        "Będę pisać do ciebie jutro.",
+        "Piszę do ciebie jutro."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Napiszę do ciebie jutro.' — I'll write to you tomorrow (one completed act). 'Napiszę' = perfective future of 'napisać', ja.",
+      "explanation_fa": "شنیدید: 'Napiszę do ciebie jutro.' — فردا برایت می‌نویسم (یک عمل کامل). 'Napiszę' = آینده کامل 'napisać'، برای ja."
+    },
+    {
+      "id": "a2-ch13-l02-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: Kasia will buy a gift for Ania on Saturday. (perfective future — kupić)",
+      "prompt_fa": "بسازید: Kasia شنبه برای Ania هدیه خواهد خرید. (آینده کامل — kupić)",
+      "wordBank": [
+        "Kasia",
+        "kupi",
+        "będzie kupować",
+        "prezent",
+        "prezentu",
+        "dla",
+        "Ani",
+        "Ania",
+        "w",
+        "sobotę",
+        "w sobotę"
+      ],
+      "correctSequences": [
+        [
+          "Kasia",
+          "kupi",
+          "prezent",
+          "dla",
+          "Ani",
+          "w",
+          "sobotę"
+        ]
+      ],
+      "explanation": "'Kasia kupi prezent dla Ani w sobotę.' — Kasia will buy a gift for Ania on Saturday. 'Kupi' = perfective future of 'kupić' (ona). 'Dla Ani' = for Ania (genitive). 'W sobotę' = on Saturday.",
+      "explanation_fa": "'Kasia kupi prezent dla Ani w sobotę.' — Kasia شنبه برای Ania هدیه خواهد خرید. 'Kupi' = آینده کامل 'kupić' (ona). 'Dla Ani' = برای Ania (مضاف‌الیه)."
+    },
+    {
+      "id": "a2-ch13-l02-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Which sentence expresses a completed single future event (not an ongoing process)?",
+      "prompt_fa": "کدام جمله یک رویداد کامل و یک‌باره در آینده را بیان می‌کند (نه فرآیند ادامه‌دار)؟",
+      "options": [
+        "Zrobię zakupy po pracy.",
+        "Będę robić zakupy po pracy.",
+        "Robię zakupy po pracy.",
+        "Robiłem zakupy po pracy."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Zrobię zakupy po pracy.' = I'll do the shopping after work (one completed act — perfective). 'Będę robić' = imperfective future (ongoing/repeated shopping). 'Robię' = present. 'Robiłem' = past.",
+      "explanation_fa": "'Zrobię zakupy po pracy.' = بعد از کار خرید خواهم کرد (یک عمل کامل — کامل). 'Będę robić' = ناکامل (خرید ادامه‌دار/تکراری). 'Robię' = حال. 'Robiłem' = گذشته."
     }
   ],
   "xpReward": 20,

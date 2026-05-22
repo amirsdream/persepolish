@@ -24,9 +24,20 @@ final class GetLevelsUseCase {
         continue;
       }
 
-      final progress = await _progressRepo.getLevelProgress(id);
       final statuses = await _progressRepo.getUnitStatuses(id);
       final stars = await _progressRepo.getUnitStars(id);
+
+      // Compute progress against the total number of units defined in JSON,
+      // not just the rows already in the DB. This ensures 1 completed lesson
+      // out of 50 reads as 2%, not 100%.
+      final totalUnitCount =
+          (map['grammar_units'] as List).length +
+          (map['vocabulary_sets'] as List).length +
+          (map['exam_sets'] as List).length;
+      final completedCount =
+          statuses.values.where((s) => s == 'complete').length;
+      final progress =
+          totalUnitCount > 0 ? completedCount / totalUnitCount : 0.0;
 
       // Level 0 (A1) is always unlocked; others require prev level ≥ threshold
       final threshold = map['unlock_threshold'] as int;

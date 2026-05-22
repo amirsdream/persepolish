@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch17-l03-email-phrases",
+  "chapter": 17,
+  "lessonOrder": 3,
+  "level": "b1",
+  "title": "Formal Email Phrases",
+  "title_fa": "عبارات ایمیل رسمی",
+  "grammarPoint": "Standard Polish email phrases: opening, stating purpose, making requests, apologizing, closing",
+  "grammarPoint_fa": "عبارات استاندارد ایمیل لهستانی: شروع، بیان هدف، درخواست، عذرخواهی، خاتمه",
+  "explanation": {
+    "text": "**Essential formal email phrases:**\n\n**Opening / Reference:**\n- W nawiązaniu do naszej rozmowy... — In reference to our conversation...\n- W odpowiedzi na Pana/Pani wiadomość... — In response to your message...\n- Piszę w sprawie + [genitive] — I am writing in the matter of...\n- Zwracam się do Pana/Pani z prośbą o... — I am turning to you with a request for...\n\n**Stating purpose:**\n- Chciałbym/Chciałabym poinformować Pana/Panią, że... — I would like to inform you that...\n- Pragnę zapytać o... — I wish to ask about...\n- Pozwolę sobie przedstawić... — Allow me to present...\n\n**Making requests (polite):**\n- Uprzejmie proszę o + [accusative] — I kindly request...\n- Byłbym/Byłabym wdzięczny/a za + [accusative] — I would be grateful for...\n- Czy mógłby Pan/mogłaby Pani...? — Could you (m/f)...?\n- Proszę o odpowiedź do dnia + [date] — Please reply by [date].\n\n**Apologizing/Explaining:**\n- Przepraszam za opóźnienie... — I apologize for the delay...\n- Niestety, nie będę mógł/mogła... — Unfortunately, I will not be able to...\n- Z przykrością informuję, że... — I regret to inform you that...\n\n**Closing phrases:**\n- Licząc na pozytywną odpowiedź, pozostaję... — Hoping for a positive reply, I remain...\n- Z góry dziękuję za odpowiedź. — I thank you in advance for your reply.\n- Pozostaję do Pana/Pani dyspozycji. — I remain at your disposal.\n- Z poważaniem — Yours sincerely\n\n**Email subject line (Temat):**\n- Temat: Prośba o spotkanie — Subject: Request for a meeting\n- Temat: Pytanie dotyczące oferty — Subject: Question regarding the offer",
+    "notes": [
+      "Uprzejmie proszę (I kindly request) is softer than just proszę",
+      "Byłbym/Byłabym wdzięczny/a — conditional past = very polite request",
+      "Z góry dziękuję = I thank you in advance (literally: from above, i.e., beforehand)",
+      "Always use Pan/Pani with 3rd person verbs in formal emails"
+    ]
+  },
+  "explanation_fa": "عبارات کلیدی ایمیل رسمی: شروع: W nawiązaniu do... (در ارتباط با...), Piszę w sprawie... (در مورد می‌نویسم). هدف: Chciałbym poinformować, że... (می‌خواهم اطلاع دهم که...). درخواست: Uprzejmie proszę o... (مؤدبانه درخواست می‌کنم), Byłbym wdzięczny za... (سپاسگزار خواهم بود). عذرخواهی: Przepraszam za opóźnienie... (از تأخیر عذرخواهی می‌کنم). خاتمه: Z góry dziękuję (از قبل تشکر می‌کنم)، Pozostaję do Pani dyspozycji (در اختیار شما هستم).",
+  "exercises": [
+    {
+      "id": "b1-ch17-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "How do you politely write 'I am writing in the matter of the job offer'?",
+      "prompt_fa": "چگونه مؤدبانه می‌نویسید 'در مورد پیشنهاد شغلی می‌نویسم'؟",
+      "options": [
+        "Piszę w sprawie oferty pracy.",
+        "Piszę o oferta pracy.",
+        "Piszę za ofertę pracy.",
+        "Piszę przy ofercie pracy."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Piszę w sprawie + genitive' = I am writing in the matter of... 'Oferty' = genitive of 'oferta'. This is the standard opening phrase.",
+      "explanation_fa": "'Piszę w sprawie + مضاف‌الیه' = در مورد می‌نویسم. 'Oferty' = مضاف‌الیه 'oferta'. این عبارت شروع استاندارد است."
+    },
+    {
+      "id": "b1-ch17-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Polite request: 'I would be grateful for a quick response.' (Byłbym wdzięczny za ___.):",
+      "context_fa": "درخواست مؤدبانه: 'از پاسخ سریع سپاسگزار خواهم بود.' (Byłbym wdzięczny za ___.)",
+      "sentence": "Byłbym wdzięczny za ___ odpowiedź.",
+      "prompt": "Byłbym wdzięczny za ___ odpowiedź.",
+      "prompt_fa": "Byłbym wdzięczny za ___ odpowiedź.",
+      "answer": "szybką",
+      "acceptableAnswers": ["szybką", "szybka"],
+      "hint": "za + accusative: szybka odpowiedź → szybką odpowiedź (acc. f.)",
+      "explanation": "'Za szybką odpowiedź' — 'za' + accusative. Szybka (f.) → szybką (acc.f.). Full: 'Byłbym wdzięczny za szybką odpowiedź.'",
+      "explanation_fa": "'Za szybką odpowiedź' — 'za' + مفعولی. szybka (مؤنث) → szybką (مفعولی مؤنث). کامل: 'Byłbym wdzięczny za szybką odpowiedź.'"
+    },
+    {
+      "id": "b1-ch17-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch17/b1-ch17-l03-ex03.mp3",
+      "prompt": "Which email phrase did you hear?",
+      "prompt_fa": "کدام عبارت ایمیل را شنیدید؟",
+      "options": [
+        "Z góry dziękuję za odpowiedź.",
+        "Z dołu dziękuję za odpowiedź.",
+        "Z przodu dziękuję za odpowiedź.",
+        "Z tyłu dziękuję za odpowiedź."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Z góry dziękuję' = I thank you in advance. 'Z góry' literally means 'from above/in advance' — a fixed phrase for thanking in advance.",
+      "explanation_fa": "'Z góry dziękuję' = از قبل تشکر می‌کنم. 'Z góry' به معنای واقعی 'از بالا/از پیش' است — عبارت ثابت برای تشکر از قبل."
+    },
+    {
+      "id": "b1-ch17-l03-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: I remain at your (madam's) disposal.",
+      "prompt_fa": "بسازید: در اختیار شما (خانم) هستم.",
+      "wordBank": ["Pozostaję", "do", "Pani", "dyspozycji", "Pana", "do dyspozycji", "pozostają"],
+      "correctSequences": [["Pozostaję", "do", "Pani", "dyspozycji"]],
+      "explanation": "'Pozostaję do Pani dyspozycji.' — I remain at your (madam's) disposal. 'Do + genitive': Pani dyspozycji. Standard formal email closing.",
+      "explanation_fa": "'Pozostaję do Pani dyspozycji.' — در اختیار شما (خانم) هستم. 'do + مضاف‌الیه': Pani dyspozycji. خاتمه استاندارد ایمیل رسمی."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["formal-writing", "email", "phrases", "b1-core"],
+  "prerequisites": ["b1-ch17-l01", "b1-ch17-l02"]
+}

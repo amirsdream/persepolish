@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Bardzo ___ za rodzicami. (I miss my parents a lot.) [tęsknić za + instrumental]",
+      "prompt_fa": "Bardzo ___ za rodzicami. (خیلی دلم برای والدینم تنگ شده.) [tęsknić za + ابزاری]",
       "options": [
         "tęsknię za",
         "tęsknię do",
@@ -30,24 +31,34 @@
         "tęsknię na"
       ],
       "correctIndex": 0,
-      "explanation": "'Tęsknić za + instrumental': za rodzicami (rodzice → instrumental pl: rodzicami). 'Tęsknię za tobą' = I miss you. Never 'tęsknię do'."
+      "explanation": "'Tęsknić za + instrumental': za rodzicami (rodzice → instrumental pl: rodzicami). 'Tęsknię za tobą' = I miss you. Never 'tęsknię do'.",
+      "explanation_fa": "tęsknić za + ابزاری: za rodzicami (rodzice → ابزاری جمع: rodzicami). هرگز 'tęsknię do' نمی‌شود."
     },
     {
       "id": "a2-ch15-l03-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Martwię się ___ jego zdrowiem. (I'm worried about his health.) [o or instrumental?]",
+      "context": "Polish. Complete with the correct preposition:",
+      "context_fa": "لهستانی. حرف اضافه صحیح را تکمیل کنید:",
+      "sentence": "Martwię się ___ ciebie.",
+      "translation": "(I'm worried about you.) [martwić się o + accusative person]",
+      "translation_fa": "(نگران تو هستم.) [martwić się o + مفعولی — شخص]",
+      "prompt": "Martwię się ___ ciebie.",
+      "prompt_fa": "Martwię się ___ ciebie.",
       "answer": "o",
       "acceptableAnswers": [
         "o"
       ],
-      "hint": "Martwić się O + accusative person/thing, OR martwić się + instrumental. Here: 'jego zdrowiem' is instrumental — wait, the prompt uses instrumental 'zdrowiem', so fill blank = nothing needed. Try: Martwię się ___ ciebie = about you → 'o'."
+      "hint": "Martwić się O + accusative when the worry is about a person.",
+      "explanation": "'Martwię się o ciebie.' — I'm worried about you. 'Martwić się o + accusative' = to worry about (a person). 'Ciebie' = accusative of 'ty'.",
+      "explanation_fa": "martwić się o + مفعولی = نگران (شخص) بودن. ciebie = مفعولی 'ty'."
     },
     {
       "id": "a2-ch15-l03-ex03",
       "type": "multiple_choice",
       "order": 3,
       "prompt": "Cieszę się ___ twojego awansu. (I'm happy about your promotion.) [cieszyć się z + genitive]",
+      "prompt_fa": "Cieszę się ___ twojego awansu. (از ترفیعت خوشحالم.) [cieszyć się z + مضاف‌الیهی]",
       "options": [
         "z",
         "o",
@@ -55,12 +66,15 @@
         "za"
       ],
       "correctIndex": 0,
-      "explanation": "'Cieszyć się z + genitive': z twojego awansu (awans → genitive: awansu). 'Cieszę się z twojego sukcesu' = I'm happy about your success."
+      "explanation": "'Cieszyć się z + genitive': z twojego awansu (awans → genitive: awansu). 'Cieszę się z twojego sukcesu' = I'm happy about your success.",
+      "explanation_fa": "cieszyć się z + مضاف‌الیهی: z twojego awansu (awans → مضاف‌الیهی: awansu). cieszę się z = از... خوشحالم."
     },
     {
       "id": "a2-ch15-l03-ex04",
       "type": "dictation_mc",
       "order": 4,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch15/a2-ch15-l03-ex04.mp3",
       "options": [
         "Denerwuję się na niego, bo zawsze się spóźnia.",
@@ -69,13 +83,15 @@
         "Denerwuję się od niego, bo zawsze się spóźnia."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Denerwuję się na niego, bo zawsze się spóźnia.' — I get annoyed at him because he's always late. 'Denerwować się na + accusative': na niego (accusative of 'on')."
+      "explanation": "You heard: 'Denerwuję się na niego, bo zawsze się spóźnia.' — I get annoyed at him because he's always late. 'Denerwować się na + accusative': na niego (accusative of 'on').",
+      "explanation_fa": "شنیدید: 'Denerwuję się na niego, bo zawsze się spóźnia.' — از او عصبانی می‌شوم چون همیشه دیر می‌کند. denerwować się na + مفعولی: na niego."
     },
     {
       "id": "a2-ch15-l03-ex05",
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: He envies her success. [zazdrościć + dative + genitive]",
+      "prompt_fa": "بسازید: او به موفقیتش حسادت می‌کند. [zazdrościć + دادی + مضاف‌الیهی]",
       "wordBank": [
         "On",
         "zazdroszcze",
@@ -94,7 +110,105 @@
           "sukcesu"
         ]
       ],
-      "explanation": "'On zazdrości jej sukcesu.' — He envies her success. 'Zazdrościć' takes dative (person: jej) + genitive (thing: sukcesu). 'Jej' = dative of 'ona'."
+      "explanation": "'On zazdrości jej sukcesu.' — He envies her success. 'Zazdrościć' takes dative (person: jej) + genitive (thing: sukcesu). 'Jej' = dative of 'ona'.",
+      "explanation_fa": "zazdrościć + دادی (شخص: jej) + مضاف‌الیهی (چیز: sukcesu). jej = دادی ona."
+    },
+    {
+      "id": "a2-ch15-l03-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Ania ___ swojego zachowania na przyjęciu. (Ania is ashamed of her behaviour at the party.) [wstydzić się + genitive]",
+      "prompt_fa": "Ania ___ swojego zachowania na przyjęciu. (آنیا از رفتارش در مهمانی خجالت می‌کشد.) [wstydzić się + مضاف‌الیهی]",
+      "options": [
+        "wstydzi się",
+        "wstydzi się z",
+        "wstydzi się na",
+        "wstydzi się o"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wstydzić się + genitive': wstydzić się czegoś = to be ashamed of something. 'Swojego zachowania' = genitive of 'swoje zachowanie'. No preposition needed.",
+      "explanation_fa": "wstydzić się + مضاف‌الیهی (بدون حرف اضافه): wstydzić się czegoś = از چیزی خجالت کشیدن. swojego zachowania = مضاف‌الیهی."
+    },
+    {
+      "id": "a2-ch15-l03-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Polish. Complete with the correct preposition or case:",
+      "context_fa": "لهستانی. حرف اضافه یا حالت صحیح را تکمیل کنید:",
+      "sentence": "Marek boi się ___ pająków.",
+      "translation": "(Marek is afraid of spiders.) [bać się + genitive]",
+      "translation_fa": "(مارک از عنکبوت‌ها می‌ترسد.) [bać się + مضاف‌الیهی]",
+      "prompt": "Marek boi się ___ pająków.",
+      "prompt_fa": "Marek boi się ___ pająków.",
+      "answer": "pająków",
+      "acceptableAnswers": [
+        "pająków"
+      ],
+      "hint": "Bać się + genitive directly (no preposition). 'Pająki' → genitive plural: pająków.",
+      "explanation": "'Marek boi się pająków.' — Marek is afraid of spiders. 'Bać się + genitive' — no preposition needed. 'Pająki' → genitive plural: pająków. The blank is already filled — the sentence should read: Marek boi się pająków.",
+      "explanation_fa": "bać się + مضاف‌الیهی (بدون حرف اضافه): bać się czegoś. pająki → مضاف‌الیهی جمع: pająków."
+    },
+    {
+      "id": "a2-ch15-l03-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch15/a2-ch15-l03-ex08.mp3",
+      "options": [
+        "Kasia bardzo tęskni za swoją rodziną.",
+        "Kasia bardzo tęskni do swojej rodziny.",
+        "Kasia bardzo tęskni o swojej rodzinie.",
+        "Kasia bardzo tęskni z rodziną."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Kasia bardzo tęskni za swoją rodziną.' — Kasia misses her family a lot. 'Tęsknić za + instrumental': za swoją rodziną (rodzina → instr: rodziną).",
+      "explanation_fa": "شنیدید: 'Kasia bardzo tęskni za swoją rodziną.' — کاسیا خیلی دلش برای خانواده‌اش تنگ شده. tęsknić za + ابزاری: za swoją rodziną."
+    },
+    {
+      "id": "a2-ch15-l03-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: Tomek is worried about his exam tomorrow. [martwić się o + acc]",
+      "prompt_fa": "بسازید: تومک نگران امتحان فردایش است. [martwić się o + مفعولی]",
+      "wordBank": [
+        "Tomek",
+        "martwi",
+        "martwi się",
+        "o",
+        "z",
+        "jutrzejszy",
+        "jutrzejszym",
+        "egzamin",
+        "egzaminie"
+      ],
+      "correctSequences": [
+        [
+          "Tomek",
+          "martwi się",
+          "o",
+          "jutrzejszy",
+          "egzamin"
+        ]
+      ],
+      "explanation": "'Tomek martwi się o jutrzejszy egzamin.' — Tomek is worried about tomorrow's exam. 'Martwić się o + accusative': o jutrzejszy egzamin (accusative, masculine inanimate).",
+      "explanation_fa": "martwić się o + مفعولی: o jutrzejszy egzamin (مفعولی مذکر غیرجاندار). martwi się = نگران است."
+    },
+    {
+      "id": "a2-ch15-l03-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Ania ___ na nudnym wykładzie. (Ania is bored at the boring lecture.) [nudzić się — no preposition]",
+      "prompt_fa": "Ania ___ na nudnym wykładzie. (آنیا در سخنرانی خسته‌کننده حوصله‌اش سر رفته.) [nudzić się — بدون حرف اضافه]",
+      "options": [
+        "nudzi się",
+        "nudziła",
+        "nudzi",
+        "jest nudna"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nudzić się' (reflexive) = to be bored. Third person singular: nudzi się. 'Na nudnym wykładzie' = locative (at the boring lecture). Never 'nudzi' alone — 'się' is integral.",
+      "explanation_fa": "nudzić się بازتابی است: nudzi się = حوصله‌اش سر رفته. 'się' جدایی‌ناپذیر است. na nudnym wykładzie = مکانی."
     }
   ],
   "xpReward": 25,

@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Formal opening to an unknown woman. Choose the correct salutation:",
+      "prompt_fa": "آغاز رسمی برای یک زن ناشناس. سلام صحیح را انتخاب کنید:",
       "options": [
         "Szanowna Pani,",
         "Szanowny Pan,",
@@ -30,23 +31,32 @@
         "Hej Pani,"
       ],
       "correctIndex": 0,
-      "explanation": "'Szanowna Pani,' = Dear Madam/Ms (when you don't know her name or title). 'Szanowny Pan' = Dear Sir. 'Droga Pani' is less formal. 'Hej' = Hey (very informal, inappropriate here)."
+      "explanation": "'Szanowna Pani,' = Dear Madam/Ms (when you don't know her name or title). 'Szanowny Pan' = Dear Sir. 'Droga Pani' is less formal. 'Hej' = Hey (very informal, inappropriate here).",
+      "explanation_fa": "'Szanowna Pani,' = سرکار خانم (وقتی نامش را نمی‌دانید). 'Szanowny Pan' = جناب آقا. 'Droga Pani' کمتر رسمی است. 'Hej' = هی (کاملاً غیررسمی، نامناسب)."
     },
     {
       "id": "a2-ch19-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Piszę ___ sprawie rezerwacji. (I am writing regarding the reservation.) [fixed phrase]",
+      "context": "Formal email body: I am writing regarding the reservation. Complete:",
+      "context_fa": "متن ایمیل رسمی: دارم درباره رزرو می‌نویسم. کامل کنید:",
+      "sentence": "Piszę ___ sprawie rezerwacji.",
+      "translation": "(I am writing regarding the reservation.) [fixed phrase: w sprawie + gen]",
+      "translation_fa": "(دارم درباره رزرو می‌نویسم.) [عبارت ثابت: w sprawie + مضاف‌الیه]",
+      "prompt": "Piszę ___ sprawie rezerwacji.",
+      "prompt_fa": "Piszę ___ sprawie rezerwacji.",
       "answer": "w",
-      "acceptableAnswers": [
-        "w"
-      ],
-      "hint": "Pisać w sprawie + gen = to write regarding. 'W sprawie' is a fixed prepositional phrase."
+      "acceptableAnswers": ["w"],
+      "hint": "Pisać ___ sprawie = to write regarding (fixed prepositional phrase)",
+      "explanation": "'Piszę w sprawie rezerwacji.' — I am writing regarding the reservation. 'W sprawie + genitive' is a fixed formal phrase. Rezerwacji = genitive of rezerwacja.",
+      "explanation_fa": "'Piszę w sprawie rezerwacji.' — دارم درباره رزرو می‌نویسم. 'W sprawie + مضاف‌الیه' یک عبارت رسمی ثابت است."
     },
     {
       "id": "a2-ch19-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch19/a2-ch19-l02-ex03.mp3",
       "options": [
         "Uprzejmie proszę o potwierdzenie rezerwacji.",
@@ -55,13 +65,15 @@
         "Czy może Pan potwierdzić rezerwację?"
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Uprzejmie proszę o potwierdzenie rezerwacji.' — I kindly request confirmation of the reservation. 'Uprzejmie proszę o + accusative' is a fixed formal request phrase. 'Potwierdzenie' = verbal noun (from potwierdzić)."
+      "explanation": "You heard: 'Uprzejmie proszę o potwierdzenie rezerwacji.' — I kindly request confirmation of the reservation. 'Uprzejmie proszę o + accusative' is a fixed formal request phrase. 'Potwierdzenie' = verbal noun (from potwierdzić).",
+      "explanation_fa": "شنیدید: 'Uprzejmie proszę o potwierdzenie rezerwacji.' — محترمانه تأیید رزرو را درخواست می‌کنم. 'Uprzejmie proszę o + مفعولی' عبارت رسمی درخواست ثابت است."
     },
     {
       "id": "a2-ch19-l02-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "What is the most common formal closing in Polish letters?",
+      "prompt_fa": "رایج‌ترین ختامیه رسمی در نامه‌های لهستانی چیست؟",
       "options": [
         "Z poważaniem",
         "Do widzenia",
@@ -69,13 +81,15 @@
         "Z serdecznymi pozdrowieniami"
       ],
       "correctIndex": 0,
-      "explanation": "'Z poważaniem' = Yours faithfully/Sincerely — the standard formal closing. 'Z serdecznymi pozdrowieniami' = With warm regards (slightly warmer). 'Do widzenia' = Goodbye (spoken). 'Pa pa' = Bye bye (very informal)."
+      "explanation": "'Z poważaniem' = Yours faithfully/Sincerely — the standard formal closing. 'Z serdecznymi pozdrowieniami' = With warm regards (slightly warmer). 'Do widzenia' = Goodbye (spoken). 'Pa pa' = Bye bye (very informal).",
+      "explanation_fa": "'Z poważaniem' = با احترام — ختامیه رسمی استاندارد. 'Z serdecznymi pozdrowieniami' = با گرمترین احترامات (کمی گرم‌تر). 'Do widzenia' = خداحافظ (گفتاری). 'Pa pa' = خداحافظ (خیلی غیررسمی)."
     },
     {
       "id": "a2-ch19-l02-ex05",
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: I am writing in connection with your offer. (W związku z + instrumental)",
+      "prompt_fa": "بسازید: در ارتباط با پیشنهاد شما می‌نویسم. (W związku z + ابزاری)",
       "wordBank": [
         "Piszę",
         "w",
@@ -88,17 +102,99 @@
         "."
       ],
       "correctSequences": [
-        [
-          "Piszę",
-          "w",
-          "związku",
-          "z",
-          "Państwa",
-          "ofertą",
-          "."
-        ]
+        ["Piszę", "w", "związku", "z", "Państwa", "ofertą", "."]
       ],
-      "explanation": "'Piszę w związku z Państwa ofertą.' — I am writing in connection with your offer. 'W związku z + instrumental': oferta → ofertą. 'Państwa' = your (formal plural possessive, gen. of Państwo, used as adj)."
+      "explanation": "'Piszę w związku z Państwa ofertą.' — I am writing in connection with your offer. 'W związku z + instrumental': oferta → ofertą. 'Państwa' = your (formal plural possessive, gen. of Państwo, used as adj).",
+      "explanation_fa": "'Piszę w związku z Państwa ofertą.' — در ارتباط با پیشنهاد شما می‌نویسم. 'W związku z + ابزاری': oferta → ofertą. 'Państwa' = شما (مضاف‌الیه رسمی جمع)."
+    },
+    {
+      "id": "a2-ch19-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia needs to write formally to a mixed group (unknown). Which salutation is correct?",
+      "prompt_fa": "Kasia باید به یک گروه مختلط (ناشناس) به شکل رسمی بنویسد. کدام سلام صحیح است؟",
+      "options": [
+        "Szanowni Państwo,",
+        "Szanowny Panie,",
+        "Hej wszystkim,",
+        "Drogi Panie,"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Szanowni Państwo,' = Dear Sir/Madam (formal plural for mixed or unknown audience). 'Szanowny Panie' = Dear Sir (single man). 'Hej wszystkim' = Hey everyone (very informal). 'Drogi Panie' = Dear Sir (less formal).",
+      "explanation_fa": "'Szanowni Państwo,' = جناب‌عالی (جمع رسمی برای گروه مختلط یا ناشناس). 'Szanowny Panie' = جناب آقا (یک مرد). 'Hej wszystkim' = هی همه (خیلی غیررسمی). 'Drogi Panie' = کمتر رسمی."
+    },
+    {
+      "id": "a2-ch19-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Formal letter body: In reference to your letter from Monday. Complete:",
+      "context_fa": "متن نامه رسمی: در پاسخ به نامه شما از دوشنبه. کامل کنید:",
+      "sentence": "W ___ do Państwa pisma z poniedziałku,",
+      "translation": "(In reference to your letter from Monday,) [W nawiązaniu do = fixed phrase]",
+      "translation_fa": "(در پاسخ به نامه شما از دوشنبه،) [W nawiązaniu do = عبارت ثابت]",
+      "prompt": "W ___ do Państwa pisma z poniedziałku,",
+      "prompt_fa": "W ___ do Państwa pisma z poniedziałku,",
+      "answer": "nawiązaniu",
+      "acceptableAnswers": ["nawiązaniu"],
+      "hint": "W nawiązaniu do = In reference to (fixed formal phrase)",
+      "explanation": "'W nawiązaniu do Państwa pisma z poniedziałku' = In reference to your letter from Monday. 'W nawiązaniu do + genitive' is a formal opening phrase.",
+      "explanation_fa": "'W nawiązaniu do Państwa pisma z poniedziałku' = در پاسخ به نامه شما از دوشنبه. 'W nawiązaniu do + مضاف‌الیه' یک عبارت آغازی رسمی است."
+    },
+    {
+      "id": "a2-ch19-l02-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch19/a2-ch19-l02-ex08.mp3",
+      "options": [
+        "Z poważaniem, Tomek Nowak",
+        "Do widzenia, Tomek Nowak",
+        "Pozdrawiam serdecznie, Tomek Nowak",
+        "Pa pa, Tomek"
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Z poważaniem, Tomek Nowak' — Yours sincerely, Tomek Nowak. 'Z poważaniem' is the standard formal closing. 'Pozdrawiam serdecznie' is warmer but also acceptable in semi-formal emails.",
+      "explanation_fa": "شنیدید: 'Z poważaniem, Tomek Nowak' — با احترام، Tomek Nowak. 'Z poważaniem' ختامیه رسمی استاندارد است."
+    },
+    {
+      "id": "a2-ch19-l02-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: I kindly request information about the course. (Uprzejmie proszę o + acc)",
+      "prompt_fa": "بسازید: محترمانه اطلاعاتی درباره دوره درخواست می‌کنم. (Uprzejmie proszę o + مفعولی)",
+      "wordBank": [
+        "Uprzejmie",
+        "proszę",
+        "o",
+        "informację",
+        "informacji",
+        "dotyczącą",
+        "kursu",
+        "kurs",
+        "."
+      ],
+      "correctSequences": [
+        ["Uprzejmie", "proszę", "o", "informację", "dotyczącą", "kursu", "."]
+      ],
+      "explanation": "'Uprzejmie proszę o informację dotyczącą kursu.' — I kindly request information about the course. 'Uprzejmie proszę o + accusative': informację (f acc). 'Dotyczącą' = concerning (participle, f acc). 'Kursu' = genitive (of the course).",
+      "explanation_fa": "'Uprzejmie proszę o informację dotyczącą kursu.' — محترمانه اطلاعاتی درباره دوره درخواست می‌کنم. 'Uprzejmie proszę o + مفعولی': informację (مؤنث مفعولی). 'Kursu' = مضاف‌الیه."
+    },
+    {
+      "id": "a2-ch19-l02-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Ania writes: 'W załączeniu ___.' (I am attaching my CV.) Which word completes it?",
+      "prompt_fa": "Ania می‌نویسد: 'W załączeniu ___.' (رزومه‌ام را پیوست می‌کنم.) کدام کلمه آن را کامل می‌کند؟",
+      "options": [
+        "przesyłam moje CV",
+        "jest moje CV",
+        "załączam moje CV",
+        "mam moje CV"
+      ],
+      "correctIndex": 0,
+      "explanation": "'W załączeniu przesyłam moje CV.' = I am attaching my CV. / Please find my CV attached. 'W załączeniu przesyłam' is the standard formal phrase for attachments. Alternatively: 'W załączeniu przesyłam moje CV'.",
+      "explanation_fa": "'W załączeniu przesyłam moje CV.' = رزومه‌ام را پیوست می‌کنم. 'W załączeniu przesyłam' عبارت رسمی استاندارد برای پیوست‌ها است."
     }
   ],
   "xpReward": 20,

@@ -5,24 +5,25 @@
   "lessonOrder": 4,
   "title": "Genitive Plural — Quantity Expressions",
   "title_fa": "مضاف‌الیهی جمع — بیان مقدار",
-  "grammarPoint": "Genitive plural with dużo, mało, ile, pięć+; key genitive plural forms",
-  "grammarPoint_fa": "مضاف‌الیهی جمع پس از اعداد (5+) و کلمات مقدار",
+  "grammarPoint": "Genitive plural with dużo, mało, ile, 5+; key genitive plural forms",
+  "grammarPoint_fa": "مضاف‌الیهی جمع پس از dużo، mało، ile، اعداد ۵+",
   "explanation": {
-    "text": "The **genitive plural** appears after quantity words like *dużo* (a lot), *mało* (few), *ile* (how many), and numbers 5 and above.\n\n**Trigger words for genitive plural:**\n\n| Polish | English |\n|--------|--------|\n| **dużo** | a lot of |\n| **mało** | few / little |\n| **ile?** | how many/much? |\n| **wiele** | many |\n| **kilka** | a few (2-4) |\n| **5, 6, 7...** | five, six, seven... |\n\n**Genitive plural endings:**\n\n| Gender | Examples | Genitive plural |\n|--------|---------|----------------|\n| Masculine | student, sklep | studentów, sklepów |\n| Feminine | kobieta, ulica | kobiet, ulic |\n| Neuter | okno, miasto | okien, miast |\n\n**Common genitive plurals:**\n- dużo **studentów** = a lot of students\n- mało **sklepów** = few shops\n- pięć **jabłek** = five apples (jabłko → jabłek)\n- ile **pieniędzy**? = how much money? (pieniądze → pieniędzy)\n- dużo **wody** = a lot of water (woda → wody — genitive singular! Uncountable.)\n\n**Note:** Uncountable nouns (water, milk, money) use genitive **singular** after quantity words.",
+    "text": "## Genitive Plural — Quantity Expressions\n\nThe **genitive plural** is required after quantity words and numbers 5 and above.\n\n### Trigger words for genitive plural\n\n| Polish | English | Example |\n|--------|---------|----------|\n| **dużo** | a lot of | dużo studentów |\n| **mało** | few / little | mało czasu |\n| **ile?** | how many/much? | Ile masz lat? |\n| **wiele** | many | wiele możliwości |\n| **kilka** | a few (non-virile) | kilka jabłek |\n| **kilku** | a few (virile) | kilku studentów |\n| **5, 6, 7...** | numbers 5+ | pięć kotów |\n\n### Genitive plural endings\n\n| Gender | Nominative sg | Genitive plural | Pattern |\n|--------|--------------|-----------------|----------|\n| Masc. animate | student | **studentów** | -ów (most masc.) |\n| Masc. animate | turysta | **turystów** | -ów |\n| Masc. inanimate | sklep | **sklepów** | -ów |\n| Masc. inanimate | samochód | **samochodów** | -ów |\n| Feminine | kobieta | **kobiet** | zero ending |\n| Feminine | ulica | **ulic** | zero ending |\n| Feminine | restauracja | **restauracji** | -i |\n| Neuter | okno | **okien** | zero + vowel insert |\n| Neuter | miasto | **miast** | zero ending |\n| Neuter | jabłko | **jabłek** | zero + vowel insert |\n\n### Countable vs. uncountable with dużo\n\n| Type | Polish | English |\n|------|--------|----------|\n| Countable (pl) | *dużo **studentów*** | a lot of students |\n| Uncountable (sg) | *dużo **wody*** | a lot of water |\n| Uncountable (sg) | *mało **czasu*** | not much time |\n\n> ⚠️ Uncountable nouns (water, time, money, milk) use **genitive singular**, not plural, after dużo/mało.\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *pięć koty* | *pięć **kotów*** | 5+ → genitive plural |\n| *dużo studenci* | *dużo **studentów*** | dużo + genitive plural |\n| *ile miast są?* | *ile miast **jest**?* | ile + genitive = 3rd sg verb |\n| *dużo wodę* | *dużo **wody*** | uncountable → genitive singular |",
     "notes": [
-      "Masculine genitive plural: -ów (most cases): studentów, sklepów, samochodów.",
-      "Feminine genitive plural: often zero ending (loss of vowel): kobieta → kobiet, ulica → ulic.",
-      "Neuter genitive plural: also often zero or -i/-y: okno → okien, miasto → miast, jabłko → jabłek.",
-      "After 5+: genitive plural for countable nouns. After dużo/mało: genitive (sg for uncountable, pl for countable)."
+      "After 5+: genitive plural for countable nouns: pięć kotów, sześć miast, siedem restauracji",
+      "Masculine animate/inanimate genitive plural: usually -ów (studentów, sklepów, samochodów)",
+      "Feminine genitive plural: often zero ending (kobiet, ulic) or -i (restauracji)",
+      "Uncountable nouns use genitive SINGULAR after dużo/mało: dużo wody, mało czasu"
     ]
   },
-  "explanation_fa": "مضاف‌الیهی جمع پس از اعداد ۵ به بالا: pięć kotów (پنج گربه)، dużo wody (خیلی آب)، mało czasu (وقت کم). پسوندهای جمع مضاف‌الیهی: اسم‌های مذکر: اغلب -ów (kotów)، مؤنث: اغلب بدون پسوند (kobiet)، خنثی: اغلب بدون پسوند (okien).",
+  "explanation_fa": "## مضاف‌الیهی جمع — بیان مقدار\n\n**مضاف‌الیهی جمع** پس از کلمات مقدار و اعداد ۵ به بالا لازم است.\n\n### کلماتی که مضاف‌الیهی جمع می‌طلبند\n\n| لهستانی | فارسی | مثال |\n|---------|-------|------|\n| **dużo** | خیلی | dużo studentów |\n| **mało** | کم | mało czasu |\n| **ile?** | چقدر/چند؟ | Ile masz lat? |\n| **5, 6, 7...** | اعداد ۵+ | pięć kotów |\n\n### پسوندهای مضاف‌الیهی جمع\n\n| جنسیت | فاعلی مفرد | مضاف‌الیهی جمع | الگو |\n|--------|------------|----------------|------|\n| مذکر جاندار | student | **studentów** | -ów (اکثر مذکر) |\n| مذکر غیرجاندار | sklep | **sklepów** | -ów |\n| مؤنث | kobieta | **kobiet** | پسوند صفر |\n| مؤنث | restauracja | **restauracji** | -i |\n| خنثی | okno | **okien** | صفر + درج مصوت |\n| خنثی | miasto | **miast** | پسوند صفر |\n\n### شمارش‌پذیر در مقابل غیرشمارش‌پذیر با dużo\n\n| نوع | لهستانی | فارسی |\n|-----|---------|-------|\n| شمارش‌پذیر (جمع) | *dużo **studentów*** | خیلی دانشجو |\n| غیرشمارش‌پذیر (مفرد) | *dużo **wody*** | خیلی آب |\n\n> ⚠️ اسم‌های غیرشمارش‌پذیر (آب، وقت، پول، شیر) بعد از dużo/mało **مضاف‌الیهی مفرد** می‌گیرند، نه جمع.\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *pięć koty* | *pięć **kotów*** | ۵+ → مضاف‌الیهی جمع |\n| *dużo studenci* | *dużo **studentów*** | dużo + مضاف‌الیهی جمع |\n| *dużo wodę* | *dużo **wody*** | غیرشمارش‌پذیر → مضاف‌الیهی مفرد |",
   "exercises": [
     {
       "id": "a1-ch08-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Mam dużo ___ (I have a lot of friends — m). [przyjaciel → genitive plural]",
+      "prompt": "There are a lot of tourists in Kraków. Complete: Mam dużo ___ (friends). [przyjaciel → genitive plural]",
+      "prompt_fa": "تامک در کراکوف خیلی دوست دارد. کامل کنید: Mam dużo ___ (دوست). [przyjaciel → مضاف‌الیهی جمع]",
       "options": [
         "przyjaciół",
         "przyjaciele",
@@ -30,24 +31,35 @@
         "przyjaciołom"
       ],
       "correctIndex": 0,
-      "explanation": "'Przyjaciel' → genitive plural 'przyjaciół'. 'Dużo + genitive plural'. 'Mam dużo przyjaciół' = I have a lot of friends."
+      "explanation": "'Przyjaciel' → genitive plural 'przyjaciół' (irregular -ół ending). 'Dużo + genitive plural'. 'Mam dużo przyjaciół' = I have a lot of friends.",
+      "explanation_fa": "'Przyjaciel' → مضاف‌الیهی جمع 'przyjaciół' (پسوند نامنظم -ół). 'Dużo + مضاف‌الیهی جمع'. 'Mam dużo przyjaciół' = خیلی دوست دارم."
     },
     {
       "id": "a1-ch08-l04-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Ile ___ jest w Polsce? (How many cities are there in Poland?) [miasto → genitive plural]",
       "answer": "miast",
       "acceptableAnswers": [
         "miast"
       ],
-      "hint": "Neuter genitive plural: miasto → miast (zero ending)"
+      "hint": "Neuter genitive plural: miasto → miast (zero ending)",
+      "explanation": "Neuter genitive plural: miasto → miast (zero ending). 'Ile miast jest w Polsce?' = How many cities are there in Poland?",
+      "explanation_fa": "مضاف‌الیهی جمع خنثی: miasto → miast (پسوند صفر). 'Ile miast jest w Polsce?' = در لهستان چند شهر هست؟",
+      "context": "Complete the sentence:",
+      "context_fa": "جمله را کامل کنید:",
+      "sentence": "Ile ___ jest w Polsce?",
+      "translation": "(How many cities are there in Poland?) [miasto → genitive plural]",
+      "translation_fa": "(در لهستان چند شهر هست؟) [miasto → مضاف‌الیهی جمع]",
+      "prompt": "Ile ___ jest w Polsce?",
+      "prompt_fa": "Ile ___ jest w Polsce?"
     },
     {
       "id": "a1-ch08-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch08/a1-ch08-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "W Polsce jest dużo pięknych miast.",
         "W Polsce jest dużo piękne miasta.",
@@ -55,21 +67,20 @@
         "W Polsce jest wiele piękne miasta."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'W Polsce jest dużo pięknych miast.' — There are many beautiful cities in Poland. 'Dużo + genitive plural': miast. 'Pięknych' = genitive plural adjective."
+      "explanation": "You heard: 'W Polsce jest dużo pięknych miast.' — There are many beautiful cities in Poland. 'Dużo + genitive plural': miast. 'Pięknych' = genitive plural adjective.",
+      "explanation_fa": "شنیدید: 'W Polsce jest dużo pięknych miast.' — در لهستان خیلی شهر زیبا هست. 'Dużo + مضاف‌الیهی جمع': miast. 'Pięknych' = صفت مضاف‌الیهی جمع."
     },
     {
       "id": "a1-ch08-l04-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: I don't have a lot of money.",
+      "prompt": "Tap the words in order: I don't have a lot of money.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: خیلی پول ندارم.",
       "wordBank": [
         "Nie",
         "mam",
         "dużo",
-        "mało",
-        "pieniędzy",
-        "pieniądze",
-        "pieniądzem"
+        "pieniędzy"
       ],
       "correctSequences": [
         [
@@ -79,13 +90,15 @@
           "pieniędzy"
         ]
       ],
-      "explanation": "'Nie mam dużo pieniędzy' = I don't have a lot of money. 'Pieniądze' → genitive 'pieniędzy'. 'Dużo + genitive'. Note: negation also requires genitive."
+      "explanation": "'Nie mam dużo pieniędzy' = I don't have a lot of money. 'Pieniądze' → genitive 'pieniędzy'. 'Dużo + genitive'. Note: negation also requires genitive.",
+      "explanation_fa": "'Nie mam dużo pieniędzy' = خیلی پول ندارم. 'Pieniądze' → مضاف‌الیهی 'pieniędzy'. 'Dużo + مضاف‌الیهی'. توجه: منفی هم مضاف‌الیهی می‌طلبد."
     },
     {
       "id": "a1-ch08-l04-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Kupiłem pięć ___ (I bought five apples). [jabłko → genitive plural]",
+      "prompt": "Ania bought five apples. Complete: Kupiłam pięć ___. [jabłko → genitive plural]",
+      "prompt_fa": "آنیا پنج سیب خرید. کامل کنید: Kupiłam pięć ___. [jabłko → مضاف‌الیهی جمع]",
       "options": [
         "jabłek",
         "jabłka",
@@ -93,7 +106,101 @@
         "jabłkach"
       ],
       "correctIndex": 0,
-      "explanation": "'Jabłko' → genitive plural 'jabłek'. After 5+, use genitive plural: pięć jabłek. Note the -ek ending (irregular neuter)."
+      "explanation": "'Jabłko' → genitive plural 'jabłek' (vowel inserted: jabł-ek). After 5+, use genitive plural. Note the irregular -ek ending.",
+      "explanation_fa": "'Jabłko' → مضاف‌الیهی جمع 'jabłek' (مصوت درج می‌شود: jabł-ek). بعد از ۵+، از مضاف‌الیهی جمع استفاده کنید. توجه به پسوند نامنظم -ek."
+    },
+    {
+      "id": "a1-ch08-l04-ex06",
+      "type": "fill_blank",
+      "order": 6,
+      "answer": "sklepów",
+      "acceptableAnswers": [
+        "sklepów"
+      ],
+      "hint": "Masculine inanimate genitive plural: sklep → sklepów (-ów)",
+      "explanation": "'Sklep' (m inanimate) → genitive plural: 'sklepów' (-ów). After 5+, use genitive plural. 'Jest tutaj sześć sklepów' = There are six shops here.",
+      "explanation_fa": "'Sklep' (مذکر غیرجاندار) → مضاف‌الیهی جمع: 'sklepów' (-ów). بعد از ۵+، از مضاف‌الیهی جمع استفاده کنید. 'Jest tutaj sześć sklepów' = اینجا شش مغازه هست.",
+      "context": "Marek counted the shops on the street. Complete:",
+      "context_fa": "ماریک مغازه‌های خیابان را شمرد. کامل کنید:",
+      "sentence": "Jest tutaj sześć ___.",
+      "translation": "(six shops) [sklep → genitive plural]",
+      "translation_fa": "(شش مغازه) [sklep → مضاف‌الیهی جمع]",
+      "prompt": "Jest tutaj sześć ___.",
+      "prompt_fa": "Jest tutaj sześć ___."
+    },
+    {
+      "id": "a1-ch08-l04-ex07",
+      "type": "multiple_choice",
+      "order": 7,
+      "prompt": "Kasia has many female friends in Warsaw. Complete: Mam dużo ___ w Warszawie. [koleżanka → genitive plural]",
+      "prompt_fa": "کاسیا در ورشو خیلی دوست دختر دارد. کامل کنید: Mam dużo ___ w Warszawie. [koleżanka → مضاف‌الیهی جمع]",
+      "options": [
+        "koleżanek",
+        "koleżanki",
+        "koleżanką",
+        "koleżankach"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Koleżanka' (f -ka) → genitive plural: 'koleżanek' (zero ending with vowel insertion: koleżan-ek). 'Dużo + genitive plural'. Feminine -ka nouns often have -ek genitive plural.",
+      "explanation_fa": "'Koleżanka' (مؤنث -ka) → مضاف‌الیهی جمع: 'koleżanek' (پسوند صفر با درج مصوت: koleżan-ek). 'Dużo + مضاف‌الیهی جمع'. اسم‌های مؤنث -ka اغلب مضاف‌الیهی جمع -ek دارند."
+    },
+    {
+      "id": "a1-ch08-l04-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Tomek asks: How many students are in the class? Complete: Ile ___ jest w klasie? [student → genitive plural]",
+      "prompt_fa": "تامک می‌پرسد: چند دانشجو در کلاس هست؟ کامل کنید: Ile ___ jest w klasie? [student → مضاف‌الیهی جمع]",
+      "options": [
+        "studentów",
+        "studenci",
+        "studenta",
+        "studentom"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Student' (m animate) → genitive plural: 'studentów' (-ów). 'Ile + genitive plural'. 'Ile studentów jest w klasie?' = How many students are in the class?",
+      "explanation_fa": "'Student' (مذکر جاندار) → مضاف‌الیهی جمع: 'studentów' (-ów). 'Ile + مضاف‌الیهی جمع'. 'Ile studentów jest w klasie?' = چند دانشجو در کلاس هست؟"
+    },
+    {
+      "id": "a1-ch08-l04-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tap the words in order: There are a lot of restaurants in Kraków.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: در کراکوف خیلی رستوران هست.",
+      "wordBank": [
+        "W",
+        "Krakowie",
+        "jest",
+        "dużo",
+        "restauracji"
+      ],
+      "correctSequences": [
+        [
+          "W",
+          "Krakowie",
+          "jest",
+          "dużo",
+          "restauracji"
+        ]
+      ],
+      "explanation": "'W Krakowie jest dużo restauracji' = There are many restaurants in Kraków. 'Restauracja' (f -cja) → genitive plural 'restauracji' (-i). 'Dużo + genitive plural'.",
+      "explanation_fa": "'W Krakowie jest dużo restauracji' = در کراکوف خیلی رستوران هست. 'Restauracja' (مؤنث -cja) → مضاف‌الیهی جمع 'restauracji' (-i). 'Dużo + مضاف‌الیهی جمع'."
+    },
+    {
+      "id": "a1-ch08-l04-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch08/a1-ch08-l04-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "W Polsce jest mało lotnisk, ale dużo dworców.",
+        "W Polsce jest mało lotnisko, ale dużo dworce.",
+        "W Polsce jest mało lotnisk, ale dużo dworzec.",
+        "W Polsce są mało lotnisk, ale dużo dworców."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'W Polsce jest mało lotnisk, ale dużo dworców.' — In Poland there are few airports but many stations. 'Lotnisko' → gen. pl. 'lotnisk'; 'dworzec' → gen. pl. 'dworców'.",
+      "explanation_fa": "شنیدید: 'W Polsce jest mało lotnisk, ale dużo dworców.' — در لهستان تعداد فرودگاه کم است اما ایستگاه زیاد. 'Lotnisko' → م.جمع 'lotnisk'؛ 'dworzec' → م.جمع 'dworców'."
     }
   ],
   "xpReward": 20,

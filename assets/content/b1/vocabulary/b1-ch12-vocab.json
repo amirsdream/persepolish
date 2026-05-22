@@ -1,0 +1,262 @@
+{
+  "id": "b1-ch12-vocab",
+  "chapter": 12,
+  "level": "b1",
+  "title": "Advanced Preposition Vocabulary",
+  "title_fa": "واژگان حروف اضافه پیشرفته",
+  "cards": [
+    {
+      "id": "b1-ch12-w001",
+      "polish": "mimo",
+      "english": "despite, in spite of (+ genitive)",
+      "pronunciation": "MEE-moh",
+      "gender": null,
+      "category": "preposition",
+      "examplePolish": "Mimo deszczu wyszliśmy na spacer.",
+      "exampleEnglish": "Despite the rain, we went for a walk."
+    },
+    {
+      "id": "b1-ch12-w002",
+      "polish": "wbrew",
+      "english": "against, contrary to (+ dative)",
+      "pronunciation": "VBREV",
+      "gender": null,
+      "category": "preposition",
+      "examplePolish": "Wbrew zasadom zaparkowała na chodniku.",
+      "exampleEnglish": "Against the rules, she parked on the pavement."
+    },
+    {
+      "id": "b1-ch12-w003",
+      "polish": "według",
+      "english": "according to (+ genitive)",
+      "pronunciation": "VED-wook",
+      "gender": null,
+      "category": "preposition",
+      "examplePolish": "Według mnie masz rację.",
+      "exampleEnglish": "According to me, you are right."
+    },
+    {
+      "id": "b1-ch12-w004",
+      "polish": "podczas",
+      "english": "during (+ genitive)",
+      "pronunciation": "POD-chahs",
+      "gender": null,
+      "category": "preposition",
+      "examplePolish": "Podczas lekcji słuchamy uważnie.",
+      "exampleEnglish": "During the lesson, we listen carefully."
+    },
+    {
+      "id": "b1-ch12-w005",
+      "polish": "wzdłuż",
+      "english": "along (+ genitive)",
+      "pronunciation": "VZDWOOSH",
+      "gender": null,
+      "category": "preposition",
+      "examplePolish": "Szliśmy wzdłuż rzeki.",
+      "exampleEnglish": "We walked along the river."
+    },
+    {
+      "id": "b1-ch12-w006",
+      "polish": "wokół",
+      "english": "around, surrounding (+ genitive)",
+      "pronunciation": "VOH-koow",
+      "gender": null,
+      "category": "preposition",
+      "examplePolish": "Siedzieli wokół stołu.",
+      "exampleEnglish": "They sat around the table."
+    },
+    {
+      "id": "b1-ch12-w007",
+      "polish": "naprzeciwko",
+      "english": "opposite, across from (+ genitive)",
+      "pronunciation": "nah-pzhe-CHEEF-koh",
+      "gender": null,
+      "category": "preposition",
+      "examplePolish": "Mieszkam naprzeciwko parku.",
+      "exampleEnglish": "I live opposite the park."
+    },
+    {
+      "id": "b1-ch12-w008",
+      "polish": "wśród",
+      "english": "among (people/groups) (+ genitive)",
+      "pronunciation": "VSHROOT",
+      "gender": null,
+      "category": "preposition",
+      "examplePolish": "Wśród uczestników były znane osoby.",
+      "exampleEnglish": "Among the participants were famous people."
+    },
+    {
+      "id": "b1-ch12-w009",
+      "polish": "pośród",
+      "english": "in the midst of, among (things) (+ genitive)",
+      "pronunciation": "POH-shroot",
+      "gender": null,
+      "category": "preposition",
+      "examplePolish": "Pośród drzew stał stary kościół.",
+      "exampleEnglish": "In the midst of the trees stood an old church."
+    },
+    {
+      "id": "b1-ch12-w010",
+      "polish": "oprócz",
+      "english": "apart from, except (+ genitive)",
+      "pronunciation": "OH-prootch",
+      "gender": null,
+      "category": "preposition",
+      "examplePolish": "Oprócz mnie wszyscy zdali.",
+      "exampleEnglish": "Apart from me, everyone passed."
+    },
+    {
+      "id": "b1-ch12-w011",
+      "polish": "zamiast",
+      "english": "instead of (+ genitive)",
+      "pronunciation": "ZAH-myahst",
+      "gender": null,
+      "category": "preposition",
+      "examplePolish": "Wzięłam herbatę zamiast kawy.",
+      "exampleEnglish": "I took tea instead of coffee."
+    },
+    {
+      "id": "b1-ch12-w012",
+      "polish": "dzięki",
+      "english": "thanks to, due to (+ dative)",
+      "pronunciation": "DZYEHN-kee",
+      "gender": null,
+      "category": "preposition",
+      "examplePolish": "Dzięki pomocy przyjaciela zdałem.",
+      "exampleEnglish": "Thanks to my friend's help, I passed."
+    },
+    {
+      "id": "b1-ch12-w013",
+      "polish": "pomimo",
+      "english": "despite (formal variant of mimo)",
+      "pronunciation": "poh-MEE-moh",
+      "gender": null,
+      "category": "preposition",
+      "examplePolish": "Pomimo problemów projekt zakończono.",
+      "exampleEnglish": "Despite the problems, the project was completed."
+    },
+    {
+      "id": "b1-ch12-w014",
+      "polish": "wobec",
+      "english": "in the face of, towards (+ genitive)",
+      "pronunciation": "VOH-bets",
+      "gender": null,
+      "category": "preposition",
+      "examplePolish": "Wobec trudności pozostał spokojny.",
+      "exampleEnglish": "In the face of difficulties, he remained calm."
+    },
+    {
+      "id": "b1-ch12-w015",
+      "polish": "spośród",
+      "english": "from among, out of (+ genitive)",
+      "pronunciation": "SPOH-shroot",
+      "gender": null,
+      "category": "preposition",
+      "examplePolish": "Spośród kandydatów wybrano troje.",
+      "exampleEnglish": "From among the candidates, three were selected."
+    },
+    {
+      "id": "b1-ch12-w016",
+      "polish": "prognoza",
+      "english": "forecast, prognosis",
+      "pronunciation": "prog-NOH-zah",
+      "gender": "f",
+      "category": "noun",
+      "examplePolish": "Według prognozy pogody jutro będzie słonecznie.",
+      "exampleEnglish": "According to the weather forecast, tomorrow will be sunny."
+    },
+    {
+      "id": "b1-ch12-w017",
+      "polish": "raport",
+      "english": "report",
+      "pronunciation": "RAH-port",
+      "gender": "m",
+      "category": "noun",
+      "examplePolish": "Według raportu wyniki są zadowalające.",
+      "exampleEnglish": "According to the report, the results are satisfactory."
+    },
+    {
+      "id": "b1-ch12-w018",
+      "polish": "zasada",
+      "english": "rule, principle",
+      "pronunciation": "zah-SAH-dah",
+      "gender": "f",
+      "category": "noun",
+      "examplePolish": "Wbrew zasadom szkoły przyniósł telefon.",
+      "exampleEnglish": "Against the school rules, he brought his phone."
+    },
+    {
+      "id": "b1-ch12-w019",
+      "polish": "oczekiwanie",
+      "english": "expectation",
+      "pronunciation": "oh-cheh-kee-VAH-nyeh",
+      "gender": "n",
+      "category": "noun",
+      "examplePolish": "Wbrew oczekiwaniom wygrali.",
+      "exampleEnglish": "Contrary to expectations, they won."
+    },
+    {
+      "id": "b1-ch12-w020",
+      "polish": "trudność",
+      "english": "difficulty",
+      "pronunciation": "TROOD-noshch",
+      "gender": "f",
+      "category": "noun",
+      "examplePolish": "Mimo trudności nie poddała się.",
+      "exampleEnglish": "Despite the difficulties, she did not give up."
+    },
+    {
+      "id": "b1-ch12-w021",
+      "polish": "wybrzeże",
+      "english": "coast, coastline",
+      "pronunciation": "vy-BZHE-zheh",
+      "gender": "n",
+      "category": "geography",
+      "examplePolish": "Wzdłuż wybrzeża ciągną się plaże.",
+      "exampleEnglish": "Beaches stretch along the coast."
+    },
+    {
+      "id": "b1-ch12-w022",
+      "polish": "ognisko",
+      "english": "campfire",
+      "pronunciation": "og-NEES-koh",
+      "gender": "n",
+      "category": "noun",
+      "examplePolish": "Zebraliśmy się wokół ogniska.",
+      "exampleEnglish": "We gathered around the campfire."
+    },
+    {
+      "id": "b1-ch12-w023",
+      "polish": "ze względu na",
+      "english": "due to, because of (+ accusative)",
+      "pronunciation": "ze VZGLYEH-doo nah",
+      "gender": null,
+      "category": "expression",
+      "examplePolish": "Ze względu na pogodę odwołano mecz.",
+      "exampleEnglish": "Due to the weather, the match was cancelled."
+    },
+    {
+      "id": "b1-ch12-w024",
+      "polish": "z powodu",
+      "english": "because of, owing to (+ genitive)",
+      "pronunciation": "z poh-VOH-doo",
+      "gender": null,
+      "category": "expression",
+      "examplePolish": "Nie przyszła z powodu choroby.",
+      "exampleEnglish": "She didn't come because of illness."
+    },
+    {
+      "id": "b1-ch12-w025",
+      "polish": "pod warunkiem",
+      "english": "on condition that (+ genitive/że)",
+      "pronunciation": "pod vah-ROON-kyem",
+      "gender": null,
+      "category": "expression",
+      "examplePolish": "Pojadę, pod warunkiem że ty też jedziesz.",
+      "exampleEnglish": "I'll go, on condition that you go too."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 12,
+  "tags": ["prepositions", "advanced", "b1-vocabulary"]
+}

@@ -1,0 +1,262 @@
+{
+  "id": "b1-ch18-vocab",
+  "chapter": 18,
+  "level": "b1",
+  "title": "Media & News Vocabulary",
+  "title_fa": "واژگان رسانه و اخبار",
+  "cards": [
+    {
+      "id": "b1-ch18-w001",
+      "polish": "wzrost",
+      "english": "rise, growth, increase",
+      "pronunciation": "VZROST",
+      "gender": "m",
+      "category": "media_noun",
+      "examplePolish": "Odnotowano wzrost inflacji.",
+      "exampleEnglish": "A rise in inflation was noted."
+    },
+    {
+      "id": "b1-ch18-w002",
+      "polish": "spadek",
+      "english": "fall, drop, decrease",
+      "pronunciation": "SPAH-dek",
+      "gender": "m",
+      "category": "media_noun",
+      "examplePolish": "Nastąpił spadek bezrobocia.",
+      "exampleEnglish": "A fall in unemployment occurred."
+    },
+    {
+      "id": "b1-ch18-w003",
+      "polish": "podwyżka",
+      "english": "price hike, pay rise",
+      "pronunciation": "pod-VYSH-kah",
+      "gender": "f",
+      "category": "media_noun",
+      "examplePolish": "Rząd zapowiedział podwyżkę płac.",
+      "exampleEnglish": "The government announced a pay rise."
+    },
+    {
+      "id": "b1-ch18-w004",
+      "polish": "obniżka",
+      "english": "reduction, cut (in price)",
+      "pronunciation": "ob-NEEZH-kah",
+      "gender": "f",
+      "category": "media_noun",
+      "examplePolish": "Sklepy oferują obniżkę cen.",
+      "exampleEnglish": "Shops are offering price reductions."
+    },
+    {
+      "id": "b1-ch18-w005",
+      "polish": "przełom",
+      "english": "breakthrough, turning point",
+      "pronunciation": "pzheh-WOM",
+      "gender": "m",
+      "category": "media_noun",
+      "examplePolish": "To może być przełom w negocjacjach.",
+      "exampleEnglish": "This could be a breakthrough in negotiations."
+    },
+    {
+      "id": "b1-ch18-w006",
+      "polish": "kryzys",
+      "english": "crisis",
+      "pronunciation": "KRY-zys",
+      "gender": "m",
+      "category": "media_noun",
+      "examplePolish": "Kraj przeżywa kryzys energetyczny.",
+      "exampleEnglish": "The country is experiencing an energy crisis."
+    },
+    {
+      "id": "b1-ch18-w007",
+      "polish": "ogłoszono",
+      "english": "it was announced (impersonal)",
+      "pronunciation": "oh-gwoh-SHOH-noh",
+      "gender": null,
+      "category": "media_impersonal",
+      "examplePolish": "Ogłoszono nowe przepisy.",
+      "exampleEnglish": "New regulations were announced."
+    },
+    {
+      "id": "b1-ch18-w008",
+      "polish": "poinformowano",
+      "english": "it was reported/informed (impersonal)",
+      "pronunciation": "poh-een-for-MOH-vah-noh",
+      "gender": null,
+      "category": "media_impersonal",
+      "examplePolish": "Poinformowano o wypadku drogowym.",
+      "exampleEnglish": "A road accident was reported."
+    },
+    {
+      "id": "b1-ch18-w009",
+      "polish": "według",
+      "english": "according to (+ genitive)",
+      "pronunciation": "VED-woog",
+      "gender": null,
+      "category": "preposition",
+      "examplePolish": "Według ministra, sytuacja jest stabilna.",
+      "exampleEnglish": "According to the minister, the situation is stable."
+    },
+    {
+      "id": "b1-ch18-w010",
+      "polish": "twierdzić",
+      "english": "to claim, assert",
+      "pronunciation": "TVYER-djich",
+      "gender": null,
+      "category": "media_verb",
+      "examplePolish": "Opozycja twierdzi, że decyzja była błędna.",
+      "exampleEnglish": "The opposition claims the decision was wrong."
+    },
+    {
+      "id": "b1-ch18-w011",
+      "polish": "zapowiadać / zapowiedzieć",
+      "english": "to announce, preview (imperf/perf)",
+      "pronunciation": "zah-poh-VYAH-dach",
+      "gender": null,
+      "category": "media_verb",
+      "examplePolish": "Rząd zapowiedział podwyżki.",
+      "exampleEnglish": "The government announced hikes."
+    },
+    {
+      "id": "b1-ch18-w012",
+      "polish": "wyniki",
+      "english": "results, outcomes",
+      "pronunciation": "VY-nee-kee",
+      "gender": "m.pl",
+      "category": "media_noun",
+      "examplePolish": "Ogłoszono wyniki wyborów.",
+      "exampleEnglish": "The election results were announced."
+    },
+    {
+      "id": "b1-ch18-w013",
+      "polish": "umowa",
+      "english": "agreement, contract",
+      "pronunciation": "oo-MOH-vah",
+      "gender": "f",
+      "category": "media_noun",
+      "examplePolish": "Podpisano umowę handlową.",
+      "exampleEnglish": "A trade agreement was signed."
+    },
+    {
+      "id": "b1-ch18-w014",
+      "polish": "przepisy",
+      "english": "regulations, rules",
+      "pronunciation": "pzheh-PEE-sy",
+      "gender": "m.pl",
+      "category": "media_noun",
+      "examplePolish": "Nowe przepisy wejdą w życie.",
+      "exampleEnglish": "New regulations will come into force."
+    },
+    {
+      "id": "b1-ch18-w015",
+      "polish": "wejść w życie",
+      "english": "to come into force/effect",
+      "pronunciation": "VEYSHCH v ZHY-cheh",
+      "gender": null,
+      "category": "fixed_phrase",
+      "examplePolish": "Ustawa wejdzie w życie od maja.",
+      "exampleEnglish": "The law will come into effect from May."
+    },
+    {
+      "id": "b1-ch18-w016",
+      "polish": "mówi się, że",
+      "english": "it is said that, people say that",
+      "pronunciation": "MOO-vee sheh zheh",
+      "gender": null,
+      "category": "impersonal_phrase",
+      "examplePolish": "Mówi się, że sytuacja się poprawi.",
+      "exampleEnglish": "It is said that the situation will improve."
+    },
+    {
+      "id": "b1-ch18-w017",
+      "polish": "jednak",
+      "english": "however, yet, still",
+      "pronunciation": "YED-nak",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Jednak opozycja jest przeciwna.",
+      "exampleEnglish": "However, the opposition is against it."
+    },
+    {
+      "id": "b1-ch18-w018",
+      "polish": "ponadto",
+      "english": "furthermore, moreover",
+      "pronunciation": "poh-NAD-toh",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Ponadto rząd planuje nowe inwestycje.",
+      "exampleEnglish": "Furthermore, the government plans new investments."
+    },
+    {
+      "id": "b1-ch18-w019",
+      "polish": "źródło",
+      "english": "source",
+      "pronunciation": "ZHROOD-woh",
+      "gender": "n",
+      "category": "media_noun",
+      "examplePolish": "Według dobrze poinformowanych źródeł...",
+      "exampleEnglish": "According to well-informed sources..."
+    },
+    {
+      "id": "b1-ch18-w020",
+      "polish": "relacjonować",
+      "english": "to report on, to cover (an event)",
+      "pronunciation": "reh-lah-tsyoh-NOH-vach",
+      "gender": null,
+      "category": "media_verb",
+      "examplePolish": "Dziennikarz relacjonuje na żywo.",
+      "exampleEnglish": "The journalist is reporting live."
+    },
+    {
+      "id": "b1-ch18-w021",
+      "polish": "debata",
+      "english": "debate",
+      "pronunciation": "deh-BAH-tah",
+      "gender": "f",
+      "category": "media_noun",
+      "examplePolish": "Odbyła się debata parlamentarna.",
+      "exampleEnglish": "A parliamentary debate took place."
+    },
+    {
+      "id": "b1-ch18-w022",
+      "polish": "stwierdzono",
+      "english": "it was stated/found (impersonal)",
+      "pronunciation": "stvyer-DZOH-noh",
+      "gender": null,
+      "category": "media_impersonal",
+      "examplePolish": "Stwierdzono poważne naruszenia.",
+      "exampleEnglish": "Serious violations were found."
+    },
+    {
+      "id": "b1-ch18-w023",
+      "polish": "inflacja",
+      "english": "inflation",
+      "pronunciation": "een-FLAH-tsyah",
+      "gender": "f",
+      "category": "economics_noun",
+      "examplePolish": "Inflacja wzrosła do 6%.",
+      "exampleEnglish": "Inflation rose to 6%."
+    },
+    {
+      "id": "b1-ch18-w024",
+      "polish": "bezrobocie",
+      "english": "unemployment",
+      "pronunciation": "bez-roh-BOH-cheh",
+      "gender": "n",
+      "category": "economics_noun",
+      "examplePolish": "Stopa bezrobocia wynosi 3%.",
+      "exampleEnglish": "The unemployment rate is 3%."
+    },
+    {
+      "id": "b1-ch18-w025",
+      "polish": "zatrzymano",
+      "english": "a suspect was detained (impersonal)",
+      "pronunciation": "zah-tzhy-MAH-noh",
+      "gender": null,
+      "category": "media_impersonal",
+      "examplePolish": "Zatrzymano podejrzanego.",
+      "exampleEnglish": "A suspect was detained."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 12,
+  "tags": ["media-language", "news", "journalism", "b1-vocabulary"]
+}

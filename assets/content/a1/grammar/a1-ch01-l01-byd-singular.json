@@ -8,20 +8,22 @@
   "grammarPoint": "Present tense of być: jestem, jesteś, jest",
   "grammarPoint_fa": "زمان حال فعل być: jestem، jesteś، jest",
   "explanation": {
-    "text": "The verb **być** (to be) is the most important Polish verb. In the singular present tense it has three forms depending on person. Polish often drops the subject pronoun because the verb ending shows who is speaking.\n\n| Person | Polish | English |\n|--------|--------|---------|\n| 1st sg. (ja) | **jestem** | I am |\n| 2nd sg. (ty) | **jesteś** | you are |\n| 3rd sg. (on/ona/ono) | **jest** | he/she/it is |\n\nTo say someone's profession or nationality, use: *być* + **instrumental case** (e.g. *jestem studentem*).",
+    "text": "## być — the most important Polish verb\n\nThe verb **być** (to be) is the backbone of Polish grammar. You will use it in almost every sentence. Here are the three singular forms:\n\n| Person | Pronoun | Polish | English |\n|--------|---------|--------|---------|\n| 1st sg. | ja | **jestem** | I am |\n| 2nd sg. | ty | **jesteś** | you are |\n| 3rd sg. | on / ona / ono | **jest** | he / she / it is |\n\n### Drop the pronoun!\n\nIn Polish, verb endings already tell you **who** is doing the action. So the subject pronoun is usually left out:\n\n- *Jestem studentem.* → I am a student. ✓\n- *Ja jestem studentem.* → also correct, but sounds emphatic\n\nUse **ja / ty / on / ona** only when you want to **contrast or emphasise**:\n> *Ja mówię po polsku, ty nie.* — I speak Polish, you don't.\n\n### Using być with professions\n\nTo say what someone does, use **być + instrumental case**:\n\n| Profession (m) | Profession (f) | Example |\n|----------------|----------------|----------|\n| student | studentka | Jestem studentem / studentką |\n| lekarz | lekarka | On jest lekarzem / Ona jest lekarką |\n| nauczyciel | nauczycielka | Jesteś nauczycielem / nauczycielką |\n\n### Negation\n\nAdd **nie** before the verb:\n- *Nie jestem lekarzem.* — I am not a doctor.\n- *Nie jesteś gotowy.* — You are not ready.\n- *On nie jest Polakiem.* — He is not Polish.\n\n### Common mistakes\n\n❌ *Ja jestem z Polska.* → ✅ *Jestem z Polski.* (country names take genitive after *z*)\n\n❌ *On jesteś nauczycielem.* → ✅ *On jest nauczycielem.* (3rd person = *jest*, not *jesteś*)",
     "notes": [
       "Polish drops subject pronouns in most contexts — the verb ending carries the information.",
-      "Use jest for he, she, and it — there is one form for all three.",
-      "Negation: nie jestem, nie jesteś, nie jest."
+      "Use jest for he, she, and it — one form covers all three.",
+      "Negation: nie jestem, nie jesteś, nie jest.",
+      "Professions after być take the instrumental case (covered in Ch. 7)."
     ]
   },
-  "explanation_fa": "فعل być (بودن) مهم‌ترین فعل لهستانی است. اشکال مفرد: jestem (من هستم)، jesteś (تو هستی)، jest (او هست). در لهستانی معمولاً ضمیر فاعلی حذف می‌شود چون پسوند فعل شخص را نشان می‌دهد. برای بیان شغل از była + حالت ابزاری استفاده کنید: jestem studentem (من دانشجو هستم).",
+  "explanation_fa": "## być — مهم‌ترین فعل لهستانی\n\nفعل **być** (بودن) پایه‌ای‌ترین فعل در زبان لهستانی است. سه شکل مفرد زمان حال آن را یاد بگیرید:\n\n| شخص | ضمیر | لهستانی | فارسی |\n|------|------|---------|-------|\n| اول مفرد | ja | **jestem** | من هستم |\n| دوم مفرد | ty | **jesteś** | تو هستی |\n| سوم مفرد | on / ona / ono | **jest** | او هست (مذکر/مؤنث/خنثی) |\n\n### ضمیر را حذف کنید!\n\nدر لهستانی، پسوند فعل خودش نشان می‌دهد که **چه کسی** فعل را انجام می‌دهد. پس ضمیر فاعلی معمولاً حذف می‌شود:\n\n- *Jestem studentem.* → من دانشجو هستم. ✓\n- *Ja jestem studentem.* → درست است، اما تأکیدی به‌نظر می‌رسد\n\nفقط وقتی می‌خواهید **تضاد یا تأکید** ایجاد کنید، از ضمیر استفاده کنید:\n> *Ja mówię po polsku, ty nie.* — من لهستانی حرف می‌زنم، تو نه.\n\n### być با مشاغل\n\nبرای گفتن شغل کسی، از **być + حالت ابزاری** استفاده می‌شود:\n\n| شغل (مذکر) | شغل (مؤنث) | مثال |\n|------------|------------|------|\n| student | studentka | Jestem studentem / studentką |\n| lekarz | lekarka | On jest lekarzem / Ona jest lekarką |\n| nauczyciel | nauczycielka | Jesteś nauczycielem / nauczycielką |\n\n### نفی\n\n**nie** را قبل از فعل بگذارید:\n- *Nie jestem lekarzem.* — من دکتر نیستم.\n- *Nie jesteś gotowy.* — تو آماده نیستی.\n- *On nie jest Polakiem.* — او لهستانی نیست.\n\n### اشتباهات رایج\n\n❌ *Ja jestem z Polska.* → ✅ *Jestem z Polski.* (بعد از *z*، حالت مضاف‌الیه می‌آید)\n\n❌ *On jesteś nauczycielem.* → ✅ *On jest nauczycielem.* (سوم شخص = *jest*، نه *jesteś*)",
   "exercises": [
     {
       "id": "a1-ch01-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Choose the correct form: Ja ___ studentem.",
+      "prompt": "Marek is talking about himself. Complete: Ja ___ studentem.",
+      "prompt_fa": "مارک دارد درباره خودش صحبت می‌کند. کامل کنید: Ja ___ studentem.",
       "options": [
         "jestem",
         "jesteś",
@@ -29,24 +31,35 @@
         "jesteśmy"
       ],
       "correctIndex": 0,
-      "explanation": "First person singular of być is jestem. 'Ja jestem studentem' = I am a student."
+      "explanation": "When you talk about yourself (ja = I), być becomes jestem. 'Ja jestem studentem' = I am a student.",
+      "explanation_fa": "وقتی درباره خودت صحبت می‌کنی (ja = من)، فعل być به jestem تبدیل می‌شود. 'Ja jestem studentem' = من دانشجو هستم."
     },
     {
       "id": "a1-ch01-l01-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Complete: On ___ lekarzem.",
       "answer": "jest",
       "acceptableAnswers": [
         "jest"
       ],
-      "hint": "Third person singular — one form for he/she/it"
+      "hint": "Third person singular — one form for he/she/it",
+      "explanation": "For he/she/it (on/ona/ono), być always becomes jest. 'On jest lekarzem' = He is a doctor.",
+      "explanation_fa": "برای او/آن (on/ona/ono)، فعل być همیشه jest می‌شود. 'On jest lekarzem' = او دکتر است.",
+      "context": "Piotr is a doctor. Complete:",
+      "context_fa": "پیوتر یک دکتر است. کامل کنید:",
+      "sentence": "On ___ lekarzem.",
+      "translation": "",
+      "translation_fa": "",
+      "prompt": "On ___ lekarzem.",
+      "prompt_fa": "On ___ lekarzem."
     },
     {
       "id": "a1-ch01-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch01/a1-ch01-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Jestem studentem.",
         "Jesteś studentem.",
@@ -54,39 +67,35 @@
         "Jesteście studentami."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Jestem studentem.' — I am a student. First person singular jestem."
+      "explanation": "You heard: 'Jestem studentem.' — I am a student. The ending -em on jestem signals first person singular.",
+      "explanation_fa": "شنیدید: 'Jestem studentem.' — من دانشجو هستم. پسوند -em در jestem نشان‌دهنده اول شخص مفرد است."
     },
     {
       "id": "a1-ch01-l01-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: I am a doctor.",
+      "prompt": "Arrange: I am a doctor.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: من دکتر هستم.",
       "wordBank": [
         "jestem",
         "jesteś",
-        "lekarzem",
-        "lekarką",
-        "studentem",
-        "Ja"
+        "lekarzem"
       ],
       "correctSequences": [
         [
           "jestem",
           "lekarzem"
-        ],
-        [
-          "Ja",
-          "jestem",
-          "lekarzem"
         ]
       ],
-      "explanation": "Both 'jestem lekarzem' and 'Ja jestem lekarzem' are correct. Subject pronoun Ja is optional."
+      "explanation": "Both 'jestem lekarzem' and 'Ja jestem lekarzem' are correct. In Polish you can drop the subject pronoun — the verb ending already says 'I'.",
+      "explanation_fa": "هر دو 'jestem lekarzem' و 'Ja jestem lekarzem' درست هستند. در لهستانی می‌توانید ضمیر فاعلی را حذف کنید — پسوند فعل خودش «من» را نشان می‌دهد."
     },
     {
       "id": "a1-ch01-l01-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Which sentence means 'She is a teacher'?",
+      "prompt": "Anna is a teacher. Which sentence is correct?",
+      "prompt_fa": "آنا معلم است. کدام جمله درست است؟",
       "options": [
         "Ona jest nauczycielką.",
         "Ona jesteś nauczycielką.",
@@ -94,7 +103,97 @@
         "Ona są nauczycielką."
       ],
       "correctIndex": 0,
-      "explanation": "Third person singular (she = ona) uses jest. 'Ona jest nauczycielką' = She is a teacher."
+      "explanation": "For she (ona), być becomes jest — the same form as for on (he) and ono (it). 'Ona jest nauczycielką' = She is a teacher.",
+      "explanation_fa": "برای ona (او مؤنث)، فعل być می‌شود jest — همان شکل برای on (مذکر) و ono (خنثی). 'Ona jest nauczycielką' = او معلم است."
+    },
+    {
+      "id": "a1-ch01-l01-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia is introducing herself at a party. Complete: Ja ___ Kasia.",
+      "prompt_fa": "کاسیا در یک مهمانی خودش را معرفی می‌کند. کامل کنید: Ja ___ Kasia.",
+      "options": [
+        "jestem",
+        "jesteś",
+        "jest",
+        "są"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ja jestem' = I am. First person singular of być. Kasia introduces herself: 'Jestem Kasia' = I am Kasia.",
+      "explanation_fa": "'Ja jestem' = من هستم. اول شخص مفرد فعل być. کاسیا خودش را معرفی می‌کند: 'Jestem Kasia' = من کاسیا هستم."
+    },
+    {
+      "id": "a1-ch01-l01-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "jest",
+      "acceptableAnswers": [
+        "jest"
+      ],
+      "hint": "Marek = on (he) → 3rd person singular of być",
+      "explanation": "Marek = on (he), so być → jest. 'Marek jest moim przyjacielem' = Marek is my friend.",
+      "explanation_fa": "Marek = on (او)، پس być → jest. 'Marek jest moim przyjacielem' = مارک دوست من است.",
+      "context": "Tomek points to his friend Marek. Complete:",
+      "context_fa": "تامک به دوستش مارک اشاره می‌کند. کامل کنید:",
+      "sentence": "Marek ___ moim przyjacielem.",
+      "translation": "(Marek is my friend.)",
+      "translation_fa": "(مارک دوست من است.)",
+      "prompt": "Marek ___ moim przyjacielem.",
+      "prompt_fa": "Marek ___ moim przyjacielem."
+    },
+    {
+      "id": "a1-ch01-l01-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Ania says her brother is a doctor. Which sentence is correct?",
+      "prompt_fa": "آنیا می‌گوید برادرش دکتر است. کدام جمله درست است؟",
+      "options": [
+        "On jest lekarzem.",
+        "On jestem lekarzem.",
+        "On jesteś lekarzem.",
+        "On są lekarzem."
+      ],
+      "correctIndex": 0,
+      "explanation": "'On jest lekarzem' = He is a doctor. Third person singular of być is jest — the same for on, ona, ono.",
+      "explanation_fa": "'On jest lekarzem' = او دکتر است. سوم شخص مفرد być می‌شود jest — یکسان برای on، ona، ono."
+    },
+    {
+      "id": "a1-ch01-l01-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Marek wants to say he is from Poland. Arrange the words.",
+      "prompt_fa": "مارک می‌خواهد بگوید از لهستان است. کلمات را به ترتیب بزنید.",
+      "wordBank": [
+        "Jestem",
+        "z Polski",
+        "z Polska",
+        "jesteś"
+      ],
+      "correctSequences": [
+        [
+          "Jestem",
+          "z Polski"
+        ]
+      ],
+      "explanation": "'Jestem z Polski' = I am from Poland. Countries use 'z + genitive': Polska → Polski. Never 'z Polska'.",
+      "explanation_fa": "'Jestem z Polski' = من از لهستان هستم. نام کشورها از 'z + مضاف‌الیهی' استفاده می‌کنند: Polska → Polski. هرگز 'z Polska' نمی‌شود."
+    },
+    {
+      "id": "a1-ch01-l01-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch01/a1-ch01-l01-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Jestem studentką z Warszawy.",
+        "Jesteś studentką z Warszawy.",
+        "Jest studentką z Warszawy.",
+        "Jestem studentem z Warszawy."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Jestem studentką z Warszawy.' — I am a (female) student from Warsaw. 'Studentką' is the instrumental feminine form. 'Jestem' = I am.",
+      "explanation_fa": "شنیدید: 'Jestem studentką z Warszawy.' — من دانشجو (مؤنث) از ورشو هستم. 'Studentką' شکل ابزاری مؤنث است. 'Jestem' = من هستم."
     }
   ],
   "xpReward": 20,

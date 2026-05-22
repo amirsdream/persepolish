@@ -8,54 +8,22 @@
   "grammarPoint": "Noun gender and nominative singular endings in Polish",
   "grammarPoint_fa": "جنسیت دستوری و پسوندهای فاعلی مفرد",
   "explanation": {
-    "text": "Every Polish noun has a **grammatical gender**: masculine (m), feminine (f), or neuter (n). The gender affects endings throughout the whole grammar system. Learning gender with every new noun is essential.\n\n| Gender | Typical ending | Examples |\n|--------|---------------|----------|\n| Masculine | consonant | kot, dom, pies, student |\n| Feminine | -a | kobieta, mama, herbata, Polska |\n| Neuter | -o, -e, -ę | okno, morze, imię |\n\nExceptions exist (e.g. *mężczyzna* ends in -a but is masculine), so always learn gender with the word.\n\nThe **nominative case** is the base form — used for the subject of a sentence.",
-    "table": {
-      "headers": [
-        "Gender",
-        "Ending",
-        "Example",
-        "Meaning"
-      ],
-      "rows": [
-        [
-          "masculine",
-          "consonant",
-          "kot",
-          "cat"
-        ],
-        [
-          "feminine",
-          "-a",
-          "kobieta",
-          "woman"
-        ],
-        [
-          "neuter",
-          "-o",
-          "okno",
-          "window"
-        ],
-        [
-          "neuter",
-          "-e",
-          "morze",
-          "sea"
-        ]
-      ]
-    },
+    "text": "## Grammatical Gender\n\nEvery Polish noun belongs to one of **three genders**: masculine (m), feminine (f), or neuter (n). Unlike in some languages, gender is a grammatical property — it affects adjective endings, verb agreement, and case endings throughout the entire grammar system.\n\n**Learning gender with every new noun is not optional — it is essential.**\n\n### How to recognise gender\n\n| Gender | Typical ending | Examples |\n|--------|---------------|----------|\n| Masculine | consonant | *brat*, *kot*, *pies*, *dom*, *student*, *lekarz* |\n| Feminine | **-a** | *mama*, *siostra*, *kobieta*, *Polska*, *herbata* |\n| Neuter | **-o** | *okno*, *auto*, *miasto*, *słowo* |\n| Neuter | **-e** | *morze*, *pole*, *zdjęcie* |\n| Neuter | **-ę** | *imię*, *ramię*, *dziecię* |\n\n### Important exceptions\n\nSome nouns end in **-a** but are **masculine** — this happens with male persons:\n\n- *mężczyzna* (man) — masculine, despite the -a ending\n- *kolega* (male friend/colleague) — masculine\n- *tata* (dad) — masculine\n\nAlways check the dictionary for gender, especially for irregular nouns.\n\n### The Nominative case\n\nPolish has **7 cases** — each changes the noun's ending based on its role in the sentence. The **nominative** (mianownik) is the base form:\n\n- It's the form you find in the dictionary.\n- It's used for the **subject** of a sentence (who/what is doing the action).\n- After *to jest* (this is), the noun stays in the nominative:\n\n| Polish | English |\n|--------|---------|\n| *To jest **kot**.* | This is a cat. |\n| *To jest **kobieta**.* | This is a woman. |\n| *To jest **okno**.* | This is a window. |\n\n### Practical examples by gender\n\n**Masculine:**\n- *Brat jest w domu.* — Brother is at home.\n- *Pies śpi.* — The dog is sleeping.\n\n**Feminine:**\n- *Mama pracuje.* — Mother is working.\n- *Herbata jest gorąca.* — The tea is hot.\n\n**Neuter:**\n- *Okno jest otwarte.* — The window is open.\n- *Dziecko śpi.* — The child is sleeping.\n\n### Why this matters\n\nEvery time you add an adjective, use a different case, or form the plural, you need to know the gender. A mistake in gender cascades through the whole sentence. Start building the habit now: every new word = word + gender.",
     "notes": [
       "Learn gender with every new noun — it determines all other forms.",
-      "Masculine nouns ending in -a (mężczyzna, kolega) are grammatically masculine.",
-      "The nominative is the dictionary form and the subject case."
+      "Masculine nouns ending in -a (mężczyzna, kolega, tata) are still grammatically masculine.",
+      "The nominative is the dictionary form and the subject case.",
+      "Polish has 7 cases total — nominative is just the beginning."
     ]
   },
-  "explanation_fa": "هر اسم لهستانی دارای جنسیت دستوری است: مذکر (معمولاً به مصوت ختم نمی‌شود: brat)، مؤنث (معمولاً به -a ختم می‌شود: siostra)، خنثی (معمولاً به -o یا -e ختم می‌شود: okno). حالت فاعلی (mianownik) شکل پایه است که برای فاعل جمله به‌کار می‌رود.",
+  "explanation_fa": "## جنسیت دستوری\n\nهر اسم لهستانی به یکی از **سه جنسیت** تعلق دارد: مذکر (m)، مؤنث (f)، یا خنثی (n). جنسیت یک ویژگی دستوری است — بر پسوند صفت، تطابق فعل، و پسوندهای حالتی در کل سیستم دستوری تأثیر می‌گذارد.\n\n**یادگیری جنسیت با هر اسم جدید اختیاری نیست — ضروری است.**\n\n### چگونه جنسیت را تشخیص دهیم\n\n| جنسیت | پسوند معمول | مثال‌ها |\n|--------|------------|--------|\n| مذکر | به مصوت ختم نمی‌شود | *brat*، *kot*، *pies*، *dom*، *student* |\n| مؤنث | **-a** | *mama*، *siostra*، *kobieta*، *Polska*، *herbata* |\n| خنثی | **-o** | *okno*، *auto*، *miasto*، *słowo* |\n| خنثی | **-e** | *morze*، *pole*، *zdjęcie* |\n| خنثی | **-ę** | *imię*، *ramię* |\n\n### استثناهای مهم\n\nبرخی اسم‌ها به **-a** ختم می‌شوند اما **مذکر** هستند — این برای اشخاص مذکر اتفاق می‌افتد:\n\n- *mężczyzna* (مرد) — مذکر، با وجود پسوند -a\n- *kolega* (دوست/همکار مذکر) — مذکر\n- *tata* (بابا) — مذکر\n\nهمیشه برای اسم‌های نامنظم جنسیت را از فرهنگ لغت بررسی کنید.\n\n### حالت فاعلی (Nominative)\n\nلهستانی **۷ حالت** دارد — هر کدام پسوند اسم را بسته به نقشش در جمله تغییر می‌دهند. **حالت فاعلی** (mianownik) شکل پایه است:\n\n- شکلی است که در فرهنگ لغت پیدا می‌کنید.\n- برای **فاعل** جمله استفاده می‌شود (کی/چی عمل را انجام می‌دهد).\n- بعد از *to jest* (این است)، اسم در حالت فاعلی باقی می‌ماند:\n\n| لهستانی | فارسی |\n|---------|-------|\n| *To jest **kot**.* | این یک گربه است. |\n| *To jest **kobieta**.* | این یک زن است. |\n| *To jest **okno**.* | این یک پنجره است. |\n\n### مثال‌های کاربردی بر اساس جنسیت\n\n**مذکر:**\n- *Brat jest w domu.* — برادر در خانه است.\n- *Pies śpi.* — سگ می‌خوابد.\n\n**مؤنث:**\n- *Mama pracuje.* — مامان کار می‌کند.\n- *Herbata jest gorąca.* — چای داغ است.\n\n**خنثی:**\n- *Okno jest otwarte.* — پنجره باز است.\n- *Dziecko śpi.* — بچه می‌خوابد.\n\n### چرا این مهم است\n\nهر بار که صفت اضافه می‌کنید، حالت دیگری استفاده می‌کنید، یا جمع می‌سازید، باید جنسیت را بدانید. اشتباه در جنسیت روی کل جمله تأثیر می‌گذارد. همین الان عادت بسازید: هر کلمه جدید = کلمه + جنسیت.",
   "exercises": [
     {
       "id": "a1-ch01-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "What gender is 'herbata' (tea)?",
+      "prompt": "You want to learn the word 'herbata' (tea). What grammatical gender does it have?",
+      "prompt_fa": "می‌خواهید کلمه 'herbata' (چای) را یاد بگیرید. جنسیت دستوری آن چیست؟",
       "options": [
         "feminine",
         "masculine",
@@ -63,24 +31,35 @@
         "it has no gender"
       ],
       "correctIndex": 0,
-      "explanation": "'Herbata' ends in -a — the typical feminine ending. It is a feminine noun."
+      "explanation": "'Herbata' ends in -a, which is the most reliable sign of a feminine noun. Always note the gender when you learn a new word.",
+      "explanation_fa": "'Herbata' به -a ختم می‌شود، که مطمئن‌ترین نشانه اسم مؤنث است. همیشه هنگام یادگیری کلمه جدید جنسیتش را هم یاد بگیرید."
     },
     {
       "id": "a1-ch01-l04-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "To jest ___. (This is a window.) [okno = neuter]",
       "answer": "okno",
       "acceptableAnswers": [
         "okno"
       ],
-      "hint": "Use the nominative (base) form of the neuter noun"
+      "hint": "Use the nominative (base) form of the neuter noun",
+      "explanation": "After 'to jest' (this is), nouns stay in the nominative — their base dictionary form. 'Okno' is the neuter base form.",
+      "explanation_fa": "بعد از 'to jest' (این است)، اسم‌ها در حالت فاعلی باقی می‌مانند — شکل پایه فرهنگ لغتی‌شان. 'Okno' شکل پایه خنثی است.",
+      "context": "You are pointing to a window. Complete:",
+      "context_fa": "شما به یک پنجره اشاره می‌کنید. کامل کنید:",
+      "sentence": "To jest ___.",
+      "translation": "[okno = neuter]",
+      "translation_fa": "[okno = خنثی]",
+      "prompt": "To jest ___.",
+      "prompt_fa": "To jest ___."
     },
     {
       "id": "a1-ch01-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch01/a1-ch01-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "To jest pies.",
         "To jest psa.",
@@ -88,20 +67,20 @@
         "To jest psu."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'To jest pies.' — This is a dog. 'Pies' is masculine nominative — the base form after 'to jest'."
+      "explanation": "You heard: 'To jest pies.' — This is a dog. After 'to jest', always use the nominative (base) form: pies, not psa or psem.",
+      "explanation_fa": "شنیدید: 'To jest pies.' — این یک سگ است. بعد از 'to jest' همیشه از شکل فاعلی (پایه) استفاده کنید: pies، نه psa یا psem."
     },
     {
       "id": "a1-ch01-l04-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: This is a book. [książka = feminine]",
+      "prompt": "Arrange: This is a book. [książka = feminine]",
+      "prompt_fa": "کلمات را به ترتیب بزنید: این یک کتاب است. [książka = مؤنث]",
       "wordBank": [
         "To",
-        "jest",
-        "książka",
-        "książki",
         "książkę",
-        "dom"
+        "jest",
+        "książka"
       ],
       "correctSequences": [
         [
@@ -110,13 +89,15 @@
           "książka"
         ]
       ],
-      "explanation": "'To jest książka' = This is a book. After 'to jest', the noun stays in the nominative: książka (feminine, ends -a)."
+      "explanation": "'To jest książka' = This is a book. The noun after 'to jest' is always in its nominative form — the one you find in the dictionary.",
+      "explanation_fa": "'To jest książka' = این یک کتاب است. اسم بعد از 'to jest' همیشه به شکل فاعلی است — همانی که در فرهنگ لغت پیدا می‌کنید."
     },
     {
       "id": "a1-ch01-l04-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Which noun is neuter?",
+      "prompt": "Ewa points at four things and asks which is neuter. Which word is neuter?",
+      "prompt_fa": "اوا به چهار چیز اشاره می‌کند و می‌پرسد کدام خنثی است. کدام کلمه خنثی است؟",
       "options": [
         "dziecko (child)",
         "brat (brother)",
@@ -124,7 +105,99 @@
         "pies (dog)"
       ],
       "correctIndex": 0,
-      "explanation": "'Dziecko' ends in -o — the classic neuter ending. 'Brat' and 'pies' are masculine (consonant endings). 'Siostra' is feminine (-a ending)."
+      "explanation": "'Dziecko' ends in -o — the classic neuter ending. 'Brat' and 'pies' end in a consonant (masculine). 'Siostra' ends in -a (feminine).",
+      "explanation_fa": "'Dziecko' به -o ختم می‌شود — پسوند کلاسیک خنثی. 'Brat' و 'pies' به مصوت ختم می‌شوند (مذکر). 'Siostra' به -a ختم می‌شود (مؤنث)."
+    },
+    {
+      "id": "a1-ch01-l04-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Tomek wants to learn the word 'herbata' (tea). What gender does it have?",
+      "prompt_fa": "تامک می‌خواهد کلمه 'herbata' (چای) را یاد بگیرد. چه جنسیتی دارد؟",
+      "options": [
+        "feminine",
+        "masculine",
+        "neuter",
+        "no gender"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Herbata' ends in -a → feminine. The -a ending is the most reliable marker of feminine nouns in Polish.",
+      "explanation_fa": "'Herbata' به -a ختم می‌شود → مؤنث. پسوند -a مطمئن‌ترین نشانه اسم‌های مؤنث در لهستانی است."
+    },
+    {
+      "id": "a1-ch01-l04-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "masculine",
+      "acceptableAnswers": [
+        "masculine",
+        "Masculine"
+      ],
+      "hint": "Nouns ending in a consonant are typically masculine",
+      "explanation": "'Tomek' ends in a consonant (k) → masculine. Most masculine nouns end in a consonant. Knowing this helps predict adjective endings.",
+      "explanation_fa": "'Tomek' به مصوت (k) ختم می‌شود → مذکر. اکثر اسم‌های مذکر به مصوت ختم می‌شوند. دانستن این موضوع به پیش‌بینی پسوند صفت کمک می‌کند.",
+      "context": "Kasia sees a boy's name — Tomek. What gender is it?",
+      "context_fa": "کاسیا یک اسم پسرانه می‌بیند — Tomek. جنس دستوری آن چیست؟",
+      "sentence": "It ends in a consonant so its gender is ___.",
+      "translation": "",
+      "translation_fa": "",
+      "prompt": "It ends in a consonant so its gender is ___.",
+      "prompt_fa": "It ends in a consonant so its gender is ___."
+    },
+    {
+      "id": "a1-ch01-l04-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Marek looks around the room. Which word is neuter?",
+      "prompt_fa": "مارک به اطراف اتاق نگاه می‌کند. کدام کلمه خنثی است؟",
+      "options": [
+        "okno (window)",
+        "dom (house)",
+        "kawa (coffee)",
+        "brat (brother)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Okno' ends in -o → neuter. 'Dom' ends in consonant → masculine. 'Kawa' ends in -a → feminine. 'Brat' ends in consonant → masculine.",
+      "explanation_fa": "'Okno' به -o ختم می‌شود → خنثی. 'Dom' به مصوت ختم می‌شود → مذکر. 'Kawa' به -a ختم می‌شود → مؤنث. 'Brat' به مصوت ختم می‌شود → مذکر."
+    },
+    {
+      "id": "a1-ch01-l04-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Ania points to a book and says: This is a book. Arrange the words.",
+      "prompt_fa": "آنیا به یک کتاب اشاره می‌کند و می‌گوید: این یک کتاب است. کلمات را به ترتیب بزنید.",
+      "wordBank": [
+        "To",
+        "jest",
+        "książka",
+        "książkę"
+      ],
+      "correctSequences": [
+        [
+          "To",
+          "jest",
+          "książka"
+        ]
+      ],
+      "explanation": "'To jest książka' = This is a book. After 'to jest', always use the nominative (base dictionary) form — 'książka', not 'książkę' (accusative).",
+      "explanation_fa": "'To jest książka' = این یک کتاب است. بعد از 'to jest' همیشه از شکل فاعلی (پایه فرهنگ لغت) استفاده کنید — 'książka'، نه 'książkę' (مفعولی)."
+    },
+    {
+      "id": "a1-ch01-l04-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch01/a1-ch01-l04-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Miasto jest duże i piękne.",
+        "Miasto jest duży i piękny.",
+        "Miasto jest duże i piękny.",
+        "Miasto jest duża i piękna."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Miasto jest duże i piękne.' — The city is big and beautiful. 'Miasto' is neuter → neuter adjective endings: duże, piękne (both -e).",
+      "explanation_fa": "شنیدید: 'Miasto jest duże i piękne.' — شهر بزرگ و زیباست. 'Miasto' خنثی است → پسوندهای صفت خنثی: duże، piękne (هر دو -e)."
     }
   ],
   "xpReward": 20,

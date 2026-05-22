@@ -6,23 +6,24 @@
   "title": "Comparative Adjectives",
   "title_fa": "صفات تفضیلی",
   "grammarPoint": "Comparatives: -szy/-iejszy suffix; lepszy/gorszy/większy; bardziej + adjective",
-  "grammarPoint_fa": "ساختن صفت تفضیلی: -szy/-iejszy + bardziej برای صفات طولانی",
+  "grammarPoint_fa": "صفت تفضیلی: پسوند -szy/-iejszy؛ lepszy/gorszy/większy؛ bardziej + صفت برای صفات طولانی",
   "explanation": {
-    "text": "Polish comparatives are formed in two main ways:\n\n**Method 1: -szy/-iejszy suffix** (synthetic, for short adjectives)\n\n| Adjective | Comparative | English |\n|----------|-------------|--------|\n| duży (big) | **większy** | bigger |\n| mały (small) | **mniejszy** | smaller |\n| dobry (good) | **lepszy** | better |\n| zły (bad) | **gorszy** | worse |\n| stary (old) | **starszy** | older |\n| młody (young) | **młodszy** | younger |\n| długi (long) | **dłuższy** | longer |\n| krótki (short) | **krótszy** | shorter |\n| tani (cheap) | **tańszy** | cheaper |\n| drogi (expensive) | **droższy** | more expensive |\n\n**Method 2: bardziej + adjective** (analytical, for longer adjectives)\n- bardziej ciekawy = more interesting\n- bardziej nowoczesny = more modern\n- bardziej skomplikowany = more complicated\n\n**Comparison structure:**\n- A jest **lepszy** niż B. = A is better than B.\n- A jest **bardziej ciekawy** niż B. = A is more interesting than B.\n- Ona jest **starsza** od niego. = She is older than him. (od + genitive)\n\n**Superlatives:** naj- prefix\n- najlepszy = best, najgorszy = worst, największy = biggest",
+    "text": "## Comparative Adjectives\n\nPolish comparatives are formed in two main ways depending on the adjective's length and type.\n\n### Method 1: Synthetic comparatives (-szy / -iejszy suffix)\n\nUsed for most short, common adjectives:\n\n| Adjective | Comparative | English |\n|----------|-------------|----------|\n| duży (big) | **większy** | bigger |\n| mały (small) | **mniejszy** | smaller |\n| dobry (good) | **lepszy** | better |\n| zły (bad) | **gorszy** | worse |\n| stary (old) | **starszy** | older |\n| młody (young) | **młodszy** | younger |\n| długi (long) | **dłuższy** | longer |\n| krótki (short) | **krótszy** | shorter |\n| tani (cheap) | **tańszy** | cheaper |\n| drogi (expensive) | **droższy** | more expensive |\n| wysoki (tall) | **wyższy** | taller |\n| gruby (fat) | **grubszy** | fatter |\n\n> 🔑 **lepszy** and **gorszy** are irregular — memorise them as a pair!\n\n### Method 2: Analytical comparatives (bardziej + adjective)\n\nUsed for longer adjectives (3+ syllables):\n\n| Polish | English |\n|--------|---------|\n| bardziej **ciekawy** | more interesting |\n| bardziej **nowoczesny** | more modern |\n| bardziej **skomplikowany** | more complicated |\n| bardziej **interesujący** | more interesting |\n\n### Comparison structures\n\n| Structure | Example | English |\n|-----------|---------|----------|\n| A jest + comparative + **niż** + B (nom) | Warszawa jest większa niż Kraków. | Warsaw is bigger than Kraków. |\n| A jest + comparative + **od** + B (gen) | Ona jest starsza od niego. | She is older than him. |\n| bardziej + adj + **niż** + B | To jest bardziej ciekawe niż tamto. | This is more interesting than that. |\n\n### Comparatives still agree in gender!\n\n| Masculine | Feminine | Neuter | English |\n|-----------|----------|--------|---------|\n| lepszy | **lepsza** | **lepsze** | better |\n| większy | **większa** | **większe** | bigger |\n| starszy | **starsza** | **starsze** | older |\n| młodszy | **młodsza** | **młodsze** | younger |\n\n### Superlatives: naj- prefix\n\n| Comparative | Superlative | English |\n|-------------|-------------|----------|\n| lepszy | **najlepszy** | best |\n| gorszy | **najgorszy** | worst |\n| większy | **największy** | biggest |\n| mniejszy | **najmniejszy** | smallest |\n| starszy | **najstarszy** | oldest |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *bardziej dobry* | *lepszy* | dobry has synthetic comparative |\n| *dobrszy* | *lepszy* | irregular — must memorise |\n| *najdobry* | *najlepszy* | superlative of irregular |\n| *Ona jest starsza niż jego.* | *Ona jest starsza niż **on**.* | niż + nominative |",
     "notes": [
-      "lepszy/gorszy are irregular (not from dobry/zły directly but common): remember as a pair.",
-      "większy (bigger) from duży; mniejszy (smaller) from mały.",
-      "Comparatives still agree in gender: lepsza (f), lepsze (n), lepsi (m-pers pl).",
-      "niż = than (with nominative); od + genitive also works for 'than'."
+      "lepszy/gorszy are irregular (not from dobry/zły with suffix) — memorise as a pair",
+      "większy (bigger) from duży; mniejszy (smaller) from mały",
+      "Comparatives still agree in gender: lepsza (f), lepsze (n), lepsi (m-pers pl)",
+      "niż = than (+ nominative); od + genitive also means 'than': od niego = than him"
     ]
   },
-  "explanation_fa": "صفات تفضیلی: اغلب با افزودن -szy/-iejszy: duży → większy (بزرگ‌تر)، mały → mniejszy (کوچک‌تر)، dobry → lepszy (بهتر)، zły → gorszy (بدتر). برای صفات طولانی: bardziej + صفت (bardziej interesujący — جالب‌تر). مقایسه با od + مضاف‌الیهی: Jest wyższy od brata (از برادرش بلندتر است).",
+  "explanation_fa": "## صفات تفضیلی\n\nصفات تفضیلی لهستانی به دو روش اصلی ساخته می‌شوند.\n\n### روش ۱: تفضیلی ترکیبی (پسوند -szy / -iejszy)\n\nبرای اکثر صفات کوتاه و رایج:\n\n| صفت | تفضیلی | فارسی |\n|-----|--------|-------|\n| duży (بزرگ) | **większy** | بزرگ‌تر |\n| mały (کوچک) | **mniejszy** | کوچک‌تر |\n| dobry (خوب) | **lepszy** | بهتر |\n| zły (بد) | **gorszy** | بدتر |\n| stary (قدیمی) | **starszy** | قدیمی‌تر |\n| młody (جوان) | **młodszy** | جوان‌تر |\n| tani (ارزان) | **tańszy** | ارزان‌تر |\n| drogi (گران) | **droższy** | گران‌تر |\n\n> 🔑 **lepszy** و **gorszy** نامنظم هستند — آنها را به عنوان یک جفت حفظ کنید!\n\n### روش ۲: تفضیلی تحلیلی (bardziej + صفت)\n\nبرای صفات بلندتر (۳+ هجا):\n\n| لهستانی | فارسی |\n|---------|-------|\n| bardziej ciekawy | جالب‌تر |\n| bardziej nowoczesny | مدرن‌تر |\n| bardziej skomplikowany | پیچیده‌تر |\n\n### ساختارهای مقایسه\n\n| ساختار | مثال | فارسی |\n|--------|------|-------|\n| A jest + تفضیلی + **niż** + B (فاعلی) | Warszawa jest większa niż Kraków. | ورشو از کراکوف بزرگ‌تر است. |\n| A jest + تفضیلی + **od** + B (مضاف‌الیهی) | Ona jest starsza od niego. | او از او (م) بزرگ‌تر است. |\n\n### صفات تفضیلی هنوز با جنسیت تطبیق می‌یابند!\n\n| مذکر | مؤنث | خنثی | فارسی |\n|------|------|------|-------|\n| lepszy | **lepsza** | **lepsze** | بهتر |\n| większy | **większa** | **większe** | بزرگ‌تر |\n| starszy | **starsza** | **starsze** | بزرگ‌تر (سنی) |\n\n### عالی: پیشوند naj-\n\n| تفضیلی | عالی | فارسی |\n|--------|------|-------|\n| lepszy | **najlepszy** | بهترین |\n| gorszy | **najgorszy** | بدترین |\n| większy | **największy** | بزرگ‌ترین |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *bardziej dobry* | *lepszy* | dobry تفضیلی ترکیبی دارد |\n| *dobrszy* | *lepszy* | نامنظم — باید حفظ کرد |\n| *najdobry* | *najlepszy* | عالی نامنظم |\n| *Ona jest starsza niż jego.* | *Ona jest starsza niż **on**.* | niż + فاعلی |",
   "exercises": [
     {
       "id": "a1-ch10-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Kraków jest ___ niż Warszawa. (Kraków is smaller than Warsaw.)",
+      "prompt": "Kasia looks at a map. Complete: Kraków jest ___ niż Warszawa. (Kraków is smaller than Warsaw.)",
+      "prompt_fa": "کاسیا به نقشه نگاه می‌کند. کامل کنید: Kraków jest ___ niż Warszawa. (کراکوف از ورشو کوچک‌تر است.)",
       "options": [
         "mniejszy",
         "mały",
@@ -30,26 +31,37 @@
         "mniejsze"
       ],
       "correctIndex": 0,
-      "explanation": "'Mniejszy' = smaller (comparative of 'mały'). 'Kraków jest mniejszy niż Warszawa' = Kraków is smaller than Warsaw."
+      "explanation": "'Mniejszy' = smaller (comparative of 'mały'). 'Kraków jest mniejszy niż Warszawa' = Kraków is smaller than Warsaw. Kraków (m) → mniejszy (m comparative).",
+      "explanation_fa": "'Mniejszy' = کوچک‌تر (تفضیلی 'mały'). 'Kraków jest mniejszy niż Warszawa' = کراکوف از ورشو کوچک‌تر است. Kraków (م) → mniejszy (تفضیلی مذکر)."
     },
     {
       "id": "a1-ch10-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Ta książka jest bardziej ___ niż tamta. (This book is more interesting than that one.)",
       "answer": "ciekawa",
       "acceptableAnswers": [
         "ciekawa",
         "ciekawy",
         "ciekawe"
       ],
-      "hint": "Use 'bardziej + adjective' for longer adjectives; adjective agrees with 'książka' (feminine)"
+      "hint": "Use 'bardziej + adjective' for longer adjectives; adjective agrees with 'książka' (feminine) → -a",
+      "explanation": "Long adjectives use 'bardziej'. 'Książka' is feminine → 'ciekawa'. 'Ta książka jest bardziej ciekawa niż tamta.'",
+      "explanation_fa": "صفات بلند از 'bardziej' استفاده می‌کنند. 'Książka' مؤنث است → 'ciekawa'. 'Ta książka jest bardziej ciekawa niż tamta.'",
+      "context": "Marek compares two books. Complete:",
+      "context_fa": "ماریک دو کتاب را مقایسه می‌کند. کامل کنید:",
+      "sentence": "Ta książka jest bardziej ___ niż tamta.",
+      "translation": "(This book is more interesting than that one.) [ciekawy → feminine]",
+      "translation_fa": "(این کتاب از آن جالب‌تر است.) [ciekawy → مؤنث]",
+      "prompt": "Ta książka jest bardziej ___ niż tamta.",
+      "prompt_fa": "Ta książka jest bardziej ___ niż tamta."
     },
     {
       "id": "a1-ch10-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch10/a1-ch10-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "On jest starszy od swojej siostry.",
         "On jest stary od swojej siostry.",
@@ -57,52 +69,38 @@
         "On jest najstarszy w rodzinie."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'On jest starszy od swojej siostry.' — He is older than his sister. 'Starszy' = older (comparative of 'stary'). 'Od + genitive': siostry."
+      "explanation": "You heard: 'On jest starszy od swojej siostry.' — He is older than his sister. 'Starszy' = older (comparative of 'stary'). 'Od + genitive': siostry (genitive of siostra).",
+      "explanation_fa": "شنیدید: 'On jest starszy od swojej siostry.' — او از خواهرش بزرگ‌تر است. 'Starszy' = بزرگ‌تر (تفضیلی 'stary'). 'Od + مضاف‌الیهی': siostry (مضاف‌الیهی siostra)."
     },
     {
       "id": "a1-ch10-l02-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: This coffee is better than tea.",
+      "prompt": "Tap the words in order: This coffee is better than tea.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: این قهوه از چای بهتر است.",
       "wordBank": [
         "Ta",
-        "Ten",
         "kawa",
-        "kawę",
         "jest",
-        "lepsza",
-        "lepszy",
-        "niż",
-        "od",
-        "herbata",
-        "herbaty",
-        "herbatą"
+        "lepsza niż herbata"
       ],
       "correctSequences": [
         [
           "Ta",
           "kawa",
           "jest",
-          "lepsza",
-          "niż",
-          "herbata"
-        ],
-        [
-          "Ta",
-          "kawa",
-          "jest",
-          "lepsza",
-          "od",
-          "herbaty"
+          "lepsza niż herbata"
         ]
       ],
-      "explanation": "'Ta kawa jest lepsza niż herbata' = This coffee is better than tea. 'Lepszy' (m) → 'lepsza' (f, agreeing with kawa). 'Niż + nominative' or 'od + genitive'."
+      "explanation": "'Ta kawa jest lepsza niż herbata' = This coffee is better than tea. 'Lepsza' = better (f, agreeing with kawa). 'Dobry' has irregular comparative 'lepszy' → feminine 'lepsza'.",
+      "explanation_fa": "'Ta kawa jest lepsza niż herbata' = این قهوه از چای بهتر است. 'Lepsza' = بهتر (مؤنث، با kawa تطبیق دارد). 'Dobry' تفضیلی نامنظم 'lepszy' → مؤنث 'lepsza' دارد."
     },
     {
       "id": "a1-ch10-l02-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "What is the superlative of 'dobry' (good)?",
+      "prompt": "Tomek asks what the best Polish word for something is. What is the superlative of 'dobry' (good)?",
+      "prompt_fa": "تامک می‌پرسد بهترین کلمه لهستانی برای چیزی چیست. عالی 'dobry' (خوب) چیست؟",
       "options": [
         "najlepszy",
         "bardziej dobry",
@@ -110,7 +108,99 @@
         "najdobry"
       ],
       "correctIndex": 0,
-      "explanation": "'Najlepszy' = best (superlative of 'dobry', which has irregular comparative 'lepszy'). Add 'naj-' to comparative: naj+lepszy = najlepszy."
+      "explanation": "'Najlepszy' = best (superlative of 'dobry'). Dobry has irregular comparative 'lepszy' → superlative naj+lepszy = najlepszy. Add 'naj-' to the comparative.",
+      "explanation_fa": "'Najlepszy' = بهترین (عالی 'dobry'). dobry تفضیلی نامنظم 'lepszy' دارد → عالی naj+lepszy = najlepszy. 'naj-' را به تفضیلی اضافه کنید."
+    },
+    {
+      "id": "a1-ch10-l02-ex06",
+      "type": "fill_blank",
+      "order": 6,
+      "answer": "lepsze",
+      "acceptableAnswers": [
+        "lepsze"
+      ],
+      "hint": "Comparative of dobry: lepszy. Neuter form: lepsze (-e ending). Lato is neuter.",
+      "explanation": "'Lato' (neuter) → comparative adjective must agree: 'lepsze' (neuter form of lepszy). 'Dobry' → lepszy (m), lepsza (f), lepsze (n). 'Lato jest lepsze niż zima'.",
+      "explanation_fa": "'Lato' (خنثی) → صفت تفضیلی باید تطبیق داشته باشد: 'lepsze' (شکل خنثی lepszy). 'Dobry' → lepszy (م)، lepsza (مؤ)، lepsze (خ). 'Lato jest lepsze niż zima'.",
+      "context": "Ania says summer is better than winter. Complete:",
+      "context_fa": "آنیا می‌گوید تابستان از زمستان بهتر است. کامل کنید:",
+      "sentence": "Lato jest ___ niż zima.",
+      "translation": "(Summer is better than winter.) [dobry → comparative, neuter]",
+      "translation_fa": "(تابستان از زمستان بهتر است.) [dobry → تفضیلی، خنثی]",
+      "prompt": "Lato jest ___ niż zima.",
+      "prompt_fa": "Lato jest ___ niż zima."
+    },
+    {
+      "id": "a1-ch10-l02-ex07",
+      "type": "multiple_choice",
+      "order": 7,
+      "prompt": "Marek's sister is younger than him. Complete: Moja siostra jest ___ niż ja. [młody → comparative, feminine]",
+      "prompt_fa": "خواهر ماریک از او جوان‌تر است. کامل کنید: Moja siostra jest ___ niż ja. [młody → تفضیلی، مؤنث]",
+      "options": [
+        "młodsza",
+        "młodszy",
+        "młodsze",
+        "młodszej"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Siostra' is feminine → comparative adjective: 'młodsza' (feminine form of młodszy). 'Młody' → comparative: młodszy (m), młodsza (f). 'Moja siostra jest młodsza niż ja'.",
+      "explanation_fa": "'Siostra' مؤنث است → صفت تفضیلی: 'młodsza' (شکل مؤنث młodszy). 'Młody' → تفضیلی: młodszy (م)، młodsza (مؤ). 'Moja siostra jest młodsza niż ja'."
+    },
+    {
+      "id": "a1-ch10-l02-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Kasia finds a cheaper jacket. Complete: Ta kurtka jest ___ niż tamta. (This jacket is cheaper than that one.) [tani → comparative, feminine]",
+      "prompt_fa": "کاسیا یک کاپشن ارزان‌تر پیدا می‌کند. کامل کنید: Ta kurtka jest ___ niż tamta. (این کاپشن از آن ارزان‌تر است.) [tani → تفضیلی، مؤنث]",
+      "options": [
+        "tańsza",
+        "tańszy",
+        "tańsze",
+        "tańszą"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Kurtka' is feminine → comparative: 'tańsza' (feminine of tańszy). 'Tani' → comparative: tańszy (m), tańsza (f), tańsze (n). Feminine nominative comparative: -sza.",
+      "explanation_fa": "'Kurtka' مؤنث است → تفضیلی: 'tańsza' (مؤنث tańszy). 'Tani' → تفضیلی: tańszy (م)، tańsza (مؤ)، tańsze (خ). تفضیلی فاعلی مؤنث: -sza."
+    },
+    {
+      "id": "a1-ch10-l02-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tap the words in order: Warsaw is bigger than Gdańsk.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: ورشو از گدانسک بزرگ‌تر است.",
+      "wordBank": [
+        "Warszawa",
+        "jest",
+        "większa",
+        "niż Gdańsk"
+      ],
+      "correctSequences": [
+        [
+          "Warszawa",
+          "jest",
+          "większa",
+          "niż Gdańsk"
+        ]
+      ],
+      "explanation": "'Warszawa jest większa niż Gdańsk.' = Warsaw is bigger than Gdańsk. 'Duży' → comparative: większy (m), większa (f). 'Warszawa' is feminine → większa.",
+      "explanation_fa": "'Warszawa jest większa niż Gdańsk.' = ورشو از گدانسک بزرگ‌تر است. 'Duży' → تفضیلی: większy (م)، większa (مؤ). 'Warszawa' مؤنث است → większa."
+    },
+    {
+      "id": "a1-ch10-l02-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch10/a1-ch10-l02-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Ten hotel jest droższy, ale lepszy niż poprzedni.",
+        "Ten hotel jest drogi, ale lepszy niż poprzedni.",
+        "Ten hotel jest droższy, ale dobry niż poprzedni.",
+        "Ten hotel jest droższy, ale lepsza niż poprzedni."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Ten hotel jest droższy, ale lepszy niż poprzedni.' — This hotel is more expensive but better than the previous one. 'Hotel' (m): droższy, lepszy (both masculine comparative).",
+      "explanation_fa": "شنیدید: 'Ten hotel jest droższy, ale lepszy niż poprzedni.' — این هتل گران‌تر است اما از قبلی بهتر است. 'Hotel' (م): droższy، lepszy (هر دو تفضیلی مذکر)."
     }
   ],
   "xpReward": 20,

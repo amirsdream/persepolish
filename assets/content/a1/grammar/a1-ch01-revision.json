@@ -13,6 +13,7 @@
       "order": 1,
       "sourceLesson": "a1-ch01-l01",
       "prompt": "Choose the correct form: Ona ___ nauczycielką.",
+      "prompt_fa": "شکل درست را انتخاب کنید: Ona ___ nauczycielką.",
       "options": [
         "jestem",
         "jesteś",
@@ -20,7 +21,8 @@
         "jesteście"
       ],
       "correctIndex": 2,
-      "explanation": "Third person singular (ona = she) uses jest. 'Ona jest nauczycielką' = She is a teacher."
+      "explanation": "Third person singular (ona = she) uses jest. 'Ona jest nauczycielką' = She is a teacher.",
+      "explanation_fa": "سوم شخص مفرد (ona = او مؤنث) از jest استفاده می‌کند. 'Ona jest nauczycielką' = او معلم است."
     },
     {
       "id": "a1-ch01-rev-q02",
@@ -28,6 +30,7 @@
       "order": 2,
       "sourceLesson": "a1-ch01-l02",
       "prompt": "My ___ z Polski.",
+      "prompt_fa": "جای خالی: My ___ z Polski.",
       "options": [
         "jest",
         "jesteś",
@@ -35,7 +38,8 @@
         "są"
       ],
       "correctIndex": 2,
-      "explanation": "First person plural (my = we) uses jesteśmy. 'My jesteśmy z Polski' = We are from Poland."
+      "explanation": "First person plural (my = we) uses jesteśmy. 'My jesteśmy z Polski' = We are from Poland.",
+      "explanation_fa": "اول شخص جمع (my = ما) از jesteśmy استفاده می‌کند. 'My jesteśmy z Polski' = ما از لهستان هستیم."
     },
     {
       "id": "a1-ch01-rev-q03",
@@ -43,6 +47,7 @@
       "order": 3,
       "sourceLesson": "a1-ch01-l03",
       "prompt": "Which pronoun do you use to talk about a group of women?",
+      "prompt_fa": "برای صحبت درباره گروهی از زنان از کدام ضمیر استفاده می‌کنید؟",
       "options": [
         "one",
         "oni",
@@ -50,7 +55,8 @@
         "ono"
       ],
       "correctIndex": 0,
-      "explanation": "'One' is used for groups of all-female or all-neuter nouns. 'Oni' is for mixed or all-male groups."
+      "explanation": "'One' is used for groups of all-female or all-neuter nouns. 'Oni' is for mixed or all-male groups.",
+      "explanation_fa": "'One' برای گروه‌های کاملاً مؤنث یا کاملاً خنثی استفاده می‌شود. 'Oni' برای گروه‌های مختلط یا کاملاً مذکر."
     },
     {
       "id": "a1-ch01-rev-q04",
@@ -58,6 +64,7 @@
       "order": 4,
       "sourceLesson": "a1-ch01-l04",
       "prompt": "What gender is 'morze' (sea)?",
+      "prompt_fa": "جنسیت 'morze' (دریا) چیست؟",
       "options": [
         "neuter",
         "masculine",
@@ -65,7 +72,8 @@
         "it varies"
       ],
       "correctIndex": 0,
-      "explanation": "'Morze' ends in -e, a neuter ending. It is a neuter noun."
+      "explanation": "'Morze' ends in -e, a neuter ending. It is a neuter noun.",
+      "explanation_fa": "'Morze' به -e ختم می‌شود — پسوند خنثی. این یک اسم خنثی است."
     },
     {
       "id": "a1-ch01-rev-q05",
@@ -73,6 +81,7 @@
       "order": 5,
       "sourceVocab": "a1-ch01-vocab",
       "prompt": "What does 'do widzenia' mean?",
+      "prompt_fa": "'do widzenia' چه معنایی دارد؟",
       "options": [
         "good morning",
         "please",
@@ -80,7 +89,8 @@
         "excuse me"
       ],
       "correctIndex": 2,
-      "explanation": "'Do widzenia' is the standard formal goodbye in Polish — literally 'until seeing (you)'."
+      "explanation": "'Do widzenia' is the standard formal goodbye in Polish — literally 'until seeing (you)'.",
+      "explanation_fa": "'Do widzenia' خداحافظی رسمی استاندارد در لهستانی است — به معنای تحت‌اللفظی «تا دیدن (شما)»."
     },
     {
       "id": "a1-ch01-rev-q06",
@@ -88,6 +98,7 @@
       "order": 6,
       "sourceVocab": "a1-ch01-vocab",
       "prompt": "What does 'przepraszam' mean?",
+      "prompt_fa": "'przepraszam' چه معنایی دارد؟",
       "options": [
         "thank you",
         "excuse me / I'm sorry",
@@ -95,7 +106,8 @@
         "good evening"
       ],
       "correctIndex": 1,
-      "explanation": "'Przepraszam' means both 'excuse me' (to get attention) and 'I'm sorry' (to apologise) in Polish."
+      "explanation": "'Przepraszam' means both 'excuse me' (to get attention) and 'I'm sorry' (to apologise) in Polish.",
+      "explanation_fa": "'Przepraszam' هم به معنی «ببخشید» (برای جلب توجه) و هم «متأسفم» (برای عذرخواهی) است."
     },
     {
       "id": "a1-ch01-rev-q07",
@@ -103,6 +115,7 @@
       "order": 7,
       "sourceLesson": "a1-ch01-l01",
       "prompt": "Ty ___ bardzo miły.",
+      "prompt_fa": "جای خالی: Ty ___ bardzo miły.",
       "options": [
         "jest",
         "jestem",
@@ -110,7 +123,8 @@
         "są"
       ],
       "correctIndex": 2,
-      "explanation": "Second person singular (ty = you) uses jesteś. 'Ty jesteś bardzo miły' = You are very nice."
+      "explanation": "Second person singular (ty = you) uses jesteś. 'Ty jesteś bardzo miły' = You are very nice.",
+      "explanation_fa": "دوم شخص مفرد (ty = تو) از jesteś استفاده می‌کند. 'Ty jesteś bardzo miły' = تو خیلی مهربانی."
     },
     {
       "id": "a1-ch01-rev-q08",
@@ -118,6 +132,7 @@
       "order": 8,
       "sourceLesson": "a1-ch01-l04",
       "prompt": "Which noun ending is typically masculine?",
+      "prompt_fa": "کدام پسوند اسم معمولاً مذکر است؟",
       "options": [
         "ends in a consonant",
         "ends in -a",
@@ -125,7 +140,8 @@
         "ends in -e"
       ],
       "correctIndex": 0,
-      "explanation": "Masculine nouns typically end in a consonant (e.g. kot, dom, pies). Feminine nouns end in -a. Neuter nouns end in -o or -e."
+      "explanation": "Masculine nouns typically end in a consonant (e.g. kot, dom, pies). Feminine nouns end in -a. Neuter nouns end in -o or -e.",
+      "explanation_fa": "اسم‌های مذکر معمولاً به یک حرف صامت ختم می‌شوند (مثل kot، dom، pies). اسم‌های مؤنث به -a ختم می‌شوند. اسم‌های خنثی به -o یا -e."
     },
     {
       "id": "a1-ch01-rev-q09",
@@ -133,6 +149,7 @@
       "order": 9,
       "sourceVocab": "a1-ch01-vocab",
       "prompt": "What does 'dziękuję' mean?",
+      "prompt_fa": "'dziękuję' چه معنایی دارد؟",
       "options": [
         "please",
         "excuse me",
@@ -140,7 +157,8 @@
         "goodbye"
       ],
       "correctIndex": 2,
-      "explanation": "'Dziękuję' = thank you. You can add 'bardzo' (very much) for emphasis: 'Dziękuję bardzo'."
+      "explanation": "'Dziękuję' = thank you. You can add 'bardzo' (very much) for emphasis: 'Dziękuję bardzo'.",
+      "explanation_fa": "'Dziękuję' = ممنون. می‌توانید 'bardzo' (خیلی) را برای تأکید اضافه کنید: 'Dziękuję bardzo' = خیلی ممنون."
     },
     {
       "id": "a1-ch01-rev-q10",
@@ -148,6 +166,7 @@
       "order": 10,
       "sourceLesson": "a1-ch01-l02",
       "prompt": "Oni ___ lekarzami.",
+      "prompt_fa": "جای خالی: Oni ___ lekarzami.",
       "options": [
         "jest",
         "jesteś",
@@ -155,7 +174,8 @@
         "są"
       ],
       "correctIndex": 3,
-      "explanation": "Third person plural (oni = they) uses są. 'Oni są lekarzami' = They are doctors."
+      "explanation": "Third person plural (oni = they) uses są. 'Oni są lekarzami' = They are doctors.",
+      "explanation_fa": "سوم شخص جمع (oni = آن‌ها) از są استفاده می‌کند. 'Oni są lekarzami' = آن‌ها دکتر هستند."
     },
     {
       "id": "a1-ch01-rev-q11",
@@ -163,6 +183,7 @@
       "order": 11,
       "sourceVocab": "a1-ch01-vocab",
       "prompt": "What does 'nie rozumiem' mean?",
+      "prompt_fa": "'nie rozumiem' چه معنایی دارد؟",
       "options": [
         "I understand",
         "I don't understand",
@@ -170,7 +191,8 @@
         "please repeat"
       ],
       "correctIndex": 1,
-      "explanation": "'Nie rozumiem' = I don't understand. 'Nie' = not/no, 'rozumiem' = I understand."
+      "explanation": "'Nie rozumiem' = I don't understand. 'Nie' = not/no, 'rozumiem' = I understand.",
+      "explanation_fa": "'Nie rozumiem' = نمی‌فهمم. 'Nie' = نه/نمی، 'rozumiem' = می‌فهمم."
     },
     {
       "id": "a1-ch01-rev-q12",
@@ -178,6 +200,7 @@
       "order": 12,
       "sourceLesson": "a1-ch01-l03",
       "prompt": "When do Polish speakers usually drop the subject pronoun?",
+      "prompt_fa": "لهستانی‌ها معمولاً چه وقت ضمیر فاعلی را حذف می‌کنند؟",
       "options": [
         "Almost always — the verb ending shows the subject",
         "Never — you must always say ja, ty, on etc.",
@@ -185,7 +208,8 @@
         "Only when speaking fast"
       ],
       "correctIndex": 0,
-      "explanation": "Polish is a pro-drop language — the subject pronoun is usually omitted because the verb ending already shows who the subject is. Pronouns are used for emphasis or contrast."
+      "explanation": "Polish is a pro-drop language — the subject pronoun is usually omitted because the verb ending already shows who the subject is. Pronouns are used for emphasis or contrast.",
+      "explanation_fa": "لهستانی یک زبان pro-drop است — ضمیر فاعلی معمولاً حذف می‌شود چون پسوند فعل قبلاً نشان می‌دهد فاعل کیست. ضمایر برای تأکید یا تضاد استفاده می‌شوند."
     }
   ]
 }

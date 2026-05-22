@@ -8,20 +8,22 @@
   "grammarPoint": "Cardinal numbers dwadzieścia through tysiąc",
   "grammarPoint_fa": "اعداد اصلی لهستانی از ۲۰ تا ۱۰۰۰",
   "explanation": {
-    "text": "Larger Polish numbers follow patterns built from the tens and units you already know.\n\n**Tens:**\n\n| Number | Polish |\n|--------|--------|\n| 20 | **dwadzieścia** |\n| 30 | **trzydzieści** |\n| 40 | **czterdzieści** |\n| 50 | **pięćdziesiąt** |\n| 60 | **sześćdziesiąt** |\n| 70 | **siedemdziesiąt** |\n| 80 | **osiemdziesiąt** |\n| 90 | **dziewięćdziesiąt** |\n| 100 | **sto** |\n| 200 | **dwieście** |\n| 300/400 | **trzysta / czterysta** |\n| 500–900 | **pięćset … dziewięćset** |\n| 1000 | **tysiąc** |\n\n**Compound numbers:** just say tens + units: 21 = *dwadzieścia jeden*, 35 = *trzydzieści pięć*.",
+    "text": "## Numbers 20–1000\n\nLarger Polish numbers follow patterns built from the tens and units you already know.\n\n### Tens (dziesiątki)\n\n| Number | Polish | Memory tip |\n|--------|--------|------------|\n| 20 | **dwadzieścia** | dwa (2) + dziesia- |\n| 30 | **trzydzieści** | trzy (3) + dziesi- |\n| 40 | **czterdzieści** | cztery (4) + dziesi- |\n| 50 | **pięćdziesiąt** | pięć (5) + dziesiąt |\n| 60 | **sześćdziesiąt** | sześć (6) + dziesiąt |\n| 70 | **siedemdziesiąt** | siedem (7) + dziesiąt |\n| 80 | **osiemdziesiąt** | osiem (8) + dziesiąt |\n| 90 | **dziewięćdziesiąt** | dziewięć (9) + dziesiąt |\n\n### Hundreds (setki)\n\n| Number | Polish | Note |\n|--------|--------|------|\n| 100 | **sto** | unique form |\n| 200 | **dwieście** | special form |\n| 300 | **trzysta** | special form |\n| 400 | **czterysta** | special form |\n| 500 | **pięćset** | pięć + set |\n| 600 | **sześćset** | sześć + set |\n| 700 | **siedemset** | siedem + set |\n| 800 | **osiemset** | osiem + set |\n| 900 | **dziewięćset** | dziewięć + set |\n| 1000 | **tysiąc** | unique form |\n\n### Building compound numbers\n\nJust say **tens + units** (no connecting word needed):\n\n| Number | Polish |\n|--------|--------|\n| 21 | dwadzieścia jeden |\n| 35 | trzydzieści pięć |\n| 47 | czterdzieści siedem |\n| 99 | dziewięćdziesiąt dziewięć |\n| 150 | sto pięćdziesiąt |\n| 356 | trzysta pięćdziesiąt sześć |\n\n### Currency: złoty and groszy\n\n| Amount | Polish | Rule |\n|--------|--------|------|\n| 1 zł | jeden złoty | nominative singular |\n| 2–4 zł | dwa/trzy/cztery złote | nominative plural |\n| 5+ zł | pięć złotych | genitive plural |\n| 1 gr | jeden grosz | nominative singular |\n| 2–4 gr | dwa grosze | nominative plural |\n| 5+ gr | pięć groszy | genitive plural |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *pięćdziesiąt pięć = 55* confused with *pięćset = 500* | separate clearly | -dziesiąt = tens, -set = hundreds |\n| *sto jeden = 101* (correct!) | *sto jeden* | no 'and' needed |\n| *dwa złoty* (5+ context) | *pięć złotych* | 5+ requires genitive plural |",
     "notes": [
-      "100 = sto, 200 = dwieście, 300 = trzysta, 400 = czterysta, 500–900 = X-set.",
-      "Compound numbers: tens first, then units (no 'and').",
-      "The noun case after large numbers follows the last digit's rule (complex — focus on recognition for now)."
+      "20 = dwadzieścia (special), 30–90 follow patterns: trzydzieści, czterdzieści, pięćdziesiąt...",
+      "Hundreds: 100 sto, 200 dwieście, 300 trzysta, 400 czterysta, 500–900 X-set",
+      "Compound numbers: tens first, then units — no connecting word: 35 = trzydzieści pięć",
+      "Currency: złoty has 3 forms — złoty (1), złote (2-4), złotych (5+)"
     ]
   },
-  "explanation_fa": "دهگان: dwadzieścia (۲۰)، trzydzieści (۳۰)، czterdzieści (۴۰)، pięćdziesiąt (۵۰)، sześćdziesiąt (۶۰)، siedemdziesiąt (۷۰)، osiemdziesiąt (۸۰)، dziewięćdziesiąt (۹۰)، sto (۱۰۰). صدگان: dwieście، trzysta، czterysta، pięćset ... tysiąc (۱۰۰۰).",
+  "explanation_fa": "## اعداد ۲۰ تا ۱۰۰۰\n\nاعداد بزرگ‌تر لهستانی از الگوهایی ساخته می‌شوند که بر اساس اعداد دهگانه و یکی هستند.\n\n### دهگان‌ها (dziesiątki)\n\n| عدد | لهستانی | کمک حافظه |\n|-----|---------|------------|\n| ۲۰ | **dwadzieścia** | dwa (۲) + dziesia- |\n| ۳۰ | **trzydzieści** | trzy (۳) + dziesi- |\n| ۴۰ | **czterdzieści** | cztery (۴) + dziesi- |\n| ۵۰ | **pięćdziesiąt** | pięć (۵) + dziesiąt |\n| ۶۰ | **sześćdziesiąt** | sześć (۶) + dziesiąt |\n| ۷۰ | **siedemdziesiąt** | siedem (۷) + dziesiąt |\n| ۸۰ | **osiemdziesiąt** | osiem (۸) + dziesiąt |\n| ۹۰ | **dziewięćdziesiąt** | dziewięć (۹) + dziesiąt |\n\n### صدگان‌ها (setki)\n\n| عدد | لهستانی | توضیح |\n|-----|---------|--------|\n| ۱۰۰ | **sto** | شکل منحصربه‌فرد |\n| ۲۰۰ | **dwieście** | شکل خاص |\n| ۳۰۰ | **trzysta** | شکل خاص |\n| ۴۰۰ | **czterysta** | شکل خاص |\n| ۵۰۰–۹۰۰ | **pięćset … dziewięćset** | X + set |\n| ۱۰۰۰ | **tysiąc** | شکل منحصربه‌فرد |\n\n### ساخت اعداد مرکب\n\nفقط **دهگان + یکی** بگویید (بدون کلمه وصل):\n\n| عدد | لهستانی |\n|-----|---------|\n| ۲۱ | dwadzieścia jeden |\n| ۳۵ | trzydzieści pięć |\n| ۹۹ | dziewięćdziesiąt dziewięć |\n| ۱۵۰ | sto pięćdziesiąt |\n\n### پول رایج: złoty و groszy\n\n| مقدار | لهستانی | قانون |\n|-------|---------|-------|\n| ۱ زلوتی | jeden złoty | فاعلی مفرد |\n| ۲–۴ زلوتی | dwa/trzy/cztery złote | فاعلی جمع |\n| ۵+ زلوتی | pięć złotych | مضاف‌الیهی جمع |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| اشتباه بین pięćdziesiąt (۵۰) و pięćset (۵۰۰) | جدا نگه دارید | -dziesiąt = دهگان، -set = صدگان |\n| *dwa złoty* (برای ۵+) | *pięć złotych* | ۵+ → مضاف‌الیهی جمع |",
   "exercises": [
     {
       "id": "a1-ch04-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "What is 50 in Polish?",
+      "prompt": "Marek is telling his phone number. He says 50. Which is correct?",
+      "prompt_fa": "ماریک دارد شماره تلفنش را می‌گوید. می‌گوید ۵۰. کدام درست است؟",
       "options": [
         "pięćdziesiąt",
         "pięćset",
@@ -29,24 +31,35 @@
         "pięćdziesiąta"
       ],
       "correctIndex": 0,
-      "explanation": "50 = pięćdziesiąt. Notice the pattern: pięć (5) + dziesiąt (tens suffix)."
+      "explanation": "50 = pięćdziesiąt. Notice the pattern: pięć (5) + -dziesiąt (tens suffix). Don't confuse with pięćset (500).",
+      "explanation_fa": "۵۰ = pięćdziesiąt. الگو را توجه کنید: pięć (۵) + -dziesiąt (پسوند دهگان). با pięćset (۵۰۰) اشتباه نگیرید."
     },
     {
       "id": "a1-ch04-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Mam ___ złotych. (I have 100 zloty.)",
       "answer": "sto",
       "acceptableAnswers": [
         "sto"
       ],
-      "hint": "The number 100 in Polish"
+      "hint": "100 in Polish — a unique form",
+      "explanation": "100 = sto. 'Mam sto złotych' = I have 100 zloty. 'Sto' is a unique form (not built from a pattern).",
+      "explanation_fa": "۱۰۰ = sto. 'Mam sto złotych' = ۱۰۰ زلوتی دارم. 'Sto' شکل منحصربه‌فردی است (از الگو ساخته نشده).",
+      "context": "Kasia pays exactly 100 zloty. Complete:",
+      "context_fa": "کاسیا دقیقاً ۱۰۰ زلوتی می‌پردازد. کامل کنید:",
+      "sentence": "Mam ___ złotych.",
+      "translation": "(I have 100 zloty.)",
+      "translation_fa": "(۱۰۰ زلوتی دارم.)",
+      "prompt": "Mam ___ złotych.",
+      "prompt_fa": "Mam ___ złotych."
     },
     {
       "id": "a1-ch04-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch04/a1-ch04-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "trzydzieści pięć",
         "czterdzieści pięć",
@@ -54,19 +67,19 @@
         "pięćdziesiąt pięć"
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'trzydzieści pięć' — 35. Trzydzieści (30) + pięć (5) = 35."
+      "explanation": "You heard: 'trzydzieści pięć' — 35. Trzydzieści (30) + pięć (5) = 35.",
+      "explanation_fa": "شنیدید: 'trzydzieści pięć' — ۳۵. Trzydzieści (۳۰) + pięć (۵) = ۳۵."
     },
     {
       "id": "a1-ch04-l02-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: I have five hundred zloty.",
+      "prompt": "Tap the words in order: I have five hundred zloty.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: پانصد زلوتی دارم.",
       "wordBank": [
         "Mam",
         "pięćset",
-        "pięćdziesiąt",
         "złotych",
-        "złoty",
         "euro"
       ],
       "correctSequences": [
@@ -76,13 +89,15 @@
           "złotych"
         ]
       ],
-      "explanation": "'Mam pięćset złotych' = I have five hundred zloty. 'Pięćset' = 500. 'Złotych' is genitive plural after large numbers."
+      "explanation": "'Mam pięćset złotych' = I have five hundred zloty. 'Pięćset' = 500. 'Złotych' is genitive plural after large numbers. 'Euro' is a distractor.",
+      "explanation_fa": "'Mam pięćset złotych' = پانصد زلوتی دارم. 'Pięćset' = ۵۰۰. 'Złotych' مضاف‌الیهی جمع بعد از اعداد بزرگ است. 'Euro' گزینه اضافه است."
     },
     {
       "id": "a1-ch04-l02-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "How do you say 42 in Polish?",
+      "prompt": "Tomek's ticket costs 42 zloty. How does he say the price?",
+      "prompt_fa": "بلیط تامک ۴۲ زلوتی قیمت دارد. قیمت را چطور می‌گوید؟",
       "options": [
         "czterdzieści dwa",
         "dwadzieścia cztery",
@@ -90,7 +105,98 @@
         "czterdzieści dwie"
       ],
       "correctIndex": 0,
-      "explanation": "42 = czterdzieści dwa. Tens first (czterdzieści = 40), then units (dwa = 2). No connecting word needed."
+      "explanation": "42 = czterdzieści dwa. Tens first (czterdzieści = 40), then units (dwa = 2). No connecting word needed in Polish.",
+      "explanation_fa": "۴۲ = czterdzieści dwa. ابتدا دهگان (czterdzieści = ۴۰)، سپس یکی (dwa = ۲). در لهستانی نیازی به کلمه وصل نیست."
+    },
+    {
+      "id": "a1-ch04-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia is writing a cheque. How do you say '35' in Polish?",
+      "prompt_fa": "کاسیا دارد چک می‌نویسد. '۳۵' به لهستانی چطور می‌گویند؟",
+      "options": [
+        "trzydzieści pięć",
+        "pięć trzydzieści",
+        "trzydwadzieścia pięć",
+        "trzydziąt pięć"
+      ],
+      "correctIndex": 0,
+      "explanation": "35 = trzydzieści pięć. Tens + units, no connecting word. Trzydzieści = 30, pięć = 5.",
+      "explanation_fa": "۳۵ = trzydzieści pięć. دهگان + یکی، بدون کلمه وصل. Trzydzieści = ۳۰، pięć = ۵."
+    },
+    {
+      "id": "a1-ch04-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "sto",
+      "acceptableAnswers": [
+        "sto"
+      ],
+      "hint": "The simplest word for 100 in Polish",
+      "explanation": "'Sto' = 100. 'To kosztuje sto złotych' = It costs 100 zloty. Hundreds: sto (100), dwieście (200), trzysta (300), czterysta (400), pięćset (500).",
+      "explanation_fa": "'Sto' = ۱۰۰. 'To kosztuje sto złotych' = صد زلوتی قیمت دارد. صدگان: sto (۱۰۰)، dwieście (۲۰۰)، trzysta (۳۰۰)، czterysta (۴۰۰)، pięćset (۵۰۰).",
+      "context": "Tomek tells the price. Complete:",
+      "context_fa": "تامک قیمت را می‌گوید. کامل کنید:",
+      "sentence": "'100' in Polish is ___.",
+      "translation": "",
+      "translation_fa": "",
+      "prompt": "'100' in Polish is ___.",
+      "prompt_fa": "'100' in Polish is ___."
+    },
+    {
+      "id": "a1-ch04-l02-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Marek pays 250 złotych for a ticket. '250' in Polish is...",
+      "prompt_fa": "مارک ۲۵۰ زلوتی برای یک بلیط می‌پردازد. '۲۵۰' به لهستانی...",
+      "options": [
+        "dwieście pięćdziesiąt",
+        "dwiesta pięćdziesiąt",
+        "dwustu pięćdziesięciu",
+        "dwieście pięćdziesiąty"
+      ],
+      "correctIndex": 0,
+      "explanation": "250 = dwieście pięćdziesiąt. 'Dwieście' = 200, 'pięćdziesiąt' = 50. Hundreds 200 uses 'dwieście' (not 'dwiesta').",
+      "explanation_fa": "۲۵۰ = dwieście pięćdziesiąt. 'Dwieście' = ۲۰۰، 'pięćdziesiąt' = ۵۰. صد ۲۰۰ از 'dwieście' استفاده می‌کند (نه 'dwiesta')."
+    },
+    {
+      "id": "a1-ch04-l02-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Ania says the book costs forty zloty. Arrange the words.",
+      "prompt_fa": "آنیا می‌گوید کتاب چهل زلوتی قیمت دارد. کلمات را به ترتیب بزنید.",
+      "wordBank": [
+        "Książka",
+        "kosztuje",
+        "czterdzieści złotych",
+        "sto"
+      ],
+      "correctSequences": [
+        [
+          "Książka",
+          "kosztuje",
+          "czterdzieści złotych"
+        ]
+      ],
+      "explanation": "'Książka kosztuje czterdzieści złotych' = The book costs forty zloty. 'Czterdzieści' = 40. 'Złotych' = genitive plural (after numbers 5+).",
+      "explanation_fa": "'Książka kosztuje czterdzieści złotych' = کتاب چهل زلوتی قیمت دارد. 'Czterdzieści' = ۴۰. 'Złotych' = مضاف‌الیهی جمع (بعد از اعداد ۵+)."
+    },
+    {
+      "id": "a1-ch04-l02-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch04/a1-ch04-l02-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Ten hotel kosztuje osiemset złotych za noc.",
+        "Ten hotel kosztuje siedemset złotych za noc.",
+        "Ten hotel kosztuje dziewięćset złotych za noc.",
+        "Ten hotel kosztuje osiemdziesiąt złotych za noc."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Ten hotel kosztuje osiemset złotych za noc.' — This hotel costs eight hundred zloty per night. 'Osiemset' = 800. 'Za noc' = per night.",
+      "explanation_fa": "شنیدید: 'Ten hotel kosztuje osiemset złotych za noc.' — این هتل هشتصد زلوتی در شب قیمت دارد. 'Osiemset' = ۸۰۰. 'Za noc' = در شب."
     }
   ],
   "xpReward": 20,

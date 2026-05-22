@@ -8,21 +8,22 @@
   "grammarPoint": "Instrumental case (narzędnik): kim/czym; być + instrumental for professions; z + instrumental",
   "grammarPoint_fa": "حالت ابزاری مفرد: -em/-iem (مذکر/خنثی)، -ą (مؤنث)",
   "explanation": {
-    "text": "The **instrumental case** (narzędnik) is used in several key situations:\n\n1. **After być (to be) — for identity and professions:**\n   - Jestem studentem. = I am a student. (m)\n   - Jestem studentką. = I am a student. (f)\n\n2. **Means/tool ('with what'):**\n   - Piszę długopisem. = I write with a pen.\n   - Jadę autobusem. = I go by bus.\n\n3. **Together with (z + instrumental):**\n   - Idę z przyjacielem. = I'm going with a friend.\n   - Kawa z mlekiem. = Coffee with milk.\n\n**Instrumental singular endings:**\n\n| Gender | Nominative | Instrumental | Rule |\n|--------|-----------|-------------|------|\n| Masculine | -consonant | **-em** | student → studentem, lekarz → lekarzem |\n| Feminine -a | -a | **-ą** | studentka → studentką, kawa → kawą |\n| Neuter -o | -o | **-em** | miasto → miastem, dziecko → dzieckiem |\n\n**Common instrumental forms:**\n- być + instrumental: jestem Polakiem / Polką = I am Polish\n- Jadę pociągiem. = I'm going by train.\n- Płacę kartą. = I'm paying by card.",
+    "text": "## Instrumental Case — Nouns\n\nThe **instrumental case** (narzędnik) is used in several key situations. It answers the questions **kim?** (with whom?) and **czym?** (with what? / by what means?).\n\n### Three main uses of the instrumental\n\n| Use | Structure | Example | English |\n|-----|-----------|---------|----------|\n| **Identity / profession** | być + instrumental | Jestem studentem. | I am a student. |\n| **Means / tool** | verb + instrumental | Piszę długopisem. | I write with a pen. |\n| **Together with** | z + instrumental | Idę z przyjacielem. | I'm going with a friend. |\n\n### Instrumental singular endings — nouns\n\n| Gender | Nominative | Instrumental | Rule |\n|--------|-----------|-------------|------|\n| Masculine (hard) | -consonant | **-em** | student → studentem, lekarz → lekarzem |\n| Masculine (soft) | -consonant | **-iem** | nauczyciel → nauczycielem |\n| Feminine **-a** | -a | **-ą** | studentka → studentką, kawa → kawą |\n| Feminine **-i** | -i | **-ią** | pani → panią |\n| Neuter **-o** | -o | **-em** | miasto → miastem, okno → oknem |\n| Neuter **-e** | -e | **-iem** | morze → morzem |\n\n### być + instrumental — professions and identity\n\n| Polish | English |\n|--------|---------|\n| Jestem **studentem**. | I am a student. (m) |\n| Jestem **studentką**. | I am a student. (f) |\n| On jest **lekarzem**. | He is a doctor. |\n| Ona jest **lekarką**. | She is a doctor. |\n| Jestem **Polakiem**. | I am Polish. (m) |\n| Jestem **Polką**. | I am Polish. (f) |\n\n### Transport — instrumental for means of travel\n\n| Polish | English |\n|--------|---------|\n| Jadę **autobusem**. | I go by bus. |\n| Jadę **pociągiem**. | I go by train. |\n| Jadę **samochodem**. | I go by car. |\n| Lecę **samolotem**. | I fly by plane. |\n| Płacę **kartą**. | I pay by card. |\n\n### z + instrumental — together with\n\n| Polish | English |\n|--------|---------|\n| Kawa **z mlekiem** | Coffee with milk |\n| Herbata **z cytryną** | Tea with lemon |\n| Idę **z przyjacielem** | I'm going with a friend (m) |\n| Idę **z przyjaciółką** | I'm going with a friend (f) |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Jestem student.* | *Jestem **studentem**.* | być + instrumental |\n| *Jadę pociąg.* | *Jadę **pociągiem**.* | transport = instrumental |\n| *Z mleko* | *Z **mlekiem*** | z + instrumental |",
     "notes": [
-      "Masculine: -em after hard consonants (studentem), -iem after soft (nauczycielem).",
-      "Feminine -a: always → -ą: kobieta → kobietą, mama → mamą.",
-      "Neuter -o: → -em: okno → oknem, dziecko → dzieckiem.",
-      "z + instrumental = together with/and: herbata z cytryną = tea with lemon."
+      "Masculine: -em after hard consonants (studentem), -iem after soft (nauczycielem)",
+      "Feminine -a: always → -ą: kobieta → kobietą, mama → mamą, kawa → kawą",
+      "Neuter -o: → -em: okno → oknem, dziecko → dzieckiem",
+      "z + instrumental = together with: herbata z cytryną = tea with lemon"
     ]
   },
-  "explanation_fa": "حالت ابزاری (narzędnik) برای بیان ابزار، همراهی (z + ابزاری) و هویت (jest + ابزاری) استفاده می‌شود. پسوندهای مفرد: مذکر/خنثی: -em/-iem (chleb → chlebem)، مؤنث: -ą (kawa → kawą). مثال: Jestem studentem (دانشجو هستم)، Piję kawę z mlekiem (قهوه با شیر می‌نوشم).",
+  "explanation_fa": "## حالت ابزاری — اسم‌ها\n\n**حالت ابزاری** (narzędnik) در چند موقعیت کلیدی استفاده می‌شود. به سوالات **kim?** (با چه کسی؟) و **czym?** (با چه چیزی؟ / با چه وسیله‌ای؟) پاسخ می‌دهد.\n\n### سه کاربرد اصلی ابزاری\n\n| کاربرد | ساختار | مثال | فارسی |\n|--------|--------|------|-------|\n| **هویت / شغل** | być + ابزاری | Jestem studentem. | دانشجو هستم. |\n| **وسیله / ابزار** | فعل + ابزاری | Piszę długopisem. | با خودکار می‌نویسم. |\n| **همراهی** | z + ابزاری | Idę z przyjacielem. | با دوستم می‌روم. |\n\n### پسوندهای ابزاری مفرد — اسم‌ها\n\n| جنسیت | فاعلی | ابزاری | قانون |\n|--------|-------|--------|-------|\n| مذکر (سخت) | -مصوت | **-em** | student → studentem |\n| مذکر (نرم) | -مصوت | **-iem** | nauczyciel → nauczycielem |\n| مؤنث **-a** | -a | **-ą** | studentka → studentką، kawa → kawą |\n| خنثی **-o** | -o | **-em** | miasto → miastem، okno → oknem |\n\n### być + ابزاری — مشاغل و هویت\n\n| لهستانی | فارسی |\n|---------|-------|\n| Jestem **studentem**. | دانشجو هستم. (م) |\n| Jestem **studentką**. | دانشجو هستم. (مؤ) |\n| Jestem **Polakiem**. | لهستانی هستم. (م) |\n\n### حمل‌ونقل — ابزاری برای وسیله سفر\n\n| لهستانی | فارسی |\n|---------|-------|\n| Jadę **autobusem**. | با اتوبوس می‌روم. |\n| Jadę **pociągiem**. | با قطار می‌روم. |\n| Płacę **kartą**. | با کارت پرداخت می‌کنم. |\n\n### z + ابزاری — همراه با\n\n| لهستانی | فارسی |\n|---------|-------|\n| Kawa **z mlekiem** | قهوه با شیر |\n| Herbata **z cytryną** | چای با لیمو |\n| Idę **z przyjacielem** | با دوستم می‌روم |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Jestem student.* | *Jestem **studentem**.* | być + ابزاری |\n| *Jadę pociąg.* | *Jadę **pociągiem**.* | حمل‌ونقل = ابزاری |\n| *Z mleko* | *Z **mlekiem*** | z + ابزاری |",
   "exercises": [
     {
       "id": "a1-ch07-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Jestem ___ (I am a doctor). [lekarz → instrumental]",
+      "prompt": "Marek is a doctor. Complete: Jestem ___ (I am a doctor). [lekarz → instrumental]",
+      "prompt_fa": "ماریک پزشک است. کامل کنید: Jestem ___ (پزشک هستم). [lekarz → ابزاری]",
       "options": [
         "lekarzem",
         "lekarz",
@@ -30,24 +31,35 @@
         "lekarzu"
       ],
       "correctIndex": 0,
-      "explanation": "'Lekarz' (masculine) → instrumental: 'lekarzem'. After 'być', profession takes instrumental: Jestem lekarzem."
+      "explanation": "'Lekarz' (masculine) → instrumental: 'lekarzem'. After 'być', profession takes instrumental: Jestem lekarzem = I am a doctor.",
+      "explanation_fa": "'Lekarz' (مذکر) → ابزاری: 'lekarzem'. بعد از 'być'، شغل ابزاری می‌گیرد: Jestem lekarzem = پزشک هستم."
     },
     {
       "id": "a1-ch07-l01-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Jadę ___ (by train). [pociąg → instrumental]",
       "answer": "pociągiem",
       "acceptableAnswers": [
         "pociągiem"
       ],
-      "hint": "Masculine noun instrumental: -em suffix"
+      "hint": "Masculine noun instrumental: -em suffix (pociąg → pociąg + iem)",
+      "explanation": "'Pociąg' (masculine) → instrumental: 'pociągiem'. Transport = instrumental case. 'Jadę pociągiem' = I'm going by train.",
+      "explanation_fa": "'Pociąg' (مذکر) → ابزاری: 'pociągiem'. حمل‌ونقل = حالت ابزاری. 'Jadę pociągiem' = با قطار می‌روم.",
+      "context": "Kasia travels to work by train. Complete:",
+      "context_fa": "کاسیا با قطار سر کار می‌رود. کامل کنید:",
+      "sentence": "Jadę ___.",
+      "translation": "(by train) [pociąg → instrumental]",
+      "translation_fa": "(با قطار) [pociąg → ابزاری]",
+      "prompt": "Jadę ___.",
+      "prompt_fa": "Jadę ___."
     },
     {
       "id": "a1-ch07-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch07/a1-ch07-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Piję kawę z mlekiem.",
         "Piję kawę z mleko.",
@@ -55,19 +67,19 @@
         "Piję kawę i mleko."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Piję kawę z mlekiem.' — I drink coffee with milk. 'Mleko' (neuter) → instrumental 'mlekiem'. 'Z + instrumental' = with."
+      "explanation": "You heard: 'Piję kawę z mlekiem.' — I drink coffee with milk. 'Mleko' (neuter) → instrumental 'mlekiem' (-em). 'Z + instrumental' = with.",
+      "explanation_fa": "شنیدید: 'Piję kawę z mlekiem.' — قهوه با شیر می‌نوشم. 'Mleko' (خنثی) → ابزاری 'mlekiem' (-em). 'Z + ابزاری' = با."
     },
     {
       "id": "a1-ch07-l01-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: I am a teacher. [feminine speaker]",
+      "prompt": "Tap the words in order: I am a teacher. (female speaker)",
+      "prompt_fa": "کلمات را به ترتیب بزنید: من معلم هستم. (گوینده مؤنث)",
       "wordBank": [
         "Jestem",
-        "Jesteś",
-        "nauczycielem",
         "nauczycielką",
-        "nauczyciel",
+        "nauczycielem",
         "nauczycielka"
       ],
       "correctSequences": [
@@ -76,13 +88,15 @@
           "nauczycielką"
         ]
       ],
-      "explanation": "'Jestem nauczycielką' = I am a teacher (f). Feminine: nauczycielka → instrumental 'nauczycielką' (-ą). 'Być + instrumental' for identity."
+      "explanation": "'Jestem nauczycielką' = I am a teacher (f). Feminine: nauczycielka → instrumental 'nauczycielką' (-ą). 'Być + instrumental' for identity. 'Nauczycielem' is the masculine form.",
+      "explanation_fa": "'Jestem nauczycielką' = معلم هستم (مؤنث). مؤنث: nauczycielka → ابزاری 'nauczycielką' (-ą). 'Być + ابزاری' برای هویت. 'Nauczycielem' شکل مذکر است."
     },
     {
       "id": "a1-ch07-l01-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Idę do szkoły z ___ (with a friend — f). [przyjaciółka → instrumental]",
+      "prompt": "Ania walks to school with her friend. Complete: Idę do szkoły z ___ (with a friend — f). [przyjaciółka → instrumental]",
+      "prompt_fa": "آنیا با دوستش به مدرسه می‌رود. کامل کنید: Idę do szkoły z ___ (با یک دوست — مؤنث). [przyjaciółka → ابزاری]",
       "options": [
         "przyjaciółką",
         "przyjaciółka",
@@ -90,7 +104,99 @@
         "przyjaciółce"
       ],
       "correctIndex": 0,
-      "explanation": "'Przyjaciółka' (f, friend) → instrumental: 'przyjaciółką'. 'Z + instrumental' = with. 'Idę z przyjaciółką' = I go with a (female) friend."
+      "explanation": "'Przyjaciółka' (f, friend) → instrumental: 'przyjaciółką'. 'Z + instrumental' = with. 'Idę z przyjaciółką' = I go with a (female) friend.",
+      "explanation_fa": "'Przyjaciółka' (مؤنث، دوست) → ابزاری: 'przyjaciółką'. 'Z + ابزاری' = با. 'Idę z przyjaciółką' = با یک دوست (مؤنث) می‌روم."
+    },
+    {
+      "id": "a1-ch07-l01-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia wants to say she is a programmer. Choose the correct instrumental form of 'programistka'.",
+      "prompt_fa": "کاسیا می‌خواهد بگوید برنامه‌نویس است. شکل ابزاری درست 'programistka' را انتخاب کنید.",
+      "options": [
+        "programistką",
+        "programistka",
+        "programistki",
+        "programistce"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Programistka' (feminine -a) → instrumental: 'programistką' (-ą). 'Jestem programistką' = I am a programmer (f). All feminine -a nouns take -ą in instrumental.",
+      "explanation_fa": "'Programistka' (مؤنث -a) → ابزاری: 'programistką' (-ą). 'Jestem programistką' = برنامه‌نویس هستم (مؤنث). همه اسم‌های مؤنث با -a در ابزاری -ą می‌گیرند."
+    },
+    {
+      "id": "a1-ch07-l01-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "samochodem",
+      "acceptableAnswers": [
+        "samochodem"
+      ],
+      "hint": "Masculine noun: samochód → instrumental -em (samochód + em, stem change: ó→o)",
+      "explanation": "'Samochód' (masculine) → instrumental 'samochodem' (ó→o in stem, + -em). 'Jadę samochodem' = I go by car. Transport uses instrumental case.",
+      "explanation_fa": "'Samochód' (مذکر) → ابزاری 'samochodem' (ó→o در ریشه، + -em). 'Jadę samochodem' = با ماشین می‌روم. حمل‌ونقل از حالت ابزاری استفاده می‌کند.",
+      "context": "Marek drives to the office every day. Complete:",
+      "context_fa": "ماریک هر روز با ماشین به دفتر می‌رود. کامل کنید:",
+      "sentence": "Jadę do biura ___.",
+      "translation": "(by car) [samochód → instrumental]",
+      "translation_fa": "(با ماشین) [samochód → ابزاری]",
+      "prompt": "Jadę do biura ___.",
+      "prompt_fa": "Jadę do biura ___."
+    },
+    {
+      "id": "a1-ch07-l01-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Tomek introduces himself as a Polish man. Which form is correct: Jestem ___ (Polish man)?",
+      "prompt_fa": "تامک خودش را به عنوان یک مرد لهستانی معرفی می‌کند. کدام شکل درست است: Jestem ___ (مرد لهستانی)؟",
+      "options": [
+        "Polakiem",
+        "Polak",
+        "Polaka",
+        "Polaku"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Polak' (masculine) → instrumental: 'Polakiem'. 'Jestem Polakiem' = I am a Polish man. Być + instrumental for nationality/identity.",
+      "explanation_fa": "'Polak' (مذکر) → ابزاری: 'Polakiem'. 'Jestem Polakiem' = من یک مرد لهستانی هستم. być + ابزاری برای ملیت/هویت."
+    },
+    {
+      "id": "a1-ch07-l01-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tap the words in order: Ania is going to the cinema with Tomek.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: آنیا با تامک به سینما می‌رود.",
+      "wordBank": [
+        "Ania",
+        "idzie",
+        "z",
+        "Tomkiem"
+      ],
+      "correctSequences": [
+        [
+          "Ania",
+          "idzie",
+          "z",
+          "Tomkiem"
+        ]
+      ],
+      "explanation": "'Ania idzie z Tomkiem' = Ania is going with Tomek. 'Tomek' (m) → instrumental 'Tomkiem' (-iem, soft stem). 'Z + instrumental' = with.",
+      "explanation_fa": "'Ania idzie z Tomkiem' = آنیا با تامک می‌رود. 'Tomek' (م) → ابزاری 'Tomkiem' (-iem، ریشه نرم). 'Z + ابزاری' = با."
+    },
+    {
+      "id": "a1-ch07-l01-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch07/a1-ch07-l01-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Jestem studentem i uczę się w Krakowie.",
+        "Jestem student i uczę się w Krakowie.",
+        "Jestem studentem i uczę w Krakowie.",
+        "Jestem studenta i uczę się w Krakowie."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Jestem studentem i uczę się w Krakowie.' — I am a student and I study in Kraków. 'Studentem' = instrumental of student (m). 'Uczyć się' = to study (reflexive).",
+      "explanation_fa": "شنیدید: 'Jestem studentem i uczę się w Krakowie.' — من دانشجو هستم و در کراکوف تحصیل می‌کنم. 'Studentem' = ابزاری student (م). 'Uczyć się' = تحصیل کردن (بازتابی)."
     }
   ],
   "xpReward": 20,

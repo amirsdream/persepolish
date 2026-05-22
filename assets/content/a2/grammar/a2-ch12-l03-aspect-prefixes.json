@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Zadzwoniłem do niej wczoraj. The prefix za- in 'zadzwonić' serves to:",
+      "prompt_fa": "دیروز با او تماس گرفتم. پیشوند za- در 'zadzwonić' برای چه است:",
       "options": [
         "make dzwonić perfective",
         "add the meaning 'behind'",
@@ -30,24 +31,34 @@
         "form a noun"
       ],
       "correctIndex": 0,
-      "explanation": "Here 'za-' is a neutrally perfectivizing prefix — it completes the action of calling. 'Zadzwoniłem' = I called (completed). 'Dzwoniłem' = I was calling (process)."
+      "explanation": "Here 'za-' is a neutrally perfectivizing prefix — it completes the action of calling. 'Zadzwoniłem' = I called (completed). 'Dzwoniłem' = I was calling (process).",
+      "explanation_fa": "اینجا 'za-' یک پیشوند خنثی کامل‌کننده است — عمل تماس گرفتن را کامل می‌کند. 'Zadzwoniłem' = زنگ زدم (کامل). 'Dzwoniłem' = داشتم زنگ می‌زدم (فرآیند)."
     },
     {
       "id": "a2-ch12-l03-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "W końcu ___ pracę domową. (She finally completed her homework.) [Perfective of: kończyć → doko_____; ona past f]",
+      "context": "Ania finally completes her assignment. Complete:",
+      "context_fa": "آنیا بالاخره تکلیفش را تمام می‌کند. کامل کنید:",
+      "sentence": "W końcu ___ pracę domową.",
+      "translation": "(She finally completed her homework.) [dokończyć, ona past f perfective]",
+      "translation_fa": "(او بالاخره تکلیفش را تمام کرد.) [dokończyć، سوم شخص مفرد مؤنث گذشته کامل]",
+      "prompt": "W końcu ___ pracę domową.",
+      "prompt_fa": "W końcu ___ pracę domową.",
       "answer": "dokończyła",
       "acceptableAnswers": [
         "dokończyła"
       ],
-      "hint": "do- + kończyć = dokończyć (complete/finish to the end); past fem ona: dokończyła"
+      "hint": "do- + kończyć = dokończyć (complete/finish to the end); past fem ona: dokończyła",
+      "explanation": "'Do-' prefix + 'kończyć' = 'dokończyć' (to finish/complete fully). Past feminine 3rd person: dokończyła.",
+      "explanation_fa": "پیشوند 'do-' + 'kończyć' = 'dokończyć' (کاملاً تمام کردن). گذشته مؤنث سوم شخص: dokończyła."
     },
     {
       "id": "a2-ch12-l03-ex03",
       "type": "multiple_choice",
       "order": 3,
       "prompt": "Which prefix makes 'sprzątać' perfective?",
+      "prompt_fa": "کدام پیشوند 'sprzątać' را کامل می‌کند؟",
       "options": [
         "po-",
         "na-",
@@ -55,12 +66,15 @@
         "prze-"
       ],
       "correctIndex": 0,
-      "explanation": "'Posprzątać' = the perfective of 'sprzątać' (to clean). 'Posprzątałam pokój' = I cleaned (finished cleaning) the room."
+      "explanation": "'Posprzątać' = the perfective of 'sprzątać' (to clean). 'Posprzątałam pokój' = I cleaned (finished cleaning) the room.",
+      "explanation_fa": "'Posprzątać' = کامل فعل 'sprzątać' (تمیز کردن). 'Posprzątałam pokój' = اتاق را تمیز کردم (تمیز کردن را تمام کردم)."
     },
     {
       "id": "a2-ch12-l03-ex04",
       "type": "dictation_mc",
       "order": 4,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch12/a2-ch12-l03-ex04.mp3",
       "options": [
         "Wypiłem całą herbatę.",
@@ -69,13 +83,15 @@
         "Piję całą herbatę."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Wypiłem całą herbatę.' — I drank up all the tea. 'Wy-' prefix marks completion/thoroughness. 'Pić' → 'wypić' (perfective)."
+      "explanation": "You heard: 'Wypiłem całą herbatę.' — I drank up all the tea. 'Wy-' prefix marks completion/thoroughness. 'Pić' → 'wypić' (perfective).",
+      "explanation_fa": "شنیدید: 'Wypiłem całą herbatę.' — تمام چای را نوشیدم. پیشوند 'wy-' تکمیل/کامل بودن را نشان می‌دهد. 'Pić' → 'wypić' (کامل)."
     },
     {
       "id": "a2-ch12-l03-ex05",
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Nauczyłam się dziesięciu nowych słów. The prefix 'na-' on 'nauczyć się' indicates:",
+      "prompt_fa": "ده کلمه جدید یاد گرفتم. پیشوند 'na-' در 'nauczyć się' نشان‌دهنده چیست:",
       "options": [
         "successful completion of learning",
         "habitual learning",
@@ -83,7 +99,105 @@
         "future learning plan"
       ],
       "correctIndex": 0,
-      "explanation": "'Na-' perfectivizes 'uczyć się'. 'Nauczyłam się' = I learned [mastered] 10 new words — completed result. 'Uczyłam się' = I was studying (process, no result emphasis)."
+      "explanation": "'Na-' perfectivizes 'uczyć się'. 'Nauczyłam się' = I learned [mastered] 10 new words — completed result. 'Uczyłam się' = I was studying (process, no result emphasis).",
+      "explanation_fa": "'Na-' فعل 'uczyć się' را کامل می‌کند. 'Nauczyłam się' = ۱۰ کلمه جدید یاد گرفتم [تسلط یافتم] — نتیجه کامل. 'Uczyłam się' = داشتم درس می‌خواندم (فرآیند، بدون تأکید بر نتیجه)."
+    },
+    {
+      "id": "a2-ch12-l03-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia ___ się po długiej pracy. (Kasia finally got some sleep after long work.) Which verb uses wy- correctly?",
+      "prompt_fa": "کاسیا بعد از کار طولانی ___ خوابید. کدام فعل از wy- به درستی استفاده می‌کند؟",
+      "options": [
+        "wyspała (wyspać się — sleep fully)",
+        "spała (spać — sleep, imperfective)",
+        "zasypała (zasnąć — fall asleep)",
+        "przesypała (sleep through)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wyspać się' = to get enough sleep, sleep through. 'Wy-' here marks thorough completion. 'Wyspała się' = she got a good sleep (completed, result achieved).",
+      "explanation_fa": "'Wyspać się' = به اندازه کافی خوابیدن، کامل خوابیدن. 'Wy-' اینجا تکمیل کامل را نشان می‌دهد. 'Wyspała się' = خوب خوابید (کامل، نتیجه حاصل شد)."
+    },
+    {
+      "id": "a2-ch12-l03-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Marek reports finishing a phone call. Complete:",
+      "context_fa": "مارک از پایان یک مکالمه تلفنی گزارش می‌دهد. کامل کنید:",
+      "sentence": "Właśnie ___ z szefem.",
+      "translation": "(I just called [completed call] with the boss.) [zadzwonić, ja m past perfective]",
+      "translation_fa": "(همین الان با رئیس تماس گرفتم [مکالمه تمام شد].) [zadzwonić، اول شخص مفرد مذکر گذشته کامل]",
+      "prompt": "Właśnie ___ z szefem.",
+      "prompt_fa": "Właśnie ___ z szefem.",
+      "answer": "zadzwoniłem",
+      "acceptableAnswers": [
+        "zadzwoniłem",
+        "zadzwoniłam"
+      ],
+      "hint": "za- + dzwonić = zadzwonić (perfective); past masc ja: zadzwoniłem",
+      "explanation": "'Właśnie' (just now) + completed call → perfective zadzwonić past: zadzwoniłem (m) / zadzwoniłam (f). 'Dzwoniłem' would be ongoing calling.",
+      "explanation_fa": "'Właśnie' (همین الان) + تماس کامل → کامل zadzwonić گذشته: zadzwoniłem (مذکر) / zadzwoniłam (مؤنث). 'Dzwoniłem' تماس در حال انجام بود."
+    },
+    {
+      "id": "a2-ch12-l03-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch12/a2-ch12-l03-ex08.mp3",
+      "options": [
+        "Tomek przeczytał ten artykuł w godzinę.",
+        "Tomek czytał ten artykuł przez godzinę.",
+        "Tomek czyta ten artykuł.",
+        "Tomek przeczyta ten artykuł jutro."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Tomek przeczytał ten artykuł w godzinę.' — Tomek read that article in an hour. 'Prze-' prefix + czytać = przeczytać (perfective). 'W godzinę' = in (within) an hour — result-focused.",
+      "explanation_fa": "شنیدید: 'Tomek przeczytał ten artykuł w godzinę.' — تومک آن مقاله را در یک ساعت خواند. پیشوند 'prze-' + czytać = przeczytać (کامل). 'W godzinę' = در یک ساعت — متمرکز بر نتیجه."
+    },
+    {
+      "id": "a2-ch12-l03-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: Ania cooked dinner in thirty minutes.",
+      "prompt_fa": "بسازید: آنیا ناهار را در سی دقیقه پخت.",
+      "wordBank": [
+        "Ania",
+        "ugotowała",
+        "gotowała",
+        "obiad",
+        "w",
+        "trzydzieści",
+        "minut"
+      ],
+      "correctSequences": [
+        [
+          "Ania",
+          "ugotowała",
+          "obiad",
+          "w",
+          "trzydzieści",
+          "minut"
+        ]
+      ],
+      "explanation": "'Ania ugotowała obiad w trzydzieści minut.' — Ania cooked dinner in thirty minutes. 'U-' prefix + gotować = ugotować (perfective). 'W trzydzieści minut' = in (within) thirty minutes — result achieved.",
+      "explanation_fa": "'Ania ugotowała obiad w trzydzieści minut.' — آنیا ناهار را در سی دقیقه پخت. پیشوند 'u-' + gotować = ugotować (کامل). 'W trzydzieści minut' = در سی دقیقه — نتیجه حاصل شد."
+    },
+    {
+      "id": "a2-ch12-l03-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Which prefix + verb combination creates the perfective 'to pay'?",
+      "prompt_fa": "کدام ترکیب پیشوند + فعل کامل 'پرداختن' را می‌سازد؟",
+      "options": [
+        "za- + płacić = zapłacić",
+        "na- + płacić = napłacić",
+        "wy- + płacić = wypłacić",
+        "po- + płacić = popłacić"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Zapłacić' = to pay [completed]. 'Za-' perfectivizes 'płacić'. 'Zapłaciłem rachunek' = I paid the bill [done]. Note: 'wypłacić' means 'to withdraw money', different meaning!",
+      "explanation_fa": "'Zapłacić' = پرداختن [کامل]. 'Za-' فعل 'płacić' را کامل می‌کند. 'Zapłaciłem rachunek' = صورت‌حساب را پرداختم [تمام]. توجه: 'wypłacić' یعنی 'برداشت پول'، معنای متفاوتی دارد!"
     }
   ],
   "xpReward": 25,

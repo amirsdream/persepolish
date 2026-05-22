@@ -12,7 +12,8 @@
       "type": "multiple_choice",
       "order": 1,
       "sourceLesson": "a1-ch05-l01",
-      "prompt": "Choose the correct form: Ona ___ gazetę każdego ranka. (She reads a newspaper every morning.)",
+      "prompt": "Kasia reads a newspaper every morning. Complete: Ona ___ gazetę każdego ranka. [czytać]",
+      "prompt_fa": "کاسیا هر صبح روزنامه می‌خواند. کامل کنید: Ona ___ gazetę każdego ranka. [czytać]",
       "options": [
         "czyta",
         "czytam",
@@ -20,14 +21,16 @@
         "czytają"
       ],
       "correctIndex": 0,
-      "explanation": "'Czytać' Group 1: ona → czyta (-a). 'Czyta gazetę' = she reads a newspaper."
+      "explanation": "'Czytać' Group 1: ona → czyta (-a). 'Ona czyta gazetę' = She reads a newspaper. 3rd singular = -a in Group 1.",
+      "explanation_fa": "'Czytać' گروه ۱: ona → czyta (-a). 'Ona czyta gazetę' = او روزنامه می‌خواند. سوم مفرد = -a در گروه ۱."
     },
     {
       "id": "a1-ch05-rev-q02",
       "type": "multiple_choice",
       "order": 2,
       "sourceLesson": "a1-ch05-l01",
-      "prompt": "My ___ w Warszawie. (We live in Warsaw.) [mieszkać]",
+      "prompt": "Tomek and Ania live in Warsaw. Complete: My ___ w Warszawie. [mieszkać]",
+      "prompt_fa": "تامک و آنیا در ورشو زندگی می‌کنند. کامل کنید: My ___ w Warszawie. [mieszkać]",
       "options": [
         "mieszkamy",
         "mieszkam",
@@ -35,14 +38,16 @@
         "mieszkasz"
       ],
       "correctIndex": 0,
-      "explanation": "'Mieszkać' Group 1: my → mieszkamy (-amy). 'Mieszkamy w Warszawie' = We live in Warsaw."
+      "explanation": "'Mieszkać' Group 1: my → mieszkamy (-amy). 'Mieszkamy w Warszawie' = We live in Warsaw.",
+      "explanation_fa": "'Mieszkać' گروه ۱: my → mieszkamy (-amy). 'Mieszkamy w Warszawie' = در ورشو زندگی می‌کنیم."
     },
     {
       "id": "a1-ch05-rev-q03",
       "type": "multiple_choice",
       "order": 3,
       "sourceLesson": "a1-ch05-l02",
-      "prompt": "Co ___ (ty) w wolnym czasie? (What do you do in your free time?) [robić]",
+      "prompt": "Marek asks his friend about free time. Complete: Co ___ (ty) w wolnym czasie? [robić]",
+      "prompt_fa": "ماریک از دوستش درباره وقت آزاد می‌پرسد. کامل کنید: Co ___ (ty) w wolnym czasie? [robić]",
       "options": [
         "robisz",
         "robię",
@@ -50,14 +55,16 @@
         "robimy"
       ],
       "correctIndex": 0,
-      "explanation": "'Robić' Group 2: ty → robisz (-isz). 'Co robisz?' = What are you doing?"
+      "explanation": "'Robić' Group 2: ty → robisz (-isz). 'Co robisz?' = What are you doing? 2nd singular Group 2 = -isz.",
+      "explanation_fa": "'Robić' گروه ۲: ty → robisz (-isz). 'Co robisz?' = داری چیکار می‌کنی؟ دوم مفرد گروه ۲ = -isz."
     },
     {
       "id": "a1-ch05-rev-q04",
       "type": "multiple_choice",
       "order": 4,
       "sourceLesson": "a1-ch05-l02",
-      "prompt": "Ja ___ po polsku trochę. (I speak Polish a little.) [mówić]",
+      "prompt": "Kasia is at a language exchange. Complete: Ja ___ po polsku trochę. [mówić]",
+      "prompt_fa": "کاسیا در یک تبادل زبانی است. کامل کنید: Ja ___ po polsku trochę. [mówić]",
       "options": [
         "mówię",
         "mówisz",
@@ -65,7 +72,8 @@
         "mówimy"
       ],
       "correctIndex": 0,
-      "explanation": "'Mówić' Group 2: ja → mówię (-ę). 'Mówię po polsku' = I speak Polish."
+      "explanation": "'Mówić' Group 2: ja → mówię (-ę). 'Mówię po polsku' = I speak Polish. 1st singular Group 2 = -ę.",
+      "explanation_fa": "'Mówić' گروه ۲: ja → mówię (-ę). 'Mówię po polsku' = لهستانی صحبت می‌کنم. اول مفرد گروه ۲ = -ę."
     },
     {
       "id": "a1-ch05-rev-q05",
@@ -73,6 +81,7 @@
       "order": 5,
       "sourceVocab": "a1-ch05-vocab",
       "prompt": "What does 'zawsze' mean?",
+      "prompt_fa": "'zawsze' چه معنایی دارد؟",
       "options": [
         "sometimes",
         "rarely",
@@ -80,14 +89,16 @@
         "often"
       ],
       "correctIndex": 2,
-      "explanation": "'Zawsze' = always. Antonym: 'nigdy' = never."
+      "explanation": "'Zawsze' = always. Antonym: 'nigdy' = never. 'Zawsze piję kawę rano' = I always drink coffee in the morning.",
+      "explanation_fa": "'Zawsze' = همیشه. متضاد: 'nigdy' = هرگز. 'Zawsze piję kawę rano' = همیشه صبح قهوه می‌خورم."
     },
     {
       "id": "a1-ch05-rev-q06",
       "type": "multiple_choice",
       "order": 6,
       "sourceLesson": "a1-ch05-l03",
-      "prompt": "Idę do szkoły ___ poniedziałek. (I go to school on Monday.)",
+      "prompt": "Tomek's school starts on Monday. Complete: Idę do szkoły ___ poniedziałek.",
+      "prompt_fa": "مدرسه تامک دوشنبه شروع می‌شود. کامل کنید: Idę do szkoły ___ poniedziałek.",
       "options": [
         "w",
         "na",
@@ -95,14 +106,16 @@
         "za"
       ],
       "correctIndex": 0,
-      "explanation": "Days of the week take 'w + accusative': w poniedziałek = on Monday."
+      "explanation": "Days of the week take 'w + accusative': w poniedziałek = on Monday. 'Poniedziałek' stays the same (masculine accusative = nominative).",
+      "explanation_fa": "روزهای هفته 'w + مفعولی' می‌گیرند: w poniedziałek = روز دوشنبه. 'Poniedziałek' بدون تغییر می‌ماند (مفعولی مذکر = فاعلی)."
     },
     {
       "id": "a1-ch05-rev-q07",
       "type": "multiple_choice",
       "order": 7,
       "sourceLesson": "a1-ch05-l04",
-      "prompt": "How do you say 'It is 9 o'clock' in Polish?",
+      "prompt": "Ania's meeting is at 9:00. How does she say 'It is 9 o'clock'?",
+      "prompt_fa": "جلسه آنیا ساعت ۹ است. 'ساعت ۹ است' را چطور می‌گوید؟",
       "options": [
         "Jest dziewiąta.",
         "Jest dziewięć.",
@@ -110,14 +123,16 @@
         "Są dziewiąta."
       ],
       "correctIndex": 0,
-      "explanation": "'Jest dziewiąta.' = It is 9 o'clock. Hours use feminine ordinals: dziewiąta (9th)."
+      "explanation": "'Jest dziewiąta.' = It is 9 o'clock. Hours use feminine ordinals: dziewiąta (9th). Never use cardinal numbers for telling time.",
+      "explanation_fa": "'Jest dziewiąta.' = ساعت ۹ است. ساعت‌ها از اعداد ترتیبی مؤنث استفاده می‌کنند: dziewiąta (نهم). هرگز از اعداد اصلی برای گفتن ساعت استفاده نکنید."
     },
     {
       "id": "a1-ch05-rev-q08",
       "type": "multiple_choice",
       "order": 8,
       "sourceLesson": "a1-ch05-l04",
-      "prompt": "What time is 'wpół do drugiej'?",
+      "prompt": "Marek's bus departs at 'wpół do drugiej'. What time is that?",
+      "prompt_fa": "اتوبوس ماریک 'wpół do drugiej' راه می‌افتد. چه ساعتی است؟",
       "options": [
         "1:30",
         "2:30",
@@ -125,7 +140,8 @@
         "2:15"
       ],
       "correctIndex": 0,
-      "explanation": "'Wpół do drugiej' = 1:30. Half to two = 1:30. 'Drugiej' is genitive of 'druga' (2nd hour)."
+      "explanation": "'Wpół do drugiej' = 1:30. Half to two = 1:30. 'Drugiej' is genitive of 'druga' (2nd hour). Remember: wpół do = half to the NEXT hour.",
+      "explanation_fa": "'Wpół do drugiej' = ۱:۳۰. نیم به دو = ۱:۳۰. 'Drugiej' مضاف‌الیهی 'druga' (ساعت دوم) است. به یاد داشته باشید: wpół do = نیم به ساعت بعدی."
     },
     {
       "id": "a1-ch05-rev-q09",
@@ -133,6 +149,7 @@
       "order": 9,
       "sourceVocab": "a1-ch05-vocab",
       "prompt": "What does 'wstawać' mean?",
+      "prompt_fa": "'wstawać' چه معنایی دارد؟",
       "options": [
         "to go to bed",
         "to get up",
@@ -140,14 +157,16 @@
         "to eat"
       ],
       "correctIndex": 1,
-      "explanation": "'Wstawać' = to get up (imperfective). 'Wstaję o siódmej' = I get up at seven."
+      "explanation": "'Wstawać' = to get up (imperfective). 'Wstaję o siódmej' = I get up at seven. Opposite: 'kłaść się spać' = to go to bed.",
+      "explanation_fa": "'Wstawać' = بیدار شدن (ناتمام). 'Wstaję o siódmej' = ساعت هفت بیدار می‌شوم. متضاد: 'kłaść się spać' = رفتن به خواب."
     },
     {
       "id": "a1-ch05-rev-q10",
       "type": "multiple_choice",
       "order": 10,
       "sourceLesson": "a1-ch05-l03",
-      "prompt": "Which sentence uses double negation correctly?",
+      "prompt": "Tomek never drinks alcohol. Which sentence uses double negation correctly?",
+      "prompt_fa": "تامک هرگز الکل نمی‌خورد. کدام جمله از منفی مضاعف درست استفاده می‌کند؟",
       "options": [
         "Nigdy nie piję alkoholu.",
         "Nigdy piję alkoholu.",
@@ -155,7 +174,8 @@
         "Nigdy nie pije alkohol."
       ],
       "correctIndex": 0,
-      "explanation": "'Nigdy nie piję alkoholu' = I never drink alcohol. Polish requires double negation: nigdy + nie + verb. 'Alkoholu' = genitive after negation."
+      "explanation": "'Nigdy nie piję alkoholu' = I never drink alcohol. Polish requires double negation: nigdy + nie + verb. 'Alkoholu' = genitive after negation.",
+      "explanation_fa": "'Nigdy nie piję alkoholu' = هرگز الکل نمی‌خورم. لهستانی منفی مضاعف می‌طلبد: nigdy + nie + فعل. 'Alkoholu' = مضاف‌الیهی بعد از منفی."
     },
     {
       "id": "a1-ch05-rev-q11",
@@ -163,6 +183,7 @@
       "order": 11,
       "sourceVocab": "a1-ch05-vocab",
       "prompt": "What does 'wracać' mean?",
+      "prompt_fa": "'wracać' چه معنایی دارد؟",
       "options": [
         "to go out",
         "to arrive",
@@ -170,14 +191,16 @@
         "to travel"
       ],
       "correctIndex": 2,
-      "explanation": "'Wracać' = to return / come back. 'Wracam do domu o piątej' = I come back home at five."
+      "explanation": "'Wracać' = to return / come back. 'Wracam do domu o piątej' = I come back home at five.",
+      "explanation_fa": "'Wracać' = برگشتن / بازگشتن. 'Wracam do domu o piątej' = ساعت پنج به خانه برمی‌گردم."
     },
     {
       "id": "a1-ch05-rev-q12",
       "type": "multiple_choice",
       "order": 12,
       "sourceLesson": "a1-ch05-l02",
-      "prompt": "Oni ___ polskiego na uniwersytecie. (They learn Polish at university.) [uczyć się]",
+      "prompt": "Ania and her classmates study Polish at university. Complete: Oni ___ polskiego na uniwersytecie. [uczyć się]",
+      "prompt_fa": "آنیا و همکلاسی‌هایش در دانشگاه لهستانی یاد می‌گیرند. کامل کنید: Oni ___ polskiego na uniwersytecie. [uczyć się]",
       "options": [
         "uczą się",
         "uczę się",
@@ -185,7 +208,8 @@
         "uczymy się"
       ],
       "correctIndex": 0,
-      "explanation": "'Uczyć się' Group 2: oni → uczą się (-ą + się). 'Uczą się polskiego' = They learn Polish."
+      "explanation": "'Uczyć się' Group 2: oni → uczą się (-ą + się). 'Uczą się polskiego' = They learn Polish. 'Polskiego' is genitive (language after uczyć się).",
+      "explanation_fa": "'Uczyć się' گروه ۲: oni → uczą się (-ą + się). 'Uczą się polskiego' = آنها لهستانی یاد می‌گیرند. 'Polskiego' مضاف‌الیهی است (زبان بعد از uczyć się)."
     }
   ]
 }

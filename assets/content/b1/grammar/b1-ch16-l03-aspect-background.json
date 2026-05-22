@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch16-l03-aspect-background",
+  "chapter": 16,
+  "lessonOrder": 3,
+  "level": "b1",
+  "title": "Setting the Scene: Descriptive Imperfective",
+  "title_fa": "فضاسازی: ناکامل توصیفی",
+  "grammarPoint": "Extended background description using imperfective verbs: states, habits, repeated actions, ongoing processes",
+  "grammarPoint_fa": "توصیف پس‌زمینه گسترده با افعال ناکامل: حالت‌ها، عادت‌ها، اقدامات تکراری، فرآیندهای ادامه‌دار",
+  "explanation": {
+    "text": "**The imperfective past has four key uses in narrative — all set the scene:**\n\n**1. States (being in a condition):**\n- Był zmęczony. (He was tired.) — state\n- Wiedział, że to kłamstwo. (He knew it was a lie.) — mental state\n- Chciała wyjść. (She wanted to leave.) — desire state\n\n**2. Ongoing/progressive actions:**\n- Deszcz **padał** od rana. (It had been raining since morning.)\n- Słońce **zachodziło** wolno za horyzont. (The sun was setting slowly behind the horizon.)\n- Dzieci **bawiły się** na podwórku. (Children were playing in the yard.)\n\n**3. Habitual/repeated past actions:**\n- Codziennie **wstawał** o szóstej. (Every day he got up at six.)\n- **Jadała** śniadanie z ojcem. (She used to have breakfast with her father.)\n- Zawsze **zamykał** okno przed snem. (He always closed the window before sleeping.)\n\n**4. Attempted but incomplete actions:**\n- **Otwierał** drzwi, ale były zamknięte. (He was trying to open the door, but it was locked.)\n- **Przekonywał** ją przez godzinę. (He was convincing her for an hour [but maybe didn't succeed].)\n\n**Literary technique — opening a scene:**\n*'Była ciemna noc listopadowa. Wiatr szumiał w drzewach, deszcz bił o szyby. Kamienica stała cicho i ciemna. Na piętrze paliło się jedno okno.'*\n\n→ ALL imperfective: być, szumieć, bić, stać, palić się — building the atmospheric scene before any event happens.\n\n**Contrast with perfective to show the difference:**\n- Deszcz **padał** → background; Deszcz **padł** → it rained once (event)\n- **Pisała** → she was writing (ongoing); **Napisała** → she wrote / finished writing",
+    "notes": [
+      "State verbs (być, wiedzieć, chcieć, lubić, móc) are always imperfective",
+      "Habitual past (used to do) = always imperfective",
+      "Attempted incomplete actions = imperfective (vs. perfective = successfully completed)",
+      "Opening paragraphs of stories are typically all imperfective until the first event"
+    ]
+  },
+  "explanation_fa": "چهار کاربرد کلیدی ناکامل گذشته در روایت: ۱) حالت‌ها (był zmęczony، wiedział) ۲) اقدامات ادامه‌دار (deszcz padał، słońce zachodziło) ۳) اقدامات عادتی/تکراری (codziennie wstawał، jadała) ۴) اقدامات تلاش‌شده اما ناتمام (otwierał drzwi, ale...). بازکردن صحنه: همه افعال ناکامل تا زمانی که اولین رویداد رخ دهد. افعال حالت (być، wiedzieć، chcieć) همیشه ناکامل هستند.",
+  "exercises": [
+    {
+      "id": "b1-ch16-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "In: 'Codziennie wstawał o szóstej i biegał przez park.' What does the imperfective tell us?",
+      "prompt_fa": "در: 'Codziennie wstawał o szóstej i biegał przez park.' ناکامل چه چیزی به ما می‌گوید؟",
+      "options": [
+        "These were habitual, repeated actions (he used to do this daily)",
+        "These were one-time events that advanced the story",
+        "These were incomplete, failed attempts",
+        "These happened simultaneously with a perfective event"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Codziennie' (every day) + imperfective = habitual past. He used to get up and run every day — repeated routine, not a single event.",
+      "explanation_fa": "'Codziennie' (هر روز) + ناکامل = گذشته عادتی. او هر روز بلند می‌شد و می‌دوید — روال تکراری، نه یک رویداد منفرد."
+    },
+    {
+      "id": "b1-ch16-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Scene-setting: The candle was burning on the table. Use imperfective past of 'palić się' (to burn/be on — 3rd sg):",
+      "context_fa": "فضاسازی: شمع روی میز می‌سوخت. از گذشته ناکامل 'palić się' استفاده کنید (سوم شخص مفرد):",
+      "sentence": "Świeca ___ na stole.",
+      "prompt": "Świeca ___ na stole.",
+      "prompt_fa": "Świeca ___ na stole.",
+      "answer": "paliła się",
+      "acceptableAnswers": ["paliła się"],
+      "hint": "palić się (imperf) → past feminine: paliła się",
+      "explanation": "'Świeca paliła się na stole.' — The candle was burning on the table. Imperfective = ongoing state/process, perfect for scene-setting.",
+      "explanation_fa": "'Świeca paliła się na stole.' — شمع روی میز می‌سوخت. ناکامل = حالت/فرآیند ادامه‌دار، عالی برای فضاسازی."
+    },
+    {
+      "id": "b1-ch16-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch16/b1-ch16-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Otwierał okno, ale było zamknięte.",
+        "Otworzył okno, ale było zamknięte.",
+        "Otwierał okno i otworzył je.",
+        "Otworzyło się okno, bo było zamknięte."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Otwierał' (imperfective) = was trying to open — an attempted, incomplete action. 'Otworzył' would mean he successfully opened it.",
+      "explanation_fa": "'Otwierał' (ناکامل) = داشت سعی می‌کرد باز کند — عمل تلاش‌شده ناتمام. 'Otworzył' یعنی موفق به باز کردن شد."
+    },
+    {
+      "id": "b1-ch16-l03-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build the scene-opening: It was a warm summer evening. People were sitting in the café.",
+      "prompt_fa": "صحنه‌آرایی را بسازید: یک عصر گرم تابستانی بود. مردم در کافه نشسته بودند.",
+      "wordBank": ["Był", "ciepły", "letni", "wieczór", "Ludzie", "siedzieli", "w", "kawiarni", "Było", "siedział"],
+      "correctSequences": [["Był", "ciepły", "letni", "wieczór", "Ludzie", "siedzieli", "w", "kawiarni"]],
+      "explanation": "'Był ciepły letni wieczór. Ludzie siedzieli w kawiarni.' — Both imperfective: być (state) and siedzieć (ongoing) set the atmospheric scene.",
+      "explanation_fa": "'Był ciepły letni wieczór. Ludzie siedzieli w kawiarni.' — هر دو ناکامل: być (حالت) و siedzieć (ادامه‌دار) فضای جوی را برپا می‌کنند."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["aspect", "narrative", "background", "description", "b1-core"],
+  "prerequisites": ["b1-ch16-l01", "b1-ch16-l02"]
+}

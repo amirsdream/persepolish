@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch12-l01-mimo-wbrew",
+  "chapter": 12,
+  "lessonOrder": 1,
+  "level": "b1",
+  "title": "Advanced Prepositions: mimo + Genitive vs. wbrew + Dative",
+  "title_fa": "حروف اضافه پیشرفته: mimo + مضاف‌الیه در مقابل wbrew + دادی",
+  "grammarPoint": "mimo + genitive (despite, in spite of) vs. wbrew + dative (against, contrary to)",
+  "grammarPoint_fa": "mimo + مضاف‌الیه (علی‌رغم، با وجود) در مقابل wbrew + دادی (برخلاف، مغایر با)",
+  "explanation": {
+    "text": "Two important B1 concessive prepositions:\n\n**mimo + GENITIVE — 'despite, in spite of':**\n- **Mimo deszczu** poszliśmy na spacer. (Despite the rain, we went for a walk.)\n- Mimo zmęczenia skończyła projekt. (Despite being tired, she finished the project.)\n- Mimo trudności zdał egzamin. (Despite difficulties, he passed the exam.)\n- Mimo wszystko lubię tę pracę. (Despite everything, I like this job.)\n\n**Mimo + genitive of noun:** deszczu, zmęczenia, trudności, strachu, problemów\n\n**wbrew + DATIVE — 'against, contrary to, in defiance of':**\n- **Wbrew radom** lekarza wróciła do pracy. (Against the doctor's advice, she returned to work.)\n- Wbrew oczekiwaniom wygrali. (Contrary to expectations, they won.)\n- Wbrew prawu zaparkowali na chodniku. (Against the law, they parked on the pavement.)\n- Wbrew woli rodziców wyjechał za granicę. (Against his parents' wishes, he went abroad.)\n\n**wbrew + dative of noun:** radom, oczekiwaniom, prawu, woli, zasadom, rozkazom\n\n**Key distinction:**\n- **mimo** = despite (obstacle or difficulty that is overcome)\n- **wbrew** = against (a rule, expectation, order, or will that is violated/defied)",
+    "notes": [
+      "mimo + genitive: mimo deszczu, mimo zmęczenia, mimo trudności",
+      "wbrew + dative: wbrew radom, wbrew woli, wbrew oczekiwaniom",
+      "'Mimo że' + clause = despite the fact that: mimo że był zmęczony...",
+      "'Wbrew temu' = contrary to this/that (discourse connector)"
+    ]
+  },
+  "explanation_fa": "دو حرف اضافه تقابلی مهم در سطح B1: 'mimo' + مضاف‌الیه (علی‌رغم): mimo deszczu (با وجود باران)، mimo zmęczenia (با وجود خستگی). 'wbrew' + دادی (برخلاف): wbrew radom lekarza (برخلاف توصیه پزشک)، wbrew oczekiwaniom (برخلاف انتظارات). تفاوت: mimo = موانعی که بر آن‌ها غلبه می‌شود؛ wbrew = قوانین/انتظاراتی که نقض می‌شوند.",
+  "exercises": [
+    {
+      "id": "b1-ch12-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Despite the cold, they went swimming. Which is correct?",
+      "prompt_fa": "با وجود سرما، شنا رفتند. کدام درست است؟",
+      "options": [
+        "Mimo zimna poszli pływać.",
+        "Wbrew zimnu poszli pływać.",
+        "Mimo zimnemu poszli pływać.",
+        "Wbrew zimna poszli pływać."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mimo' + genitive for 'despite': 'mimo zimna' (despite the cold). 'Zimno' → genitive: 'zimna'. 'Wbrew' is for defying rules/orders.",
+      "explanation_fa": "'Mimo' + مضاف‌الیه برای 'با وجود': 'mimo zimna' (با وجود سرما). 'Zimno' → مضاف‌الیه: 'zimna'. 'Wbrew' برای نافرمانی از قوانین/دستورات است."
+    },
+    {
+      "id": "b1-ch12-l01-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "She acted against the doctor's advice. Complete:",
+      "context_fa": "او برخلاف توصیه پزشک عمل کرد. کامل کنید:",
+      "sentence": "___ radom lekarza wróciła do pracy.",
+      "prompt": "___ radom lekarza wróciła do pracy.",
+      "prompt_fa": "___ radom lekarza wróciła do pracy.",
+      "answer": "Wbrew",
+      "acceptableAnswers": ["Wbrew", "wbrew"],
+      "hint": "defying advice/orders → wbrew + dative",
+      "explanation": "'Wbrew radom lekarza' — against the doctor's advice. 'Rady' (advice) → dative plural: 'radom'. 'Wbrew' = defying/contrary to.",
+      "explanation_fa": "'Wbrew radom lekarza' — برخلاف توصیه پزشک. 'Rady' (توصیه) → دادی جمع: 'radom'. 'Wbrew' = مغایر با/برخلاف."
+    },
+    {
+      "id": "b1-ch12-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch12/b1-ch12-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Mimo trudności ukończyła kurs.",
+        "Wbrew trudnościom ukończyła kurs.",
+        "Mimo trudnościom ukończyła kurs.",
+        "Wbrew trudności ukończyła kurs."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mimo trudności' (genitive plural) = despite difficulties. 'Mimo' + genitive is correct here.",
+      "explanation_fa": "'Mimo trudności' (مضاف‌الیه جمع) = با وجود مشکلات. 'Mimo' + مضاف‌الیه در اینجا درست است."
+    },
+    {
+      "id": "b1-ch12-l01-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: Contrary to expectations, they won the competition.",
+      "prompt_fa": "بسازید: برخلاف انتظارات، آن‌ها مسابقه را بردند.",
+      "wordBank": ["Wbrew", "Mimo", "oczekiwaniom", "oczekiwań", "wygrali", "konkurs"],
+      "correctSequences": [["Wbrew", "oczekiwaniom", "wygrali", "konkurs"]],
+      "explanation": "'Wbrew oczekiwaniom wygrali konkurs.' — Contrary to expectations, they won. 'Wbrew' + dative 'oczekiwaniom'.",
+      "explanation_fa": "'Wbrew oczekiwaniom wygrali konkurs.' — برخلاف انتظارات، آن‌ها بردند. 'Wbrew' + دادی 'oczekiwaniom'."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["prepositions", "mimo", "wbrew", "b1-core"],
+  "prerequisites": ["a1-ch08-l01"]
+}

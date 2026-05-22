@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Zadzwonię do ciebie ___ (in an hour). [za + accusative]",
+      "prompt_fa": "یک ساعت دیگر با تو تماس خواهم گرفت. ___  [za + مفعول صریح]",
       "options": [
         "za godzinę",
         "przez godzinę",
@@ -30,24 +31,34 @@
         "od godziny"
       ],
       "correctIndex": 0,
-      "explanation": "'In an hour' = za + accusative: za godzinę. 'Przez godzinę' = for an hour (duration). 'Za' here means 'in X time from now'."
+      "explanation": "'In an hour' = za + accusative: za godzinę. 'Przez godzinę' = for an hour (duration). 'Za' here means 'in X time from now'.",
+      "explanation_fa": "'یک ساعت دیگر' = za + مفعول صریح: za godzinę. 'Przez godzinę' = برای یک ساعت (مدت). 'Za' به معنای 'X وقت دیگر از الان' است."
     },
     {
       "id": "a2-ch13-l03-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Jadę na urlop ___ (next week). [w przyszłym + locative]",
+      "context": "Future time expressions. Complete with the correct phrase.",
+      "context_fa": "عبارات زمانی آینده. عبارت درست را بنویسید.",
+      "sentence": "Jadę na urlop ___ (next week).",
+      "translation": "(I'm going on holiday next week.) [w przyszłym + locative]",
+      "translation_fa": "(هفته آینده به تعطیلات می‌روم.) [w przyszłym + حالت مکانی]",
+      "prompt": "Jadę na urlop ___.",
+      "prompt_fa": "Jadę na urlop ___.",
       "answer": "w przyszłym tygodniu",
       "acceptableAnswers": [
         "w przyszłym tygodniu"
       ],
-      "hint": "Next week = w przyszłym tygodniu (tydzień → locative: tygodniu)"
+      "hint": "Next week = w przyszłym tygodniu (tydzień → locative: tygodniu)",
+      "explanation": "'Next week' = w przyszłym tygodniu. 'W przyszłym' + locative: tydzień → tygodniu.",
+      "explanation_fa": "'هفته آینده' = w przyszłym tygodniu. 'W przyszłym' + حالت مکانی: tydzień → tygodniu."
     },
     {
       "id": "a2-ch13-l03-ex03",
       "type": "multiple_choice",
       "order": 3,
       "prompt": "'Za dwa tygodnie skończymy projekt.' What does 'za dwa tygodnie' mean?",
+      "prompt_fa": "'Za dwa tygodnie skończymy projekt.' — 'za dwa tygodnie' به چه معناست؟",
       "options": [
         "in two weeks",
         "for two weeks",
@@ -55,12 +66,15 @@
         "every two weeks"
       ],
       "correctIndex": 0,
-      "explanation": "'Za + accusative' = in X time from now. 'Za dwa tygodnie' = in two weeks. 'Skończymy' = we will finish (perfective future)."
+      "explanation": "'Za + accusative' = in X time from now. 'Za dwa tygodnie' = in two weeks. 'Skończymy' = we will finish (perfective future).",
+      "explanation_fa": "'Za + مفعول صریح' = X وقت دیگر از الان. 'Za dwa tygodnie' = دو هفته دیگر. 'Skończymy' = تمام خواهیم کرد (آینده کامل)."
     },
     {
       "id": "a2-ch13-l03-ex04",
       "type": "dictation_mc",
       "order": 4,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch13/a2-ch13-l03-ex04.mp3",
       "options": [
         "W przyszłym roku pojadę do Japonii.",
@@ -69,13 +83,15 @@
         "W tym roku jedziemy do Japonii."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'W przyszłym roku pojadę do Japonii.' — Next year I will go to Japan. 'W przyszłym roku' = next year. 'Pojadę' = perfective future (jechać → pojechać)."
+      "explanation": "You heard: 'W przyszłym roku pojadę do Japonii.' — Next year I will go to Japan. 'W przyszłym roku' = next year. 'Pojadę' = perfective future (jechać → pojechać).",
+      "explanation_fa": "شنیدید: 'W przyszłym roku pojadę do Japonii.' — سال آینده به ژاپن خواهم رفت. 'W przyszłym roku' = سال آینده. 'Pojadę' = آینده کامل."
     },
     {
       "id": "a2-ch13-l03-ex05",
       "type": "multiple_choice",
       "order": 5,
       "prompt": "How do you say 'the day after tomorrow' in Polish?",
+      "prompt_fa": "چطور می‌گویید 'پس‌فردا' به لهستانی؟",
       "options": [
         "pojutrze",
         "przedwczoraj",
@@ -83,7 +99,117 @@
         "za dwa dni"
       ],
       "correctIndex": 0,
-      "explanation": "'Pojutrze' = the day after tomorrow (literally: after-tomorrow). 'Przedwczoraj' = the day before yesterday. 'Za dwa dni' also works but is more formal/explicit."
+      "explanation": "'Pojutrze' = the day after tomorrow (literally: after-tomorrow). 'Przedwczoraj' = the day before yesterday. 'Za dwa dni' also works but is more formal/explicit.",
+      "explanation_fa": "'Pojutrze' = پس‌فردا. 'Przedwczoraj' = پریروز. 'Za dwa dni' هم درست است اما رسمی‌تر است."
+    },
+    {
+      "id": "a2-ch13-l03-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia wyjedzie za granicę ___ (in a month). [za + accusative]",
+      "prompt_fa": "Kasia ___ به خارج از کشور خواهد رفت. (یک ماه دیگر) [za + مفعول صریح]",
+      "options": [
+        "za miesiąc",
+        "przez miesiąc",
+        "w miesiącu",
+        "przed miesiącem"
+      ],
+      "correctIndex": 0,
+      "explanation": "'In a month' = za miesiąc. 'Za + accusative' = in X time from now. 'Przez miesiąc' = for a month (duration). 'W miesiącu' = in a month (calendar).",
+      "explanation_fa": "'یک ماه دیگر' = za miesiąc. 'Za + مفعول صریح' = X وقت دیگر. 'Przez miesiąc' = برای یک ماه (مدت)."
+    },
+    {
+      "id": "a2-ch13-l03-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Future time expression with za. Complete the sentence.",
+      "context_fa": "عبارت زمانی آینده با za. جمله را کامل کنید.",
+      "sentence": "Tomek wróci do domu ___ (in a week).",
+      "translation": "(Tomek will come back home in a week.) [za + accusative]",
+      "translation_fa": "(Tomek یک هفته دیگر به خانه برخواهد گشت.) [za + مفعول صریح]",
+      "prompt": "Tomek wróci do domu ___.",
+      "prompt_fa": "Tomek wróci do domu ___.",
+      "answer": "za tydzień",
+      "acceptableAnswers": [
+        "za tydzień"
+      ],
+      "hint": "In a week = za tydzień (tydzień stays accusative after za)",
+      "explanation": "'In a week' = za tydzień. 'Tydzień' (week) is accusative after 'za' meaning 'in X time'.",
+      "explanation_fa": "'یک هفته دیگر' = za tydzień. 'Tydzień' پس از 'za' به معنای 'X وقت دیگر' مفعول صریح است."
+    },
+    {
+      "id": "a2-ch13-l03-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch13/a2-ch13-l03-ex08.mp3",
+      "options": [
+        "Niedługo przyjedzie Marek.",
+        "Niedawno przyjechał Marek.",
+        "Wkrótce wróci Ania.",
+        "Jutro przyjedzie Marek."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Niedługo przyjedzie Marek.' — Marek will arrive soon. 'Niedługo' = soon/before long. 'Przyjedzie' = perfective future of 'przyjechać' (on).",
+      "explanation_fa": "شنیدید: 'Niedługo przyjedzie Marek.' — به زودی Marek خواهد آمد. 'Niedługo' = به زودی. 'Przyjedzie' = آینده کامل 'przyjechać' (on)."
+    },
+    {
+      "id": "a2-ch13-l03-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: Ania will visit her grandmother next month.",
+      "prompt_fa": "بسازید: Ania ماه آینده از مادربزرگش دیدن خواهد کرد.",
+      "wordBank": [
+        "Ania",
+        "odwiedzi",
+        "będzie odwiedzać",
+        "swoją",
+        "babcię",
+        "babcia",
+        "w",
+        "w przyszłym",
+        "przyszłym",
+        "miesiącu",
+        "miesiąca"
+      ],
+      "correctSequences": [
+        [
+          "Ania",
+          "odwiedzi",
+          "swoją",
+          "babcię",
+          "w",
+          "przyszłym",
+          "miesiącu"
+        ],
+        [
+          "Ania",
+          "odwiedzi",
+          "swoją",
+          "babcię",
+          "w przyszłym",
+          "miesiącu"
+        ]
+      ],
+      "explanation": "'Ania odwiedzi swoją babcię w przyszłym miesiącu.' — Ania will visit her grandmother next month. 'Odwiedzi' = perfective future of 'odwiedzić' (ona). 'W przyszłym miesiącu' = next month.",
+      "explanation_fa": "'Ania odwiedzi swoją babcię w przyszłym miesiącu.' — Ania ماه آینده از مادربزرگش دیدن خواهد کرد. 'Odwiedzi' = آینده کامل 'odwiedzić' (ona). 'W przyszłym miesiącu' = ماه آینده."
+    },
+    {
+      "id": "a2-ch13-l03-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Which sentence correctly uses a future time expression with 'in X time'?",
+      "prompt_fa": "کدام جمله از عبارت زمانی 'X وقت دیگر' به درستی استفاده می‌کند؟",
+      "options": [
+        "Za tydzień pojadę do Krakowa.",
+        "Przez tydzień pojadę do Krakowa.",
+        "Od tygodnia pojadę do Krakowa.",
+        "Do tygodnia pojadę do Krakowa."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Za tydzień' = in a week (from now). 'Przez tydzień' = for a week (duration). 'Od tygodnia' = for a week (since). 'Do tygodnia' = within a week.",
+      "explanation_fa": "'Za tydzień' = یک هفته دیگر (از الان). 'Przez tydzień' = برای یک هفته (مدت). 'Od tygodnia' = از یک هفته پیش. 'Do tygodnia' = تا یک هفته."
     }
   ],
   "xpReward": 20,

@@ -1,0 +1,183 @@
+{
+  "id": "b1-ch13-revision",
+  "chapter": 13,
+  "level": "b1",
+  "title": "Chapter 13 Revision: Polish Word Order",
+  "title_fa": "مرور فصل ۱۳ B1: ترتیب کلمات لهستانی",
+  "description": "Test your understanding of topic-comment structure, fronting for emphasis, negation, clitics, and discourse coherence in Polish.",
+  "passThreshold": 0.7,
+  "questions": [
+    {
+      "id": "b1-ch13-rev-q01",
+      "type": "multiple_choice",
+      "prompt": "In Polish, where does NEW (important) information typically go?",
+      "prompt_fa": "در لهستانی، اطلاعات جدید (مهم) معمولاً کجا می‌رود؟",
+      "options": [
+        "At the END of the sentence",
+        "At the BEGINNING of the sentence",
+        "After the verb",
+        "It must always follow the subject"
+      ],
+      "correctIndex": 0,
+      "explanation": "In Polish, the comment (new information) goes toward the END of the sentence, while the topic (known information) goes at the beginning.",
+      "explanation_fa": "در لهستانی، توضیح (اطلاعات جدید) به سمت آخر جمله می‌رود، در حالی که موضوع (اطلاعات شناخته‌شده) در ابتدا می‌آید."
+    },
+    {
+      "id": "b1-ch13-rev-q02",
+      "type": "multiple_choice",
+      "prompt": "Q: 'Kto kupił ten samochód?' Which answer has the correct word order?",
+      "prompt_fa": "سؤال: 'Kto kupił ten samochód؟' کدام پاسخ ترتیب کلمات درست را دارد؟",
+      "options": [
+        "Ten samochód kupił Marek.",
+        "Marek kupił ten samochód.",
+        "Kupił ten samochód Marek.",
+        "Ten samochód Marek kupił."
+      ],
+      "correctIndex": 0,
+      "explanation": "New info (Marek = who bought it) goes LAST. Known info (ten samochód = established from question) goes FIRST.",
+      "explanation_fa": "اطلاعات جدید (Marek = کی خرید) آخر می‌رود. اطلاعات شناخته‌شده (ten samochód = از سؤال تعیین‌شده) اول می‌آید."
+    },
+    {
+      "id": "b1-ch13-rev-q03",
+      "type": "multiple_choice",
+      "prompt": "Which sentence emphasizes 'It was MAREK who did it (not someone else)'?",
+      "prompt_fa": "کدام جمله تأکید می‌کند 'این ماریک بود که این کار را کرد (نه کس دیگری)'؟",
+      "options": [
+        "To Marek to zrobił.",
+        "Marek to zrobił.",
+        "Marek zrobił to.",
+        "Zrobił Marek to."
+      ],
+      "correctIndex": 0,
+      "explanation": "'To Marek to zrobił.' — 'To' before the fronted subject + 'to' as a focus particle creates the contrastive 'it was Marek who' reading.",
+      "explanation_fa": "'To Marek to zrobił.' — 'To' قبل از فاعل پیش‌آمده + 'to' به‌عنوان ذره تمرکز خوانش تضادی 'این ماریک بود که' می‌سازد."
+    },
+    {
+      "id": "b1-ch13-rev-q04",
+      "type": "fill_blank",
+      "prompt": "Polish requires double negation: 'Nie znam ___.' (I know nobody.)",
+      "prompt_fa": "لهستانی نفی مضاعف می‌طلبد: 'Nie znam ___.' (هیچ‌کس را نمی‌شناسم.)",
+      "answer": "nikogo",
+      "acceptableAnswers": ["nikogo"],
+      "hint": "nikogo = nobody (genitive of nikt) — used with nie for double negation",
+      "explanation": "'Nie znam nikogo.' — I know nobody. Double negation: nie (not) + nikogo (nobody). Both are required in Polish.",
+      "explanation_fa": "'Nie znam nikogo.' — هیچ‌کس را نمی‌شناسم. نفی مضاعف: nie (نه) + nikogo (هیچ‌کس). هر دو در لهستانی اجباری‌اند."
+    },
+    {
+      "id": "b1-ch13-rev-q05",
+      "type": "multiple_choice",
+      "prompt": "Where must a clitic like 'mi' (to me) go?",
+      "prompt_fa": "ضمیر کوتاه مثل 'mi' (به من) باید کجا برود؟",
+      "options": [
+        "In second position (after the first stressed element), never sentence-initial",
+        "At the very beginning of the sentence",
+        "Always at the end of the sentence",
+        "Immediately before the verb"
+      ],
+      "correctIndex": 0,
+      "explanation": "Clitics like 'mi, ci, go, jej, się' go in 2nd position — after the first stressed element. They can never start a sentence.",
+      "explanation_fa": "ضمایر کوتاه مثل 'mi، ci، go، jej، się' در موقعیت دوم می‌آیند — بعد از اولین عنصر تأکیدی. هرگز نمی‌توانند ابتدای جمله باشند."
+    },
+    {
+      "id": "b1-ch13-rev-q06",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct clitic placement: 'She gave it to me.'",
+      "prompt_fa": "جایگاه درست ضمیر کوتاه را انتخاب کنید: 'او آن را به من داد.'",
+      "options": [
+        "Ona mi go dała.",
+        "Mi go ona dała.",
+        "Ona dała mi go.",
+        "Ona go mi dała."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ona mi go dała.' — Subject first, then dative clitic 'mi', then accusative clitic 'go', then verb. Dative before accusative clitic order.",
+      "explanation_fa": "'Ona mi go dała.' — فاعل اول، سپس ضمیر دادی 'mi'، سپس ضمیر مفعولی 'go'، سپس فعل. ترتیب: دادی قبل از مفعولی."
+    },
+    {
+      "id": "b1-ch13-rev-q07",
+      "type": "fill_blank",
+      "prompt": "After introducing 'pewna kobieta', continue: '___ kobieta pracuje jako lekarz.' (known topic first)",
+      "prompt_fa": "بعد از معرفی 'pewna kobieta' ادامه دهید: '___ kobieta pracuje jako lekarz.' (موضوع شناخته‌شده اول)",
+      "answer": "Ta",
+      "acceptableAnswers": ["Ta", "ta"],
+      "hint": "Use demonstrative 'ta' (this) to mark 'kobieta' as now-known topic",
+      "explanation": "'Ta kobieta pracuje jako lekarz.' — 'Ta kobieta' (this woman = now known from previous sentence) goes first as topic.",
+      "explanation_fa": "'Ta kobieta pracuje jako lekarz.' — 'Ta kobieta' (این زن = از جمله قبلی اکنون شناخته) اول به‌عنوان موضوع می‌آید."
+    },
+    {
+      "id": "b1-ch13-rev-q08",
+      "type": "multiple_choice",
+      "prompt": "Which discourse marker signals contrast (one thing on one side, another on the other)?",
+      "prompt_fa": "کدام نشانه گفتمانی تضاد را نشان می‌دهد (یک چیز از یک طرف، چیز دیگری از طرف دیگر)؟",
+      "options": [
+        "natomiast",
+        "ponadto",
+        "mianowicie",
+        "innymi słowy"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Natomiast' = whereas, while — signals contrast between two parallel elements. 'Ponadto' = furthermore (addition), 'mianowicie' = namely (specification), 'innymi słowy' = in other words (reformulation).",
+      "explanation_fa": "'Natomiast' = در حالی که، اما — تضاد بین دو عنصر موازی را نشان می‌دهد. 'Ponadto' = علاوه بر این، 'mianowicie' = یعنی (مشخص‌سازی)، 'innymi słowy' = به عبارت دیگر."
+    },
+    {
+      "id": "b1-ch13-rev-q09",
+      "type": "multiple_choice",
+      "prompt": "What does 'Kawę piję rano, herbatę wieczorem' show about word order?",
+      "prompt_fa": "'Kawę piję rano, herbatę wieczorem' درباره ترتیب کلمات چه نشان می‌دهد؟",
+      "options": [
+        "Fronted objects for contrast (coffee vs. tea)",
+        "Topic-comment with known information last",
+        "Double negation pattern",
+        "Clitic placement rule"
+      ],
+      "correctIndex": 0,
+      "explanation": "Both objects (kawę, herbatę) are fronted to create a contrastive parallel: 'coffee [in the] morning, tea [in the] evening.'",
+      "explanation_fa": "هر دو مفعول (kawę، herbatę) برای ایجاد موازی تضادی پیش آمده‌اند: 'قهوه [در] صبح، چای [در] عصر.'"
+    },
+    {
+      "id": "b1-ch13-rev-q10",
+      "type": "multiple_choice",
+      "prompt": "Which is WRONG placement of 'nie'?",
+      "prompt_fa": "کدام جایگاه 'nie' نادرست است؟",
+      "options": [
+        "Ona nie bardzo lubi kawę.",
+        "Ona bardzo nie lubi kawy.",
+        "Nie lubię tu mieszkać.",
+        "Nie wiem, gdzie on jest."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nie bardzo' means 'not really/not very much' — this is actually an idiom, not a rule violation. However 'nie' should be directly before the verb it negates. 'Ona nie lubi kawy' (she doesn't like coffee) is standard; 'nie bardzo lubi' = doesn't really like.",
+      "explanation_fa": "'Nie bardzo' یک اصطلاح است به معنی 'زیاد نه/خیلی نه'. 'nie' باید مستقیماً قبل از فعلی که نفی می‌کند باشد. 'Ona nie lubi kawy' استاندارد است."
+    },
+    {
+      "id": "b1-ch13-rev-q11",
+      "type": "fill_blank",
+      "prompt": "I never tell lies: Nigdy ___ mówię nieprawdy.",
+      "prompt_fa": "هرگز دروغ نمی‌گویم: Nigdy ___ mówię nieprawdy.",
+      "answer": "nie",
+      "acceptableAnswers": ["nie"],
+      "hint": "nigdy (never) + nie (not) + verb = double/triple negation in Polish",
+      "explanation": "'Nigdy nie mówię nieprawdy.' — Both 'nigdy' and 'nie' are required. Polish mandatory multiple negation.",
+      "explanation_fa": "'Nigdy nie mówię nieprawdy.' — هم 'nigdy' و هم 'nie' اجباری‌اند. نفی مضاعف اجباری در لهستانی."
+    },
+    {
+      "id": "b1-ch13-rev-q12",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly uses 'to' as a topic marker?",
+      "prompt_fa": "کدام جمله 'to' را به‌درستی به‌عنوان نشانه موضوع استفاده می‌کند؟",
+      "options": [
+        "Polska to piękny kraj.",
+        "Polska to jest piękny kraj.",
+        "To Polska jest piękny kraj.",
+        "Polska jest to piękny kraj."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Polska to piękny kraj.' — 'To' after the topic noun acts as a copula-like topic marker. This is standard Polish for defining/characterizing sentences.",
+      "explanation_fa": "'Polska to piękny kraj.' — 'To' بعد از اسم موضوع به‌عنوان نشانه‌ موضوع شبه ربطی عمل می‌کند. این لهستانی استاندارد برای جملات تعریف/توصیف‌کننده است."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 8,
+  "tags": ["word-order", "topic-comment", "negation", "clitics", "b1-core"],
+  "prerequisites": ["b1-ch13-l01", "b1-ch13-l02", "b1-ch13-l03", "b1-ch13-l04"]
+}

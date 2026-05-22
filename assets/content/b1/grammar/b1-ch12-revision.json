@@ -1,0 +1,183 @@
+{
+  "id": "b1-ch12-revision",
+  "chapter": 12,
+  "level": "b1",
+  "title": "Chapter 12 Revision: Advanced Prepositions",
+  "title_fa": "مرور فصل ۱۲ B1: حروف اضافه پیشرفته",
+  "description": "Test your knowledge of mimo, wbrew, według, podczas, wzdłuż, wokół and other B1 prepositions.",
+  "passThreshold": 0.7,
+  "questions": [
+    {
+      "id": "b1-ch12-rev-q01",
+      "type": "multiple_choice",
+      "prompt": "Which preposition takes DATIVE (not genitive)?",
+      "prompt_fa": "کدام حرف اضافه دادی (نه مضاف‌الیه) می‌گیرد؟",
+      "options": [
+        "wbrew",
+        "mimo",
+        "według",
+        "podczas"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wbrew' + dative: wbrew zasadom, wbrew woli. All others (mimo, według, podczas) take genitive.",
+      "explanation_fa": "'Wbrew' + دادی: wbrew zasadom, wbrew woli. همه بقیه (mimo، według، podczas) مضاف‌الیه می‌گیرند."
+    },
+    {
+      "id": "b1-ch12-rev-q02",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct sentence: 'Despite fatigue, she continued working.'",
+      "prompt_fa": "جمله درست را انتخاب کنید: 'با وجود خستگی، به کار ادامه داد.'",
+      "options": [
+        "Mimo zmęczenia kontynuowała pracę.",
+        "Wbrew zmęczeniu kontynuowała pracę.",
+        "Według zmęczenia kontynuowała pracę.",
+        "Podczas zmęczenia kontynuowała pracę."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mimo zmęczenia' = despite fatigue (genitive). 'Zmęczenie' → genitive: 'zmęczenia'.",
+      "explanation_fa": "'Mimo zmęczenia' = با وجود خستگی (مضاف‌الیه). 'Zmęczenie' → مضاف‌الیه: 'zmęczenia'."
+    },
+    {
+      "id": "b1-ch12-rev-q03",
+      "type": "fill_blank",
+      "prompt": "She acted ___ her parents' wishes. (against = wbrew + dative)",
+      "prompt_fa": "او برخلاف خواسته والدینش عمل کرد. (برخلاف = wbrew + دادی)",
+      "answer": "wbrew",
+      "acceptableAnswers": ["wbrew", "Wbrew"],
+      "hint": "against/contrary to = wbrew + dative",
+      "explanation": "'Wbrew woli rodziców' = against the parents' wishes. 'Wbrew' + dative is the correct construction.",
+      "explanation_fa": "'Wbrew woli rodziców' = برخلاف خواسته والدین. 'Wbrew' + دادی ساختار درست است."
+    },
+    {
+      "id": "b1-ch12-rev-q04",
+      "type": "multiple_choice",
+      "prompt": "How do you say 'According to the weather forecast, it will snow'?",
+      "prompt_fa": "چطور می‌گویید 'طبق پیش‌بینی آب‌وهوا، برف خواهد بارید'؟",
+      "options": [
+        "Według prognozy pogody będzie padał śnieg.",
+        "Podczas prognozy pogody będzie padał śnieg.",
+        "Mimo prognozy pogody będzie padał śnieg.",
+        "Wbrew prognozie pogody będzie padał śnieg."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Według prognozy' = according to the forecast. 'Prognoza' → genitive: 'prognozy'.",
+      "explanation_fa": "'Według prognozy' = طبق پیش‌بینی. 'Prognoza' → مضاف‌الیه: 'prognozy'."
+    },
+    {
+      "id": "b1-ch12-rev-q05",
+      "type": "multiple_choice",
+      "prompt": "Choose: 'During the meeting, phones are not allowed.'",
+      "prompt_fa": "انتخاب کنید: 'در طول جلسه، تلفن‌ها مجاز نیستند.'",
+      "options": [
+        "Podczas spotkania nie wolno używać telefonów.",
+        "Wzdłuż spotkania nie wolno używać telefonów.",
+        "Wokół spotkania nie wolno używać telefonów.",
+        "Wbrew spotkaniu nie wolno używać telefonów."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Podczas spotkania' = during the meeting. 'Podczas' + genitive for time periods/events.",
+      "explanation_fa": "'Podczas spotkania' = در طول جلسه. 'Podczas' + مضاف‌الیه برای دوره‌های زمانی/رویدادها."
+    },
+    {
+      "id": "b1-ch12-rev-q06",
+      "type": "multiple_choice",
+      "prompt": "We walked along the beach. Choose correctly:",
+      "prompt_fa": "در امتداد ساحل راه رفتیم. به‌درستی انتخاب کنید:",
+      "options": [
+        "Szliśmy wzdłuż plaży.",
+        "Szliśmy wokół plaży.",
+        "Szliśmy naprzeciwko plaży.",
+        "Szliśmy pośród plaży."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wzdłuż plaży' = along the beach (linear movement). 'Plaża' → genitive: 'plaży'.",
+      "explanation_fa": "'Wzdłuż plaży' = در امتداد ساحل (حرکت خطی). 'Plaża' → مضاف‌الیه: 'plaży'."
+    },
+    {
+      "id": "b1-ch12-rev-q07",
+      "type": "fill_blank",
+      "prompt": "They sat ___ stołu. (around the table)",
+      "prompt_fa": "آن‌ها ___ stołu نشستند. (دور میز)",
+      "answer": "wokół",
+      "acceptableAnswers": ["wokół"],
+      "hint": "around (all sides) = wokół + genitive",
+      "explanation": "'Wokół stołu' = around the table (circular/surrounding). 'Stół' → genitive: 'stołu'.",
+      "explanation_fa": "'Wokół stołu' = دور میز (دایره‌ای/محاطه). 'Stół' → مضاف‌الیه: 'stołu'."
+    },
+    {
+      "id": "b1-ch12-rev-q08",
+      "type": "multiple_choice",
+      "prompt": "Which sentence correctly means 'among the students'?",
+      "prompt_fa": "کدام جمله به‌درستی 'در میان دانشجویان' را می‌رساند؟",
+      "options": [
+        "wśród studentów",
+        "wokół studentów",
+        "wzdłuż studentów",
+        "podczas studentów"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wśród studentów' = among the students. 'Wśród' is used for people/groups (compare 'pośród' for things).",
+      "explanation_fa": "'Wśród studentów' = در میان دانشجویان. 'Wśród' برای مردم/گروه‌ها استفاده می‌شود (مقایسه با 'pośród' برای چیزها)."
+    },
+    {
+      "id": "b1-ch12-rev-q09",
+      "type": "multiple_choice",
+      "prompt": "The pharmacy is opposite the hospital. Choose:",
+      "prompt_fa": "داروخانه روبروی بیمارستان است. انتخاب کنید:",
+      "options": [
+        "Apteka jest naprzeciwko szpitala.",
+        "Apteka jest wzdłuż szpitala.",
+        "Apteka jest wśród szpitala.",
+        "Apteka jest podczas szpitala."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Naprzeciwko szpitala' = opposite the hospital. 'Szpital' → genitive: 'szpitala'.",
+      "explanation_fa": "'Naprzeciwko szpitala' = روبروی بیمارستان. 'Szpital' → مضاف‌الیه: 'szpitala'."
+    },
+    {
+      "id": "b1-ch12-rev-q10",
+      "type": "fill_blank",
+      "prompt": "Dzięki ___ przyjaciela dostała tę pracę. (thanks to his friend — dative)",
+      "prompt_fa": "Dzięki ___ przyjaciela dostała tę pracę. (به لطف دوستش)",
+      "answer": "pomocy",
+      "acceptableAnswers": ["pomocy"],
+      "hint": "dzięki + dative; pomoc → dative: pomocy",
+      "explanation": "'Dzięki pomocy przyjaciela' = thanks to the friend's help. 'Dzięki' + dative: 'pomocy' (dative of 'pomoc').",
+      "explanation_fa": "'Dzięki pomocy przyjaciela' = به لطف کمک دوستش. 'Dzięki' + دادی: 'pomocy' (دادی 'pomoc')."
+    },
+    {
+      "id": "b1-ch12-rev-q11",
+      "type": "multiple_choice",
+      "prompt": "Which is correct for 'instead of coffee'?",
+      "prompt_fa": "کدام برای 'به‌جای قهوه' درست است؟",
+      "options": [
+        "zamiast kawy",
+        "zamiast kawę",
+        "zamiast kawie",
+        "zamiast kawą"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Zamiast' + genitive: 'zamiast kawy' (instead of coffee). 'Kawa' → genitive: 'kawy'.",
+      "explanation_fa": "'Zamiast' + مضاف‌الیه: 'zamiast kawy' (به‌جای قهوه). 'Kawa' → مضاف‌الیه: 'kawy'."
+    },
+    {
+      "id": "b1-ch12-rev-q12",
+      "type": "multiple_choice",
+      "prompt": "Complete the formal text: '___ ekspertów, sytuacja jest poważna.' (According to experts)",
+      "prompt_fa": "متن رسمی را کامل کنید: '___ ekspertów, sytuacja jest poważna.' (طبق نظر متخصصان)",
+      "options": [
+        "Według",
+        "Wbrew",
+        "Mimo",
+        "Podczas"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Według ekspertów' = according to the experts. 'Według' expresses a source/authority for information.",
+      "explanation_fa": "'Według ekspertów' = طبق نظر متخصصان. 'Według' منبع/اقتدار اطلاعات را بیان می‌کند."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 8,
+  "tags": ["prepositions", "mimo", "wbrew", "wedlug", "podczas", "b1-core"],
+  "prerequisites": ["b1-ch12-l01", "b1-ch12-l02", "b1-ch12-l03", "b1-ch12-l04"]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "b1-ch10-revision",
+  "chapter": 10,
+  "level": "b1",
+  "title": "Chapter 10 Revision: Gerunds & Verbal Nouns in Context",
+  "title_fa": "مرور فصل ۱۰ B1: قیدهای فعلی و اسم مصدرها در متن",
+  "description": "Test your knowledge of imperfective and perfective gerunds, aspect distinctions, and formal usage in Polish.",
+  "passThreshold": 0.7,
+  "questions": [
+    {
+      "id": "b1-ch10-rev-q01",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses the IMPERFECTIVE gerund correctly to express a general habit?",
+      "prompt_fa": "کدام جمله از قید فعلی ناکامل برای بیان عادت کلی به‌درستی استفاده می‌کند؟",
+      "options": [
+        "Lubię czytanie książek.",
+        "Lubię przeczytanie książek.",
+        "Lubię czytać przeczytanie.",
+        "Lubię czytał książek."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Czytanie' is the imperfective gerund from 'czytać' — it describes reading as a general activity/hobby. Perfective 'przeczytanie' would imply a specific completed act.",
+      "explanation_fa": "'Czytanie' قید فعلی ناکامل از 'czytać' است — خواندن را به‌عنوان فعالیت کلی/سرگرمی بیان می‌کند."
+    },
+    {
+      "id": "b1-ch10-rev-q02",
+      "type": "multiple_choice",
+      "prompt": "After 'nie lubię' (I don't like), which form is correct?",
+      "prompt_fa": "بعد از 'nie lubię' کدام شکل درست است؟",
+      "options": [
+        "gotowania (genitive)",
+        "gotowanie (accusative)",
+        "gotowaniu (dative)",
+        "gotowaniem (instrumental)"
+      ],
+      "correctIndex": 0,
+      "explanation": "After negation (nie lubię), the gerund takes the GENITIVE: nie lubię gotowania, nie znoszę czekania.",
+      "explanation_fa": "بعد از منفی (nie lubię)، قید فعلی به صورت مضاف‌الیه می‌آید: nie lubię gotowania."
+    },
+    {
+      "id": "b1-ch10-rev-q03",
+      "type": "multiple_choice",
+      "prompt": "Which sentence expresses a COMPLETED result (perfective gerund)?",
+      "prompt_fa": "کدام جمله نتیجه کامل‌شده را بیان می‌کند (قید فعلی کامل)؟",
+      "options": [
+        "Po przeczytaniu książki poczułem się mądrzejszy.",
+        "Podczas czytania książki zasnąłem.",
+        "Lubię czytanie przed snem.",
+        "Zaczynam czytanie o ósmej."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Po przeczytaniu' (after having read) is the perfective gerund in genitive after 'po', expressing a completed action preceding the next event.",
+      "explanation_fa": "'Po przeczytaniu' (بعد از خواندن) قید فعلی کامل در مضاف‌الیه بعد از 'po' است که عمل تکمیل‌شده را نشان می‌دهد."
+    },
+    {
+      "id": "b1-ch10-rev-q04",
+      "type": "fill_blank",
+      "prompt": "Skończyłam ___ ten raport. (pisać → perfective gerund: pisanie)",
+      "prompt_fa": "Skończyłam ___ ten raport.",
+      "answer": "pisanie",
+      "acceptableAnswers": ["pisanie"],
+      "hint": "After skończyć, use the imperfective gerund in accusative",
+      "explanation": "'Skończyć' + imperfective gerund (accusative): skończyłam pisanie = I finished writing.",
+      "explanation_fa": "'Skończyć' + قید فعلی ناکامل (مفعولی): skończyłam pisanie = نوشتن را تمام کردم."
+    },
+    {
+      "id": "b1-ch10-rev-q05",
+      "type": "multiple_choice",
+      "prompt": "What does 'po wyjściu z domu' mean?",
+      "prompt_fa": "'po wyjściu z domu' چه معنایی دارد؟",
+      "options": [
+        "After leaving the house",
+        "Before leaving the house",
+        "While leaving the house",
+        "Instead of leaving the house"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Po' + perfective gerund (genitive) = after doing something: po wyjściu = after leaving/having left.",
+      "explanation_fa": "'Po' + قید فعلی کامل (مضاف‌الیه) = بعد از انجام کاری: po wyjściu = بعد از خروج."
+    },
+    {
+      "id": "b1-ch10-rev-q06",
+      "type": "multiple_choice",
+      "prompt": "Which sentence uses aspect CORRECTLY to contrast habit vs. single event?",
+      "prompt_fa": "کدام جمله جنبه را برای تضاد عادت در مقابل رویداد واحد به‌درستی به‌کار می‌برد؟",
+      "options": [
+        "Lubię czytanie, ale wczoraj skończyłem przeczytanie tej książki.",
+        "Lubię przeczytanie, ale wczoraj skończyłem czytanie tej książki.",
+        "Lubię czytanie, ale wczoraj skończyłem czytanie tej książki.",
+        "Lubię przeczytanie, ale wczoraj skończyłem przeczytanie tej książki."
+      ],
+      "correctIndex": 0,
+      "explanation": "Imperfective 'czytanie' for the general hobby; perfective 'przeczytanie' for the completed specific reading event — correct contrast.",
+      "explanation_fa": "ناکامل 'czytanie' برای سرگرمی کلی؛ کامل 'przeczytanie' برای رویداد خواندن خاص تکمیل‌شده — تضاد درست."
+    },
+    {
+      "id": "b1-ch10-rev-q07",
+      "type": "fill_blank",
+      "prompt": "W sprawozdaniu napisano o ___ nowego centrum. (otworzyć → verbal noun genitive)",
+      "prompt_fa": "در گزارش درباره ___ مرکز جدید نوشته شده بود.",
+      "answer": "otwarciu",
+      "acceptableAnswers": ["otwarciu"],
+      "hint": "otworzyć → otwarcie → genitive: otwarcia / locative: otwarciu (po otwarciu / o otwarciu)",
+      "explanation": "'O otwarciu' — genitive after 'o' (about the opening). Verbal noun from 'otworzyć': otwarcie → o otwarciu.",
+      "explanation_fa": "'O otwarciu' — مضاف‌الیه بعد از 'o' (درباره افتتاح). اسم مصدر از 'otworzyć': otwarcie → o otwarciu."
+    },
+    {
+      "id": "b1-ch10-rev-q08",
+      "type": "multiple_choice",
+      "prompt": "In formal writing, 'Prosimy o niezwłoczne przesłanie dokumentów' means:",
+      "prompt_fa": "در نوشتار رسمی، 'Prosimy o niezwłoczne przesłanie dokumentów' یعنی:",
+      "options": [
+        "We ask for the immediate sending of the documents.",
+        "We ask for you not to send the documents.",
+        "We sent the documents immediately.",
+        "We will send the documents soon."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Prosimy o + verbal noun (accusative)' = we request + gerund. 'Niezwłoczne' = immediate. 'Przesłanie' = sending (perfective verbal noun).",
+      "explanation_fa": "'Prosimy o + اسم مصدر (مفعولی)' = درخواست می‌کنیم + قید فعلی. 'Niezwłoczne' = فوری. 'Przesłanie' = ارسال (اسم مصدر کامل)."
+    },
+    {
+      "id": "b1-ch10-rev-q09",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct gerund: 'Zamiast ___ telewizji, pójdź na spacer.' (oglądać)",
+      "prompt_fa": "قید فعلی درست را انتخاب کنید: 'Zamiast ___ telewizji, pójdź na spacer.'",
+      "options": [
+        "oglądania (genitive after zamiast)",
+        "oglądanie (accusative)",
+        "oglądaniem (instrumental)",
+        "oglądaniu (dative)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Zamiast' (instead of) always takes the GENITIVE: zamiast oglądania telewizji = instead of watching TV.",
+      "explanation_fa": "'Zamiast' (به‌جای) همیشه مضاف‌الیه می‌گیرد: zamiast oglądania telewizji = به‌جای تماشای تلویزیون."
+    },
+    {
+      "id": "b1-ch10-rev-q10",
+      "type": "multiple_choice",
+      "prompt": "Which is a correct formal sentence using a verbal noun?",
+      "prompt_fa": "کدام جمله رسمی با اسم مصدر درست است؟",
+      "options": [
+        "Dziękujemy za wzięcie udziału w konferencji.",
+        "Dziękujemy za wziął udziału w konferencji.",
+        "Dziękujemy za brać udział w konferencji.",
+        "Dziękujemy za wzięciu udziału w konferencji."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Dziękujemy za + accusative': za wzięcie udziału = for taking part. Perfective verbal noun 'wzięcie' from 'wziąć'.",
+      "explanation_fa": "'Dziękujemy za + مفعولی': za wzięcie udziału = برای شرکت. اسم مصدر کامل 'wzięcie' از 'wziąć'."
+    },
+    {
+      "id": "b1-ch10-rev-q11",
+      "type": "fill_blank",
+      "prompt": "Przed ___ należy umyć ręce. (jedzenie → before eating)",
+      "prompt_fa": "Przed ___ należy umyć ręce. (قبل از خوردن)",
+      "answer": "jedzeniem",
+      "acceptableAnswers": ["jedzeniem"],
+      "hint": "przed + instrumental: przed jedzeniem = before eating",
+      "explanation": "'Przed' takes the INSTRUMENTAL: przed jedzeniem = before eating. Verbal noun 'jedzenie' (from 'jeść') → instrumental: jedzeniem.",
+      "explanation_fa": "'Przed' ابزاری می‌گیرد: przed jedzeniem = قبل از خوردن. اسم مصدر 'jedzenie' (از 'jeść') → ابزاری: jedzeniem."
+    },
+    {
+      "id": "b1-ch10-rev-q12",
+      "type": "multiple_choice",
+      "prompt": "In which context is the PERFECTIVE gerund most appropriate?",
+      "prompt_fa": "در کدام متن قید فعلی کامل مناسب‌ترین است؟",
+      "options": [
+        "Po zdaniu egzaminu poczułem ulgę. (After passing the exam, I felt relief.)",
+        "Lubię zdawanie egzaminów. (I like taking exams.)",
+        "Podczas zdawania egzaminu byłem spokojny. (During the exam I was calm.)",
+        "Zaczynam zdawanie egzaminu. (I start taking the exam.)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Po zdaniu' = after having passed — perfective gerund after 'po' signals a completed event that precedes the next. The others use imperfective contexts.",
+      "explanation_fa": "'Po zdaniu' = بعد از قبول شدن — قید فعلی کامل بعد از 'po' رویداد تکمیل‌شده‌ای را نشان می‌دهد که قبل از مرحله بعد است."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 8,
+  "tags": ["gerunds", "verbal-nouns", "aspect", "b1-core"],
+  "prerequisites": ["b1-ch10-l01", "b1-ch10-l02", "b1-ch10-l03", "b1-ch10-l04"]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch15-l02-agent-nouns-ista",
+  "chapter": 15,
+  "lessonOrder": 2,
+  "level": "b1",
+  "title": "Agent Nouns: -ista/-ysta Suffix",
+  "title_fa": "اسامی فاعلی: پسوند -ista/-ysta",
+  "grammarPoint": "Agent nouns with -ista/-ysta: artysta, turysta, piłkarz, dentysta, pianista, specjalista",
+  "grammarPoint_fa": "اسامی فاعلی با -ista/-ysta: artysta (هنرمند)، turysta (گردشگر)، dentysta (دندانپزشک)، pianista (پیانیست)",
+  "explanation": {
+    "text": "The suffix **-ista** (and **-ysta** after hard consonants) comes from Latin/Italian and forms agent nouns for practitioners, specialists, and enthusiasts.\n\n**Common -ista/-ysta agent nouns:**\n\n| Word | Meaning | Source |\n|------|---------|--------|\n| **artysta** | artist | sztuka (art) |\n| **turysta** | tourist | turystyka (tourism) |\n| **dentysta** | dentist | ząb (tooth) |\n| **pianista** | pianist | piano |\n| **specjalista** | specialist | specjalność |\n| **taksówkarz** (-arz!) | taxi driver | taksówka |\n| **kajakarz** (-arz!) | kayaker | kajak |\n| **terrorysta** | terrorist | terror |\n| **komunista** | communist | komunizm |\n| **idealista** | idealist | ideał |\n| **realista** | realist | realia |\n| **rowerzysta** | cyclist | rower |\n\n**Feminine forms with -istka/-ystka:**\n- artysta → **artystka**\n- turysta → **turystka**\n- pianista → **pianistka**\n- specjalista → **specjalistka**\n- dentysta → **dentystka**\n\n**Key grammar feature — these are masculine nouns that END IN -A:**\nThis is unusual! Most masculine nouns don't end in -a, but -ista nouns are masculine:\n- Masculine: **mój** artysta (not moja!)\n- Declension follows feminine pattern (like kobieta) but grammatically masculine!\n- Nominative: artysta\n- Genitive: artysty\n- Accusative: artystę (animate masc → artystę, not artysty)\n- Instrumental: artystą\n- Dative: artyście",
+    "notes": [
+      "-ista nouns are MASCULINE despite ending in -a (like kobieta)",
+      "They take feminine-pattern declension but masculine agreement",
+      "Feminine versions: -istka/-ystka (artystka, pianistka)",
+      "Very common for international/borrowed professional terms"
+    ]
+  },
+  "explanation_fa": "پسوند -ista/-ysta از لاتین/ایتالیایی می‌آید و اسامی فاعلی برای متخصصان، هنرمندان و ورزشکاران می‌سازد: artysta (هنرمند)، turysta (گردشگر)، dentysta (دندانپزشک)، pianista (پیانیست). نکته مهم: این اسامی به -a ختم می‌شوند اما مذکر هستند! تصریف مثل kobieta است اما توافق دستوری مذکر: mój artysta (نه moja). مؤنث با -istka/-ystka: artystka، pianistka.",
+  "exercises": [
+    {
+      "id": "b1-ch15-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "What is unusual about 'artysta' (artist) grammatically?",
+      "prompt_fa": "از نظر دستوری چه چیز غیرمعمولی در مورد 'artysta' (هنرمند) وجود دارد؟",
+      "options": [
+        "It's masculine but ends in -a (like kobieta), taking feminine-pattern declension",
+        "It's feminine because it ends in -a",
+        "It has no feminine form",
+        "It's neuter because it refers to a profession"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Artysta' and all -ista nouns are masculine despite ending in -a. They use the feminine declension pattern but require masculine agreement: 'mój artysta', 'dobry artysta'.",
+      "explanation_fa": "'Artysta' و همه اسامی -ista مذکر هستند علی‌رغم پایان -a. از الگوی تصریف مؤنث استفاده می‌کنند اما توافق دستوری مذکر می‌طلبند: 'mój artysta'، 'dobry artysta'."
+    },
+    {
+      "id": "b1-ch15-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Maria is a specialist in cardiology. Complete:",
+      "context_fa": "ماریا متخصص قلب است. کامل کنید:",
+      "sentence": "Maria jest ___ą w kardiologii.",
+      "prompt": "Maria jest ___ą w kardiologii.",
+      "prompt_fa": "Maria jest ___ą w kardiologii.",
+      "answer": "specjalistk",
+      "acceptableAnswers": ["specjalistką"],
+      "hint": "Female specialist = specjalistka → instrumental: specjalistką",
+      "explanation": "'Maria jest specjalistką w kardiologii.' — Maria is a specialist in cardiology. Feminine form: specjalistka → instrumental: specjalistką.",
+      "explanation_fa": "'Maria jest specjalistką w kardiologii.' — ماریا متخصص قلب است. شکل مؤنث: specjalistka → ابزاری: specjalistką."
+    },
+    {
+      "id": "b1-ch15-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch15/b1-ch15-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Ten pianista gra niesamowicie.",
+        "Ta pianistka gra niesamowicie.",
+        "Ten pianista grał niesamowicie.",
+        "Ten pianiście gra niesamowicie."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ten pianista' — masculine demonstrative 'ten' confirms 'pianista' is masculine. 'Gra niesamowicie' = plays amazingly.",
+      "explanation_fa": "'Ten pianista' — اشاره مذکر 'ten' تأیید می‌کند 'pianista' مذکر است. 'Gra niesamowicie' = شگفت‌انگیز می‌نوازد."
+    },
+    {
+      "id": "b1-ch15-l02-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: Many tourists visit Kraków every year.",
+      "prompt_fa": "بسازید: هر سال بسیاری از گردشگران از کراکوف بازدید می‌کنند.",
+      "wordBank": ["Wielu", "turystów", "turystów", "odwiedza", "Kraków", "każdego", "roku"],
+      "correctSequences": [["Wielu", "turystów", "odwiedza", "Kraków", "każdego", "roku"]],
+      "explanation": "'Wielu turystów odwiedza Kraków każdego roku.' — Many tourists visit Kraków every year. 'Turystów' = genitive plural after 'wielu'.",
+      "explanation_fa": "'Wielu turystów odwiedza Kraków każdego roku.' — هر سال بسیاری از گردشگران از کراکوف بازدید می‌کنند. 'Turystów' = مضاف‌الیه جمع بعد از 'wielu'."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["word-formation", "agent-nouns", "ista", "b1-core"],
+  "prerequisites": ["b1-ch15-l01"]
+}

@@ -1,0 +1,262 @@
+{
+  "id": "b1-ch17-vocab",
+  "chapter": 17,
+  "level": "b1",
+  "title": "Formal Correspondence Vocabulary",
+  "title_fa": "واژگان مکاتبات رسمی",
+  "cards": [
+    {
+      "id": "b1-ch17-w001",
+      "polish": "podanie",
+      "english": "formal application, request (to an institution)",
+      "pronunciation": "poh-DAH-nyeh",
+      "gender": "n",
+      "category": "formal_noun",
+      "examplePolish": "Złożyłem podanie o urlop.",
+      "exampleEnglish": "I submitted an application for leave."
+    },
+    {
+      "id": "b1-ch17-w002",
+      "polish": "list motywacyjny",
+      "english": "cover letter, motivation letter",
+      "pronunciation": "leest moh-ty-VAH-tsiy-ny",
+      "gender": "m",
+      "category": "formal_noun",
+      "examplePolish": "Napisałem list motywacyjny na to stanowisko.",
+      "exampleEnglish": "I wrote a cover letter for this position."
+    },
+    {
+      "id": "b1-ch17-w003",
+      "polish": "reklamacja",
+      "english": "complaint (formal), claim",
+      "pronunciation": "reh-klah-MAH-tsyah",
+      "gender": "f",
+      "category": "formal_noun",
+      "examplePolish": "Złożyłam reklamację na wadliwy towar.",
+      "exampleEnglish": "I filed a complaint about the faulty goods."
+    },
+    {
+      "id": "b1-ch17-w004",
+      "polish": "pismo",
+      "english": "document, letter, written communication",
+      "pronunciation": "PEES-moh",
+      "gender": "n",
+      "category": "formal_noun",
+      "examplePolish": "Otrzymałem pismo z urzędu.",
+      "exampleEnglish": "I received a document from the office."
+    },
+    {
+      "id": "b1-ch17-w005",
+      "polish": "zwracam się",
+      "english": "I turn to (you), I address (formal)",
+      "pronunciation": "ZVRA-tsam sheh",
+      "gender": null,
+      "category": "formal_phrase",
+      "examplePolish": "Zwracam się do Pana z prośbą.",
+      "exampleEnglish": "I am turning to you with a request."
+    },
+    {
+      "id": "b1-ch17-w006",
+      "polish": "uprzejmie",
+      "english": "kindly, politely (formal adverb)",
+      "pronunciation": "oo-PZHEY-myeh",
+      "gender": null,
+      "category": "formal_adverb",
+      "examplePolish": "Uprzejmie proszę o odpowiedź.",
+      "exampleEnglish": "I kindly request a response."
+    },
+    {
+      "id": "b1-ch17-w007",
+      "polish": "pragnę",
+      "english": "I wish, I desire (formal, elevated)",
+      "pronunciation": "PRAG-nyeh",
+      "gender": null,
+      "category": "formal_verb",
+      "examplePolish": "Pragnę poinformować Pana, że...",
+      "exampleEnglish": "I wish to inform you that..."
+    },
+    {
+      "id": "b1-ch17-w008",
+      "polish": "posiadam",
+      "english": "I possess, I have (formal)",
+      "pronunciation": "poh-SYAH-dam",
+      "gender": null,
+      "category": "formal_verb",
+      "examplePolish": "Posiadam 5-letnie doświadczenie.",
+      "exampleEnglish": "I have 5 years of experience."
+    },
+    {
+      "id": "b1-ch17-w009",
+      "polish": "w załączeniu",
+      "english": "attached herewith, enclosed",
+      "pronunciation": "v zah-WOWN-cheh-nyoo",
+      "gender": null,
+      "category": "formal_phrase",
+      "examplePolish": "W załączeniu przesyłam CV.",
+      "exampleEnglish": "I am sending my CV attached."
+    },
+    {
+      "id": "b1-ch17-w010",
+      "polish": "rozpatrzyć",
+      "english": "to consider, examine (an application/request)",
+      "pronunciation": "roz-PAT-zhich",
+      "gender": null,
+      "category": "formal_verb",
+      "examplePolish": "Proszę o rozpatrzenie mojej prośby.",
+      "exampleEnglish": "Please consider my request."
+    },
+    {
+      "id": "b1-ch17-w011",
+      "polish": "kandydatura",
+      "english": "candidature, application (for a post)",
+      "pronunciation": "kan-dy-dah-TOO-rah",
+      "gender": "f",
+      "category": "formal_noun",
+      "examplePolish": "Składam swoją kandydaturę na to stanowisko.",
+      "exampleEnglish": "I am submitting my candidature for this position."
+    },
+    {
+      "id": "b1-ch17-w012",
+      "polish": "stanowisko",
+      "english": "position, post (job)",
+      "pronunciation": "stah-noh-VEES-koh",
+      "gender": "n",
+      "category": "noun",
+      "examplePolish": "Ubiegam się o stanowisko dyrektora.",
+      "exampleEnglish": "I am applying for the position of director."
+    },
+    {
+      "id": "b1-ch17-w013",
+      "polish": "szanowny / szanowna",
+      "english": "respected, dear (formal salutation adj.)",
+      "pronunciation": "shah-NOV-ny / shah-NOV-nah",
+      "gender": "m/f",
+      "category": "formal_adj",
+      "examplePolish": "Szanowny Panie Doktorze,",
+      "exampleEnglish": "Dear Dr. (male),"
+    },
+    {
+      "id": "b1-ch17-w014",
+      "polish": "z poważaniem",
+      "english": "yours sincerely, respectfully",
+      "pronunciation": "z poh-vah-ZHA-nyem",
+      "gender": null,
+      "category": "formal_closing",
+      "examplePolish": "Z poważaniem, Jan Kowalski",
+      "exampleEnglish": "Yours sincerely, Jan Kowalski"
+    },
+    {
+      "id": "b1-ch17-w015",
+      "polish": "z wyrazami szacunku",
+      "english": "with expressions of respect",
+      "pronunciation": "z vy-RAH-zah-mee shah-TSOON-koo",
+      "gender": null,
+      "category": "formal_closing",
+      "examplePolish": "Z wyrazami szacunku, Anna Nowak",
+      "exampleEnglish": "With expressions of respect, Anna Nowak"
+    },
+    {
+      "id": "b1-ch17-w016",
+      "polish": "niniejszym",
+      "english": "hereby (very formal, legal register)",
+      "pronunciation": "nee-NYEY-shym",
+      "gender": null,
+      "category": "formal_adverb",
+      "examplePolish": "Niniejszym potwierdzam odbiór dokumentu.",
+      "exampleEnglish": "I hereby confirm receipt of the document."
+    },
+    {
+      "id": "b1-ch17-w017",
+      "polish": "dyspozycja",
+      "english": "disposal, availability",
+      "pronunciation": "dys-poh-ZY-tsyah",
+      "gender": "f",
+      "category": "formal_noun",
+      "examplePolish": "Pozostaję do Pani dyspozycji.",
+      "exampleEnglish": "I remain at your disposal."
+    },
+    {
+      "id": "b1-ch17-w018",
+      "polish": "w nawiązaniu do",
+      "english": "in reference to, following up on",
+      "pronunciation": "v nah-vyown-ZAH-nyoo doh",
+      "gender": null,
+      "category": "formal_phrase",
+      "examplePolish": "W nawiązaniu do naszej rozmowy...",
+      "exampleEnglish": "In reference to our conversation..."
+    },
+    {
+      "id": "b1-ch17-w019",
+      "polish": "z góry dziękuję",
+      "english": "I thank you in advance",
+      "pronunciation": "z GOO-ry djyeh-KWAY-yeh",
+      "gender": null,
+      "category": "formal_phrase",
+      "examplePolish": "Z góry dziękuję za pomoc.",
+      "exampleEnglish": "I thank you in advance for your help."
+    },
+    {
+      "id": "b1-ch17-w020",
+      "polish": "doświadczenie",
+      "english": "experience",
+      "pronunciation": "doh-shvyad-CHEH-nyeh",
+      "gender": "n",
+      "category": "noun",
+      "examplePolish": "Mam bogate doświadczenie zawodowe.",
+      "exampleEnglish": "I have extensive professional experience."
+    },
+    {
+      "id": "b1-ch17-w021",
+      "polish": "nawiązać kontakt",
+      "english": "to make contact, to get in touch",
+      "pronunciation": "nah-VYOWN-zach KON-takt",
+      "gender": null,
+      "category": "formal_phrase",
+      "examplePolish": "Chciałbym nawiązać kontakt w tej sprawie.",
+      "exampleEnglish": "I would like to make contact in this matter."
+    },
+    {
+      "id": "b1-ch17-w022",
+      "polish": "sprawa",
+      "english": "matter, case, affair",
+      "pronunciation": "SPRAH-vah",
+      "gender": "f",
+      "category": "noun",
+      "examplePolish": "Piszę w ważnej sprawie.",
+      "exampleEnglish": "I am writing in an important matter."
+    },
+    {
+      "id": "b1-ch17-w023",
+      "polish": "wyrazić zgodę",
+      "english": "to express agreement, to consent",
+      "pronunciation": "vy-RAH-zich ZGOH-deh",
+      "gender": null,
+      "category": "formal_verb_phrase",
+      "examplePolish": "Wyrażam zgodę na przetwarzanie danych.",
+      "exampleEnglish": "I give consent to data processing."
+    },
+    {
+      "id": "b1-ch17-w024",
+      "polish": "odpowiedź",
+      "english": "reply, answer",
+      "pronunciation": "od-POH-vyedj",
+      "gender": "f",
+      "category": "noun",
+      "examplePolish": "Czekam na Pana odpowiedź.",
+      "exampleEnglish": "I am waiting for your reply."
+    },
+    {
+      "id": "b1-ch17-w025",
+      "polish": "termin",
+      "english": "deadline, date, term",
+      "pronunciation": "TER-meen",
+      "gender": "m",
+      "category": "noun",
+      "examplePolish": "Proszę o odpowiedź do 30 maja.",
+      "exampleEnglish": "Please reply by May 30th."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 12,
+  "tags": ["formal-writing", "correspondence", "b1-vocabulary"]
+}

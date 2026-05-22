@@ -12,7 +12,8 @@
       "type": "multiple_choice",
       "order": 1,
       "sourceLesson": "a1-ch07-l01",
-      "prompt": "Jestem ___ (I am a student — m). [student → instrumental]",
+      "prompt": "Tomek introduces himself at the university. Complete: Jestem ___ (I am a student — m). [student → instrumental]",
+      "prompt_fa": "تامک خودش را در دانشگاه معرفی می‌کند. کامل کنید: Jestem ___ (دانشجو هستم — م). [student → ابزاری]",
       "options": [
         "studentem",
         "student",
@@ -20,14 +21,16 @@
         "studencie"
       ],
       "correctIndex": 0,
-      "explanation": "'Student' (masculine) → instrumental 'studentem'. After 'być', use instrumental for identity/profession."
+      "explanation": "'Student' (masculine) → instrumental 'studentem'. After 'być', use instrumental for identity/profession. Masculine hard consonant: + -em.",
+      "explanation_fa": "'Student' (مذکر) → ابزاری 'studentem'. بعد از 'być'، برای بیان هویت/شغل از ابزاری استفاده کنید. صامت سخت مذکر: + -em."
     },
     {
       "id": "a1-ch07-rev-q02",
       "type": "multiple_choice",
       "order": 2,
       "sourceLesson": "a1-ch07-l01",
-      "prompt": "Piję kawę z ___ (with milk). [mleko → instrumental]",
+      "prompt": "Kasia always has her coffee a certain way. Complete: Piję kawę z ___ (with milk). [mleko → instrumental]",
+      "prompt_fa": "کاسیا همیشه قهوه‌اش را به روش خاصی می‌نوشد. کامل کنید: Piję kawę z ___ (با شیر). [mleko → ابزاری]",
       "options": [
         "mlekiem",
         "mleko",
@@ -35,14 +38,16 @@
         "mleku"
       ],
       "correctIndex": 0,
-      "explanation": "'Z + instrumental': mleko (neuter) → 'mlekiem'. 'Piję kawę z mlekiem' = I drink coffee with milk."
+      "explanation": "'Z + instrumental': mleko (neuter) → 'mlekiem'. 'Piję kawę z mlekiem' = I drink coffee with milk. Neuter -o → -em.",
+      "explanation_fa": "'Z + ابزاری': mleko (خنثی) → 'mlekiem'. 'Piję kawę z mlekiem' = با شیر قهوه می‌نوشم. خنثی -o → -em."
     },
     {
       "id": "a1-ch07-rev-q03",
       "type": "multiple_choice",
       "order": 3,
       "sourceLesson": "a1-ch07-l02",
-      "prompt": "Ona jest ___ nauczycielką. (She is a good teacher.)",
+      "prompt": "Ania works at a school. Complete: Ona jest ___ nauczycielką. (She is a good teacher.)",
+      "prompt_fa": "آنیا در یک مدرسه کار می‌کند. کامل کنید: Ona jest ___ nauczycielką. (او یک معلم خوب است.)",
       "options": [
         "dobrą",
         "dobrym",
@@ -50,14 +55,16 @@
         "dobra"
       ],
       "correctIndex": 0,
-      "explanation": "'Dobry' + feminine 'nauczycielka' → instrumental: 'dobrą'. Feminine instrumental adjective: -ą."
+      "explanation": "'Dobry' + feminine 'nauczycielka' → instrumental: 'dobrą'. Feminine instrumental adjective: -ą (NOT -ej like locative!).",
+      "explanation_fa": "'Dobry' + مؤنث 'nauczycielka' → ابزاری: 'dobrą'. صفت ابزاری مؤنث: -ą (نه -ej مثل مکانی!)"
     },
     {
       "id": "a1-ch07-rev-q04",
       "type": "vocab_translation",
       "order": 4,
       "sourceVocab": "a1-ch07-vocab",
-      "prompt": "What does 'smacznego' mean?",
+      "prompt": "Marek brings food to the table and says something. What does 'smacznego' mean?",
+      "prompt_fa": "ماریک غذا را به میز می‌آورد و چیزی می‌گوید. 'smacznego' چه معنایی دارد؟",
       "options": [
         "cheers!",
         "thank you",
@@ -65,14 +72,16 @@
         "good morning"
       ],
       "correctIndex": 2,
-      "explanation": "'Smacznego!' = Enjoy your meal! / Bon appétit! Said before/during eating."
+      "explanation": "'Smacznego!' = Enjoy your meal! / Bon appétit! Said before/during eating. It's the genitive form of 'smaczny' (delicious).",
+      "explanation_fa": "'Smacznego!' = نوش جان! قبل یا هنگام غذا خوردن گفته می‌شود. این شکل مضاف‌الیهی 'smaczny' (خوشمزه) است."
     },
     {
       "id": "a1-ch07-rev-q05",
       "type": "multiple_choice",
       "order": 5,
       "sourceLesson": "a1-ch07-l03",
-      "prompt": "How do you say 'The bill, please' in Polish?",
+      "prompt": "Tomek finishes his meal at the restaurant. How does he ask for the bill?",
+      "prompt_fa": "تامک غذایش را در رستوران تمام می‌کند. چطور حساب را می‌خواهد؟",
       "options": [
         "Poproszę rachunek.",
         "Proszę rachunek.",
@@ -80,14 +89,16 @@
         "Czy mogę rachunek?"
       ],
       "correctIndex": 0,
-      "explanation": "'Poproszę rachunek.' = The bill, please. 'Poproszę' is the standard polite ordering/requesting word."
+      "explanation": "'Poproszę rachunek.' = The bill, please. 'Poproszę' is the standard polite requesting word in restaurants. 'Rachunek' (m inan) = same in accusative.",
+      "explanation_fa": "'Poproszę rachunek.' = لطفاً حساب را بیاورید. 'Poproszę' کلمه محترمانه استاندارد در رستوران‌هاست. 'Rachunek' (مذکر غیرجاندار) در مفعولی تغییر نمی‌کند."
     },
     {
       "id": "a1-ch07-rev-q06",
       "type": "multiple_choice",
       "order": 6,
       "sourceLesson": "a1-ch07-l04",
-      "prompt": "Lubię ___ (I like pizza). [pizza → accusative]",
+      "prompt": "Kasia orders pizza every Friday. Complete: Lubię ___ (I like pizza). [pizza → accusative]",
+      "prompt_fa": "کاسیا هر جمعه پیتزا سفارش می‌دهد. کامل کنید: Lubię ___ (پیتزا دوست دارم). [pizza → مفعولی]",
       "options": [
         "pizzę",
         "pizza",
@@ -95,14 +106,16 @@
         "pizzą"
       ],
       "correctIndex": 0,
-      "explanation": "'Lubić + accusative': pizza (f) → 'pizzę'. 'Lubię pizzę' = I like pizza."
+      "explanation": "'Lubić + accusative': pizza (f) → 'pizzę'. 'Lubię pizzę' = I like pizza. Feminine -a → -ę in accusative.",
+      "explanation_fa": "'Lubić + مفعولی': pizza (مؤنث) → 'pizzę'. 'Lubię pizzę' = پیتزا دوست دارم. مؤنث -a → -ę در مفعولی."
     },
     {
       "id": "a1-ch07-rev-q07",
       "type": "multiple_choice",
       "order": 7,
       "sourceLesson": "a1-ch07-l04",
-      "prompt": "Nie lubię ___ (I don't like meat). [mięso → after negation]",
+      "prompt": "Marek is a vegetarian. Complete: Nie lubię ___ (I don't like meat). [mięso → after negation]",
+      "prompt_fa": "ماریک گیاهخوار است. کامل کنید: Nie lubię ___ (گوشت دوست ندارم). [mięso → بعد از منفی]",
       "options": [
         "mięsa",
         "mięso",
@@ -110,14 +123,16 @@
         "mięsu"
       ],
       "correctIndex": 0,
-      "explanation": "After negation (nie), the object changes to genitive: mięso → 'mięsa'. 'Nie lubię mięsa' = I don't like meat."
+      "explanation": "After negation (nie), the object changes to genitive: mięso → 'mięsa'. 'Nie lubię mięsa' = I don't like meat. Negation triggers accusative → genitive shift.",
+      "explanation_fa": "بعد از منفی (nie)، مفعول به مضاف‌الیهی تغییر می‌کند: mięso → 'mięsa'. 'Nie lubię mięsa' = گوشت دوست ندارم. منفی‌سازی مفعولی را به مضاف‌الیهی تبدیل می‌کند."
     },
     {
       "id": "a1-ch07-rev-q08",
       "type": "vocab_translation",
       "order": 8,
       "sourceVocab": "a1-ch07-vocab",
-      "prompt": "What does 'pyszny' mean?",
+      "prompt": "Ania takes one bite and smiles. She says 'pyszne!' What does 'pyszny' mean?",
+      "prompt_fa": "آنیا یک لقمه می‌خورد و لبخند می‌زند. او می‌گوید 'pyszne!' 'pyszny' چه معنایی دارد؟",
       "options": [
         "salty",
         "spicy",
@@ -125,14 +140,16 @@
         "sweet"
       ],
       "correctIndex": 2,
-      "explanation": "'Pyszny' = delicious / yummy. 'Ta zupa jest pyszna!' = This soup is delicious!"
+      "explanation": "'Pyszny' = delicious / yummy. Neuter form 'pyszne' = delicious (agreeing with danie/jedzenie). 'Ta zupa jest pyszna!' = This soup is delicious!",
+      "explanation_fa": "'Pyszny' = خوشمزه / لذیذ. شکل خنثی 'pyszne' با اسم‌های خنثی تطبیق می‌یابد. 'Ta zupa jest pyszna!' = این سوپ خوشمزه است!"
     },
     {
       "id": "a1-ch07-rev-q09",
       "type": "multiple_choice",
       "order": 9,
       "sourceLesson": "a1-ch07-l01",
-      "prompt": "Jadę do Krakowa ___ (by train). [pociąg → instrumental]",
+      "prompt": "Tomek is travelling to Kraków. Complete: Jadę do Krakowa ___ (by train). [pociąg → instrumental]",
+      "prompt_fa": "تامک دارد به کراکوف می‌رود. کامل کنید: Jadę do Krakowa ___ (با قطار). [pociąg → ابزاری]",
       "options": [
         "pociągiem",
         "pociąg",
@@ -140,14 +157,16 @@
         "pociągowi"
       ],
       "correctIndex": 0,
-      "explanation": "Means of transport uses instrumental: 'pociąg' → 'pociągiem'. 'Jadę pociągiem' = I'm going by train."
+      "explanation": "Means of transport uses instrumental: 'pociąg' → 'pociągiem'. 'Jadę pociągiem' = I'm going by train. Masculine -ąg → -ągiem.",
+      "explanation_fa": "وسیله حمل‌ونقل از ابزاری استفاده می‌کند: 'pociąg' → 'pociągiem'. 'Jadę pociągiem' = با قطار می‌روم. مذکر -ąg → -ągiem."
     },
     {
       "id": "a1-ch07-rev-q10",
       "type": "multiple_choice",
       "order": 10,
       "sourceLesson": "a1-ch07-l02",
-      "prompt": "Jestem ___ studentem. (I am a young student — m.)",
+      "prompt": "Marek just started university. Complete: Jestem ___ studentem. (I am a young student — m.)",
+      "prompt_fa": "ماریک تازه دانشگاه را شروع کرده است. کامل کنید: Jestem ___ studentem. (من یک دانشجوی جوان هستم — م.)",
       "options": [
         "młodym",
         "młodej",
@@ -155,14 +174,16 @@
         "młody"
       ],
       "correctIndex": 0,
-      "explanation": "'Młody' + masculine 'studentem' → adjective instrumental: 'młodym'. M/N adjective instrumental: -ym."
+      "explanation": "'Młody' + masculine 'studentem' → adjective instrumental: 'młodym'. Masculine/neuter instrumental adjective: -ym. Must match noun gender.",
+      "explanation_fa": "'Młody' + مذکر 'studentem' → صفت ابزاری: 'młodym'. صفت ابزاری مذکر/خنثی: -ym. باید با جنسیت اسم مطابقت داشته باشد."
     },
     {
       "id": "a1-ch07-rev-q11",
       "type": "vocab_translation",
       "order": 11,
       "sourceVocab": "a1-ch07-vocab",
-      "prompt": "What does 'kelner' mean?",
+      "prompt": "Ania calls over the person who takes orders. What does 'kelner' mean?",
+      "prompt_fa": "آنیا کسی را که سفارش می‌گیرد صدا می‌زند. 'kelner' چه معنایی دارد؟",
       "options": [
         "chef",
         "cashier",
@@ -170,14 +191,16 @@
         "customer"
       ],
       "correctIndex": 2,
-      "explanation": "'Kelner' = waiter (m). Female: 'kelnerka' = waitress."
+      "explanation": "'Kelner' = waiter (m). Female: 'kelnerka' = waitress. In a restaurant: 'Przepraszam, kelner!' = Excuse me, waiter!",
+      "explanation_fa": "'Kelner' = گارسون (مذکر). مؤنث: 'kelnerka' = گارسون خانم. در رستوران: 'Przepraszam, kelner!' = ببخشید، گارسون!"
     },
     {
       "id": "a1-ch07-rev-q12",
       "type": "multiple_choice",
       "order": 12,
       "sourceLesson": "a1-ch07-l04",
-      "prompt": "My ___ gotować. (We like cooking.)",
+      "prompt": "Kasia and Tomek both love being in the kitchen. Complete: My ___ gotować. (We like cooking.)",
+      "prompt_fa": "کاسیا و تامک هر دو عاشق بودن در آشپزخانه هستند. کامل کنید: My ___ gotować. (ما آشپزی را دوست داریم.)",
       "options": [
         "lubimy",
         "lubię",
@@ -185,7 +208,8 @@
         "lubisz"
       ],
       "correctIndex": 0,
-      "explanation": "'Lubić' Group 2: my → 'lubimy'. 'Lubimy gotować' = We like cooking. Infinitive (gotować) follows unchanged."
+      "explanation": "'Lubić' Group 2: my → 'lubimy'. 'Lubimy gotować' = We like cooking. Infinitive (gotować) follows unchanged after lubić.",
+      "explanation_fa": "'Lubić' گروه ۲: my → 'lubimy'. 'Lubimy gotować' = ما آشپزی را دوست داریم. مصدر (gotować) بعد از lubić بدون تغییر می‌آید."
     }
   ]
 }

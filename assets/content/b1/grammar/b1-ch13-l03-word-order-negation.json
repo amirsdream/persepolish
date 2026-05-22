@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch13-l03-word-order-negation",
+  "chapter": 13,
+  "lessonOrder": 3,
+  "level": "b1",
+  "title": "Word Order with Negation and Clitics",
+  "title_fa": "ترتیب کلمات با نفی و ضمایر کوتاه",
+  "grammarPoint": "Placement of 'nie' (negation) and clitics (się, mi, go, jej, nam) in Polish sentences",
+  "grammarPoint_fa": "جایگاه 'nie' (نفی) و ضمایر کوتاه (się، mi، go، jej، nam) در جملات لهستانی",
+  "explanation": {
+    "text": "**Negation with 'nie':**\n\n'Nie' always goes **directly before the verb** it negates:\n- Nie **idę** do szkoły. (I am not going to school.)\n- Nie **chcę** jeść. (I don't want to eat.)\n- Ona nie **lubi** kawy. (She doesn't like coffee.)\n\nWith modal verbs, 'nie' negates the modal:\n- Nie **mogę** teraz rozmawiać. (I can't talk right now.)\n- Nie **muszę** tego robić. (I don't have to do this.)\n\n**Double negation (mandatory in Polish!):**\n- Nie mam **nic**. (I have nothing. — nie + nic, both negative)\n- Nie widziałem **nikogo**. (I saw nobody.)\n- Nie ma **żadnego** problemu. (There is no problem.)\n- Nigdy nie **kłamię**. (I never lie. — nigdy + nie + verb)\n\n**Clitic placement (się, mi, ci, go, jej, mu, nam, wam, im):**\nClitics are short unstressed pronouns that go in the **second position** (after the first stressed element):\n- Marek **mi** powiedział. (Marek told me.)\n- Ona **się** śmiała. (She was laughing.)\n- To **ci** pomogło? (Did that help you?)\n- Już **go** nie ma. (He's no longer here.)\n\n**Clitics never start a sentence:**\n- ✓ Marek mi powiedział.\n- ✗ Mi powiedział Marek. (wrong — clitic can't be first)\n\n**Multiple clitics:**\n- Ona **mi go** dała. (She gave it to me.) — dative before accusative",
+    "notes": [
+      "nie = immediately before the verb (not separated by adverbs)",
+      "Double negation is MANDATORY: nie + nic/nikt/żaden/nigdy",
+      "Clitics (się, mi, go, etc.) go in 2nd position — never sentence-initial",
+      "Clitic order: reflexive się can come after the verb in casual speech"
+    ]
+  },
+  "explanation_fa": "نفی با 'nie': مستقیماً قبل از فعل منفی می‌آید: 'Nie idę do szkoły.' نفی مضاعف اجباری است: 'Nie mam nic' (هیچ ندارم)، 'Nie widziałem nikogo' (هیچ‌کس را ندیدم). ضمایر کوتاه (się، mi، go، jej، nam) در موقعیت دوم جمله قرار می‌گیرند (بعد از اولین عنصر تأکیدی) و نمی‌توانند ابتدای جمله باشند: 'Marek mi powiedział' (درست) در مقابل 'Mi powiedział Marek' (نادرست).",
+  "exercises": [
+    {
+      "id": "b1-ch13-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Which sentence correctly uses double negation?",
+      "prompt_fa": "کدام جمله نفی مضاعف را به‌درستی به‌کار می‌برد؟",
+      "options": [
+        "Nie widziałem nikogo na ulicy.",
+        "Nie widziałem kogoś na ulicy.",
+        "Widziałem nikogo na ulicy.",
+        "Nie nikogo widziałem na ulicy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Polish requires double negation: 'nie' before the verb + 'nikogo' (negative pronoun). Both negative elements are mandatory.",
+      "explanation_fa": "لهستانی نفی مضاعف می‌طلبد: 'nie' قبل از فعل + 'nikogo' (ضمیر نفی). هر دو عنصر منفی اجباری‌اند."
+    },
+    {
+      "id": "b1-ch13-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "She told me (= she told to me — clitic 'mi'). Place the clitic correctly:",
+      "context_fa": "او به من گفت (ضمیر کوتاه 'mi'). ضمیر را به‌درستی قرار دهید:",
+      "sentence": "Ona ___ powiedziała prawdę.",
+      "prompt": "Ona ___ powiedziała prawdę.",
+      "prompt_fa": "Ona ___ powiedziała prawdę.",
+      "answer": "mi",
+      "acceptableAnswers": ["mi"],
+      "hint": "clitic 'mi' (to me) goes in 2nd position — after the subject",
+      "explanation": "'Ona mi powiedziała prawdę.' — She told me the truth. Clitic 'mi' goes after the subject 'Ona' (2nd position).",
+      "explanation_fa": "'Ona mi powiedziała prawdę.' — او حقیقت را به من گفت. ضمیر کوتاه 'mi' بعد از فاعل 'Ona' (موقعیت دوم) می‌آید."
+    },
+    {
+      "id": "b1-ch13-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch13/b1-ch13-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Nigdy nie mówię nieprawdy.",
+        "Nigdy mówię nieprawdy.",
+        "Nie mówię nigdy nieprawdy.",
+        "Nigdy nie mówię prawdy."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nigdy nie mówię nieprawdy.' — I never tell a lie (lit: I never don't say untruth). Triple negation: nigdy (never) + nie (not) + nie- prefix. Standard Polish.",
+      "explanation_fa": "'Nigdy nie mówię nieprawdy.' — هرگز دروغ نمی‌گویم. نفی سه‌گانه: nigdy + nie + nie- پیشوند. لهستانی استاندارد."
+    },
+    {
+      "id": "b1-ch13-l03-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: She gave it to me. (Use clitics: mi + go)",
+      "prompt_fa": "بسازید: او آن را به من داد. (از ضمایر کوتاه استفاده کنید: mi + go)",
+      "wordBank": ["Ona", "mi", "go", "dała", "Mi", "go", "dała"],
+      "correctSequences": [["Ona", "mi", "go", "dała"]],
+      "explanation": "'Ona mi go dała.' — She gave it to me. Clitics in 2nd position after subject; dative 'mi' before accusative 'go'.",
+      "explanation_fa": "'Ona mi go dała.' — او آن را به من داد. ضمایر کوتاه در موقعیت دوم بعد از فاعل؛ دادی 'mi' قبل از مفعولی 'go'."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["word-order", "negation", "clitics", "b1-core"],
+  "prerequisites": ["b1-ch13-l01", "b1-ch13-l02"]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch19-l03-proverbs",
+  "chapter": 19,
+  "lessonOrder": 3,
+  "level": "b1",
+  "title": "Polish Proverbs",
+  "title_fa": "ضرب‌المثل‌های لهستانی",
+  "grammarPoint": "Key Polish proverbs (przysłowia): structure, meaning, and English equivalents",
+  "grammarPoint_fa": "ضرب‌المثل‌های کلیدی لهستانی (przysłowia): ساختار، معنا و معادل‌های انگلیسی",
+  "explanation": {
+    "text": "**Polish proverbs (przysłowia) reflect cultural wisdom:**\n\n**About hard work and time:**\n- Bez pracy nie ma kołaczy. — Without work there's no reward. (lit: no cakes) = No pain, no gain.\n- Co nagle, to po diable. — Haste makes waste. (lit: What's rushed is after the devil.)\n- Apetyt rośnie w miarę jedzenia. — Appetite grows with eating. = The more you have, the more you want.\n\n**About wisdom and foresight:**\n- Mądry Polak po szkodzie. — Poles are wise after the fact. = Wisdom comes too late (self-deprecating proverb).\n- Lepiej późno niż wcale. — Better late than never.\n- Czym skorupka za młodu nasiąknie, tym na starość trąci. — What soaks into the shell when young, that's what it smells of when old. = Old habits die hard.\n\n**About community and help:**\n- Nie mój cyrk, nie moje małpy. — Not my circus, not my monkeys. = Not my problem. (modern proverb!)\n- Każdy jest kowalem swojego losu. — Everyone is the blacksmith of their own fate. = You make your own luck.\n- Jak sobie pościelisz, tak się wyśpisz. — As you make your bed, so you will lie in it.\n\n**About appearances:**\n- Nie wszystko złoto, co się świeci. — All that glitters is not gold.\n- Pozory mylą. — Appearances are deceptive.\n- Nie szata zdobi człowieka. — Clothes don't make the man. (lit: The garment doesn't adorn the person.)\n\n**About relationships:**\n- Bliższa ciału koszula niż sukmana. — Charity begins at home. (lit: The shirt is closer to the body than the coat.)\n- Kto pod kim dołki kopie, ten sam w nie wpada. — Those who dig pits under others fall into them themselves.",
+    "notes": [
+      "'Nie mój cyrk, nie moje małpy' = modern Polish proverb, very widely used today",
+      "'Bez pracy nie ma kołaczy' — kołacze = old Polish cakes; lesson: effort = reward",
+      "'Mądry Polak po szkodzie' — Poles often use this self-deprecatingly",
+      "Many Polish proverbs have direct English equivalents — spot them to remember them"
+    ]
+  },
+  "explanation_fa": "ضرب‌المثل‌های لهستانی حکمت فرهنگی را منعکس می‌کنند: کار و زمان: Bez pracy nie ma kołaczy (بدون کار پاداشی نیست = زحمت بی‌زحمت نمی‌شود). حکمت: Lepiej późno niż wcale (دیر بهتر از هرگز). جامعه: Nie mój cyrk، nie moje małpy (نه سیرک من، نه میمون‌های من = به من ربطی ندارد). ظاهر: Nie wszystko złoto، co się świeci (همه چیزی که می‌درخشد طلا نیست). روابط: Jak sobie pościelisz، tak się wyśpisz (آن‌طور که بستر بسازی، همان‌طور خواهی خوابید). نکته: بسیاری از ضرب‌المثل‌های لهستانی معادل مستقیم انگلیسی دارند.",
+  "exercises": [
+    {
+      "id": "b1-ch19-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "What does 'Bez pracy nie ma kołaczy' mean?",
+      "prompt_fa": "'Bez pracy nie ma kołaczy' چه معنایی دارد؟",
+      "options": [
+        "No pain, no gain (without work, no reward)",
+        "Better late than never",
+        "Haste makes waste",
+        "All that glitters is not gold"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Bez pracy nie ma kołaczy.' = Without work, there are no cakes. = No pain, no gain. 'Kołacze' = old-fashioned Polish cakes (reward/fruits of labour).",
+      "explanation_fa": "'Bez pracy nie ma kołaczy.' = بدون کار، کلوچه‌ای نیست. = زحمت بی‌زحمت نمی‌شود. 'Kołacze' = کلوچه‌های قدیمی لهستانی (پاداش/دستاورد تلاش)."
+    },
+    {
+      "id": "b1-ch19-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Complete the modern Polish proverb: 'Nie mój cyrk, nie moje ___.' (Not my circus, not my monkeys.)",
+      "context_fa": "ضرب‌المثل مدرن لهستانی را کامل کنید: 'Nie mój cyrk, nie moje ___.' (نه سیرک من، نه میمون‌های من.)",
+      "sentence": "Nie mój cyrk, nie moje ___.",
+      "prompt": "Nie mój cyrk, nie moje ___.",
+      "prompt_fa": "Nie mój cyrk, nie moje ___.",
+      "answer": "małpy",
+      "acceptableAnswers": ["małpy"],
+      "hint": "małpa = monkey; małpy = plural nominative (after 'nie moje')",
+      "explanation": "'Nie mój cyrk, nie moje małpy.' — Not my circus, not my monkeys. = Not my problem. One of Poland's most well-known modern proverbs internationally.",
+      "explanation_fa": "'Nie mój cyrk, nie moje małpy.' — نه سیرک من، نه میمون‌های من. = به من ربطی ندارد. یکی از معروف‌ترین ضرب‌المثل‌های مدرن لهستانی در سطح بین‌المللی."
+    },
+    {
+      "id": "b1-ch19-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch19/b1-ch19-l03-ex03.mp3",
+      "prompt": "Which proverb did you hear?",
+      "prompt_fa": "کدام ضرب‌المثل را شنیدید؟",
+      "options": [
+        "Nie wszystko złoto, co się świeci.",
+        "Nie wszystko złote, co się świeci.",
+        "Nie wszystko jest złotem, co świeci.",
+        "Nie wszystko złoto, kiedy się świeci."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nie wszystko złoto, co się świeci.' — All that glitters is not gold. The structure: 'nie wszystko [nom.] + co się świeci' — relative clause with 'co' (that which).",
+      "explanation_fa": "'Nie wszystko złoto, co się świeci.' — همه چیزی که می‌درخشد طلا نیست. ساختار: 'nie wszystko [فاعلی] + co się świeci' — جمله موصولی با 'co' (آنچه که)."
+    },
+    {
+      "id": "b1-ch19-l03-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build the proverb: 'Better late than never.'",
+      "prompt_fa": "ضرب‌المثل را بسازید: 'دیر بهتر از هرگز.'",
+      "wordBank": ["Lepiej", "późno", "niż", "wcale", "szybko", "nigdy", "zawsze"],
+      "correctSequences": [["Lepiej", "późno", "niż", "wcale"]],
+      "explanation": "'Lepiej późno niż wcale.' — Better late than never. 'Lepiej' = better; 'późno' = late; 'niż' = than; 'wcale' = at all / never (in neg. context).",
+      "explanation_fa": "'Lepiej późno niż wcale.' — دیر بهتر از هرگز. 'Lepiej' = بهتر؛ 'późno' = دیر؛ 'niż' = از؛ 'wcale' = اصلاً / هرگز (در زمینه منفی)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["proverbs", "idioms", "culture", "b1-core"],
+  "prerequisites": ["b1-ch19-l01", "b1-ch19-l02"]
+}

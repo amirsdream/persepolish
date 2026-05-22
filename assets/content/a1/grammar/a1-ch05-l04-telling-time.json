@@ -6,23 +6,24 @@
   "title": "Telling the Time — Która godzina?",
   "title_fa": "گفتن ساعت — Która godzina?",
   "grammarPoint": "Asking and telling the time: pełne godziny, za kwadrans, wpół do, kwadrans po",
-  "grammarPoint_fa": "بیان ساعت با اعداد و عبارت jest godzina",
+  "grammarPoint_fa": "بیان ساعت با اعداد ترتیبی و عبارت jest godzina",
   "explanation": {
-    "text": "To ask the time in Polish: **Która godzina?** (What time is it?) or **Która jest?**\n\nThe answer uses **godzina** (hour) with ordinal numbers:\n\n**Full hours:**\n\n| Polish | English |\n|--------|--------|\n| (Jest) pierwsza. | It is 1 o'clock. |\n| Jest druga. | It is 2 o'clock. |\n| Jest trzecia. | It is 3 o'clock. |\n| Jest czwarta. | It is 4 o'clock. |\n| Jest piąta. | It is 5 o'clock. |\n| Jest szósta. | It is 6 o'clock. |\n| Jest siódma. | It is 7 o'clock. |\n| Jest ósma. | It is 8 o'clock. |\n| Jest dziewiąta. | It is 9 o'clock. |\n| Jest dziesiąta. | It is 10 o'clock. |\n| Jest jedenasta. | It is 11 o'clock. |\n| Jest dwunasta. | It is 12 o'clock. |\n\n**Half and quarter hours:**\n\n| Polish | English | Literal meaning |\n|--------|---------|----------------|\n| kwadrans po trzeciej | quarter past three | quarter after 3 |\n| wpół do czwartej | half past three | half to four |\n| za kwadrans czwarta | quarter to four | in a quarter (to) four |\n\n**Key pattern:** *wpół do* takes the NEXT hour in genitive: *wpół do czwartej* = 3:30 (half to four).\n*Za kwadrans* + nominative: *za kwadrans czwarta* = 3:45.",
+    "text": "## Telling the Time — Która godzina?\n\nTo ask the time in Polish: **Która godzina?** (What time is it?) or **Która jest?**\n\n### Full hours (pełne godziny)\n\nThe answer uses **feminine ordinal numbers** (hours are feminine):\n\n| Polish | English | Hour |\n|--------|---------|------|\n| Jest **pierwsza**. | It is 1 o'clock. | 1:00 |\n| Jest **druga**. | It is 2 o'clock. | 2:00 |\n| Jest **trzecia**. | It is 3 o'clock. | 3:00 |\n| Jest **czwarta**. | It is 4 o'clock. | 4:00 |\n| Jest **piąta**. | It is 5 o'clock. | 5:00 |\n| Jest **szósta**. | It is 6 o'clock. | 6:00 |\n| Jest **siódma**. | It is 7 o'clock. | 7:00 |\n| Jest **ósma**. | It is 8 o'clock. | 8:00 |\n| Jest **dziewiąta**. | It is 9 o'clock. | 9:00 |\n| Jest **dziesiąta**. | It is 10 o'clock. | 10:00 |\n| Jest **jedenasta**. | It is 11 o'clock. | 11:00 |\n| Jest **dwunasta**. | It is 12 o'clock. | 12:00 |\n\n### Half and quarter hours\n\n| Polish | English | Time | Structure |\n|--------|---------|------|----------|\n| kwadrans po **trzeciej** | quarter past three | 3:15 | kwadrans po + genitive |\n| wpół do **czwartej** | half past three | 3:30 | wpół do + genitive of NEXT hour |\n| za kwadrans **czwarta** | quarter to four | 3:45 | za kwadrans + nominative |\n\n> 🔑 **wpół do** takes the NEXT hour in **genitive**: *wpół do czwartej* = half to four = 3:30.\n> **Za kwadrans** + nominative: *za kwadrans czwarta* = quarter to four = 3:45.\n\n### 'At' a time — o + locative\n\n| Polish | English |\n|--------|---------|\n| O **której** godzinie? | At what time? |\n| O **ósmej**. | At 8 o'clock. |\n| O **trzeciej** po południu. | At 3 in the afternoon. |\n| O **dwunastej** w nocy. | At midnight. |\n\n> 'O + locative' of the hour: szósta → o **szóstej**, ósma → o **ósmej**\n\n### Genitive forms for half-hours\n\n| Nominative | Genitive (wpół do...) | English |\n|-----------|---------------------|----------|\n| pierwsza | pierwszej | one → wpół do pierwszej = 12:30 |\n| druga | drugiej | two → wpół do drugiej = 1:30 |\n| trzecia | trzeciej | three → wpół do trzeciej = 2:30 |\n| czwarta | czwartej | four → wpół do czwartej = 3:30 |\n| piąta | piątej | five → wpół do piątej = 4:30 |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Jest siedem.* | *Jest **siódma**.* | hours use ordinals, not cardinals |\n| *wpół do trzecia* | *wpół do **trzeciej*** | wpół do + genitive |\n| *o szósta* | *o **szóstej*** | o + locative |",
     "notes": [
-      "Hours are feminine ordinal adjectives: pierwsza, druga, trzecia, czwarta, piąta, szósta, siódma, ósma, dziewiąta, dziesiąta, jedenasta, dwunasta.",
-      "wpół do + genitive of next hour: wpół do drugiej = 1:30, wpół do trzeciej = 2:30.",
-      "O + locative for 'at' a time: O której? = At what time? O trzeciej = at 3 o'clock.",
-      "24-hour clock in official contexts: godzina czternasta = 14:00."
+      "Hours are feminine ordinal adjectives: pierwsza, druga, trzecia, czwarta, piąta, szósta, siódma, ósma...",
+      "wpół do + genitive of NEXT hour: wpół do drugiej = 1:30, wpół do trzeciej = 2:30",
+      "O + locative for 'at' a time: o trzeciej = at 3, o szóstej = at 6",
+      "24-hour clock in official contexts: godzina czternasta = 14:00 (2pm)"
     ]
   },
-  "explanation_fa": "برای پرسیدن ساعت: Która godzina? یا Która jest godzina? پاسخ: Jest godzina + عدد (jest godzina trzecia — ساعت سه است). برای دقیقه: piętnaście po trzeciej (ربع بعد از سه)، za piętnaście czwarta (ربع به چهار). ساعت‌ها در حالت مضاف‌الیهی می‌آیند.",
+  "explanation_fa": "## گفتن ساعت — Która godzina?\n\nبرای پرسیدن ساعت: **Która godzina?** (ساعت چند است؟) یا **Która jest?**\n\n### ساعات کامل (pełne godziny)\n\nپاسخ از **اعداد ترتیبی مؤنث** استفاده می‌کند (ساعت‌ها مؤنث هستند):\n\n| لهستانی | فارسی | ساعت |\n|---------|-------|------|\n| Jest **pierwsza**. | ساعت یک است. | ۱:۰۰ |\n| Jest **druga**. | ساعت دو است. | ۲:۰۰ |\n| Jest **trzecia**. | ساعت سه است. | ۳:۰۰ |\n| Jest **siódma**. | ساعت هفت است. | ۷:۰۰ |\n| Jest **dwunasta**. | ساعت دوازده است. | ۱۲:۰۰ |\n\n### نیم ساعت و ربع ساعت\n\n| لهستانی | فارسی | ساعت | ساختار |\n|---------|-------|------|--------|\n| kwadrans po **trzeciej** | ربع بعد از سه | ۳:۱۵ | kwadrans po + مضاف‌الیهی |\n| wpół do **czwartej** | نیم ساعت به چهار | ۳:۳۰ | wpół do + مضاف‌الیهی ساعت بعدی |\n| za kwadrans **czwarta** | ربع به چهار | ۳:۴۵ | za kwadrans + فاعلی |\n\n> 🔑 **wpół do** ساعت **بعدی** را در **مضاف‌الیهی** می‌گیرد: *wpół do czwartej* = ساعت ۳:۳۰.\n> **Za kwadrans** + فاعلی: *za kwadrans czwarta* = ربع به چهار = ۳:۴۵.\n\n### 'در ساعت' — o + مکانی\n\n| لهستانی | فارسی |\n|---------|-------|\n| O **której** godzinie? | در چه ساعتی؟ |\n| O **ósmej**. | ساعت ۸. |\n| O **trzeciej** po południu. | ساعت ۳ بعد از ظهر. |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Jest siedem.* | *Jest **siódma**.* | ساعت‌ها از اعداد ترتیبی استفاده می‌کنند |\n| *wpół do trzecia* | *wpół do **trzeciej*** | wpół do + مضاف‌الیهی |\n| *o szósta* | *o **szóstej*** | o + مکانی |",
   "exercises": [
     {
       "id": "a1-ch05-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "How do you say 'It is 7 o'clock' in Polish?",
+      "prompt": "Kasia's alarm goes off at 7:00. How does she tell her friend the time? 'It is 7 o'clock.'",
+      "prompt_fa": "ساعت زنگ کاسیا ۷ صبح به صدا در می‌آید. چطور به دوستش ساعت را می‌گوید؟ 'ساعت هفت است.'",
       "options": [
         "Jest siódma.",
         "Jest siedem.",
@@ -30,24 +31,35 @@
         "Jest siódmego."
       ],
       "correctIndex": 0,
-      "explanation": "'Jest siódma.' = It is 7 o'clock. Hours use feminine ordinal forms: siódma (7th). 'Jest siedem' would mean 'There are seven' (counting)."
+      "explanation": "'Jest siódma.' = It is 7 o'clock. Hours use feminine ordinal forms: siódma (7th). 'Jest siedem' would mean 'There are seven' (counting, not time).",
+      "explanation_fa": "'Jest siódma.' = ساعت هفت است. ساعت‌ها از اعداد ترتیبی مؤنث استفاده می‌کنند: siódma (هفتم). 'Jest siedem' یعنی 'هفت تا هست' (شمارش، نه ساعت)."
     },
     {
       "id": "a1-ch05-l04-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Jest wpół ___ szóstej. (It is half past five / 5:30.)",
       "answer": "do",
       "acceptableAnswers": [
         "do"
       ],
-      "hint": "wpół ___ [genitive of next hour]"
+      "hint": "wpół ___ [genitive of next hour] — 'half to'",
+      "explanation": "'Wpół do szóstej' = 5:30 (half to six). 'Szóstej' is genitive of szósta (6th hour). The structure is always 'wpół do' + next hour in genitive.",
+      "explanation_fa": "'Wpół do szóstej' = ۵:۳۰ (نیم به شش). 'Szóstej' مضاف‌الیهی szósta (ساعت ششم) است. ساختار همیشه 'wpół do' + ساعت بعدی در مضاف‌الیهی است.",
+      "context": "Tomek's train leaves at 5:30. Complete:",
+      "context_fa": "قطار تامک ساعت ۵:۳۰ راه می‌افتد. کامل کنید:",
+      "sentence": "Jest wpół ___ szóstej.",
+      "translation": "(It is half past five.)",
+      "translation_fa": "(ساعت نیم به شش است.)",
+      "prompt": "Jest wpół ___ szóstej.",
+      "prompt_fa": "Jest wpół ___ szóstej."
     },
     {
       "id": "a1-ch05-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch05/a1-ch05-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Za kwadrans ósma.",
         "Kwadrans po ósmej.",
@@ -55,21 +67,20 @@
         "Jest ósma."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Za kwadrans ósma.' — Quarter to eight (7:45). 'Za kwadrans' = in a quarter (of an hour). 'Ósma' = nominative (8th hour)."
+      "explanation": "You heard: 'Za kwadrans ósma.' — Quarter to eight (7:45). 'Za kwadrans' = in a quarter (of an hour). 'Ósma' = nominative (8th hour, next hour).",
+      "explanation_fa": "شنیدید: 'Za kwadrans ósma.' — ربع به هشت (۷:۴۵). 'Za kwadrans' = یک ربع دیگر. 'Ósma' = فاعلی (ساعت هشتم، ساعت بعدی)."
     },
     {
       "id": "a1-ch05-l04-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: I get up at 6 o'clock.",
+      "prompt": "Tap the words in order: I get up at 6 o'clock in the morning.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: ساعت ۶ صبح بیدار می‌شوم.",
       "wordBank": [
         "Wstaję",
-        "Wstaje",
         "o",
         "szóstej",
-        "szósta",
-        "rano",
-        "wieczorem"
+        "rano"
       ],
       "correctSequences": [
         [
@@ -77,20 +88,17 @@
           "o",
           "szóstej",
           "rano"
-        ],
-        [
-          "Wstaję",
-          "o",
-          "szóstej"
         ]
       ],
-      "explanation": "'Wstaję o szóstej rano' = I get up at 6 in the morning. 'O + locative': szósta → szóstej. 'Wstaję' = I get up (Group 1 irregular)."
+      "explanation": "'Wstaję o szóstej rano' = I get up at 6 in the morning. 'O + locative': szósta → szóstej. 'Wstaję' = I get up (1st person singular of wstawać).",
+      "explanation_fa": "'Wstaję o szóstej rano' = ساعت ۶ صبح بیدار می‌شوم. 'O + مکانی': szósta → szóstej. 'Wstaję' = بیدار می‌شوم (اول شخص مفرد wstawać)."
     },
     {
       "id": "a1-ch05-l04-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "What time is 'wpół do trzeciej'?",
+      "prompt": "Ania's flight is at 'wpół do trzeciej'. What time is that?",
+      "prompt_fa": "پرواز آنیا 'wpół do trzeciej' است. چه ساعتی است؟",
       "options": [
         "2:30",
         "3:30",
@@ -98,7 +106,98 @@
         "3:15"
       ],
       "correctIndex": 0,
-      "explanation": "'Wpół do trzeciej' = 2:30. 'Wpół do' = half to, and 'trzeciej' is genitive of 'trzecia' (3rd hour), so half to three = 2:30."
+      "explanation": "'Wpół do trzeciej' = 2:30. 'Wpół do' = half to, and 'trzeciej' is genitive of 'trzecia' (3rd hour), so half to three = 2:30. Not 3:30!",
+      "explanation_fa": "'Wpół do trzeciej' = ۲:۳۰. 'Wpół do' = نیم به، و 'trzeciej' مضاف‌الیهی 'trzecia' (ساعت سوم) است، پس نیم به سه = ۲:۳۰. نه ۳:۳۰!"
+    },
+    {
+      "id": "a1-ch05-l04-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "'Jest kwadrans po trzeciej' means...",
+      "prompt_fa": "'Jest kwadrans po trzeciej' یعنی...",
+      "options": [
+        "It's 3:15",
+        "It's 2:45",
+        "It's 3:45",
+        "It's 4:15"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Kwadrans po trzeciej' = a quarter past three = 3:15. 'Kwadrans' = 15 minutes. 'Po' + locative = past the hour.",
+      "explanation_fa": "'Kwadrans po trzeciej' = ربع بعد از سه = ۳:۱۵. 'Kwadrans' = ۱۵ دقیقه. 'Po' + مکانی = بعد از ساعت."
+    },
+    {
+      "id": "a1-ch05-l04-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "godzinie",
+      "acceptableAnswers": [
+        "godzinie"
+      ],
+      "hint": "'o godzinie ósmej' = at eight o'clock (on the dot)",
+      "explanation": "'O godzinie ósmej' = at eight o'clock. Adding 'godzinie' (locative of godzina) specifies the exact hour. Without it: 'o ósmej' is also correct and more common.",
+      "explanation_fa": "'O godzinie ósmej' = ساعت ۸. اضافه کردن 'godzinie' (مکانی godzina) ساعت دقیق را مشخص می‌کند. بدون آن: 'o ósmej' هم درست و رایج‌تر است.",
+      "context": "Kasia's train is at exactly 8 o'clock:",
+      "context_fa": "قطار کاسیا دقیقاً ساعت ۸ است:",
+      "sentence": "Pociąg jest o ___ ósmej.",
+      "translation": "",
+      "translation_fa": "",
+      "prompt": "Pociąg jest o ___ ósmej.",
+      "prompt_fa": "Pociąg jest o ___ ósmej."
+    },
+    {
+      "id": "a1-ch05-l04-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Tomek wants to ask what time it is. What does he say?",
+      "prompt_fa": "تامک می‌خواهد بپرسد ساعت چند است. چه می‌گوید؟",
+      "options": [
+        "Która godzina?",
+        "Co godzina?",
+        "Jak godzina?",
+        "Gdzie godzina?"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Która godzina?' = What time is it? (literally: Which hour?). 'Która' = which (feminine, agreeing with 'godzina' f). Also acceptable: 'Która jest godzina?'",
+      "explanation_fa": "'Która godzina?' = ساعت چند است؟ (به معنای واقعی: کدام ساعت؟). 'Która' = کدام (مؤنث، موافق با 'godzina' مؤنث). همچنین قابل قبول: 'Która jest godzina؟'"
+    },
+    {
+      "id": "a1-ch05-l04-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Marek's meeting is at half past six. Arrange the words.",
+      "prompt_fa": "جلسه مارک ساعت شش و نیم است. کلمات را به ترتیب بزنید.",
+      "wordBank": [
+        "Spotkanie",
+        "jest",
+        "o wpół do siódmej",
+        "siódma"
+      ],
+      "correctSequences": [
+        [
+          "Spotkanie",
+          "jest",
+          "o wpół do siódmej"
+        ]
+      ],
+      "explanation": "'Spotkanie jest o wpół do siódmej' = The meeting is at 6:30. 'Wpół do siódmej' = half to seven = 6:30. 'Siódmej' = genitive of siódma (7th).",
+      "explanation_fa": "'Spotkanie jest o wpół do siódmej' = جلسه ساعت ۶:۳۰ است. 'Wpół do siódmej' = نیم به هفت = ۶:۳۰. 'Siódmej' = مضاف‌الیهی siódma (هفتم)."
+    },
+    {
+      "id": "a1-ch05-l04-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch05/a1-ch05-l04-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Sklep jest otwarty od dziewiątej do osiemnastej.",
+        "Sklep jest otwarty od ósmej do osiemnastej.",
+        "Sklep jest otwarty od dziewiątej do siedemnastej.",
+        "Sklep jest zamknięty od dziewiątej do osiemnastej."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Sklep jest otwarty od dziewiątej do osiemnastej.' — The shop is open from nine to eighteen (6 pm). 'Od...do' = from...to. Ordinal numbers in genitive.",
+      "explanation_fa": "شنیدید: 'Sklep jest otwarty od dziewiątej do osiemnastej.' — مغازه از ۹ تا ۱۸ باز است. 'Od...do' = از...تا. اعداد ترتیبی در مضاف‌الیهی."
     }
   ],
   "xpReward": 20,

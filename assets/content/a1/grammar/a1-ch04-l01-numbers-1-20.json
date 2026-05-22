@@ -8,21 +8,22 @@
   "grammarPoint": "Cardinal numbers jeden through dwadzieścia",
   "grammarPoint_fa": "اعداد اصلی لهستانی از ۱ تا ۲۰",
   "explanation": {
-    "text": "Polish cardinal numbers 1–20 must be memorised. Note that **1 and 2 have gender forms**, while 3–20 are invariable (one form for all genders).\n\n| Number | Polish | Number | Polish |\n|--------|--------|--------|--------|\n| 1 | **jeden** (m) / **jedna** (f) / **jedno** (n) | 11 | **jedenaście** |\n| 2 | **dwa** (m/n) / **dwie** (f) | 12 | **dwanaście** |\n| 3 | **trzy** | 13 | **trzynaście** |\n| 4 | **cztery** | 14 | **czternaście** |\n| 5 | **pięć** | 15 | **piętnaście** |\n| 6 | **sześć** | 16 | **szesnaście** |\n| 7 | **siedem** | 17 | **siedemnaście** |\n| 8 | **osiem** | 18 | **osiemnaście** |\n| 9 | **dziewięć** | 19 | **dziewiętnaście** |\n| 10 | **dziesięć** | 20 | **dwadzieścia** |\n\nNumbers 5–20 require the **genitive plural** of the noun (covered in Ch.8).",
+    "text": "## Numbers 1–20\n\nPolish cardinal numbers 1–20 must be memorised. Note that **1 and 2 have gender forms**, while 3–20 are invariable (one form for all genders).\n\n### Complete number table\n\n| Number | Polish | Number | Polish |\n|--------|--------|--------|--------|\n| 1 | **jeden** (m) / **jedna** (f) / **jedno** (n) | 11 | **jedenaście** |\n| 2 | **dwa** (m/n) / **dwie** (f) | 12 | **dwanaście** |\n| 3 | **trzy** | 13 | **trzynaście** |\n| 4 | **cztery** | 14 | **czternaście** |\n| 5 | **pięć** | 15 | **piętnaście** |\n| 6 | **sześć** | 16 | **szesnaście** |\n| 7 | **siedem** | 17 | **siedemnaście** |\n| 8 | **osiem** | 18 | **osiemnaście** |\n| 9 | **dziewięć** | 19 | **dziewiętnaście** |\n| 10 | **dziesięć** | 20 | **dwadzieścia** |\n\n### Gender forms for 1 and 2\n\n| Number | Masculine | Feminine | Neuter | Example |\n|--------|-----------|----------|--------|---------|\n| 1 | **jeden** | **jedna** | **jedno** | jeden kot / jedna siostra / jedno okno |\n| 2 | **dwa** | **dwie** | **dwa** | dwa koty / dwie siostry / dwa okna |\n\n> 🔑 **Rule:** Numbers 3–20 never change — one form fits all genders.\n\n### Noun cases with numbers\n\n| Number | Noun form | Example |\n|--------|-----------|----------|\n| 1 | nominative singular | jeden student |\n| 2, 3, 4 | nominative plural | dwa koty, trzy siostry |\n| 5–20 | genitive plural | pięć studentów |\n\n### Pronunciation tips\n\n- **ó** sounds like English 'oo': jeden, dwadzieścia\n- **ę** is a nasal vowel: dziewięć, pięć, piętnaście\n- **ą** is nasal 'o': dwadzieścia\n- The **-naście** suffix (teen) sounds like 'nah-shcheh'\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *dwa siostry* | *dwie siostry* | siostra is feminine → dwie |\n| *jedna kot* | *jeden kot* | kot is masculine → jeden |\n| *pięć student* | *pięć studentów* | 5+ → genitive plural |",
     "notes": [
-      "jeden/jedna/jedno agree with noun gender (like adjectives).",
-      "dwa (m/n) vs. dwie (f): dwa psy (two dogs-m), dwie kobiety (two women-f).",
-      "Numbers 5–20 take genitive plural: pięć studentów = five students.",
-      "Pronunciation: ó in Polish sounds like English 'oo'; ę and ą are nasal vowels."
+      "jeden/jedna/jedno agree with noun gender: jeden brat, jedna siostra, jedno dziecko",
+      "dwa (m/n) vs. dwie (f): dwa psy (two dogs), dwie kobiety (two women)",
+      "Numbers 5–20 take genitive plural: pięć kotów = five cats (covered fully in Ch.8)",
+      "Teens pattern: trzy-naście, czter-naście, pięt-naście, szes-naście, siedem-naście..."
     ]
   },
-  "explanation_fa": "اعداد ۱ تا ۱۰: jeden/jedna، dwa/dwie، trzy، cztery، pięć، sześć، siedem، osiem، dziewięć، dziesięć. اعداد ۱۱ تا ۲۰: jedenaście، dwanaście، trzynaście، czternaście، piętnaście، szesnaście، siedemnaście، osiemnaście، dziewiętnaście، dwadzieścia.",
+  "explanation_fa": "## اعداد ۱ تا ۲۰\n\nاعداد اصلی لهستانی از ۱ تا ۲۰ باید حفظ شوند. نکته مهم: **عدد ۱ و ۲ شکل‌های جنسیتی دارند**، اما ۳ تا ۲۰ برای همه جنسیت‌ها یکسان هستند.\n\n### جدول کامل اعداد\n\n| عدد | لهستانی | عدد | لهستانی |\n|-----|---------|-----|----------|\n| ۱ | **jeden** (م) / **jedna** (مؤ) / **jedno** (خ) | ۱۱ | **jedenaście** |\n| ۲ | **dwa** (م/خ) / **dwie** (مؤ) | ۱۲ | **dwanaście** |\n| ۳ | **trzy** | ۱۳ | **trzynaście** |\n| ۴ | **cztery** | ۱۴ | **czternaście** |\n| ۵ | **pięć** | ۱۵ | **piętnaście** |\n| ۶ | **sześć** | ۱۶ | **szesnaście** |\n| ۷ | **siedem** | ۱۷ | **siedemnaście** |\n| ۸ | **osiem** | ۱۸ | **osiemnaście** |\n| ۹ | **dziewięć** | ۱۹ | **dziewiętnaście** |\n| ۱۰ | **dziesięć** | ۲۰ | **dwadzieścia** |\n\n### شکل‌های جنسیتی برای ۱ و ۲\n\n| عدد | مذکر | مؤنث | خنثی | مثال |\n|-----|------|------|------|------|\n| ۱ | **jeden** | **jedna** | **jedno** | jeden kot / jedna siostra / jedno okno |\n| ۲ | **dwa** | **dwie** | **dwa** | dwa koty / dwie siostry / dwa okna |\n\n> 🔑 **قانون:** اعداد ۳ تا ۲۰ هرگز تغییر نمی‌کنند — یک شکل برای همه جنسیت‌ها.\n\n### حالت دستوری اسم بعد از عدد\n\n| عدد | شکل اسم | مثال |\n|-----|----------|------|\n| ۱ | فاعلی مفرد | jeden student |\n| ۲، ۳، ۴ | فاعلی جمع | dwa koty، trzy siostry |\n| ۵ تا ۲۰ | مضاف‌الیهی جمع | pięć studentów |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *dwa siostry* | *dwie siostry* | siostra مؤنث است → dwie |\n| *jedna kot* | *jeden kot* | kot مذکر است → jeden |\n| *pięć student* | *pięć studentów* | ۵+ → مضاف‌الیهی جمع |",
   "exercises": [
     {
       "id": "a1-ch04-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "What is the Polish word for 7?",
+      "prompt": "Tomek is filling out a form. He needs to write his age: 7. Which is correct?",
+      "prompt_fa": "تامک دارد فرم پر می‌کند. باید سنش را بنویسد: ۷. کدام درست است؟",
       "options": [
         "siedem",
         "sześć",
@@ -30,24 +31,35 @@
         "dziewięć"
       ],
       "correctIndex": 0,
-      "explanation": "7 = siedem. Remember the sequence: pięć (5), sześć (6), siedem (7), osiem (8), dziewięć (9)."
+      "explanation": "7 = siedem. Remember the sequence: pięć (5), sześć (6), siedem (7), osiem (8), dziewięć (9). Tomek writes 'siedem'.",
+      "explanation_fa": "۷ = siedem. توالی را به خاطر بسپارید: pięć (۵)، sześć (۶)، siedem (۷)، osiem (۸)، dziewięć (۹)."
     },
     {
       "id": "a1-ch04-l01-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Mam ___ lat. (I am fifteen years old.)",
       "answer": "piętnaście",
       "acceptableAnswers": [
         "piętnaście"
       ],
-      "hint": "The number 15 in Polish"
+      "hint": "15 in Polish — pięt- + -naście (teen suffix)",
+      "explanation": "15 = piętnaście. 'Mam piętnaście lat' = I am fifteen years old. The -naście suffix creates teens (13–19).",
+      "explanation_fa": "۱۵ = piętnaście. 'Mam piętnaście lat' = ۱۵ سالم است. پسوند -naście برای اعداد ۱۳ تا ۱۹ استفاده می‌شود.",
+      "context": "Kasia says her age. Complete:",
+      "context_fa": "کاسیا دارد سنش را می‌گوید. کامل کنید:",
+      "sentence": "Mam ___ lat.",
+      "translation": "(I am fifteen years old.)",
+      "translation_fa": "(۱۵ سالم است.)",
+      "prompt": "Mam ___ lat.",
+      "prompt_fa": "Mam ___ lat."
     },
     {
       "id": "a1-ch04-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch04/a1-ch04-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Mam trzynaście lat.",
         "Mam czternaście lat.",
@@ -55,19 +67,19 @@
         "Mam dwanaście lat."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Mam trzynaście lat.' — I am thirteen years old. Trzynaście = 13."
+      "explanation": "You heard: 'Mam trzynaście lat.' — I am thirteen years old. Trzynaście = 13 (trzy = 3 + naście = teen).",
+      "explanation_fa": "شنیدید: 'Mam trzynaście lat.' — ۱۳ سالم است. Trzynaście = ۱۳ (trzy = ۳ + naście = پسوند نوجوانی)."
     },
     {
       "id": "a1-ch04-l01-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: I have two sisters. [dwie — feminine form of 2]",
+      "prompt": "Tap the words in order: I have two sisters. [dwie — feminine form of 2]",
+      "prompt_fa": "کلمات را به ترتیب بزنید: دو خواهر دارم. [dwie — شکل مؤنث ۲]",
       "wordBank": [
         "Mam",
         "dwie",
-        "dwa",
         "siostry",
-        "siostrę",
         "brata"
       ],
       "correctSequences": [
@@ -77,21 +89,114 @@
           "siostry"
         ]
       ],
-      "explanation": "'Mam dwie siostry' = I have two sisters. 'Dwie' is the feminine form of 2 (siostra is feminine). 'Siostry' is genitive of siostra."
+      "explanation": "'Mam dwie siostry' = I have two sisters. 'Dwie' is the feminine form of 2 (siostra is feminine). 'Brata' is a distractor (masculine).",
+      "explanation_fa": "'Mam dwie siostry' = دو خواهر دارم. 'Dwie' شکل مؤنث عدد ۲ است (siostra مؤنث است). 'Brata' گزینه اضافه است (مذکر)."
     },
     {
       "id": "a1-ch04-l01-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "How do you say 'one book' in Polish? [książka = feminine]",
+      "prompt": "Ania is buying one book at the shop. How does she ask? 'Proszę ___ książkę.' [książka = feminine]",
+      "prompt_fa": "آنیا دارد یک کتاب می‌خرد. چطور می‌پرسد؟ 'Proszę ___ książkę.' [książka = مؤنث]",
       "options": [
-        "jedna książka",
-        "jeden książka",
-        "jedno książka",
-        "jedną książkę"
+        "jedną",
+        "jeden",
+        "jedno",
+        "jednego"
       ],
       "correctIndex": 0,
-      "explanation": "'Jedna książka' — the number 1 agrees with the noun's gender. Książka is feminine → jedna."
+      "explanation": "'Jedną książkę' — the number 1 agrees with the noun's gender AND case. Książka is feminine, accusative = jedną. (Nominative would be jedna.)",
+      "explanation_fa": "'Jedną książkę' — عدد ۱ با جنسیت و حالت اسم موافقت می‌کند. Książka مؤنث است، حالت مفعولی = jedną."
+    },
+    {
+      "id": "a1-ch04-l01-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Marek counts the days: Monday is day one. How do you say '7' in Polish?",
+      "prompt_fa": "مارک روزها را می‌شمارد: دوشنبه روز اول است. '۷' به لهستانی چطور می‌گویند؟",
+      "options": [
+        "siedem",
+        "sześć",
+        "osiem",
+        "dziewięć"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Siedem' = 7. The sequence 6–10: sześć (6), siedem (7), osiem (8), dziewięć (9), dziesięć (10).",
+      "explanation_fa": "'Siedem' = ۷. دنباله ۶-۱۰: sześć (۶)، siedem (۷)، osiem (۸)، dziewięć (۹)، dziesięć (۱۰)."
+    },
+    {
+      "id": "a1-ch04-l01-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "pięć",
+      "acceptableAnswers": [
+        "pięć"
+      ],
+      "hint": "The number after four (cztery) is five",
+      "explanation": "'Pięć' = 5. The sequence 1–5: jeden (1), dwa (2), trzy (3), cztery (4), pięć (5).",
+      "explanation_fa": "'Pięć' = ۵. دنباله ۱-۵: jeden (۱)، dwa (۲)، trzy (۳)، cztery (۴)، pięć (۵).",
+      "context": "Kasia counts:",
+      "context_fa": "کاسیا می‌شمارد:",
+      "sentence": "jeden, dwa, trzy, cztery, ___.",
+      "translation": "(one, two, three, four, ___)",
+      "translation_fa": "(یک، دو، سه، چهار، ___)",
+      "prompt": "jeden, dwa, trzy, cztery, ___.",
+      "prompt_fa": "jeden, dwa, trzy, cztery, ___."
+    },
+    {
+      "id": "a1-ch04-l01-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Tomek has 15 books on his shelf. '15' in Polish is...",
+      "prompt_fa": "تامک ۱۵ کتاب روی قفسه‌اش دارد. '۱۵' به لهستانی...",
+      "options": [
+        "piętnaście",
+        "czternaście",
+        "szesnaście",
+        "trzynaście"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Piętnaście' = 15. Teens: -naście suffix (11–19): jedenaście, dwanaście, trzynaście, czternaście, piętnaście, szesnaście...",
+      "explanation_fa": "'Piętnaście' = ۱۵. اعداد ۱۱-۱۹: پسوند -naście: jedenaście، dwanaście، trzynaście، czternaście، piętnaście، szesnaście..."
+    },
+    {
+      "id": "a1-ch04-l01-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Ania has eleven cats. Arrange the words.",
+      "prompt_fa": "آنیا یازده گربه دارد. کلمات را به ترتیب بزنید.",
+      "wordBank": [
+        "Mam",
+        "jedenaście",
+        "kotów",
+        "koty"
+      ],
+      "correctSequences": [
+        [
+          "Mam",
+          "jedenaście",
+          "kotów"
+        ]
+      ],
+      "explanation": "'Mam jedenaście kotów' = I have eleven cats. 11+ takes genitive plural: kot → kotów. 'Koty' is nominative plural (wrong case here).",
+      "explanation_fa": "'Mam jedenaście kotów' = یازده گربه دارم. ۱۱+ مضاف‌الیهی جمع می‌گیرد: kot → kotów. 'Koty' جمع فاعلی است (حالت اشتباه اینجا)."
+    },
+    {
+      "id": "a1-ch04-l01-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch04/a1-ch04-l01-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Mam dwanaście lat i chodzę do szkoły.",
+        "Mam trzynaście lat i chodzę do szkoły.",
+        "Mam jedenaście lat i chodzę do szkoły.",
+        "Mam dwanaście lat i nie chodzę do szkoły."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Mam dwanaście lat i chodzę do szkoły.' — I am twelve years old and I go to school. 'Lat' = years (genitive plural of rok, used after 5+).",
+      "explanation_fa": "شنیدید: 'Mam dwanaście lat i chodzę do szkoły.' — دوازده سال دارم و به مدرسه می‌روم. 'Lat' = سال‌ها (مضاف‌الیهی جمع rok، بعد از ۵+ استفاده می‌شود)."
     }
   ],
   "xpReward": 20,

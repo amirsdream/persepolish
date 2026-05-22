@@ -1,0 +1,85 @@
+{
+  "id": "b2-ch01-l02-habitual-vs-single",
+  "chapter": 1,
+  "lessonOrder": 2,
+  "level": "b2",
+  "title": "Habitual vs. Single Action: Advanced Distinctions",
+  "title_fa": "عمل عادتی در مقابل منفرد: تمایزات پیشرفته",
+  "grammarPoint": "Fine-grained aspect distinctions: bywać vs. być, jadać vs. jeść; frequentative verbs; aspect in proverbs and general truths",
+  "grammarPoint_fa": "تمایزات دقیق جنبه: bywać در مقابل być، jadać در مقابل jeść؛ افعال تکراری؛ جنبه در ضرب‌المثل‌ها و حقایق کلی",
+  "explanation": {
+    "text": "**At B2, aspect distinctions become more nuanced:**\n\n**1. Frequentative (habitual) verbs — special imperfectives:**\nPolish has a secondary imperfective for habitual/intermittent actions:\n- być → **bywać** (to sometimes be, to visit occasionally)\n  - *Bywam w tej kawiarni.* (I sometimes visit this café.)\n- jeść → **jadać** (to regularly eat)\n  - *Jadamy razem w niedzielę.* (We regularly eat together on Sundays.)\n- pisać → **pisywać** (to occasionally write)\n- czytać → **czytywać** (to regularly/habitually read)\n- mówić → **mawiać** (to be wont to say)\n\n**Pattern:** base + -ywać/-iwać suffix = frequentative (intermittent habit)\n\n**2. Aspect in general truths and proverbs:**\nImperfective in: *Słońce świeci każdego dnia.* (The sun shines every day — general truth)\nBut: imperfective vs. perfective can both appear:\n- *Czyta szybko.* (She reads quickly — habitual/general)\n- *Przeczyta szybko.* (She will read quickly — future prediction)\n\n**3. Aspect and negation subtlety:**\n- Nie przeczytałem = I did NOT read/finish (negated perfective event)\n- Nie czytałem = I was NOT reading / I didn't read (negated process/habit)\n- *Wczoraj nie przeczytałem gazety* = I didn't read the newspaper (didn't complete)\n- *W czasie wakacji nie czytałem* = I didn't read during the holidays (general)\n\n**4. Imperfective for polite/hedged requests:**\n- *Chciałem zapytać...* (I wanted to ask... — more polite than chcę)\n- *Mógłbym prosić...?* (Could I ask...? — imperfective conditional = politeness)\n- *Przychodziłem zapytać...* (I came to ask... — softer than 'przyszedłem')\n\n**5. Aspect with 'jeszcze' and 'już':**\n- *Jeszcze czytam* = I'm still reading (imperf ongoing)\n- *Już przeczytałem* = I've already read/finished (perf completed)\n- *Już nie czytam* = I no longer read (imperf, stopped habit)",
+    "notes": [
+      "Frequentative verbs (-ywać/-iwać) are more specific than regular imperfectives: bywać = occasionally, jadać = regularly",
+      "Aspect in negation: nie przeczytałem (didn't finish) vs. nie czytałem (didn't engage at all)",
+      "Imperfective conditional (chciałem, mógłbym) = polite hedging in requests",
+      "'Już' with perfective = already done; 'jeszcze' with imperfective = still ongoing"
+    ]
+  },
+  "explanation_fa": "در B2، تمایزات جنبه دقیق‌تر می‌شوند: ۱) افعال تکراری: bywać (گاهی بودن)، jadać (به طور منظم خوردن)، pisywać. الگو: پسوند -ywać/-iwać = عادت متناوب. ۲) جنبه در حقایق کلی و ضرب‌المثل‌ها: معمولاً ناکامل. ۳) جنبه و نفی: nie przeczytałem (کامل نکرد) در مقابل nie czytałem (اصلاً نخواند). ۴) ناکامل برای درخواست مؤدبانه/احتیاطی: chciałem zapytać...، mógłbym prosić...؟ ۵) جنبه با 'jeszcze' و 'już': jeszcze czytam (هنوز دارم می‌خوانم) در مقابل już przeczytałem (قبلاً خواندم).",
+  "exercises": [
+    {
+      "id": "b2-ch01-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "What does 'bywać' mean compared to 'być'?",
+      "prompt_fa": "'bywać' در مقایسه با 'być' چه معنایی دارد؟",
+      "options": [
+        "To occasionally be/visit (frequentative — intermittent habit)",
+        "To always be somewhere (more frequent than być)",
+        "To have been (perfect aspect of być)",
+        "To become (resultative meaning)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Bywać' = frequentative of 'być' = to occasionally be, to sometimes visit. 'Bywam w tej restauracji' = I sometimes go to that restaurant (occasional habit).",
+      "explanation_fa": "'Bywać' = تکراری 'być' = گاهی بودن، گاهی بازدید کردن. 'Bywam w tej restauracji' = گاهی به آن رستوران می‌روم (عادت متناوب)."
+    },
+    {
+      "id": "b2-ch01-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Make a polite request: 'I wanted to ask about...' (softer than 'chcę zapytać'):",
+      "context_fa": "یک درخواست مؤدبانه بسازید: 'می‌خواستم بپرسم درباره...' (نرم‌تر از 'chcę zapytać'):",
+      "sentence": "___ zapytać o godziny otwarcia.",
+      "prompt": "___ zapytać o godziny otwarcia.",
+      "prompt_fa": "___ zapytać o godziny otwarcia.",
+      "answer": "Chciałem",
+      "acceptableAnswers": ["Chciałem", "Chciałam"],
+      "hint": "chcieć (imperfective) → conditional past = chciałem/chciałam (I wanted to — polite hedge)",
+      "explanation": "'Chciałem zapytać o godziny otwarcia.' — I wanted to ask about the opening hours. Imperfective conditional past = polite, hedged request (I was wanting = soft approach).",
+      "explanation_fa": "'Chciałem zapytać o godziny otwarcia.' — می‌خواستم درباره ساعات کاری بپرسم. شرطی ناکامل گذشته = درخواست مؤدبانه، محتاطانه."
+    },
+    {
+      "id": "b2-ch01-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b2/ch01/b2-ch01-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Jeszcze nie przeczytałem tej książki.",
+        "Już przeczytałem tę książkę.",
+        "Jeszcze czytałem tę książkę.",
+        "Już nie czytam tej książki."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Jeszcze nie przeczytałem' = I still haven't read (haven't completed yet). Compare: 'już przeczytałem' = I have already read (completed). The contrast of jeszcze/już with perfective is key.",
+      "explanation_fa": "'Jeszcze nie przeczytałem' = هنوز نخوانده‌ام (هنوز تمام نکرده‌ام). مقایسه: 'już przeczytałem' = قبلاً خواندم (کامل). تضاد jeszcze/już با کامل کلیدی است."
+    },
+    {
+      "id": "b2-ch01-l02-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: We regularly eat together on Sundays. (Use frequentative 'jadać')",
+      "prompt_fa": "بسازید: ما به طور منظم یکشنبه‌ها با هم غذا می‌خوریم. (از تکراری 'jadać' استفاده کنید)",
+      "wordBank": ["Jadamy", "razem", "w", "niedzielę", "Jemy", "każdą"],
+      "correctSequences": [["Jadamy", "razem", "w", "niedzielę"]],
+      "explanation": "'Jadamy razem w niedzielę.' — We regularly/habitually eat together on Sundays. 'Jadamy' = frequentative of jeść (to eat), implying a regular established habit.",
+      "explanation_fa": "'Jadamy razem w niedzielę.' — ما به طور منظم یکشنبه‌ها با هم غذا می‌خوریم. 'Jadamy' = تکراری jeść (خوردن)، دلالت بر عادت منظم دارد."
+    }
+  ],
+  "xpReward": 25,
+  "estimatedMinutes": 12,
+  "tags": ["aspect", "habitual", "frequentative", "b2-core"],
+  "prerequisites": ["b2-ch01-l01"]
+}

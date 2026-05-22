@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch13-l02-fronting-emphasis",
+  "chapter": 13,
+  "lessonOrder": 2,
+  "level": "b1",
+  "title": "Fronting for Emphasis and Contrast",
+  "title_fa": "پیش‌آوردن برای تأکید و تضاد",
+  "grammarPoint": "Moving elements to sentence-initial position for contrast or emphatic focus in Polish",
+  "grammarPoint_fa": "انتقال عناصر به ابتدای جمله برای تضاد یا تأکید در لهستانی",
+  "explanation": {
+    "text": "In Polish, moving an element to the **front** of a sentence creates **contrast** or **emphatic focus**:\n\n**Contrastive fronting:**\n- Normal: Ja lubię kawę, a Marek herbatę.\n  (I like coffee, and Marek tea.)\n- Fronted for contrast: **Kawę** lubię ja, **herbatę** Marek.\n  (Coffee — that's what I like; tea — that's what Marek likes.)\n\n**Emphatic fronting of the subject:**\n- **Marek** to zrobił! (It was Marek who did it! — not someone else)\n- **Ona** mi powiedziała! (It was SHE who told me!)\n- **Ja** za to nie odpowiadam. (It's not ME who is responsible for that.)\n\n**'To' as focus marker:**\n- Marek **to** dobry człowiek. (Marek — he's a good person. 'To' marks Marek as topic)\n- Ta książka **to** arcydzieło. (This book — it's a masterpiece.)\n- Matematyka **to** trudny przedmiot. (Mathematics — that's a difficult subject.)\n\n**Fronting objects:**\n- **Tę książkę** już czytałem. (This book — I've already read it. Known object fronted.)\n- **O tym** już rozmawialiśmy. (About this — we already talked.)\n- **Takie zachowanie** jest niedopuszczalne! (Such behavior is unacceptable!)\n\n**Fronting adverbials:**\n- **Wczoraj** spotkałem Marka. (Yesterday I met Marek.)\n- **W Krakowie** mieszka moja siostra. (In Kraków lives my sister.)",
+    "notes": [
+      "Fronting = moving any element to sentence-initial position for emphasis",
+      "'To' after a fronted noun = topic marker (not the verb 'be')",
+      "Contrastive focus: the contrasted element moves front",
+      "Subject fronting with stress = 'it was X who did it'"
+    ]
+  },
+  "explanation_fa": "در لهستانی، انتقال یک عنصر به ابتدای جمله تضاد یا تأکید می‌سازد: 'Kawę lubię ja, herbatę Marek' (قهوه را من دوست دارم، چای را مارک). 'Marek to zrobił!' (این ماریک بود که این کار را کرد!). 'To' بعد از اسم پیش‌آمده نشانه موضوع است: 'Matematyka to trudny przedmiot' (ریاضی، آن یک موضوع دشوار است). پیش‌آوردن مفعول‌های شناخته‌شده: 'Tę książkę już czytałem' (این کتاب را قبلاً خوانده‌ام).",
+  "exercises": [
+    {
+      "id": "b1-ch13-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "You want to say 'It was ANNA who called (not someone else)'. Which word order shows this contrast?",
+      "prompt_fa": "می‌خواهید بگویید 'این آنا بود که زنگ زد (نه کس دیگری)'. کدام ترتیب کلمات این تضاد را نشان می‌دهد؟",
+      "options": [
+        "Anna zadzwoniła.",
+        "Zadzwoniła Anna.",
+        "To Anna zadzwoniła.",
+        "Anna to zadzwoniła."
+      ],
+      "correctIndex": 2,
+      "explanation": "'To Anna zadzwoniła.' — 'To' + fronted subject creates the 'it was Anna who...' emphatic/contrastive meaning.",
+      "explanation_fa": "'To Anna zadzwoniła.' — 'To' + فاعل پیش‌آمده معنی تأکیدی 'این آنا بود که...' می‌سازد."
+    },
+    {
+      "id": "b1-ch13-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "You've already read this book. Express that 'this book' is the known topic:",
+      "context_fa": "شما قبلاً این کتاب را خوانده‌اید. بیان کنید که 'این کتاب' موضوع شناخته‌شده است:",
+      "sentence": "___ już czytałem.",
+      "prompt": "___ już czytałem.",
+      "prompt_fa": "___ już czytałem.",
+      "answer": "Tę książkę",
+      "acceptableAnswers": ["Tę książkę", "tę książkę"],
+      "hint": "Front the known object (accusative): tę książkę",
+      "explanation": "'Tę książkę już czytałem.' — This book I've already read. The object 'tę książkę' is fronted as known topic.",
+      "explanation_fa": "'Tę książkę już czytałem.' — این کتاب را قبلاً خوانده‌ام. مفعول 'tę książkę' به‌عنوان موضوع شناخته پیش آمده."
+    },
+    {
+      "id": "b1-ch13-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch13/b1-ch13-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Kawę piję rano, herbatę wieczorem.",
+        "Piję kawę rano i herbatę wieczorem.",
+        "Kawę piję, a rano herbatę wieczorem.",
+        "Rano piję kawę, a herbatę wieczorem."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Kawę piję rano, herbatę wieczorem.' — Coffee I drink in the morning, tea in the evening. Objects fronted for contrast (coffee vs. tea).",
+      "explanation_fa": "'Kawę piję rano, herbatę wieczorem.' — قهوه صبح می‌خورم، چای عصر. مفعول‌ها برای تضاد (قهوه در مقابل چای) پیش آمده‌اند."
+    },
+    {
+      "id": "b1-ch13-l02-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build with emphasis: 'Mathematics — that is a difficult subject.'",
+      "prompt_fa": "با تأکید بسازید: 'ریاضی — آن یک موضوع دشوار است.'",
+      "wordBank": ["Matematyka", "to", "jest", "trudny", "przedmiot", "Matematyką"],
+      "correctSequences": [["Matematyka", "to", "trudny", "przedmiot"]],
+      "explanation": "'Matematyka to trudny przedmiot.' — Mathematics is a difficult subject. 'To' marks 'matematyka' as topic; predicate is the comment.",
+      "explanation_fa": "'Matematyka to trudny przedmiot.' — ریاضی یک موضوع دشوار است. 'To' 'matematyka' را موضوع نشان می‌دهد؛ گزاره توضیح است."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["word-order", "fronting", "emphasis", "b1-core"],
+  "prerequisites": ["b1-ch13-l01"]
+}

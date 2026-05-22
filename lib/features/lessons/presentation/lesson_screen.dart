@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
@@ -39,7 +40,8 @@ class _LessonScreenState extends ConsumerState<LessonScreen> {
       data: (unit) => _LessonView(
         unit: unit,
         teachingLang: teachingLang,
-        showingExercises: _showingExercises,
+        // Revision quizzes jump straight to exercises — no explanation card
+        showingExercises: _showingExercises || unit.isRevision,
         onStartExercises: () => setState(() => _showingExercises = true),
         onComplete: (accuracy) => _onComplete(context, ref, unit, accuracy),
       ),
@@ -166,11 +168,15 @@ class _ExplanationCard extends StatelessWidget {
                         const SizedBox(height: Spacing.sm),
                         Semantics(
                           label: explanation,
-                          child: Text(explanation,
-                              style: theme.textTheme.bodyLarge,
-                              textDirection: isFa
-                                  ? TextDirection.rtl
-                                  : TextDirection.ltr),
+                          child: Directionality(
+                            textDirection:
+                                isFa ? TextDirection.rtl : TextDirection.ltr,
+                            child: MarkdownBody(
+                              data: explanation,
+                              styleSheet: _darkMarkdownStyle(theme),
+                              softLineBreak: true,
+                            ),
+                          ),
                         ),
                       ],
                     ),
@@ -206,6 +212,97 @@ class _ExplanationCard extends StatelessWidget {
     );
   }
 }
+
+// ── Dark-mode markdown stylesheet ─────────────────────────────────────────────
+//
+// Strategy: start from fromTheme() so all base styles inherit from the app's
+// dark ThemeData, then copyWith() only the things that look wrong on dark navy.
+//
+// Root cause of the colour issue:
+//   flutter_markdown's tableCellsDecoration defaults to
+//   CupertinoColors.systemGrey6.darkColor (#1C1C1E) which shows as near-black
+//   zebra stripes on our navy surface (#16213E). We override it with a subtle
+//   navy tint instead.
+
+MarkdownStyleSheet _darkMarkdownStyle(ThemeData theme) {
+  // Zebra-stripe colour: slightly lighter than surface, on-brand navy
+  const zebraStripe = Color(0xFF1A2F55);
+  // Code background: dark but distinct from card surface
+  const codeBg = Color(0xFF0D1F38);
+  // Visible-but-subtle border for tables on dark bg
+  final tableBorderColor = AppColors.onSurfaceVariant.withValues(alpha: 0.20);
+
+  return MarkdownStyleSheet.fromTheme(theme).copyWith(
+    // Body paragraphs use the full body text colour (not muted variant)
+    p: theme.textTheme.bodyLarge?.copyWith(color: AppColors.onSurface),
+
+    // Headings: use primary brand colour so ## and ### pop out
+    h1: theme.textTheme.titleLarge?.copyWith(
+        color: AppColors.primary, height: 1.5),
+    h2: theme.textTheme.titleMedium?.copyWith(
+        color: AppColors.primary, height: 1.5),
+    h3: theme.textTheme.bodyLarge?.copyWith(
+        color: AppColors.primary, fontWeight: FontWeight.w700, height: 1.4),
+
+    // Strong / em
+    strong: theme.textTheme.bodyLarge?.copyWith(
+        color: AppColors.onSurface, fontWeight: FontWeight.w700),
+    em: theme.textTheme.bodyLarge?.copyWith(
+        color: AppColors.onSurface, fontStyle: FontStyle.italic),
+
+    // Lists
+    listBullet: theme.textTheme.bodyLarge?.copyWith(color: AppColors.primary),
+
+    // Tables ─────────────────────────────────────────────────────────────────
+    tableHead: theme.textTheme.bodyMedium?.copyWith(
+      color: AppColors.onSurface,
+      fontWeight: FontWeight.w700,
+    ),
+    tableBody: theme.textTheme.bodyMedium?.copyWith(
+      color: AppColors.onSurface,
+    ),
+    tableHeadAlign: TextAlign.center,
+    tableBorder: TableBorder.all(color: tableBorderColor, width: 1),
+    tableColumnWidth: const FlexColumnWidth(),
+    tableCellsPadding:
+        const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+    // KEY FIX: replace the near-black CupertinoSystemGrey6 zebra stripe with
+    // a subtle navy tint that blends with our dark card surface.
+    tableCellsDecoration: const BoxDecoration(color: zebraStripe),
+
+    // Block quotes ────────────────────────────────────────────────────────────
+    blockquote: theme.textTheme.bodyLarge?.copyWith(
+        color: AppColors.onSurfaceVariant, fontStyle: FontStyle.italic),
+    blockquoteDecoration: BoxDecoration(
+      color: const Color(0xFF0F2347),
+      borderRadius: BorderRadius.circular(6),
+      border: const Border(
+          left: BorderSide(color: AppColors.primary, width: 3)),
+    ),
+    blockquotePadding:
+        const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+
+    // Code ────────────────────────────────────────────────────────────────────
+    code: theme.textTheme.bodyMedium?.copyWith(
+      fontFamily: 'monospace',
+      color: const Color(0xFFB8D4FF),
+      backgroundColor: codeBg,
+    ),
+    codeblockDecoration: BoxDecoration(
+      color: codeBg,
+      borderRadius: BorderRadius.circular(8),
+    ),
+    codeblockPadding: const EdgeInsets.all(12),
+
+    // Horizontal rule
+    horizontalRuleDecoration: const BoxDecoration(
+      border: Border(
+          top: BorderSide(color: AppColors.surfaceVariant, width: 1)),
+    ),
+  );
+}
+
+// ── Example tile ──────────────────────────────────────────────────────────────
 
 class _ExampleTile extends StatelessWidget {
   const _ExampleTile({required this.example, required this.teachingLang});

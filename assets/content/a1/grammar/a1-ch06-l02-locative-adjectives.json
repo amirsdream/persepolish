@@ -8,21 +8,22 @@
   "grammarPoint": "Adjectives in the locative case: w dużym domu, w małej szkole, w starym mieście",
   "grammarPoint_fa": "پسوندهای صفت در حالت مکانی: -ym/-im (مذکر/خنثی)، -ej (مؤنث)",
   "explanation": {
-    "text": "Adjectives must agree with nouns in **gender, number, and case**. In the locative singular, adjectives take these endings:\n\n**Locative singular adjective endings:**\n\n| Gender | Ending | Example |\n|--------|--------|--------|\n| Masculine / Neuter | **-ym / -im** | duży → dużym, nowy → nowym, stary → starym |\n| Feminine | **-ej** | duża → dużej, nowa → nowej, stara → starej |\n\n**Examples:**\n- w dużym domu = in a big house (m)\n- w nowym sklepie = in a new shop (m)\n- w małej szkole = in a small school (f)\n- w starym mieście = in an old city (n)\n- w centrum miasta = in the city centre (genitive, not locative)\n\n**Full phrases:**\n- Mieszkam w małym mieszkaniu. = I live in a small flat.\n- Pracuję w dużej firmie. = I work in a big company.\n- Jestem w nowym kinie. = I am in the new cinema.",
+    "text": "## Locative Case — Adjective Agreement\n\nAdjectives must agree with nouns in **gender, number, and case**. In the locative singular, adjectives take these endings:\n\n### Locative singular adjective endings\n\n| Gender | Adjective ending | Examples |\n|--------|------------------|----------|\n| Masculine / Neuter | **-ym** (hard stems) | duży → dużym, nowy → nowym, stary → starym |\n| Masculine / Neuter | **-im** (soft stems, k/g) | tani → tanim, wielki → wielkim |\n| Feminine | **-ej** | duża → dużej, nowa → nowej, stara → starej |\n\n> 🔑 **Rule:** Masculine and neuter share the SAME adjective ending: -ym/-im. Feminine always takes -ej.\n\n### Complete adjective locative table\n\n| Nominative m/f/n | Locative m | Locative f | Locative n | English |\n|------------------|------------|------------|------------|----------|\n| duży/duża/duże | dużym | dużej | dużym | big |\n| mały/mała/małe | małym | małej | małym | small |\n| nowy/nowa/nowe | nowym | nowej | nowym | new |\n| stary/stara/stare | starym | starej | starym | old |\n| dobry/dobra/dobre | dobrym | dobrej | dobrym | good |\n\n### Examples in context\n\n| Polish | English |\n|--------|---------|\n| Mieszkam w dużym **domu**. | I live in a big house. (m) |\n| Pracuję w nowym **sklepie**. | I work in a new shop. (m) |\n| Uczę się w małej **szkole**. | I study in a small school. (f) |\n| Jestem w starym **mieście**. | I am in an old city. (n) |\n| Siedzę w wygodnym **fotelu**. | I'm sitting in a comfortable armchair. (m) |\n\n### Locative adjective = dative adjective (same form!)\n\nThe locative and dative singular adjective endings are IDENTICAL:\n- dużym (locative m/n) = dużym (dative m/n)\n- dużej (locative f) = dużej (dative f)\n\nThis saves learning effort — same form, two uses!\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *w dużej domu* | *w **dużym** domu* | dom is masculine → -ym |\n| *w małym szkole* | *w małej **szkole*** | szkoła is feminine → -ej |\n| *w stary mieście* | *w **starym** mieście* | adjective must decline |",
     "notes": [
-      "Masculine and neuter share the same adjective endings in locative: -ym (hard) or -im (after soft/k/g): dużym, małym, nowym.",
-      "Feminine adjective locative is always -ej: małej, nowej, starej, dużej.",
-      "Adjective ending -ym/-im follows the noun: w dużym → big house (m/n); w dużej → big school (f).",
-      "The locative of adjectives is identical to dative — you will see this pattern again with dative."
+      "Masculine and neuter both take -ym (or -im for soft/k/g stems) in locative",
+      "Feminine always takes -ej in locative singular",
+      "Locative adjective endings = dative adjective endings (same form for both cases)",
+      "Word order: preposition + adjective + noun: w dużym domu"
     ]
   },
-  "explanation_fa": "صفات در حالت مکانی با جنسیت اسم تطبیق می‌یابند: مذکر/خنثی: -ym/-im (w dużym domu — در خانه بزرگ)، مؤنث: -ej (w dużej szkole — در مدرسه بزرگ). این قاعده برای همه صفات اعمال می‌شود.",
+  "explanation_fa": "## حالت مکانی — تطبیق صفت\n\nصفات باید با اسم‌ها در **جنسیت، تعداد و حالت** تطبیق داشته باشند. در مکانی مفرد، صفات این پسوندها را می‌گیرند:\n\n### پسوندهای صفت مکانی مفرد\n\n| جنسیت | پسوند صفت | مثال‌ها |\n|--------|-----------|----------|\n| مذکر / خنثی | **-ym** (ریشه سخت) | duży → dużym، nowy → nowym |\n| مذکر / خنثی | **-im** (ریشه نرم) | tani → tanim |\n| مؤنث | **-ej** | duża → dużej، nowa → nowej |\n\n> 🔑 **قانون:** مذکر و خنثی هر دو پسوند **یکسان** دارند: -ym/-im. مؤنث همیشه -ej می‌گیرد.\n\n### جدول کامل صفت مکانی\n\n| فاعلی م/مؤ/خ | مکانی م | مکانی مؤ | مکانی خ | فارسی |\n|--------------|---------|----------|---------|-------|\n| duży/duża/duże | dużym | dużej | dużym | بزرگ |\n| mały/mała/małe | małym | małej | małym | کوچک |\n| nowy/nowa/nowe | nowym | nowej | nowym | جدید |\n| stary/stara/stare | starym | starej | starym | قدیمی |\n\n### مثال‌ها در زمینه\n\n| لهستانی | فارسی |\n|---------|-------|\n| Mieszkam w dużym **domu**. | در یک خانه بزرگ زندگی می‌کنم. (م) |\n| Uczę się w małej **szkole**. | در یک مدرسه کوچک درس می‌خوانم. (مؤ) |\n| Jestem w starym **mieście**. | در یک شهر قدیمی هستم. (خ) |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *w dużej domu* | *w **dużym** domu* | dom مذکر است → -ym |\n| *w małym szkole* | *w małej **szkole*** | szkoła مؤنث است → -ej |\n| *w stary mieście* | *w **starym** mieście* | صفت باید صرف شود |",
   "exercises": [
     {
       "id": "a1-ch06-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Mieszkam w ___ domu. (I live in a big house.) [duży → locative m]",
+      "prompt": "Tomek's family has a big house. Complete: Mieszkam w ___ domu. (I live in a big house.) [duży → locative m]",
+      "prompt_fa": "خانواده تامک یک خانه بزرگ دارند. کامل کنید: Mieszkam w ___ domu. (در یک خانه بزرگ زندگی می‌کنم.) [duży → مکانی م]",
       "options": [
         "dużym",
         "duży",
@@ -30,24 +31,35 @@
         "dużego"
       ],
       "correctIndex": 0,
-      "explanation": "'Duży' (big) + masculine 'dom' → locative: 'dużym'. 'Mieszkam w dużym domu' = I live in a big house."
+      "explanation": "'Duży' (big) + masculine 'dom' → locative: 'dużym'. 'Mieszkam w dużym domu' = I live in a big house. Masculine locative adjective = -ym.",
+      "explanation_fa": "'Duży' (بزرگ) + مذکر 'dom' → مکانی: 'dużym'. 'Mieszkam w dużym domu' = در یک خانه بزرگ زندگی می‌کنم. صفت مکانی مذکر = -ym."
     },
     {
       "id": "a1-ch06-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Pracuję w ___ szkole. (I work in a big school.) [duży → f locative]",
       "answer": "dużej",
       "acceptableAnswers": [
         "dużej"
       ],
-      "hint": "Feminine adjective in locative: -ej"
+      "hint": "Feminine adjective in locative: always -ej",
+      "explanation": "'Szkoła' is feminine → adjective takes -ej in locative: 'dużej'. 'Pracuję w dużej szkole' = I work in a big school.",
+      "explanation_fa": "'Szkoła' مؤنث است → صفت در مکانی -ej می‌گیرد: 'dużej'. 'Pracuję w dużej szkole' = در یک مدرسه بزرگ کار می‌کنم.",
+      "context": "Ania teaches at a big school. Complete:",
+      "context_fa": "آنیا در یک مدرسه بزرگ تدریس می‌کند. کامل کنید:",
+      "sentence": "Pracuję w ___ szkole.",
+      "translation": "(I work in a big school.) [duży → f locative]",
+      "translation_fa": "(در یک مدرسه بزرگ کار می‌کنم.) [duży → مکانی مؤنث]",
+      "prompt": "Pracuję w ___ szkole.",
+      "prompt_fa": "Pracuję w ___ szkole."
     },
     {
       "id": "a1-ch06-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch06/a1-ch06-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Mieszkam w małym mieszkaniu.",
         "Mieszkam w małej mieszkaniu.",
@@ -55,41 +67,38 @@
         "Mieszkam w małe mieszkanie."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Mieszkam w małym mieszkaniu.' — I live in a small flat. 'Mieszkanie' (neuter) + 'mały' → locative: 'małym mieszkaniu'."
+      "explanation": "You heard: 'Mieszkam w małym mieszkaniu.' — I live in a small flat. 'Mieszkanie' (neuter) + 'mały' → locative: 'małym mieszkaniu'. Neuter uses -ym (same as masculine).",
+      "explanation_fa": "شنیدید: 'Mieszkam w małym mieszkaniu.' — در یک آپارتمان کوچک زندگی می‌کنم. 'Mieszkanie' (خنثی) + 'mały' → مکانی: 'małym mieszkaniu'. خنثی -ym استفاده می‌کند (مثل مذکر)."
     },
     {
       "id": "a1-ch06-l02-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: She works in a new company.",
+      "prompt": "Tap the words in order: She works in a new company.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: او در یک شرکت جدید کار می‌کند.",
       "wordBank": [
         "Ona",
         "pracuje",
-        "pracuję",
         "w",
-        "nowej",
-        "nowym",
-        "nowy",
-        "firmie",
-        "firma",
-        "firmy"
+        "nowej firmie"
       ],
       "correctSequences": [
         [
           "Ona",
           "pracuje",
           "w",
-          "nowej",
-          "firmie"
+          "nowej firmie"
         ]
       ],
-      "explanation": "'Ona pracuje w nowej firmie' = She works in a new company. 'Firma' (feminine) → locative 'firmie'; 'nowy' (f) → 'nowej'."
+      "explanation": "'Ona pracuje w nowej firmie' = She works in a new company. 'Firma' (feminine) → locative 'firmie'; 'nowy' (f) → 'nowej'.",
+      "explanation_fa": "'Ona pracuje w nowej firmie' = او در یک شرکت جدید کار می‌کند. 'Firma' (مؤنث) → مکانی 'firmie'؛ 'nowy' (مؤنث) → 'nowej'."
     },
     {
       "id": "a1-ch06-l02-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Jestem w ___ mieście. (I am in an old city.) [stary → n locative]",
+      "prompt": "Marek is visiting an old city. Complete: Jestem w ___ mieście. (I am in an old city.) [stary → n locative]",
+      "prompt_fa": "ماریک دارد از یک شهر قدیمی بازدید می‌کند. کامل کنید: Jestem w ___ mieście. (در یک شهر قدیمی هستم.) [stary → مکانی خنثی]",
       "options": [
         "starym",
         "starej",
@@ -97,7 +106,97 @@
         "starego"
       ],
       "correctIndex": 0,
-      "explanation": "'Stary' + neuter 'miasto' → locative: 'starym mieście'. Neuter adjectives take -ym (same as masculine)."
+      "explanation": "'Stary' + neuter 'miasto' → locative: 'starym mieście'. Neuter adjectives take -ym (same as masculine).",
+      "explanation_fa": "'Stary' + خنثی 'miasto' → مکانی: 'starym mieście'. صفات خنثی -ym می‌گیرند (مثل مذکر)."
+    },
+    {
+      "id": "a1-ch06-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Tomek lives in a big city (m: duży). 'In a big city' = 'w ___ mieście'. [duży → n locative]",
+      "prompt_fa": "تامک در یک شهر بزرگ زندگی می‌کند (م: duży). 'در یک شهر بزرگ' = 'w ___ mieście'. [duży → مکانی خنثی]",
+      "options": [
+        "dużym",
+        "dużej",
+        "duże",
+        "duży"
+      ],
+      "correctIndex": 0,
+      "explanation": "Neuter noun 'miasto' → locative adjective -ym: duży → dużym. 'W dużym mieście' = in a big city. Masculine and neuter both use -ym/-im.",
+      "explanation_fa": "اسم خنثی 'miasto' → صفت مکانی -ym: duży → dużym. 'W dużym mieście' = در یک شهر بزرگ. مذکر و خنثی هر دو از -ym/-im استفاده می‌کنند."
+    },
+    {
+      "id": "a1-ch06-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "starszej",
+      "acceptableAnswers": [
+        "starszej"
+      ],
+      "hint": "Feminine locative adjective ends in -ej",
+      "explanation": "Feminine locative adjective: starsza → starszej (-ej ending). 'W pokoju starszej siostry' = in the older sister's room.",
+      "explanation_fa": "صفت مکانی مؤنث: starsza → starszej (پسوند -ej). 'W pokoju starszej siostry' = در اتاق خواهر بزرگ‌تر.",
+      "context": "Ania goes with her older sister. Complete:",
+      "context_fa": "آنیا با خواهر بزرگ‌ترش می‌رود. کامل کنید:",
+      "sentence": "w pokoju ___ siostry.",
+      "translation": "(in an older sister's room) [starsza → f locative adj]",
+      "translation_fa": "(در اتاق خواهر بزرگ‌تر) [starsza → صفت مکانی مؤنث]",
+      "prompt": "w pokoju ___ siostry.",
+      "prompt_fa": "w pokoju ___ siostry."
+    },
+    {
+      "id": "a1-ch06-l02-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Kasia remembers: the locative adjective ending for feminine nouns is...",
+      "prompt_fa": "کاسیا به یاد می‌آورد: پسوند صفت مکانی برای اسم‌های مؤنث...",
+      "options": [
+        "-ej",
+        "-ym",
+        "-im",
+        "-ą"
+      ],
+      "correctIndex": 0,
+      "explanation": "Feminine locative adjective = -ej. Summary: masculine/neuter = -ym/-im; feminine = -ej. 'W nowej szkole' (f), 'w nowym biurze' (n), 'w nowym sklepie' (m).",
+      "explanation_fa": "صفت مکانی مؤنث = -ej. خلاصه: مذکر/خنثی = -ym/-im؛ مؤنث = -ej. 'W nowej szkole' (م)، 'w nowym biurze' (خ)، 'w nowym sklepie' (مذکر)."
+    },
+    {
+      "id": "a1-ch06-l02-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Marek says they are in a new school. Arrange the words.",
+      "prompt_fa": "مارک می‌گوید آن‌ها در یک مدرسه جدید هستند. کلمات را به ترتیب بزنید.",
+      "wordBank": [
+        "Jesteśmy",
+        "w nowej szkole",
+        "w nową szkołę",
+        "szkole"
+      ],
+      "correctSequences": [
+        [
+          "Jesteśmy",
+          "w nowej szkole"
+        ]
+      ],
+      "explanation": "'Jesteśmy w nowej szkole' = We are in a new school. 'Nowej szkole' = feminine locative: nowy → nowej, szkoła → szkole.",
+      "explanation_fa": "'Jesteśmy w nowej szkole' = در یک مدرسه جدید هستیم. 'Nowej szkole' = مکانی مؤنث: nowy → nowej، szkoła → szkole."
+    },
+    {
+      "id": "a1-ch06-l02-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch06/a1-ch06-l02-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Tomek pracuje w dużym biurze na trzecim piętrze.",
+        "Tomek pracuje w dużym biuro na trzecim piętrze.",
+        "Tomek pracuje w dużej biurze na trzecim piętrze.",
+        "Tomek pracuje w duże biurze na trzecim piętrze."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Tomek pracuje w dużym biurze na trzecim piętrze.' — Tomek works in a big office on the third floor. Biuro (n) → biurze (loc.); duży (n) → dużym.",
+      "explanation_fa": "شنیدید: 'Tomek pracuje w dużym biurze na trzecim piętrze.' — تامک در یک دفتر بزرگ در طبقه سوم کار می‌کند. biuro (خ) → biurze (مکانی)؛ duży (خ) → dużym."
     }
   ],
   "xpReward": 20,

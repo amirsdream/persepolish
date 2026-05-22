@@ -5,23 +5,24 @@
   "lessonOrder": 2,
   "title": "Profession Pairs — Masculine & Feminine",
   "title_fa": "جفت‌های شغلی — مذکر و مؤنث",
-  "grammarPoint": "Masculine/feminine profession pairs: lekarz/lekarka, nauczyciel/nauczycielka",
-  "grammarPoint_fa": "اشکال مذکر و مؤنث مشاغل: nauczyciel/nauczycielka، lekarz/lekarka",
+  "grammarPoint": "Masculine/feminine profession pairs: lekarz/lekarka, nauczyciel/nauczycielka; instrumental after być",
+  "grammarPoint_fa": "اشکال مذکر و مؤنث مشاغل و حالت ابزاری پس از być",
   "explanation": {
-    "text": "Polish has separate words for most professions depending on the person's gender. The feminine form is usually derived from the masculine by adding a suffix.\n\n| Masculine | Feminine | English |\n|-----------|----------|----------|\n| **lekarz** | **lekarka** | doctor |\n| **nauczyciel** | **nauczycielka** | teacher |\n| **inżynier** | **inżynierka** | engineer |\n| **aktor** | **aktorka** | actor / actress |\n| **student** | **studentka** | student |\n| **prawnik** | **prawniczka** | lawyer |\n| **pielęgniarz** | **pielęgniarka** | nurse |\n| **kucharz** | **kucharka** | cook / chef |\n\nAfter **być** (to be) + profession, use the **instrumental case**: *Jestem lekarką* (I am a doctor — female speaker).",
+    "text": "## Profession Pairs — Masculine & Feminine\n\nPolish has **separate words** for most professions depending on the person's gender. The feminine form is usually derived from the masculine by adding a suffix.\n\n### Main suffix patterns\n\n| Pattern | Masculine | Feminine | English |\n|---------|-----------|----------|---------|\n| **-a** suffix | student | studentka | student |\n| **-a** suffix | aktor | aktorka | actor/actress |\n| **-a** suffix | lekarz | lekarka | doctor |\n| **-a** suffix | kucharz | kucharka | cook/chef |\n| **-a** suffix | pielęgniarz | pielęgniarka | nurse |\n| **-elka** suffix | nauczyciel | nauczycielka | teacher |\n| **-niczka** suffix | prawnik | prawniczka | lawyer |\n| **-ka** suffix | inżynier | inżynierka | engineer |\n| **-ka** suffix | programista | programistka | programmer |\n| **-ka** suffix | fryzjer | fryzjerka | hairdresser |\n\n### After być — use the instrumental case\n\nWhen saying what profession someone **is**, Polish requires the **instrumental case** after *jest/jestem/jesteś*:\n\n| Masculine nominal | Masculine instrumental | Feminine nominal | Feminine instrumental |\n|------------------|-----------------------|------------------|-----------------------|\n| lekarz | **lekarzem** | lekarka | **lekarką** |\n| nauczyciel | **nauczycielem** | nauczycielka | **nauczycielką** |\n| student | **studentem** | studentka | **studentką** |\n| prawnik | **prawnikiem** | prawniczka | **prawniczką** |\n| kucharz | **kucharzem** | kucharka | **kucharką** |\n\n### Practical examples\n\n| Polish | English |\n|--------|---------|\n| *Jestem **lekarzem**.* | I am a doctor. (male speaker) |\n| *Jestem **lekarką**.* | I am a doctor. (female speaker) |\n| *On jest **nauczycielem**.* | He is a teacher. |\n| *Ona jest **nauczycielką**.* | She is a teacher. |\n| *Mój tata jest **kucharzem**.* | My dad is a cook. |\n| *Moja mama jest **prawniczką**.* | My mum is a lawyer. |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Jestem lekarz.* | *Jestem **lekarzem**.* | After być, use instrumental |\n| *Ona jest nauczyciel.* | *Ona jest **nauczycielką**.* | Feminine form + instrumental |\n| *On jest lekarka.* | *On jest **lekarzem**.* | Male → masculine form |\n| *studentki* for a male | *studenta* / *studentem* | Feminine forms only for women |",
     "notes": [
-      "After jest/jestem/jesteś use the instrumental: lekarz → lekarzem, lekarka → lekarką.",
-      "Most feminine professions add -ka, but some change the stem (prawnik → prawniczka).",
-      "Some professions are used in masculine form for both genders in formal contexts (e.g. minister, pilot)."
+      "After jest/jestem/jesteś, profession nouns take the instrumental case: lekarz → lekarzem",
+      "Most feminine professions add -ka, but some change the stem: prawnik → prawniczka",
+      "Some formal titles stay masculine for both genders: minister, pilot, rektor"
     ]
   },
-  "explanation_fa": "در لهستانی اکثر مشاغل اشکال جداگانه مذکر و مؤنث دارند. اغلب با افزودن -ka به شکل مذکر ساخته می‌شوند: student → studentka، nauczyciel → nauczycielka. برخی پسوندهای دیگر: -owa (profesor → profesorowa در سبک قدیمی).",
+  "explanation_fa": "## جفت‌های شغلی — مذکر و مؤنث\n\nلهستانی برای اکثر مشاغل **کلمات جداگانه** بر اساس جنسیت شخص دارد. شکل مؤنث معمولاً با افزودن پسوند به شکل مذکر ساخته می‌شود.\n\n### الگوهای اصلی پسوند\n\n| الگو | مذکر | مؤنث | فارسی |\n|------|------|------|-------|\n| پسوند **-ka** | student | studentka | دانشجو |\n| پسوند **-ka** | aktor | aktorka | بازیگر |\n| پسوند **-ka** | lekarz | lekarka | دکتر |\n| پسوند **-ka** | kucharz | kucharka | آشپز |\n| پسوند **-elka** | nauczyciel | nauczycielka | معلم |\n| پسوند **-niczka** | prawnik | prawniczka | وکیل |\n| پسوند **-ka** | inżynier | inżynierka | مهندس |\n\n### پس از być — از حالت ابزاری استفاده کنید\n\nبرای گفتن اینکه کسی **چه** شغلی دارد، لهستانی بعد از *jest/jestem/jesteś* از **حالت ابزاری** استفاده می‌کند:\n\n| اسم شغل مذکر | ابزاری مذکر | اسم شغل مؤنث | ابزاری مؤنث |\n|-------------|------------|-------------|------------|\n| lekarz | **lekarzem** | lekarka | **lekarką** |\n| nauczyciel | **nauczycielem** | nauczycielka | **nauczycielką** |\n| student | **studentem** | studentka | **studentką** |\n\n### مثال‌های کاربردی\n\n| لهستانی | فارسی |\n|---------|-------|\n| *Jestem **lekarzem**.* | من دکترم. (گوینده مذکر) |\n| *Jestem **lekarką**.* | من دکترم. (گوینده مؤنث) |\n| *On jest **nauczycielem**.* | او معلم است. |\n| *Ona jest **nauczycielką**.* | او معلم است. |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Jestem lekarz.* | *Jestem **lekarzem**.* | بعد از być، از ابزاری استفاده کنید |\n| *Ona jest nauczyciel.* | *Ona jest **nauczycielką**.* | شکل مؤنث + ابزاری |\n| *On jest lekarka.* | *On jest **lekarzem**.* | مذکر → شکل مذکر |",
   "exercises": [
     {
       "id": "a1-ch03-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "She is a teacher. Ona jest ___.",
+      "prompt": "Ania is introducing herself at work: 'Jestem ___.' She is a teacher (female). Which form is correct?",
+      "prompt_fa": "آنیا دارد خودش را در محل کار معرفی می‌کند: 'Jestem ___.' او معلم (مؤنث) است. کدام شکل درست است؟",
       "options": [
         "nauczycielką",
         "nauczycielem",
@@ -29,72 +30,171 @@
         "nauczycielka"
       ],
       "correctIndex": 0,
-      "explanation": "After 'jest' (is), use the instrumental case. Feminine: 'nauczycielka' → instrumental 'nauczycielką'."
+      "explanation": "After 'jestem' (I am), use the instrumental. Female speaker → feminine form: nauczycielka → instrumental nauczycielką.",
+      "explanation_fa": "بعد از 'jestem' (من هستم)، از ابزاری استفاده کنید. گوینده مؤنث → شکل مؤنث: nauczycielka → ابزاری nauczycielką."
     },
     {
       "id": "a1-ch03-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "On jest ___. (He is a doctor.) [lekarz → instrumental]",
       "answer": "lekarzem",
       "acceptableAnswers": [
         "lekarzem"
       ],
-      "hint": "Masculine profession after jest → instrumental -em suffix"
+      "hint": "Masculine instrumental: lekarz → lekarzem",
+      "explanation": "After 'jest' (is), use instrumental. Masculine: lekarz → lekarzem. 'On jest lekarzem' = He is a doctor.",
+      "explanation_fa": "بعد از 'jest' (هست)، از ابزاری استفاده کنید. مذکر: lekarz → lekarzem. 'On jest lekarzem' = او دکتر است.",
+      "context": "Tomek just graduated from medical school. Complete:",
+      "context_fa": "تامک تازه از دانشکده پزشکی فارغ التحصیل شده. کامل کنید:",
+      "sentence": "On jest ___.",
+      "translation": "[lekarz → instrumental]",
+      "translation_fa": "[lekarz → ابزاری]",
+      "prompt": "On jest ___.",
+      "prompt_fa": "On jest ___."
     },
     {
       "id": "a1-ch03-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch03/a1-ch03-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
-        "Anna jest aktorką.",
-        "Anna jest aktorem.",
-        "Anna jest aktor.",
-        "Anna jest aktorce."
+        "Moja mama jest pielęgniarką.",
+        "Moja mama jest pielęgniarzem.",
+        "Moja mama jest pielęgniarka.",
+        "Moja mama jest pielęgniarz."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Anna jest aktorką.' — Anna is an actress. 'Aktorką' is the instrumental feminine of 'aktorka'."
+      "explanation": "You heard: 'Moja mama jest pielęgniarką.' — My mum is a nurse. Feminine: pielęgniarka → instrumental pielęgniarką.",
+      "explanation_fa": "شنیدید: 'Moja mama jest pielęgniarką.' — مامانم پرستار است. مؤنث: pielęgniarka → ابزاری pielęgniarką."
     },
     {
       "id": "a1-ch03-l02-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: I (male) am a student.",
+      "prompt": "Tap the words in order: She is a lawyer.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: او وکیل است.",
       "wordBank": [
-        "Jestem",
-        "Jesteś",
-        "studentem",
-        "studentką",
-        "lekarzem",
-        "Ja"
+        "Ona",
+        "jest",
+        "prawniczką",
+        "prawnikiem"
       ],
       "correctSequences": [
         [
-          "Jestem",
-          "studentem"
-        ],
-        [
-          "Ja",
-          "jestem",
-          "studentem"
+          "Ona",
+          "jest",
+          "prawniczką"
         ]
       ],
-      "explanation": "'Jestem studentem' = I (male) am a student. Instrumental masculine: student → studentem."
+      "explanation": "'Ona jest prawniczką' = She is a lawyer. Female → feminine form: prawniczka → instrumental prawniczką. 'Prawnikiem' is the male form.",
+      "explanation_fa": "'Ona jest prawniczką' = او وکیل است. مؤنث → شکل مؤنث: prawniczka → ابزاری prawniczką. 'Prawnikiem' شکل مذکر است."
     },
     {
       "id": "a1-ch03-l02-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "What is the feminine form of 'kucharz' (cook)?",
+      "prompt": "Marek cooks at a restaurant. Complete: On jest ___.",
+      "prompt_fa": "ماریک در یک رستوران آشپزی می‌کند. کامل کنید: On jest ___.",
       "options": [
-        "kucharka",
-        "kucharza",
-        "kucharce",
-        "kucharcze"
+        "kucharzem",
+        "kucharką",
+        "kucharz",
+        "kucharka"
       ],
       "correctIndex": 0,
-      "explanation": "'Kucharz' (male cook) → 'kucharka' (female cook). This is the nominative form. After 'jest', you'd say 'kucharką'."
+      "explanation": "Male person → masculine form. Instrumental of kucharz: kucharzem. 'On jest kucharzem' = He is a cook.",
+      "explanation_fa": "شخص مذکر → شکل مذکر. ابزاری kucharz: kucharzem. 'On jest kucharzem' = او آشپز است."
+    },
+    {
+      "id": "a1-ch03-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Ania is a doctor (female). She says: Jestem ___.",
+      "prompt_fa": "آنیا دکتر است (مؤنث). او می‌گوید: Jestem ___.",
+      "options": [
+        "lekarką",
+        "lekarzem",
+        "lekarz",
+        "lekarka"
+      ],
+      "correctIndex": 0,
+      "explanation": "Female doctor → lekarką (instrumental of lekarka). Być + profession = instrumental. Feminine -ka nouns → instrumental -ką.",
+      "explanation_fa": "دکتر مؤنث → lekarką (ابزاری lekarka). być + شغل = ابزاری. اسم‌های مؤنث -ka → ابزاری -ką."
+    },
+    {
+      "id": "a1-ch03-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "lekarzem",
+      "acceptableAnswers": [
+        "lekarzem"
+      ],
+      "hint": "być + profession (m) = instrumental: lekarz → lekarzem",
+      "explanation": "'Jestem lekarzem' = I am a doctor (m). Masculine nouns ending in -rz take -em in instrumental: lekarz → lekarzem.",
+      "explanation_fa": "'Jestem lekarzem' = من دکتر هستم (مذکر). اسم‌های مذکر که به -rz ختم می‌شوند در ابزاری -em می‌گیرند: lekarz → lekarzem.",
+      "context": "Tomek is male and works as a doctor. Complete:",
+      "context_fa": "تامک مرد است و به عنوان دکتر کار می‌کند. کامل کنید:",
+      "sentence": "Jestem ___.",
+      "translation": "[lekarz → instrumental m]",
+      "translation_fa": "[lekarz → ابزاری مذکر]",
+      "prompt": "Jestem ___.",
+      "prompt_fa": "Jestem ___."
+    },
+    {
+      "id": "a1-ch03-l02-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Kasia is a programmer (female). The feminine form of 'programista' is...",
+      "prompt_fa": "کاسیا برنامه‌نویس است (مؤنث). شکل مؤنث 'programista' چیست؟",
+      "options": [
+        "programistka",
+        "programistką",
+        "programistka",
+        "programiście"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Programistka' = female programmer (nominative). To say 'I am a programmer (f)': 'Jestem programistką' (instrumental). The nominative form is programistka.",
+      "explanation_fa": "'Programistka' = برنامه‌نویس مؤنث (فاعلی). برای گفتن «برنامه‌نویس هستم» (مؤنث): 'Jestem programistką' (ابزاری). شکل فاعلی programistka است."
+    },
+    {
+      "id": "a1-ch03-l02-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Marek says his friend is a female engineer. Arrange: She is an engineer.",
+      "prompt_fa": "مارک می‌گوید دوستش مهندس مؤنث است. کلمات را به ترتیب بزنید: او مهندس است.",
+      "wordBank": [
+        "Ona jest",
+        "inżynierką",
+        "inżynier",
+        "jest"
+      ],
+      "correctSequences": [
+        [
+          "Ona jest",
+          "inżynierką"
+        ]
+      ],
+      "explanation": "'Ona jest inżynierką' = She is an engineer. Feminine być + profession = instrumental -ką: inżynierka → inżynierką.",
+      "explanation_fa": "'Ona jest inżynierką' = او مهندس است. مؤنث być + شغل = ابزاری -ką: inżynierka → inżynierką."
+    },
+    {
+      "id": "a1-ch03-l02-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch03/a1-ch03-l02-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Marek jest programistą, a Kasia jest programistką.",
+        "Marek jest programistką, a Kasia jest programistą.",
+        "Marek jest programista, a Kasia jest programistka.",
+        "Marek i Kasia są programistą."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Marek jest programistą, a Kasia jest programistką.' Marek (m) → programistą (instrumental m). Kasia (f) → programistką (instrumental f).",
+      "explanation_fa": "شنیدید: 'Marek jest programistą, a Kasia jest programistką.' مارک (م) → programistą (ابزاری م). کاسیا (م) → programistką (ابزاری مؤنث)."
     }
   ],
   "xpReward": 20,
@@ -102,11 +202,11 @@
   "tags": [
     "professions",
     "instrumental",
-    "gender-pairs",
+    "gender",
     "a1-core"
   ],
   "prerequisites": [
     "a1-ch03-l01",
-    "a1-ch01-l01"
+    "a1-ch01-l04"
   ]
 }

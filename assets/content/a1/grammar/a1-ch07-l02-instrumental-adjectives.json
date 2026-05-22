@@ -8,21 +8,22 @@
   "grammarPoint": "Adjective instrumental: dobrym studentem, dobrą studentką, dobrym dzieckiem",
   "grammarPoint_fa": "پسوندهای صفت در حالت ابزاری: -ym/-im (مذکر/خنثی)، -ą (مؤنث)",
   "explanation": {
-    "text": "Adjectives must agree with the noun in the instrumental case:\n\n**Instrumental singular adjective endings:**\n\n| Gender | Ending | Example |\n|--------|--------|--------|\n| Masculine / Neuter | **-ym / -im** | dobry → dobrym, nowy → nowym, stary → starym |\n| Feminine | **-ą** | dobra → dobrą, nowa → nową, stara → starą |\n\n**Examples with być:**\n- Jestem dobrym studentem. = I am a good student. (m)\n- Jestem dobrą studentką. = I am a good student. (f)\n- Jestem młodym lekarzem. = I am a young doctor. (m)\n\n**Examples with z (with):**\n- Idę z dobrym przyjacielem. = I'm going with a good friend. (m)\n- Kawa z gorącym mlekiem. = Coffee with hot milk. (n)\n- Herbata z zimną wodą. = Tea with cold water. (f)\n\n**Examples with transport:**\n- Jadę starym pociągiem. = I'm going by old train.\n- Lecę nowym samolotem. = I'm flying on a new plane.",
+    "text": "## Instrumental Case — Adjective Agreement\n\nAdjectives must agree with the noun in the instrumental case. The endings are similar to locative for m/n, but feminine is different.\n\n### Instrumental singular adjective endings\n\n| Gender | Adjective ending | Examples |\n|--------|------------------|----------|\n| Masculine / Neuter | **-ym** (hard stems) | dobry → dobrym, nowy → nowym, stary → starym |\n| Masculine / Neuter | **-im** (soft stems, k/g) | wielki → wielkim, tani → tanim |\n| Feminine | **-ą** | dobra → dobrą, nowa → nową, stara → starą |\n\n> 🔑 **Key difference from locative:** Feminine instrumental adjective ends in **-ą** (NOT -ej like locative!).\n\n### Comparison: locative vs. instrumental adjective\n\n| Gender | Locative adj | Instrumental adj | Example |\n|--------|-------------|------------------|----------|\n| Masculine | -ym | -ym | (same!) |\n| Neuter | -ym | -ym | (same!) |\n| Feminine | **-ej** | **-ą** | DIFFERENT! |\n\n### Examples with być (professions)\n\n| Polish | English |\n|--------|---------|\n| Jestem **dobrym studentem**. | I am a good student. (m) |\n| Jestem **dobrą studentką**. | I am a good student. (f) |\n| Jestem **młodym lekarzem**. | I am a young doctor. (m) |\n| Ona jest **doświadczoną nauczycielką**. | She is an experienced teacher. |\n\n### Examples with z (with)\n\n| Polish | English |\n|--------|---------|\n| Idę z **dobrym przyjacielem**. | I'm going with a good friend. (m) |\n| Kawa z **gorącym mlekiem**. | Coffee with hot milk. (n) |\n| Herbata z **zimną wodą**. | Tea with cold water. (f) |\n\n### Examples with transport\n\n| Polish | English |\n|--------|---------|\n| Jadę **starym pociągiem**. | I'm going by old train. |\n| Lecę **nowym samolotem**. | I'm flying on a new plane. |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *z dobrą przyjacielem* | *z dobrym przyjacielem* | przyjaciel is masc → -ym |\n| *Jestem dobrą studentem* | *Jestem dobrym studentem* | student masc → adj -ym |\n| *Jestem dobrej studentką* | *Jestem dobrą studentką* | instrumental f adj = -ą, not -ej |",
     "notes": [
-      "Masculine/neuter instrumental adjective: -ym (hard stems) or -im (soft/k,g): dobrym, małym, nowym.",
-      "Feminine instrumental adjective: always -ą: dobrą, małą, nową.",
-      "Note: feminine adjective instrumental (-ą) looks the same as feminine noun instrumental (-ą).",
-      "Pattern recap: instrumental adj = locative adj for m/n (-ym); instrumental adj f = -ą vs locative adj f = -ej."
+      "Masculine/neuter instrumental adjective: -ym (hard) or -im (soft/k,g): dobrym, małym, nowym",
+      "Feminine instrumental adjective: always -ą: dobrą, małą, nową (NOT -ej like locative!)",
+      "Adjective must match the noun's gender: dobrym studentem (m), dobrą studentką (f)",
+      "Locative f adj = -ej; instrumental f adj = -ą — these are different, memorise both"
     ]
   },
-  "explanation_fa": "صفات در حالت ابزاری: مذکر/خنثی: -ym/-im (z dobrym kolegą — با دوست خوب)، مؤنث: -ą (z dobrą koleżanką — با دوست دختر خوب). جمع: -ymi/-imi (z dobrymi kolegami — با دوستان خوب).",
+  "explanation_fa": "## حالت ابزاری — تطبیق صفت\n\nصفات باید با اسم در حالت ابزاری تطبیق داشته باشند. پسوندها برای م/خ شبیه مکانی هستند، اما مؤنث متفاوت است.\n\n### پسوندهای صفت ابزاری مفرد\n\n| جنسیت | پسوند صفت | مثال‌ها |\n|--------|-----------|----------|\n| مذکر / خنثی | **-ym** (ریشه سخت) | dobry → dobrym، nowy → nowym |\n| مذکر / خنثی | **-im** (ریشه نرم) | wielki → wielkim |\n| مؤنث | **-ą** | dobra → dobrą، nowa → nową |\n\n> 🔑 **تفاوت کلیدی از مکانی:** صفت ابزاری مؤنث به **-ą** ختم می‌شود (نه -ej مثل مکانی!)\n\n### مقایسه: صفت مکانی در برابر ابزاری\n\n| جنسیت | صفت مکانی | صفت ابزاری | توضیح |\n|--------|----------|-----------|--------|\n| مذکر | -ym | -ym | (یکسان!) |\n| خنثی | -ym | -ym | (یکسان!) |\n| مؤنث | **-ej** | **-ą** | متفاوت! |\n\n### مثال‌ها با być (مشاغل)\n\n| لهستانی | فارسی |\n|---------|-------|\n| Jestem **dobrym studentem**. | دانشجوی خوبی هستم. (م) |\n| Jestem **dobrą studentką**. | دانشجوی خوبی هستم. (مؤ) |\n\n### مثال‌ها با z (با)\n\n| لهستانی | فارسی |\n|---------|-------|\n| Idę z **dobrym przyjacielem**. | با دوست خوبم می‌روم. (م) |\n| Kawa z **gorącym mlekiem**. | قهوه با شیر داغ. (خ) |\n| Herbata z **zimną wodą**. | چای با آب سرد. (مؤ) |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *z dobrą przyjacielem* | *z dobrym przyjacielem* | przyjaciel مذکر است → -ym |\n| *Jestem dobrej studentką* | *Jestem dobrą studentką* | ابزاری مؤنث = -ą، نه -ej |",
   "exercises": [
     {
       "id": "a1-ch07-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Jestem ___ studentem. (I am a good student — m.)",
+      "prompt": "Tomek studies hard and excels. Complete: Jestem ___ studentem. (I am a good student — m.)",
+      "prompt_fa": "تامک سخت درس می‌خواند و موفق است. کامل کنید: Jestem ___ studentem. (دانشجوی خوبی هستم — م.)",
       "options": [
         "dobrym",
         "dobrej",
@@ -30,24 +31,35 @@
         "dobrego"
       ],
       "correctIndex": 0,
-      "explanation": "'Dobry' + masculine instrumental 'studentem' → adjective: 'dobrym'. 'Jestem dobrym studentem.'"
+      "explanation": "'Dobry' + masculine instrumental 'studentem' → adjective: 'dobrym'. 'Jestem dobrym studentem.' Masculine/neuter instrumental adjective = -ym.",
+      "explanation_fa": "'Dobry' + ابزاری مذکر 'studentem' → صفت: 'dobrym'. 'Jestem dobrym studentem.' صفت ابزاری مذکر/خنثی = -ym."
     },
     {
       "id": "a1-ch07-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Ona jest ___ nauczycielką. (She is a young teacher — f.) [młody → f instrumental]",
       "answer": "młodą",
       "acceptableAnswers": [
         "młodą"
       ],
-      "hint": "Feminine instrumental adjective ending: -ą"
+      "hint": "Feminine instrumental adjective ending: always -ą (NOT -ej)",
+      "explanation": "'Nauczycielka' is feminine → adjective instrumental takes -ą: 'młodą'. 'Ona jest młodą nauczycielką' = She is a young teacher.",
+      "explanation_fa": "'Nauczycielka' مؤنث است → صفت ابزاری -ą می‌گیرد: 'młodą'. 'Ona jest młodą nauczycielką' = او یک معلم جوان است.",
+      "context": "Ania is an experienced teacher. Complete:",
+      "context_fa": "آنیا یک معلم باتجربه است. کامل کنید:",
+      "sentence": "Ona jest ___ nauczycielką.",
+      "translation": "[młody → f instrumental]",
+      "translation_fa": "[młody → ابزاری مؤنث]",
+      "prompt": "Ona jest ___ nauczycielką.",
+      "prompt_fa": "Ona jest ___ nauczycielką."
     },
     {
       "id": "a1-ch07-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch07/a1-ch07-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Piję herbatę z gorącym mlekiem.",
         "Piję herbatę z gorącą mlekiem.",
@@ -55,23 +67,20 @@
         "Piję herbatę z gorące mlekie."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Piję herbatę z gorącym mlekiem.' — I drink tea with hot milk. 'Mleko' (neuter) → instrumental 'mlekiem'; 'gorący' (n) → 'gorącym'."
+      "explanation": "You heard: 'Piję herbatę z gorącym mlekiem.' — I drink tea with hot milk. 'Mleko' (neuter) → instrumental 'mlekiem'; 'gorący' (n) → 'gorącym'.",
+      "explanation_fa": "شنیدید: 'Piję herbatę z gorącym mlekiem.' — با شیر داغ چای می‌نوشم. 'Mleko' (خنثی) → ابزاری 'mlekiem'؛ 'gorący' (خ) → 'gorącym'."
     },
     {
       "id": "a1-ch07-l02-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: I'm going with a good friend. (male friend)",
+      "prompt": "Tap the words in order: I'm going with a good friend. (male friend)",
+      "prompt_fa": "کلمات را به ترتیب بزنید: با یک دوست خوب می‌روم. (دوست مذکر)",
       "wordBank": [
         "Idę",
-        "Idę",
         "z",
-        "ze",
         "dobrym",
-        "dobrą",
-        "przyjacielem",
-        "przyjaciółką",
-        "przyjaciela"
+        "przyjacielem"
       ],
       "correctSequences": [
         [
@@ -81,13 +90,15 @@
           "przyjacielem"
         ]
       ],
-      "explanation": "'Idę z dobrym przyjacielem' = I'm going with a good (male) friend. 'Przyjaciel' (m) → instrumental 'przyjacielem'; 'dobry' → 'dobrym'."
+      "explanation": "'Idę z dobrym przyjacielem' = I'm going with a good (male) friend. 'Przyjaciel' (m) → instrumental 'przyjacielem'; 'dobry' → 'dobrym' (-ym for masculine).",
+      "explanation_fa": "'Idę z dobrym przyjacielem' = با یک دوست خوب می‌روم (مذکر). 'Przyjaciel' (م) → ابزاری 'przyjacielem'؛ 'dobry' → 'dobrym' (-ym برای مذکر)."
     },
     {
       "id": "a1-ch07-l02-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Jestem ___ inżynierem. (I am a young engineer — m.)",
+      "prompt": "Kasia introduces herself at work. Complete: Jestem ___ inżynierem. (I am a young engineer — m.)",
+      "prompt_fa": "کاسیا خودش را در محل کار معرفی می‌کند. کامل کنید: Jestem ___ inżynierem. (من یک مهندس جوان هستم — م.)",
       "options": [
         "młodym",
         "młodej",
@@ -95,7 +106,99 @@
         "młody"
       ],
       "correctIndex": 0,
-      "explanation": "'Młody' + masculine 'inżynier' → instrumental: 'młodym inżynierem'. M/N adjective instrumental: -ym."
+      "explanation": "'Młody' + masculine 'inżynier' → instrumental: 'młodym inżynierem'. M/N adjective instrumental: -ym. The noun is masculine so the adjective takes -ym.",
+      "explanation_fa": "'Młody' + مذکر 'inżynier' → ابزاری: 'młodym inżynierem'. صفت ابزاری م/خ: -ym. اسم مذکر است پس صفت -ym می‌گیرد."
+    },
+    {
+      "id": "a1-ch07-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia orders tea with cold water. Complete: Herbata z ___ wodą. [zimny → f instrumental adj]",
+      "prompt_fa": "کاسیا چای با آب سرد سفارش می‌دهد. کامل کنید: Herbata z ___ wodą. [zimny → صفت ابزاری مؤنث]",
+      "options": [
+        "zimną",
+        "zimnej",
+        "zimnym",
+        "zimna"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Woda' is feminine → instrumental adjective takes -ą: 'zimną'. Key difference: locative f adj = -ej, instrumental f adj = -ą. 'Herbata z zimną wodą' = tea with cold water.",
+      "explanation_fa": "'Woda' مؤنث است → صفت ابزاری -ą می‌گیرد: 'zimną'. تفاوت کلیدی: صفت مکانی مؤنث = -ej، صفت ابزاری مؤنث = -ą. 'Herbata z zimną wodą' = چای با آب سرد."
+    },
+    {
+      "id": "a1-ch07-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "sławnym",
+      "acceptableAnswers": [
+        "sławnym"
+      ],
+      "hint": "Masculine/neuter instrumental adjective: hard stem → -ym",
+      "explanation": "'Sławny' (hard stem) + masculine 'lekarz' → adjective instrumental: 'sławnym'. 'On jest sławnym lekarzem' = He is a famous doctor. M/N instrumental adj = -ym.",
+      "explanation_fa": "'Sławny' (ریشه سخت) + مذکر 'lekarz' → صفت ابزاری: 'sławnym'. 'On jest sławnym lekarzem' = او یک پزشک مشهور است. صفت ابزاری م/خ = -ym.",
+      "context": "Marek is a famous doctor. Complete:",
+      "context_fa": "ماریک یک پزشک مشهور است. کامل کنید:",
+      "sentence": "On jest ___ lekarzem.",
+      "translation": "[sławny → m instrumental adj]",
+      "translation_fa": "[sławny → صفت ابزاری مذکر]",
+      "prompt": "On jest ___ lekarzem.",
+      "prompt_fa": "On jest ___ lekarzem."
+    },
+    {
+      "id": "a1-ch07-l02-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Ania drinks coffee with hot milk every morning. Choose the correct adjective form: Kawa z ___ mlekiem. [gorący → n instrumental adj]",
+      "prompt_fa": "آنیا هر صبح قهوه با شیر داغ می‌نوشد. شکل صحیح صفت را انتخاب کنید: Kawa z ___ mlekiem. [gorący → صفت ابزاری خنثی]",
+      "options": [
+        "gorącym",
+        "gorącą",
+        "gorącego",
+        "gorące"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mleko' (neuter) → instrumental 'mlekiem'; adjective 'gorący' (n) → instrumental: 'gorącym' (-ym). Neuter adjective instrumental = -ym (same as masculine).",
+      "explanation_fa": "'Mleko' (خنثی) → ابزاری 'mlekiem'؛ صفت 'gorący' (خ) → ابزاری: 'gorącym' (-ym). صفت ابزاری خنثی = -ym (مثل مذکر)."
+    },
+    {
+      "id": "a1-ch07-l02-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tap the words in order: She is an experienced doctor. (female speaker)",
+      "prompt_fa": "کلمات را به ترتیب بزنید: او یک پزشک باتجربه است. (گوینده مؤنث)",
+      "wordBank": [
+        "Ona",
+        "jest",
+        "doświadczoną",
+        "lekarką"
+      ],
+      "correctSequences": [
+        [
+          "Ona",
+          "jest",
+          "doświadczoną",
+          "lekarką"
+        ]
+      ],
+      "explanation": "'Ona jest doświadczoną lekarką' = She is an experienced doctor (f). 'Lekarka' (f) → instrumental 'lekarką'; 'doświadczony' (f adj) → instrumental 'doświadczoną' (-ą).",
+      "explanation_fa": "'Ona jest doświadczoną lekarką' = او یک پزشک باتجربه است (مؤنث). 'Lekarka' (مؤ) → ابزاری 'lekarką'؛ 'doświadczony' (صفت مؤنث) → ابزاری 'doświadczoną' (-ą)."
+    },
+    {
+      "id": "a1-ch07-l02-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch07/a1-ch07-l02-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Tomek jest dobrym nauczycielem.",
+        "Tomek jest dobrej nauczycielem.",
+        "Tomek jest dobrą nauczycielem.",
+        "Tomek jest dobry nauczycielem."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Tomek jest dobrym nauczycielem.' — Tomek is a good teacher. 'Nauczyciel' (m) → instrumental 'nauczycielem'; adjective 'dobry' (m) → 'dobrym' (-ym).",
+      "explanation_fa": "شنیدید: 'Tomek jest dobrym nauczycielem.' — تامک یک معلم خوب است. 'Nauczyciel' (م) → ابزاری 'nauczycielem'؛ صفت 'dobry' (م) → 'dobrym' (-ym)."
     }
   ],
   "xpReward": 20,

@@ -6,23 +6,24 @@
   "title": "A1 Grammar Review — Cases and Verbs",
   "title_fa": "مرور دستور زبان A1 — حالت‌ها و افعال",
   "grammarPoint": "A1 summary: all 7 cases overview, verb groups 1 & 2, key patterns consolidation",
-  "grammarPoint_fa": "مروری بر هفت حالت دستوری و افعال کلیدی سطح A1",
+  "grammarPoint_fa": "مروری بر هفت حالت دستوری، گروه‌های فعلی و الگوهای کلیدی سطح A1",
   "explanation": {
-    "text": "Let's consolidate the key grammar patterns from the entire A1 level.\n\n**Polish Cases — Quick Reference:**\n\n| Case | Polish | Main uses | Key question |\n|------|--------|-----------|-------------|\n| **Nominative** | mianownik | subject, dictionary form | Kto? Co? |\n| **Genitive** | dopełniacz | possession, negation, after 5+, nie ma | Kogo? Czego? |\n| **Dative** | celownik | indirect object, boli mnie | Komu? Czemu? |\n| **Accusative** | biernik | direct object, motion direction, lubić | Kogo? Co? |\n| **Instrumental** | narzędnik | być+profession, means, z+together | Kim? Czym? |\n| **Locative** | miejscownik | location (w/na), after certain preps | O kim? O czym? |\n| **Vocative** | wołacz | direct address (Mamo! Panie!) | — |\n\n**Verb Groups Summary:**\n\n| Group | Pattern | Key verbs | ja/ty |\n|-------|---------|-----------|-------|\n| 1 | -am/-asz | czytać, słuchać, rozmawiać | czytam/czytasz |\n| 2 | -ę/-isz | mówić, lubić, chodzić | mówię/mówisz |\n| 3 | -ę/-esz | pisać, iść, jeść | piszę/piszesz |\n| Modal | + inf | musieć, móc, chcieć | muszę/możesz |\n\n**Case trigger words (high frequency):**\n- **Genitive**: nie ma, dużo, mało, ile, do, z, po, bez\n- **Dative**: dać, powiedzieć, pomagać, podobać się, dziękować\n- **Accusative**: mieć, lubić, widzieć, jeść, pić, kupić\n- **Instrumental**: być (identity), z, jechać (+transport)\n- **Locative**: w, na, przy, o (topic), po (after)",
+    "text": "## A1 Grammar Review — Cases and Verbs\n\nThis lesson consolidates the essential grammar patterns from the entire A1 level. Use it as a reference and confidence check before moving to A2.\n\n### Polish Cases — Complete Quick Reference\n\n| Case | Polish name | Main uses | Key question | Common triggers |\n|------|------------|-----------|-------------|------------------|\n| **Nominative** | mianownik | subject, dictionary form | Kto? Co? | — |\n| **Genitive** | dopełniacz | possession, negation, after 5+, nie ma | Kogo? Czego? | nie ma, dużo, mało, do, z, bez, po |\n| **Dative** | celownik | indirect object, boleć (person), dziękować | Komu? Czemu? | dać, pomagać, mówić, dziękować |\n| **Accusative** | biernik | direct object, motion direction, lubić | Kogo? Co? | mieć, lubić, widzieć, jeść, pić, kupić |\n| **Instrumental** | narzędnik | być+profession, means of transport, z | Kim? Czym? | być, jechać (+transport), z (with) |\n| **Locative** | miejscownik | location after w/na, topic after o | O kim? O czym? | w, na, przy, o, po |\n| **Vocative** | wołacz | direct address | — | Mamo! Panie! Kasia! |\n\n> 🔑 **Locative ONLY appears after prepositions** — never stands alone.\n\n### Verb Groups — Summary\n\n| Group | Pattern | Key verbs | ja / ty endings |\n|-------|---------|-----------|------------------|\n| **Group 1** | -am / -asz | czytać, słuchać, rozmawiać, grać, mieszkać | -am / -asz |\n| **Group 2** | -ę / -isz | mówić, lubić, chodzić, robić, uczyć się | -ę / -isz |\n| **Group 3** | -ę / -esz | pisać, iść, jeść, pić, brać | -ę / -esz |\n| **Modal** | + infinitive | musieć, móc, chcieć | muszę/mogę/chcę |\n| **Reflexive** | + się | myć się, czuć się, bać się, uczyć się | stays unchanged |\n\n### Key patterns — case trigger words\n\n| Case | Trigger words / verbs |\n|------|----------------------|\n| **Genitive** | nie ma, dużo, mało, ile, do, z (from), po (after), bez (without), obok, koło |\n| **Dative** | dać, powiedzieć, pomagać, podobać się, dziękować, kupić (for someone) |\n| **Accusative** | mieć, lubić, widzieć, jeść, pić, kupić, grać w, na (direction) |\n| **Instrumental** | być (identity), z (with), jechać+vehicle, pisać+tool |\n| **Locative** | w, na, przy, o (topic), po (after) |\n\n### Accusative vs. Genitive after verbs\n\n| Situation | Case | Example |\n|-----------|------|----------|\n| Positive statement | **Accusative** | Mam samochód. = I have a car. |\n| Negative statement | **Genitive** | Nie mam samochodu. = I don't have a car. |\n| Positive: like something | **Accusative** | Lubię kawę. |\n| Negative: don't like | **Genitive** | Nie lubię kawy. |\n\n### Essential A1 structures to know\n\n| Structure | Example | English |\n|-----------|---------|----------|\n| być + instrumental | Jestem studentem. | I am a student. |\n| Boli mnie + nom | Boli mnie głowa. | My head hurts. |\n| grać w + acc | Gram w tenisa. | I play tennis. |\n| grać na + loc | Gram na gitarze. | I play guitar. |\n| móc/musieć + inf | Muszę iść do lekarza. | I must go to the doctor. |\n| nie ma + gen | Nie ma wody. | There is no water. |\n| do + gen (destination) | Jadę do Warszawy. | I'm going to Warsaw. |\n| z + inst (with) | Kawa z mlekiem. | Coffee with milk. |\n| w + loc (location) | Mieszkam w Krakowie. | I live in Kraków. |",
     "notes": [
-      "Accusative = direct object + direction (do + gen, na + acc for destination).",
-      "Instrumental after być for identity: Jestem studentem (not student).",
-      "Genitive after negation: Nie mam samochodu (not samochód).",
-      "Locative only used after prepositions — never stands alone."
+      "Accusative = direct object + direction (do + gen, na + acc for destination)",
+      "Instrumental after być for identity: Jestem studentem (NOT student — no nominative!)",
+      "Genitive after negation: Nie mam samochodu (not samochód); Nie lubię kawy (not kawę)",
+      "Locative only used after prepositions — never stands alone in a sentence"
     ]
   },
-  "explanation_fa": "در این درس تمام مطالب A1 مرور می‌شود: هفت حالت دستوری (فاعلی، مفعولی، مضاف‌الیهی، دادی، ابزاری، مکانی، ندایی) و کاربرد هر کدام. صرف افعال کلیدی: być، mieć، gropps 1 و 2. افعال حرکتی، وجهی و بازتابی. این مرور پایه محکمی برای سطح A2 فراهم می‌کند.",
+  "explanation_fa": "## مرور دستور زبان A1 — حالت‌ها و افعال\n\nاین درس الگوهای ضروری دستور زبان از تمام سطح A1 را تلفیق می‌کند.\n\n### هفت حالت لهستانی — مرجع سریع کامل\n\n| حالت | نام لهستانی | کاربردهای اصلی | سوال کلیدی |\n|------|-----------|---------------|------------|\n| **فاعلی** | mianownik | فاعل، شکل واژه‌نامه‌ای | Kto? Co? |\n| **مضاف‌الیهی** | dopełniacz | تملک، منفی، بعد از ۵+، nie ma | Kogo? Czego? |\n| **دادی** | celownik | مفعول غیرمستقیم، boleć (شخص) | Komu? Czemu? |\n| **مفعولی** | biernik | مفعول مستقیم، جهت حرکت | Kogo? Co? |\n| **ابزاری** | narzędnik | być+شغل، وسیله، z | Kim? Czym? |\n| **مکانی** | miejscownik | موقعیت بعد از w/na | O kim? O czym? |\n| **ندایی** | wołacz | خطاب مستقیم | — |\n\n> 🔑 **مکانی فقط بعد از حروف اضافه می‌آید** — هرگز به تنهایی نمی‌آید.\n\n### گروه‌های فعلی — خلاصه\n\n| گروه | الگو | افعال کلیدی | پسوند ja/ty |\n|------|------|------------|-------------|\n| **گروه ۱** | -am/-asz | czytać، słuchać، grać، mieszkać | -am/-asz |\n| **گروه ۲** | -ę/-isz | mówić، lubić، chodzić، robić | -ę/-isz |\n| **گروه ۳** | -ę/-esz | pisać، iść، jeść، pić | -ę/-esz |\n| **وجهی** | + مصدر | musieć، móc، chcieć | muszę/mogę/chcę |\n| **بازتابی** | + się | myć się، czuć się، bać się | بدون تغییر |\n\n### الگوهای کلیدی — محرک‌های حالت\n\n| حالت | کلمات/افعال محرک |\n|------|------------------|\n| **مضاف‌الیهی** | nie ma، dużo، mało، do، z (از)، bez، obok |\n| **دادی** | dać، pomagać، mówić، dziękować، kupić (برای کسی) |\n| **مفعولی** | mieć، lubić، widzieć، jeść، pić، grać w |\n| **ابزاری** | być (هویت)، z (با)، jechać+وسیله |\n| **مکانی** | w، na، przy، o (موضوع)، po |\n\n### مفعولی در مقابل مضاف‌الیهی\n\n| حالت | مثال | فارسی |\n|------|------|-------|\n| مثبت (مفعولی) | Mam **samochód**. | ماشین دارم. |\n| منفی (مضاف‌الیهی) | Nie mam **samochodu**. | ماشین ندارم. |\n| مثبت | Lubię **kawę**. | قهوه دوست دارم. |\n| منفی | Nie lubię **kawy**. | قهوه دوست ندارم. |",
   "exercises": [
     {
       "id": "a1-ch10-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Which case follows 'nie ma'? Nie ma ___ (no water).",
+      "prompt": "Kasia looks in the fridge — it's empty! Which case follows 'nie ma'? Nie ma ___ (no water).",
+      "prompt_fa": "کاسیا داخل یخچال را نگاه می‌کند — خالی است! بعد از 'nie ma' کدام حالت می‌آید؟ Nie ma ___ (آبی نیست).",
       "options": [
         "wody (genitive)",
         "wodę (accusative)",
@@ -30,24 +31,35 @@
         "wodzie (locative)"
       ],
       "correctIndex": 0,
-      "explanation": "'Nie ma + genitive': woda → wody. 'Nie ma' = there is no — always takes genitive."
+      "explanation": "'Nie ma + genitive': woda → wody. 'Nie ma' = there is no — always takes genitive. This is a key A1 rule for negated existence.",
+      "explanation_fa": "'Nie ma + مضاف‌الیهی': woda → wody. 'Nie ma' = وجود ندارد — همیشه مضاف‌الیهی می‌گیرد. این یک قانون کلیدی A1 برای نفی وجود است."
     },
     {
       "id": "a1-ch10-l04-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Jestem ___ (I am a student — m, instrumental after być). [student]",
       "answer": "studentem",
       "acceptableAnswers": [
         "studentem"
       ],
-      "hint": "być + identity/profession = instrumental: student → studentem"
+      "hint": "być + identity/profession = instrumental: student → studentem",
+      "explanation": "'Być + identity/profession = instrumental': student → 'studentem'. Never nominative after jest/jestem for identity!",
+      "explanation_fa": "'Być + هویت/شغل = ابزاری': student → 'studentem'. هرگز فاعلی بعد از jest/jestem برای هویت نیاید!",
+      "context": "Tomek starts his new job. Complete:",
+      "context_fa": "تامک شغل جدیدش را شروع می‌کند. کامل کنید:",
+      "sentence": "Jestem ___.",
+      "translation": "(I am a student — m, instrumental after być) [student]",
+      "translation_fa": "(دانشجو هستم — م، ابزاری بعد از być) [student]",
+      "prompt": "Jestem ___.",
+      "prompt_fa": "Jestem ___."
     },
     {
       "id": "a1-ch10-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch10/a1-ch10-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Boli mnie głowa i nie mogę pracować.",
         "Bola mnie głowa i nie mogę pracować.",
@@ -55,39 +67,37 @@
         "Boli mnie głowie i nie mogę pracować."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Boli mnie głowa i nie mogę pracować.' — My head hurts and I can't work. 'Boli mnie głowa' = boleć construction. 'Nie mogę' = I can't (móc, negation)."
+      "explanation": "You heard: 'Boli mnie głowa i nie mogę pracować.' — My head hurts and I can't work. 'Boli mnie głowa' = boleć construction (mnie = accusative, not dative mi!). 'Nie mogę' = I can't (móc, negation).",
+      "explanation_fa": "شنیدید: 'Boli mnie głowa i nie mogę pracować.' — سرم درد می‌کند و نمی‌توانم کار کنم. 'Boli mnie głowa' = ساختار boleć (mnie = مفعولی، نه دادی mi!). 'Nie mogę' = نمی‌توانم (móc، منفی)."
     },
     {
       "id": "a1-ch10-l04-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: I'm going to Warsaw by train.",
+      "prompt": "Tap the words in order: I'm going to Warsaw by train.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: دارم با قطار به ورشو می‌روم.",
       "wordBank": [
         "Jadę",
-        "Idę",
-        "do",
-        "w",
-        "Warszawy",
-        "Warszawa",
-        "Warszawie",
+        "do Warszawy",
         "pociągiem",
-        "pociąg"
+        "samochodem"
       ],
       "correctSequences": [
         [
           "Jadę",
-          "do",
-          "Warszawy",
+          "do Warszawy",
           "pociągiem"
         ]
       ],
-      "explanation": "'Jadę do Warszawy pociągiem.' Vehicle motion = jechać. Destination = do + genitive (Warszawa → Warszawy). Transport = instrumental (pociąg → pociągiem)."
+      "explanation": "'Jadę do Warszawy pociągiem.' Vehicle motion = jechać. Destination = do + genitive (Warszawa → Warszawy). Transport = instrumental (pociąg → pociągiem). 'Samochodem' = by car (distractor).",
+      "explanation_fa": "'Jadę do Warszawy pociągiem.' حرکت با وسیله = jechać. مقصد = do + مضاف‌الیهی (Warszawa → Warszawy). وسیله حمل‌ونقل = ابزاری (pociąg → pociągiem). 'Samochodem' = با ماشین (گزینه اضافه)."
     },
     {
       "id": "a1-ch10-l04-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Complete: Muszę ___ do lekarza jutro. (I must go to the doctor tomorrow.)",
+      "prompt": "Ania is feeling unwell but still has plans. Complete: Muszę ___ do lekarza jutro. (I must go to the doctor tomorrow.)",
+      "prompt_fa": "آنیا حالش خوب نیست اما هنوز برنامه دارد. کامل کنید: Muszę ___ do lekarza jutro. (فردا باید پیش دکتر بروم.)",
       "options": [
         "iść",
         "idę",
@@ -95,7 +105,99 @@
         "chodzę"
       ],
       "correctIndex": 0,
-      "explanation": "'Muszę iść do lekarza' = I must go to the doctor. Modal verbs (musieć, móc, chcieć) + infinitive: iść. 'Jutro' = tomorrow."
+      "explanation": "'Muszę iść do lekarza' = I must go to the doctor. Modal verbs (musieć, móc, chcieć) always take infinitive: iść. 'Jutro' = tomorrow.",
+      "explanation_fa": "'Muszę iść do lekarza' = باید پیش دکتر بروم. افعال وجهی (musieć، móc، chcieć) همیشه مصدر می‌گیرند: iść. 'Jutro' = فردا."
+    },
+    {
+      "id": "a1-ch10-l04-ex06",
+      "type": "fill_blank",
+      "order": 6,
+      "answer": "w",
+      "acceptableAnswers": [
+        "w"
+      ],
+      "hint": "Instruments: na + locative. Sports: w + accusative.",
+      "explanation": "Instruments use 'na + locative'; sports use 'w + accusative'. 'Gram na gitarze i gram w piłkę nożną' = I play guitar and I play football.",
+      "explanation_fa": "سازها از 'na + مکانی' استفاده می‌کنند؛ ورزش‌ها از 'w + مفعولی'. 'Gram na gitarze i gram w piłkę nożną' = گیتار می‌نوازم و فوتبال بازی می‌کنم.",
+      "context": "Kasia plays guitar and football. Complete:",
+      "context_fa": "کاسیا گیتار می‌نوازد و فوتبال بازی می‌کند. کامل کنید:",
+      "sentence": "Gram na gitarze i gram ___ piłkę nożną.",
+      "translation": "[sport preposition]",
+      "translation_fa": "[حرف اضافه ورزش]",
+      "prompt": "Gram na gitarze i gram ___ piłkę nożną.",
+      "prompt_fa": "Gram na gitarze i gram ___ piłkę nożną."
+    },
+    {
+      "id": "a1-ch10-l04-ex07",
+      "type": "multiple_choice",
+      "order": 7,
+      "prompt": "Marek has a stomach ache. Which sentence is correctly formed?",
+      "prompt_fa": "ماریک دل‌درد دارد. کدام جمله به درستی ساخته شده است؟",
+      "options": [
+        "Boli go żołądek.",
+        "Boli mu żołądek.",
+        "Bolę go żołądek.",
+        "Boli go żołądka."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Boli go żołądek' = His stomach hurts. Boleć construction: body part (subject, nominative) + boli/bolą + person (accusative). 'Go' = accusative of on. 'Mu' is dative — wrong!",
+      "explanation_fa": "'Boli go żołądek' = شکمش درد می‌کند. ساختار boleć: عضو بدن (فاعل، فاعلی) + boli/bolą + شخص (مفعولی). 'Go' = مفعولی on. 'Mu' دادی است — اشتباه!"
+    },
+    {
+      "id": "a1-ch10-l04-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Ania wants to say she likes coffee but doesn't like tea. Which is correct?",
+      "prompt_fa": "آنیا می‌خواهد بگوید قهوه دوست دارد اما چای دوست ندارد. کدام درست است؟",
+      "options": [
+        "Lubię kawę, ale nie lubię herbaty.",
+        "Lubię kawę, ale nie lubię herbatę.",
+        "Lubię kawy, ale nie lubię herbaty.",
+        "Lubię kawę, ale nie lubię herbata."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Lubię kawę' = accusative (like + object). 'Nie lubię herbaty' = genitive after negation (nie). Key A1 rule: positive → accusative; negative → genitive.",
+      "explanation_fa": "'Lubię kawę' = مفعولی (دوست داشتن + مفعول). 'Nie lubię herbaty' = مضاف‌الیهی بعد از منفی (nie). قانون کلیدی A1: مثبت → مفعولی؛ منفی → مضاف‌الیهی."
+    },
+    {
+      "id": "a1-ch10-l04-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tap the words in order: I live in a new flat in Warsaw.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: در یک آپارتمان جدید در ورشو زندگی می‌کنم.",
+      "wordBank": [
+        "Mieszkam",
+        "w",
+        "nowym",
+        "mieszkaniu w Warszawie"
+      ],
+      "correctSequences": [
+        [
+          "Mieszkam",
+          "w",
+          "nowym",
+          "mieszkaniu w Warszawie"
+        ]
+      ],
+      "explanation": "'Mieszkam w nowym mieszkaniu w Warszawie.' = I live in a new flat in Warsaw. 'W + locative': mieszkanie → mieszkaniu (-u). Adjective locative: nowy → nowym (-ym).",
+      "explanation_fa": "'Mieszkam w nowym mieszkaniu w Warszawie.' = در یک آپارتمان جدید در ورشو زندگی می‌کنم. 'W + مکانی': mieszkanie → mieszkaniu (-u). صفت مکانی: nowy → nowym (-ym)."
+    },
+    {
+      "id": "a1-ch10-l04-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch10/a1-ch10-l04-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Jestem studentką i uczę się języka polskiego w Krakowie.",
+        "Jestem student i uczę się języka polskiego w Krakowie.",
+        "Jestem studentką i uczę języka polskiego w Krakowie.",
+        "Jestem studentką i uczę się język polski w Krakowie."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Jestem studentką i uczę się języka polskiego w Krakowie.' — I am a student (f) and I study Polish in Kraków. 'Studentką' = instrumental. 'Uczyć się + genitive': języka polskiego. 'W Krakowie' = locative.",
+      "explanation_fa": "شنیدید: 'Jestem studentką i uczę się języka polskiego w Krakowie.' — دانشجو هستم (مؤنث) و لهستانی را در کراکوف می‌خوانم. 'Studentką' = ابزاری. 'Uczyć się + مضاف‌الیهی': języka polskiego. 'W Krakowie' = مکانی."
     }
   ],
   "xpReward": 25,

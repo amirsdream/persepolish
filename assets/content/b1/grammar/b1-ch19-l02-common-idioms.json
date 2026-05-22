@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch19-l02-common-idioms",
+  "chapter": 19,
+  "lessonOrder": 2,
+  "level": "b1",
+  "title": "Everyday Polish Idioms",
+  "title_fa": "اصطلاحات روزمره لهستانی",
+  "grammarPoint": "Common Polish idioms about time, work, situations, emotions; fixed expressions in everyday speech",
+  "grammarPoint_fa": "اصطلاحات رایج لهستانی درباره زمان، کار، موقعیت‌ها، احساسات؛ عبارات ثابت در گفتار روزمره",
+  "explanation": {
+    "text": "**Essential everyday idioms:**\n\n**Time & Speed:**\n- co chwila / co chwilę — every now and then, constantly\n- od czasu do czasu — from time to time\n- w ostatniej chwili — at the last moment\n- na ostatnią chwilę — at the very last minute\n- za pięć dwunasta — at the eleventh hour (5 minutes to 12)\n\n**Work & Effort:**\n- robić z igły widły — to make a mountain out of a molehill\n- kłaść się do spania — to go to bed (lit: to lie down for sleeping) ← not idiomatic\n- harówa jak wół — to work like an ox\n- nie ruszyć palcem — not to lift a finger\n- wziąć się do pracy — to get down to work\n\n**Emotions & States:**\n- być w siódmym niebie — to be in seventh heaven (very happy)\n- być pod wodą — to be underwater (overwhelmed)\n- mieć dość — to have enough (be fed up)\n- wszystko jedno — it's all the same, I don't care\n- co mi tam — what do I care, whatever\n\n**Situations & Luck:**\n- być w kropce — to be in a fix, stuck\n- wychodzić na zero — to break even\n- jak znalazł — just right, perfect (lit: as if found)\n- co nagle to po diable — haste makes waste (lit: what's rushed is after the devil)\n- nie ma tego złego, co by na dobre nie wyszło — every cloud has a silver lining\n\n**Common social expressions:**\n- Nie ma sprawy! — No problem! / No worries!\n- Daj spokój! — Give it a rest! / Forget it!\n- Skończyło się na... — It ended up in...\n- Wyszło na jaw, że... — It turned out / came to light that...",
+    "notes": [
+      "'Być w siódmym niebie' = to be in 7th heaven — same as English!",
+      "'Robić z igły widły' = make a fuss/mountain out of a molehill (igła=needle, widły=pitchfork)",
+      "'Za pięć dwunasta' = at the last minute (5 to 12); used for things done just in time",
+      "'Wyszło na jaw' = it came to light/was revealed (set phrase, very common)"
+    ]
+  },
+  "explanation_fa": "اصطلاحات روزمره ضروری: زمان و سرعت: co chwila (هر لحظه)، w ostatniej chwili (در آخرین لحظه)، za pięć dwunasta (در دقیقه آخر). کار و تلاش: harować jak wół (مثل گاو کار کردن)، nie ruszyć palcem (انگشتی تکان ندادن)، wziąć się do pracy (دست به کار شدن). احساسات: być w siódmym niebie (در بهشت بودن)، mieć dość (کافی بودن، خسته شدن). موقعیت‌ها: być w kropce (در بن‌بست بودن)، wyszło na jaw (معلوم شد). عبارات اجتماعی: Nie ma sprawy! (مشکلی نیست!)، Daj spokój! (ولش کن!).",
+  "exercises": [
+    {
+      "id": "b1-ch19-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "What does 'być w siódmym niebie' mean?",
+      "prompt_fa": "'być w siódmym niebie' چه معنایی دارد؟",
+      "options": [
+        "To be in seventh heaven (extremely happy)",
+        "To be very high up (physically)",
+        "To be in a difficult situation",
+        "To be very tired"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Być w siódmym niebie' = to be in seventh heaven (overjoyed). Same metaphor as English! 'Siódme niebo' = seventh heaven.",
+      "explanation_fa": "'Być w siódmym niebie' = در بهشت بودن (بسیار شاد). همان استعاره انگلیسی! 'Siódme niebo' = آسمان هفتم."
+    },
+    {
+      "id": "b1-ch19-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "He doesn't lift a finger. Complete: 'Nie ___ palcem.' (ruszyć, never + neg):",
+      "context_fa": "انگشتی تکان نمی‌دهد. کامل کنید: 'Nie ___ palcem.' (ruszyć، هرگز + نفی):",
+      "sentence": "Nie ___ nawet palcem.",
+      "prompt": "Nie ___ nawet palcem.",
+      "prompt_fa": "Nie ___ nawet palcem.",
+      "answer": "ruszył",
+      "acceptableAnswers": ["ruszył", "ruszyła", "ruszyło"],
+      "hint": "ruszyć (perf) = to move/budge; 'nie ruszyć palcem' = not to lift a finger",
+      "explanation": "'Nie ruszył nawet palcem.' — He didn't even lift a finger. 'Nie ruszyć palcem' = not to make any effort (idiomatic).",
+      "explanation_fa": "'Nie ruszył nawet palcem.' — حتی انگشتی تکان نداد. 'Nie ruszyć palcem' = هیچ تلاشی نکردن (اصطلاحی)."
+    },
+    {
+      "id": "b1-ch19-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch19/b1-ch19-l02-ex03.mp3",
+      "prompt": "Which idiom did you hear?",
+      "prompt_fa": "کدام اصطلاح را شنیدید؟",
+      "options": [
+        "Wyszło na jaw, że był niewinny.",
+        "Wyszło na zewnątrz, że był niewinny.",
+        "Wyszło z siebie, że był niewinny.",
+        "Wyszło na dół, że był niewinny."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wyszło na jaw, że...' = It came to light / was revealed that... 'Na jaw' is a fixed idiomatic phrase — not literal.",
+      "explanation_fa": "'Wyszło na jaw, że...' = معلوم شد / آشکار شد که... 'Na jaw' یک عبارت اصطلاحی ثابت است — نه معنای واقعی."
+    },
+    {
+      "id": "b1-ch19-l02-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: It's no problem! / No worries!",
+      "prompt_fa": "بسازید: مشکلی نیست! / نگران نباش!",
+      "wordBank": ["Nie", "ma", "sprawy", "problemu", "kłopotu", "nic"],
+      "correctSequences": [["Nie", "ma", "sprawy"]],
+      "explanation": "'Nie ma sprawy!' — No problem! / No worries! A very common Polish expression. 'Sprawa' (matter) → genitive: 'sprawy' after 'nie ma'.",
+      "explanation_fa": "'Nie ma sprawy!' — مشکلی نیست! / نگران نباش! یک عبارت بسیار رایج لهستانی. 'Sprawa' (موضوع) → مضاف‌الیه: 'sprawy' بعد از 'nie ma'."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["idioms", "everyday-language", "expressions", "b1-core"],
+  "prerequisites": ["b1-ch19-l01"]
+}

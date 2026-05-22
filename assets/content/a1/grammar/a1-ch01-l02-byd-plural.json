@@ -8,21 +8,22 @@
   "grammarPoint": "Present tense of być: jesteśmy, jesteście, są",
   "grammarPoint_fa": "زمان حال فعل być: jesteśmy، jesteście، są",
   "explanation": {
-    "text": "The plural forms of **być** (to be) are used when talking about groups. Note that the third person plural **są** is used for both mixed groups and groups of women.\n\n| Person | Polish | English |\n|--------|--------|---------|\n| 1st pl. (my) | **jesteśmy** | we are |\n| 2nd pl. (wy) | **jesteście** | you (all) are |\n| 3rd pl. (oni/one) | **są** | they are |\n\nThe distinction between *oni* (mixed or male group) and *one* (all-female group) applies only in past tense — in present tense both use **są**.",
+    "text": "## Plural forms of być\n\nOnce you know the singular, the plural is straightforward. Polish distinguishes **who** is in the group:\n\n| Person | Pronoun | Polish | English |\n|--------|---------|--------|---------|\n| 1st pl. | my | **jesteśmy** | we are |\n| 2nd pl. | wy | **jesteście** | you (all) are |\n| 3rd pl. (m/mixed) | oni | **są** | they are |\n| 3rd pl. (f/neuter) | one | **są** | they are |\n\n### The są shortcut\n\n**są** is the same for *oni* (they — men or mixed group) and *one* (they — all women or all neuter). The verb form is identical, only the pronoun differs.\n\n> *Oni są Polakami.* — They (men/mixed) are Poles.\n\n> *One są nauczycielkami.* — They (women) are teachers.\n\n### Complete verb table: być\n\nNow you know all six forms:\n\n| | Singular | Plural |\n|--|----------|--------|\n| 1st | jestem | jesteśmy |\n| 2nd | jesteś | jesteście |\n| 3rd | jest | są |\n\n### Negation in plural\n\nNegation works the same as in singular — add **nie** before the verb:\n\n- *Nie jesteśmy gotowi.* — We are not ready.\n- *Nie jesteście zmęczeni.* — You (all) are not tired.\n- *Oni nie są studentami.* — They are not students.\n\n### Practical examples\n\n- *Jesteśmy z Warszawy.* — We are from Warsaw.\n- *Wy jesteście moimi przyjaciółmi.* — You (all) are my friends.\n- *Marta i Anna są siostrami.* — Marta and Anna are sisters.\n\n### Common mistake\n\n❌ *My jesteście Polakami.* → ✅ *My jesteśmy Polakami.* (my → jesteśmy)\n\n❌ *Wy są gotowi.* → ✅ *Wy jesteście gotowi.* (wy → jesteście)",
     "notes": [
-      "jesteśmy = we are (1st person plural — includes the speaker)",
-      "jesteście = you are, addressing a group",
-      "są is used for all third-person plural (they) regardless of gender in present tense",
-      "Negation: nie jesteśmy, nie jesteście, nie są"
+      "jesteśmy = we are (1st person plural — includes the speaker).",
+      "jesteście = you are, addressing a group of people.",
+      "są is the same for oni and one — the verb doesn't change, only the pronoun.",
+      "Negation: nie jesteśmy, nie jesteście, nie są."
     ]
   },
-  "explanation_fa": "اشکال جمع فعل być: jesteśmy (ما هستیم)، jesteście (شما هستید)، są (آن‌ها هستند). توجه: برای مردان یا گروه مختلط از oni+są و برای گروه زنانه از one+są استفاده می‌شود.",
+  "explanation_fa": "## اشکال جمع فعل być\n\nوقتی اشکال مفرد را بلد هستید، جمع آسان است. لهستانی بین گروه‌های مختلف تمایز قائل می‌شود:\n\n| شخص | ضمیر | لهستانی | فارسی |\n|------|------|---------|-------|\n| اول جمع | my | **jesteśmy** | ما هستیم |\n| دوم جمع | wy | **jesteście** | شما هستید |\n| سوم جمع (مذکر/مختلط) | oni | **są** | آن‌ها هستند |\n| سوم جمع (مؤنث/خنثی) | one | **są** | آن‌ها هستند |\n\n### نکته są\n\n**są** برای هر دو *oni* (آن‌ها — مردها یا گروه مختلط) و *one* (آن‌ها — همه زنان یا همه خنثی) یکسان است. فعل فرقی نمی‌کند، فقط ضمیر متفاوت است.\n\n> *Oni są Polakami.* — آن‌ها (مردها/مختلط) لهستانی هستند.\n\n> *One są nauczycielkami.* — آن‌ها (زنان) معلم هستند.\n\n### جدول کامل فعل być\n\nحالا همه شش شکل را می‌دانید:\n\n| | مفرد | جمع |\n|--|------|-----|\n| اول شخص | jestem | jesteśmy |\n| دوم شخص | jesteś | jesteście |\n| سوم شخص | jest | są |\n\n### نفی در جمع\n\nبرای نفی، **nie** را قبل از فعل بگذارید:\n\n- *Nie jesteśmy gotowi.* — ما آماده نیستیم.\n- *Nie jesteście zmęczeni.* — شما (جمع) خسته نیستید.\n- *Oni nie są studentami.* — آن‌ها دانشجو نیستند.\n\n### مثال‌های کاربردی\n\n- *Jesteśmy z Warszawy.* — ما از ورشو هستیم.\n- *Wy jesteście moimi przyjaciółmi.* — شما (جمع) دوستان من هستید.\n- *Marta i Anna są siostrami.* — مارتا و آنا خواهر هستند.\n\n### اشتباهات رایج\n\n❌ *My jesteście Polakami.* → ✅ *My jesteśmy Polakami.* (my → jesteśmy)\n\n❌ *Wy są gotowi.* → ✅ *Wy jesteście gotowi.* (wy → jesteście)",
   "exercises": [
     {
       "id": "a1-ch01-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Choose the correct form: My ___ Polakami.",
+      "prompt": "Tomek and his friends are Polish. Complete: My ___ Polakami.",
+      "prompt_fa": "تومک و دوستانش لهستانی هستند. کامل کنید: My ___ Polakami.",
       "options": [
         "jesteśmy",
         "jesteście",
@@ -30,24 +31,35 @@
         "jest"
       ],
       "correctIndex": 0,
-      "explanation": "First person plural (my = we) uses jesteśmy. 'My jesteśmy Polakami' = We are Poles."
+      "explanation": "For we (my), być becomes jesteśmy. 'My jesteśmy Polakami' = We are Poles.",
+      "explanation_fa": "برای ما (my)، فعل być می‌شود jesteśmy. 'My jesteśmy Polakami' = ما لهستانی هستیم."
     },
     {
       "id": "a1-ch01-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Complete: Oni ___ studentami.",
       "answer": "są",
       "acceptableAnswers": [
         "są"
       ],
-      "hint": "Third person plural — same form for all genders in present tense"
+      "hint": "Third person plural — same form for all genders in present tense",
+      "explanation": "For they (oni/one), być becomes są. One form covers all genders in the plural. 'Oni są studentami' = They are students.",
+      "explanation_fa": "برای آن‌ها (oni/one)، فعل być می‌شود są. یک شکل برای تمام جنسیت‌ها در جمع کافی است. 'Oni są studentami' = آن‌ها دانشجو هستند.",
+      "context": "Kacper and his classmates are students. Complete:",
+      "context_fa": "کاکپر و هم‌کلاسی‌هایش دانشجو هستند. کامل کنید:",
+      "sentence": "Oni ___ studentami.",
+      "translation": "",
+      "translation_fa": "",
+      "prompt": "Oni ___ studentami.",
+      "prompt_fa": "Oni ___ studentami."
     },
     {
       "id": "a1-ch01-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch01/a1-ch01-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Jesteśmy gotowi.",
         "Jesteście gotowi.",
@@ -55,39 +67,37 @@
         "Jest gotowy."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Jesteśmy gotowi.' — We are ready. First person plural jesteśmy."
+      "explanation": "You heard: 'Jesteśmy gotowi.' — We are ready. The -śmy ending is the clue: it always means 'we'.",
+      "explanation_fa": "شنیدید: 'Jesteśmy gotowi.' — ما آماده‌ایم. پسوند -śmy نشانه 'ما' است."
     },
     {
       "id": "a1-ch01-l02-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: You (all) are students.",
+      "prompt": "Arrange: You (all) are students.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: شما (جمع) دانشجو هستید.",
       "wordBank": [
         "Wy",
-        "jesteście",
         "jesteśmy",
-        "są",
-        "studentami",
-        "studentem"
+        "jesteście",
+        "studentami"
       ],
       "correctSequences": [
-        [
-          "jesteście",
-          "studentami"
-        ],
         [
           "Wy",
           "jesteście",
           "studentami"
         ]
       ],
-      "explanation": "'Jesteście studentami' = You (all) are students. Wy (you plural) is optional."
+      "explanation": "'Jesteście studentami' = You (all) are students. Wy (you plural) is optional — drop it and the sentence still works.",
+      "explanation_fa": "'Jesteście studentami' = شما (جمع) دانشجو هستید. ضمیر Wy اختیاری است — بدون آن هم جمله درست است."
     },
     {
       "id": "a1-ch01-l02-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Anna i Maria ___ nauczycielkami.",
+      "prompt": "Anna and Maria both work as teachers. Complete: Anna i Maria ___ nauczycielkami.",
+      "prompt_fa": "آنا و ماریا هر دو معلم هستند. کامل کنید: Anna i Maria ___ nauczycielkami.",
       "options": [
         "są",
         "jest",
@@ -95,7 +105,98 @@
         "jesteście"
       ],
       "correctIndex": 0,
-      "explanation": "Anna i Maria (two people = they) take the third person plural form są. 'Są nauczycielkami' = They are teachers."
+      "explanation": "Two or more people = they, so use the 3rd person plural są. Whenever the subject is more than one person, są is correct.",
+      "explanation_fa": "دو نفر یا بیشتر = آن‌ها، پس از są استفاده می‌شود. هر وقت فاعل بیش از یک نفر باشد، są درست است."
+    },
+    {
+      "id": "a1-ch01-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia and Tomek are talking about their group. Complete: My ___ z Polski. (We are from Poland.)",
+      "prompt_fa": "کاسیا و تامک دارند درباره گروهشان صحبت می‌کنند. کامل کنید: My ___ z Polski. (ما از لهستان هستیم.)",
+      "options": [
+        "jesteśmy",
+        "jesteście",
+        "są",
+        "jest"
+      ],
+      "correctIndex": 0,
+      "explanation": "'My jesteśmy z Polski' = We are from Poland. My (we) → jesteśmy. The -śmy ending always signals first person plural.",
+      "explanation_fa": "'My jesteśmy z Polski' = ما از لهستان هستیم. my (ما) → jesteśmy. پسوند -śmy همیشه نشانه اول شخص جمع است."
+    },
+    {
+      "id": "a1-ch01-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "są",
+      "acceptableAnswers": [
+        "są"
+      ],
+      "hint": "Two people = they (3rd person plural of być)",
+      "explanation": "Ania i Kasia = they (ona + ona = one), so są is correct. 'Ania i Kasia są przyjaciółkami' = Ania and Kasia are friends.",
+      "explanation_fa": "Ania i Kasia = آن‌ها (ona + ona = one)، پس są درست است. 'Ania i Kasia są przyjaciółkami' = آنیا و کاسیا دوست هستند.",
+      "context": "Ania sees her two friends. Complete:",
+      "context_fa": "آنیا دو دوستش را می‌بیند. کامل کنید:",
+      "sentence": "Ania i Kasia ___ przyjaciółkami.",
+      "translation": "(Ania and Kasia are friends.)",
+      "translation_fa": "(آنیا و کاسیا دوست هستند.)",
+      "prompt": "Ania i Kasia ___ przyjaciółkami.",
+      "prompt_fa": "Ania i Kasia ___ przyjaciółkami."
+    },
+    {
+      "id": "a1-ch01-l02-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Marek addresses a group of classmates. Complete: Wy ___ nauczycielami? (Are you teachers?)",
+      "prompt_fa": "مارک با یک گروه از هم‌کلاسی‌هایش صحبت می‌کند. کامل کنید: Wy ___ nauczycielami? (آیا شما معلم هستید؟)",
+      "options": [
+        "jesteście",
+        "jesteśmy",
+        "są",
+        "jest"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wy (you plural) → jesteście. The -ście ending is the marker for second person plural. 'Wy jesteście nauczycielami?' = Are you (all) teachers?",
+      "explanation_fa": "wy (شما جمع) → jesteście. پسوند -ście نشانه دوم شخص جمع است. 'Wy jesteście nauczycielami?' = آیا شما (جمع) معلم هستید؟"
+    },
+    {
+      "id": "a1-ch01-l02-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tomek talks about his classmates. Arrange: They are students.",
+      "prompt_fa": "تامک درباره هم‌کلاسی‌هایش صحبت می‌کند. کلمات را به ترتیب بزنید: آن‌ها دانشجو هستند.",
+      "wordBank": [
+        "Oni",
+        "są",
+        "studentami",
+        "jesteśmy"
+      ],
+      "correctSequences": [
+        [
+          "Oni",
+          "są",
+          "studentami"
+        ]
+      ],
+      "explanation": "'Oni są studentami' = They are students. Oni (they, mixed/male group) + są (3rd pl.) + studentami (instrumental plural).",
+      "explanation_fa": "'Oni są studentami' = آن‌ها دانشجو هستند. Oni (آن‌ها، گروه مختلط/مذکر) + są (سوم جمع) + studentami (ابزاری جمع)."
+    },
+    {
+      "id": "a1-ch01-l02-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch01/a1-ch01-l02-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Jesteśmy razem w szkole.",
+        "Jesteście razem w szkole.",
+        "Są razem w szkole.",
+        "Jestem razem w szkole."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Jesteśmy razem w szkole.' — We are together at school. 'Razem' = together, 'w szkole' = at school (locative).",
+      "explanation_fa": "شنیدید: 'Jesteśmy razem w szkole.' — ما با هم در مدرسه هستیم. 'Razem' = با هم، 'w szkole' = در مدرسه (مکانی)."
     }
   ],
   "xpReward": 20,

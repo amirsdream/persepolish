@@ -1,0 +1,88 @@
+{
+  "id": "b1-ch19-l04-idioms-context",
+  "chapter": 19,
+  "lessonOrder": 4,
+  "level": "b1",
+  "title": "Idioms in Conversation & Text",
+  "title_fa": "اصطلاحات در مکالمه و متن",
+  "grammarPoint": "Recognizing idioms in context; understanding meaning from surrounding text; common conversational idioms",
+  "grammarPoint_fa": "تشخیص اصطلاحات در متن؛ درک معنی از متن اطراف؛ اصطلاحات رایج مکالمه‌ای",
+  "explanation": {
+    "text": "**Strategies for understanding idioms in context:**\n\n**1. Look for contextual clues:**\n*'Marek dostał pracę w nowej firmie i jest w siódmym niebie.'*\n→ 'Dostał pracę' (got a job) is positive → 'siódme niebo' = happy state ✓\n\n**2. Identify the literal meaning, then shift:**\n*'Musiał wziąć nogi za pas, bo szef był wściekły.'*\n→ 'Szef był wściekły' (boss was furious) = escape needed\n→ 'wziąć nogi za pas' ≠ literally taking legs — = run away ✓\n\n**Conversational idiom mini-dialogues:**\n\n**A:** Słyszałeś? Piotr dostał awans!\n**B:** O, to musi być w siódmym niebie!\n\n**A:** Jak ci idzie projekt?\n**B:** Nie ma tego złego. Nauczyłem się dużo przy tej okazji.\n\n**A:** Pospiesz się! Wyjazd za godzinę!\n**B:** Spokojnie, zdążymy. Lepiej późno niż wcale.\n\n**More useful conversational expressions:**\n- Co za ulga! — What a relief!\n- Masz rację. — You're right.\n- Nie masz racji. — You're wrong.\n- To nie fair. — That's not fair.\n- Daj mi spokój! — Leave me alone! / Give it a rest!\n- Nie wiem co o tym myśleć. — I don't know what to think about it.\n- Chodzi mi o to, że... — What I mean is...\n- Innymi słowy... — In other words...\n- To znaczy... — That means... / I mean...\n\n**False friends in idioms:**\n- 'widzieć różowo' = to see things through rose-tinted glasses (positive/optimistic)\n- NOT the same as seeing pink elephants (drunk)!",
+    "notes": [
+      "Context is your best guide when you don't know an idiom",
+      "Tone and surrounding words tell you if the idiom is positive, negative, or neutral",
+      "'Nie ma tego złego' = silver lining expression — good in bad situations",
+      "Polish has many 'false friend' idioms that look similar to English but mean differently"
+    ]
+  },
+  "explanation_fa": "راهکارهای درک اصطلاحات در متن: ۱) به سرنخ‌های زمینه‌ای توجه کنید: اگر جمله قبلی مثبت است، اصطلاح احتمالاً مثبت است. ۲) معنای واقعی را بیابید، سپس تغییر دهید. دیالوگ‌های مکالمه‌ای: در موقعیت‌های واقعی اصطلاحات را شناسایی کنید. عبارات مکالمه‌ای مفید: Co za ulga! (چه آسودگی!)، Masz rację (حق داری)، Daj mi spokój! (دست از سرم بردار!)، Chodzi mi o to، że... (منظورم اینه که...)، Innymi słowy... (به عبارت دیگر...).",
+  "exercises": [
+    {
+      "id": "b1-ch19-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "In: 'Dostała pracę marzeń i jest w siódmym niebie.' What can you conclude about her mood?",
+      "prompt_fa": "در: 'Dostała pracę marzeń i jest w siódmym niebie.' چه چیزی درباره حال و هوای او می‌توانید نتیجه بگیرید؟",
+      "options": [
+        "She is extremely happy (got her dream job + seventh heaven = joy)",
+        "She is anxious about the new job",
+        "She is confused and overwhelmed",
+        "She is tired from working"
+      ],
+      "correctIndex": 0,
+      "explanation": "Context: 'dostała pracę marzeń' (got her dream job) = very positive. 'Siódme niebo' = seventh heaven = extreme happiness. The context confirms the idiom's positive meaning.",
+      "explanation_fa": "زمینه: 'dostała pracę marzeń' (کار رؤیایی‌اش را گرفت) = بسیار مثبت. 'Siódme niebo' = آسمان هفتم = شادی فوق‌العاده. زمینه معنای مثبت اصطلاح را تأیید می‌کند."
+    },
+    {
+      "id": "b1-ch19-l04-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Complete with the appropriate conversational expression: 'You're right!' = Masz ___!",
+      "context_fa": "با عبارت مکالمه‌ای مناسب کامل کنید: 'حق داری!' = Masz ___!",
+      "sentence": "Masz ___!",
+      "prompt": "Masz ___!",
+      "prompt_fa": "Masz ___!",
+      "answer": "rację",
+      "acceptableAnswers": ["rację"],
+      "hint": "mieć rację = to be right; masz rację = you are right; rację = accusative of 'racja'",
+      "explanation": "'Masz rację!' — You're right! 'Mieć rację' = to be right. 'Racja' (reason/correctness) → accusative: 'rację'. Very common expression.",
+      "explanation_fa": "'Masz rację!' — حق داری! 'Mieć rację' = درست گفتن/حق داشتن. 'Racja' (دلیل/درستی) → مفعولی: 'rację'. عبارت بسیار رایج."
+    },
+    {
+      "id": "b1-ch19-l04-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch19/b1-ch19-l04-ex03.mp3",
+      "prompt": "Which conversational expression did you hear?",
+      "prompt_fa": "کدام عبارت مکالمه‌ای را شنیدید؟",
+      "options": [
+        "Chodzi mi o to, że nie mam czasu.",
+        "Chodzę o to, że nie mam czasu.",
+        "Chodziło mi o to, że mam czasu.",
+        "Chodzi mnie o to, że nie mam czasu."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Chodzi mi o to, że...' = What I mean is... / What I'm getting at is... Fixed expression: 'chodzi mi o to' (it goes to me about it = I mean).",
+      "explanation_fa": "'Chodzi mi o to, że...' = منظورم اینه که... عبارت ثابت: 'chodzi mi o to' (منظورم این است که...)."
+    },
+    {
+      "id": "b1-ch19-l04-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: In other words, he didn't want to help.",
+      "prompt_fa": "بسازید: به عبارت دیگر، نمی‌خواست کمک کند.",
+      "wordBank": ["Innymi", "słowy", "nie", "chciał", "pomóc", "Inaczej", "mówiąc"],
+      "correctSequences": [
+        ["Innymi", "słowy", "nie", "chciał", "pomóc"],
+        ["Inaczej", "mówiąc", "nie", "chciał", "pomóc"]
+      ],
+      "explanation": "'Innymi słowy, nie chciał pomóc.' — In other words, he didn't want to help. 'Innymi słowy' = in other words (innymi = instrumental pl. of 'inny'; słowy = instrumental pl. of 'słowo').",
+      "explanation_fa": "'Innymi słowy, nie chciał pomóc.' — به عبارت دیگر، نمی‌خواست کمک کند. 'Innymi słowy' = به عبارت دیگر (innymi = ابزاری جمع 'inny'؛ słowy = ابزاری جمع 'słowo')."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["idioms", "conversation", "expressions", "b1-core"],
+  "prerequisites": ["b1-ch19-l01", "b1-ch19-l02", "b1-ch19-l03"]
+}

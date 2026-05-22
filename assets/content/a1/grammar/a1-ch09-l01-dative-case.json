@@ -6,23 +6,24 @@
   "title": "Dative Case — Indirect Object",
   "title_fa": "حالت دادی — مفعول غیرمستقیم",
   "grammarPoint": "Dative case (celownik): komu/czemu; dać komuś, powiedzieć komuś, dziękować komuś",
-  "grammarPoint_fa": "حالت دادی (celownik): -owi/-u (مذکر)، -e/-ie (مؤنث)، -u (خنثی)",
+  "grammarPoint_fa": "حالت دادی (celownik): -owi (مذکر)، -ie/-e (مؤنث)، -u (خنثی) — به چه کسی؟",
   "explanation": {
-    "text": "The **dative case** (celownik) marks the **indirect object** — the person or thing that receives the action. Think of it as the 'to/for whom' case.\n\n**Common verbs that take the dative:**\n- **dać** (give): Daję książkę **mamie**. = I give a book to mum.\n- **powiedzieć** (tell): Mówię **bratu**. = I'm talking to my brother.\n- **dziękować** (thank): Dziękuję **tobie**. = I thank you.\n- **pomagać** (help): Pomagam **siostrze**. = I help my sister.\n- **kupić** (buy for): Kupuję prezent **tacie**. = I'm buying a gift for dad.\n\n**Dative singular endings:**\n\n| Gender | Nominative | Dative | Example |\n|--------|-----------|--------|---------|\n| Masculine animate | -consonant | **-owi** | brat → bratu*, przyjaciel → przyjacielowi |\n| Masculine inanimate | -consonant | **-owi / -u** | pies → psu, sklep → sklepowi |\n| Feminine -a | -a | **-ie / -y** | mama → mamie, siostra → siostrze |\n| Neuter -o | -o | **-u** | okno → oknu, dziecko → dziecku |\n\n**Personal pronouns in dative:**\n- mi (to me), tobie/ci (to you), mu/jemu (to him), jej (to her), nam (to us), wam (to you pl), im (to them)",
+    "text": "## Dative Case — Indirect Object\n\nThe **dative case** (celownik) marks the **indirect object** — the person or thing that *receives* the action. It answers the questions **komu?** (to whom?) and **czemu?** (to what?).\n\n### Three main uses of the dative\n\n| Use | Structure | Example | English |\n|-----|-----------|---------|----------|\n| **Giving** | dać + dative | Daję mamie prezent. | I give mum a gift. |\n| **Telling / speaking** | mówić + dative | Mówię bratu. | I'm talking to my brother. |\n| **Thanking / helping** | dziękować/pomagać + dative | Dziękuję tobie. | I thank you. |\n\n### Dative singular endings — nouns\n\n| Gender | Nominative | Dative | Example |\n|--------|-----------|--------|---------|\n| Masculine animate | -consonant | **-owi** | przyjaciel → przyjacielowi |\n| Masculine (common irregulars) | — | **-u** | brat → bratu, ojciec → ojcu |\n| Feminine **-a** | -a | **-ie / -e** | mama → mamie, siostra → siostrze |\n| Feminine **-ia** | -ia | **-i** | pani → pani |\n| Neuter **-o** | -o | **-u** | dziecko → dziecku, okno → oknu |\n\n> 🔑 **Key rule:** Masculine animate nouns take **-owi**. Feminine -a nouns take **-ie/-e** (with softening). Neuter takes **-u**.\n\n### Common verbs that take dative\n\n| Verb | Meaning | Example |\n|------|---------|----------|\n| **dać** | to give | Daję mamie kwiat. |\n| **powiedzieć / mówić** | to tell / speak | Mówię bratu. |\n| **dziękować** | to thank | Dziękuję ci. |\n| **pomagać** | to help | Pomagam siostrze. |\n| **kupić** | to buy (for) | Kupuję prezent tacie. |\n| **życzyć** | to wish | Życzę ci zdrowia. |\n\n### Personal pronouns in dative\n\n| Nominative | Dative (long) | Dative (short) | English |\n|-----------|--------------|---------------|----------|\n| ja | mnie | **mi** | to me |\n| ty | tobie | **ci** | to you |\n| on | jemu | **mu** | to him |\n| ona | jej | **jej** | to her |\n| my | nam | **nam** | to us |\n| wy | wam | **wam** | to you (pl) |\n| oni/one | im | **im** | to them |\n\n### Examples in context\n\n| Polish | English |\n|--------|---------|\n| Daję **mamie** prezent. | I give a gift to mum. |\n| Pomagam **bratu**. | I help my brother. |\n| Dziękuję **ci** za pomoc. | Thank you for your help. |\n| Mówię **przyjacielowi**. | I'm talking to my friend. |\n| Kupuję prezent **dziecku**. | I'm buying a gift for the child. |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Daję mamę prezent.* | *Daję **mamie** prezent.* | indirect object = dative (-ie) |\n| *Pomagam brata.* | *Pomagam **bratu**.* | pomagać + dative |\n| *Dziękuję ty.* | *Dziękuję **ci**.* | dziękować + dative (ci, not ty) |\n| *Daj mnie.* | *Daj **mi**.* | mi = short dative (preferred) |",
     "notes": [
-      "Dative of 'ja' = mi/mnie: Daj mi. = Give me. Daj mnie = Give me (emphatic).",
-      "Common irregular datives: brat → bratu (not bratem!), ojciec → ojcu, człowiek → człowiekowi.",
-      "Feminine: mama → mamie, siostra → siostrze (softening), córka → córce.",
-      "Neuter: dziecko → dziecku, okno → oknu."
+      "Masculine animate: -owi (przyjacielowi, studentowi). Exceptions: brat → bratu, ojciec → ojcu, pan → panu",
+      "Feminine -a: -ie/-e with consonant softening: mama → mamie, siostra → siostrze, córka → córce",
+      "Neuter -o/-e: -u always: dziecko → dziecku, okno → oknu, mieszkanie → mieszkaniu",
+      "Dative pronouns: mi, ci, mu, jej, nam, wam, im — use these in everyday speech"
     ]
   },
-  "explanation_fa": "حالت دادی (celownik) برای مفعول غیرمستقیم استفاده می‌شود (به چه کسی؟). پسوندهای مفرد: مذکر: -owi (bratu، studentowi)، مؤنث: -e/-ie (siostrze، pani)، خنثی: -u (dziecku). مثال: Daję bratu książkę (کتاب به برادرم می‌دهم).",
+  "explanation_fa": "## حالت دادی — مفعول غیرمستقیم\n\n**حالت دادی** (celownik) برای مفعول غیرمستقیم استفاده می‌شود — کسی که عمل را *دریافت می‌کند*. به سوال **komu?** (به چه کسی؟) پاسخ می‌دهد.\n\n### سه کاربرد اصلی دادی\n\n| کاربرد | ساختار | مثال | فارسی |\n|--------|--------|------|-------|\n| **دادن** | dać + دادی | Daję mamie prezent. | به مامانم هدیه می‌دهم. |\n| **گفتن** | mówić + دادی | Mówię bratu. | دارم به برادرم می‌گویم. |\n| **تشکر/کمک** | dziękować/pomagać + دادی | Pomagam siostrze. | به خواهرم کمک می‌کنم. |\n\n### پسوندهای دادی مفرد — اسم‌ها\n\n| جنسیت | فاعلی | دادی | مثال |\n|--------|-------|------|------|\n| مذکر جاندار | -صامت | **-owi** | przyjaciel → przyjacielowi |\n| مذکر (نامنظم رایج) | — | **-u** | brat → bratu، ojciec → ojcu |\n| مؤنث **-a** | -a | **-ie / -e** | mama → mamie، siostra → siostrze |\n| خنثی **-o** | -o | **-u** | dziecko → dziecku، okno → oknu |\n\n### ضمایر شخصی در حالت دادی\n\n| فاعلی | دادی (کوتاه) | فارسی |\n|-------|-------------|-------|\n| ja | **mi** | به من |\n| ty | **ci** | به تو |\n| on | **mu** | به او (م) |\n| ona | **jej** | به او (مؤ) |\n| my | **nam** | به ما |\n| wy | **wam** | به شما |\n| oni/one | **im** | به آنها |\n\n### مثال‌ها در زمینه\n\n| لهستانی | فارسی |\n|---------|-------|\n| Daję **mamie** prezent. | به مامانم هدیه می‌دهم. |\n| Pomagam **bratu**. | به برادرم کمک می‌کنم. |\n| Dziękuję **ci** za pomoc. | ممنون از کمکت. |\n| Kupuję prezent **dziecku**. | دارم برای بچه هدیه می‌خرم. |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Daję mamę prezent.* | *Daję **mamie** prezent.* | مفعول غیرمستقیم = دادی (-ie) |\n| *Pomagam brata.* | *Pomagam **bratu**.* | pomagać + دادی |\n| *Dziękuję ty.* | *Dziękuję **ci**.* | dziękować + دادی (ci، نه ty) |",
   "exercises": [
     {
       "id": "a1-ch09-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Daję prezent ___ (I give a gift to mum). [mama → dative]",
+      "prompt": "Kasia's mother has a birthday. Complete: Daję prezent ___ (I give a gift to mum). [mama → dative]",
+      "prompt_fa": "مادر کاسیا تولد دارد. کامل کنید: Daję prezent ___ (به مامانم هدیه می‌دهم). [mama → دادی]",
       "options": [
         "mamie",
         "mama",
@@ -30,24 +31,35 @@
         "mamy"
       ],
       "correctIndex": 0,
-      "explanation": "'Mama' → dative 'mamie'. 'Daję prezent mamie' = I give a gift to mum. Feminine -a → -ie in dative."
+      "explanation": "'Mama' → dative 'mamie'. 'Daję prezent mamie' = I give a gift to mum. Feminine -a nouns: -ie in dative (softening). The indirect object (to whom) takes dative.",
+      "explanation_fa": "'Mama' → دادی 'mamie'. 'Daję prezent mamie' = به مامانم هدیه می‌دهم. اسم‌های مؤنث -a: در دادی -ie می‌گیرند (نرم‌شدن صامت). مفعول غیرمستقیم (به چه کسی) دادی می‌گیرد."
     },
     {
       "id": "a1-ch09-l01-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Pomagam ___ (I help my brother). [brat → dative]",
       "answer": "bratu",
       "acceptableAnswers": [
         "bratu"
       ],
-      "hint": "Masculine dative: brat → bratu (irregular, not bratem)"
+      "hint": "Masculine irregular dative: brat → bratu (not bratem or brata!)",
+      "explanation": "'Brat' (masculine animate) → dative 'bratu'. This is an irregular form — not the regular -owi. 'Pomagam bratu' = I help my brother.",
+      "explanation_fa": "'Brat' (مذکر جاندار) → دادی 'bratu'. این یک شکل نامنظم است — نه -owi معمول. 'Pomagam bratu' = به برادرم کمک می‌کنم.",
+      "context": "Tomek needs help with his homework. Complete:",
+      "context_fa": "تامک با تکالیفش به کمک نیاز دارد. کامل کنید:",
+      "sentence": "Pomagam ___.",
+      "translation": "(I help my brother) [brat → dative]",
+      "translation_fa": "(به برادرم کمک می‌کنم) [brat → دادی]",
+      "prompt": "Pomagam ___.",
+      "prompt_fa": "Pomagam ___."
     },
     {
       "id": "a1-ch09-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch09/a1-ch09-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Dziękuję ci za pomoc.",
         "Dziękuję ty za pomoc.",
@@ -55,43 +67,37 @@
         "Dziękuję tobi za pomoc."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Dziękuję ci za pomoc.' — Thank you for your help. 'Dziękować + dative': ci = dative of ty (you). 'Za + accusative': pomoc = acc."
+      "explanation": "You heard: 'Dziękuję ci za pomoc.' — Thank you for your help. 'Dziękować + dative': ci = dative of ty (you). 'Za + accusative': pomoc = acc.",
+      "explanation_fa": "شنیدید: 'Dziękuję ci za pomoc.' — ممنون از کمکت. 'Dziękować + دادی': ci = دادی ty (تو). 'Za + مفعولی': pomoc = مفعولی."
     },
     {
       "id": "a1-ch09-l01-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: I'm buying a gift for my sister.",
+      "prompt": "Tap the words in order: I'm buying a gift for my sister.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: دارم برای خواهرم هدیه می‌خرم.",
       "wordBank": [
         "Kupuję",
         "prezent",
-        "prezenty",
         "siostrze",
-        "siostrę",
-        "siostra",
-        "dla",
-        "ku"
+        "siostrą"
       ],
       "correctSequences": [
         [
           "Kupuję",
           "prezent",
           "siostrze"
-        ],
-        [
-          "Kupuję",
-          "prezent",
-          "dla",
-          "siostry"
         ]
       ],
-      "explanation": "'Kupuję prezent siostrze' = I'm buying a gift for my sister. 'Siostra' → dative 'siostrze'. Alternatively: 'dla siostry' (dla + genitive)."
+      "explanation": "'Kupuję prezent siostrze' = I'm buying a gift for my sister. 'Siostra' → dative 'siostrze'. Buying something FOR someone = dative.",
+      "explanation_fa": "'Kupuję prezent siostrze' = دارم برای خواهرم هدیه می‌خرم. 'Siostra' → دادی 'siostrze'. خریدن چیزی برای کسی = دادی."
     },
     {
       "id": "a1-ch09-l01-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Mówię ___ (I'm talking to my friend — m). [przyjaciel → dative]",
+      "prompt": "Marek calls his friend to catch up. Complete: Mówię ___ (I'm talking to my friend — m). [przyjaciel → dative]",
+      "prompt_fa": "ماریک با دوستش تماس می‌گیرد. کامل کنید: Mówię ___ (دارم با دوستم صحبت می‌کنم — م). [przyjaciel → دادی]",
       "options": [
         "przyjacielowi",
         "przyjaciela",
@@ -99,7 +105,99 @@
         "przyjacielu"
       ],
       "correctIndex": 0,
-      "explanation": "'Przyjaciel' (m animate) → dative 'przyjacielowi' (-owi). 'Mówię przyjacielowi' = I'm talking to my friend."
+      "explanation": "'Przyjaciel' (m animate) → dative 'przyjacielowi' (-owi). 'Mówię przyjacielowi' = I'm talking to my friend. Mówić/mówić do + dative.",
+      "explanation_fa": "'Przyjaciel' (مذکر جاندار) → دادی 'przyjacielowi' (-owi). 'Mówię przyjacielowi' = دارم با دوستم صحبت می‌کنم. mówić + دادی."
+    },
+    {
+      "id": "a1-ch09-l01-ex06",
+      "type": "fill_blank",
+      "order": 6,
+      "answer": "ci",
+      "acceptableAnswers": [
+        "ci",
+        "tobie"
+      ],
+      "hint": "Dative of ty: ci (short form) or tobie (long form)",
+      "explanation": "'Życzę ci' = I wish you. 'Ci' = short dative of 'ty'. 'Życzyć + dative + genitive': życzę ci zdrowia / wszystkiego najlepszego. Both 'ci' and 'tobie' are acceptable.",
+      "explanation_fa": "'Życzę ci' = برایت آرزو می‌کنم. 'Ci' = دادی کوتاه ty. 'Życzyć + دادی + مضاف‌الیهی': życzę ci zdrowia / wszystkiego najlepszego. هم 'ci' و هم 'tobie' قابل قبول هستند.",
+      "context": "Ania wants to wish Kasia a happy birthday. Complete:",
+      "context_fa": "آنیا می‌خواهد تولد کاسیا را تبریک بگوید. کامل کنید:",
+      "sentence": "Życzę ___ wszystkiego najlepszego!",
+      "translation": "(I wish you all the best!) [ty → dative]",
+      "translation_fa": "(برایت همه چیز خوب آرزو می‌کنم!) [ty → دادی]",
+      "prompt": "Życzę ___ wszystkiego najlepszego!",
+      "prompt_fa": "Życzę ___ wszystkiego najlepszego!"
+    },
+    {
+      "id": "a1-ch09-l01-ex07",
+      "type": "multiple_choice",
+      "order": 7,
+      "prompt": "Tomek is helping his child with homework. Complete: Pomagam ___ (I help the child). [dziecko → dative]",
+      "prompt_fa": "تامک به بچه‌اش با تکالیف کمک می‌کند. کامل کنید: Pomagam ___ (به بچه کمک می‌کنم). [dziecko → دادی]",
+      "options": [
+        "dziecku",
+        "dziecko",
+        "dziecka",
+        "dzieckiem"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Dziecko' (neuter -o) → dative: 'dziecku' (-u). Neuter nouns always take -u in dative. 'Pomagam dziecku' = I help the child.",
+      "explanation_fa": "'Dziecko' (خنثی -o) → دادی: 'dziecku' (-u). اسم‌های خنثی همیشه در دادی -u می‌گیرند. 'Pomagam dziecku' = به بچه کمک می‌کنم."
+    },
+    {
+      "id": "a1-ch09-l01-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Marek tells his father about the trip. Complete: Mówię ___ o wycieczce. (I'm telling my father about the trip.) [ojciec → dative]",
+      "prompt_fa": "ماریک به پدرش درباره سفر می‌گوید. کامل کنید: Mówię ___ o wycieczce. (دارم به پدرم درباره سفر می‌گویم.) [ojciec → دادی]",
+      "options": [
+        "ojcu",
+        "ojciec",
+        "ojca",
+        "ojcowi"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ojciec' → dative 'ojcu' (irregular — NOT ojcowi). Common irregular masculine datives: brat → bratu, ojciec → ojcu, pan → panu.",
+      "explanation_fa": "'Ojciec' → دادی 'ojcu' (نامنظم — نه ojcowi). دادی‌های نامنظم رایج مذکر: brat → bratu، ojciec → ojcu، pan → panu."
+    },
+    {
+      "id": "a1-ch09-l01-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tap the words in order: I'm giving Tomek a book.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: دارم به تامک یک کتاب می‌دهم.",
+      "wordBank": [
+        "Daję",
+        "Tomkowi",
+        "książkę",
+        "Tomka"
+      ],
+      "correctSequences": [
+        [
+          "Daję",
+          "Tomkowi",
+          "książkę"
+        ]
+      ],
+      "explanation": "'Daję Tomkowi książkę' = I'm giving Tomek a book. 'Tomek' (m animate) → dative 'Tomkowi' (-owi). 'Książkę' = accusative (what is being given). 'Tomka' is genitive — distractor.",
+      "explanation_fa": "'Daję Tomkowi książkę' = دارم به تامک یک کتاب می‌دهم. 'Tomek' (مذکر جاندار) → دادی 'Tomkowi' (-owi). 'Książkę' = مفعولی (چیزی که داده می‌شود). 'Tomka' مضاف‌الیهی است — گزینه اضافه."
+    },
+    {
+      "id": "a1-ch09-l01-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch09/a1-ch09-l01-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Daję mamie kwiaty na urodziny.",
+        "Daję mamę kwiaty na urodziny.",
+        "Daję mamy kwiaty na urodziny.",
+        "Daję mamią kwiaty na urodziny."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Daję mamie kwiaty na urodziny.' — I give flowers to mum for her birthday. 'Mama' → dative 'mamie'. 'Kwiaty' = accusative (what is given). 'Na urodziny' = for birthday.",
+      "explanation_fa": "شنیدید: 'Daję mamie kwiaty na urodziny.' — برای تولد به مامانم گل می‌دهم. 'Mama' → دادی 'mamie'. 'Kwiaty' = مفعولی (چیزی که داده می‌شود). 'Na urodziny' = برای تولد."
     }
   ],
   "xpReward": 20,

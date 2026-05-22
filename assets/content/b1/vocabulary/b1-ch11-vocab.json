@@ -1,0 +1,263 @@
+{
+  "id": "b1-ch11-vocab",
+  "chapter": 11,
+  "level": "b1",
+  "title": "Collective & Group Vocabulary",
+  "title_fa": "واژگان جمعی و گروهی",
+  "cards": [
+    {
+      "id": "b1-ch11-w001",
+      "polish": "para",
+      "english": "pair, couple",
+      "pronunciation": "PAH-rah",
+      "gender": "f",
+      "category": "collective",
+      "examplePolish": "Para studentów zdała razem.",
+      "exampleEnglish": "A couple of students passed together."
+    },
+    {
+      "id": "b1-ch11-w002",
+      "polish": "tuzin",
+      "english": "dozen",
+      "pronunciation": "TOO-zheen",
+      "gender": "m",
+      "category": "collective",
+      "examplePolish": "Kupiłam tuzin jajek.",
+      "exampleEnglish": "I bought a dozen eggs."
+    },
+    {
+      "id": "b1-ch11-w003",
+      "polish": "setka",
+      "english": "a hundred (colloquial)",
+      "pronunciation": "SET-kah",
+      "gender": "f",
+      "category": "collective",
+      "examplePolish": "Przyszła setka ludzi.",
+      "exampleEnglish": "A hundred people came."
+    },
+    {
+      "id": "b1-ch11-w004",
+      "polish": "tysiąc",
+      "english": "thousand",
+      "pronunciation": "TY-shonts",
+      "gender": "m",
+      "category": "number",
+      "examplePolish": "Tysiąc osób wzięło udział w maratonie.",
+      "exampleEnglish": "A thousand people took part in the marathon."
+    },
+    {
+      "id": "b1-ch11-w005",
+      "polish": "milion",
+      "english": "million",
+      "pronunciation": "MEE-lyohn",
+      "gender": "m",
+      "category": "number",
+      "examplePolish": "Milion Polaków mieszka za granicą.",
+      "exampleEnglish": "A million Poles live abroad."
+    },
+    {
+      "id": "b1-ch11-w006",
+      "polish": "oboje",
+      "english": "both (mixed gender)",
+      "pronunciation": "oh-BOH-ye",
+      "gender": null,
+      "category": "collective",
+      "examplePolish": "Oboje są z Polski.",
+      "exampleEnglish": "Both of them are from Poland."
+    },
+    {
+      "id": "b1-ch11-w007",
+      "polish": "obydwoje",
+      "english": "both (emphatic, mixed gender)",
+      "pronunciation": "oh-bid-VOH-ye",
+      "gender": null,
+      "category": "collective",
+      "examplePolish": "Lubimy ich obydwoje.",
+      "exampleEnglish": "We like both of them."
+    },
+    {
+      "id": "b1-ch11-w008",
+      "polish": "po kolei",
+      "english": "one by one, in turn",
+      "pronunciation": "poh KOH-lay",
+      "gender": null,
+      "category": "expression",
+      "examplePolish": "Proszę mówić po kolei.",
+      "exampleEnglish": "Please speak one at a time."
+    },
+    {
+      "id": "b1-ch11-w009",
+      "polish": "kolejno",
+      "english": "in sequence, one after another",
+      "pronunciation": "koh-LEY-noh",
+      "gender": null,
+      "category": "adverb",
+      "examplePolish": "Odpowiadali kolejno.",
+      "exampleEnglish": "They answered one after another."
+    },
+    {
+      "id": "b1-ch11-w010",
+      "polish": "po równo",
+      "english": "equally, in equal parts",
+      "pronunciation": "poh ROOV-noh",
+      "gender": null,
+      "category": "expression",
+      "examplePolish": "Podzieliliśmy się po równo.",
+      "exampleEnglish": "We divided it equally."
+    },
+    {
+      "id": "b1-ch11-w011",
+      "polish": "rodzeństwo",
+      "english": "siblings (as a group)",
+      "pronunciation": "rod-ZEN-stvoh",
+      "gender": "n",
+      "category": "family",
+      "examplePolish": "Czworo rodzeństwa mieszka razem.",
+      "exampleEnglish": "Four siblings live together."
+    },
+    {
+      "id": "b1-ch11-w012",
+      "polish": "wnuki / wnuczęta",
+      "english": "grandchildren",
+      "pronunciation": "VNOO-kee / vnoo-CHYEN-tah",
+      "gender": "n",
+      "category": "family",
+      "examplePolish": "Mamy troje wnucząt.",
+      "exampleEnglish": "We have three grandchildren."
+    },
+    {
+      "id": "b1-ch11-w013",
+      "polish": "bliźnięta",
+      "english": "twins",
+      "pronunciation": "bleezh-NYEN-tah",
+      "gender": "n",
+      "category": "family",
+      "examplePolish": "Dwoje bliźniąt urodziło się w maju.",
+      "exampleEnglish": "A pair of twins was born in May."
+    },
+    {
+      "id": "b1-ch11-w014",
+      "polish": "szczenięta",
+      "english": "puppies",
+      "pronunciation": "shche-NYEN-tah",
+      "gender": "n",
+      "category": "animals",
+      "examplePolish": "Troje szczeniąt śpi w koszyczku.",
+      "exampleEnglish": "Three puppies are sleeping in the basket."
+    },
+    {
+      "id": "b1-ch11-w015",
+      "polish": "kocięta",
+      "english": "kittens",
+      "pronunciation": "koh-CHYEN-tah",
+      "gender": "n",
+      "category": "animals",
+      "examplePolish": "Pięcioro kociąt bawiło się w ogrodzie.",
+      "exampleEnglish": "Five kittens played in the garden."
+    },
+    {
+      "id": "b1-ch11-w016",
+      "polish": "drzwi",
+      "english": "door(s) — plurale tantum",
+      "pronunciation": "dzhvee",
+      "gender": "pl",
+      "category": "plurale_tantum",
+      "examplePolish": "Troje drzwi prowadzi na taras.",
+      "exampleEnglish": "Three doors lead to the terrace."
+    },
+    {
+      "id": "b1-ch11-w017",
+      "polish": "skrzypce",
+      "english": "violin — plurale tantum",
+      "pronunciation": "SKZHIP-tseh",
+      "gender": "pl",
+      "category": "plurale_tantum",
+      "examplePolish": "Dwoje skrzypiec leżało na stole.",
+      "exampleEnglish": "Two violins lay on the table."
+    },
+    {
+      "id": "b1-ch11-w018",
+      "polish": "spodnie",
+      "english": "trousers — plurale tantum",
+      "pronunciation": "SPOD-nyeh",
+      "gender": "pl",
+      "category": "plurale_tantum",
+      "examplePolish": "Kupiłem dwoje spodni.",
+      "exampleEnglish": "I bought two pairs of trousers."
+    },
+    {
+      "id": "b1-ch11-w019",
+      "polish": "okulary",
+      "english": "glasses — plurale tantum",
+      "pronunciation": "oh-koo-LAH-ry",
+      "gender": "pl",
+      "category": "plurale_tantum",
+      "examplePolish": "Zgubiłam dwoje okularów.",
+      "exampleEnglish": "I lost two pairs of glasses."
+    },
+    {
+      "id": "b1-ch11-w020",
+      "polish": "nożyczki",
+      "english": "scissors — plurale tantum",
+      "pronunciation": "noh-ZHICH-kee",
+      "gender": "pl",
+      "category": "plurale_tantum",
+      "examplePolish": "Potrzebuję dwoje nożyczek.",
+      "exampleEnglish": "I need two pairs of scissors."
+    },
+    {
+      "id": "b1-ch11-w021",
+      "polski": "nieletni",
+      "polish": "nieletni",
+      "english": "minor (underage person)",
+      "pronunciation": "nyeh-LET-nee",
+      "gender": "m",
+      "category": "formal",
+      "examplePolish": "Troje nieletnich wzięło udział w programie.",
+      "exampleEnglish": "Three minors participated in the programme."
+    },
+    {
+      "id": "b1-ch11-w022",
+      "polish": "kandydat / kandydatka",
+      "english": "candidate",
+      "pronunciation": "kan-DY-dat",
+      "gender": "m/f",
+      "category": "formal",
+      "examplePolish": "Pięcioro kandydatów stanęło do wyborów.",
+      "exampleEnglish": "Five candidates stood in the election."
+    },
+    {
+      "id": "b1-ch11-w023",
+      "polish": "uczestnik / uczestniczka",
+      "english": "participant",
+      "pronunciation": "oo-CHEST-neek",
+      "gender": "m/f",
+      "category": "formal",
+      "examplePolish": "Dziesięcioro uczestników zdało egzamin.",
+      "exampleEnglish": "Ten participants passed the exam."
+    },
+    {
+      "id": "b1-ch11-w024",
+      "polish": "po jednym",
+      "english": "one by one (sequential)",
+      "pronunciation": "poh YED-nim",
+      "gender": null,
+      "category": "expression",
+      "examplePolish": "Wchodzili po jednym.",
+      "exampleEnglish": "They entered one by one."
+    },
+    {
+      "id": "b1-ch11-w025",
+      "polish": "na osobę",
+      "english": "per person",
+      "pronunciation": "nah oh-SOH-beh",
+      "gender": null,
+      "category": "expression",
+      "examplePolish": "Bilety kosztują sto złotych na osobę.",
+      "exampleEnglish": "Tickets cost one hundred zlotys per person."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 12,
+  "tags": ["collective-numerals", "plurale-tantum", "b1-vocabulary"]
+}

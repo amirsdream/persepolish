@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch15-l01-agent-nouns-arz",
+  "chapter": 15,
+  "lessonOrder": 1,
+  "level": "b1",
+  "title": "Agent Nouns: -arz Suffix",
+  "title_fa": "اسامی فاعلی: پسوند -arz",
+  "grammarPoint": "Agent nouns with -arz suffix: piekarz (baker), aptekarz (pharmacist), dziennikarz (journalist)",
+  "grammarPoint_fa": "اسامی فاعلی با پسوند -arz: piekarz (نانوا)، aptekarz (داروساز)، dziennikarz (روزنامه‌نگار)",
+  "explanation": {
+    "text": "The suffix **-arz** (and its variants **-arz, -rz**) forms agent nouns — words meaning 'a person who does X' or 'a person associated with X'.\n\n**Common -arz agent nouns:**\n\n| Base/Activity | Agent noun | Meaning |\n|--------------|-----------|--------|\n| piec (to bake) / piekarnia | **piekarz** | baker |\n| apteka (pharmacy) | **aptekarz** | pharmacist |\n| dziennik (journal) | **dziennikarz** | journalist |\n| zegarek (watch) | **zegarmistrz** | watchmaker |\n| wino (wine) | **winiarz** | winemaker |\n| rzeźba (sculpture) | **rzeźbiarz** | sculptor |\n| szklarz (glass) | **szklarz** | glazier |\n| murarz (wall) | **murarz** | bricklayer/mason |\n| tokarz (lathe) | **tokarz** | lathe operator |\n| drukarz (druk = print) | **drukarz** | printer |\n\n**Feminine forms:**\nAgent nouns in -arz form feminine with -ka:\n- piekarz → **piekarka** (female baker)\n- dziennikarz → **dziennikarka** (female journalist)\n- aptekarz → **aptekarka** (female pharmacist)\n\n**Grammar note:**\nThese are masculine nouns:\n- Nominative: piekarz, dziennikarz\n- Genitive: piekarza, dziennikarza\n- Accusative (animate): piekarza, dziennikarza (same as genitive!)\n- Dative: piekarzowi, dziennikarzowi\n- Instrumental: piekarzem, dziennikarzem\n- Locative: o piekarzu, o dziennikarzu",
+    "notes": [
+      "-arz agent nouns are masculine; feminine formed with -arka",
+      "Accusative of animate masculine = genitive: widzę dziennikarza",
+      "Common in professions and trades",
+      "Some -arz nouns relate to places not activities: apteka → aptekarz"
+    ]
+  },
+  "explanation_fa": "پسوند -arz در لهستانی اسامی فاعلی می‌سازد — کلماتی که به معنی 'کسی که X انجام می‌دهد' یا 'کسی که با X مرتبط است': piekarz (نانوا از piekarnia نانوایی)، aptekarz (داروساز از apteka داروخانه)، dziennikarz (روزنامه‌نگار از dziennik روزنامه). شکل مؤنث با -ka: dziennikarka. این اسامی مذکر جاندار هستند، پس مفعولی = مضاف‌الیه: widzę dziennikarza.",
+  "exercises": [
+    {
+      "id": "b1-ch15-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "What is a 'piekarz'?",
+      "prompt_fa": "'piekarz' چیست؟",
+      "options": [
+        "A baker (person who bakes)",
+        "A pharmacy worker",
+        "A journalist",
+        "A sculptor"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Piekarz' comes from 'piekarnia' (bakery) / 'piec' (to bake). It means baker — the person who bakes bread.",
+      "explanation_fa": "'Piekarz' از 'piekarnia' (نانوایی) / 'piec' (پختن) می‌آید. به معنی نانوا — کسی که نان می‌پزد."
+    },
+    {
+      "id": "b1-ch15-l01-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "A journalist works for a newspaper. Complete with the correct form:",
+      "context_fa": "یک روزنامه‌نگار برای روزنامه کار می‌کند. با شکل درست کامل کنید:",
+      "sentence": "Mój brat jest ___.",
+      "prompt": "Mój brat jest ___.",
+      "prompt_fa": "Mój brat jest ___.",
+      "answer": "dziennikarzem",
+      "acceptableAnswers": ["dziennikarzem"],
+      "hint": "być + instrumental: dziennikarz → dziennikarzem",
+      "explanation": "'Jest dziennikarzem' — is a journalist. After 'być' (to be), use instrumental: dziennikarz → dziennikarzem.",
+      "explanation_fa": "'Jest dziennikarzem' — روزنامه‌نگار است. بعد از 'być' (بودن)، ابزاری استفاده می‌شود: dziennikarz → dziennikarzem."
+    },
+    {
+      "id": "b1-ch15-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch15/b1-ch15-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Moja mama jest aptekarką.",
+        "Moja mama jest aptekarzem.",
+        "Moja mama jest aptekarka.",
+        "Moja mama jest w aptece."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Aptekarką' — feminine form of 'aptekarz' (pharmacist) in instrumental after 'jest'. Feminine: aptekarka → instrumental: aptekarką.",
+      "explanation_fa": "'Aptekarką' — شکل مؤنث 'aptekarz' (داروساز) در ابزاری بعد از 'jest'. مؤنث: aptekarka → ابزاری: aptekarką."
+    },
+    {
+      "id": "b1-ch15-l01-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: I met a famous sculptor at the exhibition.",
+      "prompt_fa": "بسازید: در نمایشگاه یک مجسمه‌ساز مشهور ملاقات کردم.",
+      "wordBank": ["Poznałam", "słynnego", "rzeźbiarza", "rzeźbiarz", "na", "wystawie"],
+      "correctSequences": [["Poznałam", "słynnego", "rzeźbiarza", "na", "wystawie"]],
+      "explanation": "'Poznałam słynnego rzeźbiarza na wystawie.' — I met a famous sculptor at the exhibition. 'Rzeźbiarza' = accusative (animate = genitive) of 'rzeźbiarz'.",
+      "explanation_fa": "'Poznałam słynnego rzeźbiarza na wystawie.' — در نمایشگاه یک مجسمه‌ساز مشهور ملاقات کردم. 'Rzeźbiarza' = مفعولی (جاندار = مضاف‌الیه) از 'rzeźbiarz'."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["word-formation", "agent-nouns", "suffixes", "b1-core"],
+  "prerequisites": ["a1-ch03-l01"]
+}

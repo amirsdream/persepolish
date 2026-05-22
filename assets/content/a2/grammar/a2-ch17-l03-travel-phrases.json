@@ -8,21 +8,23 @@
   "grammarPoint": "Travel vocabulary in grammatical structures: kupić bilet do/na, zarezerwować pokój w, przesiadka w, polecieć do, wrócić z",
   "grammarPoint_fa": "عبارات سفر با ساختارهای دستوری: rezerwować، podróżować، pytać o",
   "explanation": {
-    "text": "Practical travel phrases with their grammatical structures.\n\n**Buying tickets:**\n- Poproszę bilet **do** Krakowa. (bilet do + genitive = ticket to)\n- Poproszę bilet **na** pociąg/samolot. (bilet na + accusative = ticket for train/plane)\n- Bilet w jedną stronę / bilet powrotny. (one-way / return ticket)\n\n**Making reservations:**\n- Chciałbym zarezerwować pokój **w** hotelu... (w + locative)\n- Rezerwuję stolik **na** dwie osoby. (na + accusative: for two)\n- Mam rezerwację **na** nazwisko... (na + accusative: under the name)\n\n**Getting around:**\n- Potrzebuję przesiadki **w** Warszawie. (przesiadka w + locative)\n- Skąd odjeżdża autobus **do** centrum? (do + genitive)\n- Z którego peronu odjeżdża pociąg? (z + genitive: from which platform)\n\n**Returning:**\n- Wróciłam **z** Paryża wczoraj. (wrócić z + genitive)\n- Przyleciałem **z** Londynu. (przylecieć z + genitive)\n\n**Asking for directions:**\n- Jak dojść/dojechać **do** muzeum? (do + genitive)\n- Czy to daleko **od** stacji? (od + genitive: from)",
+    "text": "Practical travel phrases with their grammatical structures.\n\n**At the airport / station:**\n- Jestem **na lotnisku**. (I'm at the airport.) [na + locative]\n- Jestem **na dworcu**. (I'm at the station.) [na + locative]\n- Odprawiam **bagaż**. (I'm checking in luggage.) [accusative object]\n- Wsiadać **do** pociągu/autobusu. (To board a train/bus.) [do + genitive]\n- Wysiadać **z** pociągu/autobusu. (To get off a train/bus.) [z + genitive]\n\n**Buying tickets:**\n- Poproszę bilet **do** Krakowa. (bilet do + genitive = ticket to)\n- Poproszę bilet **na** pociąg/samolot. (bilet na + accusative = ticket for train/plane)\n- Bilet w jedną stronę / bilet powrotny. (one-way / return ticket)\n- Kupować bilet **przez** internet. (to buy a ticket online)\n\n**Making reservations:**\n- Chciałbym zarezerwować pokój **w** hotelu... (w + locative)\n- Rezerwuję stolik **na** dwie osoby. (na + accusative: for two)\n- Mam rezerwację **na** nazwisko... (na + accusative: under the name)\n\n**Getting around:**\n- Potrzebuję przesiadki **w** Warszawie. (przesiadka w + locative)\n- Skąd odjeżdża autobus **do** centrum? (do + genitive)\n- Z którego peronu odjeżdża pociąg? (z + genitive: from which platform)\n\n**Returning:**\n- Wróciłam **z** Paryża wczoraj. (wrócić z + genitive)\n- Przyleciałem **z** Londynu. (przylecieć z + genitive)\n\n**Asking for directions:**\n- Jak dojść/dojechać **do** muzeum? (do + genitive)\n- Czy to daleko **od** stacji? (od + genitive: from)",
     "notes": [
       "Bilet do + genitive (destination): bilet do Krakowa.",
       "Zarezerwować + accusative (reserve something): zarezerwować pokój.",
       "Wrócić z + genitive (return from): wróciłam z Paryża.",
-      "Przesiadka = transfer/connection (n): robić przesiadkę."
+      "Wsiadać do + genitive (board): wsiadać do pociągu. Wysiadać z + genitive (alight): wysiadać z autobusu.",
+      "Na lotnisku / na dworcu = at the airport / at the station (na + locative)."
     ]
   },
-  "explanation_fa": "عبارات سفر با ساختارهای دستوری: rezerwować pokój (اتاق رزرو کردن)، pytać o drogę (راه پرسیدن)، wsiadać do + مضاف‌الیهی (سوار شدن)، wysiadać z + مضاف‌الیهی (پیاده شدن)، przesiadać się na + مفعولی (عوض کردن وسیله)، dojechać do + مضاف‌الیهی (رسیدن به).",
+  "explanation_fa": "عبارات سفر با ساختارهای دستوری: rezerwować pokój (اتاق رزرو کردن)، pytać o drogę (راه پرسیدن)، wsiadać do + مضاف‌الیهی (سوار شدن به)، wysiadać z + مضاف‌الیهی (پیاده شدن از)، przesiadać się na + مفعولی (عوض کردن وسیله)، dojechać do + مضاف‌الیهی (رسیدن به)، na lotnisku (در فرودگاه)، na dworcu (در ایستگاه).",
   "exercises": [
     {
       "id": "a2-ch17-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Poproszę dwa bilety ___ Warszawy. (Two tickets to Warsaw, please.) [do + genitive]",
+      "prompt_fa": "لطفاً دو بلیط به ورشو می‌خواهم. [do + مضاف‌الیهی]",
       "options": [
         "do",
         "na",
@@ -30,23 +32,34 @@
         "za"
       ],
       "correctIndex": 0,
-      "explanation": "Ticket destination: bilet do + genitive. 'Do Warszawy' (Warszawa → genitive: Warszawy). 'Bilet na Warszawę' is not standard Polish."
+      "explanation": "Ticket destination: bilet do + genitive. 'Do Warszawy' (Warszawa → genitive: Warszawy). 'Bilet na Warszawę' is not standard Polish.",
+      "explanation_fa": "مقصد بلیط: bilet do + مضاف‌الیهی. do Warszawy (Warszawa → مضاف‌الیهی: Warszawy). bilet na Warszawę در لهستانی استاندارد نیست."
     },
     {
       "id": "a2-ch17-l03-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Chciałbym zarezerwować pokój ___ hotel Marriott. (I'd like to reserve a room at the Marriott hotel.) [w + locative]",
+      "context": "Travel prepositions. Complete:",
+      "context_fa": "حروف اضافه سفر. کامل کنید:",
+      "sentence": "Chciałbym zarezerwować pokój ___ hotelu Marriott.",
+      "translation": "(I'd like to reserve a room at the Marriott hotel.) [w + locative]",
+      "translation_fa": "(می‌خواهم یک اتاق در هتل ماریوت رزرو کنم.) [w + مکانی]",
+      "prompt": "Chciałbym zarezerwować pokój ___ hotelu Marriott.",
+      "prompt_fa": "Chciałbym zarezerwować pokój ___ hotelu Marriott.",
       "answer": "w",
       "acceptableAnswers": [
         "w"
       ],
-      "hint": "Location of hotel: w + locative. W hotelu (hotel → locative: hotelu)"
+      "hint": "Location of hotel: w + locative. W hotelu (hotel → locative: hotelu)",
+      "explanation": "'W + locative' = in/at (location). 'W hotelu' = at the hotel (hotel → locative: hotelu). The hotel is a location, not a direction.",
+      "explanation_fa": "w + مکانی = در/در (موقعیت). w hotelu = در هتل (hotel → مکانی: hotelu). هتل یک موقعیت است، نه جهت."
     },
     {
       "id": "a2-ch17-l03-ex03",
       "type": "dictation_mc",
       "order": 3,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch17/a2-ch17-l03-ex03.mp3",
       "options": [
         "Wróciłam z Paryża wczoraj wieczorem.",
@@ -55,13 +68,15 @@
         "Wróciłem z Paryża wczoraj wieczorem."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Wróciłam z Paryża wczoraj wieczorem.' — I (f) returned from Paris yesterday evening. 'Wrócić z + genitive': z Paryża (Paryż → genitive: Paryża)."
+      "explanation": "You heard: 'Wróciłam z Paryża wczoraj wieczorem.' — I (f) returned from Paris yesterday evening. 'Wrócić z + genitive': z Paryża (Paryż → genitive: Paryża).",
+      "explanation_fa": "شنیدید: 'Wróciłam z Paryża wczoraj wieczorem.' — دیشب از پاریس برگشتم (گوینده مؤنث). wrócić z + مضاف‌الیهی: z Paryża (Paryż → مضاف‌الیهی: Paryża)."
     },
     {
       "id": "a2-ch17-l03-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Mam rezerwację ___ nazwisko Kowalski. (I have a reservation under the name Kowalski.)",
+      "prompt_fa": "رزروی به نام کواْلسکی دارم.",
       "options": [
         "na",
         "do",
@@ -69,40 +84,125 @@
         "od"
       ],
       "correctIndex": 0,
-      "explanation": "Reservation under a name: 'rezerwacja na nazwisko' (na + accusative). 'Na nazwisko' is a fixed expression meaning 'under the name'."
+      "explanation": "Reservation under a name: 'rezerwacja na nazwisko' (na + accusative). 'Na nazwisko' is a fixed expression meaning 'under the name'.",
+      "explanation_fa": "رزرو به نام: rezerwacja na nazwisko (na + مفعولی). na nazwisko یک عبارت ثابت است به معنای 'به نام'."
     },
     {
       "id": "a2-ch17-l03-ex05",
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: How do I get to the train station? (on foot — do + genitive)",
+      "prompt_fa": "بسازید: چگونه به ایستگاه قطار برسم؟ (پیاده — do + مضاف‌الیهی)",
       "wordBank": [
         "Jak",
         "dojść",
         "dojechać",
         "do",
         "stacji",
-        "dworzec",
         "dworca",
         "kolejowej",
         "?"
       ],
       "correctSequences": [
-        [
-          "Jak",
-          "dojść",
-          "do",
-          "stacji",
-          "kolejowej"
-        ],
-        [
-          "Jak",
-          "dojść",
-          "do",
-          "dworca"
-        ]
+        ["Jak", "dojść", "do", "stacji", "kolejowej", "?"],
+        ["Jak", "dojść", "do", "dworca", "?"]
       ],
-      "explanation": "'Jak dojść do stacji kolejowej?' or 'Jak dojść do dworca?' — How do I get (on foot) to the train station? 'Dojść do + genitive'. 'Stacja kolejowa' → genitive: stacji kolejowej. 'Dworzec' → genitive: dworca."
+      "explanation": "'Jak dojść do stacji kolejowej?' or 'Jak dojść do dworca?' — How do I get (on foot) to the train station? 'Dojść do + genitive'. 'Stacja kolejowa' → genitive: stacji kolejowej. 'Dworzec' → genitive: dworca.",
+      "explanation_fa": "Jak dojść do stacji kolejowej? یا Jak dojść do dworca? — چگونه (پیاده) به ایستگاه قطار برسم؟ dojść do + مضاف‌الیهی. stacja kolejowa → مضاف‌الیهی: stacji kolejowej. dworzec → مضاف‌الیهی: dworca."
+    },
+    {
+      "id": "a2-ch17-l03-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia is boarding the train. Kasia wsiada ___ pociągu. [wsiadać do + genitive]",
+      "prompt_fa": "کاسیا دارد سوار قطار می‌شود. [wsiadać do + مضاف‌الیهی]",
+      "options": [
+        "do",
+        "na",
+        "z",
+        "w"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wsiadać do + genitive' = to board (a train/bus/car). 'Do pociągu' = onto the train (pociąg → genitive: pociągu). Contrast: wysiadać z pociągu = to get off the train (z + genitive).",
+      "explanation_fa": "wsiadać do + مضاف‌الیهی = سوار شدن به (قطار/اتوبوس/ماشین). do pociągu = به قطار (pociąg → مضاف‌الیهی: pociągu). مقایسه: wysiadać z pociągu = پیاده شدن از قطار (z + مضاف‌الیهی)."
+    },
+    {
+      "id": "a2-ch17-l03-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Airport phrase. Complete:",
+      "context_fa": "عبارت فرودگاهی. کامل کنید:",
+      "sentence": "Czekam na Tomka ___ lotnisku.",
+      "translation": "(I'm waiting for Tomek at the airport.) [na + locative]",
+      "translation_fa": "(دارم منتظر توْمک در فرودگاه هستم.) [na + مکانی]",
+      "prompt": "Czekam na Tomka ___ lotnisku.",
+      "prompt_fa": "Czekam na Tomka ___ lotnisku.",
+      "answer": "na",
+      "acceptableAnswers": [
+        "na"
+      ],
+      "hint": "At the airport = na lotnisku (na + locative of lotnisko)",
+      "explanation": "'Na lotnisku' = at the airport. 'Lotnisko' → locative: lotnisku. Note: airports and stations use 'na' (not 'w'): na lotnisku, na dworcu.",
+      "explanation_fa": "na lotnisku = در فرودگاه. lotnisko → مکانی: lotnisku. توجه: برای فرودگاه‌ها و ایستگاه‌ها از na استفاده می‌شود (نه w): na lotnisku، na dworcu."
+    },
+    {
+      "id": "a2-ch17-l03-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch17/a2-ch17-l03-ex08.mp3",
+      "options": [
+        "Muszę odprawić bagaż przed odlotem.",
+        "Muszę zabrać bagaż przed odlotem.",
+        "Muszę sprawdzić bagaż przed odlotem.",
+        "Muszę oddać bagaż przed odlotem."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Muszę odprawić bagaż przed odlotem.' — I need to check in my luggage before the flight. 'Odprawić bagaż' = to check in luggage. 'Przed odlotem' = before the flight (przed + instrumental of odlot).",
+      "explanation_fa": "شنیدید: 'Muszę odprawić bagaż przed odlotem.' — باید قبل از پرواز چمدانم را تحویل دهم. odprawić bagaż = تحویل چمدان دادن. przed odlotem = قبل از پرواز (przed + ابزاری odlot)."
+    },
+    {
+      "id": "a2-ch17-l03-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: Ania got off the bus at the main square. (wysiadać z + gen, na + loc)",
+      "prompt_fa": "بسازید: آنیا در میدان اصلی از اتوبوس پیاده شد. (wysiadać z + مضاف‌الیهی، na + مکانی)",
+      "wordBank": [
+        "Ania",
+        "wysiadła",
+        "z",
+        "do",
+        "autobusu",
+        "autobusie",
+        "na",
+        "rynku",
+        "rynek",
+        "głównym",
+        "główny",
+        "."
+      ],
+      "correctSequences": [
+        ["Ania", "wysiadła", "z", "autobusu", "na", "rynku", "głównym", "."]
+      ],
+      "explanation": "'Ania wysiadła z autobusu na rynku głównym.' — Ania got off the bus at the main square. 'Wysiadać z + genitive': autobus → autobusu. 'Na rynku głównym' = at the main square (na + locative: rynek → rynku, główny → głównym).",
+      "explanation_fa": "Ania wysiadła z autobusu na rynku głównym. — آنیا در میدان اصلی از اتوبوس پیاده شد. wysiadać z + مضاف‌الیهی: autobus → autobusu. na rynku głównym = در میدان اصلی (na + مکانی: rynek → rynku)."
+    },
+    {
+      "id": "a2-ch17-l03-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Tomek bought a ticket online. Tomek kupił bilet ___ internet. [przez + accusative]",
+      "prompt_fa": "توْمک بلیط را آنلاین خرید. [przez + مفعولی]",
+      "options": [
+        "przez",
+        "na",
+        "do",
+        "w"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Kupić przez internet' = to buy online (through the internet). 'Przez + accusative' = through/via. This is a fixed expression: kupować przez internet.",
+      "explanation_fa": "kupić przez internet = آنلاین خریدن (از طریق اینترنت). przez + مفعولی = از طریق/از راه. این یک عبارت ثابت است: kupować przez internet."
     }
   ],
   "xpReward": 20,

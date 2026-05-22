@@ -8,21 +8,22 @@
   "grammarPoint": "Case agreement after numbers: jeden/jedna, dwa/dwie, 3-4, 5+ rule",
   "grammarPoint_fa": "عدد ۱ + فاعلی؛ ۲-۴ + فاعلی جمع؛ ۵+ + مضاف‌الیهی جمع",
   "explanation": {
-    "text": "The case of the noun after a number depends on the number itself:\n\n| Number | Noun form | Example |\n|--------|-----------|----------|\n| **1** (jeden/jedna/jedno) | **Nominative singular** | jeden student, jedna studentka |\n| **2, 3, 4** (dwa, trzy, cztery) | **Nominative plural** (non-virile) or **Genitive singular** (virile) | dwa koty, dwie siostry |\n| **5+** (pięć, sześć…) | **Genitive plural** | pięć studentów, pięć kotów |\n\n**Key patterns for shopping:**\n- jeden złoty (one zloty)\n- dwa / trzy / cztery złote (2/3/4 zloty)\n- pięć złotych (5 zloty and above)\n\nFor now, focus on the 1 / 2-4 / 5+ distinction with common nouns.",
+    "text": "## Numbers + Nouns — Case Rules\n\nIn Polish, the **case of the noun** after a number depends on the number itself. This is one of the most important patterns for shopping and everyday life.\n\n### The 1 / 2–4 / 5+ rule\n\n| Number | Noun form | Example | English |\n|--------|-----------|---------|----------|\n| **1** (jeden/jedna/jedno) | **Nominative singular** | jeden student, jedna studentka | one student |\n| **2, 3, 4** | **Nominative plural** | dwa koty, trzy siostry | two cats, three sisters |\n| **5+** (pięć, sześć, ...) | **Genitive plural** | pięć studentów, siedem kotów | five students, seven cats |\n\n> 🔑 **Rule summary:** 1 = nominative sg | 2–4 = nominative pl | 5+ = genitive pl\n\n### Currency — złoty\n\nThe Polish currency has three distinct forms:\n\n| Amount | Noun form | Polish | English |\n|--------|-----------|--------|----------|\n| 1 | nominative singular | jeden **złoty** | one zloty |\n| 2, 3, 4 | nominative plural | dwa/trzy/cztery **złote** | two/three/four zloty |\n| 5+ | genitive plural | pięć/dziesięć **złotych** | five/ten zloty |\n| 1 | nominative singular | jeden **grosz** | one grosz |\n| 2–4 | nominative plural | dwa/trzy/cztery **grosze** | two/three/four grosze |\n| 5+ | genitive plural | pięć/dwadzieścia **groszy** | five/twenty grosze |\n\n### Shopping phrases\n\n| Polish | English |\n|--------|---------|\n| *Proszę **jedno** jabłko.* | One apple please. |\n| *Proszę **dwa** jabłka.* | Two apples please. |\n| *Proszę **pięć** jabłek.* | Five apples please. |\n| *To kosztuje **trzy** złote.* | This costs three zloty. |\n| *To kosztuje **dziesięć** złotych.* | This costs ten zloty. |\n| *Ile kosztuje?* | How much does it cost? |\n\n### After mam (accusative context)\n\nWhen 'mam' (I have) is used with **1 masculine animate**, the accusative form is used:\n\n| Polish | English | Note |\n|--------|---------|------|\n| Mam **jednego** brata. | I have one brother. | acc. of jeden (masc. anim.) |\n| Mam **jedną** siostrę. | I have one sister. | acc. of jedna (fem.) |\n| Mam **dwa** koty. | I have two cats. | 2–4 + nominative plural |\n| Mam **pięć** kotów. | I have five cats. | 5+ + genitive plural |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *pięć koty* | *pięć **kotów*** | 5+ → genitive plural |\n| *dwa złoty* | *dwa **złote*** | 2–4 → nominative plural of złoty |\n| *jeden studentów* | *jeden **student*** | 1 → nominative singular |\n| *trzy złotych* | *trzy **złote*** | 3 uses nominative plural, not genitive |",
     "notes": [
-      "1 = nominative singular; 2-4 = nominative plural (simplification at A1); 5+ = genitive plural.",
-      "złoty (currency): 1 złoty, 2-4 złote, 5+ złotych.",
-      "groszy (cents): 1 grosz, 2-4 grosze, 5+ groszy.",
-      "In shops: Proszę pięć jabłek = Five apples please (genitive plural)."
+      "1 = nominative singular; 2-4 = nominative plural; 5+ = genitive plural — this rule is universal",
+      "złoty currency: złoty (1), złote (2-4), złotych (5+)",
+      "groszy currency: grosz (1), grosze (2-4), groszy (5+)",
+      "Shopping: 'Proszę pięć jabłek' (Five apples please) uses genitive plural jabłek"
     ]
   },
-  "explanation_fa": "اعداد لهستانی حالت دستوری اسم را تعیین می‌کنند: 1 + حالت فاعلی مفرد (jeden kot)، 2-4 + حالت فاعلی جمع (dwa koty)، 5+ + حالت مضاف‌الیهی جمع (pięć kotów). این قاعده برای همه اعداد صدک یا بیشتر نیز اعمال می‌شود.",
+  "explanation_fa": "## اعداد + اسم‌ها — قواعد حالت‌دهی\n\nدر لهستانی، **حالت دستوری اسم** بعد از عدد به خود عدد بستگی دارد. این یکی از مهم‌ترین الگوها برای خرید و زندگی روزمره است.\n\n### قانون ۱ / ۲–۴ / ۵+\n\n| عدد | شکل اسم | مثال | فارسی |\n|-----|----------|------|-------|\n| **۱** (jeden/jedna/jedno) | **فاعلی مفرد** | jeden student، jedna studentka | یک دانشجو |\n| **۲، ۳، ۴** | **فاعلی جمع** | dwa koty، trzy siostry | دو گربه، سه خواهر |\n| **۵+** (pięć، sześć، ...) | **مضاف‌الیهی جمع** | pięć studentów، siedem kotów | پنج دانشجو، هفت گربه |\n\n> 🔑 **خلاصه قانون:** ۱ = فاعلی مفرد | ۲–۴ = فاعلی جمع | ۵+ = مضاف‌الیهی جمع\n\n### پول رایج — złoty\n\n| مقدار | شکل اسم | لهستانی | فارسی |\n|-------|---------|---------|-------|\n| ۱ | فاعلی مفرد | jeden **złoty** | یک زلوتی |\n| ۲، ۳، ۴ | فاعلی جمع | dwa/trzy/cztery **złote** | دو/سه/چهار زلوتی |\n| ۵+ | مضاف‌الیهی جمع | pięć/dziesięć **złotych** | پنج/ده زلوتی |\n\n### عبارات خرید\n\n| لهستانی | فارسی |\n|---------|-------|\n| *Proszę **jedno** jabłko.* | یک سیب لطفاً. |\n| *Proszę **dwa** jabłka.* | دو سیب لطفاً. |\n| *Proszę **pięć** jabłek.* | پنج سیب لطفاً. |\n| *To kosztuje **trzy** złote.* | این سه زلوتی قیمت دارد. |\n| *Ile kosztuje?* | چقدر قیمت دارد؟ |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *pięć koty* | *pięć **kotów*** | ۵+ → مضاف‌الیهی جمع |\n| *dwa złoty* | *dwa **złote*** | ۲–۴ → فاعلی جمع złoty |\n| *jeden studentów* | *jeden **student*** | ۱ → فاعلی مفرد |\n| *trzy złotych* | *trzy **złote*** | ۳ از فاعلی جمع استفاده می‌کند نه مضاف‌الیهی |",
   "exercises": [
     {
       "id": "a1-ch04-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Choose the correct form: Mam ___ (three cats). [kot → koty pl.]",
+      "prompt": "Ania has three cats. Complete: Mam ___ (three cats). [kot → koty pl.]",
+      "prompt_fa": "آنیا سه گربه دارد. کامل کنید: Mam ___ (سه گربه). [kot → koty جمع]",
       "options": [
         "trzy koty",
         "trzy kotów",
@@ -30,24 +31,35 @@
         "trzy kota"
       ],
       "correctIndex": 0,
-      "explanation": "After 2-4, use nominative plural (for non-virile nouns): trzy koty. 'Mam trzy koty' = I have three cats."
+      "explanation": "After 2–4, use nominative plural (for non-virile nouns): trzy koty. 'Mam trzy koty' = I have three cats.",
+      "explanation_fa": "بعد از ۲–۴، از فاعلی جمع (برای اسم‌های غیرمردانه) استفاده کنید: trzy koty. 'Mam trzy koty' = سه گربه دارم."
     },
     {
       "id": "a1-ch04-l04-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "To kosztuje pięć ___. (This costs five zloty.) [złoty → genitive plural]",
       "answer": "złotych",
       "acceptableAnswers": [
         "złotych"
       ],
-      "hint": "After 5+, the noun takes genitive plural: złoty → złotych"
+      "hint": "After 5+, the noun takes genitive plural: złoty → złotych",
+      "explanation": "After 5+, use genitive plural: złoty → złotych. 'To kosztuje pięć złotych' = This costs five zloty.",
+      "explanation_fa": "بعد از ۵+، از مضاف‌الیهی جمع استفاده کنید: złoty → złotych. 'To kosztuje pięć złotych' = این پنج زلوتی قیمت دارد.",
+      "context": "Marek is paying at the checkout. Complete:",
+      "context_fa": "ماریک دارد صندوق پرداخت می‌کند. کامل کنید:",
+      "sentence": "To kosztuje pięć ___.",
+      "translation": "(This costs five zloty.) [złoty → genitive plural]",
+      "translation_fa": "(این پنج زلوتی قیمت دارد.) [złoty → مضاف‌الیهی جمع]",
+      "prompt": "To kosztuje pięć ___.",
+      "prompt_fa": "To kosztuje pięć ___."
     },
     {
       "id": "a1-ch04-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch04/a1-ch04-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Proszę dwie kawy.",
         "Proszę dwa kawy.",
@@ -55,19 +67,19 @@
         "Proszę dwie kawę."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Proszę dwie kawy.' — Two coffees please. 'Dwie' (feminine 2) + 'kawy' (genitive singular of kawa, used after 2-4 for feminine nouns)."
+      "explanation": "You heard: 'Proszę dwie kawy.' — Two coffees please. 'Dwie' (feminine 2) + 'kawy' (genitive singular of kawa, used after 2 for feminine nouns).",
+      "explanation_fa": "شنیدید: 'Proszę dwie kawy.' — دو قهوه لطفاً. 'Dwie' (مؤنث ۲) + 'kawy' (مضاف‌الیهی مفرد kawa، که بعد از ۲ برای اسم‌های مؤنث استفاده می‌شود)."
     },
     {
       "id": "a1-ch04-l04-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: I have one brother. [brat = masculine]",
+      "prompt": "Tap the words in order: I have one brother. [brat = masculine animate]",
+      "prompt_fa": "کلمات را به ترتیب بزنید: یک برادر دارم. [brat = مذکر جاندار]",
       "wordBank": [
         "Mam",
         "jednego",
-        "jedną",
         "brata",
-        "brat",
         "siostrę"
       ],
       "correctSequences": [
@@ -77,21 +89,113 @@
           "brata"
         ]
       ],
-      "explanation": "'Mam jednego brata' = I have one brother. After 'mam' (accusative context), 1 masculine animate = jednego + genitive form."
+      "explanation": "'Mam jednego brata' = I have one brother. After 'mam' (accusative), 1 masculine animate = jednego + genitive/accusative form (brata). 'Siostrę' is a distractor.",
+      "explanation_fa": "'Mam jednego brata' = یک برادر دارم. بعد از 'mam' (مفعولی)، ۱ مذکر جاندار = jednego + شکل مضاف‌الیهی/مفعولی (brata). 'Siostrę' گزینه اضافه است."
     },
     {
       "id": "a1-ch04-l04-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "In a shop: 'Proszę ___ jabłek.' (Five apples please.)",
+      "prompt": "Kasia is ordering at the market: 'Proszę ___ jabłek.' (Five apples please.) What goes in the blank?",
+      "prompt_fa": "کاسیا در بازار سفارش می‌دهد: 'Proszę ___ jabłek.' (پنج سیب لطفاً.) چی باید بگذاریم؟",
       "options": [
         "pięć",
-        "pięć jabłek",
         "pięć jabłka",
-        "pięciu"
+        "pięciu",
+        "piąte"
       ],
-      "correctIndex": 1,
-      "explanation": "After 5+, use the genitive plural: pięć jabłek. 'Proszę pięć jabłek' = Five apples please. 'Jabłek' is genitive plural of 'jabłko'."
+      "correctIndex": 0,
+      "explanation": "After 5+, use the genitive plural: pięć jabłek. The blank needs just 'pięć' — 'jabłek' is already provided. 'Proszę pięć jabłek' = Five apples please.",
+      "explanation_fa": "بعد از ۵+، از مضاف‌الیهی جمع استفاده کنید: pięć jabłek. جای خالی فقط به 'pięć' نیاز دارد — 'jabłek' از قبل آمده. 'Proszę pięć jabłek' = پنج سیب لطفاً."
+    },
+    {
+      "id": "a1-ch04-l04-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Marek buys 3 apples. '3 jabłka' — which case is 'jabłka' in?",
+      "prompt_fa": "مارک ۳ سیب می‌خرد. '3 jabłka' — 'jabłka' در کدام حالت است؟",
+      "options": [
+        "genitive singular",
+        "nominative",
+        "accusative",
+        "genitive plural"
+      ],
+      "correctIndex": 0,
+      "explanation": "2, 3, 4 + genitive singular: jabłko → jabłka (gen. sg.). The rule: 1 = nominative, 2–4 = genitive singular, 5+ = genitive plural.",
+      "explanation_fa": "۲، ۳، ۴ + مضاف‌الیهی مفرد: jabłko → jabłka (مضاف‌الیهی مفرد). قانون: ۱ = فاعلی، ۲-۴ = مضاف‌الیهی مفرد، ۵+ = مضاف‌الیهی جمع."
+    },
+    {
+      "id": "a1-ch04-l04-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "kaw",
+      "acceptableAnswers": [
+        "kaw"
+      ],
+      "hint": "Feminine -a nouns: genitive plural often drops -a → kawa → kaw",
+      "explanation": "'Pięć kaw' = five coffees. Kawa (f) → genitive plural: kaw (zero ending). 'Poproszę pięć kaw' = Five coffees please.",
+      "explanation_fa": "'Pięć kaw' = پنج قهوه. kawa (م) → مضاف‌الیهی جمع: kaw (پسوند صفر). 'Poproszę pięć kaw' = پنج قهوه لطفاً.",
+      "context": "Kasia orders 5 coffees:",
+      "context_fa": "کاسیا ۵ قهوه سفارش می‌دهد:",
+      "sentence": "Poproszę pięć ___.",
+      "translation": "[kawa → genitive plural]",
+      "translation_fa": "[kawa → مضاف‌الیهی جمع]",
+      "prompt": "Poproszę pięć ___.",
+      "prompt_fa": "Poproszę pięć ___."
+    },
+    {
+      "id": "a1-ch04-l04-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Ania has two brothers. Which is correct: 'I have 2 brothers'?",
+      "prompt_fa": "آنیا دو برادر دارد. کدام درست است: «دو برادر دارم»؟",
+      "options": [
+        "Mam dwóch braci.",
+        "Mam dwa braci.",
+        "Mam dwoje brat.",
+        "Mam dwa brat."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mam dwóch braci' = I have two brothers. Brat (m animate) + 2 = dwóch + genitive singular (brata → braci in this context). Animate masculine uses the genitive form.",
+      "explanation_fa": "'Mam dwóch braci' = دو برادر دارم. brat (م جاندار) + ۲ = dwóch + مضاف‌الیهی مفرد. مذکر جاندار از شکل مضاف‌الیهی استفاده می‌کند."
+    },
+    {
+      "id": "a1-ch04-l04-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tomek says he has four sisters. Arrange the words.",
+      "prompt_fa": "تامک می‌گوید چهار خواهر دارد. کلمات را به ترتیب بزنید.",
+      "wordBank": [
+        "Mam",
+        "cztery siostry",
+        "czterech",
+        "siostra"
+      ],
+      "correctSequences": [
+        [
+          "Mam",
+          "cztery siostry"
+        ]
+      ],
+      "explanation": "'Mam cztery siostry' = I have four sisters. Siostra (f) + 2/3/4 = genitive singular: siostry. 'Cztery' is the feminine form of 4.",
+      "explanation_fa": "'Mam cztery siostry' = چهار خواهر دارم. siostra (م) + ۲/۳/۴ = مضاف‌الیهی مفرد: siostry. 'Cztery' شکل مؤنث عدد ۴ است."
+    },
+    {
+      "id": "a1-ch04-l04-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch04/a1-ch04-l04-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Potrzebuję siedem zeszytów do szkoły.",
+        "Potrzebuję siedem zeszyta do szkoły.",
+        "Potrzebuję siedem zeszyt do szkoły.",
+        "Potrzebuję siedem zeszycie do szkoły."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Potrzebuję siedem zeszytów do szkoły.' — I need seven notebooks for school. 7+ = genitive plural: zeszyt → zeszytów.",
+      "explanation_fa": "شنیدید: 'Potrzebuję siedem zeszytów do szkoły.' — هفت دفتر برای مدرسه لازم دارم. ۷+ = مضاف‌الیهی جمع: zeszyt → zeszytów."
     }
   ],
   "xpReward": 20,

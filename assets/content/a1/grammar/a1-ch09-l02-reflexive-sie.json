@@ -6,23 +6,24 @@
   "title": "Reflexive Verbs with się",
   "title_fa": "افعال بازتابی با się",
   "grammarPoint": "Reflexive particle się: myć się, uczyć się, czuć się, bać się, cieszyć się",
-  "grammarPoint_fa": "افعال بازتابی: myć się، ubierać się، nazywać się و دیگران",
+  "grammarPoint_fa": "ذره بازتابی się — همیشه بدون تغییر، با همه شخص‌ها یکسان",
   "explanation": {
-    "text": "Many Polish verbs use the reflexive particle **się**, which indicates that the action refers back to the subject (oneself) or is inherently reflexive.\n\n**Types of się verbs:**\n\n**1. True reflexives** (action on oneself):\n- myć **się** = to wash oneself\n- ubierać **się** = to get dressed\n- golić **się** = to shave (oneself)\n\n**2. Inherently reflexive** (verb only exists with się):\n- bać **się** = to be afraid\n- śmiać **się** = to laugh\n- cieszyć **się** = to be happy / rejoice\n- starać **się** = to try / make an effort\n\n**3. Emotional/state się:**\n- czuć **się** = to feel (health/emotion)\n- nudzić **się** = to be bored\n\n**Conjugation pattern:** się stays the same for all persons!\n\n| Person | Example |\n|--------|--------|\n| Ja | **czuję się** dobrze |\n| Ty | **czujesz się** dobrze |\n| On/ona | **czuje się** dobrze |\n| My | **czujemy się** dobrze |\n\n**Word order:** się usually comes after the verb, but can move: *Nie czuję się dobrze* / *Jak się czujesz?*\n\n**Health expressions:**\n- Czuję się dobrze/źle. = I feel well/bad.\n- Boli mnie głowa. = My head hurts. (see next lesson)\n- Jestem przeziębiony/a. = I have a cold.",
+    "text": "## Reflexive Verbs with się\n\nMany Polish verbs use the reflexive particle **się**, which either indicates the action refers back to the subject (doing something to oneself), or marks a verb that simply always requires się.\n\n### Three types of się verbs\n\n| Type | Description | Examples |\n|------|-------------|----------|\n| **True reflexive** | Action on oneself | myć się (wash oneself), ubierać się (get dressed), golić się (shave) |\n| **Inherently reflexive** | Verb only exists with się | bać się (be afraid), śmiać się (laugh), cieszyć się (be happy) |\n| **Emotional / state** | Describes how one feels | czuć się (feel), nudzić się (be bored), martwić się (worry) |\n\n### Key rule: się never changes\n\n**się** stays identical for ALL persons and ALL tenses — it is never conjugated!\n\n| Person | czuć się (to feel) | English |\n|--------|------------------|---------|\n| ja | **czuję się** | I feel |\n| ty | **czujesz się** | you feel |\n| on / ona | **czuje się** | he/she feels |\n| my | **czujemy się** | we feel |\n| wy | **czujecie się** | you (pl) feel |\n| oni / one | **czują się** | they feel |\n\n### Word order with się\n\nSię usually follows the verb, but in questions it often comes first:\n\n| Situation | Polish | English |\n|-----------|--------|---------|\n| Statement | Czuję **się** dobrze. | I feel well. |\n| Negation | Nie czuję **się** dobrze. | I don't feel well. |\n| Question | Jak **się** czujesz? | How do you feel? |\n| Emphasis | **Się** nie uczyłem. | I didn't study (emphasised). |\n\n### Common się verbs — health and daily life\n\n| Polish | English |\n|--------|---------|\n| czuć się (dobrze/źle) | to feel (well/bad) |\n| myć się | to wash oneself |\n| ubierać się | to get dressed |\n| uczyć się | to learn / study |\n| bać się | to be afraid |\n| śmiać się | to laugh |\n| cieszyć się | to be happy / enjoy |\n| nudzić się | to be bored |\n| martwić się | to worry |\n| nazywać się | to be called (name) |\n\n### Health expressions with się\n\n| Polish | English |\n|--------|---------|\n| Czuję się dobrze. | I feel well. |\n| Czuję się źle / niedobrze. | I feel bad / unwell. |\n| Jak się czujesz? | How do you feel? |\n| Nie czuję się dzisiaj dobrze. | I don't feel well today. |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Czuję mię dobrze.* | *Czuję **się** dobrze.* | się (not mię) with czuć |\n| *On boi.* | *On **boi się**.* | bać się always needs się |\n| *Jak czujesz?* | *Jak **się** czujesz?* | się cannot be dropped |\n| *Uczę siebie.* | *Uczę **się**.* | use się, not siebie here |",
     "notes": [
-      "'Się' never changes — it is the same for all persons and tenses.",
-      "In a question, się often comes before the verb: Jak się czujesz? = How do you feel?",
-      "Negation: Nie czuję się dobrze. = I don't feel well.",
-      "uczyć się = to learn/study (next word in this chapter review)."
+      "się NEVER changes — same for all persons: czuję się, czujesz się, czuje się, czujemy się",
+      "In questions, się often precedes the verb: Jak się czujesz? Czy się boisz?",
+      "Some verbs always need się (bać się, śmiać się) — they cannot exist without it",
+      "uczyć się = to study/learn; uczyć (without się) = to teach someone"
     ]
   },
-  "explanation_fa": "ذره się در لهستانی با افعال بازتابی (برگشتی) استفاده می‌شود. نمونه‌ها: myć się (شستن خود)، ubierać się (لباس پوشیدن)، nazywać się (اسم داشتن)، czuć się (احساس کردن). się همیشه پس از فعل یا در جای طبیعی جمله قرار می‌گیرد، نه الزاماً بلافاصله پس از فعل.",
+  "explanation_fa": "## افعال بازتابی با się\n\nبسیاری از افعال لهستانی از ذره بازتابی **się** استفاده می‌کنند که نشان می‌دهد عمل به خود سوژه برمی‌گردد، یا فعل ذاتاً نیاز به się دارد.\n\n### سه نوع فعل با się\n\n| نوع | توضیح | مثال‌ها |\n|-----|-------|----------|\n| **بازتابی واقعی** | عمل روی خود | myć się (خودشویی)، ubierać się (لباس پوشیدن) |\n| **ذاتاً بازتابی** | فعل فقط با się | bać się (ترسیدن)، śmiać się (خندیدن)، cieszyć się (خوشحال بودن) |\n| **حالت/احساس** | توصیف احساس | czuć się (احساس کردن)، nudzić się (خسته شدن) |\n\n### قانون کلیدی: się هیچوقت تغییر نمی‌کند\n\n**się** برای همه شخص‌ها و همه زمان‌ها یکسان است — هرگز صرف نمی‌شود!\n\n| شخص | czuć się (احساس کردن) | فارسی |\n|------|----------------------|-------|\n| ja | **czuję się** | احساس می‌کنم |\n| ty | **czujesz się** | احساس می‌کنی |\n| on / ona | **czuje się** | احساس می‌کند |\n| my | **czujemy się** | احساس می‌کنیم |\n\n### جای się در جمله\n\n| حالت | لهستانی | فارسی |\n|------|---------|-------|\n| جمله | Czuję **się** dobrze. | حالم خوب است. |\n| منفی | Nie czuję **się** dobrze. | حالم خوب نیست. |\n| سوال | Jak **się** czujesz? | حالت چطور است؟ |\n\n### افعال رایج się — سلامتی و زندگی روزمره\n\n| لهستانی | فارسی |\n|---------|-------|\n| czuć się dobrze/źle | حال خوب/بد داشتن |\n| myć się | خودشویی |\n| ubierać się | لباس پوشیدن |\n| uczyć się | درس خواندن / یادگرفتن |\n| bać się | ترسیدن |\n| śmiać się | خندیدن |\n| cieszyć się | خوشحال بودن |\n| nazywać się | نام داشتن |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *On boi.* | *On **boi się**.* | bać się همیشه به się نیاز دارد |\n| *Jak czujesz?* | *Jak **się** czujesz?* | się نمی‌تواند حذف شود |\n| *Uczę siebie.* | *Uczę **się**.* | از się استفاده کنید، نه siebie |",
   "exercises": [
     {
       "id": "a1-ch09-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Jak ___ czujesz? (How do you feel?)",
+      "prompt": "Ania comes back from the doctor. Tomek asks her: Jak ___ czujesz? (How do you feel?)",
+      "prompt_fa": "آنیا از دکتر برمی‌گردد. تامک از او می‌پرسد: Jak ___ czujesz? (حالت چطور است؟)",
       "options": [
         "się",
         "si",
@@ -30,24 +31,35 @@
         "swój"
       ],
       "correctIndex": 0,
-      "explanation": "'Jak się czujesz?' = How do you feel? 'Się' is the reflexive particle — same for all persons."
+      "explanation": "'Jak się czujesz?' = How do you feel? 'Się' is the reflexive particle — same for all persons, never changes. In questions się comes before the verb.",
+      "explanation_fa": "'Jak się czujesz?' = حالت چطور است؟ 'Się' ذره بازتابی است — برای همه شخص‌ها یکسان است، هرگز تغییر نمی‌کند. در سوال‌ها się قبل از فعل می‌آید."
     },
     {
       "id": "a1-ch09-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "On ___ boi węży. (He is afraid of snakes.) [bać się, on]",
       "answer": "się",
       "acceptableAnswers": [
         "się"
       ],
-      "hint": "bać się = to be afraid; się stays the same"
+      "hint": "bać się = to be afraid; się stays the same for all persons",
+      "explanation": "'Bać się' (to be afraid) always needs się — it cannot exist without it. 'On boi się' = he is afraid. Się never changes.",
+      "explanation_fa": "'Bać się' (ترسیدن) همیشه به się نیاز دارد — بدون آن وجود ندارد. 'On boi się' = او می‌ترسد. Się هرگز تغییر نمی‌کند.",
+      "context": "Marek sees a big dog and freezes. Complete:",
+      "context_fa": "ماریک یک سگ بزرگ می‌بیند و خشک می‌شود. کامل کنید:",
+      "sentence": "On ___ boi węży.",
+      "translation": "(He is afraid of snakes.) [bać się, on]",
+      "translation_fa": "(او از مارها می‌ترسد.) [bać się، on]",
+      "prompt": "On ___ boi węży.",
+      "prompt_fa": "On ___ boi węży."
     },
     {
       "id": "a1-ch09-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch09/a1-ch09-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Nie czuję się dzisiaj dobrze.",
         "Nie czuje się dzisiaj dobrze.",
@@ -55,21 +67,20 @@
         "Nie czuliśmy się dzisiaj dobrze."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Nie czuję się dzisiaj dobrze.' — I don't feel well today. 'Czuć się' (to feel): czuję się (ja). 'Dzisiaj' = today."
+      "explanation": "You heard: 'Nie czuję się dzisiaj dobrze.' — I don't feel well today. 'Czuć się' (to feel): czuję się (ja). 'Dzisiaj' = today. 'Dobrze' = well.",
+      "explanation_fa": "شنیدید: 'Nie czuję się dzisiaj dobrze.' — امروز حالم خوب نیست. 'Czuć się' (احساس کردن): czuję się (ja). 'Dzisiaj' = امروز. 'Dobrze' = خوب."
     },
     {
       "id": "a1-ch09-l02-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: She is happy today.",
+      "prompt": "Tap the words in order: She is happy today.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: او امروز خوشحال است.",
       "wordBank": [
         "Ona",
         "cieszy",
         "się",
-        "cieszyć",
-        "dzisiaj",
-        "dziś",
-        "dobrze"
+        "dzisiaj"
       ],
       "correctSequences": [
         [
@@ -77,21 +88,17 @@
           "cieszy",
           "się",
           "dzisiaj"
-        ],
-        [
-          "Ona",
-          "cieszy",
-          "się",
-          "dziś"
         ]
       ],
-      "explanation": "'Ona cieszy się dzisiaj' = She is happy today. 'Cieszyć się' → 3rd person: cieszy się. 'Dzisiaj/dziś' = today."
+      "explanation": "'Ona cieszy się dzisiaj' = She is happy today. 'Cieszyć się' → 3rd person singular: cieszy się. 'Dzisiaj' = today.",
+      "explanation_fa": "'Ona cieszy się dzisiaj' = او امروز خوشحال است. 'Cieszyć się' → سوم شخص مفرد: cieszy się. 'Dzisiaj' = امروز."
     },
     {
       "id": "a1-ch09-l02-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "My ___ każdego ranka. (We wash ourselves every morning.) [myć się]",
+      "prompt": "Kasia and Tomek shower every morning before work. Complete: My ___ każdego ranka. (We wash ourselves every morning.) [myć się]",
+      "prompt_fa": "کاسیا و تامک هر صبح قبل از کار دوش می‌گیرند. کامل کنید: My ___ każdego ranka. (ما هر صبح خودمان را می‌شوییم.) [myć się]",
       "options": [
         "myjemy się",
         "myję się",
@@ -99,7 +106,99 @@
         "myjesz się"
       ],
       "correctIndex": 0,
-      "explanation": "'Myć się' → my form: 'myjemy się'. 'Myjemy się każdego ranka' = We wash ourselves every morning."
+      "explanation": "'Myć się' → my form: 'myjemy się'. 'Myjemy się każdego ranka' = We wash ourselves every morning. My (we) takes -emy ending.",
+      "explanation_fa": "'Myć się' → شکل my: 'myjemy się'. 'Myjemy się każdego ranka' = ما هر صبح خودمان را می‌شوییم. my (ما) پسوند -emy می‌گیرد."
+    },
+    {
+      "id": "a1-ch09-l02-ex06",
+      "type": "fill_blank",
+      "order": 6,
+      "answer": "uczy się",
+      "acceptableAnswers": [
+        "uczy się"
+      ],
+      "hint": "uczyć się → ona/on: uczy się",
+      "explanation": "'Uczyć się' (to study/learn) → ona: 'uczy się'. 'Uczy się języka polskiego' = She studies Polish. Note: 'uczyć się + genitive' for what is being learned.",
+      "explanation_fa": "'Uczyć się' (درس خواندن/یادگرفتن) → ona: 'uczy się'. 'Uczy się języka polskiego' = او لهستانی درس می‌خواند. توجه: 'uczyć się + مضاف‌الیهی' برای چیزی که یاد می‌گیرند.",
+      "context": "Ania is studying Polish at university. Complete:",
+      "context_fa": "آنیا در دانشگاه لهستانی می‌خواند. کامل کنید:",
+      "sentence": "Ona ___ języka polskiego.",
+      "translation": "(She studies Polish.) [uczyć się, ona form]",
+      "translation_fa": "(او لهستانی درس می‌خواند.) [uczyć się، شکل ona]",
+      "prompt": "Ona ___ języka polskiego.",
+      "prompt_fa": "Ona ___ języka polskiego."
+    },
+    {
+      "id": "a1-ch09-l02-ex07",
+      "type": "multiple_choice",
+      "order": 7,
+      "prompt": "Tomek hears a joke from Marek. Complete: Tomek ___ z dowcipu. (Tomek laughs at the joke.) [śmiać się, on]",
+      "prompt_fa": "تامک یک جوک از ماریک می‌شنود. کامل کنید: Tomek ___ z dowcipu. (تامک از جوک می‌خندد.) [śmiać się، on]",
+      "options": [
+        "śmieje się",
+        "śmieje",
+        "smiejy się",
+        "śmia się"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Śmiać się' (to laugh) → on: 'śmieje się'. This verb always needs się — it cannot exist without it. 'Z dowcipu' = at the joke (genitive).",
+      "explanation_fa": "'Śmiać się' (خندیدن) → on: 'śmieje się'. این فعل همیشه به się نیاز دارد — بدون آن وجود ندارد. 'Z dowcipu' = از جوک (مضاف‌الیهی)."
+    },
+    {
+      "id": "a1-ch09-l02-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Kasia introduces herself. She says: Nazywam ___ Kasia. (My name is Kasia.)",
+      "prompt_fa": "کاسیا خودش را معرفی می‌کند. می‌گوید: Nazywam ___ Kasia. (اسمم کاسیاست.)",
+      "options": [
+        "się",
+        "siebie",
+        "mnie",
+        "sobie"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nazywam się Kasia' = My name is Kasia (lit. I call myself Kasia). 'Nazywać się' uses reflexive 'się'. 'Się' never changes — same for all persons.",
+      "explanation_fa": "'Nazywam się Kasia' = اسمم کاسیاست (به معنای واقعی: خودم را کاسیا می‌نامم). 'Nazywać się' از 'się' بازتابی استفاده می‌کند. 'Się' هرگز تغییر نمی‌کند — برای همه شخص‌ها یکسان است."
+    },
+    {
+      "id": "a1-ch09-l02-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tap the words in order: I'm bored at home.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: خانه حوصله‌ام سر می‌رود.",
+      "wordBank": [
+        "Nudzę",
+        "się",
+        "w",
+        "domu"
+      ],
+      "correctSequences": [
+        [
+          "Nudzę",
+          "się",
+          "w",
+          "domu"
+        ]
+      ],
+      "explanation": "'Nudzę się w domu' = I'm bored at home. 'Nudzić się' (to be bored) → ja: nudzę się. 'W domu' = at home (locative).",
+      "explanation_fa": "'Nudzę się w domu' = خانه حوصله‌ام سر می‌رود. 'Nudzić się' (خسته/کسل شدن) → ja: nudzę się. 'W domu' = خانه (مکانی)."
+    },
+    {
+      "id": "a1-ch09-l02-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch09/a1-ch09-l02-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Marek martwi się o zdrowie mamy.",
+        "Marek martwi o zdrowie mamy.",
+        "Marek martwię się o zdrowie mamy.",
+        "Marek martwi się o zdrowia mamy."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Marek martwi się o zdrowie mamy.' — Marek worries about his mum's health. 'Martwić się' (to worry) → on: martwi się. 'O + accusative': zdrowie. 'Mamy' = genitive of mama.",
+      "explanation_fa": "شنیدید: 'Marek martwi się o zdrowie mamy.' — ماریک نگران سلامتی مامانش است. 'Martwić się' (نگران بودن) → on: martwi się. 'O + مفعولی': zdrowie. 'Mamy' = مضاف‌الیهی mama."
     }
   ],
   "xpReward": 20,

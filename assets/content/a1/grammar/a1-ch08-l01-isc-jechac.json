@@ -5,24 +5,25 @@
   "lessonOrder": 1,
   "title": "Motion Verbs — iść vs. jechać",
   "title_fa": "افعال حرکتی — iść در برابر jechać",
-  "grammarPoint": "iść (go on foot, now) vs. jechać (go by vehicle); present tense forms; chodzić vs. jeździć (habitual)",
-  "grammarPoint_fa": "iść (پیاده رفتن) در برابر jechać (با وسیله نقلیه رفتن)",
+  "grammarPoint": "iść (go on foot, now) vs. jechać (go by vehicle); chodzić vs. jeździć (habitual)",
+  "grammarPoint_fa": "iść (پیاده رفتن، الان) در برابر jechać (با وسیله نقلیه رفتن)؛ chodzić/jeździć برای عادت",
   "explanation": {
-    "text": "Polish has two main verbs for 'to go' depending on how you travel:\n\n| Verb | Meaning | When to use |\n|------|---------|-------------|\n| **iść** | to go (on foot, right now) | 'I'm walking to the shop' |\n| **jechać** | to go (by vehicle, right now) | 'I'm driving/taking the bus' |\n| **chodzić** | to go (on foot, habitually) | 'I walk to work every day' |\n| **jeździć** | to go (by vehicle, habitually) | 'I take the train every week' |\n\n**Present tense of iść:**\n\n| Person | Form |\n|--------|------|\n| ja | **idę** |\n| ty | **idziesz** |\n| on/ona | **idzie** |\n| my | **idziemy** |\n| wy | **idziecie** |\n| oni/one | **idą** |\n\n**Present tense of jechać:**\n\n| Person | Form |\n|--------|------|\n| ja | **jadę** |\n| ty | **jedziesz** |\n| on/ona | **jedzie** |\n| my | **jedziemy** |\n| wy | **jedziecie** |\n| oni/one | **jadą** |\n\n**Examples:**\n- Idę do sklepu. = I'm going to the shop (on foot, now).\n- Jadę do Warszawy autobusem. = I'm going to Warsaw by bus.\n- Chodzę do pracy pieszo. = I walk to work (every day).\n- Jeżdżę do szkoły rowerem. = I cycle to school (regularly).",
+    "text": "## Motion Verbs — iść vs. jechać\n\nPolish has **two pairs** of motion verbs depending on how you travel and whether the motion is current or habitual.\n\n### The four motion verbs\n\n| Verb | Meaning | When to use |\n|------|---------|-------------|\n| **iść** | go on foot | current single trip on foot |\n| **chodzić** | go on foot | habitual/repeated walking |\n| **jechać** | go by vehicle | current single trip by vehicle |\n| **jeździć** | go by vehicle | habitual/repeated vehicle travel |\n\n> 🔑 **Key distinction:** iść/jechać = happening right now (one trip). chodzić/jeździć = what you regularly do.\n\n### Conjugation of iść (go on foot, now)\n\n| Person | Form |\n|--------|------|\n| ja | **idę** |\n| ty | **idziesz** |\n| on/ona/ono | **idzie** |\n| my | **idziemy** |\n| wy | **idziecie** |\n| oni/one | **idą** |\n\n### Conjugation of jechać (go by vehicle, now)\n\n| Person | Form |\n|--------|------|\n| ja | **jadę** |\n| ty | **jedziesz** |\n| on/ona/ono | **jedzie** |\n| my | **jedziemy** |\n| wy | **jedziecie** |\n| oni/one | **jadą** |\n\n### Means of transport — instrumental case\n\nHow you travel uses the **instrumental** case:\n\n| Polish | English |\n|--------|---------|\n| *jadę **autobusem*** | I'm going by bus |\n| *jadę **pociągiem*** | I'm going by train |\n| *jadę **samochodem*** | I'm going by car |\n| *jadę **rowerem*** | I'm cycling |\n| *idę **pieszo*** | I'm going on foot |\n\n### Practical examples\n\n| Polish | English |\n|--------|---------|\n| *Idę do sklepu.* | I'm walking to the shop (now). |\n| *Jadę do Warszawy autobusem.* | I'm going to Warsaw by bus (now). |\n| *Chodzę do pracy pieszo.* | I walk to work (every day). |\n| *Jeżdżę do szkoły rowerem.* | I cycle to school (regularly). |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Jadę do sklepu* (on foot) | *Idę do sklepu* | on foot = iść |\n| *Idę do Krakowa samochodem* | *Jadę do Krakowa samochodem* | by car = jechać |\n| *Codziennie jadę* (habit) | *Codziennie jeżdżę* | habitual = jeździć |\n| *jadę autobusowy* | *jadę autobusem* | transport = instrumental case |",
     "notes": [
-      "iść/jechać = current motion (happening now); chodzić/jeździć = habitual/repeated motion.",
-      "Transport in instrumental: jadę autobusem (by bus), jadę rowerem (by bike), jadę samochodem (by car).",
-      "Pieszo = on foot (adverb). Idę pieszo = I go on foot.",
+      "iść/jechać = current single motion (happening right now); chodzić/jeździć = habitual/repeated",
+      "Transport in instrumental: autobusem (by bus), pociągiem (by train), samochodem (by car), rowerem (by bike)",
+      "Pieszo = on foot (adverb, not instrumental): Idę pieszo = I go on foot",
       "Do + genitive for destination: Jadę do Krakowa. Idę do domu."
     ]
   },
-  "explanation_fa": "iść برای رفتن پیاده و jechać برای رفتن با وسیله نقلیه (ماشین، اتوبوس و ...) استفاده می‌شود. اشکال iść: idę، idziesz، idzie، idziemy، idziecie، idą. اشکال jechać: jadę، jedziesz، jedzie، jedziemy، jedziecie، jadą.",
+  "explanation_fa": "## افعال حرکتی — iść در برابر jechać\n\nلهستانی **دو جفت** فعل حرکتی دارد که به روش سفر و اینکه حرکت جاری است یا عادتی بستگی دارد.\n\n### چهار فعل حرکتی\n\n| فعل | معنی | کاربرد |\n|-----|------|--------|\n| **iść** | پیاده رفتن | سفر جاری یک‌بار با پای پیاده |\n| **chodzić** | پیاده رفتن | راه رفتن عادتی/تکراری |\n| **jechać** | با وسیله رفتن | سفر جاری یک‌بار با وسیله |\n| **jeździć** | با وسیله رفتن | سفر عادتی/تکراری با وسیله |\n\n> 🔑 **تفاوت کلیدی:** iść/jechać = الان دارد اتفاق می‌افتد (یک سفر). chodzić/jeździć = کاری که معمولاً می‌کنید.\n\n### صرف iść (پیاده رفتن، الان)\n\n| شخص | شکل |\n|------|-----|\n| ja | **idę** |\n| ty | **idziesz** |\n| on/ona/ono | **idzie** |\n| my | **idziemy** |\n| wy | **idziecie** |\n| oni/one | **idą** |\n\n### صرف jechać (با وسیله رفتن، الان)\n\n| شخص | شکل |\n|------|-----|\n| ja | **jadę** |\n| ty | **jedziesz** |\n| on/ona/ono | **jedzie** |\n| my | **jedziemy** |\n| wy | **jedziecie** |\n| oni/one | **jadą** |\n\n### وسیله نقلیه — حالت ابزاری\n\n| لهستانی | فارسی |\n|---------|-------|\n| *jadę **autobusem*** | با اتوبوس می‌روم |\n| *jadę **pociągiem*** | با قطار می‌روم |\n| *jadę **samochodem*** | با ماشین می‌روم |\n| *idę **pieszo*** | پیاده می‌روم |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Jadę do sklepu* (پیاده) | *Idę do sklepu* | پیاده = iść |\n| *Idę do Krakowa samochodem* | *Jadę do Krakowa samochodem* | با ماشین = jechać |\n| *Codziennie jadę* (عادت) | *Codziennie jeżdżę* | عادتی = jeździć |",
   "exercises": [
     {
       "id": "a1-ch08-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Choose the right verb: ___ do sklepu. (I'm walking to the shop right now.)",
+      "prompt": "Kasia is walking to the shop right now. Which verb is correct? ___ do sklepu.",
+      "prompt_fa": "کاسیا الان دارد پیاده به مغازه می‌رود. کدام فعل درست است؟ ___ do sklepu.",
       "options": [
         "Idę",
         "Jadę",
@@ -30,24 +31,35 @@
         "Jeżdżę"
       ],
       "correctIndex": 0,
-      "explanation": "'Idę do sklepu' = I'm going to the shop (on foot, right now). 'Iść' = motion on foot happening now."
+      "explanation": "'Idę do sklepu' = I'm walking to the shop right now. 'Iść' = motion on foot happening now. 'Chodzę' would mean I habitually walk there.",
+      "explanation_fa": "'Idę do sklepu' = الان دارم پیاده به مغازه می‌روم. 'Iść' = حرکت پیاده که الان دارد اتفاق می‌افتد. 'Chodzę' یعنی معمولاً آنجا پیاده می‌روم."
     },
     {
       "id": "a1-ch08-l01-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Ona ___ do Warszawy pociągiem. (She is going to Warsaw by train, right now.) [jechać, ona]",
       "answer": "jedzie",
       "acceptableAnswers": [
         "jedzie"
       ],
-      "hint": "jechać, 3rd person singular: jedzie"
+      "hint": "jechać, 3rd person singular present tense",
+      "explanation": "'Jedzie' = jechać, 3rd person singular (ona). 'Jedzie do Warszawy pociągiem' = She is going to Warsaw by train. 'Pociągiem' = by train (instrumental).",
+      "explanation_fa": "'Jedzie' = jechać، سوم شخص مفرد (ona). 'Jedzie do Warszawy pociągiem' = دارد با قطار به ورشو می‌رود. 'Pociągiem' = با قطار (ابزاری).",
+      "context": "Complete the sentence:",
+      "context_fa": "جمله را کامل کنید:",
+      "sentence": "Ona ___ do Warszawy pociągiem.",
+      "translation": "(She is going to Warsaw by train right now.) [jechać, ona form]",
+      "translation_fa": "(او الان دارد با قطار به ورشو می‌رود.) [jechać، شکل ona]",
+      "prompt": "Ona ___ do Warszawy pociągiem.",
+      "prompt_fa": "Ona ___ do Warszawy pociągiem."
     },
     {
       "id": "a1-ch08-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch08/a1-ch08-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Jeżdżę do pracy samochodem.",
         "Jadę do pracy samochodem.",
@@ -55,22 +67,20 @@
         "Chodzę do pracy samochodem."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Jeżdżę do pracy samochodem.' — I drive to work (habitually). 'Jeździć' = go by vehicle habitually. 'Samochodem' = by car (instrumental)."
+      "explanation": "You heard: 'Jeżdżę do pracy samochodem.' — I drive to work (habitually). 'Jeździć' = habitual vehicle motion. 'Samochodem' = by car (instrumental).",
+      "explanation_fa": "شنیدید: 'Jeżdżę do pracy samochodem.' — معمولاً با ماشین سر کار می‌روم. 'Jeździć' = حرکت عادتی با وسیله. 'Samochodem' = با ماشین (ابزاری)."
     },
     {
       "id": "a1-ch08-l01-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: We are going to Kraków by train.",
+      "prompt": "Tap the words in order: We are going to Kraków by train.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: ما داریم با قطار به کراکوف می‌رویم.",
       "wordBank": [
         "Jedziemy",
-        "Idziemy",
         "do",
         "Krakowa",
-        "Kraków",
-        "pociągiem",
-        "pociąg",
-        "autobusem"
+        "pociągiem"
       ],
       "correctSequences": [
         [
@@ -80,13 +90,15 @@
           "pociągiem"
         ]
       ],
-      "explanation": "'Jedziemy do Krakowa pociągiem' = We're going to Kraków by train. 'Jechać' → jedziemy (by vehicle). 'Do + genitive': Kraków → Krakowa."
+      "explanation": "'Jedziemy do Krakowa pociągiem' = We're going to Kraków by train. 'Jechać' → jedziemy (by vehicle). 'Do + genitive': Kraków → Krakowa. 'Pociągiem' = by train.",
+      "explanation_fa": "'Jedziemy do Krakowa pociągiem' = داریم با قطار به کراکوف می‌رویم. 'Jechać' → jedziemy (با وسیله). 'Do + مضاف‌الیهی': Kraków → Krakowa. 'Pociągiem' = با قطار."
     },
     {
       "id": "a1-ch08-l01-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Every day I cycle to school. Which is correct?",
+      "prompt": "Tomek cycles to school every single day. Which verb is correct?",
+      "prompt_fa": "تامک هر روز با دوچرخه به مدرسه می‌رود. کدام فعل درست است؟",
       "options": [
         "Codziennie jeżdżę do szkoły rowerem.",
         "Codziennie jadę do szkoły rowerem.",
@@ -94,7 +106,100 @@
         "Codziennie chodzę do szkoły rowerem."
       ],
       "correctIndex": 0,
-      "explanation": "'Jeżdżę do szkoły rowerem' = I cycle to school (habitual). 'Jeździć' for repeated vehicle motion. 'Rowerem' = by bicycle (instrumental)."
+      "explanation": "'Jeżdżę' (jeździć) = habitual vehicle motion. 'Codziennie' = every day confirms this is a habit. 'Rowerem' = by bike (instrumental).",
+      "explanation_fa": "'Jeżdżę' (jeździć) = حرکت عادتی با وسیله. 'Codziennie' = هر روز، که تأیید می‌کند این عادت است. 'Rowerem' = با دوچرخه (ابزاری)."
+    },
+    {
+      "id": "a1-ch08-l01-ex06",
+      "type": "fill_blank",
+      "order": 6,
+      "answer": "Idę",
+      "acceptableAnswers": [
+        "Idę",
+        "idę"
+      ],
+      "hint": "iść, first person singular: ja idę",
+      "explanation": "'Idę do lekarza' = I'm going (walking) to the doctor right now. 'Iść' (on foot, current trip): ja → idę. 'Do + genitive': lekarz → lekarza.",
+      "explanation_fa": "'Idę do lekarza' = الان دارم پیش پزشک می‌روم (پیاده). 'Iść' (پیاده، سفر جاری): ja → idę. 'Do + مضاف‌الیهی': lekarz → lekarza.",
+      "context": "Marek is running to the doctor right now. Complete:",
+      "context_fa": "ماریک الان دارد می‌دود پیش پزشک. کامل کنید:",
+      "sentence": "___ do lekarza.",
+      "translation": "(I'm running to the doctor.) [iść, ja form]",
+      "translation_fa": "(دارم پیش پزشک می‌روم.) [iść، شکل ja]",
+      "prompt": "___ do lekarza.",
+      "prompt_fa": "___ do lekarza."
+    },
+    {
+      "id": "a1-ch08-l01-ex07",
+      "type": "multiple_choice",
+      "order": 7,
+      "prompt": "Kasia and Ania take the bus to university every day. Which form is correct?",
+      "prompt_fa": "کاسیا و آنیا هر روز با اتوبوس به دانشگاه می‌روند. کدام شکل درست است؟",
+      "options": [
+        "Jeżdżą autobusem na uczelnię.",
+        "Jadą autobusem na uczelnię.",
+        "Idą autobusem na uczelnię.",
+        "Chodzą autobusem na uczelnię."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Jeżdżą' (jeździć, oni/one) = habitual vehicle motion. The key is 'every day' (habit). 'Autobusem' = by bus (instrumental). 'Na uczelnię' = to the university.",
+      "explanation_fa": "'Jeżdżą' (jeździć، oni/one) = حرکت عادتی با وسیله. نکته کلیدی 'هر روز' (عادت) است. 'Autobusem' = با اتوبوس (ابزاری). 'Na uczelnię' = به دانشگاه."
+    },
+    {
+      "id": "a1-ch08-l01-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Tomek called from the airport — he is flying to London right now. Which is correct?",
+      "prompt_fa": "تامک از فرودگاه زنگ زد — الان دارد به لندن پرواز می‌کند. کدام درست است؟",
+      "options": [
+        "Lecę do Londynu.",
+        "Latam do Londynu.",
+        "Jadę do Londynu.",
+        "Idę do Londynu."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Lecę' (lecieć = to fly, current single trip) → ja form: lecę. 'Do Londynu' = to London (genitive of Londyn). For habitual flying, 'latać' would be used.",
+      "explanation_fa": "'Lecę' (lecieć = پرواز کردن، سفر جاری یک‌بار) → شکل ja: lecę. 'Do Londynu' = به لندن (مضاف‌الیهی Londyn). برای پرواز عادتی، 'latać' استفاده می‌شود."
+    },
+    {
+      "id": "a1-ch08-l01-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tap the words in order: Ania is walking home right now.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: آنیا الان دارد پیاده خانه می‌رود.",
+      "wordBank": [
+        "Ania",
+        "idzie",
+        "do",
+        "domu"
+      ],
+      "correctSequences": [
+        [
+          "Ania",
+          "idzie",
+          "do",
+          "domu"
+        ]
+      ],
+      "explanation": "'Ania idzie do domu' = Ania is walking home. 'Iść' on foot, current trip: ona → idzie. 'Do domu' = going home (do + genitive: dom → domu).",
+      "explanation_fa": "'Ania idzie do domu' = آنیا دارد پیاده خانه می‌رود. 'Iść' پیاده، سفر جاری: ona → idzie. 'Do domu' = رفتن خانه (do + مضاف‌الیهی: dom → domu)."
+    },
+    {
+      "id": "a1-ch08-l01-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch08/a1-ch08-l01-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Zwykle chodzę do pracy pieszo, ale dziś jadę autobusem.",
+        "Zwykle idę do pracy pieszo, ale dziś jadę autobusem.",
+        "Zwykle chodzę do pracy pieszo, ale dziś jechać autobusem.",
+        "Zwykle chodzę do pracy pieszo, ale dziś jeżdżę autobusem."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Zwykle chodzę do pracy pieszo, ale dziś jadę autobusem.' — I usually walk to work, but today I'm taking the bus. 'Chodzę' = habitual walking; 'jadę' = current vehicle trip.",
+      "explanation_fa": "شنیدید: 'Zwykle chodzę do pracy pieszo, ale dziś jadę autobusem.' — معمولاً پیاده سر کار می‌روم، اما امروز با اتوبوس می‌روم. 'Chodzę' = راه رفتن عادتی؛ 'jadę' = سفر جاری با وسیله."
     }
   ],
   "xpReward": 20,

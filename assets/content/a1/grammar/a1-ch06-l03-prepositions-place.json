@@ -8,21 +8,22 @@
   "grammarPoint": "Spatial prepositions: w/na (locative for position), do/z (genitive for movement), przy, obok, przed, za, między",
   "grammarPoint_fa": "حروف اضافه مکانی: w، na، przed، za، obok، między، pod، nad",
   "explanation": {
-    "text": "Polish uses different prepositions depending on whether you express **static position** or **movement**.\n\n**Static position (locative case):**\n\n| Preposition | Meaning | Example |\n|------------|---------|--------|\n| **w** | in, inside | w pokoju = in the room |\n| **na** | on, at | na stole = on the table |\n| **przy** | next to, by | przy oknie = by the window |\n| **przed** | in front of | przed domem = in front of the house |\n| **za** | behind | za drzwiami = behind the door |\n| **między** | between | między domami = between the houses |\n\n**Movement — towards (accusative):**\n- Idę **do** domu. = I'm going home. (do + genitive)\n- Idę **na** rynek. = I'm going to the market. (na + accusative for some destinations)\n\n**Movement — away from (genitive):**\n- Wychodzę **z** domu. = I'm leaving the house. (z + genitive)\n- Wracam **ze** szkoły. = I'm coming back from school. (z/ze + genitive)\n\n**Key rule:** *w/na + locative* = WHERE (position); *do + genitive* = WHERE TO (destination); *z + genitive* = FROM WHERE (origin).",
+    "text": "## Prepositions of Place\n\nPolish uses different prepositions depending on whether you express **static position** or **movement**. Different cases follow different prepositions.\n\n### Position — where something IS (static)\n\n| Preposition | Case | Meaning | Example |\n|------------|------|---------|----------|\n| **w** | locative | in, inside | w pokoju = in the room |\n| **na** | locative | on, at | na stole = on the table |\n| **przy** | locative | next to, by | przy oknie = by the window |\n| **obok** | genitive | next to, beside | obok domu = next to the house |\n| **przed** | instrumental | in front of | przed domem = in front of the house |\n| **za** | instrumental | behind | za domem = behind the house |\n| **między** | instrumental | between | między domami = between the houses |\n| **pod** | instrumental | under | pod stołem = under the table |\n| **nad** | instrumental | above, over | nad miastem = above the city |\n\n### Movement — WHERE TO (destination)\n\n| Preposition | Case | Meaning | Example |\n|------------|------|---------|----------|\n| **do** | genitive | to (destination) | Idę do domu. |\n| **na** | accusative | to (open spaces, events) | Idę na rynek. |\n\n### Movement — FROM WHERE (origin)\n\n| Preposition | Case | Meaning | Example |\n|------------|------|---------|----------|\n| **z / ze** | genitive | from | Wychodzę ze szkoły. |\n| **od** | genitive | from (person) | List od mamy. |\n\n### Key rule: position vs. movement\n\n| Situation | Preposition | Case | Example |\n|-----------|------------|------|----------|\n| WHERE is it? | w / na | **locative** | Jestem w domu. |\n| WHERE TO? | do / na | **genitive / accusative** | Idę do domu. |\n| FROM WHERE? | z / ze | **genitive** | Wychodzę z domu. |\n\n### Common everyday expressions\n\n| Polish | English |\n|--------|---------|\n| Idę **do** sklepu. | I'm going to the shop. |\n| Jestem **w** sklepie. | I'm in the shop. |\n| Wychodzę **ze** sklepu. | I'm leaving the shop. |\n| Siedzę **przy** oknie. | I'm sitting by the window. |\n| Pies jest **pod** stołem. | The dog is under the table. |\n| Idę **na** spacer. | I'm going for a walk. |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Idę w domu.* | *Idę **do** domu.* | movement to = do |\n| *Jestem do domu.* | *Jestem **w** domu.* | position = w |\n| *Obok dom* | *Obok **domu*** | obok + genitive |\n| *za stołem jestem* | *Siedzę **przy** stole.* | 'by the table' = przy |",
     "notes": [
-      "przy + locative: przy stole = at the table, przy oknie = by the window.",
-      "przed + instrumental (not locative!): przed domem = in front of the house.",
-      "za + instrumental for position: za domem = behind the house. Za + accusative for time: za godzinę = in an hour.",
-      "obok + genitive: obok sklepu = next to the shop."
+      "przy + locative: przy stole = at the table, przy oknie = by the window",
+      "przed/za/między/pod/nad + instrumental (not locative!): przed domem, za kanapą",
+      "obok + genitive: obok sklepu = next to the shop",
+      "z/ze + genitive for FROM: ze szkoły = from school; 'ze' before consonant clusters"
     ]
   },
-  "explanation_fa": "حروف اضافه مکانی و حالت‌های دستوری متناظر: w/na + مکانی (موقعیت)، przed/za/obok/między/pod/nad + ابزاری (موقعیت). مثال: Książka jest na stole (کتاب روی میز است)، Kot śpi pod stołem (گربه زیر میز می‌خوابد).",
+  "explanation_fa": "## حروف اضافه مکانی\n\nلهستانی از حروف اضافه مختلف بسته به اینکه **موقعیت ثابت** یا **حرکت** بیان می‌کنید استفاده می‌کند. حالت‌های دستوری مختلف بعد از حروف اضافه مختلف می‌آیند.\n\n### موقعیت — جایی که چیزی **هست** (ثابت)\n\n| حرف اضافه | حالت | معنی | مثال |\n|-----------|------|------|------|\n| **w** | مکانی | در، داخل | w pokoju = در اتاق |\n| **na** | مکانی | روی، در | na stole = روی میز |\n| **przy** | مکانی | کنار، نزدیک | przy oknie = کنار پنجره |\n| **obok** | مضاف‌الیهی | کنار، بجنب | obok domu = کنار خانه |\n| **przed** | ابزاری | جلوی | przed domem = جلوی خانه |\n| **za** | ابزاری | پشت | za domem = پشت خانه |\n| **pod** | ابزاری | زیر | pod stołem = زیر میز |\n| **nad** | ابزاری | بالای | nad miastem = بالای شهر |\n\n### حرکت — به کجا (مقصد)\n\n| حرف اضافه | حالت | معنی | مثال |\n|-----------|------|------|------|\n| **do** | مضاف‌الیهی | به (مقصد) | Idę do domu. |\n| **na** | مفعولی | به (رویدادها) | Idę na rynek. |\n\n### قانون کلیدی: موقعیت در مقابل حرکت\n\n| وضعیت | حرف اضافه | حالت | مثال |\n|-------|-----------|------|------|\n| کجاست؟ | w / na | **مکانی** | Jestem w domu. |\n| به کجا؟ | do / na | **مضاف‌الیهی / مفعولی** | Idę do domu. |\n| از کجا؟ | z / ze | **مضاف‌الیهی** | Wychodzę z domu. |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Idę w domu.* | *Idę **do** domu.* | حرکت به = do |\n| *Jestem do domu.* | *Jestem **w** domu.* | موقعیت = w |\n| *Obok dom* | *Obok **domu*** | obok + مضاف‌الیهی |",
   "exercises": [
     {
       "id": "a1-ch06-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Kot jest ___ stole. (The cat is on the table.) [position]",
+      "prompt": "Ania's cat jumped on the table. Complete: Kot jest ___ stole. (The cat is on the table.)",
+      "prompt_fa": "گربه آنیا پرید روی میز. کامل کنید: Kot jest ___ stole. (گربه روی میز است.)",
       "options": [
         "na",
         "do",
@@ -30,25 +31,36 @@
         "przy"
       ],
       "correctIndex": 0,
-      "explanation": "'Na + locative' for position on a surface: 'na stole' = on the table. 'Na' is used for horizontal surfaces and open spaces."
+      "explanation": "'Na + locative' for position on a surface: 'na stole' = on the table. 'Na' is used for horizontal surfaces.",
+      "explanation_fa": "'Na + مکانی' برای موقعیت روی یک سطح: 'na stole' = روی میز. 'Na' برای سطوح افقی استفاده می‌شود."
     },
     {
       "id": "a1-ch06-l03-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Idę ___ szkoły do domu. (I'm going from school to home.) [movement away from]",
       "answer": "ze",
       "acceptableAnswers": [
         "ze",
         "z"
       ],
-      "hint": "Use z/ze + genitive for 'from'. Ze is used before consonant clusters like szk-."
+      "hint": "Use z/ze + genitive for 'from'. Ze is used before consonant clusters like szk-.",
+      "explanation": "'Ze szkoły' = from school. 'Z/ze + genitive' = from. 'Ze' (not 'z') is used before the consonant cluster 'szk-'.",
+      "explanation_fa": "'Ze szkoły' = از مدرسه. 'Z/ze + مضاف‌الیهی' = از. 'Ze' (نه 'z') قبل از خوشه صامت 'szk-' استفاده می‌شود.",
+      "context": "Tomek leaves school and goes home. Complete:",
+      "context_fa": "تامک از مدرسه بیرون می‌آید و به خانه می‌رود. کامل کنید:",
+      "sentence": "Idę ___ szkoły do domu.",
+      "translation": "(I'm going from school to home.)",
+      "translation_fa": "(از مدرسه دارم به خانه می‌روم.)",
+      "prompt": "Idę ___ szkoły do domu.",
+      "prompt_fa": "Idę ___ szkoły do domu."
     },
     {
       "id": "a1-ch06-l03-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch06/a1-ch06-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Siedzę przy oknie.",
         "Siedzę w oknie.",
@@ -56,22 +68,20 @@
         "Siedzę za oknem."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Siedzę przy oknie.' — I'm sitting by the window. 'Przy + locative' = next to/by. 'Okno' → locative 'oknie'."
+      "explanation": "You heard: 'Siedzę przy oknie.' — I'm sitting by the window. 'Przy + locative' = next to/by. 'Okno' → locative 'oknie'.",
+      "explanation_fa": "شنیدید: 'Siedzę przy oknie.' — کنار پنجره نشسته‌ام. 'Przy + مکانی' = کنار/نزدیک. 'Okno' → مکانی 'oknie'."
     },
     {
       "id": "a1-ch06-l03-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: I'm going to the shop.",
+      "prompt": "Tap the words in order: I'm going to the shop.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: دارم به مغازه می‌روم.",
       "wordBank": [
         "Idę",
-        "Jestem",
         "do",
-        "w",
         "sklepu",
-        "sklepie",
-        "sklep",
-        "sklepem"
+        "sklepie"
       ],
       "correctSequences": [
         [
@@ -80,13 +90,15 @@
           "sklepu"
         ]
       ],
-      "explanation": "'Idę do sklepu' = I'm going to the shop. Direction/destination uses 'do + genitive': sklep → sklepu."
+      "explanation": "'Idę do sklepu' = I'm going to the shop. Direction/destination uses 'do + genitive': sklep → sklepu. 'Sklepie' is a distractor (locative form).",
+      "explanation_fa": "'Idę do sklepu' = دارم به مغازه می‌روم. جهت/مقصد از 'do + مضاف‌الیهی' استفاده می‌کند: sklep → sklepu. 'Sklepie' گزینه اضافه است (شکل مکانی)."
     },
     {
       "id": "a1-ch06-l03-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Pies śpi ___ kanapą. (The dog is sleeping behind the sofa.) [position]",
+      "prompt": "Kasia's dog is sleeping behind the sofa. Which preposition? Pies śpi ___ kanapą.",
+      "prompt_fa": "سگ کاسیا پشت مبل خوابیده. کدام حرف اضافه؟ Pies śpi ___ kanapą.",
       "options": [
         "za",
         "przed",
@@ -94,7 +106,98 @@
         "między"
       ],
       "correctIndex": 0,
-      "explanation": "'Za' = behind (+ instrumental for position). 'Za kanapą' = behind the sofa. 'Kanapa' → instrumental 'kanapą'."
+      "explanation": "'Za' = behind (+ instrumental for position). 'Za kanapą' = behind the sofa. 'Kanapa' → instrumental 'kanapą' (-ą ending for feminine).",
+      "explanation_fa": "'Za' = پشت (+ ابزاری برای موقعیت). 'Za kanapą' = پشت مبل. 'Kanapa' → ابزاری 'kanapą' (پسوند -ą برای مؤنث)."
+    },
+    {
+      "id": "a1-ch06-l03-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Tomek asks for directions: 'Next to the bank' in Polish is...",
+      "prompt_fa": "تامک آدرس می‌پرسد: «کنار بانک» به لهستانی...",
+      "options": [
+        "obok banku",
+        "w banku",
+        "na bank",
+        "przy bank"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Obok + genitive' = next to. 'Bank' (m) → genitive 'banku'. 'Obok banku' = next to the bank. Contrast: 'w banku' = inside the bank.",
+      "explanation_fa": "'Obok + مضاف‌الیهی' = کنار. 'Bank' (م) → مضاف‌الیهی 'banku'. 'Obok banku' = کنار بانک. مقایسه: 'w banku' = داخل بانک."
+    },
+    {
+      "id": "a1-ch06-l03-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "naprzeciwko",
+      "acceptableAnswers": [
+        "naprzeciwko"
+      ],
+      "hint": "The preposition meaning 'opposite/across from' + genitive",
+      "explanation": "'Naprzeciwko + genitive' = opposite/across from. 'Poczty' = genitive of poczta (post office, f). 'Apteka jest naprzeciwko poczty' = The pharmacy is opposite the post office.",
+      "explanation_fa": "'Naprzeciwko + مضاف‌الیهی' = روبروی. 'Poczty' = مضاف‌الیهی poczta (اداره پست، م). 'Apteka jest naprzeciwko poczty' = داروخانه روبروی اداره پست است.",
+      "context": "The pharmacy is opposite the post office. Kasia gives directions:",
+      "context_fa": "کاسیا آدرس می‌دهد:",
+      "sentence": "Apteka jest ___ poczty.",
+      "translation": "",
+      "translation_fa": "",
+      "prompt": "Apteka jest ___ poczty.",
+      "prompt_fa": "Apteka jest ___ poczty."
+    },
+    {
+      "id": "a1-ch06-l03-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Ania asks Marek: 'przy' takes which case?",
+      "prompt_fa": "آنیا از مارک می‌پرسد: 'przy' کدام حالت می‌گیرد؟",
+      "options": [
+        "locative",
+        "genitive",
+        "dative",
+        "accusative"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Przy + locative' = at/by/near. 'Przy stole' = at the table, 'przy oknie' = by the window. Never genitive or accusative!",
+      "explanation_fa": "'Przy + مکانی' = کنار/نزدیک. 'Przy stole' = کنار میز، 'przy oknie' = کنار پنجره. هرگز مضاف‌الیهی یا مفعولی نمی‌گیرد!"
+    },
+    {
+      "id": "a1-ch06-l03-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tomek explains: The café is between the park and the hotel.",
+      "prompt_fa": "تامک توضیح می‌دهد: کافه بین پارک و هتل است.",
+      "wordBank": [
+        "Kawiarnia jest",
+        "między parkiem",
+        "a hotelem",
+        "obok"
+      ],
+      "correctSequences": [
+        [
+          "Kawiarnia jest",
+          "między parkiem",
+          "a hotelem"
+        ]
+      ],
+      "explanation": "'Kawiarnia jest między parkiem a hotelem' = The café is between the park and the hotel. 'Między + instrumental': park → parkiem, hotel → hotelem.",
+      "explanation_fa": "'Kawiarnia jest między parkiem a hotelem' = کافه بین پارک و هتل است. 'Między + ابزاری': park → parkiem، hotel → hotelem."
+    },
+    {
+      "id": "a1-ch06-l03-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch06/a1-ch06-l03-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Supermarket jest obok stacji metra.",
+        "Supermarket jest naprzeciwko stacji metra.",
+        "Supermarket jest między stacją metra.",
+        "Supermarket jest przy stacje metra."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Supermarket jest obok stacji metra.' — The supermarket is next to the metro station. 'Obok + genitive': stacja metra → stacji metra.",
+      "explanation_fa": "شنیدید: 'Supermarket jest obok stacji metra.' — سوپرمارکت کنار ایستگاه مترو است. 'Obok + مضاف‌الیهی': stacja metra → stacji metra."
     }
   ],
   "xpReward": 20,

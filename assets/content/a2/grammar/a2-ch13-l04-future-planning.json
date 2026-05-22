@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "___ uczyć się polskiego przez rok. (I'm planning to study Polish for a year.) [planować, ja]",
+      "prompt_fa": "___ یک سال لهستانی یاد بگیرم. (برنامه دارم یک سال لهستانی بخوانم.) [planować، ja]",
       "options": [
         "Planuję",
         "Planowałem",
@@ -30,24 +31,34 @@
         "Zaplanuj"
       ],
       "correctIndex": 0,
-      "explanation": "'Planować' Group 3 (-ować): ja → planuję. 'Planuję uczyć się polskiego przez rok.' The infinitive follows directly."
+      "explanation": "'Planować' Group 3 (-ować): ja → planuję. 'Planuję uczyć się polskiego przez rok.' The infinitive follows directly.",
+      "explanation_fa": "'Planować' گروه ۳ (-ować): ja → planuję. 'Planuję uczyć się polskiego przez rok.' مصدر مستقیماً پس از آن می‌آید."
     },
     {
       "id": "a2-ch13-l04-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Mam ___, że jutro będzie ładna pogoda. (I hope that tomorrow the weather will be nice.)",
+      "context": "Expressing hope. Complete the set phrase.",
+      "context_fa": "بیان امید. عبارت را کامل کنید.",
+      "sentence": "Mam ___, że jutro będzie ładna pogoda.",
+      "translation": "(I hope that tomorrow the weather will be nice.)",
+      "translation_fa": "(امیدوارم فردا هوا خوب باشد.)",
+      "prompt": "Mam ___, że jutro będzie ładna pogoda.",
+      "prompt_fa": "Mam ___, że jutro będzie ładna pogoda.",
       "answer": "nadzieję",
       "acceptableAnswers": [
         "nadzieję"
       ],
-      "hint": "Mam nadzieję, że... = I hope that... ('nadzieja' → accusative: nadzieję)"
+      "hint": "Mam nadzieję, że... = I hope that... ('nadzieja' → accusative: nadzieję)",
+      "explanation": "'Mam nadzieję' = I hope. 'Nadzieja' (hope) in accusative after 'mam': nadzieję. Full phrase: Mam nadzieję, że + future clause.",
+      "explanation_fa": "'Mam nadzieję' = امیدوارم. 'Nadzieja' (امید) پس از 'mam' مفعول صریح: nadzieję. عبارت کامل: Mam nadzieję, że + جمله آینده."
     },
     {
       "id": "a2-ch13-l04-ex03",
       "type": "multiple_choice",
       "order": 3,
       "prompt": "Zamierzam ___ za granicę w tym roku. (I intend to go abroad this year.) [wyjechać]",
+      "prompt_fa": "امسال قصد دارم به خارج از کشور بروم. Zamierzam ___. [wyjechać]",
       "options": [
         "wyjechać",
         "wyjeżdżać",
@@ -55,13 +66,15 @@
         "wyjeżdżam"
       ],
       "correctIndex": 0,
-      "explanation": "'Zamierzam' + infinitive: wyjechać. Do NOT use a conjugated future form after zamierzam — only infinitive."
+      "explanation": "'Zamierzam' + infinitive: wyjechać. Do NOT use a conjugated future form after zamierzam — only infinitive.",
+      "explanation_fa": "'Zamierzam' + مصدر: wyjechać. پس از zamierzam هرگز شکل صرف‌شده نمی‌آید — فقط مصدر."
     },
     {
       "id": "a2-ch13-l04-ex04",
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: She intends to start a new job next month.",
+      "prompt_fa": "بسازید: او قصد دارد ماه آینده شغل جدیدی شروع کند.",
       "wordBank": [
         "Ona",
         "zamierza",
@@ -98,13 +111,15 @@
           "miesiącu"
         ]
       ],
-      "explanation": "'Ona zamierza/planuje zacząć nową pracę w przyszłym miesiącu.' — She intends to start a new job next month. Either 'zamierza' or 'planuje' works. 'Zacząć' = infinitive (perf). 'W przyszłym miesiącu' = next month."
+      "explanation": "'Ona zamierza/planuje zacząć nową pracę w przyszłym miesiącu.' — She intends to start a new job next month. Either 'zamierza' or 'planuje' works. 'Zacząć' = infinitive (perf). 'W przyszłym miesiącu' = next month.",
+      "explanation_fa": "'Ona zamierza/planuje zacząć nową pracę w przyszłym miesiącu.' — او ماه آینده شغل جدیدی شروع خواهد کرد. هم 'zamierza' و هم 'planuje' درست است. 'Zacząć' = مصدر کامل. 'W przyszłym miesiącu' = ماه آینده."
     },
     {
       "id": "a2-ch13-l04-ex05",
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Mam nadzieję, że ___ egzamin. (I hope you'll pass the exam.) [zdać, ty — perfective future]",
+      "prompt_fa": "امیدوارم امتحان بدهی. Mam nadzieję, że ___. [zdać، ty — آینده کامل]",
       "options": [
         "zdasz",
         "zdajesz",
@@ -112,7 +127,109 @@
         "będziesz zdawać"
       ],
       "correctIndex": 0,
-      "explanation": "After 'mam nadzieję, że' → full clause in future: 'zdasz' (perfective future of 'zdać', ty). One completed future event = perfective."
+      "explanation": "After 'mam nadzieję, że' → full clause in future: 'zdasz' (perfective future of 'zdać', ty). One completed future event = perfective.",
+      "explanation_fa": "پس از 'mam nadzieję, że' → جمله کامل در آینده: 'zdasz' (آینده کامل 'zdać'، برای ty). یک رویداد کامل در آینده = کامل."
+    },
+    {
+      "id": "a2-ch13-l04-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Marek ___ kupić nowe mieszkanie w przyszłym roku. (Marek intends to buy a new flat next year.) [mieć zamiar]",
+      "prompt_fa": "Marek قصد دارد سال آینده آپارتمان جدیدی بخرد. [mieć zamiar]",
+      "options": [
+        "ma zamiar",
+        "jest zamiar",
+        "mam zamiar",
+        "ma nadzieję"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mieć zamiar' = to intend to. For 'on' (Marek): ma zamiar + infinitive. 'Mam zamiar' = I intend (ja). 'Ma nadzieję' = he hopes (different meaning).",
+      "explanation_fa": "'Mieć zamiar' = قصد داشتن. برای 'on' (Marek): ma zamiar + مصدر. 'Mam zamiar' = من قصد دارم (ja). 'Ma nadzieję' = او امیدوار است (معنای متفاوت)."
+    },
+    {
+      "id": "a2-ch13-l04-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Planning expression. Complete with the correct verb.",
+      "context_fa": "عبارت برنامه‌ریزی. فعل درست را بنویسید.",
+      "sentence": "Kasia i Tomek ___ pojechać do Włoch w wakacje.",
+      "translation": "(Kasia and Tomek are planning to go to Italy on holiday.) [planować, oni — 3rd plural]",
+      "translation_fa": "(Kasia و Tomek برنامه دارند در تعطیلات به ایتالیا بروند.) [planować، oni — سوم جمع]",
+      "prompt": "Kasia i Tomek ___ pojechać do Włoch w wakacje.",
+      "prompt_fa": "Kasia i Tomek ___ pojechać do Włoch w wakacje.",
+      "answer": "planują",
+      "acceptableAnswers": [
+        "planują",
+        "zamierzają"
+      ],
+      "hint": "planować for oni/one: planują; or zamierzać for oni: zamierzają",
+      "explanation": "'Planować' (Group 3): oni/one → planują. 'Zamierzać' (Group 1): oni → zamierzają. Both work here.",
+      "explanation_fa": "'Planować' (گروه ۳): oni/one → planują. 'Zamierzać' (گروه ۱): oni → zamierzają. هر دو درست است."
+    },
+    {
+      "id": "a2-ch13-l04-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch13/a2-ch13-l04-ex08.mp3",
+      "options": [
+        "Chcę nauczyć się gotować polskie dania.",
+        "Chciałem nauczyć się gotować polskie dania.",
+        "Planuję nauczyć się polskich dań.",
+        "Zamierzam ugotować polskie danie."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Chcę nauczyć się gotować polskie dania.' — I want to learn to cook Polish dishes. 'Chcę' + infinitive 'nauczyć się' + infinitive 'gotować'. 'Polskie dania' = Polish dishes (accusative plural).",
+      "explanation_fa": "شنیدید: 'Chcę nauczyć się gotować polskie dania.' — می‌خواهم یاد بگیرم غذاهای لهستانی بپزم. 'Chcę' + مصدر 'nauczyć się' + مصدر 'gotować'."
+    },
+    {
+      "id": "a2-ch13-l04-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: I (f) hope that Tomek will come to the party.",
+      "prompt_fa": "بسازید: امیدوارم Tomek به مهمانی بیاید.",
+      "wordBank": [
+        "Mam",
+        "nadzieję",
+        "że",
+        "Tomek",
+        "przyjdzie",
+        "przyjechał",
+        "na",
+        "imprezę",
+        "imprezy",
+        "impreza"
+      ],
+      "correctSequences": [
+        [
+          "Mam",
+          "nadzieję",
+          "że",
+          "Tomek",
+          "przyjdzie",
+          "na",
+          "imprezę"
+        ]
+      ],
+      "explanation": "'Mam nadzieję, że Tomek przyjdzie na imprezę.' — I hope Tomek will come to the party. 'Mam nadzieję, że' + future clause. 'Przyjdzie' = perfective future of 'przyjść' (on). 'Na imprezę' = to the party (accusative).",
+      "explanation_fa": "'Mam nadzieję, że Tomek przyjdzie na imprezę.' — امیدوارم Tomek به مهمانی بیاید. 'Mam nadzieję, że' + جمله آینده. 'Przyjdzie' = آینده کامل 'przyjść' (on). 'Na imprezę' = به مهمانی (مفعول صریح)."
+    },
+    {
+      "id": "a2-ch13-l04-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Which sentence correctly expresses 'I am thinking of going to Warsaw next week'?",
+      "prompt_fa": "کدام جمله 'دارم فکر می‌کنم هفته آینده به ورشو بروم' را درست بیان می‌کند؟",
+      "options": [
+        "Myślę pojechać do Warszawy w przyszłym tygodniu.",
+        "Myślę, że jadę do Warszawy w przyszłym tygodniu.",
+        "Myślałem pojechać do Warszawy w przyszłym tygodniu.",
+        "Myślę pojechałem do Warszawy w przyszłym tygodniu."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Myślę pojechać' = I'm thinking of going (myśleć + infinitive = thinking of doing). 'Pojechać' = infinitive. 'W przyszłym tygodniu' = next week.",
+      "explanation_fa": "'Myślę pojechać' = دارم فکر می‌کنم بروم (myśleć + مصدر = فکر کردن برای انجام کاری). 'Pojechać' = مصدر. 'W przyszłym tygodniu' = هفته آینده."
     }
   ],
   "xpReward": 20,

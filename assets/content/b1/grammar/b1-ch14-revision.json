@@ -1,0 +1,183 @@
+{
+  "id": "b1-ch14-revision",
+  "chapter": 14,
+  "level": "b1",
+  "title": "Chapter 14 Revision: Diminutives",
+  "title_fa": "مرور فصل ۱۴ B1: کوچک‌سازها",
+  "description": "Test your knowledge of Polish diminutive formation with -ek/-ka/-ko and their affective, polite, and contextual uses.",
+  "passThreshold": 0.7,
+  "questions": [
+    {
+      "id": "b1-ch14-rev-q01",
+      "type": "multiple_choice",
+      "prompt": "What is the diminutive of 'kawa' (coffee)?",
+      "prompt_fa": "کوچک‌ساز 'kawa' (قهوه) چیست؟",
+      "options": [
+        "kawka",
+        "kaweczka",
+        "kawek",
+        "kawusia"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Kawka' is the standard diminutive of 'kawa'. 'Kawusia' is a more intensely affectionate form. 'Kawka' is most common in polite/friendly service contexts.",
+      "explanation_fa": "'Kawka' کوچک‌ساز استاندارد 'kawa' است. 'Kawusia' شکل محبت‌آمیزتری است. 'Kawka' در متن‌های مؤدبانه/دوستانه رایج‌ترین است."
+    },
+    {
+      "id": "b1-ch14-rev-q02",
+      "type": "multiple_choice",
+      "prompt": "Which of these is a diminutive of 'okno' (window) that now means 'ticket window'?",
+      "prompt_fa": "کدام یک از اینها کوچک‌ساز 'okno' (پنجره) است که اکنون به معنی 'گیشه' است؟",
+      "options": [
+        "okienko",
+        "okieczko",
+        "okieneczko",
+        "oknko"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Okienko' = diminutive of 'okno', now lexicalized as 'ticket window', 'chat window', etc.",
+      "explanation_fa": "'Okienko' = کوچک‌ساز 'okno'، اکنون به‌عنوان 'گیشه بلیت'، 'پنجره چت' استاندارد شده."
+    },
+    {
+      "id": "b1-ch14-rev-q03",
+      "type": "fill_blank",
+      "prompt": "In a bakery: 'Poproszę ___.' (one croissant — use standard diminutive form)",
+      "prompt_fa": "در نانوایی: 'Poproszę ___.' (یک کروآسان — از شکل کوچک‌ساز استاندارد استفاده کنید)",
+      "answer": "rogalika",
+      "acceptableAnswers": ["rogalika", "rogalik"],
+      "hint": "rogal → rogalik (standard bakery word) → accusative: rogalika",
+      "explanation": "'Poproszę rogalika.' — One croissant please. 'Rogalik' is the standard (and diminutive) form used in bakeries.",
+      "explanation_fa": "'Poproszę rogalika.' — یک کروآسان لطفاً. 'Rogalik' شکل استاندارد (و کوچک‌ساز) در نانوایی‌هاست."
+    },
+    {
+      "id": "b1-ch14-rev-q04",
+      "type": "multiple_choice",
+      "prompt": "Why would a Polish person say 'kawkę' instead of 'kawę' when ordering?",
+      "prompt_fa": "چرا یک لهستانی هنگام سفارش 'kawkę' به‌جای 'kawę' می‌گوید؟",
+      "options": [
+        "It's more polite and friendly in service interactions",
+        "It means a smaller amount of coffee",
+        "It's the only correct form",
+        "It's used only in formal situations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Diminutives like 'kawkę' are used in Polish service/commercial interactions to sound polite, friendly, and warm — not to indicate a smaller portion.",
+      "explanation_fa": "کوچک‌سازهایی مثل 'kawkę' در تعاملات خدماتی/تجاری لهستانی برای مؤدب، دوستانه و گرم بودن استفاده می‌شوند — نه برای نشان دادن مقدار کمتر."
+    },
+    {
+      "id": "b1-ch14-rev-q05",
+      "type": "multiple_choice",
+      "prompt": "What is the correct diminutive of 'słowo' (word)?",
+      "prompt_fa": "کوچک‌ساز درست 'słowo' (کلمه) چیست؟",
+      "options": [
+        "słówko",
+        "słowko",
+        "słówek",
+        "słoweczko"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Słówko' — note the lengthened vowel (ó). Very common meaning: a vocabulary item, a little word.",
+      "explanation_fa": "'Słówko' — توجه به واکه کشیده‌شده (ó). معنی رایج: یک واحد واژگانی، یک کلمه کوچک."
+    },
+    {
+      "id": "b1-ch14-rev-q06",
+      "type": "fill_blank",
+      "prompt": "Affectionate form of 'mama': 'Gdzie jest ___?' (very affectionate, used by children)",
+      "prompt_fa": "شکل محبت‌آمیز 'mama': 'Gdzie jest ___؟' (خیلی محبت‌آمیز، توسط کودکان استفاده می‌شود)",
+      "answer": "mamusia",
+      "acceptableAnswers": ["mamusia", "mamuś"],
+      "hint": "mama → mamusia (affectionate diminutive)",
+      "explanation": "'Mamusia' is the affectionate diminutive of 'mama', commonly used by children and in tender family speech.",
+      "explanation_fa": "'Mamusia' کوچک‌ساز محبت‌آمیز 'mama' است که کودکان و در گفتار خانوادگی نرم استفاده می‌کنند."
+    },
+    {
+      "id": "b1-ch14-rev-q07",
+      "type": "multiple_choice",
+      "prompt": "In a Polish fairy tale (bajka): 'W małym domeczku mieszkało...' What does 'domeczek' suggest?",
+      "prompt_fa": "در یک افسانه لهستانی (bajka): 'W małym domeczku mieszkało...' 'domeczek' چه چیزی را القا می‌کند؟",
+      "options": [
+        "A humble, fairy-tale cottage — endearing and typical of folk tales",
+        "A luxury villa",
+        "A modern apartment",
+        "A large manor house"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Domeczek' (double diminutive: dom→domek→domeczek) is classic fairy-tale language, evoking a humble, cozy, endearing cottage.",
+      "explanation_fa": "'Domeczek' (کوچک‌ساز مضاعف: dom→domek→domeczek) زبان کلاسیک افسانه‌پردازی است که یک کلبه فروتنانه، گرم و دلنشین را تداعی می‌کند."
+    },
+    {
+      "id": "b1-ch14-rev-q08",
+      "type": "multiple_choice",
+      "prompt": "Which noun is a lexicalized diminutive (now the standard word)?",
+      "prompt_fa": "کدام اسم کوچک‌ساز استاندارد شده است (اکنون کلمه عادی)؟",
+      "options": [
+        "torebka (bag/purse)",
+        "kawka (coffee)",
+        "koteczek (little kitty)",
+        "domeczek (tiny house)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Torebka' (bag/purse) is a lexicalized diminutive of 'torba' — Poles don't think of it as 'small bag' but simply 'bag'.",
+      "explanation_fa": "'Torebka' (کیف/کیف‌دستی) کوچک‌ساز استاندارد شده 'torba' است — لهستانی‌ها آن را نه به‌عنوان 'کیف کوچک' بلکه فقط 'کیف' می‌شناسند."
+    },
+    {
+      "id": "b1-ch14-rev-q09",
+      "type": "fill_blank",
+      "prompt": "Politely ask for a moment: 'Przepraszam, czy ma pani ___?' (chwila → double diminutive)",
+      "prompt_fa": "مؤدبانه یک لحظه بخواهید: 'Przepraszam, czy ma pani ___؟' (chwila → کوچک‌ساز مضاعف)",
+      "answer": "chwileczkę",
+      "acceptableAnswers": ["chwileczkę", "chwilkę"],
+      "hint": "chwila → chwilka → chwileczka → accusative: chwileczkę",
+      "explanation": "'Chwileczkę' — double diminutive of 'chwila'. Very common polite softener in Polish service interactions.",
+      "explanation_fa": "'Chwileczkę' — کوچک‌ساز مضاعف 'chwila'. نرم‌کننده مؤدبانه بسیار رایج در تعاملات خدماتی لهستانی."
+    },
+    {
+      "id": "b1-ch14-rev-q10",
+      "type": "multiple_choice",
+      "prompt": "Which diminutive suffix is used for MASCULINE nouns like 'kot' (cat)?",
+      "prompt_fa": "کدام پسوند کوچک‌ساز برای اسامی مذکر مثل 'kot' (گربه) استفاده می‌شود؟",
+      "options": [
+        "-ek/-ik (kotek)",
+        "-ka (kotka)",
+        "-ko (kotko)",
+        "-uszka (kotuszka)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Masculine diminutives use -ek/-ik/-czek: kot → kotek, brat → braciszek. '-ka' forms feminine diminutives; '-ko' forms neuter diminutives.",
+      "explanation_fa": "کوچک‌سازهای مذکر از -ek/-ik/-czek استفاده می‌کنند: kot → kotek. '-ka' کوچک‌سازهای مؤنث می‌سازد؛ '-ko' خنثی."
+    },
+    {
+      "id": "b1-ch14-rev-q11",
+      "type": "multiple_choice",
+      "prompt": "An ironic use of a diminutive: 'jaki grzeczniś!' What does this express?",
+      "prompt_fa": "کاربرد کنایی کوچک‌ساز: 'jaki grzeczniś!' این چه چیزی را بیان می‌کند؟",
+      "options": [
+        "Sarcastic praise — implying the opposite (goody-goody!)",
+        "Genuine admiration for good behavior",
+        "A formal compliment",
+        "A polite request to behave"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Grzeczniś' is an ironic diminutive of 'grzeczny' (well-behaved). 'Jaki grzeczniś!' = What a goody-goody you are! — sarcastic.",
+      "explanation_fa": "'Grzeczniś' یک کوچک‌ساز کنایی 'grzeczny' (خوش‌رفتار) است. 'Jaki grzeczniś!' = عجب آدم خوبی هستی! — طعنه‌آمیز."
+    },
+    {
+      "id": "b1-ch14-rev-q12",
+      "type": "multiple_choice",
+      "prompt": "In children's speech: 'Daj rączki.' What does 'rączki' mean?",
+      "prompt_fa": "در زبان کودکان: 'Daj rączki.' 'rączki' چه معنایی دارد؟",
+      "options": [
+        "Give your little hands (plural of rączka = diminutive of ręka)",
+        "Give your arm",
+        "Give your gloves",
+        "Show your rings"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Rączki' = plural of 'rączka' (diminutive of 'ręka' = hand). 'Daj rączki' = Give your little hands — typical request to a small child.",
+      "explanation_fa": "'Rączki' = جمع 'rączka' (کوچک‌ساز 'ręka' = دست). 'Daj rączki' = دست‌هایت را بده — درخواست معمول از کودک کوچک."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 8,
+  "tags": ["diminutives", "word-formation", "b1-core"],
+  "prerequisites": ["b1-ch14-l01", "b1-ch14-l02", "b1-ch14-l03", "b1-ch14-l04"]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "b1-ch17-revision",
+  "chapter": 17,
+  "level": "b1",
+  "title": "Chapter 17 Revision: Formal Correspondence",
+  "title_fa": "مرور فصل ۱۷ B1: مکاتبات رسمی",
+  "description": "Test your knowledge of formal letter structure, Pan/Pani forms, email phrases, and formal register markers.",
+  "passThreshold": 0.7,
+  "questions": [
+    {
+      "id": "b1-ch17-rev-q01",
+      "type": "multiple_choice",
+      "prompt": "How do you write '15th June 2026' in a formal Polish letter?",
+      "prompt_fa": "تاریخ '۱۵ ژوئن ۲۰۲۶' را چگونه در نامه رسمی لهستانی می‌نویسید؟",
+      "options": [
+        "15 czerwca 2026 roku",
+        "15 czerwiec 2026 roku",
+        "15 czerwcowy 2026",
+        "piętnastego czerwiec 2026"
+      ],
+      "correctIndex": 0,
+      "explanation": "Months in formal dates take genitive: 'czerwiec' → 'czerwca'. Full: '15 czerwca 2026 roku'.",
+      "explanation_fa": "ماه‌ها در تاریخ‌های رسمی مضاف‌الیه می‌گیرند: 'czerwiec' → 'czerwca'. کامل: '15 czerwca 2026 roku'."
+    },
+    {
+      "id": "b1-ch17-rev-q02",
+      "type": "multiple_choice",
+      "prompt": "What is the correct formal salutation for a male doctor?",
+      "prompt_fa": "سلام رسمی درست برای یک دکتر مرد چیست؟",
+      "options": [
+        "Szanowny Panie Doktorze,",
+        "Szanowny Pan Doktor,",
+        "Szanownego Pana Doktora,",
+        "Drogi Panie Doktorze,"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Szanowny Panie Doktorze,' — vocative case: Pan → Panie, Doktor → Doktorze. Szanowny agrees with the vocative.",
+      "explanation_fa": "'Szanowny Panie Doktorze,' — حالت ندا: Pan → Panie، Doktor → Doktorze. Szanowny با حالت ندا هم‌خوانی دارد."
+    },
+    {
+      "id": "b1-ch17-rev-q03",
+      "type": "fill_blank",
+      "prompt": "To address a group formally: 'Dear Ladies and Gentlemen,' = Szanowni ___,",
+      "prompt_fa": "برای خطاب گروه به شکل رسمی: 'خانم‌ها و آقایان محترم،' = Szanowni ___,",
+      "answer": "Państwo",
+      "acceptableAnswers": ["Państwo"],
+      "hint": "Państwo = formal plural (ladies and gentlemen)",
+      "explanation": "'Szanowni Państwo,' = Dear Ladies and Gentlemen. Państwo = polite plural; szanowni = virile plural form.",
+      "explanation_fa": "'Szanowni Państwo,' = خانم‌ها و آقایان محترم. Państwo = جمع مؤدبانه؛ szanowni = شکل جمع مذکر."
+    },
+    {
+      "id": "b1-ch17-rev-q04",
+      "type": "multiple_choice",
+      "prompt": "When using 'Pan' as formal 'you', which verb form is correct?",
+      "prompt_fa": "وقتی از 'Pan' به عنوان 'شما' رسمی استفاده می‌شود، کدام شکل فعل درست است؟",
+      "options": [
+        "Czy Pan ma czas? (3rd person singular)",
+        "Czy Pan masz czas? (2nd person — wrong)",
+        "Czy Pan macie czas? (2nd plural — wrong)",
+        "Czy Pan mają czas? (3rd plural — wrong)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pan/Pani = 3rd person singular. 'Ma' (has) not 'masz' (you have). This is the fundamental rule of formal Polish address.",
+      "explanation_fa": "Pan/Pani = سوم شخص مفرد. 'Ma' (دارد) نه 'masz' (داری). این قانون اساسی خطاب رسمی لهستانی است."
+    },
+    {
+      "id": "b1-ch17-rev-q05",
+      "type": "multiple_choice",
+      "prompt": "What does 'Zwracam się do Pani z prośbą o...' mean?",
+      "prompt_fa": "'Zwracam się do Pani z prośbą o...' چه معنایی دارد؟",
+      "options": [
+        "I am turning to you (madam) with a request for...",
+        "I am writing to you about...",
+        "I thank you madam for...",
+        "I am responding to your request..."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Zwracam się do + Gen. + z prośbą o + Acc.' = I turn to (someone) with a request for (something). Standard formal request opener.",
+      "explanation_fa": "'Zwracam się do + مضاف‌الیه + z prośbą o + مفعولی' = با درخواست (چیزی) به (کسی) مراجعه می‌کنم. شروع استاندارد درخواست رسمی."
+    },
+    {
+      "id": "b1-ch17-rev-q06",
+      "type": "fill_blank",
+      "prompt": "Standard formal closing (one word missing): 'Z ___, Jan Kowalski'",
+      "prompt_fa": "خاتمه استاندارد رسمی (یک کلمه کم است): 'Z ___, Jan Kowalski'",
+      "answer": "poważaniem",
+      "acceptableAnswers": ["poważaniem"],
+      "hint": "Z poważaniem = Yours sincerely / Respectfully",
+      "explanation": "'Z poważaniem' = Yours sincerely. From 'poważanie' (respect) in instrumental after 'z'.",
+      "explanation_fa": "'Z poważaniem' = با احترام. از 'poważanie' (احترام) در ابزاری بعد از 'z'."
+    },
+    {
+      "id": "b1-ch17-rev-q07",
+      "type": "multiple_choice",
+      "prompt": "Which phrase means 'I thank you in advance'?",
+      "prompt_fa": "کدام عبارت به معنای 'از قبل تشکر می‌کنم' است؟",
+      "options": [
+        "Z góry dziękuję",
+        "Z dołu dziękuję",
+        "Dziękuję z przyszłości",
+        "Poprzednio dziękuję"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Z góry dziękuję' = I thank you in advance. Fixed phrase: 'z góry' (literally 'from above') = in advance.",
+      "explanation_fa": "'Z góry dziękuję' = از قبل تشکر می‌کنم. عبارت ثابت: 'z góry' (به معنای واقعی 'از بالا') = از قبل."
+    },
+    {
+      "id": "b1-ch17-rev-q08",
+      "type": "multiple_choice",
+      "prompt": "What case does 'prośba o...' require?",
+      "prompt_fa": "'prośba o...' چه حالتی می‌طلبد؟",
+      "options": [
+        "Accusative (request FOR something)",
+        "Genitive (request OF something)",
+        "Dative (request TO someone)",
+        "Instrumental (request WITH something)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Prośba o + accusative' = request for. 'Proszę o spotkanie' — spotkanie (n.) stays nominative = accusative form.",
+      "explanation_fa": "'Prośba o + مفعولی' = درخواست برای. 'Proszę o spotkanie' — spotkanie (خنثی) فاعلی = شکل مفعولی می‌ماند."
+    },
+    {
+      "id": "b1-ch17-rev-q09",
+      "type": "multiple_choice",
+      "prompt": "Which word is MORE FORMAL than 'chcę' (I want) in formal writing?",
+      "prompt_fa": "کدام کلمه در نوشتار رسمی از 'chcę' (می‌خواهم) رسمی‌تر است؟",
+      "options": [
+        "pragnę (I wish, desire — elevated)",
+        "lubię (I like)",
+        "potrzebuję (I need)",
+        "muszę (I must)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Pragnę' = I wish/desire — elevated, formal. 'Chcę' = I want — neutral. 'Pragnę poinformować...' sounds more professional than 'Chcę powiedzieć...'",
+      "explanation_fa": "'Pragnę' = آرزو دارم/می‌خواهم — مرتفع، رسمی. 'Chcę' = می‌خواهم — خنثی. 'Pragnę poinformować...' حرفه‌ای‌تر از 'Chcę powiedzieć...' به نظر می‌رسد."
+    },
+    {
+      "id": "b1-ch17-rev-q10",
+      "type": "fill_blank",
+      "prompt": "Formal polite imperative to a woman: 'Please enter.' = Niech Pani ___.",
+      "prompt_fa": "دستور مؤدبانه رسمی به یک زن: 'لطفاً وارد شوید.' = Niech Pani ___.",
+      "answer": "wejdzie",
+      "acceptableAnswers": ["wejdzie"],
+      "hint": "niech + Pani + 3rd person singular perfective: wejść → wejdzie",
+      "explanation": "'Niech Pani wejdzie.' — Please come in. 'Niech + Pan/Pani + 3rd sg.' = formal polite imperative.",
+      "explanation_fa": "'Niech Pani wejdzie.' — لطفاً وارد شوید. 'Niech + Pan/Pani + سوم مفرد.' = دستور مؤدبانه رسمی."
+    },
+    {
+      "id": "b1-ch17-rev-q11",
+      "type": "multiple_choice",
+      "prompt": "In a job application, which phrase means 'I am applying for the position of...'?",
+      "prompt_fa": "در درخواست شغلی، کدام عبارت به معنای 'برای موقعیت ... درخواست می‌دهم' است؟",
+      "options": [
+        "Składam swoją kandydaturę na stanowisko...",
+        "Chcę pracę na stanowisko...",
+        "Potrzebuję stanowisko...",
+        "Mam stanowisko..."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Składam kandydaturę na stanowisko...' = I am submitting my candidature for the position of... Formal job application language.",
+      "explanation_fa": "'Składam kandydaturę na stanowisko...' = کاندیداتوری خود را برای موقعیت ... ارائه می‌دهم. زبان رسمی درخواست شغلی."
+    },
+    {
+      "id": "b1-ch17-rev-q12",
+      "type": "multiple_choice",
+      "prompt": "What does 'w załączeniu przesyłam' mean in an email?",
+      "prompt_fa": "'w załączeniu przesyłam' در ایمیل چه معنایی دارد؟",
+      "options": [
+        "I am sending attached (as an attachment)",
+        "I am sending in response to",
+        "I am forwarding your email",
+        "I am sending a copy to"
+      ],
+      "correctIndex": 0,
+      "explanation": "'W załączeniu przesyłam CV.' = I am sending my CV attached. 'W załączeniu' = attached/enclosed (as an attachment).",
+      "explanation_fa": "'W załączeniu przesyłam CV.' = CV خود را در پیوست ارسال می‌کنم. 'W załączeniu' = پیوست‌شده/ضمیمه."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 8,
+  "tags": ["formal-writing", "correspondence", "pan-pani", "b1-core"],
+  "prerequisites": ["b1-ch17-l01", "b1-ch17-l02", "b1-ch17-l03", "b1-ch17-l04"]
+}

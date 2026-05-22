@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Formal equivalent of 'dostać' (to get/receive)?",
+      "prompt_fa": "معادل رسمی 'dostać' (گرفتن/دریافت کردن) چیست؟",
       "options": [
         "otrzymać",
         "wziąć",
@@ -30,13 +31,15 @@
         "zdobyć"
       ],
       "correctIndex": 0,
-      "explanation": "'Otrzymać' = to receive (formal). 'Dostać' = to get (informal). In formal letters: 'Otrzymałam Pańskie pismo' = I received your letter. 'Dostałam list' = informal equivalent."
+      "explanation": "'Otrzymać' = to receive (formal). 'Dostać' = to get (informal). In formal letters: 'Otrzymałam Pańskie pismo' = I received your letter. 'Dostałam list' = informal equivalent.",
+      "explanation_fa": "'Otrzymać' = دریافت کردن (رسمی). 'Dostać' = گرفتن (غیررسمی). در نامه‌های رسمی: 'Otrzymałam Pańskie pismo' = نامه شما را دریافت کردم. 'Dostałam list' = معادل غیررسمی."
     },
     {
       "id": "a2-ch19-l03-ex02",
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Formal equivalent of 'zrobić' (to do)?",
+      "prompt_fa": "معادل رسمی 'zrobić' (انجام دادن) چیست؟",
       "options": [
         "wykonać",
         "nabyć",
@@ -44,12 +47,15 @@
         "oddać"
       ],
       "correctIndex": 0,
-      "explanation": "'Wykonać' = to carry out / execute (formal). 'Zrobić' = to do (everyday). 'Proszę wykonać zadanie' (formal instruction) vs 'Zrób to!' (informal command)."
+      "explanation": "'Wykonać' = to carry out / execute (formal). 'Zrobić' = to do (everyday). 'Proszę wykonać zadanie' (formal instruction) vs 'Zrób to!' (informal command).",
+      "explanation_fa": "'Wykonać' = انجام دادن/اجرا کردن (رسمی). 'Zrobić' = انجام دادن (روزمره). 'Proszę wykonać zadanie' (دستور رسمی) در برابر 'Zrób to!' (دستور غیررسمی)."
     },
     {
       "id": "a2-ch19-l03-ex03",
       "type": "dictation_mc",
       "order": 3,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch19/a2-ch19-l03-ex03.mp3",
       "options": [
         "Pragnę złożyć skargę na obsługę.",
@@ -58,13 +64,15 @@
         "Mogę złożyć skargę na obsługę?"
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Pragnę złożyć skargę na obsługę.' — I wish to lodge a complaint about the service. 'Pragnąć' (formal) vs 'chcieć' (informal). 'Złożyć skargę' = to lodge a complaint (formal expression). 'Obsługa' = service (customer service)."
+      "explanation": "You heard: 'Pragnę złożyć skargę na obsługę.' — I wish to lodge a complaint about the service. 'Pragnąć' (formal) vs 'chcieć' (informal). 'Złożyć skargę' = to lodge a complaint (formal expression). 'Obsługa' = service (customer service).",
+      "explanation_fa": "شنیدید: 'Pragnę złożyć skargę na obsługę.' — مایلم شکایتی درباره خدمات ارائه دهم. 'Pragnąć' (رسمی) در برابر 'chcieć' (غیررسمی). 'Złożyć skargę' = ارائه شکایت (عبارت رسمی)."
     },
     {
       "id": "a2-ch19-l03-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Which greeting is appropriate in a formal business email?",
+      "prompt_fa": "کدام سلام در یک ایمیل تجاری رسمی مناسب است؟",
       "options": [
         "Dzień dobry,",
         "Hej,",
@@ -72,13 +80,15 @@
         "Witaj,"
       ],
       "correctIndex": 0,
-      "explanation": "'Dzień dobry,' = Good day/Hello — appropriate formal email opening. 'Hej' and 'Cześć' are informal (hi/hey). 'Witaj' is semi-formal but mostly informal. In very formal contexts, use 'Szanowny Panie/Szanowna Pani'."
+      "explanation": "'Dzień dobry,' = Good day/Hello — appropriate formal email opening. 'Hej' and 'Cześć' are informal (hi/hey). 'Witaj' is semi-formal but mostly informal. In very formal contexts, use 'Szanowny Panie/Szanowna Pani'.",
+      "explanation_fa": "'Dzień dobry,' = سلام/روز بخیر — آغاز مناسب برای ایمیل رسمی. 'Hej' و 'Cześć' غیررسمی هستند. 'Witaj' نیمه‌رسمی است. در بافت‌های خیلی رسمی از 'Szanowny Panie/Szanowna Pani' استفاده کنید."
     },
     {
       "id": "a2-ch19-l03-ex05",
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build a formal sentence: I would like to inquire about the price. (zapytać / cena)",
+      "prompt_fa": "یک جمله رسمی بسازید: مایلم درباره قیمت بپرسم. (zapytać / cena)",
       "wordBank": [
         "Chciałbym",
         "Chciałabym",
@@ -92,24 +102,103 @@
         "."
       ],
       "correctSequences": [
-        [
-          "Chciałbym",
-          "zapytać",
-          "o",
-          "cenę",
-          "usługi",
-          "."
-        ],
-        [
-          "Chciałabym",
-          "zapytać",
-          "o",
-          "cenę",
-          "usługi",
-          "."
-        ]
+        ["Chciałbym", "zapytać", "o", "cenę", "usługi", "."],
+        ["Chciałabym", "zapytać", "o", "cenę", "usługi", "."]
       ],
-      "explanation": "'Chciałbym/Chciałabym zapytać o cenę usługi.' — I would like to inquire about the price of the service. Conditional 'chciałbym' is polite/formal. 'Zapytać o + accusative': cenę. 'Usługi' = genitive (of the service)."
+      "explanation": "'Chciałbym/Chciałabym zapytać o cenę usługi.' — I would like to inquire about the price of the service. Conditional 'chciałbym' is polite/formal. 'Zapytać o + accusative': cenę. 'Usługi' = genitive (of the service).",
+      "explanation_fa": "'Chciałbym/Chciałabym zapytać o cenę usługi.' — مایلم درباره قیمت خدمت بپرسم. شرطی 'chciałbym' مؤدبانه/رسمی است. 'Zapytać o + مفعولی': cenę. 'Usługi' = مضاف‌الیه."
+    },
+    {
+      "id": "a2-ch19-l03-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Marek says 'Nie wiem.' formally. Which is the most formal alternative?",
+      "prompt_fa": "Marek جمله 'Nie wiem.' را به شکل رسمی می‌گوید. کدام گزینه رسمی‌ترین است؟",
+      "options": [
+        "Nie jestem w stanie powiedzieć.",
+        "Nie mam pojęcia.",
+        "Nie wiem, sorry.",
+        "Dunno."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nie jestem w stanie powiedzieć.' = I am not in a position to say (formal). 'Nie mam pojęcia' = I have no idea (casual). 'Nie wiem, sorry' and 'Dunno' are informal. The formal phrase uses 'być w stanie' (to be able/in a position to).",
+      "explanation_fa": "'Nie jestem w stanie powiedzieć.' = در موقعیتی نیستم که بگویم (رسمی). 'Nie mam pojęcia' = هیچ ایده‌ای ندارم (معمولی). 'Nie wiem, sorry' و 'Dunno' غیررسمی هستند."
+    },
+    {
+      "id": "a2-ch19-l03-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Formal letter: I have received your document. Complete:",
+      "context_fa": "نامه رسمی: سند شما را دریافت کردم. کامل کنید:",
+      "sentence": "Uprzejmie informuję, że ___ Państwa dokument.",
+      "translation": "(I politely inform you that I received your document.) [formal verb for 'received']",
+      "translation_fa": "(محترمانه اطلاع می‌دهم که سند شما را دریافت کردم.) [فعل رسمی برای 'دریافت کردم']",
+      "prompt": "Uprzejmie informuję, że ___ Państwa dokument.",
+      "prompt_fa": "Uprzejmie informuję, że ___ Państwa dokument.",
+      "answer": "otrzymałem",
+      "acceptableAnswers": ["otrzymałem", "otrzymałam"],
+      "hint": "otrzymać (formal) = to receive — past tense 1st sg",
+      "explanation": "'Otrzymałem/Otrzymałam Państwa dokument.' = I received your document (formal). Otrzymać (formal) vs dostać (informal). Both are past perfective.",
+      "explanation_fa": "'Otrzymałem/Otrzymałam Państwa dokument.' = سند شما را دریافت کردم (رسمی). Otrzymać (رسمی) در برابر dostać (غیررسمی)."
+    },
+    {
+      "id": "a2-ch19-l03-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch19/a2-ch19-l03-ex08.mp3",
+      "options": [
+        "Oczywiście, wykonam to zadanie.",
+        "OK, zrobię to zadanie.",
+        "Dobra, zrobię.",
+        "Jasne, dam radę."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Oczywiście, wykonam to zadanie.' — Of course, I will carry out this task. 'Oczywiście' (formal) vs 'dobra/OK' (informal). 'Wykonać' (formal) vs 'zrobić' (informal).",
+      "explanation_fa": "شنیدید: 'Oczywiście, wykonam to zadanie.' — البته، این وظیفه را انجام می‌دهم. 'Oczywiście' (رسمی) در برابر 'dobra/OK' (غیررسمی). 'Wykonać' (رسمی) در برابر 'zrobić' (غیررسمی)."
+    },
+    {
+      "id": "a2-ch19-l03-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build a formal request: I would like to present the offer. (zaprezentować / oferta)",
+      "prompt_fa": "یک درخواست رسمی بسازید: مایلم پیشنهاد را ارائه دهم. (zaprezentować / oferta)",
+      "wordBank": [
+        "Chciałbym",
+        "Chciałabym",
+        "zaprezentować",
+        "pokazać",
+        "Państwu",
+        "Panu",
+        "naszą",
+        "nasza",
+        "ofertę",
+        "oferta",
+        "."
+      ],
+      "correctSequences": [
+        ["Chciałbym", "zaprezentować", "Państwu", "naszą", "ofertę", "."],
+        ["Chciałabym", "zaprezentować", "Państwu", "naszą", "ofertę", "."]
+      ],
+      "explanation": "'Chciałbym/Chciałabym zaprezentować Państwu naszą ofertę.' = I would like to present our offer to you. 'Zaprezentować' (formal) vs 'pokazać' (informal). 'Państwu' = dative of Państwo (formal you, pl, indirect object).",
+      "explanation_fa": "'Chciałbym/Chciałabym zaprezentować Państwu naszą ofertę.' = مایلم پیشنهادمان را به شما ارائه دهم. 'Zaprezentować' (رسمی) در برابر 'pokazać' (غیررسمی)."
+    },
+    {
+      "id": "a2-ch19-l03-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Which sentence uses the correct formal vocabulary throughout?",
+      "prompt_fa": "کدام جمله در سراسر آن از واژگان رسمی صحیح استفاده می‌کند؟",
+      "options": [
+        "Pragnę poinformować, że zamówienie zostało zrealizowane.",
+        "Chcę powiedzieć, że zamówienie zostało zrobione.",
+        "Hej, twoje zamówienie jest gotowe.",
+        "Dobra, twój towar jest już tu."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Pragnę poinformować, że zamówienie zostało zrealizowane.' = I wish to inform you that the order has been fulfilled. All formal: 'pragnąć' (wish), 'poinformować' (to inform), 'zrealizować' (to fulfil/complete). Other options mix registers.",
+      "explanation_fa": "'Pragnę poinformować, że zamówienie zostało zrealizowane.' = مایلم اطلاع دهم که سفارش تکمیل شده است. همه کلمات رسمی هستند: 'pragnąć' (مایل بودن)، 'poinformować' (اطلاع دادن)، 'zrealizować' (تکمیل کردن)."
     }
   ],
   "xpReward": 20,

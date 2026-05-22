@@ -41,6 +41,7 @@ final class GrammarUnit {
     this.estimatedMinutes,
     this.tags = const [],
     this.prerequisites = const [],
+    this.isRevision = false,
   });
 
   final String id;
@@ -61,6 +62,9 @@ final class GrammarUnit {
 
   final String? titleFa;
   final String? explanationFa;
+
+  /// True when the JSON source is a revision quiz (has 'questions' not 'exercises').
+  final bool isRevision;
   final int? xpReward;
   final int? estimatedMinutes;
   final List<String> tags;
@@ -73,7 +77,7 @@ final class GrammarUnit {
       lang == 'fa' && explanationFa != null ? explanationFa! : explanation;
 
   factory GrammarUnit.fromJson(Map<String, dynamic> json) {
-    // --- explanation: accepts both object {text, notes} and plain string ---
+    // --- explanation: object {text,notes}, plain string, or missing (revision) ---
     String explanationText;
     List<String>? explanationNotes;
     final rawExplanation = json['explanation'];
@@ -82,7 +86,9 @@ final class GrammarUnit {
       explanationNotes =
           (rawExplanation['notes'] as List<dynamic>?)?.cast<String>();
     } else {
-      explanationText = rawExplanation as String? ?? '';
+      // Plain string OR null (revision quiz uses 'description' instead)
+      explanationText = rawExplanation as String? ??
+          json['description'] as String? ?? '';
     }
 
     // --- order: accepts both 'lessonOrder' (new) and 'order' (legacy) ---
@@ -104,7 +110,8 @@ final class GrammarUnit {
       explanationNotes: explanationNotes,
       grammarPoint: json['grammarPoint'] as String?,
       examples: examples,
-      exercises: (json['exercises'] as List<dynamic>)
+      // Revision JSONs use 'questions'; lesson JSONs use 'exercises'
+      exercises: ((json['exercises'] ?? json['questions']) as List<dynamic>? ?? [])
           .map((e) => Exercise.fromJson(e as Map<String, dynamic>))
           .toList(),
       titleFa: json['title_fa'] as String?,
@@ -114,6 +121,7 @@ final class GrammarUnit {
       tags: (json['tags'] as List<dynamic>?)?.cast<String>() ?? const [],
       prerequisites:
           (json['prerequisites'] as List<dynamic>?)?.cast<String>() ?? const [],
+      isRevision: json['questions'] != null,
     );
   }
 }

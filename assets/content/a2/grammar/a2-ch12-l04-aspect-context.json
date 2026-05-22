@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "W końcu ___ do dentysty. (I finally went to the dentist.) [iść → pójść; ja m past]",
+      "prompt_fa": "بالاخره ___ پیش دندانپزشک رفتم. [iść → pójść؛ اول شخص مفرد مذکر گذشته]",
       "options": [
         "poszedłem",
         "szedłem",
@@ -30,24 +31,34 @@
         "pójdę"
       ],
       "correctIndex": 0,
-      "explanation": "'W końcu' (finally) signals completion → perfective: pójść → poszedłem. 'Szedłem' (imperfective) = I was walking, not completed."
+      "explanation": "'W końcu' (finally) signals completion → perfective: pójść → poszedłem. 'Szedłem' (imperfective) = I was walking, not completed.",
+      "explanation_fa": "'W końcu' (بالاخره) تکمیل را نشان می‌دهد → کامل: pójść → poszedłem. 'Szedłem' (ناکامل) = داشتم می‌رفتم، کامل نشده."
     },
     {
       "id": "a2-ch12-l04-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Kiedy ___ kolację (I was eating dinner — background), mama zadzwoniła. [jeść, ja f imperf past]",
+      "context": "Kasia describes a background action while cooking. Complete:",
+      "context_fa": "کاسیا یک عمل پس‌زمینه در حین پختن غذا را توصیف می‌کند. کامل کنید:",
+      "sentence": "Kiedy ___ kolację, mama zadzwoniła.",
+      "translation": "(While I was eating dinner [background action] — imperfective, mum called.) [jeść, ja f imperf past]",
+      "translation_fa": "(در حالی که داشتم شام می‌خوردم [عمل پس‌زمینه]، مامان زنگ زد.) [jeść، اول شخص مفرد مؤنث ناکامل گذشته]",
+      "prompt": "Kiedy ___ kolację, mama zadzwoniła.",
+      "prompt_fa": "Kiedy ___ kolację, mama zadzwoniła.",
       "answer": "jadłam",
       "acceptableAnswers": [
         "jadłam"
       ],
-      "hint": "Kiedy + background ongoing action = imperfective: jeść → jadłam (ja f)"
+      "hint": "Kiedy + background ongoing action = imperfective: jeść → jadłam (ja f)",
+      "explanation": "'Kiedy' + ongoing background action → imperfective: jadłam (I was eating). 'Zjadłam' (perfective) would mean I had already finished eating when mum called.",
+      "explanation_fa": "'Kiedy' + عمل پس‌زمینه در حال انجام → ناکامل: jadłam (داشتم می‌خوردم). 'Zjadłam' (کامل) یعنی وقتی مامان زنگ زد، خوردن را تمام کرده بودم."
     },
     {
       "id": "a2-ch12-l04-ex03",
       "type": "multiple_choice",
       "order": 3,
       "prompt": "Nagle ___ prąd. (Suddenly the electricity went out.) [zgasnąć — perfective of gasnąć, ono]",
+      "prompt_fa": "ناگهان ___ برق رفت. [zgasnąć — کامل gasnąć، سوم شخص مفرد خنثی]",
       "options": [
         "zgasło",
         "gasło",
@@ -55,13 +66,15 @@
         "zgaśnie"
       ],
       "correctIndex": 0,
-      "explanation": "'Nagle' (suddenly) + single event → perfective: zgasnąć → zgasło (neuter, ono). 'Gasło' would suggest a gradual process."
+      "explanation": "'Nagle' (suddenly) + single event → perfective: zgasnąć → zgasło (neuter, ono). 'Gasło' would suggest a gradual process.",
+      "explanation_fa": "'Nagle' (ناگهان) + رویداد واحد → کامل: zgasnąć → zgasło (خنثی، ono). 'Gasło' یک فرآیند تدریجی را پیشنهاد می‌کرد."
     },
     {
       "id": "a2-ch12-l04-ex04",
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: Every evening he read for an hour. (habitual — imperfective)",
+      "prompt_fa": "بسازید: هر عصر یک ساعت کتاب می‌خواند. (عادتی — ناکامل)",
       "wordBank": [
         "Co",
         "wieczór",
@@ -70,7 +83,6 @@
         "przeczytał",
         "przez",
         "godzinę",
-        "godziny",
         "cały"
       ],
       "correctSequences": [
@@ -83,13 +95,15 @@
           "godzinę"
         ]
       ],
-      "explanation": "'Co wieczór on czytał przez godzinę.' — Every evening he read for an hour. Habitual + duration → imperfective: czytał. 'Przez godzinę' = for an hour (duration confirms imperfective)."
+      "explanation": "'Co wieczór on czytał przez godzinę.' — Every evening he read for an hour. Habitual + duration → imperfective: czytał. 'Przez godzinę' = for an hour (duration confirms imperfective).",
+      "explanation_fa": "'Co wieczór on czytał przez godzinę.' — هر عصر یک ساعت کتاب می‌خواند. عادتی + مدت → ناکامل: czytał. 'Przez godzinę' = برای یک ساعت (مدت ناکامل را تأیید می‌کند)."
     },
     {
       "id": "a2-ch12-l04-ex05",
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Choose the correct sequence: 'First I called her, then I came over.' [zadzwonić / przyjść — both perfective, sequential]",
+      "prompt_fa": "توالی درست را انتخاب کنید: 'اول با او تماس گرفتم، بعد آمدم.' [zadzwonić / przyjść — هر دو کامل، متوالی]",
       "options": [
         "Najpierw zadzwoniłem, potem przyszedłem.",
         "Najpierw dzwoniłem, potem szedłem.",
@@ -97,7 +111,102 @@
         "Najpierw dzwoniłem, potem przyszedłem."
       ],
       "correctIndex": 0,
-      "explanation": "Sequential narrative events = perfective for each step: zadzwoniłem (called) → przyszedłem (came over). Both completed in sequence."
+      "explanation": "Sequential narrative events = perfective for each step: zadzwoniłem (called) → przyszedłem (came over). Both completed in sequence.",
+      "explanation_fa": "رویدادهای روایی متوالی = کامل برای هر مرحله: zadzwoniłem (تماس گرفتم) → przyszedłem (آمدم). هر دو به ترتیب کامل شدند."
+    },
+    {
+      "id": "a2-ch12-l04-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Przez całą noc ___ na egzamin. (All night long I studied for the exam.) Which aspect fits?",
+      "prompt_fa": "تمام شب ___ برای امتحان درس خواندم. کدام وجه مناسب است؟",
+      "options": [
+        "uczyłem się (imperfective — duration)",
+        "nauczyłem się (perfective — completed)",
+        "Both are correct",
+        "Neither is correct"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Przez całą noc' (all night long — duration) → imperfective: uczyłem się. 'Przez + duration' almost always signals imperfective because it emphasizes the process, not the result.",
+      "explanation_fa": "'Przez całą noc' (تمام شب — مدت) → ناکامل: uczyłem się. 'Przez + مدت' تقریباً همیشه ناکامل را نشان می‌دهد چون بر فرآیند تأکید دارد، نه نتیجه."
+    },
+    {
+      "id": "a2-ch12-l04-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Tomek narrates a story with sequential events. Complete:",
+      "context_fa": "تومک یک داستان با رویدادهای متوالی روایت می‌کند. کامل کنید:",
+      "sentence": "Najpierw ___ kawę, potem wyszedł z domu.",
+      "translation": "(First he drank [finished] his coffee, then he left the house.) [wypić, on past perfective]",
+      "translation_fa": "(اول قهوه‌اش را خورد [تمام کرد]، بعد از خانه بیرون رفت.) [wypić، سوم شخص مفرد مذکر گذشته کامل]",
+      "prompt": "Najpierw ___ kawę, potem wyszedł z domu.",
+      "prompt_fa": "Najpierw ___ kawę, potem wyszedł z domu.",
+      "answer": "wypił",
+      "acceptableAnswers": [
+        "wypił"
+      ],
+      "hint": "Sequential events: najpierw…potem → perfective; wypić past masc: wypił",
+      "explanation": "Sequential steps (najpierw…potem) → perfective: wypił (completed drinking) → then wyszedł (went out). Both are completed sequential events.",
+      "explanation_fa": "مراحل متوالی (najpierw…potem) → کامل: wypił (نوشیدن کامل) → بعد wyszedł (بیرون رفت). هر دو رویداد متوالی تمام‌شده هستند."
+    },
+    {
+      "id": "a2-ch12-l04-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch12/a2-ch12-l04-ex08.mp3",
+      "options": [
+        "Zawsze czytałam przed snem.",
+        "W końcu przeczytałam tę książkę.",
+        "Nagle przeczytałam wiadomość.",
+        "Raz czytałam ten artykuł."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Zawsze czytałam przed snem.' — I always read before bed. 'Zawsze' (always) = habitual → imperfective: czytałam.",
+      "explanation_fa": "شنیدید: 'Zawsze czytałam przed snem.' — همیشه قبل از خواب کتاب می‌خواندم. 'Zawsze' (همیشه) = عادتی → ناکامل: czytałam."
+    },
+    {
+      "id": "a2-ch12-l04-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: Ania suddenly called Marek.",
+      "prompt_fa": "بسازید: آنیا ناگهان به مارک زنگ زد.",
+      "wordBank": [
+        "Nagle",
+        "Ania",
+        "zadzwoniła",
+        "dzwoniła",
+        "do",
+        "Marka"
+      ],
+      "correctSequences": [
+        [
+          "Nagle",
+          "Ania",
+          "zadzwoniła",
+          "do",
+          "Marka"
+        ]
+      ],
+      "explanation": "'Nagle Ania zadzwoniła do Marka.' — Suddenly Ania called Marek. 'Nagle' (suddenly) + single event → perfective: zadzwoniła. 'Do Marka' = genitive after 'do'.",
+      "explanation_fa": "'Nagle Ania zadzwoniła do Marka.' — آنیا ناگهان به مارک زنگ زد. 'Nagle' (ناگهان) + رویداد واحد → کامل: zadzwoniła. 'Do Marka' = مضاف‌الیه بعد از 'do'."
+    },
+    {
+      "id": "a2-ch12-l04-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Which sentence correctly uses BOTH aspects in one narrative?",
+      "prompt_fa": "کدام جمله هر دو وجه را در یک روایت به درستی استفاده می‌کند؟",
+      "options": [
+        "Kiedy czytałem, nagle zadzwonił telefon.",
+        "Kiedy przeczytałem, nagle zadzwonił telefon.",
+        "Kiedy czytałem, nagle dzwonił telefon.",
+        "Kiedy przeczytałem, nagle dzwonił telefon."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Kiedy czytałem' (imperfective = while I was reading — background) + 'nagle zadzwonił' (perfective = suddenly rang — event). This is the classic background/event pair in Polish narrative.",
+      "explanation_fa": "'Kiedy czytałem' (ناکامل = در حالی که داشتم می‌خواندم — پس‌زمینه) + 'nagle zadzwonił' (کامل = ناگهان زنگ خورد — رویداد). این جفت پس‌زمینه/رویداد کلاسیک در روایت لهستانی است."
     }
   ],
   "xpReward": 25,

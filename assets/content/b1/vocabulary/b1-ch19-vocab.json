@@ -1,0 +1,262 @@
+{
+  "id": "b1-ch19-vocab",
+  "chapter": 19,
+  "level": "b1",
+  "title": "Polish Idioms & Proverbs",
+  "title_fa": "اصطلاحات و ضرب‌المثل‌های لهستانی",
+  "cards": [
+    {
+      "id": "b1-ch19-w001",
+      "polish": "mieć głowę na karku",
+      "english": "to have one's head screwed on (be smart/sensible)",
+      "pronunciation": "MYECH GWOH-veh nah KAR-koo",
+      "gender": null,
+      "category": "body_idiom",
+      "examplePolish": "On ma głowę na karku — zrobi to dobrze.",
+      "exampleEnglish": "He has his head screwed on — he'll do it well."
+    },
+    {
+      "id": "b1-ch19-w002",
+      "polish": "na własną rękę",
+      "english": "on one's own, independently",
+      "pronunciation": "nah VWAS-nown REN-keh",
+      "gender": null,
+      "category": "body_idiom",
+      "examplePolish": "Zrobiła to na własną rękę.",
+      "exampleEnglish": "She did it on her own."
+    },
+    {
+      "id": "b1-ch19-w003",
+      "polish": "wstać lewą nogą",
+      "english": "to get up on the wrong side of bed",
+      "pronunciation": "VSTACH LEH-vown NOH-gown",
+      "gender": null,
+      "category": "body_idiom",
+      "examplePolish": "Dzisiaj wstałem lewą nogą.",
+      "exampleEnglish": "I got up on the wrong side of bed today."
+    },
+    {
+      "id": "b1-ch19-w004",
+      "polish": "oczko w głowie",
+      "english": "the apple of one's eye, darling",
+      "pronunciation": "OHCH-koh v GWOH-vyeh",
+      "gender": null,
+      "category": "body_idiom",
+      "examplePolish": "Ta córka to oczko w głowie rodziców.",
+      "exampleEnglish": "That daughter is the apple of her parents' eye."
+    },
+    {
+      "id": "b1-ch19-w005",
+      "polish": "wziąć nogi za pas",
+      "english": "to take to one's heels, run away quickly",
+      "pronunciation": "VZYOWNCH NOH-gee zah pas",
+      "gender": null,
+      "category": "body_idiom",
+      "examplePolish": "Kiedy zobaczył policję, wziął nogi za pas.",
+      "exampleEnglish": "When he saw the police, he took to his heels."
+    },
+    {
+      "id": "b1-ch19-w006",
+      "polish": "być w siódmym niebie",
+      "english": "to be in seventh heaven (overjoyed)",
+      "pronunciation": "bich v SYOOD-mym NYEH-byeh",
+      "gender": null,
+      "category": "idiom",
+      "examplePolish": "Po awansie jest w siódmym niebie.",
+      "exampleEnglish": "After the promotion she's in seventh heaven."
+    },
+    {
+      "id": "b1-ch19-w007",
+      "polish": "mieć dość",
+      "english": "to have had enough, to be fed up",
+      "pronunciation": "MYECH doshch",
+      "gender": null,
+      "category": "idiom",
+      "examplePolish": "Mam już dość tej pracy.",
+      "exampleEnglish": "I've had enough of this job."
+    },
+    {
+      "id": "b1-ch19-w008",
+      "polish": "być w kropce",
+      "english": "to be in a fix, stuck in a difficult situation",
+      "pronunciation": "bich v KROP-tseh",
+      "gender": null,
+      "category": "idiom",
+      "examplePolish": "Jestem w kropce — nie wiem co zrobić.",
+      "exampleEnglish": "I'm in a fix — I don't know what to do."
+    },
+    {
+      "id": "b1-ch19-w009",
+      "polish": "wyjść na jaw",
+      "english": "to come to light, to be revealed",
+      "pronunciation": "VYY-shch nah yav",
+      "gender": null,
+      "category": "idiom",
+      "examplePolish": "Wyszło na jaw, że skłamał.",
+      "exampleEnglish": "It came to light that he had lied."
+    },
+    {
+      "id": "b1-ch19-w010",
+      "polish": "Nie ma sprawy!",
+      "english": "No problem! / No worries!",
+      "pronunciation": "NYEH mah SPRAH-vy",
+      "gender": null,
+      "category": "expression",
+      "examplePolish": "— Przepraszam za spóźnienie. — Nie ma sprawy!",
+      "exampleEnglish": "— Sorry for being late. — No problem!"
+    },
+    {
+      "id": "b1-ch19-w011",
+      "polish": "Bez pracy nie ma kołaczy.",
+      "english": "No pain, no gain. (Without work, no cakes.)",
+      "pronunciation": "bez PRAH-tsy nyeh mah koh-WA-chy",
+      "gender": null,
+      "category": "proverb",
+      "examplePolish": "Musisz ćwiczyć codziennie — bez pracy nie ma kołaczy.",
+      "exampleEnglish": "You must practise daily — no pain, no gain."
+    },
+    {
+      "id": "b1-ch19-w012",
+      "polish": "Lepiej późno niż wcale.",
+      "english": "Better late than never.",
+      "pronunciation": "LEH-pyey POOZH-noh nyesh VTSA-leh",
+      "gender": null,
+      "category": "proverb",
+      "examplePolish": "— Spóźniłeś się godzinę. — Lepiej późno niż wcale!",
+      "exampleEnglish": "— You're an hour late. — Better late than never!"
+    },
+    {
+      "id": "b1-ch19-w013",
+      "polish": "Nie mój cyrk, nie moje małpy.",
+      "english": "Not my circus, not my monkeys. (Not my problem.)",
+      "pronunciation": "NYEH mooy TSYRK nyeh MOH-yeh MAH-wpy",
+      "gender": null,
+      "category": "proverb",
+      "examplePolish": "To ich problem — nie mój cyrk, nie moje małpy.",
+      "exampleEnglish": "That's their problem — not my circus, not my monkeys."
+    },
+    {
+      "id": "b1-ch19-w014",
+      "polish": "Nie wszystko złoto, co się świeci.",
+      "english": "All that glitters is not gold.",
+      "pronunciation": "nyeh VSHYST-koh ZWOH-toh tsoh sheh SHVYEH-tsee",
+      "gender": null,
+      "category": "proverb",
+      "examplePolish": "Uważaj — nie wszystko złoto, co się świeci.",
+      "exampleEnglish": "Be careful — all that glitters is not gold."
+    },
+    {
+      "id": "b1-ch19-w015",
+      "polish": "mieć rację",
+      "english": "to be right",
+      "pronunciation": "MYECH RAH-tsyeh",
+      "gender": null,
+      "category": "expression",
+      "examplePolish": "Masz rację, to dobry pomysł.",
+      "exampleEnglish": "You're right, that's a good idea."
+    },
+    {
+      "id": "b1-ch19-w016",
+      "polish": "Daj spokój!",
+      "english": "Give it a rest! / Leave it! / Forget it!",
+      "pronunciation": "dye SPOH-kooy",
+      "gender": null,
+      "category": "expression",
+      "examplePolish": "Daj spokój, to i tak się nie uda.",
+      "exampleEnglish": "Give it a rest, it won't work anyway."
+    },
+    {
+      "id": "b1-ch19-w017",
+      "polish": "chodzi mi o to, że",
+      "english": "what I mean is, what I'm getting at is",
+      "pronunciation": "KHOH-djee mee oh toh zheh",
+      "gender": null,
+      "category": "expression",
+      "examplePolish": "Chodzi mi o to, że powinniśmy się spotkać.",
+      "exampleEnglish": "What I mean is, we should meet."
+    },
+    {
+      "id": "b1-ch19-w018",
+      "polish": "innymi słowy",
+      "english": "in other words",
+      "pronunciation": "een-NYY-mee SWOH-vy",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Innymi słowy, nie chcesz pomóc.",
+      "exampleEnglish": "In other words, you don't want to help."
+    },
+    {
+      "id": "b1-ch19-w019",
+      "polish": "złota rączka",
+      "english": "handyman, jack of all trades (lit: golden little hand)",
+      "pronunciation": "ZWOH-tah ROWNCH-kah",
+      "gender": "m/f",
+      "category": "body_idiom",
+      "examplePolish": "Tata to złota rączka — naprawił wszystko.",
+      "exampleEnglish": "Dad is a real handyman — he fixed everything."
+    },
+    {
+      "id": "b1-ch19-w020",
+      "polish": "harować jak wół",
+      "english": "to work like an ox (to work very hard)",
+      "pronunciation": "hah-ROH-vach yak vooW",
+      "gender": null,
+      "category": "idiom",
+      "examplePolish": "Harowała jak wół, żeby zdać egzamin.",
+      "exampleEnglish": "She worked like an ox to pass the exam."
+    },
+    {
+      "id": "b1-ch19-w021",
+      "polish": "za pięć dwunasta",
+      "english": "at the eleventh hour, at the last minute",
+      "pronunciation": "zah pyench dvoo-NAHS-tah",
+      "gender": null,
+      "category": "time_idiom",
+      "examplePolish": "Skończyłem pracę za pięć dwunasta.",
+      "exampleEnglish": "I finished the work at the last minute."
+    },
+    {
+      "id": "b1-ch19-w022",
+      "polish": "nie ruszyć palcem",
+      "english": "not to lift a finger",
+      "pronunciation": "nyeh ROO-shich PAL-tsem",
+      "gender": null,
+      "category": "body_idiom",
+      "examplePolish": "Nie ruszył palcem, żeby pomóc.",
+      "exampleEnglish": "He didn't lift a finger to help."
+    },
+    {
+      "id": "b1-ch19-w023",
+      "polish": "z całego serca",
+      "english": "with all one's heart, wholeheartedly",
+      "pronunciation": "z tsah-WEH-goh SER-tsah",
+      "gender": null,
+      "category": "body_idiom",
+      "examplePolish": "Życzę ci z całego serca wszystkiego dobrego.",
+      "exampleEnglish": "I wish you with all my heart all the best."
+    },
+    {
+      "id": "b1-ch19-w024",
+      "polish": "przysłowie",
+      "english": "proverb, saying",
+      "pronunciation": "pzhys-WOH-vyeh",
+      "gender": "n",
+      "category": "noun",
+      "examplePolish": "Jest polskie przysłowie: bez pracy nie ma kołaczy.",
+      "exampleEnglish": "There's a Polish proverb: no pain, no gain."
+    },
+    {
+      "id": "b1-ch19-w025",
+      "polish": "idiom",
+      "english": "idiom",
+      "pronunciation": "EE-dyom",
+      "gender": "m",
+      "category": "noun",
+      "examplePolish": "To jest popularny idiom w języku polskim.",
+      "exampleEnglish": "This is a popular idiom in Polish."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 12,
+  "tags": ["idioms", "proverbs", "culture", "b1-vocabulary"]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch11-l02-distributive-numerals",
+  "chapter": 11,
+  "lessonOrder": 2,
+  "level": "b1",
+  "title": "Distributive Numerals: po + Dative",
+  "title_fa": "اعداد توزیعی: po + دادی",
+  "grammarPoint": "Distributive meaning: po + dative of numeral (po dwa, po trzy, po jednej) — each/apiece",
+  "grammarPoint_fa": "معنی توزیعی: po + دادی عدد (po dwa, po trzy, po jednej) — هر کدام/سرانه",
+  "explanation": {
+    "text": "The preposition **po** with numerals expresses **distributive meaning** — how many each person/thing gets.\n\n**po + dative of numeral:**\n\n| Cardinal | po + dative | Meaning |\n|---------|-------------|--------|\n| jeden/jedna | **po jednym/jednej** | one each |\n| dwa/dwie | **po dwa/po dwie** | two each |\n| trzy | **po trzy** | three each |\n| cztery | **po cztery** | four each |\n| pięć+ | **po pięć** | five each |\n\n**Examples:**\n- Każdy dostał **po dwa** jabłka. (Each person got two apples.)\n- Dali nam **po jednej** kanapce. (They gave us one sandwich each.)\n- Wzięli **po trzy** ciasteczka. (They each took three cookies.)\n- Studenci dostali **po pięć** zadań. (Students each got five tasks.)\n\n**Key uses:**\n1. Distributing things equally: Podzieliliśmy się po równo — po trzy sztuki.\n2. Frequency patterns: Biegam po dwa razy w tygodniu. (I run twice a week — each week)\n3. Measurements distributed: Po sto złotych na osobę. (100 zlotys per person)\n\n**Note:** For 2, 3, 4 in distributive meaning, the numeral often stays in its nominative/accusative form after 'po'.",
+    "notes": [
+      "po jeden → po jednym (dative); po jedna → po jednej",
+      "For 2-4: po dwa, po trzy, po cztery (nominative/accusative form used colloquially)",
+      "For 5+: po pięć, po sześć (same as nominative)",
+      "po + noun without numeral = 'after': po lekcji (after class) — different meaning!"
+    ]
+  },
+  "explanation_fa": "حرف اضافه 'po' با اعداد معنی توزیعی می‌دهد — هر نفر چقدر می‌گیرد: Każdy dostał po dwa jabłka (هر کس دو سیب گرفت). Dali nam po jednej kanapce (به هر کدام یک ساندویچ دادند). توجه: po + اسم بدون عدد معنی 'بعد از' می‌دهد: po lekcji (بعد از درس).",
+  "exercises": [
+    {
+      "id": "b1-ch11-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "How do you say 'Each student got three books'?",
+      "prompt_fa": "چطور می‌گویید 'هر دانشجو سه کتاب گرفت'؟",
+      "options": [
+        "Każdy student dostał po trzy książki.",
+        "Każdy student dostał trzy każdy książki.",
+        "Każdy student dostał trzech książek.",
+        "Każdy student dostał po trzech książkach."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Po trzy książki' — distributive: three each. The noun stays in accusative (governed by dostać), po + numeral gives the distributive sense.",
+      "explanation_fa": "'Po trzy książki' — توزیعی: سه تا برای هر کدام. اسم در مفعولی می‌ماند، po + عدد معنی توزیعی می‌دهد."
+    },
+    {
+      "id": "b1-ch11-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "They gave everyone one ticket each. Complete:",
+      "context_fa": "به هر نفر یک بلیت دادند. کامل کنید:",
+      "sentence": "Dali wszystkim ___ bilecie.",
+      "prompt": "Dali wszystkim ___ bilecie.",
+      "prompt_fa": "Dali wszystkim ___ bilecie.",
+      "answer": "po jednym",
+      "acceptableAnswers": ["po jednym"],
+      "hint": "jeden (m) → dative: jednym; po jednym bilecie = one ticket each",
+      "explanation": "'Po jednym bilecie' — distributive one each, masculine dative 'jednym'.",
+      "explanation_fa": "'Po jednym bilecie' — یک بلیت برای هر نفر، دادی مذکر 'jednym'."
+    },
+    {
+      "id": "b1-ch11-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch11/b1-ch11-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Wzięliśmy po dwie kanapki.",
+        "Wzięliśmy dwie kanapki.",
+        "Wzięliśmy po dwa kanapkę.",
+        "Wzięliśmy po dwie kanapkach."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wzięliśmy po dwie kanapki.' — We each took two sandwiches. 'Po dwie' (distributive, f. numeral) + accusative plural 'kanapki'.",
+      "explanation_fa": "'Wzięliśmy po dwie kanapki.' — هر کدام دو ساندویچ گرفتیم. 'Po dwie' (توزیعی، مؤنث) + مفعولی جمع 'kanapki'."
+    },
+    {
+      "id": "b1-ch11-l02-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: The children each received five candies.",
+      "prompt_fa": "بسازید: بچه‌ها هر کدام پنج آب‌نبات گرفتند.",
+      "wordBank": ["Dzieci", "dostały", "po", "pięć", "pięciu", "cukierków", "cukierki"],
+      "correctSequences": [["Dzieci", "dostały", "po", "pięć", "cukierków"]],
+      "explanation": "'Dzieci dostały po pięć cukierków.' — Each child got five candies. 'Po pięć' + genitive plural 'cukierków'.",
+      "explanation_fa": "'Dzieci dostały po pięć cukierków.' — هر بچه پنج آب‌نبات گرفت. 'Po pięć' + مضاف‌الیه جمع 'cukierków'."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["numerals", "distributive", "po", "b1-core"],
+  "prerequisites": ["b1-ch11-l01"]
+}

@@ -1,0 +1,178 @@
+{
+  "id": "b1-ch15-revision",
+  "chapter": 15,
+  "level": "b1",
+  "title": "Chapter 15 Revision: Derived Nouns",
+  "title_fa": "مرور فصل ۱۵ B1: اسامی مشتق",
+  "description": "Test your knowledge of agent nouns (-arz, -ista), abstract nouns (-ość), and suffix recognition in Polish.",
+  "passThreshold": 0.7,
+  "questions": [
+    {
+      "id": "b1-ch15-rev-q01",
+      "type": "multiple_choice",
+      "prompt": "What suffix forms agent nouns for bakers, journalists, and sculptors?",
+      "prompt_fa": "کدام پسوند اسامی فاعلی برای نانوا، روزنامه‌نگار و مجسمه‌ساز می‌سازد؟",
+      "options": ["-arz", "-ista", "-ość", "-anie"],
+      "correctIndex": 0,
+      "explanation": "'-arz' forms agent nouns for trades and professions: piekarz (baker), dziennikarz (journalist), rzeźbiarz (sculptor).",
+      "explanation_fa": "'-arz' اسامی فاعلی برای مشاغل و حرفه‌ها می‌سازد: piekarz (نانوا)، dziennikarz (روزنامه‌نگار)، rzeźbiarz (مجسمه‌ساز)."
+    },
+    {
+      "id": "b1-ch15-rev-q02",
+      "type": "multiple_choice",
+      "prompt": "Which is grammatically unusual about 'artysta' (artist)?",
+      "prompt_fa": "چه چیزی از نظر دستوری در مورد 'artysta' (هنرمند) غیرمعمول است؟",
+      "options": [
+        "It's masculine but ends in -a",
+        "It's feminine but refers to men",
+        "It has no plural form",
+        "It uses instrumental like neuter nouns"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Artysta' and all -ista nouns are masculine despite ending in -a. Use masculine adjectives: 'dobry artysta' (not 'dobra').",
+      "explanation_fa": "'Artysta' و همه اسامی -ista مذکر هستند علی‌رغم پایان -a. از صفات مذکر استفاده کنید: 'dobry artysta' (نه 'dobra')."
+    },
+    {
+      "id": "b1-ch15-rev-q03",
+      "type": "fill_blank",
+      "prompt": "She is a dentist (female): Ona jest ___ą.",
+      "prompt_fa": "او دندانپزشک است (زن): Ona jest ___ą.",
+      "answer": "dentystk",
+      "acceptableAnswers": ["dentystką"],
+      "hint": "dentysta → female: dentystka → instrumental: dentystką",
+      "explanation": "'Dentystką' — instrumental of 'dentystka' (female dentist). After 'jest', use instrumental.",
+      "explanation_fa": "'Dentystką' — ابزاری 'dentystka' (دندانپزشک زن). بعد از 'jest'، ابزاری استفاده می‌شود."
+    },
+    {
+      "id": "b1-ch15-rev-q04",
+      "type": "multiple_choice",
+      "prompt": "What does the suffix -ość indicate?",
+      "prompt_fa": "پسوند -ość چه چیزی را نشان می‌دهد؟",
+      "options": [
+        "An abstract quality or state (from adjective)",
+        "A person who does something",
+        "A place where something happens",
+        "A diminutive size"
+      ],
+      "correctIndex": 0,
+      "explanation": "'-ość' derives abstract nouns from adjectives: wolny→wolność (free→freedom), mądry→mądrość (wise→wisdom). All -ość nouns are feminine.",
+      "explanation_fa": "'-ość' اسامی انتزاعی از صفات می‌سازد: wolny→wolność (آزاد→آزادی)، mądry→mądrość (خردمند→خرد). همه اسامی -ość مؤنث هستند."
+    },
+    {
+      "id": "b1-ch15-rev-q05",
+      "type": "fill_blank",
+      "prompt": "Abstract noun from 'możliwy' (possible): ___",
+      "prompt_fa": "اسم انتزاعی از 'możliwy' (ممکن): ___",
+      "answer": "możliwość",
+      "acceptableAnswers": ["możliwość"],
+      "hint": "możliwy + -ość = możliwość (possibility)",
+      "explanation": "'Możliwość' = possibility/opportunity. From 'możliwy' (possible) + -ość.",
+      "explanation_fa": "'Możliwość' = امکان/فرصت. از 'możliwy' (ممکن) + -ość."
+    },
+    {
+      "id": "b1-ch15-rev-q06",
+      "type": "multiple_choice",
+      "prompt": "Which abstract noun is IRREGULAR (not formed with -ość)?",
+      "prompt_fa": "کدام اسم انتزاعی نامنظم است (با -ość ساخته نشده)؟",
+      "options": [
+        "głupota (from głupi = stupid)",
+        "wolność (from wolny = free)",
+        "mądrość (from mądry = wise)",
+        "zdolność (from zdolny = capable)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Głupota' (stupidity) is irregular — from 'głupi' but uses -ota instead of -ość. Must be memorized.",
+      "explanation_fa": "'Głupota' (حماقت) نامنظم است — از 'głupi' اما از -ota به‌جای -ość استفاده می‌کند. باید حفظ شود."
+    },
+    {
+      "id": "b1-ch15-rev-q07",
+      "type": "multiple_choice",
+      "prompt": "In a text: 'Pisarka wydała nową powieść.' What does 'pisarka' mean?",
+      "prompt_fa": "در متن: 'Pisarka wydała nową powieść.' 'pisarka' چه معنایی دارد؟",
+      "options": [
+        "Female writer (from pisać = to write + -arka)",
+        "Writing instrument",
+        "A writing school",
+        "A published book"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Pisarka' = female writer. 'Pisać' (to write) → pisarz (male writer) + -ka → pisarka (female writer).",
+      "explanation_fa": "'Pisarka' = نویسنده زن. 'Pisać' (نوشتن) → pisarz (نویسنده مرد) + -ka → pisarka (نویسنده زن)."
+    },
+    {
+      "id": "b1-ch15-rev-q08",
+      "type": "fill_blank",
+      "prompt": "From the context: 'Mądrość przychodzi z ___.' (age — instrumental of 'wiek')",
+      "prompt_fa": "از متن: 'Mądrość przychodzi z ___.' (سن — ابزاری 'wiek')",
+      "answer": "wiekiem",
+      "acceptableAnswers": ["wiekiem"],
+      "hint": "z + instrumental: wiek → wiekiem",
+      "explanation": "'Z wiekiem' = with age. 'Z' + instrumental: wiek (age) → wiekiem.",
+      "explanation_fa": "'Z wiekiem' = با سن. 'Z' + ابزاری: wiek (سن) → wiekiem."
+    },
+    {
+      "id": "b1-ch15-rev-q09",
+      "type": "multiple_choice",
+      "prompt": "A male cyclist: Which is the correct form?",
+      "prompt_fa": "یک دوچرخه‌سوار مرد: کدام شکل درست است؟",
+      "options": [
+        "rowerzysta",
+        "rowerzystka",
+        "rowerzyście",
+        "rowerzysto"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Rowerzysta' = male cyclist (-ista suffix, masculine despite -a ending). Female: rowerzystka.",
+      "explanation_fa": "'Rowerzysta' = دوچرخه‌سوار مرد (پسوند -ista، مذکر علی‌رغم پایان -a). مؤنث: rowerzystka."
+    },
+    {
+      "id": "b1-ch15-rev-q10",
+      "type": "multiple_choice",
+      "prompt": "In the instrumental case, how does 'dziennikarz' (journalist) appear?",
+      "prompt_fa": "در حالت ابزاری، 'dziennikarz' (روزنامه‌نگار) چگونه ظاهر می‌شود؟",
+      "options": [
+        "dziennikarzem",
+        "dziennikarzowi",
+        "dziennikarza",
+        "dziennikarze"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Dziennikarzem' = instrumental of 'dziennikarz'. After 'być': 'Jest dziennikarzem.'",
+      "explanation_fa": "'Dziennikarzem' = ابزاری 'dziennikarz'. بعد از 'być': 'Jest dziennikarzem.'"
+    },
+    {
+      "id": "b1-ch15-rev-q11",
+      "type": "multiple_choice",
+      "prompt": "What abstract quality does 'miłość' express?",
+      "prompt_fa": "'miłość' چه ویژگی انتزاعی را بیان می‌کند؟",
+      "options": [
+        "Love (from miły = nice, dear)",
+        "Sorrow (from milczeć = to be silent)",
+        "Mildness (from mił = gentle)",
+        "Memory (from mieć = to have)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Miłość' = love. From 'miły' (nice/dear/beloved) + -ość. One of the most important Polish abstract nouns.",
+      "explanation_fa": "'Miłość' = عشق. از 'miły' (محبوب/دلپذیر) + -ość. یکی از مهم‌ترین اسامی انتزاعی لهستانی."
+    },
+    {
+      "id": "b1-ch15-rev-q12",
+      "type": "multiple_choice",
+      "prompt": "Read: 'Gotowość do pracy jest ceniona.' What does 'gotowość' mean?",
+      "prompt_fa": "بخوانید: 'Gotowość do pracy jest ceniona.' 'gotowość' چه معنایی دارد؟",
+      "options": [
+        "Readiness/willingness (from gotowy = ready)",
+        "Completion (from gotować = to cook)",
+        "Cooking (from gotowanie)",
+        "Hotness (from gorący = hot)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Gotowość' = readiness, willingness. From 'gotowy' (ready) + -ość. 'Jest ceniona' = is valued.",
+      "explanation_fa": "'Gotowość' = آمادگی/تمایل. از 'gotowy' (آماده) + -ość. 'Jest ceniona' = ارزشمند است."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 8,
+  "tags": ["word-formation", "agent-nouns", "abstract-nouns", "b1-core"],
+  "prerequisites": ["b1-ch15-l01", "b1-ch15-l02", "b1-ch15-l03", "b1-ch15-l04"]
+}

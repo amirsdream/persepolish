@@ -5,23 +5,25 @@
   "lessonOrder": 3,
   "title": "Negation with nie",
   "title_fa": "نفی با nie",
-  "grammarPoint": "Negating verbs with nie; genitive after negation",
-  "grammarPoint_fa": "قرار دادن nie پیش از فعل برای نفی جمله",
+  "grammarPoint": "Negating verbs with nie; genitive shift after negation; nie ma + genitive",
+  "grammarPoint_fa": "قرار دادن nie پیش از فعل؛ تغییر مفعولی به مضاف‌الیهی پس از منفی",
   "explanation": {
-    "text": "In Polish, you negate a verb by placing **nie** directly before it. This is simple and consistent — nie never changes form.\n\n**Basic negation:**\n- *Jestem studentem.* → *Nie jestem studentem.*\n- *Mam brata.* → *Nie mam brata.*\n- *Mówię po polsku.* → *Nie mówię po polsku.*\n\n**Important: Genitive after negation**\nWhen you negate a verb that takes a direct object (accusative), the object shifts to the **genitive case**:\n- *Mam kota* (accusative) → *Nie mam kota* (genitive)\n- *Mam czas* → *Nie mam czasu*\n- *Widzę psa* → *Nie widzę psa*\n\nFor most A1 nouns the accusative and genitive look similar, so focus on the pattern now and master the forms later.",
+    "text": "## Negation with nie\n\nNegating a Polish verb is simple: place **nie** directly before the verb. It never changes form and never moves.\n\n### nie placement\n\n| Affirmative | Negative | English |\n|-------------|----------|---------|\n| *Jestem lekarzem.* | *Nie jestem lekarzem.* | I am / I am not a doctor. |\n| *Mam brata.* | *Nie mam brata.* | I have / I don't have a brother. |\n| *Mówię po polsku.* | *Nie mówię po polsku.* | I speak / I don't speak Polish. |\n| *Rozumiem cię.* | *Nie rozumiem cię.* | I understand / I don't understand you. |\n| *Pracuję tu.* | *Nie pracuję tu.* | I work / I don't work here. |\n\n> 🔑 **Rule:** nie + verb. Nothing comes between nie and the verb.\n\n### Genitive after negation — the accusative shift\n\nWhen you negate a verb that takes a **direct object** (accusative), that object shifts to the **genitive**:\n\n| Affirmative (accusative) | Negative (genitive) | Note |\n|--------------------------|---------------------|------|\n| *Mam **czas**.* | *Nie mam **czasu**.* | czas → czasu |\n| *Mam **brata**.* | *Nie mam **brata**.* | brata stays (same form here) |\n| *Mam **samochód**.* | *Nie mam **samochodu**.* | samochód → samochodu |\n| *Widzę **kota**.* | *Nie widzę **kota**.* | kota (already genitive form for anim.) |\n| *Lubię **kawę**.* | *Nie lubię **kawy**.* | kawę → kawy |\n\n### nie ma — absence and non-existence\n\n**Nie ma** + genitive is one of the most common phrases in Polish:\n\n| Polish | English |\n|--------|---------|\n| *Nie ma mamy w domu.* | Mum isn't at home. |\n| *Nie ma czasu.* | There is no time. |\n| *Nie ma problemu.* | No problem. |\n| *Nie ma mleka w lodówce.* | There's no milk in the fridge. |\n| *Nie ma Jana.* | Jan isn't here. |\n\n### Double negation — normal in Polish!\n\nPolish uses **double (even triple) negation** — this is grammatically correct, not a mistake:\n\n*Nikt nic nie wie.* = Nobody knows anything. (lit. Nobody nothing not-knows)\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Jestem nie lekarzem.* | *Nie jestem lekarzem.* | nie must go before the verb |\n| *Mam nie czasu.* | *Nie mam czasu.* | nie negates the verb, not the object |\n| *Nie mam czas.* | *Nie mam **czasu**.* | after negation → genitive |\n| *Nie ma tata.* | *Nie ma **taty**.* | nie ma always takes genitive |",
     "notes": [
-      "nie always goes directly before the verb — never separated by other words.",
-      "Double negation is standard in Polish: Nikt nic nie wie = Nobody knows anything (NOT a grammar error).",
-      "After negation, count nouns shift to genitive; the change is automatic with nie mam."
+      "nie goes directly before the verb — never separated by other words",
+      "After negation, direct objects shift from accusative to genitive",
+      "nie ma + genitive = there is no / [person] is not here",
+      "Double negation is standard in Polish: Nikt nic nie wie = Nobody knows anything"
     ]
   },
-  "explanation_fa": "برای منفی کردن جمله در لهستانی، کلمه nie را مستقیماً پیش از فعل قرار دهید: Jestem studentem (دانشجو هستم) → Nie jestem studentem (دانشجو نیستم). مفعول مستقیم پس از نفی به حالت مضاف‌الیهی تبدیل می‌شود: Mam brata → Nie mam brata.",
+  "explanation_fa": "## نفی با nie\n\nمنفی کردن یک فعل لهستانی ساده است: **nie** را مستقیماً قبل از فعل بگذارید. هرگز تغییر نمی‌کند و هرگز جابجا نمی‌شود.\n\n### جایگاه nie\n\n| مثبت | منفی | فارسی |\n|------|------|-------|\n| *Jestem lekarzem.* | *Nie jestem lekarzem.* | دکترم / دکتر نیستم. |\n| *Mam brata.* | *Nie mam brata.* | برادر دارم / برادر ندارم. |\n| *Mówię po polsku.* | *Nie mówię po polsku.* | لهستانی حرف می‌زنم / نمی‌زنم. |\n\n> 🔑 **قانون:** nie + فعل. هیچ چیزی بین nie و فعل نمی‌آید.\n\n### مضاف‌الیهی پس از منفی — تغییر مفعولی\n\nوقتی فعلی که **مفعول مستقیم** (مفعولی) دارد منفی می‌شود، آن مفعول به **مضاف‌الیهی** تغییر می‌کند:\n\n| مثبت (مفعولی) | منفی (مضاف‌الیهی) | توضیح |\n|--------------|-------------------|-------|\n| *Mam **czas**.* | *Nie mam **czasu**.* | czas → czasu |\n| *Mam **samochód**.* | *Nie mam **samochodu**.* | samochód → samochodu |\n| *Lubię **kawę**.* | *Nie lubię **kawy**.* | kawę → kawy |\n\n### nie ma — نبود و غیاب\n\n**Nie ma** + مضاف‌الیهی یکی از رایج‌ترین عبارات لهستانی است:\n\n| لهستانی | فارسی |\n|---------|-------|\n| *Nie ma mamy w domu.* | مامان خانه نیست. |\n| *Nie ma czasu.* | وقت نیست. |\n| *Nie ma problemu.* | مشکلی نیست. |\n\n### منفی مضاعف — در لهستانی طبیعی است!\n\nلهستانی از **منفی مضاعف** استفاده می‌کند — این دستوری درست است:\n*Nikt nic nie wie.* = هیچ‌کس چیزی نمی‌داند.\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Jestem nie lekarzem.* | *Nie jestem lekarzem.* | nie باید قبل از فعل باشد |\n| *Nie mam czas.* | *Nie mam **czasu**.* | بعد از منفی → مضاف‌الیهی |\n| *Nie ma tata.* | *Nie ma **taty**.* | nie ma همیشه مضاف‌الیهی می‌طلبد |",
   "exercises": [
     {
       "id": "a1-ch03-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Negate: 'Jestem lekarzem.'",
+      "prompt": "Kasia says she is not a doctor. Which sentence is correct?",
+      "prompt_fa": "کاسیا می‌گوید که دکتر نیست. کدام جمله درست است؟",
       "options": [
         "Nie jestem lekarzem.",
         "Jestem nie lekarzem.",
@@ -29,25 +31,36 @@
         "Jestem lekarzem nie."
       ],
       "correctIndex": 0,
-      "explanation": "'Nie' goes directly before the verb: 'Nie jestem lekarzem.' = I am not a doctor."
+      "explanation": "'Nie' goes directly before the verb 'jestem': 'Nie jestem lekarzem.' = I am not a doctor. Nie never separates from the verb.",
+      "explanation_fa": "'Nie' مستقیماً قبل از فعل 'jestem' می‌آید: 'Nie jestem lekarzem.' = دکتر نیستم. Nie هرگز از فعل جدا نمی‌شود."
     },
     {
       "id": "a1-ch03-l03-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "___ mówię po angielsku. (I don't speak English.)",
       "answer": "Nie",
       "acceptableAnswers": [
         "Nie",
         "nie"
       ],
-      "hint": "The Polish negation particle — place it before the verb"
+      "hint": "The Polish negation particle — place it directly before the verb",
+      "explanation": "'Nie mówię po angielsku' = I don't speak English. 'Nie' goes right before the verb 'mówię'.",
+      "explanation_fa": "'Nie mówię po angielsku' = انگلیسی حرف نمی‌زنم. 'Nie' درست قبل از فعل 'mówię' می‌آید.",
+      "context": "Complete the sentence:",
+      "context_fa": "جمله را کامل کنید:",
+      "sentence": "___ mówię po angielsku.",
+      "translation": "(I don't speak English.)",
+      "translation_fa": "(انگلیسی حرف نمی‌زنم.)",
+      "prompt": "___ mówię po angielsku.",
+      "prompt_fa": "___ mówię po angielsku."
     },
     {
       "id": "a1-ch03-l03-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch03/a1-ch03-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Nie mam czasu.",
         "Mam czas.",
@@ -55,20 +68,20 @@
         "Mam dużo czasu."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Nie mam czasu.' — I don't have time. 'Nie mam' = I don't have. 'Czasu' is the genitive of 'czas'."
+      "explanation": "You heard: 'Nie mam czasu.' — I don't have time. 'Nie mam' = I don't have (1st person). 'Czasu' is the genitive of 'czas' after negation.",
+      "explanation_fa": "شنیدید: 'Nie mam czasu.' — وقت ندارم. 'Nie mam' = ندارم (اول شخص). 'Czasu' مضاف‌الیهی 'czas' پس از منفی است."
     },
     {
       "id": "a1-ch03-l03-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: She is not a teacher.",
+      "prompt": "Tap the words in order: She is not a teacher.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: او معلم نیست.",
       "wordBank": [
         "Ona",
         "nie",
         "jest",
-        "nauczycielką",
-        "nauczyciel",
-        "lekarzem"
+        "nauczycielką"
       ],
       "correctSequences": [
         [
@@ -76,28 +89,115 @@
           "nie",
           "jest",
           "nauczycielką"
-        ],
-        [
-          "nie",
-          "jest",
-          "nauczycielką"
         ]
       ],
-      "explanation": "'Ona nie jest nauczycielką' = She is not a teacher. 'Nie' comes directly before 'jest'. Subject 'Ona' is optional."
+      "explanation": "'Ona nie jest nauczycielką' = She is not a teacher. 'Nie' comes directly before 'jest'. Instrumental: nauczycielka → nauczycielką.",
+      "explanation_fa": "'Ona nie jest nauczycielką' = او معلم نیست. 'Nie' مستقیماً قبل از 'jest' می‌آید. ابزاری: nauczycielka → nauczycielką."
     },
     {
       "id": "a1-ch03-l03-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Which sentence is correctly negated?",
+      "prompt": "Tomek has no car. Which is correct? [samochód → genitive after negation]",
+      "prompt_fa": "تامک ماشین ندارد. کدام درست است؟ [samochód → مضاف‌الیهی پس از منفی]",
       "options": [
-        "Nie rozumiem tego.",
-        "Rozumiem nie tego.",
-        "Nie tego rozumiem.",
-        "Rozumiem tego nie."
+        "Nie mam samochodu.",
+        "Nie mam samochód.",
+        "Mam nie samochodu.",
+        "Nie samochód mam."
       ],
       "correctIndex": 0,
-      "explanation": "'Nie rozumiem tego' = I don't understand this. 'Nie' must come immediately before the verb 'rozumiem'."
+      "explanation": "'Nie mam samochodu' = I don't have a car. After negation, accusative (samochód) → genitive (samochodu). Masculine inanimate: -ód → -odu.",
+      "explanation_fa": "'Nie mam samochodu' = ماشین ندارم. بعد از منفی، مفعولی (samochód) → مضاف‌الیهی (samochodu). مذکر غیرجاندار: -ód → -odu."
+    },
+    {
+      "id": "a1-ch03-l03-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia doesn't have a car. Complete: Kasia nie ___ samochodu.",
+      "prompt_fa": "کاسیا ماشین ندارد. کامل کنید: Kasia nie ___ samochodu.",
+      "options": [
+        "ma",
+        "mam",
+        "masz",
+        "mają"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kasia = ona (she) → nie ma. Third person singular of nie mieć. 'Kasia nie ma samochodu' = Kasia doesn't have a car.",
+      "explanation_fa": "Kasia = ona (او) → nie ma. سوم شخص مفرد nie mieć. 'Kasia nie ma samochodu' = کاسیا ماشین ندارد."
+    },
+    {
+      "id": "a1-ch03-l03-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "nie jest",
+      "acceptableAnswers": [
+        "nie jest"
+      ],
+      "hint": "Negation of jest = nie jest",
+      "explanation": "'Nie jest' = is not. Negation of być (jest): place nie directly before the verb. 'Tomek nie jest studentem' = Tomek is not a student.",
+      "explanation_fa": "'Nie jest' = نیست. منفی być (jest): nie را مستقیماً قبل از فعل بگذارید. 'Tomek nie jest studentem' = تامک دانشجو نیست.",
+      "context": "Tomek is not a student. Complete:",
+      "context_fa": "تامک دانشجو نیست. کامل کنید:",
+      "sentence": "Tomek ___ studentem.",
+      "translation": "",
+      "translation_fa": "",
+      "prompt": "Tomek ___ studentem.",
+      "prompt_fa": "Tomek ___ studentem."
+    },
+    {
+      "id": "a1-ch03-l03-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "After negating mam (I have), the direct object changes from accusative to...",
+      "prompt_fa": "بعد از منفی کردن mam (دارم)، مفعول مستقیم از مفعولی به... تغییر می‌کند.",
+      "options": [
+        "genitive",
+        "dative",
+        "instrumental",
+        "locative"
+      ],
+      "correctIndex": 0,
+      "explanation": "Negation rule: accusative → genitive. 'Mam kawę' (acc.) → 'Nie mam kawy' (gen.). This applies to all transitive verbs when negated.",
+      "explanation_fa": "قانون منفی: مفعولی → مضاف‌الیهی. 'Mam kawę' (مفعولی) → 'Nie mam kawy' (مضاف‌الیهی). این برای همه افعال متعدی وقتی منفی می‌شوند صدق می‌کند."
+    },
+    {
+      "id": "a1-ch03-l03-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Marek forgot his wallet. Arrange: I don't have time.",
+      "prompt_fa": "مارک کیف پولش را فراموش کرد. کلمات را به ترتیب بزنید: وقت ندارم.",
+      "wordBank": [
+        "Nie mam",
+        "czasu",
+        "czas",
+        "teraz"
+      ],
+      "correctSequences": [
+        [
+          "Nie mam",
+          "czasu"
+        ]
+      ],
+      "explanation": "'Nie mam czasu' = I don't have time. After negation: czas (acc.) → czasu (gen.). Masculine inanimate genitive: czas → czasu.",
+      "explanation_fa": "'Nie mam czasu' = وقت ندارم. بعد از منفی: czas (مفعولی) → czasu (مضاف‌الیهی). مضاف‌الیهی مذکر غیرجاندار: czas → czasu."
+    },
+    {
+      "id": "a1-ch03-l03-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch03/a1-ch03-l03-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Nie lubię kawy bez mleka.",
+        "Nie lubię kawę bez mleka.",
+        "Nie lubie kawy bez mleka.",
+        "Nie lubię kawy z mlekiem."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Nie lubię kawy bez mleka.' — I don't like coffee without milk. Negation: lubię + kawę → nie lubię + kawy (gen.). 'Bez mleka' = without milk (bez + gen.).",
+      "explanation_fa": "شنیدید: 'Nie lubię kawy bez mleka.' — قهوه بدون شیر دوست ندارم. منفی: lubię + kawę → nie lubię + kawy (مضاف‌الیهی). 'Bez mleka' = بدون شیر (bez + مضاف‌الیهی)."
     }
   ],
   "xpReward": 20,

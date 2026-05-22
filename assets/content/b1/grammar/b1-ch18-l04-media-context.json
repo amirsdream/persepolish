@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch18-l04-media-context",
+  "chapter": 18,
+  "lessonOrder": 4,
+  "level": "b1",
+  "title": "Reading Polish Media Texts",
+  "title_fa": "خواندن متن‌های رسانه‌ای لهستانی",
+  "grammarPoint": "Comprehension strategies for Polish news: identifying topic, key verbs, aspect, impersonal forms, quoted speech",
+  "grammarPoint_fa": "راهکارهای درک متن اخبار لهستانی: شناسایی موضوع، افعال کلیدی، جنبه، اشکال غیرشخصی، گفتار نقل‌شده",
+  "explanation": {
+    "text": "**Reading a Polish news article — step by step:**\n\n**1. Headline → topic and key nouns:**\n'Wzrost cen energii: rząd zapowiada zmiany'\n- Topic: energy price rise\n- Key: wzrost (rise), rząd (government), zmiany (changes)\n\n**2. Lead paragraph → who did what when:**\n'W piątek rząd **ogłosił** pakiet działań mających na celu ograniczenie wzrostu cen energii.'\n- Who: rząd (government)\n- What: ogłosił (announced — perf event)\n- What else: pakiet działań (package of measures)\n\n**3. Context paragraph → imperfective background:**\n'Ceny energii **rosły** od początku roku i **osiągnęły** rekordowy poziom.'\n- rosły (imperf = were rising — ongoing)\n- osiągnęły (perf = reached — event)\n\n**4. Quoted speech patterns:**\n- Poinformował, że... (He informed that...)\n- Powiedział, że... (He said that...)\n- Według ministra... (According to the minister...)\n- Jak powiedział minister: '...' (As the minister said: '...')\n\n**5. Key connectors in media:**\n- Ponadto (Furthermore)\n- Jednak (However)\n- W związku z tym (In connection with this)\n- Z drugiej strony (On the other hand)\n- Mimo to (Despite this)\n\n**Sample short article:**\n*Warszawa, 22 maja. Rząd ogłosił w środę nowe przepisy dotyczące ochrony środowiska. Według ministra klimatu, nowe regulacje wejdą w życie od przyszłego roku. Opozycja twierdzi, że przepisy są niewystarczające. Debata parlamentarna planowana jest na czerwiec.*",
+    "notes": [
+      "Polish news uses perfective for events and imperfective for trends/ongoing situations",
+      "'Według + genitive' = According to (very common in journalism)",
+      "'Wejdą w życie' = will come into force/effect (set phrase)",
+      "Indirect speech: powiedział, że + verb (mood same as direct, no subjunctive)"
+    ]
+  },
+  "explanation_fa": "خواندن خبر لهستانی گام به گام: ۱) تیتر → موضوع و اسامی کلیدی ۲) لید → چه کسی چه کرد چه زمانی (فعل کامل برای رویداد خبری) ۳) پاراگراف زمینه → پس‌زمینه ناکامل (روندها) ۴) الگوهای گفتار نقل‌شده: Poinformował، że...؛ Według ministra...؛ Jak powiedział... ۵) کانکتورهای کلیدی رسانه: Ponadto، Jednak، W związku z tym، Z drugiej strony. کلمه کلیدی: 'według + مضاف‌الیه' = طبق (بسیار رایج). 'Wejdą w życie' = اجرایی می‌شوند.",
+  "exercises": [
+    {
+      "id": "b1-ch18-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "In the news: 'Rząd ogłosił nowe przepisy.' What is the subject and what did they do?",
+      "prompt_fa": "در خبر: 'Rząd ogłosił nowe przepisy.' فاعل کیست و چه کرد؟",
+      "options": [
+        "Subject: rząd (government); action: ogłosił (announced — perf event)",
+        "Subject: przepisy (regulations); action: ogłosił (announced)",
+        "Subject: nowe (new); action: rząd (government)",
+        "Subject: ogłosił (announced); action: przepisy (regulations)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Rząd' (government, m.) = subject; 'ogłosił' (perf, past masc.) = announced — a single completed event.",
+      "explanation_fa": "'Rząd' (دولت، مذکر) = فاعل؛ 'ogłosił' (کامل، گذشته مذکر) = اعلام کرد — یک رویداد منفرد کامل‌شده."
+    },
+    {
+      "id": "b1-ch18-l04-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Journalism formula: 'According to the minister...' = ___ ministra...",
+      "context_fa": "فرمول روزنامه‌نگاری: 'طبق وزیر...' = ___ ministra...",
+      "sentence": "___ ministra, nowe przepisy wejdą w życie od przyszłego roku.",
+      "prompt": "___ ministra, nowe przepisy wejdą w życie od przyszłego roku.",
+      "prompt_fa": "___ ministra, nowe przepisy wejdą w życie od przyszłego roku.",
+      "answer": "Według",
+      "acceptableAnswers": ["Według", "według"],
+      "hint": "według + genitive = according to",
+      "explanation": "'Według ministra...' — According to the minister... 'Według' + genitive is the standard journalistic attribution formula.",
+      "explanation_fa": "'Według ministra...' — طبق وزیر... 'Według' + مضاف‌الیه فرمول استاندارد انتساب روزنامه‌نگاری است."
+    },
+    {
+      "id": "b1-ch18-l04-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch18/b1-ch18-l04-ex03.mp3",
+      "prompt": "Which news sentence did you hear?",
+      "prompt_fa": "کدام جمله خبری را شنیدید؟",
+      "options": [
+        "Nowe przepisy wejdą w życie od przyszłego roku.",
+        "Nowe przepisy weszły w życie od przyszłego roku.",
+        "Nowe przepisy wchodzą w życie od przyszłego roku.",
+        "Nowe przepisy wejdą na życie od przyszłego roku."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wejdą w życie' = will come into force/effect (future perf.). 'Wejść w życie' is a fixed phrase for regulations taking effect.",
+      "explanation_fa": "'Wejdą w życie' = اجرایی خواهند شد (آینده کامل). 'Wejść w życie' عبارت ثابتی برای اجرایی شدن مقررات است."
+    },
+    {
+      "id": "b1-ch18-l04-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: However, the opposition claims the changes are insufficient.",
+      "prompt_fa": "بسازید: اما، اپوزیسیون ادعا می‌کند که تغییرات کافی نیستند.",
+      "wordBank": ["Jednak", "opozycja", "twierdzi", "że", "zmiany", "są", "niewystarczające", "Ponadto"],
+      "correctSequences": [["Jednak", "opozycja", "twierdzi", "że", "zmiany", "są", "niewystarczające"]],
+      "explanation": "'Jednak opozycja twierdzi, że zmiany są niewystarczające.' — However, the opposition claims the changes are insufficient. 'Jednak' = however (media contrast connector).",
+      "explanation_fa": "'Jednak opozycja twierdzi, że zmiany są niewystarczające.' — اما، اپوزیسیون ادعا می‌کند که تغییرات کافی نیستند. 'Jednak' = اما، ولی (کانکتور تضاد رسانه‌ای)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["media-language", "reading-comprehension", "news", "b1-core"],
+  "prerequisites": ["b1-ch18-l01", "b1-ch18-l02", "b1-ch18-l03"]
+}

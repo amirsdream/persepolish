@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Codziennie ___ kawę rano. (Every day I drink coffee in the morning.) Which aspect is correct?",
+      "prompt_fa": "هر روز ___ صبح قهوه می‌نوشم. کدام وجه درست است؟",
       "options": [
         "piłem (imperfective)",
         "wypiłem (perfective)",
@@ -30,13 +31,15 @@
         "Neither is correct"
       ],
       "correctIndex": 0,
-      "explanation": "'Codziennie' (every day) signals habitual action → imperfective: piłem. 'Wypiłem' would mean 'I drank up [finished] the coffee' — one completed event."
+      "explanation": "'Codziennie' (every day) signals habitual action → imperfective: piłem. 'Wypiłem' would mean 'I drank up [finished] the coffee' — one completed event.",
+      "explanation_fa": "'Codziennie' (هر روز) نشانه عمل عادتی است → ناکامل: piłem. 'Wypiłem' یعنی 'قهوه را تمام کردم' — یک رویداد تمام‌شده."
     },
     {
       "id": "a2-ch12-l01-ex02",
       "type": "multiple_choice",
       "order": 2,
       "prompt": "W końcu ___ to zadanie domowe. (I finally finished the homework.) [zrobić vs. robić]",
+      "prompt_fa": "بالاخره ___ تکلیف را تمام کردم. [zrobić در برابر robić]",
       "options": [
         "zrobiłem",
         "robiłem",
@@ -44,24 +47,35 @@
         "zrobię"
       ],
       "correctIndex": 0,
-      "explanation": "'W końcu' (finally) + completed result → perfective: zrobiłem. 'Robiłem' would mean I was doing it (process, not completion)."
+      "explanation": "'W końcu' (finally) + completed result → perfective: zrobiłem. 'Robiłem' would mean I was doing it (process, not completion).",
+      "explanation_fa": "'W końcu' (بالاخره) + نتیجه کامل‌شده → کامل: zrobiłem. 'Robiłem' یعنی داشتم انجام می‌دادم (فرآیند، نه تکمیل)."
     },
     {
       "id": "a2-ch12-l01-ex03",
       "type": "fill_blank",
       "order": 3,
-      "prompt": "Kiedy ___ (I was reading — imperfective), zadzwoniła mama. (While I was reading, mum called.)",
+      "context": "Tomek describes a background action. Complete:",
+      "context_fa": "تومک یک عمل پس‌زمینه را توصیف می‌کند. کامل کنید:",
+      "sentence": "Kiedy ___ , zadzwoniła mama.",
+      "translation": "(While I was reading [background action] — imperfective, mum called.) [czytać, ja m/f imperf past]",
+      "translation_fa": "(در حالی که داشتم می‌خواندم [عمل پس‌زمینه]، مامان زنگ زد.) [czytać، اول شخص مفرد ناکامل گذشته]",
+      "prompt": "Kiedy ___ , zadzwoniła mama.",
+      "prompt_fa": "Kiedy ___ , zadzwoniła mama.",
       "answer": "czytałem",
       "acceptableAnswers": [
         "czytałem",
         "czytałam"
       ],
-      "hint": "Background ongoing action (while...) = imperfective past: czytać → czytałem/czytałam"
+      "hint": "Background ongoing action (while...) = imperfective past: czytać → czytałem/czytałam",
+      "explanation": "Background ongoing action uses imperfective: 'kiedy czytałem/czytałam' = while I was reading. Perfective 'przeczytałem' would mean I had finished reading before mum called.",
+      "explanation_fa": "عمل پس‌زمینه در حال انجام از ناکامل استفاده می‌کند: 'kiedy czytałem/czytałam' = در حالی که داشتم می‌خواندم. کامل 'przeczytałem' یعنی قبل از زنگ مامان خواندن را تمام کرده بودم."
     },
     {
       "id": "a2-ch12-l01-ex04",
       "type": "dictation_mc",
       "order": 4,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch12/a2-ch12-l01-ex04.mp3",
       "options": [
         "Wczoraj przeczytałem całą książkę.",
@@ -70,13 +84,15 @@
         "Jutro przeczytam całą książkę."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Wczoraj przeczytałem całą książkę.' — Yesterday I read [finished] the whole book. Perfective 'przeczytać' → completed event."
+      "explanation": "You heard: 'Wczoraj przeczytałem całą książkę.' — Yesterday I read [finished] the whole book. Perfective 'przeczytać' → completed event.",
+      "explanation_fa": "شنیدید: 'Wczoraj przeczytałem całą książkę.' — دیروز تمام کتاب را [تا آخر] خواندم. کامل 'przeczytać' → رویداد تمام‌شده."
     },
     {
       "id": "a2-ch12-l01-ex05",
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Which statement about perfective verbs is TRUE?",
+      "prompt_fa": "کدام گزاره درباره افعال کامل درست است؟",
       "options": [
         "They have no true present tense",
         "They can express habitual actions",
@@ -84,7 +100,102 @@
         "They only exist in past tense"
       ],
       "correctIndex": 0,
-      "explanation": "Perfective verbs CANNOT express present tense — their present-looking form is actually future. E.g., 'napiszę' = I WILL write (future), not 'I write'."
+      "explanation": "Perfective verbs CANNOT express present tense — their present-looking form is actually future. E.g., 'napiszę' = I WILL write (future), not 'I write'.",
+      "explanation_fa": "افعال کامل نمی‌توانند زمان حال را بیان کنند — شکل ظاهراً حال آن‌ها در واقع آینده است. مثلاً 'napiszę' = خواهم نوشت (آینده)، نه 'می‌نویسم'."
+    },
+    {
+      "id": "a2-ch12-l01-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia ___ list przez całe popołudnie. (Kasia was writing a letter all afternoon.) Which aspect fits?",
+      "prompt_fa": "کاسیا ___ تمام بعدازظهر نامه می‌نوشت. کدام وجه مناسب است؟",
+      "options": [
+        "pisała (imperfective — duration)",
+        "napisała (perfective — completed)",
+        "Both are equally correct",
+        "Neither fits"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Przez całe popołudnie' (all afternoon — duration) signals imperfective: pisała. 'Napisała' would mean she finished writing it, not that the process lasted all afternoon.",
+      "explanation_fa": "'Przez całe popołudnie' (تمام بعدازظهر — مدت) نشانه ناکامل است: pisała. 'Napisała' یعنی نوشتن را تمام کرد، نه اینکه فرآیند تمام بعدازظهر طول کشید."
+    },
+    {
+      "id": "a2-ch12-l01-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Marek finally completes a task. Complete:",
+      "context_fa": "مارک بالاخره یک کار را تمام می‌کند. کامل کنید:",
+      "sentence": "W końcu ___ ten raport.",
+      "translation": "(He finally wrote [completed] that report.) [napisać, on past perfective]",
+      "translation_fa": "(او بالاخره آن گزارش را نوشت [تمام کرد].) [napisać، سوم شخص مفرد مذکر گذشته کامل]",
+      "prompt": "W końcu ___ ten raport.",
+      "prompt_fa": "W końcu ___ ten raport.",
+      "answer": "napisał",
+      "acceptableAnswers": [
+        "napisał"
+      ],
+      "hint": "w końcu (finally) + completed result = perfective: napisać → past masc 3rd: napisał",
+      "explanation": "'W końcu' signals completion → perfective 'napisać' past masculine 3rd person: napisał. 'Pisał' (imperfective) would not convey completion.",
+      "explanation_fa": "'W końcu' تکمیل را نشان می‌دهد → کامل 'napisać' گذشته مذکر سوم شخص: napisał. 'Pisał' (ناکامل) تکمیل را نمی‌رساند."
+    },
+    {
+      "id": "a2-ch12-l01-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch12/a2-ch12-l01-ex08.mp3",
+      "options": [
+        "Zawsze robiłam to samo.",
+        "W końcu zrobiłam to zadanie.",
+        "Nagle zrobiło się ciemno.",
+        "Czy robiłeś już zakupy?"
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Zawsze robiłam to samo.' — I always did the same thing. 'Zawsze' (always) signals habitual action → imperfective: robiłam.",
+      "explanation_fa": "شنیدید: 'Zawsze robiłam to samo.' — همیشه همان کار را می‌کردم. 'Zawsze' (همیشه) نشانه عمل عادتی است → ناکامل: robiłam."
+    },
+    {
+      "id": "a2-ch12-l01-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: While Tomek was reading, Ania called.",
+      "prompt_fa": "بسازید: در حالی که تومک داشت می‌خواند، آنیا زنگ زد.",
+      "wordBank": [
+        "Kiedy",
+        "Tomek",
+        "czytał",
+        "przeczytał",
+        "Ania",
+        "zadzwoniła"
+      ],
+      "correctSequences": [
+        [
+          "Kiedy",
+          "Tomek",
+          "czytał",
+          "Ania",
+          "zadzwoniła"
+        ]
+      ],
+      "explanation": "'Kiedy Tomek czytał, Ania zadzwoniła.' — While Tomek was reading (imperfective background), Ania called (perfective event). 'Kiedy + imperfective' = while/during.",
+      "explanation_fa": "'Kiedy Tomek czytał, Ania zadzwoniła.' — در حالی که تومک داشت می‌خواند (ناکامل پس‌زمینه)، آنیا زنگ زد (کامل رویداد). 'Kiedy + ناکامل' = در حالی که."
+    },
+    {
+      "id": "a2-ch12-l01-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Which pair correctly contrasts imperfective and perfective for 'to buy'?",
+      "prompt_fa": "کدام جفت به درستی ناکامل و کامل فعل 'خریدن' را مقایسه می‌کند؟",
+      "options": [
+        "kupować (imperf) / kupić (perf)",
+        "kupić (imperf) / kupować (perf)",
+        "kupować (imperf) / nakupować (perf)",
+        "kupić (imperf) / zakupić (perf)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The aspect pair for 'to buy': imperfective = kupować, perfective = kupić. This is a stem-change pair — kupić is NOT formed with a prefix but with a simplified stem.",
+      "explanation_fa": "جفت وجهی فعل 'خریدن': ناکامل = kupować، کامل = kupić. این یک جفت تغییر بن است — kupić با پیشوند ساخته نمی‌شود بلکه با بن ساده‌تر."
     }
   ],
   "xpReward": 25,

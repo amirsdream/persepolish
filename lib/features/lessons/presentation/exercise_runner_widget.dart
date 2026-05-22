@@ -41,6 +41,13 @@ class _ExerciseRunnerWidgetState extends ConsumerState<ExerciseRunnerWidget> {
   List<String> _chosenWords = [];
 
   @override
+  void initState() {
+    super.initState();
+    // Rebuild when the fill-blank text changes so _canSubmit() is re-evaluated
+    _textController.addListener(() => setState(() {}));
+  }
+
+  @override
   void dispose() {
     _textController.dispose();
     super.dispose();
@@ -53,9 +60,12 @@ class _ExerciseRunnerWidgetState extends ConsumerState<ExerciseRunnerWidget> {
     final isFa = teachingLang == 'fa';
 
     if (session.isComplete) {
-      WidgetsBinding.instance.addPostFrameCallback((_) {
-        widget.onComplete(session.accuracy);
-      });
+      if (!_completeFired) {
+        _completeFired = true;
+        WidgetsBinding.instance.addPostFrameCallback((_) {
+          if (mounted) widget.onComplete(session.accuracy);
+        });
+      }
       return const SizedBox.shrink();
     }
 
@@ -71,18 +81,21 @@ class _ExerciseRunnerWidgetState extends ConsumerState<ExerciseRunnerWidget> {
         ),
         const SizedBox(height: Spacing.lg),
 
-        // Prompt (dictation shows audio icon instead of text prompt)
+        // Prompt — fill_blank renders its own full sentence; skip the title here
         if (exercise is DictationMcExercise)
           _AudioPrompt(exercise: exercise, answered: _answered)
-        else
+        else if (exercise is! FillBlankExercise)
           Semantics(
             label: 'Question: $prompt',
             child: Text(
               prompt,
               style: Theme.of(context).textTheme.titleLarge,
               textDirection: isFa ? TextDirection.rtl : TextDirection.ltr,
+              textAlign: isFa ? TextAlign.right : TextAlign.left,
             ),
           ),
+        const SizedBox(height: Spacing.md),
+        const Divider(height: 1, thickness: 1, color: Color(0x1A000000)),
         const SizedBox(height: Spacing.lg),
 
         // Input widget per exercise type
@@ -161,11 +174,14 @@ class _ExerciseRunnerWidgetState extends ConsumerState<ExerciseRunnerWidget> {
     );
   }
 
+  // Guard: prevent onComplete firing more than once per session
+  bool _completeFired = false;
+
   bool _canSubmit(Exercise exercise) => switch (exercise) {
         MultipleChoiceExercise _ => _selectedOption != null,
         FillBlankExercise _ => _textController.text.trim().isNotEmpty,
         DictationMcExercise _ => _selectedOption != null,
-        SentenceBuilderExercise ex => _chosenWords.isNotEmpty,
+        SentenceBuilderExercise _ => _chosenWords.isNotEmpty,
       };
 
   void _onSubmit() {
@@ -331,20 +347,25 @@ class _MultipleChoiceInput extends StatelessWidget {
                 borderRadius: Radii.cardMd,
                 border: Border.all(color: borderColor, width: 2),
               ),
-              child: ListTile(
-                onTap: onSelect != null ? () => onSelect!(i) : null,
-                title: Text(options[i],
-                    style: Theme.of(context).textTheme.bodyLarge),
-                trailing: answered
-                    ? Icon(
-                        isCorrect
-                            ? Icons.check_circle
-                            : (isWrong ? Icons.cancel : null),
-                        color: isCorrect
-                            ? AppColors.correctGreen
-                            : AppColors.incorrectRed,
-                      )
-                    : null,
+              // Options are always Polish (Latin script) — force LTR
+              // regardless of the teaching language direction.
+              child: Directionality(
+                textDirection: TextDirection.ltr,
+                child: ListTile(
+                  onTap: onSelect != null ? () => onSelect!(i) : null,
+                  title: Text(options[i],
+                      style: Theme.of(context).textTheme.bodyLarge),
+                  trailing: answered
+                      ? Icon(
+                          isCorrect
+                              ? Icons.check_circle
+                              : (isWrong ? Icons.cancel : null),
+                          color: isCorrect
+                              ? AppColors.correctGreen
+                              : AppColors.incorrectRed,
+                        )
+                      : null,
+                ),
               ),
             ).animate(target: isCorrect || isWrong ? 1 : 0).shake(
                 duration: isWrong ? AppDurations.fast : Duration.zero),
@@ -375,49 +396,168 @@ class _FillBlankInput extends StatelessWidget {
   Widget build(BuildContext context) {
     final l10n = AppLocalizations.of(context)!;
     final isFa = teachingLang == 'fa';
-    // Use localized prompt — falls back to English if no Persian version
-    final localizedPrompt = exercise.localizedPrompt(teachingLang);
-    final parts = localizedPrompt.split('___');
-    return Column(
-      crossAxisAlignment:
-          isFa ? CrossAxisAlignment.end : CrossAxisAlignment.start,
-      children: [
-        if (parts.length >= 2)
-          RichText(
-            textDirection: isFa ? TextDirection.rtl : TextDirection.ltr,
-            text: TextSpan(
-              style: Theme.of(context)
-                  .textTheme
-                  .bodyLarge
-                  ?.copyWith(fontStyle: FontStyle.italic),
-              children: [
-                TextSpan(text: parts[0]),
-                TextSpan(
-                  text: '________',
-                  style: TextStyle(
-                    color: AppColors.primary,
-                    fontWeight: FontWeight.bold,
-                    decoration: TextDecoration.underline,
-                  ),
-                ),
-                if (parts.length > 1) TextSpan(text: parts[1]),
-              ],
+    final typed = controller.text;
+    final answerLen = exercise.answer.length;
+
+    final baseStyle = Theme.of(context)
+        .textTheme
+        .bodyLarge
+        ?.copyWith(fontStyle: FontStyle.italic);
+
+    // ── Resolve display layers from structured fields (new schema) ───────
+    // Falls back to legacy prompt string parsing when new fields are absent.
+    final String instruction;
+    final String polishSentence;  // the full sentence containing '___'
+    final String translationNotes;
+
+    if (exercise.sentence != null) {
+      // ── New schema: fields are pre-split in the JSON ──────────────────
+      final rawContext = isFa
+          ? (exercise.contextFa ?? exercise.context)
+          : exercise.context;
+      instruction = rawContext?.trim().isNotEmpty == true
+          ? rawContext!.trim()
+          : (isFa ? 'جمله را کامل کنید:' : 'Complete the sentence:');
+
+      polishSentence = exercise.sentence!;
+
+      final rawTranslation = isFa
+          ? (exercise.translationFa ?? exercise.translation)
+          : exercise.translation;
+      translationNotes = rawTranslation?.trim() ?? '';
+    } else {
+      // ── Legacy schema: parse the combined prompt string ───────────────
+      final localizedPrompt = exercise.localizedPrompt(teachingLang);
+      final parts = localizedPrompt.split('___');
+
+      // Extract instruction: everything before the last ':'
+      String inst = '';
+      String polishHead = parts.isNotEmpty ? parts[0] : '';
+      if (parts.isNotEmpty) {
+        final lastColon = parts[0].lastIndexOf(':');
+        if (lastColon != -1) {
+          inst = parts[0].substring(0, lastColon + 1).trim();
+          polishHead = parts[0].substring(lastColon + 1).trimLeft();
+        }
+      }
+      instruction = inst.isNotEmpty
+          ? inst
+          : (isFa ? 'جمله را کامل کنید:' : 'Complete the sentence:');
+
+      // Extract translation: everything after the first '(' or '[' in parts[1]
+      String polishTail = parts.length > 1 ? parts[1] : '';
+      String notes = '';
+      if (parts.length > 1) {
+        final pIdx = parts[1].indexOf('(');
+        final bIdx = parts[1].indexOf('[');
+        int splitAt = -1;
+        if (pIdx >= 0 && bIdx >= 0) {
+          splitAt = pIdx < bIdx ? pIdx : bIdx;
+        } else if (pIdx >= 0) {
+          splitAt = pIdx;
+        } else if (bIdx >= 0) {
+          splitAt = bIdx;
+        }
+        if (splitAt >= 0) {
+          polishTail = parts[1].substring(0, splitAt).trimRight();
+          notes = parts[1].substring(splitAt).trim();
+        }
+      }
+      polishSentence = '${polishHead}___${polishTail}';
+      translationNotes = notes;
+    }
+
+    // ── Build the character-slot row ─────────────────────────────────────
+    final sentenceParts = polishSentence.split('___');
+    final polishStart = sentenceParts.isNotEmpty ? sentenceParts[0] : '';
+    final polishEnd = sentenceParts.length > 1 ? sentenceParts[1] : '';
+
+    final slotRow = Row(
+      mainAxisSize: MainAxisSize.min,
+      children: List.generate(answerLen, (i) {
+        final hasChar = i < typed.length;
+        final isActive = i == typed.length && enabled;
+        final displayChar = hasChar ? typed[i] : '_';
+        return Container(
+          margin: const EdgeInsets.symmetric(horizontal: 1),
+          padding: const EdgeInsets.only(bottom: 2),
+          constraints: const BoxConstraints(minWidth: 14),
+          decoration: BoxDecoration(
+            border: Border(
+              bottom: BorderSide(
+                color: isActive
+                    ? AppColors.primary
+                    : hasChar
+                        ? AppColors.primary.withOpacity(0.8)
+                        : AppColors.onSurfaceVariant.withOpacity(0.35),
+                width: isActive ? 2.5 : 1.5,
+              ),
             ),
-          )
-        else
-          Text(
-            localizedPrompt,
-            textDirection: isFa ? TextDirection.rtl : TextDirection.ltr,
-            style: Theme.of(context)
-                .textTheme
-                .bodyLarge
-                ?.copyWith(fontStyle: FontStyle.italic),
           ),
+          child: Text(
+            displayChar,
+            style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                  color: hasChar
+                      ? AppColors.primary
+                      : AppColors.onSurfaceVariant.withOpacity(0.35),
+                  fontWeight: hasChar ? FontWeight.bold : FontWeight.w400,
+                ),
+          ),
+        );
+      }),
+    );
+
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        // 1 ── Instruction / context line (top)
+        Text(
+          instruction,
+          textDirection: isFa ? TextDirection.rtl : TextDirection.ltr,
+          textAlign: isFa ? TextAlign.right : TextAlign.left,
+          style: Theme.of(context).textTheme.bodyLarge,
+        ),
+        const SizedBox(height: Spacing.sm),
+
+        // 2 ── Polish sentence with inline blank slots (always LTR)
+        RichText(
+          textDirection: TextDirection.ltr,
+          text: TextSpan(
+            style: baseStyle,
+            children: [
+              TextSpan(text: polishStart),
+              WidgetSpan(
+                alignment: PlaceholderAlignment.middle,
+                child: Directionality(
+                  textDirection: TextDirection.ltr,
+                  child: slotRow,
+                ),
+              ),
+              TextSpan(text: polishEnd),
+            ],
+          ),
+        ),
+
+        // 3 ── Translation / grammar notes (smaller, muted, below sentence)
+        if (translationNotes.isNotEmpty) ...[
+          const SizedBox(height: Spacing.xs),
+          Text(
+            translationNotes,
+            textDirection: isFa ? TextDirection.rtl : TextDirection.ltr,
+            textAlign: isFa ? TextAlign.right : TextAlign.left,
+            style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                  color: AppColors.onSurfaceVariant,
+                ),
+          ),
+        ],
+
+        // 4 ── Hint (smaller, italic, below translation)
         if (exercise.hint != null) ...[
           const SizedBox(height: Spacing.xs),
           Text(
             l10n.exerciseHintLabel(exercise.hint!),
             textDirection: isFa ? TextDirection.rtl : TextDirection.ltr,
+            textAlign: isFa ? TextAlign.right : TextAlign.left,
             style: Theme.of(context).textTheme.bodySmall?.copyWith(
                   color: AppColors.onSurfaceVariant,
                   fontStyle: FontStyle.italic,
@@ -429,8 +569,10 @@ class _FillBlankInput extends StatelessWidget {
           controller: controller,
           enabled: enabled,
           autofocus: true,
+          maxLength: answerLen,
           decoration: InputDecoration(
             hintText: l10n.exerciseTypeAnswerHint,
+            counterText: '', // hide the built-in character counter
             hintStyle: const TextStyle(color: AppColors.onSurfaceVariant),
             filled: true,
             fillColor: AppColors.surfaceVariant,
@@ -441,7 +583,67 @@ class _FillBlankInput extends StatelessWidget {
           ),
           style: Theme.of(context).textTheme.bodyLarge,
         ),
+        if (enabled) ...[
+          const SizedBox(height: Spacing.sm),
+          _PolishCharPicker(controller: controller),
+        ],
       ],
+    );
+  }
+}
+
+// ── Polish character picker ────────────────────────────────────────────────────
+
+class _PolishCharPicker extends StatelessWidget {
+  const _PolishCharPicker({required this.controller});
+  final TextEditingController controller;
+
+  static const _chars = [
+    'ą', 'ć', 'ę', 'ł', 'ń', 'ó', 'ś', 'ź', 'ż',
+    'Ą', 'Ć', 'Ę', 'Ł', 'Ń', 'Ó', 'Ś', 'Ź', 'Ż',
+  ];
+
+  void _insert(String char) {
+    final text = controller.text;
+    final sel = controller.selection;
+    final start = sel.start < 0 ? text.length : sel.start;
+    final end = sel.end < 0 ? text.length : sel.end;
+    final newText = text.replaceRange(start, end, char);
+    controller.value = TextEditingValue(
+      text: newText,
+      selection: TextSelection.collapsed(offset: start + char.length),
+    );
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Wrap(
+      spacing: 4,
+      runSpacing: 4,
+      children: _chars.map((c) {
+        return InkWell(
+          onTap: () => _insert(c),
+          borderRadius: BorderRadius.circular(6),
+          child: Container(
+            padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+            decoration: BoxDecoration(
+              color: AppColors.surfaceVariant,
+              borderRadius: BorderRadius.circular(6),
+              border: Border.all(
+                color: AppColors.primary.withOpacity(0.4),
+                width: 1,
+              ),
+            ),
+            child: Text(
+              c,
+              style: Theme.of(context).textTheme.bodyMedium?.copyWith(
+                    color: AppColors.primary,
+                    fontWeight: FontWeight.w600,
+                  ),
+            ),
+          ),
+        );
+      }).toList(),
     );
   }
 }
@@ -471,77 +673,160 @@ class _SentenceBuilderInput extends StatefulWidget {
 class _SentenceBuilderInputState extends State<_SentenceBuilderInput> {
   late List<String> _available;
   late List<String> _chosen;
+  bool _shaking = false;
 
   @override
   void initState() {
     super.initState();
+    _resetWords();
+  }
+
+  void _resetWords() {
     _available = List.from(widget.exercise.wordBank);
     _chosen = [];
   }
 
-  void _tap(String word, {required bool fromBank}) {
-    if (!widget.enabled) return;
-    setState(() {
-      if (fromBank) {
+  /// Returns true if [words] is a valid prefix of any correct sequence.
+  bool _isValidPrefix(List<String> words) {
+    if (words.isEmpty) return true;
+    return widget.exercise.correctSequences.any((seq) {
+      if (words.length > seq.length) return false;
+      for (var i = 0; i < words.length; i++) {
+        if (seq[i] != words[i]) return false;
+      }
+      return true;
+    });
+  }
+
+  /// True when the chosen words already form a complete correct answer.
+  bool get _isChosenComplete => widget.exercise.isCorrect(_chosen);
+
+  void _tapFromBank(String word) {
+    if (!widget.enabled || _isChosenComplete) return;
+    final next = [..._chosen, word];
+    if (_isValidPrefix(next)) {
+      setState(() {
         _available.remove(word);
         _chosen.add(word);
-      } else {
-        _chosen.remove(word);
-        _available.add(word);
-      }
+      });
+      widget.onChanged(List.from(_chosen));
+    } else {
+      // Wrong word — shake and reset
+      setState(() => _shaking = true);
+      Future.delayed(const Duration(milliseconds: 450), () {
+        if (mounted) {
+          setState(() {
+            _shaking = false;
+            _resetWords();
+          });
+          widget.onChanged([]);
+        }
+      });
+    }
+  }
+
+  void _tapFromChosen(String word) {
+    if (!widget.enabled) return;
+    // Remove from chosen and put back in original bank order
+    setState(() {
+      final idx = _chosen.lastIndexOf(word);
+      _chosen.removeAt(idx);
+      _available = List.from(widget.exercise.wordBank)
+        ..removeWhere((w) => _chosen.contains(w));
     });
     widget.onChanged(List.from(_chosen));
   }
 
   @override
-  Widget build(BuildContext context) => Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          // Chosen sentence area
-          Container(
-            constraints: const BoxConstraints(minHeight: 60),
-            width: double.infinity,
-            padding: const EdgeInsets.all(Spacing.sm),
-            decoration: BoxDecoration(
-              color: AppColors.surfaceVariant,
-              borderRadius: Radii.cardMd,
-              border: Border.all(color: AppColors.primary.withOpacity(0.4)),
-            ),
-            child: _chosen.isEmpty
-                ? Text(
-                    AppLocalizations.of(context)!.exerciseSentenceBuilderHint,
-                    style: Theme.of(context).textTheme.bodyMedium?.copyWith(
-                          color: AppColors.onSurfaceVariant,
-                          fontStyle: FontStyle.italic,
-                        ),
-                  )
-                : Wrap(
-                    spacing: Spacing.xs,
-                    runSpacing: Spacing.xs,
-                    children: _chosen
-                        .map((w) => _WordChip(
-                              word: w,
-                              color: AppColors.primary,
-                              onTap: () => _tap(w, fromBank: false),
-                            ))
-                        .toList(),
+  Widget build(BuildContext context) {
+    final chosenArea = AnimatedContainer(
+      duration: AppDurations.fast,
+      constraints: const BoxConstraints(minHeight: 64),
+      width: double.infinity,
+      padding: const EdgeInsets.all(Spacing.sm),
+      decoration: BoxDecoration(
+        color: _shaking
+            ? AppColors.incorrectRed.withOpacity(0.08)
+            : AppColors.surfaceVariant,
+        borderRadius: Radii.cardMd,
+        border: Border.all(
+          color: _shaking
+              ? AppColors.incorrectRed
+              : AppColors.primary.withOpacity(0.4),
+          width: _shaking ? 2 : 1,
+        ),
+      ),
+      child: _chosen.isEmpty
+          ? Text(
+              AppLocalizations.of(context)!.exerciseSentenceBuilderHint,
+              style: Theme.of(context).textTheme.bodyMedium?.copyWith(
+                    color: AppColors.onSurfaceVariant,
+                    fontStyle: FontStyle.italic,
                   ),
+            )
+          : Directionality(
+              textDirection: TextDirection.ltr,
+              child: Wrap(
+                spacing: Spacing.xs,
+                runSpacing: Spacing.xs,
+                children: _chosen
+                    .map((w) => _WordChip(
+                          word: w,
+                          color: AppColors.primary,
+                          onTap: () => _tapFromChosen(w),
+                        ))
+                    .toList(),
+              ),
+            ),
+    );
+
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        // Chosen sentence area — shakes on wrong word
+        _shaking
+            ? chosenArea
+                .animate()
+                .shake(hz: 6, duration: const Duration(milliseconds: 400))
+            : chosenArea,
+        const SizedBox(height: Spacing.sm),
+        // Label above the word bank
+        Row(children: [
+          Icon(Icons.touch_app,
+              size: 14, color: AppColors.onSurfaceVariant),
+          const SizedBox(width: 4),
+          Text(
+            _isChosenComplete ? '✓ Tap Check Answer' : 'Tap words in order',
+            style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                  color: _isChosenComplete
+                      ? AppColors.correctGreen
+                      : AppColors.onSurfaceVariant,
+                  fontStyle: FontStyle.italic,
+                ),
           ),
-          const SizedBox(height: Spacing.sm),
-          // Word bank
-          Wrap(
-            spacing: Spacing.xs,
-            runSpacing: Spacing.xs,
-            children: _available
-                .map((w) => _WordChip(
-                      word: w,
-                      color: AppColors.secondary,
-                      onTap: () => _tap(w, fromBank: true),
-                    ))
-                .toList(),
+        ]),
+        const SizedBox(height: Spacing.xs),
+        // Word bank — tap to add; dims when sentence is already complete
+        Opacity(
+          opacity: _isChosenComplete ? 0.35 : 1.0,
+          child: Directionality(
+            textDirection: TextDirection.ltr,
+            child: Wrap(
+              spacing: Spacing.xs,
+              runSpacing: Spacing.xs,
+              children: _available
+                  .map((w) => _WordChip(
+                        word: w,
+                        color: AppColors.secondary,
+                        onTap: () => _tapFromBank(w),
+                      ))
+                  .toList(),
+            ),
           ),
-        ],
-      );
+        ),
+      ],
+    );
+  }
 }
 
 class _WordChip extends StatelessWidget {

@@ -13,6 +13,7 @@
       "order": 1,
       "sourceLesson": "a1-ch02-l01",
       "prompt": "Wy ___ dużo czasu.",
+      "prompt_fa": "جای خالی: Wy ___ dużo czasu.",
       "options": [
         "mam",
         "masz",
@@ -20,7 +21,8 @@
         "macie"
       ],
       "correctIndex": 3,
-      "explanation": "Second person plural (wy = you all) uses macie. 'Wy macie dużo czasu' = You (all) have a lot of time."
+      "explanation": "Second person plural (wy = you all) uses macie. 'Wy macie dużo czasu' = You (all) have a lot of time.",
+      "explanation_fa": "دوم شخص جمع (wy = شما) از macie استفاده می‌کند. 'Wy macie dużo czasu' = شما وقت زیادی دارید."
     },
     {
       "id": "a1-ch02-rev-q02",
@@ -28,6 +30,7 @@
       "order": 2,
       "sourceLesson": "a1-ch02-l02",
       "prompt": "What is the correct nominative plural of 'okno' (window)?",
+      "prompt_fa": "جمع فاعلی درست 'okno' (پنجره) چیست؟",
       "options": [
         "okna",
         "okny",
@@ -35,7 +38,8 @@
         "okno"
       ],
       "correctIndex": 0,
-      "explanation": "Neuter nouns ending in -o form their plural with -a: okno → okna."
+      "explanation": "Neuter nouns ending in -o form their plural with -a: okno → okna. This applies to all -o neuters: słowo → słowa, miasto → miasta.",
+      "explanation_fa": "اسم‌های خنثی ختم‌شونده به -o جمعشان با -a می‌شود: okno → okna. این برای همه خنثی‌های -o صدق می‌کند: słowo → słowa، miasto → miasta."
     },
     {
       "id": "a1-ch02-rev-q03",
@@ -43,6 +47,7 @@
       "order": 3,
       "sourceLesson": "a1-ch02-l03",
       "prompt": "To jest ___ mama. (This is my mum.) [mama = feminine]",
+      "prompt_fa": "جای خالی: To jest ___ mama. (این مامانمه.) [mama = مؤنث]",
       "options": [
         "mój",
         "moja",
@@ -50,7 +55,8 @@
         "moją"
       ],
       "correctIndex": 1,
-      "explanation": "'Mama' is feminine → possessive agrees: 'moja'. 'To jest moja mama' = This is my mum."
+      "explanation": "'Mama' is feminine → the possessive must agree: 'moja'. 'To jest moja mama' = This is my mum.",
+      "explanation_fa": "'Mama' مؤنث است → ضمیر ملکی باید تطبیق یابد: 'moja'. 'To jest moja mama' = این مامانمه."
     },
     {
       "id": "a1-ch02-rev-q04",
@@ -58,6 +64,7 @@
       "order": 4,
       "sourceLesson": "a1-ch02-l04",
       "prompt": "Nie ma ___ w domu. (Dad is not at home.) [tata → ?]",
+      "prompt_fa": "جای خالی: Nie ma ___ w domu. (بابا خانه نیست.) [tata → ?]",
       "options": [
         "tata",
         "tatę",
@@ -65,7 +72,8 @@
         "tacie"
       ],
       "correctIndex": 2,
-      "explanation": "'Nie ma' requires the genitive case. 'Tata' (masculine, ends -a) → genitive 'taty'. 'Nie ma taty w domu'."
+      "explanation": "'Nie ma' requires the genitive case. 'Tata' is a masculine noun ending in -a → genitive is -y: tata → taty. 'Nie ma taty w domu' = Dad is not at home.",
+      "explanation_fa": "'Nie ma' مضاف‌الیهی می‌طلبد. 'Tata' اسم مذکر ختم‌شونده به -a است → مضاف‌الیهی -y: tata → taty. 'Nie ma taty w domu' = بابا خانه نیست."
     },
     {
       "id": "a1-ch02-rev-q05",
@@ -73,6 +81,7 @@
       "order": 5,
       "sourceVocab": "a1-ch02-vocab",
       "prompt": "What does 'rodzice' mean?",
+      "prompt_fa": "'rodzice' چه معنایی دارد؟",
       "options": [
         "family",
         "parents",
@@ -80,7 +89,8 @@
         "relatives"
       ],
       "correctIndex": 1,
-      "explanation": "'Rodzice' = parents (plural-only noun). 'Rodzina' = family. 'Dzieci' = children."
+      "explanation": "'Rodzice' = parents (plural-only noun). 'Rodzina' = family. 'Dzieci' = children.",
+      "explanation_fa": "'Rodzice' = والدین (اسمی که فقط جمع دارد). 'Rodzina' = خانواده. 'Dzieci' = بچه‌ها."
     },
     {
       "id": "a1-ch02-rev-q06",
@@ -88,6 +98,7 @@
       "order": 6,
       "sourceVocab": "a1-ch02-vocab",
       "prompt": "What does 'córka' mean?",
+      "prompt_fa": "'córka' چه معنایی دارد؟",
       "options": [
         "son",
         "sister",
@@ -95,7 +106,8 @@
         "aunt"
       ],
       "correctIndex": 2,
-      "explanation": "'Córka' = daughter (feminine noun). 'Syn' = son. 'Siostra' = sister. 'Ciocia' = aunt."
+      "explanation": "'Córka' = daughter (feminine noun). 'Syn' = son. 'Siostra' = sister. 'Ciocia' = aunt.",
+      "explanation_fa": "'Córka' = دختر (اسم مؤنث). 'Syn' = پسر. 'Siostra' = خواهر. 'Ciocia' = عمه/خاله."
     },
     {
       "id": "a1-ch02-rev-q07",
@@ -103,6 +115,7 @@
       "order": 7,
       "sourceLesson": "a1-ch02-l01",
       "prompt": "How do you say 'I don't have a brother' in Polish?",
+      "prompt_fa": "چطور می‌گویید «برادر ندارم» به لهستانی؟",
       "options": [
         "Nie mam brata.",
         "Nie ma brata.",
@@ -110,7 +123,8 @@
         "Nie masz brata."
       ],
       "correctIndex": 0,
-      "explanation": "'Nie mam brata' = I don't have a brother. 'Nie mam' = I don't have (1st sg. negation). 'Brata' is genitive after negation."
+      "explanation": "'Nie mam brata' = I don't have a brother. 'Nie mam' is the first person singular negation. 'Brata' is genitive (masculine animate brat → brata) because negation requires genitive.",
+      "explanation_fa": "'Nie mam brata' = برادر ندارم. 'Nie mam' منفی اول شخص مفرد است. 'Brata' مضاف‌الیهی است (مذکر جاندار brat → brata) چون منفی مضاف‌الیهی می‌طلبد."
     },
     {
       "id": "a1-ch02-rev-q08",
@@ -118,6 +132,7 @@
       "order": 8,
       "sourceLesson": "a1-ch02-l04",
       "prompt": "Jadę do ___ (to my sister's). [siostra → ?]",
+      "prompt_fa": "جای خالی: Jadę do ___ (دارم به پیش خواهرم می‌رم). [siostra → ?]",
       "options": [
         "siostry",
         "siostrę",
@@ -125,7 +140,8 @@
         "siostro"
       ],
       "correctIndex": 0,
-      "explanation": "After 'do' (to), use genitive: siostra (feminine -a) → siostry. 'Jadę do siostry' = I'm going to my sister's."
+      "explanation": "After 'do' (to), use genitive: siostra (feminine -a) → siostry. 'Jadę do siostry' = I'm going to my sister's.",
+      "explanation_fa": "بعد از 'do' (به)، از مضاف‌الیهی استفاده کنید: siostra (مؤنث -a) → siostry. 'Jadę do siostry' = دارم به پیش خواهرم می‌رم."
     },
     {
       "id": "a1-ch02-rev-q09",
@@ -133,6 +149,7 @@
       "order": 9,
       "sourceVocab": "a1-ch02-vocab",
       "prompt": "What does 'mąż' mean?",
+      "prompt_fa": "'mąż' چه معنایی دارد؟",
       "options": [
         "man",
         "husband",
@@ -140,7 +157,8 @@
         "brother"
       ],
       "correctIndex": 1,
-      "explanation": "'Mąż' = husband. 'Mężczyzna' = man. 'Ojciec/tata' = father. 'Brat' = brother."
+      "explanation": "'Mąż' = husband. 'Mężczyzna' = man. 'Ojciec/tata' = father. 'Brat' = brother.",
+      "explanation_fa": "'Mąż' = شوهر. 'Mężczyzna' = مرد. 'Ojciec/tata' = پدر. 'Brat' = برادر."
     },
     {
       "id": "a1-ch02-rev-q10",
@@ -148,6 +166,7 @@
       "order": 10,
       "sourceLesson": "a1-ch02-l02",
       "prompt": "What is the virile (masculine personal) plural of 'student'?",
+      "prompt_fa": "جمع virile (مذکر شخصی) 'student' چیست؟",
       "options": [
         "studenci",
         "studenty",
@@ -155,7 +174,8 @@
         "studentów"
       ],
       "correctIndex": 0,
-      "explanation": "'Student' → 'studenci' in the virile plural (t → c softening). This is the nominative plural for a group of male or mixed students."
+      "explanation": "'Student' → 'studenci' in the virile plural (t → c softening). This is the nominative plural for a group of male or mixed students.",
+      "explanation_fa": "'Student' → 'studenci' در جمع virile (نرم‌شدن t → c). این جمع فاعلی برای گروه دانشجویان مذکر یا مختلط است."
     },
     {
       "id": "a1-ch02-rev-q11",
@@ -163,6 +183,7 @@
       "order": 11,
       "sourceLesson": "a1-ch02-l03",
       "prompt": "To jest ___ auto. (This is their car.) [auto = neuter, owners = male]",
+      "prompt_fa": "جای خالی: To jest ___ auto. (این ماشینشونه.) [auto = خنثی، صاحبان = مذکر]",
       "options": [
         "ich",
         "jej",
@@ -170,7 +191,8 @@
         "nasz"
       ],
       "correctIndex": 0,
-      "explanation": "'Ich' = their (possessive for they — both oni and one). 'Ich' is indeclinable — it stays the same regardless of the noun's gender."
+      "explanation": "'Ich' = their (possessive for oni and one alike). 'Ich' is indeclinable — it stays the same regardless of the noun's gender. 'To jest ich auto' = This is their car.",
+      "explanation_fa": "'Ich' = مال آن‌ها (ضمیر ملکی برای هر دو oni و one). 'Ich' تغییرناپذیر است — صرف نظر از جنسیت اسم همیشه همین شکل. 'To jest ich auto' = این ماشینشونه."
     },
     {
       "id": "a1-ch02-rev-q12",
@@ -178,6 +200,7 @@
       "order": 12,
       "sourceVocab": "a1-ch02-vocab",
       "prompt": "What does 'dziecko' mean?",
+      "prompt_fa": "'dziecko' چه معنایی دارد؟",
       "options": [
         "baby",
         "child",
@@ -185,7 +208,8 @@
         "teenager"
       ],
       "correctIndex": 1,
-      "explanation": "'Dziecko' = child (neuter noun). Plural: 'dzieci' = children (irregular plural)."
+      "explanation": "'Dziecko' = child (neuter noun). Plural: 'dzieci' = children (highly irregular plural — must be memorised).",
+      "explanation_fa": "'Dziecko' = بچه (اسم خنثی). جمع: 'dzieci' = بچه‌ها (جمع بسیار نامنظم — باید حفظ شود)."
     }
   ]
 }

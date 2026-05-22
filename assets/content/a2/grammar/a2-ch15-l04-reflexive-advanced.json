@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Zakochałam się ___ tym chłopaku. (I fell in love with that boy.) [zakochać się w + locative]",
+      "prompt_fa": "Zakochałam się ___ tym chłopaku. (عاشق آن پسر شدم.) [zakochać się w + مکانی]",
       "options": [
         "w",
         "z",
@@ -30,23 +31,34 @@
         "do"
       ],
       "correctIndex": 0,
-      "explanation": "'Zakochać się w + locative': w tym chłopaku (chłopak → locative: chłopaku). 'Zakochałam się w nim' = I fell in love with him."
+      "explanation": "'Zakochać się w + locative': w tym chłopaku (chłopak → locative: chłopaku). 'Zakochałam się w nim' = I fell in love with him.",
+      "explanation_fa": "zakochać się w + مکانی: w tym chłopaku (chłopak → مکانی: chłopaku). zakochałam się w nim = عاشقش شدم."
     },
     {
       "id": "a2-ch15-l04-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Pokłóciliśmy się ___ siostrą o pieniądze. (We had a fight with [my] sister about money.) [kłócić się z + instrumental]",
+      "context": "Polish. Complete with the correct preposition:",
+      "context_fa": "لهستانی. حرف اضافه صحیح را تکمیل کنید:",
+      "sentence": "Pokłóciliśmy się ___ siostrą o pieniądze.",
+      "translation": "(We had a fight with [my] sister about money.) [kłócić się z + instrumental]",
+      "translation_fa": "(با خواهرم درباره پول دعوا کردیم.) [kłócić się z + ابزاری]",
+      "prompt": "Pokłóciliśmy się ___ siostrą o pieniądze.",
+      "prompt_fa": "Pokłóciliśmy się ___ siostrą o pieniądze.",
       "answer": "z",
       "acceptableAnswers": [
         "z"
       ],
-      "hint": "Kłócić się Z + instrumental: z siostrą"
+      "hint": "Kłócić się Z + instrumental: z siostrą",
+      "explanation": "'Pokłóciliśmy się z siostrą o pieniądze.' — We had a fight with [my] sister about money. 'Kłócić się z + instrumental': z siostrą (siostra → instr: siostrą).",
+      "explanation_fa": "kłócić się z + ابزاری: z siostrą (siostra → ابزاری: siostrą). o pieniądze = درباره پول (مفعولی)."
     },
     {
       "id": "a2-ch15-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch15/a2-ch15-l04-ex03.mp3",
       "options": [
         "Rozstałam się z chłopakiem.",
@@ -55,13 +67,15 @@
         "Pogodzilam się z chłopakiem."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Rozstałam się z chłopakiem.' — I broke up with my boyfriend. 'Rozstać się z + instrumental': z chłopakiem. Note: 'Rozstałam' = feminine past."
+      "explanation": "You heard: 'Rozstałam się z chłopakiem.' — I broke up with my boyfriend. 'Rozstać się z + instrumental': z chłopakiem. Note: 'Rozstałam' = feminine past.",
+      "explanation_fa": "شنیدید: 'Rozstałam się z chłopakiem.' — از دوست‌پسرم جدا شدم. rozstać się z + ابزاری: z chłopakiem. rozstałam = گذشته مؤنث."
     },
     {
       "id": "a2-ch15-l04-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Po kłótni w końcu się ___. (After the argument, they finally made up.) [pogodzić się, oni]",
+      "prompt_fa": "Po kłótni w końcu się ___. (بعد از دعوا، بالاخره آشتی کردند.) [pogodzić się، oni]",
       "options": [
         "pogodzili",
         "pokłócili",
@@ -69,13 +83,15 @@
         "zakochali"
       ],
       "correctIndex": 0,
-      "explanation": "'Pogodzić się' (perf) = to make up/reconcile. Past virile plural (oni): pogodzili się. 'Po kłótni' = after the argument (kłótnia → genitive: kłótni)."
+      "explanation": "'Pogodzić się' (perf) = to make up/reconcile. Past virile plural (oni): pogodzili się. 'Po kłótni' = after the argument (kłótnia → genitive: kłótni).",
+      "explanation_fa": "pogodzić się کامل = آشتی کردن. گذشته جمع مذکر (oni): pogodzili się. po kłótni = بعد از دعوا (مضاف‌الیهی)."
     },
     {
       "id": "a2-ch15-l04-ex05",
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: She was disappointed with the film. [rozczarować się, ona + instr]",
+      "prompt_fa": "بسازید: او از فیلم ناامید شد. [rozczarować się، ona + ابزاری]",
       "wordBank": [
         "Ona",
         "rozczarowała",
@@ -94,7 +110,111 @@
           "filmem"
         ]
       ],
-      "explanation": "'Ona rozczarowała się tym filmem.' — She was disappointed with the film. 'Rozczarować się + instrumental': tym filmem (film → instr: filmem). 'Tym' = instrumental of 'ten'."
+      "explanation": "'Ona rozczarowała się tym filmem.' — She was disappointed with the film. 'Rozczarować się + instrumental': tym filmem (film → instr: filmem). 'Tym' = instrumental of 'ten'.",
+      "explanation_fa": "rozczarować się + ابزاری: tym filmem (film → ابزاری: filmem). tym = ابزاری 'ten'. rozczarowała się = ناامید شد (مؤنث)."
+    },
+    {
+      "id": "a2-ch15-l04-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia ___ z Tomkiem w kawiarni o czternastej. (Kasia is meeting Tomek at the café at two.) [spotkać się z + instr]",
+      "prompt_fa": "Kasia ___ z Tomkiem w kawiarni o czternastej. (کاسیا ساعت دو در کافه با تومک ملاقات می‌کند.) [spotkać się z + ابزاری]",
+      "options": [
+        "spotka się",
+        "spotykają się",
+        "spotka",
+        "spotkała się"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Spotkać się z + instrumental' (perfective): future: spotka się. 'Z Tomkiem' = instrumental (with Tomek). Present context with a fixed appointment → perfective future.",
+      "explanation_fa": "spotkać się z + ابزاری (کامل): آینده: spotka się. z Tomkiem = ابزاری. قرار ملاقات مشخص → آینده کامل."
+    },
+    {
+      "id": "a2-ch15-l04-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Polish. Complete with the correct reflexive verb form:",
+      "context_fa": "لهستانی. شکل صحیح فعل بازتابی را تکمیل کنید:",
+      "sentence": "Marek ___ tym pięknym widokiem z okna.",
+      "translation": "(Marek was delighted with the beautiful view from the window.) [zachwycić się + instrumental]",
+      "translation_fa": "(مارک از منظره زیبا از پنجره مسحور شد.) [zachwycić się + ابزاری]",
+      "prompt": "Marek ___ tym pięknym widokiem z okna.",
+      "prompt_fa": "Marek ___ tym pięknym widokiem z okna.",
+      "answer": "zachwycił się",
+      "acceptableAnswers": [
+        "zachwycił się"
+      ],
+      "hint": "Zachwycić się (perf) + instrumental. Past m: zachwycił się.",
+      "explanation": "'Marek zachwycił się tym pięknym widokiem.' — Marek was delighted with the beautiful view. 'Zachwycić się + instrumental': tym pięknym widokiem.",
+      "explanation_fa": "zachwycić się + ابزاری: tym pięknym widokiem. گذشته مذکر کامل: zachwycił się."
+    },
+    {
+      "id": "a2-ch15-l04-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch15/a2-ch15-l04-ex08.mp3",
+      "options": [
+        "Uspokój się, to nie jest koniec świata!",
+        "Zdenerwuj się, to nie jest koniec świata!",
+        "Uspokójcie się, to nie jest koniec świata!",
+        "Uspokoiłeś się, to nie jest koniec świata."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Uspokój się, to nie jest koniec świata!' — Calm down, it's not the end of the world! 'Uspokoić się' → imperative ty: uspokój się! Common reassuring phrase.",
+      "explanation_fa": "شنیدید: 'Uspokój się, to nie jest koniec świata!' — آروم باش، این آخر دنیا نیست! uspokoić się → وجه امری مفرد: uspokój się!"
+    },
+    {
+      "id": "a2-ch15-l04-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: Ania and Tomek had a fight about money but then made up. [pokłócić się + pogodzić się]",
+      "prompt_fa": "بسازید: آنیا و تومک درباره پول دعوا کردند اما بعد آشتی کردند. [pokłócić się + pogodzić się]",
+      "wordBank": [
+        "Ania",
+        "i",
+        "Tomek",
+        "pokłócili się",
+        "pogodzili się",
+        "o",
+        "z",
+        "pieniądze",
+        "pieniędzy",
+        "ale",
+        "potem"
+      ],
+      "correctSequences": [
+        [
+          "Ania",
+          "i",
+          "Tomek",
+          "pokłócili się",
+          "o",
+          "pieniądze",
+          "ale",
+          "potem",
+          "pogodzili się"
+        ]
+      ],
+      "explanation": "'Ania i Tomek pokłócili się o pieniądze, ale potem pogodzili się.' — Ania and Tomek had a fight about money but then made up. 'Pokłócić się o + acc'; 'pogodzić się' (no object needed here).",
+      "explanation_fa": "pokłócić się o + مفعولی: o pieniądze. pogodzić się = آشتی کردن (بدون مفعول). ale potem = اما بعد."
+    },
+    {
+      "id": "a2-ch15-l04-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Marek ___ nową technologią w pracy. (Marek is interested in the new technology at work.) [interesować się + instrumental]",
+      "prompt_fa": "Marek ___ nową technologią w pracy. (مارک به فناوری جدید در کار علاقه دارد.) [interesować się + ابزاری]",
+      "options": [
+        "interesuje się",
+        "interesuje",
+        "interesuje się z",
+        "jest zainteresowany się"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Interesować się + instrumental': nową technologią (technologia → instr: technologią). 'Interesuje się' = is interested in. No preposition — direct instrumental.",
+      "explanation_fa": "interesować się + ابزاری (بدون حرف اضافه): nową technologią. interesuje się = علاقه دارد."
     }
   ],
   "xpReward": 25,

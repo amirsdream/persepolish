@@ -5,24 +5,25 @@
   "lessonOrder": 4,
   "title": "lubić — Likes with Infinitive and Nouns",
   "title_fa": "فعل lubić — دوست داشتن + مصدر و اسم",
-  "grammarPoint": "lubić + infinitive (to like doing); lubić + accusative (to like something); nie lubić",
-  "grammarPoint_fa": "lubić + مصدر (دوست دارم ... کنم) و lubić + مفعولی (دوست دارم ...را)",
+  "grammarPoint": "lubić + infinitive (to like doing); lubić + accusative (to like something); nie lubić + genitive",
+  "grammarPoint_fa": "lubić + مصدر (دوست دارم ... کنم) و lubić + مفعولی (دوست دارم ...) و nie lubić + مضاف‌الیهی",
   "explanation": {
-    "text": "**Lubić** (to like) is one of the most useful verbs in Polish. It works in two main patterns:\n\n**Pattern 1: lubić + INFINITIVE** (to like doing something)\n- Lubię jeść. = I like to eat / I like eating.\n- Lubię słuchać muzyki. = I like listening to music.\n- Lubię chodzić do kina. = I like going to the cinema.\n\n**Pattern 2: lubić + ACCUSATIVE** (to like something/someone)\n- Lubię kawę. = I like coffee. (kawa → kawę)\n- Lubię pizzę. = I like pizza. (pizza → pizzę)\n- Lubię psy. = I like dogs. (pies → psy, acc pl)\n\n**Conjugation of lubić (Group 2):**\n\n| Person | Form |\n|--------|------|\n| ja | **lubię** |\n| ty | **lubisz** |\n| on/ona | **lubi** |\n| my | **lubimy** |\n| wy | **lubicie** |\n| oni/one | **lubią** |\n\n**Negation — nie lubić:**\n- Nie lubię czekolady. = I don't like chocolate. (genitive after negation!)\n- Nie lubię gotować. = I don't like cooking.",
+    "text": "## lubić — Likes with Infinitive and Nouns\n\n**Lubić** (to like) is one of the most useful verbs in Polish. It takes two very different patterns depending on whether you like *doing* something (infinitive) or like *a thing/person* (accusative).\n\n### Conjugation of lubić (Group 2: -ię/-isz)\n\n| Person | Polish | English |\n|--------|--------|----------|\n| ja | **lubię** | I like |\n| ty | **lubisz** | you like |\n| on / ona / ono | **lubi** | he / she / it likes |\n| my | **lubimy** | we like |\n| wy | **lubicie** | you (pl) like |\n| oni / one | **lubią** | they like |\n\n### Pattern 1: lubić + INFINITIVE (to like doing something)\n\nWhen you like *doing* an activity, use lubić + infinitive (no case change needed).\n\n| Polish | English |\n|--------|---------|\n| Lubię **jeść**. | I like eating. |\n| Lubię **czytać**. | I like reading. |\n| Lubię **gotować**. | I like cooking. |\n| Lubię **słuchać** muzyki. | I like listening to music. |\n| Lubię **chodzić** do kina. | I like going to the cinema. |\n| Ona lubi **pływać**. | She likes swimming. |\n\n### Pattern 2: lubić + ACCUSATIVE (to like a thing/person)\n\nWhen you like *a specific thing or person*, use lubić + accusative.\n\n| Nominative | Accusative | Example |\n|-----------|------------|----------|\n| kawa (f) | kawę | Lubię **kawę**. = I like coffee. |\n| herbata (f) | herbatę | Lubię **herbatę**. = I like tea. |\n| pizza (f) | pizzę | Lubię **pizzę**. = I like pizza. |\n| piwo (n) | piwo | Lubię **piwo**. = I like beer. |\n| ser (m inan) | ser | Lubię **ser**. = I like cheese. |\n\n### Pattern 3: nie lubić + GENITIVE (negation)\n\nAfter **nie**, the direct object changes from accusative to **genitive** (this is a general Polish rule for negation).\n\n| Affirmative (accusative) | Negative (genitive) |\n|--------------------------|---------------------|\n| Lubię kawę. | Nie lubię **kawy**. |\n| Lubię mięso. | Nie lubię **mięsa**. |\n| Lubię czekoladę. | Nie lubię **czekolady**. |\n| Lubię mleko. | Nie lubię **mleka**. |\n\n> 🔑 **Key rule:** nie lubić + infinitive stays the same: Nie lubię **gotować**. (no case change for infinitive!)\n\n### Common expressions with lubić\n\n| Polish | English |\n|--------|---------|\n| Bardzo lubię... | I really like... |\n| Niezbyt lubię... | I don't particularly like... |\n| Czy lubisz...? | Do you like...? |\n| Co lubisz robić? | What do you like doing? |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Lubię kawa.* | *Lubię **kawę**.* | lubić + accusative (kawa → kawę) |\n| *Nie lubię kawy gotować.* | *Nie lubię **gotować**.* | nie + infinitive = no change |\n| *Nie lubię mięso.* | *Nie lubię **mięsa**.* | nie = genitive (mięso → mięsa) |\n| *Lubię jeść pizza.* | *Lubię jeść **pizzę**.* | jeść also takes accusative |",
     "notes": [
-      "After 'lubię', infinitive = no case change needed: lubię jeść, lubię czytać.",
-      "After 'lubię' + noun = accusative: lubię kawę, lubię kino.",
-      "After 'nie lubię' + noun = genitive (negation): nie lubię kawy, nie lubię mięsa.",
-      "Common food/activity infinitives: jeść (eat), pić (drink), gotować (cook), chodzić (go), czytać (read)."
+      "lubię + infinitive = to like doing (lubię czytać = I like reading) — infinitive never changes",
+      "lubię + noun = accusative: kawa → kawę; pizza → pizzę; ser/piwo stay unchanged (m inan / n)",
+      "nie lubię + noun = genitive: kawy, mięsa, czekolady, mleka — this is the negation rule",
+      "nie lubię + infinitive = infinitive unchanged: nie lubię gotować (NOT gotowania)"
     ]
   },
-  "explanation_fa": "فعل lubić (دوست داشتن) با دو ساختار: 1) lubić + مصدر: Lubię czytać (دوست دارم بخوانم). 2) lubić + حالت مفعولی: Lubię kawę (قهوه دوست دارم). شکل منفی: Nie lubię + مضاف‌الیهی: Nie lubię kawy (قهوه دوست ندارم).",
+  "explanation_fa": "## lubić — دوست داشتن با مصدر و اسم\n\nفعل **lubić** (دوست داشتن) یکی از پرکاربردترین افعال لهستانی است. بسته به اینکه آیا دوست دارید یک کار *انجام دهید* (مصدر) یا یک *چیز/شخص را* دوست دارید (مفعولی)، دو الگوی کاملاً متفاوت دارد.\n\n### صرف lubić (گروه ۲: -ię/-isz)\n\n| شخص | لهستانی | فارسی |\n|------|---------|-------|\n| ja | **lubię** | دوست دارم |\n| ty | **lubisz** | دوست داری |\n| on / ona / ono | **lubi** | دوست دارد |\n| my | **lubimy** | دوست داریم |\n| wy | **lubicie** | دوست دارید |\n| oni / one | **lubią** | دوست دارند |\n\n### الگوی ۱: lubić + مصدر (دوست داشتن انجام کاری)\n\nوقتی از انجام یک فعالیت لذت می‌برید، از lubić + مصدر استفاده کنید (نیازی به تغییر حالت ندارید).\n\n| لهستانی | فارسی |\n|---------|-------|\n| Lubię **jeść**. | دوست دارم بخورم. |\n| Lubię **czytać**. | دوست دارم بخوانم. |\n| Lubię **gotować**. | دوست دارم آشپزی کنم. |\n| Lubię **słuchać** muzyki. | دوست دارم موسیقی گوش دهم. |\n| Ona lubi **pływać**. | او دوست دارد شنا کند. |\n\n### الگوی ۲: lubić + مفعولی (دوست داشتن چیزی/کسی)\n\nوقتی یک *چیز یا شخص خاص* را دوست دارید، از lubić + مفعولی استفاده کنید.\n\n| فاعلی | مفعولی | مثال |\n|--------|--------|------|\n| kawa (مؤ) | kawę | Lubię **kawę**. = قهوه دوست دارم. |\n| herbata (مؤ) | herbatę | Lubię **herbatę**. = چای دوست دارم. |\n| pizza (مؤ) | pizzę | Lubię **pizzę**. = پیتزا دوست دارم. |\n| piwo (خ) | piwo | Lubię **piwo**. = آبجو دوست دارم. |\n| ser (م غیرجاندار) | ser | Lubię **ser**. = پنیر دوست دارم. |\n\n### الگوی ۳: nie lubić + مضاف‌الیهی (منفی)\n\nبعد از **nie** (نه)، مفعول مستقیم از مفعولی به **مضاف‌الیهی** تغییر می‌کند (این قانون کلی لهستانی برای منفی‌سازی است).\n\n| مثبت (مفعولی) | منفی (مضاف‌الیهی) |\n|---------------|-------------------|\n| Lubię kawę. | Nie lubię **kawy**. |\n| Lubię mięso. | Nie lubię **mięsa**. |\n| Lubię czekoladę. | Nie lubię **czekolady**. |\n\n> 🔑 **قانون کلیدی:** nie lubić + مصدر بدون تغییر می‌ماند: Nie lubię **gotować**. (مصدر تغییر نمی‌کند!)\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Lubię kawa.* | *Lubię **kawę**.* | lubić + مفعولی (kawa → kawę) |\n| *Nie lubię mięso.* | *Nie lubię **mięsa**.* | nie = مضاف‌الیهی (mięso → mięsa) |\n| *Nie lubię gotowania.* | *Nie lubię **gotować**.* | nie + مصدر = بدون تغییر |",
   "exercises": [
     {
       "id": "a1-ch07-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Lubię ___ (I like coffee). [kawa → accusative]",
+      "prompt": "Kasia orders coffee every morning — she really likes it. Complete: Lubię ___ (I like coffee). [kawa → accusative]",
+      "prompt_fa": "کاسیا هر صبح قهوه سفارش می‌دهد — واقعاً آن را دوست دارد. کامل کنید: Lubię ___ (قهوه دوست دارم). [kawa → مفعولی]",
       "options": [
         "kawę",
         "kawa",
@@ -30,24 +31,35 @@
         "kawie"
       ],
       "correctIndex": 0,
-      "explanation": "'Lubić + accusative': kawa (f) → kawę. 'Lubię kawę' = I like coffee."
+      "explanation": "'Lubić + accusative': kawa (f) → kawę. 'Lubię kawę' = I like coffee. Feminine -a nouns take -ę in accusative.",
+      "explanation_fa": "'Lubić + مفعولی': kawa (مؤنث) → kawę. 'Lubię kawę' = قهوه دوست دارم. اسم‌های مؤنث با پسوند -a در مفعولی -ę می‌گیرند."
     },
     {
       "id": "a1-ch07-l04-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Nie ___ mięsa. (I don't like meat.) [nie lubić + genitive]",
       "answer": "lubię",
       "acceptableAnswers": [
         "lubię"
       ],
-      "hint": "Conjugate lubić for 'ja' form"
+      "hint": "Conjugate lubić for 'ja' (first person singular)",
+      "explanation": "Nie + lubić (ja) = 'nie lubię'. 'Nie lubię mięsa' = I don't like meat. After negation, the object takes genitive: mięso → mięsa.",
+      "explanation_fa": "Nie + lubić (ja) = 'nie lubię'. 'Nie lubię mięsa' = گوشت دوست ندارم. بعد از منفی، مفعول مضاف‌الیهی می‌گیرد: mięso → mięsa.",
+      "context": "Marek avoids meat completely. Complete:",
+      "context_fa": "ماریک کاملاً از گوشت پرهیز می‌کند. کامل کنید:",
+      "sentence": "Nie ___ mięsa.",
+      "translation": "(I don't like meat.) [nie lubić + genitive]",
+      "translation_fa": "(گوشت دوست ندارم.) [nie lubić + مضاف‌الیهی]",
+      "prompt": "Nie ___ mięsa.",
+      "prompt_fa": "Nie ___ mięsa."
     },
     {
       "id": "a1-ch07-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch07/a1-ch07-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Lubię chodzić do restauracji.",
         "Lubię chodzić restauracja.",
@@ -55,21 +67,20 @@
         "Lubiłem chodzić do restauracji."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Lubię chodzić do restauracji.' — I like going to restaurants. 'Lubić + infinitive': chodzić. 'Do + genitive': restauracji."
+      "explanation": "You heard: 'Lubię chodzić do restauracji.' — I like going to restaurants. 'Lubić + infinitive': chodzić. 'Do + genitive': restauracji.",
+      "explanation_fa": "شنیدید: 'Lubię chodzić do restauracji.' — دوست دارم به رستوران بروم. 'Lubić + مصدر': chodzić. 'Do + مضاف‌الیهی': restauracji."
     },
     {
       "id": "a1-ch07-l04-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: She doesn't like cooking.",
+      "prompt": "Tap the words in order: She doesn't like cooking.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: او آشپزی را دوست ندارد.",
       "wordBank": [
         "Ona",
-        "lubi",
         "nie",
-        "lubię",
-        "gotować",
-        "gotowania",
-        "gotuje"
+        "lubi",
+        "gotować"
       ],
       "correctSequences": [
         [
@@ -79,13 +90,15 @@
           "gotować"
         ]
       ],
-      "explanation": "'Ona nie lubi gotować' = She doesn't like cooking. 'Nie + lubić (lubi for ona) + infinitive'. The infinitive (gotować) stays unchanged."
+      "explanation": "'Ona nie lubi gotować' = She doesn't like cooking. 'Nie + lubi (ona form) + infinitive'. The infinitive gotować stays unchanged after nie.",
+      "explanation_fa": "'Ona nie lubi gotować' = او آشپزی را دوست ندارد. 'Nie + lubi (شکل سوم مفرد) + مصدر'. مصدر gotować بعد از nie تغییر نمی‌کند."
     },
     {
       "id": "a1-ch07-l04-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "My ___ jeść sushi. (We like eating sushi.)",
+      "prompt": "Tomek and Ania both enjoy cooking on Sundays. Complete: My ___ gotować. (We like cooking.)",
+      "prompt_fa": "تامک و آنیا هر دو از آشپزی در روزهای یکشنبه لذت می‌برند. کامل کنید: My ___ gotować. (ما آشپزی را دوست داریم.)",
       "options": [
         "lubimy",
         "lubię",
@@ -93,7 +106,98 @@
         "lubisz"
       ],
       "correctIndex": 0,
-      "explanation": "'Lubić' Group 2: my → lubimy. 'Lubimy jeść sushi' = We like eating sushi. 'Jeść' = infinitive (to eat)."
+      "explanation": "'Lubić' Group 2: my → 'lubimy'. 'Lubimy gotować' = We like cooking. Infinitive (gotować) follows unchanged.",
+      "explanation_fa": "'Lubić' گروه ۲: my → 'lubimy'. 'Lubimy gotować' = ما آشپزی را دوست داریم. مصدر (gotować) بدون تغییر می‌آید."
+    },
+    {
+      "id": "a1-ch07-l04-ex06",
+      "type": "fill_blank",
+      "order": 6,
+      "answer": "czekolady",
+      "acceptableAnswers": [
+        "czekolady"
+      ],
+      "hint": "After nie lubię, nouns take genitive: czekolada (f -a) → genitive: -y",
+      "explanation": "'Czekolada' (f -a) → genitive: 'czekolady'. After negation (nie lubię), the direct object takes genitive. 'Nie lubię czekolady' = I don't like chocolate.",
+      "explanation_fa": "'Czekolada' (مؤنث -a) → مضاف‌الیهی: 'czekolady'. بعد از منفی (nie lubię)، مفعول مستقیم مضاف‌الیهی می‌گیرد. 'Nie lubię czekolady' = شکلات دوست ندارم.",
+      "context": "Kasia doesn't like chocolate. Complete:",
+      "context_fa": "کاسیا شکلات دوست ندارد. کامل کنید:",
+      "sentence": "Nie lubię ___.",
+      "translation": "(chocolate — negation) [czekolada → genitive]",
+      "translation_fa": "(شکلات — منفی) [czekolada → مضاف‌الیهی]",
+      "prompt": "Nie lubię ___.",
+      "prompt_fa": "Nie lubię ___."
+    },
+    {
+      "id": "a1-ch07-l04-ex07",
+      "type": "multiple_choice",
+      "order": 7,
+      "prompt": "Ania loves swimming in the sea. Which is correct: Lubię ___ w morzu.",
+      "prompt_fa": "آنیا عاشق شنا در دریا است. کدام درست است: Lubię ___ w morzu.",
+      "options": [
+        "pływać",
+        "pływanie",
+        "pływania",
+        "pływam"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Lubić + infinitive' for activities: 'Lubię pływać' = I like swimming. The infinitive 'pływać' never changes form after lubię. 'Pływanie' is a verbal noun (different structure).",
+      "explanation_fa": "'Lubić + مصدر' برای فعالیت‌ها: 'Lubię pływać' = شنا کردن را دوست دارم. مصدر 'pływać' بعد از lubię هیچوقت تغییر نمی‌کند. 'Pływanie' اسم مصدری است (ساختار متفاوت)."
+    },
+    {
+      "id": "a1-ch07-l04-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Marek and Tomek ask Ania about her preferences. Which question is correct?",
+      "prompt_fa": "ماریک و تامک از آنیا درباره علایقش می‌پرسند. کدام سوال درست است؟",
+      "options": [
+        "Co lubisz jeść?",
+        "Co lubisz jedzenie?",
+        "Co lubisz jedzenia?",
+        "Co lubisz jedzeniu?"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Co lubisz jeść?' = What do you like to eat? 'Lubić + infinitive': jeść = infinitive of 'jedzenie'. This is the correct pattern when asking about activities.",
+      "explanation_fa": "'Co lubisz jeść?' = چه چیزی دوست داری بخوری؟ 'Lubić + مصدر': jeść = مصدر 'jedzenie'. این الگوی درست برای پرسیدن درباره فعالیت‌هاست."
+    },
+    {
+      "id": "a1-ch07-l04-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tap the words in order: I really like pizza.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: من واقعاً پیتزا را دوست دارم.",
+      "wordBank": [
+        "Bardzo",
+        "lubię",
+        "pizzę",
+        "pizza"
+      ],
+      "correctSequences": [
+        [
+          "Bardzo",
+          "lubię",
+          "pizzę"
+        ]
+      ],
+      "explanation": "'Bardzo lubię pizzę' = I really like pizza. 'Bardzo' = very/really. 'Pizza' (f -a) → accusative 'pizzę'. 'Lubić + accusative' for liking things.",
+      "explanation_fa": "'Bardzo lubię pizzę' = من واقعاً پیتزا را دوست دارم. 'Bardzo' = خیلی/واقعاً. 'Pizza' (مؤنث -a) → مفعولی 'pizzę'. 'Lubić + مفعولی' برای دوست داشتن چیزها."
+    },
+    {
+      "id": "a1-ch07-l04-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch07/a1-ch07-l04-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Nie lubię mięsa, ale lubię ryby.",
+        "Nie lubię mięso, ale lubię ryby.",
+        "Nie lubię mięsa, ale lubię rybę.",
+        "Nie lubię mięsa, ale lubię ryba."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Nie lubię mięsa, ale lubię ryby.' — I don't like meat, but I like fish. 'Mięso' → genitive 'mięsa' after nie. 'Ryba' (f) → accusative 'rybę'... wait — 'ryby' here is genitive plural used as accusative plural for food in general (lub. + gen. pl. for foods).",
+      "explanation_fa": "شنیدید: 'Nie lubię mięsa, ale lubię ryby.' — گوشت دوست ندارم، اما ماهی دوست دارم. 'Mięso' → مضاف‌الیهی 'mięsa' بعد از nie. 'Ryby' مضاف‌الیهی جمع است که برای غذاها به صورت کلی استفاده می‌شود."
     }
   ],
   "xpReward": 20,
@@ -103,6 +207,7 @@
     "infinitive",
     "accusative",
     "negation",
+    "genitive",
     "a1-core"
   ],
   "prerequisites": [

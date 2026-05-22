@@ -6,23 +6,24 @@
   "title": "Present Tense — Group 2 Verbs (-ę / -isz / -ysz)",
   "title_fa": "زمان حال — گروه ۲ (-ę/-isz/-ysz)",
   "grammarPoint": "Group 2 verbs: mówić, robić, chodzić, uczyć się — present tense conjugation",
-  "grammarPoint_fa": "صرف افعال گروه دوم: mówić، robić، pisać، czytać",
+  "grammarPoint_fa": "صرف افعال گروه دوم: mówić، robić، chodzić، uczyć się",
   "explanation": {
-    "text": "**Group 2** verbs have the pattern **-ę / -isz (or -ysz)** in the present tense. The infinitive typically ends in **-ić** or **-yć**.\n\n**Endings for Group 2 (-ę/-isz):**\n\n| Person | Singular | Plural |\n|--------|----------|--------|\n| 1st (ja) | **-ę** | **-imy / -ymy** |\n| 2nd (ty) | **-isz / -ysz** | **-icie / -ycie** |\n| 3rd (on/ona) | **-i / -y** | **-ią** |\n\n**Key Group 2 verbs:**\n\n| Infinitive | Meaning | ja form | ty form |\n|-----------|---------|---------|--------|\n| mówić | to speak | mówię | mówisz |\n| robić | to do/make | robię | robisz |\n| chodzić | to go (on foot, habitually) | chodzę | chodzisz |\n| uczyć się | to learn/study | uczę się | uczysz się |\n| lubić | to like | lubię | lubisz |\n| prosić | to ask/request | proszę | prosisz |\n| wozić | to carry/transport | wożę | wozisz |\n\n**Examples:**\n- Mówię po polsku. = I speak Polish.\n- Co robisz? = What are you doing?\n- Chodzę do szkoły. = I go to school (habitually).\n- Uczę się polskiego. = I am learning Polish.",
+    "text": "## Present Tense — Group 2 Verbs\n\n**Group 2** verbs have the pattern **-ę / -isz (or -ysz)** in the present tense. The infinitive typically ends in **-ić** or **-yć**.\n\n### Group 2 endings (-ę/-isz)\n\n| Person | Singular | Plural |\n|--------|----------|--------|\n| 1st (ja) | **-ę** | **-imy / -ymy** |\n| 2nd (ty) | **-isz / -ysz** | **-icie / -ycie** |\n| 3rd (on/ona) | **-i / -y** | **-ią** |\n\n### Key Group 2 verbs with full conjugation\n\n| Infinitive | Meaning | ja | ty | on/ona | my | oni/one |\n|-----------|---------|-----|-----|--------|-----|----------|\n| mówić | to speak | mówię | mówisz | mówi | mówimy | mówią |\n| robić | to do/make | robię | robisz | robi | robimy | robią |\n| chodzić | to go (habitually) | chodzę | chodzisz | chodzi | chodzimy | chodzą |\n| lubić | to like | lubię | lubisz | lubi | lubimy | lubią |\n| prosić | to request | proszę | prosisz | prosi | prosimy | proszą |\n| uczyć się | to learn | uczę się | uczysz się | uczy się | uczymy się | uczą się |\n\n### Group 2 vs Group 1 — how to identify\n\n| Infinitive ending | Group | ja form | ty form |\n|------------------|-------|---------|----------|\n| -ać (most) | **1** | -am | -asz |\n| -ić / -yć | **2** | -ę | -isz / -ysz |\n| -ować | **1** (special) | -uję | -ujesz |\n\n### Reflexive verb: uczyć się (to learn)\n\n'Się' stays with the verb but can move in the sentence:\n\n| Polish | English |\n|--------|---------|\n| *Uczę się polskiego.* | I am learning Polish. |\n| *Uczysz się angielskiego?* | Are you learning English? |\n| *Ona uczy się każdego dnia.* | She learns every day. |\n\n> 🔑 After **uczyć się**, the language goes in the **genitive**: polski → polskiego.\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *mówiam* | *mówię* | Group 2 ja = -ę |\n| *robiamy* | *robimy* | Group 2 my = -imy |\n| *lubiam* | *lubię* | lubić is Group 2 |\n| *uczę polskiego się* | *uczę się polskiego* | się stays with verb |",
     "notes": [
-      "Verbs ending -ić use -ię/-isz; verbs ending -yć use -yę/-ysz. The ja form always gets -ę.",
-      "lubić is Group 2: lubię, lubisz, lubi, lubimy, lubicie, lubią.",
-      "uczyć się = to learn/study (reflexive verb with się).",
-      "chodzić = habitual/regular motion (walk, go regularly); iść = motion happening right now."
+      "Verbs ending -ić use -ę/-isz; verbs ending -yć use -ę/-ysz. The ja form always gets -ę",
+      "lubić is Group 2: lubię, lubisz, lubi, lubimy, lubicie, lubią",
+      "uczyć się = to learn/study (reflexive verb with się; language in genitive after it)",
+      "chodzić = habitual/regular motion; iść = motion happening right now (different verbs!)"
     ]
   },
-  "explanation_fa": "افعال گروه دوم پسوندهای -ę، -isz/-ysz، -i/-y، -imy/-ymy، -icie/-ycie، -ią دارند. مثال: mówić (گفتن) → mówię، mówisz، mówi، mówimy، mówicie، mówią. مصدرهای -ić/-yć اغلب به این گروه تعلق دارند.",
+  "explanation_fa": "## زمان حال — افعال گروه ۲\n\nافعال **گروه ۲** الگوی **-ę / -isz (یا -ysz)** در زمان حال دارند. مصدر معمولاً به **-ić** یا **-yć** ختم می‌شود.\n\n### پسوندهای گروه ۲ (-ę/-isz)\n\n| شخص | مفرد | جمع |\n|------|------|-----|\n| اول (ja) | **-ę** | **-imy / -ymy** |\n| دوم (ty) | **-isz / -ysz** | **-icie / -ycie** |\n| سوم (on/ona) | **-i / -y** | **-ią** |\n\n### افعال کلیدی گروه ۲ با صرف کامل\n\n| مصدر | معنی | ja | ty | on/ona | my | oni/one |\n|------|------|-----|-----|--------|-----|----------|\n| mówić | صحبت کردن | mówię | mówisz | mówi | mówimy | mówią |\n| robić | کردن/ساختن | robię | robisz | robi | robimy | robią |\n| chodzić | رفتن (عادتی) | chodzę | chodzisz | chodzi | chodzimy | chodzą |\n| lubić | دوست داشتن | lubię | lubisz | lubi | lubimy | lubią |\n| uczyć się | یاد گرفتن | uczę się | uczysz się | uczy się | uczymy się | uczą się |\n\n### فعل بازتابی: uczyć się (یاد گرفتن)\n\n'Się' با فعل می‌ماند اما می‌تواند در جمله جابجا شود:\n\n| لهستانی | فارسی |\n|---------|-------|\n| *Uczę się polskiego.* | دارم لهستانی یاد می‌گیرم. |\n| *Uczysz się angielskiego?* | داری انگلیسی یاد می‌گیری؟ |\n\n> 🔑 بعد از **uczyć się**، زبان در **مضاف‌الیهی** می‌آید: polski → polskiego.\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *mówiam* | *mówię* | گروه ۲ ja = -ę |\n| *robiamy* | *robimy* | گروه ۲ my = -imy |\n| *lubiam* | *lubię* | lubić گروه ۲ است |",
   "exercises": [
     {
       "id": "a1-ch05-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Choose the correct form: Ja ___ po angielsku. (I speak English.)",
+      "prompt": "Marek is at a language class. Complete: Ja ___ po angielsku. (I speak English.)",
+      "prompt_fa": "ماریک در کلاس زبان است. کامل کنید: Ja ___ po angielsku. (انگلیسی صحبت می‌کنم.)",
       "options": [
         "mówię",
         "mówisz",
@@ -30,24 +31,35 @@
         "mówimy"
       ],
       "correctIndex": 0,
-      "explanation": "'Mówić' Group 2: ja → mówię. 'Mówię po angielsku' = I speak English."
+      "explanation": "'Mówić' Group 2: ja → mówię (-ę). 'Mówię po angielsku' = I speak English.",
+      "explanation_fa": "'Mówić' گروه ۲: ja → mówię (-ę). 'Mówię po angielsku' = انگلیسی صحبت می‌کنم."
     },
     {
       "id": "a1-ch05-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Co ty ___? (What are you doing?) [robić, ty form]",
       "answer": "robisz",
       "acceptableAnswers": [
         "robisz"
       ],
-      "hint": "Group 2, ty form: -isz"
+      "hint": "Group 2, ty form ends in -isz",
+      "explanation": "'Robić' Group 2: ty → robisz (-isz). 'Co robisz?' = What are you doing?",
+      "explanation_fa": "'Robić' گروه ۲: ty → robisz (-isz). 'Co robisz?' = داری چیکار می‌کنی؟",
+      "context": "Kasia asks her friend:",
+      "context_fa": "کاسیا از دوستش می‌پرسد:",
+      "sentence": "Co ty ___?",
+      "translation": "(What are you doing?) [robić, ty form]",
+      "translation_fa": "(داری چیکار می‌کنی؟) [robić، شکل ty]",
+      "prompt": "Co ty ___?",
+      "prompt_fa": "Co ty ___?"
     },
     {
       "id": "a1-ch05-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch05/a1-ch05-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Uczę się polskiego.",
         "Uczysz się polskiego.",
@@ -55,41 +67,37 @@
         "Uczymy się polskiego."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Uczę się polskiego.' — I am learning Polish. 'Uczyć się' → uczę się (Group 2, ja -ę). 'Polskiego' is genitive (language after uczyć się)."
+      "explanation": "You heard: 'Uczę się polskiego.' — I am learning Polish. 'Uczyć się' → uczę się (Group 2, ja -ę). 'Polskiego' is genitive (language after uczyć się).",
+      "explanation_fa": "شنیدید: 'Uczę się polskiego.' — دارم لهستانی یاد می‌گیرم. 'Uczyć się' → uczę się (گروه ۲، ja -ę). 'Polskiego' مضاف‌الیهی است (زبان بعد از uczyć się)."
     },
     {
       "id": "a1-ch05-l02-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: They like coffee.",
+      "prompt": "Tap the words in order: They like coffee.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: آنها قهوه دوست دارند.",
       "wordBank": [
         "Oni",
-        "One",
         "lubią",
-        "lubię",
         "kawę",
-        "kawa",
-        "kawy"
+        "kawą"
       ],
       "correctSequences": [
         [
           "Oni",
           "lubią",
           "kawę"
-        ],
-        [
-          "One",
-          "lubią",
-          "kawę"
         ]
       ],
-      "explanation": "'Oni/One lubią kawę' = They like coffee. 'Lubić' Group 2: oni/one → lubią (-ią). 'Kawę' = accusative of kawa."
+      "explanation": "'Oni lubią kawę' = They like coffee. 'Lubić' Group 2: oni → lubią (-ią). 'Kawę' = accusative of kawa. 'Kawą' is a distractor (instrumental).",
+      "explanation_fa": "'Oni lubią kawę' = آنها قهوه دوست دارند. 'Lubić' گروه ۲: oni → lubią (-ią). 'Kawę' مفعولی kawa است. 'Kawą' گزینه اضافه است (ابزاری)."
     },
     {
       "id": "a1-ch05-l02-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Which form is correct for 'we go to school' (habitually)?",
+      "prompt": "Ania and her classmates go to school habitually. Which form is correct? (We go to school.)",
+      "prompt_fa": "آنیا و همکلاسی‌هایش هر روز به مدرسه می‌روند. کدام شکل درست است؟ (ما به مدرسه می‌رویم.)",
       "options": [
         "Chodzimy do szkoły.",
         "Chodzę do szkoły.",
@@ -97,7 +105,97 @@
         "Chodzicie do szkoły."
       ],
       "correctIndex": 0,
-      "explanation": "'Chodzimy do szkoły' = We go to school. 'Chodzić' Group 2: my → chodzimy (-imy). 'Do szkoły' = genitive (destination)."
+      "explanation": "'Chodzimy do szkoły' = We go to school (habitually). 'Chodzić' Group 2: my → chodzimy (-imy). 'Do szkoły' = genitive (destination).",
+      "explanation_fa": "'Chodzimy do szkoły' = ما به مدرسه می‌رویم (عادتاً). 'Chodzić' گروه ۲: my → chodzimy (-imy). 'Do szkoły' = مضاف‌الیهی (مقصد)."
+    },
+    {
+      "id": "a1-ch05-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Ania speaks Polish fluently. Complete: Ania ___ po polsku. [mówić]",
+      "prompt_fa": "آنیا به خوبی لهستانی صحبت می‌کند. کامل کنید: Ania ___ po polsku. [mówić]",
+      "options": [
+        "mówi",
+        "mówię",
+        "mówisz",
+        "mówią"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ania = ona → mówi (3rd sg. Group 2). Group 2 pattern: mówię/mówisz/mówi/mówimy/mówicie/mówią.",
+      "explanation_fa": "Ania = ona → mówi (سوم مفرد گروه ۲). الگوی گروه ۲: mówię/mówisz/mówi/mówimy/mówicie/mówią."
+    },
+    {
+      "id": "a1-ch05-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "chodzi",
+      "acceptableAnswers": [
+        "chodzi"
+      ],
+      "hint": "chodzić is Group 2: on/ona → chodzi",
+      "explanation": "'Chodzi' = he/she walks habitually (3rd sg. of chodzić, Group 2). 'Tomek chodzi do szkoły' = Tomek walks to school.",
+      "explanation_fa": "'Chodzi' = او معمولاً پیاده می‌رود (سوم مفرد chodzić، گروه ۲). 'Tomek chodzi do szkoły' = تامک پیاده به مدرسه می‌رود.",
+      "context": "Tomek walks to school every day:",
+      "context_fa": "تامک هر روز پیاده به مدرسه می‌رود:",
+      "sentence": "Tomek ___ do szkoły codziennie.",
+      "translation": "[chodzić, on form]",
+      "translation_fa": "[chodzić، شکل on]",
+      "prompt": "Tomek ___ do szkoły codziennie.",
+      "prompt_fa": "Tomek ___ do szkoły codziennie."
+    },
+    {
+      "id": "a1-ch05-l02-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Which verb belongs to Group 2 (-ę/-isz)?",
+      "prompt_fa": "کدام فعل به گروه ۲ (-ę/-isz) تعلق دارد؟",
+      "options": [
+        "mówić",
+        "czytać",
+        "grać",
+        "mieszkać"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mówić' is Group 2: mówię/mówisz/mówi. Group 1 verbs (-am/-asz): czytać, grać, mieszkać, słuchać. Group 2 has -ę/-isz or -ę/-ysz endings.",
+      "explanation_fa": "'Mówić' گروه ۲ است: mówię/mówisz/mówi. افعال گروه ۱ (-am/-asz): czytać، grać، mieszkać، słuchać. گروه ۲ پسوندهای -ę/-isz یا -ę/-ysz دارد."
+    },
+    {
+      "id": "a1-ch05-l02-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Marek tells Kasia she does her homework. Arrange: You do your homework.",
+      "prompt_fa": "مارک به کاسیا می‌گوید که تکالیفش را انجام می‌دهد. کلمات را به ترتیب بزنید: تو تکالیفت را انجام می‌دهی.",
+      "wordBank": [
+        "Robisz",
+        "lekcje",
+        "lekcji",
+        "robię"
+      ],
+      "correctSequences": [
+        [
+          "Robisz",
+          "lekcje"
+        ]
+      ],
+      "explanation": "'Robisz lekcje' = You do your homework. Robić (Group 2): ty → robisz. 'Lekcje' = accusative plural of lekcja (homework/lessons).",
+      "explanation_fa": "'Robisz lekcje' = تکالیفت را انجام می‌دهی. robić (گروه ۲): ty → robisz. 'Lekcje' = مفعولی جمع lekcja (تکالیف/درس‌ها)."
+    },
+    {
+      "id": "a1-ch05-l02-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch05/a1-ch05-l02-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Kasia uczy się polskiego i angielskiego.",
+        "Kasia uczy polskiego i angielskiego.",
+        "Kasia uczę się polskiego i angielskiego.",
+        "Kasia uczysz się polskiego i angielskiego."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Kasia uczy się polskiego i angielskiego.' — Kasia studies Polish and English. 'Uczyć się' = to learn/study (reflexive). Ona → uczy się.",
+      "explanation_fa": "شنیدید: 'Kasia uczy się polskiego i angielskiego.' — کاسیا لهستانی و انگلیسی درس می‌خواند. 'Uczyć się' = یاد گرفتن/درس خواندن (بازتابی). ona → uczy się."
     }
   ],
   "xpReward": 20,

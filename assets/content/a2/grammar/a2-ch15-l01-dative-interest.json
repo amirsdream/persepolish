@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Ten hotel ___ nam się. (We like this hotel.) [podobać się, singular subject]",
+      "prompt_fa": "Ten hotel ___ nam się. (ما این هتل را دوست داریم.) [podobać się، فاعل مفرد]",
       "options": [
         "podoba",
         "podobają",
@@ -30,24 +31,35 @@
         "lubimy"
       ],
       "correctIndex": 0,
-      "explanation": "Singular subject 'ten hotel' → 'podoba' (singular verb). 'Podoba nam się' = It pleases us / We like it. 'Podobają' would be for plural subjects."
+      "explanation": "Singular subject 'ten hotel' → 'podoba' (singular verb). 'Podoba nam się' = It pleases us / We like it. 'Podobają' would be for plural subjects.",
+      "explanation_fa": "فاعل مفرد 'ten hotel' → فعل مفرد 'podoba'. podoba nam się = ما آن را دوست داریم. اگر فاعل جمع بود، از 'podobają' استفاده می‌شود."
     },
     {
       "id": "a2-ch15-l01-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Podobają ___ te obrazy. (She likes these paintings.) [dative pronoun for 'jej']",
-      "answer": "jej",
+      "context": "Polish. Complete with the correct dative pronoun:",
+      "context_fa": "لهستانی. ضمیر دادی صحیح را تکمیل کنید:",
+      "sentence": "Podobają ___ te obrazy.",
+      "translation": "(She likes these paintings.) [dative pronoun for her]",
+      "translation_fa": "(او این تابلوها را دوست دارد.) [ضمیر دادی برای 'او — مؤنث']",
+      "prompt": "Podobają ___ te obrazy.",
+      "prompt_fa": "Podobają ___ te obrazy.",
+      "answer": "jej się",
       "acceptableAnswers": [
         "jej się",
         "jej"
       ],
-      "hint": "Dative pronoun for 'she/her': jej. 'Podobają jej się' = she likes them."
+      "hint": "Dative pronoun for 'she/her': jej. 'Podobają jej się' = she likes them.",
+      "explanation": "'Podobają jej się te obrazy.' — She likes these paintings. Plural subject 'te obrazy' → 'podobają'. 'Jej' = dative of 'ona'.",
+      "explanation_fa": "ضمیر دادی 'ona' = jej. فاعل جمع 'te obrazy' → فعل 'podobają'. ساختار: Podobają jej się."
     },
     {
       "id": "a2-ch15-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch15/a2-ch15-l01-ex03.mp3",
       "options": [
         "Czy podoba ci się ta piosenka?",
@@ -56,13 +68,15 @@
         "Czy podobają ci się te piosenki?"
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Czy podoba ci się ta piosenka?' — Do you like this song? Singular 'ta piosenka' → 'podoba' (sing). 'Ci się' = to you (dative)."
+      "explanation": "You heard: 'Czy podoba ci się ta piosenka?' — Do you like this song? Singular 'ta piosenka' → 'podoba' (sing). 'Ci się' = to you (dative).",
+      "explanation_fa": "شنیدید: 'Czy podoba ci się ta piosenka?' — آیا این آهنگ را دوست داری؟ فاعل مفرد → podoba. ci = ضمیر دادی 'تو'."
     },
     {
       "id": "a2-ch15-l01-ex04",
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: The noise bothers me. (przeszkadzać, hałas — nominative subject)",
+      "prompt_fa": "بسازید: سروصدا مرا اذیت می‌کند. (przeszkadzać، hałas — فاعل صرفی)",
       "wordBank": [
         "Przeszkadza",
         "Przeszkadzają",
@@ -80,13 +94,15 @@
           "hałas"
         ]
       ],
-      "explanation": "'Przeszkadza mi hałas.' — The noise bothers me. 'Hałas' (noise, m sing) = nominative subject → singular verb 'przeszkadza'. 'Mi' = dative (me/to me)."
+      "explanation": "'Przeszkadza mi hałas.' — The noise bothers me. 'Hałas' (noise, m sing) = nominative subject → singular verb 'przeszkadza'. 'Mi' = dative (me/to me).",
+      "explanation_fa": "'Przeszkadza mi hałas.' — سروصدا مرا اذیت می‌کند. hałas فاعل مفرد → فعل مفرد przeszkadza. mi = ضمیر دادی."
     },
     {
       "id": "a2-ch15-l01-ex05",
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Zależy mi ___ tej przyjaźni. (I care about this friendship.) [zależy na + locative]",
+      "prompt_fa": "Zależy mi ___ tej przyjaźni. (برایم این دوستی مهم است.) [zależy na + مکانی]",
       "options": [
         "na",
         "o",
@@ -94,7 +110,105 @@
         "do"
       ],
       "correctIndex": 0,
-      "explanation": "'Zależy mi na + locative': 'na tej przyjaźni' (przyjaźń → locative: przyjaźni). 'Zależy mi na' = I care about / it matters to me."
+      "explanation": "'Zależy mi na + locative': 'na tej przyjaźni' (przyjaźń → locative: przyjaźni). 'Zależy mi na' = I care about / it matters to me.",
+      "explanation_fa": "ساختار zależy mi na + مکانی: na tej przyjaźni (przyjaźń → مکانی: przyjaźni). zależy mi na = برایم مهم است."
+    },
+    {
+      "id": "a2-ch15-l01-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasi ___ ta nowa kawiarnia. (Kasia likes this new café.) [podobać się, singular]",
+      "prompt_fa": "Kasi ___ ta nowa kawiarnia. (کاسیا این کافه جدید را دوست دارد.) [podobać się، مفرد]",
+      "options": [
+        "podoba się",
+        "podobają się",
+        "lubi",
+        "podobam się"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ta nowa kawiarnia' is singular → 'podoba się'. 'Kasi' = dative of 'Kasia' (the person who likes). Never 'lubi' here — Polish uses the dative-of-interest structure.",
+      "explanation_fa": "فاعل مفرد 'ta nowa kawiarnia' → podoba się. 'Kasi' = دادی Kasia. نمی‌توان از 'lubi' استفاده کرد زیرا این ساختار دادی علاقه است."
+    },
+    {
+      "id": "a2-ch15-l01-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Polish. Complete with the correct verb form:",
+      "context_fa": "لهستانی. شکل صحیح فعل را تکمیل کنید:",
+      "sentence": "Tomkowi ___ nowe gry komputerowe.",
+      "translation": "(Tomek likes new computer games.) [plural subject — podobają się]",
+      "translation_fa": "(تومک بازی‌های کامپیوتری جدید را دوست دارد.) [فاعل جمع — podobają się]",
+      "prompt": "Tomkowi ___ nowe gry komputerowe.",
+      "prompt_fa": "Tomkowi ___ nowe gry komputerowe.",
+      "answer": "podobają się",
+      "acceptableAnswers": [
+        "podobają się",
+        "podobają"
+      ],
+      "hint": "Plural subject 'nowe gry' → plural verb 'podobają się'.",
+      "explanation": "'Tomkowi podobają się nowe gry komputerowe.' — Tomek likes new computer games. Plural 'nowe gry' → 'podobają się'. 'Tomkowi' = dative of 'Tomek'.",
+      "explanation_fa": "فاعل جمع 'nowe gry' → فعل جمع 'podobają się'. Tomkowi = دادی Tomek."
+    },
+    {
+      "id": "a2-ch15-l01-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch15/a2-ch15-l01-ex08.mp3",
+      "options": [
+        "Nie podoba mi się ta pogoda.",
+        "Nie podobają mi się te pogody.",
+        "Nie lubię tej pogody.",
+        "Nie podoba się mi ta pogoda."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Nie podoba mi się ta pogoda.' — I don't like this weather. Singular 'ta pogoda' → singular 'podoba'. Negation: nie podoba mi się.",
+      "explanation_fa": "شنیدید: 'Nie podoba mi się ta pogoda.' — این هوا را دوست ندارم. فاعل مفرد → podoba. نفی: nie podoba mi się."
+    },
+    {
+      "id": "a2-ch15-l01-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: Ania cares about her studies. [zależy na + locative]",
+      "prompt_fa": "بسازید: آنیا به درس‌هایش اهمیت می‌دهد. [zależy na + مکانی]",
+      "wordBank": [
+        "Ani",
+        "Ania",
+        "zależy",
+        "na",
+        "o",
+        "nauce",
+        "naukę",
+        "mi",
+        "jej"
+      ],
+      "correctSequences": [
+        [
+          "Ani",
+          "zależy",
+          "na",
+          "nauce"
+        ]
+      ],
+      "explanation": "'Ani zależy na nauce.' — Ania cares about her studies. 'Ani' = dative of 'Ania'. 'Na nauce' = locative of 'nauka' (studies). 'Zależy na + locative'.",
+      "explanation_fa": "Ani = دادی Ania. nauce = مکانی nauka. ساختار: [دادی] zależy na [مکانی]."
+    },
+    {
+      "id": "a2-ch15-l01-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Marku ___ nowe buty, które kupiłeś. (Marek, I like the new shoes you bought.) [podoba/podobają?]",
+      "prompt_fa": "Marku ___ nowe buty, które kupiłeś. (مارک، کفش‌های جدیدی که خریدی را دوست دارم.) [podoba یا podobają؟]",
+      "options": [
+        "podobają mi się",
+        "podoba mi się",
+        "lubię",
+        "podobam się"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nowe buty' = plural (shoes) → 'podobają się' (plural verb). 'Mi' = dative (I'm the one who likes). 'Podobają mi się nowe buty' = I like the new shoes.",
+      "explanation_fa": "'nowe buty' جمع است → فعل جمع 'podobają się'. mi = دادی (من کسی هستم که دوست دارد)."
     }
   ],
   "xpReward": 20,

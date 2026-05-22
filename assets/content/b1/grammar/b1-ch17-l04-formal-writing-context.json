@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch17-l04-formal-writing-context",
+  "chapter": 17,
+  "lessonOrder": 4,
+  "level": "b1",
+  "title": "Formal Writing in Context",
+  "title_fa": "نوشتار رسمی در متن",
+  "grammarPoint": "Reading and analyzing real formal texts: job applications, official requests, complaints; register markers",
+  "grammarPoint_fa": "خواندن و تحلیل متن‌های رسمی واقعی: درخواست شغلی، درخواست رسمی، شکایت؛ نشانگرهای سبک",
+  "explanation": {
+    "text": "**Recognizing formal register markers in Polish texts:**\n\n**Formal vocabulary vs. informal:**\n| Formal | Informal | Meaning |\n|--------|----------|--------|\n| pragnę | chcę | I want/wish |\n| uprzejmie proszę | proszę | I request |\n| informuję | mówię | I inform/tell |\n| niniejszym | tym | hereby |\n| wyrażam zgodę | zgadzam się | I agree |\n| w załączeniu | w załączniku | attached |\n| dotyczy | chodzi o | concerns, is about |\n\n**Sample formal text — job application:**\n\n*Szanowny Panie Dyrektorze,*\n\n*Zwracam się do Pana z prośbą o rozpatrzenie mojej kandydatury na stanowisko tłumacza w Państwa firmie. Posiadam 5-letnie doświadczenie w tłumaczeniach pisemnych oraz certyfikat językowy C1. W załączeniu przesyłam swoje CV oraz list motywacyjny.*\n\n*Licząc na pozytywne rozpatrzenie mojej prośby, pozostaję z poważaniem,*\n\n**Register markers in this text:**\n- Szanowny Panie Dyrektorze — formal salutation + vocative\n- Zwracam się z prośbą o... — formal request structure\n- Posiadam (not mam) — elevated vocabulary\n- W załączeniu przesyłam — formal 'I am sending attached'\n- Licząc na... pozostaję — formal closing formula\n\n**Types of formal texts you'll encounter:**\n1. **Podanie** (application, formal request) — to an institution\n2. **List motywacyjny** (motivation letter) — for jobs\n3. **Reklamacja** (complaint) — formal complaint\n4. **Pismo urzędowe** (official correspondence) — with offices",
+    "notes": [
+      "Formal Polish uses longer, more complex sentences than spoken language",
+      "'Niniejszym' (hereby) is a strong formality marker — only in official documents",
+      "'Posiadam' sounds more formal than 'mam' — both mean 'I have'",
+      "Always use passive or impersonal constructions to reduce directness in formal texts"
+    ]
+  },
+  "explanation_fa": "نشانگرهای سبک رسمی در متن: واژگان رسمی (pragnę، uprzejmie proszę، posiadam) در برابر غیررسمی (chcę، proszę، mam). نمونه متن — درخواست شغلی: Zwracam się z prośbą o... (با درخواست مراجعه می‌کنم)، W załączeniu przesyłam (در پیوست ارسال می‌کنم)، Licząc na pozytywne rozpatrzenie (با امید به بررسی مثبت). انواع متن رسمی: podanie (درخواست رسمی)، list motywacyjny (نامه انگیزشی)، reklamacja (شکایت)، pismo urzędowe (مکاتبات اداری).",
+  "exercises": [
+    {
+      "id": "b1-ch17-l04-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "In a formal letter: 'Zwracam się do Pana z prośbą o ___' (meeting, gen. of 'spotkanie'):",
+      "prompt_fa": "در نامه رسمی: 'Zwracam się do Pana z prośbą o ___' (جلسه، مضاف‌الیه 'spotkanie'):",
+      "options": [
+        "spotkanie (accusative after 'o' = request for)",
+        "spotkania (genitive — wrong case here)",
+        "spotkaniu (locative — wrong)",
+        "spotkaniem (instrumental — wrong)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Prośba o + accusative' = request for. 'Spotkanie' is already neuter acc. = nominative form. 'Zwracam się z prośbą o spotkanie.'",
+      "explanation_fa": "'Prośba o + مفعولی' = درخواست برای. 'Spotkanie' قبلاً مفعولی خنثی = شکل فاعلی است. 'Zwracam się z prośbą o spotkanie.'"
+    },
+    {
+      "id": "b1-ch17-l04-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Formal register: 'I have 5 years of experience.' Use formal 'posiadać' (I have) instead of 'mam':",
+      "context_fa": "سبک رسمی: 'من ۵ سال تجربه دارم.' از 'posiadać' رسمی (دارم) به جای 'mam' استفاده کنید:",
+      "sentence": "___ 5-letnie doświadczenie.",
+      "prompt": "___ 5-letnie doświadczenie.",
+      "prompt_fa": "___ 5-letnie doświadczenie.",
+      "answer": "Posiadam",
+      "acceptableAnswers": ["Posiadam", "posiadam"],
+      "hint": "posiadać (to possess, formal have) → 1st sg: posiadam",
+      "explanation": "'Posiadam 5-letnie doświadczenie.' — I have 5 years of experience. 'Posiadać' is the formal alternative to 'mieć' in professional writing.",
+      "explanation_fa": "'Posiadam 5-letnie doświadczenie.' — من ۵ سال تجربه دارم. 'Posiadać' جایگزین رسمی 'mieć' در نوشتار حرفه‌ای است."
+    },
+    {
+      "id": "b1-ch17-l04-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch17/b1-ch17-l04-ex03.mp3",
+      "prompt": "Which formal phrase did you hear?",
+      "prompt_fa": "کدام عبارت رسمی را شنیدید؟",
+      "options": [
+        "Licząc na pozytywną odpowiedź, pozostaję z poważaniem.",
+        "Czekając na odpowiedź, zostanę z szacunkiem.",
+        "Liczę na dobrą odpowiedź i zostanę z poważaniem.",
+        "Licząc na odpowiedź pozytywną, pozostaję poważnie."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Licząc na pozytywną odpowiedź, pozostaję z poważaniem.' — Hoping for a positive reply, I remain (yours) sincerely. A fixed formal closing formula.",
+      "explanation_fa": "'Licząc na pozytywną odpowiedź, pozostaję z poważaniem.' — با امید به پاسخ مثبت، با احترام می‌مانم. فرمول ثابت خاتمه رسمی."
+    },
+    {
+      "id": "b1-ch17-l04-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build the formal subject line: 'Request for a meeting'",
+      "prompt_fa": "موضوع رسمی را بسازید: 'درخواست برای جلسه'",
+      "wordBank": ["Prośba", "o", "spotkanie", "Pytanie", "Temat", "spotkania", "proszę"],
+      "correctSequences": [["Prośba", "o", "spotkanie"]],
+      "explanation": "'Prośba o spotkanie' — Request for a meeting. As an email subject line: 'Temat: Prośba o spotkanie.' 'Prośba o + accusative' = request for.",
+      "explanation_fa": "'Prośba o spotkanie' — درخواست برای جلسه. به عنوان موضوع ایمیل: 'Temat: Prośba o spotkanie.' 'Prośba o + مفعولی' = درخواست برای."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["formal-writing", "reading-comprehension", "register", "b1-core"],
+  "prerequisites": ["b1-ch17-l01", "b1-ch17-l02", "b1-ch17-l03"]
+}

@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Wczoraj ___ w parku. (I (f) walked in the park yesterday.) [chodzić, ja f past]",
+      "prompt_fa": "دیروز ___ در پارک. (من [مؤنث] دیروز در پارک قدم زدم.) [chodzić، اول شخص مفرد مؤنث گذشته]",
       "options": [
         "chodziłam",
         "chodzę",
@@ -30,23 +31,34 @@
         "chodziła"
       ],
       "correctIndex": 0,
-      "explanation": "'Chodzić' past feminine ja: chodziłam (-łam ending). Compare masculine: chodziłem."
+      "explanation": "'Chodzić' past feminine ja: chodziłam (-łam ending). Compare masculine: chodziłem.",
+      "explanation_fa": "گذشته مؤنث اول شخص مفرد فعل chodzić: chodziłam (پسوند -łam). مقایسه مذکر: chodziłem."
     },
     {
       "id": "a2-ch11-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Ona ___ w tej firmie przez pięć lat. (She worked in this company for five years.) [pracować, ona past]",
+      "context": "Kasia talks about her colleague. Complete:",
+      "context_fa": "کاسیا درباره همکارش صحبت می‌کند. کامل کنید:",
+      "sentence": "Ona ___ w tej firmie przez pięć lat.",
+      "translation": "(She worked in this company for five years.) [pracować, ona past feminine]",
+      "translation_fa": "(او پنج سال در این شرکت کار کرد.) [pracować، سوم شخص مفرد مؤنث گذشته]",
+      "prompt": "Ona ___ w tej firmie przez pięć lat.",
+      "prompt_fa": "Ona ___ w tej firmie przez pięć lat.",
       "answer": "pracowała",
       "acceptableAnswers": [
         "pracowała"
       ],
-      "hint": "Feminine 3rd person past: -owała (pracować → pracowała)"
+      "hint": "Feminine 3rd person past: -owała (pracować → pracowała)",
+      "explanation": "Feminine 3rd person past of 'pracować': pracowała (-owała ending). 'Przez pięć lat' = for five years.",
+      "explanation_fa": "گذشته مؤنث سوم شخص مفرد فعل pracować: pracowała (پسوند -owała). 'Przez pięć lat' = برای پنج سال."
     },
     {
       "id": "a2-ch11-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch11/a2-ch11-l02-ex03.mp3",
       "options": [
         "Czy czytałaś tę książkę?",
@@ -55,22 +67,22 @@
         "Czy czytałam tę książkę?"
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Czy czytałaś tę książkę?' — Did you (f) read this book? 'Czytać' past feminine ty: czytałaś (-łaś ending)."
+      "explanation": "You heard: 'Czy czytałaś tę książkę?' — Did you (f) read this book? 'Czytać' past feminine ty: czytałaś (-łaś ending).",
+      "explanation_fa": "شنیدید: 'Czy czytałaś tę książkę?' — آیا تو [مؤنث] این کتاب را خواندی؟ گذشته مؤنث دوم شخص مفرد فعل czytać: czytałaś (پسوند -łaś)."
     },
     {
       "id": "a2-ch11-l02-ex04",
       "type": "sentence_builder",
       "order": 4,
       "prompt": "Build: Yesterday she bought a new dress.",
+      "prompt_fa": "بسازید: دیروز او یک پیراهن جدید خرید.",
       "wordBank": [
         "Wczoraj",
         "ona",
         "kupiła",
         "kupił",
         "nową",
-        "nowy",
         "sukienkę",
-        "sukienka",
         "sukienki"
       ],
       "correctSequences": [
@@ -82,13 +94,15 @@
           "sukienkę"
         ]
       ],
-      "explanation": "'Wczoraj ona kupiła nową sukienkę.' — Yesterday she bought a new dress. 'Kupić' past feminine: kupiła. 'Nową sukienkę' = accusative feminine."
+      "explanation": "'Wczoraj ona kupiła nową sukienkę.' — Yesterday she bought a new dress. 'Kupić' past feminine: kupiła. 'Nową sukienkę' = accusative feminine.",
+      "explanation_fa": "'Wczoraj ona kupiła nową sukienkę.' — دیروز او یک پیراهن جدید خرید. گذشته مؤنث فعل kupić: kupiła. 'Nową sukienkę' = مفعول مستقیم مؤنث."
     },
     {
       "id": "a2-ch11-l02-ex05",
       "type": "multiple_choice",
       "order": 5,
       "prompt": "Which sentence is correct for 'She lived in Kraków for a year'?",
+      "prompt_fa": "کدام جمله برای 'او یک سال در کراکوف زندگی کرد' درست است؟",
       "options": [
         "Ona mieszkała w Krakowie przez rok.",
         "Ona mieszkał w Krakowie przez rok.",
@@ -96,7 +110,102 @@
         "Ona mieszkałaś w Krakowie przez rok."
       ],
       "correctIndex": 0,
-      "explanation": "'Mieszkać' past feminine 3rd person (ona): mieszkała. The -ła ending marks feminine. 'Przez rok' = for a year."
+      "explanation": "'Mieszkać' past feminine 3rd person (ona): mieszkała. The -ła ending marks feminine. 'Przez rok' = for a year.",
+      "explanation_fa": "گذشته مؤنث سوم شخص مفرد فعل mieszkać: mieszkała. پسوند -ła نشانه مؤنث است. 'Przez rok' = برای یک سال."
+    },
+    {
+      "id": "a2-ch11-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Ania ___ list do przyjaciółki. (Ania wrote a letter to her friend.) [pisać, ona past]",
+      "prompt_fa": "آنیا ___ برای دوستش نامه نوشت. [pisać، سوم شخص مفرد مؤنث گذشته]",
+      "options": [
+        "pisała",
+        "pisał",
+        "pisałam",
+        "pisałaś"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Pisać' past feminine 3rd person (ona): pisała (-ła ending). 'Pisał' is masculine, 'pisałam' is 1st person feminine.",
+      "explanation_fa": "گذشته مؤنث سوم شخص مفرد فعل pisać: pisała (پسوند -ła). 'Pisał' مذکر است، 'pisałam' اول شخص مؤنث است."
+    },
+    {
+      "id": "a2-ch11-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Tomek asks Kasia about yesterday. Complete:",
+      "context_fa": "تومک از کاسیا درباره دیروز می‌پرسد. کامل کنید:",
+      "sentence": "Czy ty ___ wczoraj do szkoły?",
+      "translation": "(Did you [f] go to school yesterday?) [iść, ty f past]",
+      "translation_fa": "(آیا تو [مؤنث] دیروز به مدرسه رفتی؟) [iść، دوم شخص مفرد مؤنث گذشته]",
+      "prompt": "Czy ty ___ wczoraj do szkoły?",
+      "prompt_fa": "Czy ty ___ wczoraj do szkoły?",
+      "answer": "szłaś",
+      "acceptableAnswers": [
+        "szłaś"
+      ],
+      "hint": "Irregular! iść past feminine ty: szłaś (stem szła + ś)",
+      "explanation": "Irregular verb iść: past feminine ty form is szłaś (stem szła + personal ending -ś). Compare masculine: szedłeś.",
+      "explanation_fa": "فعل نامنظم iść: شکل گذشته مؤنث دوم شخص مفرد: szłaś (بن szła + پسوند شخصی -ś). مقایسه مذکر: szedłeś."
+    },
+    {
+      "id": "a2-ch11-l02-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch11/a2-ch11-l02-ex08.mp3",
+      "options": [
+        "Kasia pracowała do późna wczoraj.",
+        "Kasia pracował do późna wczoraj.",
+        "Kasia pracowałam do późna wczoraj.",
+        "Kasia pracowałaś do późna wczoraj."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Kasia pracowała do późna wczoraj.' — Kasia worked late yesterday. 'Pracować' past feminine 3rd person: pracowała.",
+      "explanation_fa": "شنیدید: 'Kasia pracowała do późna wczoraj.' — کاسیا دیروز تا دیروقت کار کرد. گذشته مؤنث سوم شخص مفرد فعل pracować: pracowała."
+    },
+    {
+      "id": "a2-ch11-l02-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build: She was at the cinema last night.",
+      "prompt_fa": "بسازید: او دیشب در سینما بود.",
+      "wordBank": [
+        "Ona",
+        "była",
+        "był",
+        "w",
+        "kinie",
+        "wczoraj"
+      ],
+      "correctSequences": [
+        [
+          "Ona",
+          "była",
+          "w",
+          "kinie",
+          "wczoraj"
+        ]
+      ],
+      "explanation": "'Ona była w kinie wczoraj.' — She was at the cinema yesterday/last night. 'Być' past feminine: była. 'W kinie' = locative (at the cinema).",
+      "explanation_fa": "'Ona była w kinie wczoraj.' — او دیروز در سینما بود. گذشته مؤنث فعل być: była. 'W kinie' = مکانی (در سینما)."
+    },
+    {
+      "id": "a2-ch11-l02-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Marek zapytał Anię: 'Gdzie ___ przez całe lato?' (Where were you [f] all summer?)",
+      "prompt_fa": "مارک از آنیا پرسید: 'کجا ___ تمام تابستان؟' (کجا بودی [مؤنث] تمام تابستان؟)",
+      "options": [
+        "byłaś",
+        "byłeś",
+        "była",
+        "byłam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marek asks Ania (a woman) using 'ty': 'byłaś' = you (f) were. 'Byłeś' is masculine ty, 'była' is 3rd person, 'byłam' is 1st person feminine.",
+      "explanation_fa": "مارک از آنیا (یک زن) با استفاده از 'ty' می‌پرسد: 'byłaś' = تو [مؤنث] بودی. 'Byłeś' مذکر است، 'była' سوم شخص است، 'byłam' اول شخص مؤنث است."
     }
   ],
   "xpReward": 20,

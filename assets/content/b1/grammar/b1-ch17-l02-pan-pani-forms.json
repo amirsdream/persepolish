@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch17-l02-pan-pani-forms",
+  "chapter": 17,
+  "lessonOrder": 2,
+  "level": "b1",
+  "title": "Pan/Pani as Formal 'You'",
+  "title_fa": "Pan/Pani به عنوان 'شما' رسمی",
+  "grammarPoint": "Using Pan/Pani instead of ty in formal situations; verb conjugation with Pan/Pani (3rd person singular)",
+  "grammarPoint_fa": "استفاده از Pan/Pani به جای ty در موقعیت‌های رسمی؛ صرف فعل با Pan/Pani (سوم شخص مفرد)",
+  "explanation": {
+    "text": "**In formal Polish, you NEVER use 'ty' (you) — you use Pan (male) or Pani (female):**\n\nThis is like French 'vous' or German 'Sie' — a polite distance marker. The key difference: **Pan/Pani uses 3rd person singular verb forms.**\n\n**Comparison:**\n\n| Informal (ty) | Formal (Pan/Pani) | English |\n|---------------|-------------------|--------|\n| Czy masz czas? | Czy **Pan/Pani ma** czas? | Do you have time? |\n| Gdzie mieszkasz? | Gdzie **Pan/Pani mieszka**? | Where do you live? |\n| Czy rozumiesz? | Czy **Pan/Pani rozumie**? | Do you understand? |\n| Proszę, usiądź. | Proszę, niech **Pan/Pani siądzie**. | Please, sit down. |\n\n**Declension of Pan/Pani:**\n\n| Case | Pan | Pani |\n|------|-----|------|\n| Nom. | Pan | Pani |\n| Gen. | Pana | Pani |\n| Dat. | Panu | Pani |\n| Acc. | Pana | Panią |\n| Inst. | Panem | Panią |\n| Loc. | Panu | Pani |\n\n**In formal writing — always capitalize:**\n- Szanowny Pan Kowalski (Nom.)\n- Przepraszam Pana/Panią (Acc.)\n- Dziękuję Panu/Pani (Dat.)\n- Piszę do Pana/Pani w sprawie... (Gen.)\n\n**Plural: Państwo (mixed gender) / Panowie (men) / Panie (women):**\n- Czy Państwo znają tę restaurację? — Do you (all) know this restaurant?\n- Panowie są gotowi? — Are you gentlemen ready?\n\n**niech + Pan/Pani + 3rd pers:** = formal imperative\n- Niech Pan siądzie. — Please sit down (to a man).\n- Niech Pani wejdzie. — Please come in (to a woman).",
+    "notes": [
+      "Pan/Pani = 3rd person singular: mówi, ma, jest — NOT mówisz, masz, jesteś",
+      "Always capitalize Pan/Pani when used as formal address",
+      "Państwo (mixed plural) takes 3rd person plural: 'Czy Państwo mają...'",
+      "niech + Pan/Pani = polite imperative; never use raw imperative with strangers"
+    ]
+  },
+  "explanation_fa": "در لهستانی رسمی هرگز از 'ty' استفاده نمی‌شود — از Pan (مذکر) یا Pani (مؤنث) استفاده می‌شود. کلید: Pan/Pani از صیغه سوم شخص مفرد استفاده می‌کند: 'Czy Pan ma czas?' (نه 'masz'). صرف: Pana، Panu، Pana (acc)، Panem. در نوشتار رسمی همیشه با حرف بزرگ: Pan، Pani. جمع مختلط: Państwo + سوم شخص جمع. دستور مؤدبانه: niech Pan/Pani + فعل سوم شخص (Niech Pan siądzie = لطفاً بنشینید).",
+  "exercises": [
+    {
+      "id": "b1-ch17-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "In a formal email to a male director: 'Do you have a moment?' What is correct?",
+      "prompt_fa": "در یک ایمیل رسمی به یک مدیر مرد: 'آیا یک لحظه وقت دارید؟' کدام درست است؟",
+      "options": [
+        "Czy Pan ma chwilę? (Pan + 3rd person)",
+        "Czy masz chwilę? (informal ty form)",
+        "Czy masz Pan chwilę? (mixed — wrong)",
+        "Czy macie chwilę? (plural — wrong)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Czy Pan ma chwilę?' — Pan takes 3rd person singular 'ma', not informal 'masz'. The verb form is the key difference from informal address.",
+      "explanation_fa": "'Czy Pan ma chwilę?' — Pan صیغه سوم شخص مفرد 'ma' می‌گیرد، نه شکل غیررسمی 'masz'. شکل فعل تفاوت کلیدی از خطاب غیررسمی است."
+    },
+    {
+      "id": "b1-ch17-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Formal request to a woman: 'I am writing to you in the matter of...' (piszę do ___ Pani):",
+      "context_fa": "درخواست رسمی به یک زن: 'در مورد ... به شما می‌نویسم' (piszę do ___ Pani):",
+      "sentence": "Piszę do ___ Pani w sprawie...",
+      "prompt": "Piszę do ___ Pani w sprawie...",
+      "prompt_fa": "Piszę do ___ Pani w sprawie...",
+      "answer": "Szanownej",
+      "acceptableAnswers": ["Szanownej", "szanownej"],
+      "hint": "do + genitive: Pani → Pani (stays same); szanowna → szanownej (gen.f.)",
+      "explanation": "'Piszę do Szanownej Pani w sprawie...' — I am writing to you (hon. madam) in the matter of... 'do' + genitive: szanowna → szanownej.",
+      "explanation_fa": "'Piszę do Szanownej Pani w sprawie...' — در مورد ... به شما (خانم محترمه) می‌نویسم. 'do' + مضاف‌الیه: szanowna → szanownej."
+    },
+    {
+      "id": "b1-ch17-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch17/b1-ch17-l02-ex03.mp3",
+      "prompt": "Which formal sentence did you hear?",
+      "prompt_fa": "کدام جمله رسمی را شنیدید؟",
+      "options": [
+        "Czy Pan rozumie ten dokument?",
+        "Czy ty rozumiesz ten dokument?",
+        "Czy Pani rozumiecie ten dokument?",
+        "Czy Pan rozumiesz ten dokument?"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Czy Pan rozumie?' — Pan + 3rd person 'rozumie'. 'Rozumiesz' = informal. 'Rozumiecie' = 2nd person plural. Pan always takes 3rd singular.",
+      "explanation_fa": "'Czy Pan rozumie?' — Pan + سوم شخص 'rozumie'. 'Rozumiesz' = غیررسمی. 'Rozumiecie' = جمع دوم شخص. Pan همیشه سوم مفرد می‌گیرد."
+    },
+    {
+      "id": "b1-ch17-l02-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build the formal imperative: 'Please come in (to a woman).'",
+      "prompt_fa": "دستور مؤدبانه را بسازید: 'لطفاً وارد شوید (به یک زن).'",
+      "wordBank": ["Niech", "Pani", "wejdzie", "Proszę", "wchodzić", "Pan"],
+      "correctSequences": [["Niech", "Pani", "wejdzie"]],
+      "explanation": "'Niech Pani wejdzie.' — Please come in (to a woman). niech + Pani + 3rd person singular perfective = polite formal imperative.",
+      "explanation_fa": "'Niech Pani wejdzie.' — لطفاً وارد شوید (به یک زن). niech + Pani + سوم شخص مفرد کامل = دستور مؤدبانه رسمی."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["formal-register", "pan-pani", "politeness", "b1-core"],
+  "prerequisites": ["b1-ch17-l01"]
+}

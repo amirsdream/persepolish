@@ -8,21 +8,22 @@
   "grammarPoint": "Nominative adjective agreement: dobry/dobra/dobre; predicate vs. attributive adjectives",
   "grammarPoint_fa": "پسوندهای صفت در حالت فاعلی: -y/-i (مذکر)، -a (مؤنث)، -e (خنثی)",
   "explanation": {
-    "text": "Polish adjectives must agree with the noun in **gender, number, and case**. In the nominative (subject) case, the endings are:\n\n**Nominative singular adjective endings:**\n\n| Gender | Ending | Example |\n|--------|--------|--------|\n| Masculine | **-y / -i** | dobry, nowy, stary, duży |\n| Feminine | **-a** | dobra, nowa, stara, duża |\n| Neuter | **-e** | dobre, nowe, stare, duże |\n\n**Nominative plural:**\n\n| Type | Ending | Example |\n|------|--------|--------|\n| Virile (m-personal pl) | **-i / -y** | dobrzy (men), nowi (men) |\n| Non-virile (f, n, mixed) | **-e** | dobre (things/women/children) |\n\n**Adjective + noun examples:**\n- **dobry** student (m) = good student\n- **dobra** studentka (f) = good student\n- **dobre** dziecko (n) = good child\n- **dobrzy** studenci (m-pers pl) = good students (men)\n- **dobre** studentki (f pl) = good students (women)\n\n**Key adjectives to know:**\n\n| Polish (m) | Feminine | Neuter | English |\n|-----------|----------|--------|---------|\n| dobry | dobra | dobre | good |\n| zły | zła | złe | bad |\n| nowy | nowa | nowe | new |\n| stary | stara | stare | old |\n| mały | mała | małe | small |\n| duży | duża | duże | big |\n| piękny | piękna | piękne | beautiful |\n| ciekawy | ciekawa | ciekawe | interesting |",
+    "text": "## Adjective Agreement in Nominative\n\nPolish adjectives **must agree** with the noun they describe in **gender, number, and case**. In the nominative case (subject), the endings follow a clear pattern.\n\n### Nominative singular adjective endings\n\n| Gender | Ending | Examples |\n|--------|--------|----------|\n| Masculine | **-y** (hard stems) | dobry, nowy, stary, duży, ciekawy |\n| Masculine | **-i** (soft/k/g stems) | wielki, tani, długi |\n| Feminine | **-a** | dobra, nowa, stara, duża, ciekawa |\n| Neuter | **-e** | dobre, nowe, stare, duże, ciekawe |\n\n### Nominative plural adjective endings\n\n| Type | Ending | Example |\n|------|--------|----------|\n| Virile (m-personal plural) | **-i / -y** | dobrzy studenci, nowi lekarze |\n| Non-virile (f, n, mixed) | **-e** | dobre studentki, nowe okna |\n\n> 🔑 **The core rule:** Match the adjective ending to the noun's gender every time.\n\n### Key adjectives — all three genders\n\n| Masculine | Feminine | Neuter | English |\n|-----------|----------|--------|---------|\n| **dobry** | **dobra** | **dobre** | good |\n| **zły** | **zła** | **złe** | bad |\n| **nowy** | **nowa** | **nowe** | new |\n| **stary** | **stara** | **stare** | old |\n| **mały** | **mała** | **małe** | small |\n| **duży** | **duża** | **duże** | big |\n| **piękny** | **piękna** | **piękne** | beautiful |\n| **ciekawy** | **ciekawa** | **ciekawe** | interesting |\n| **drogi** | **droga** | **drogie** | expensive |\n| **tani** | **tania** | **tanie** | cheap |\n\n### Adjective + noun examples\n\n| Polish | Gender | English |\n|--------|---------|---------|\n| **dobry** student | masculine | good student |\n| **dobra** studentka | feminine | good student |\n| **dobre** dziecko | neuter | good child |\n| **nowy** dom | masculine | new house |\n| **nowa** szkoła | feminine | new school |\n| **nowe** miasto | neuter | new city |\n\n### Accusative adjective — one key difference\n\nFor masculine **animate** nouns in accusative, the adjective takes **-ego**:\n- Mam **dobrego** psa. = I have a good dog. (animate accusative)\n- Widzę **ciekawego** mężczyznę. = I see an interesting man.\n\nFor feminine nouns in accusative, the adjective takes **-ą**:\n- Mam **nową** książkę. = I have a new book.\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *dobry studentka* | *dobr**a** studentka* | f noun → -a adjective |\n| *dobre student* | *dobr**y** student* | m noun → -y adjective |\n| *nowy miasto* | *now**e** miasto* | n noun → -e adjective |\n| *Mam dobry psa.* | *Mam dobr**ego** psa.* | m animate acc → -ego |",
     "notes": [
-      "Adjectives ending -owy, -owy, -ny, -ny: change -y → -a/-e for f/n: nowy → nowa/nowe.",
-      "Adjectives ending -ki/-gi: change to -ka/-ke for f/n: wielki → wielka/wielkie.",
-      "Hard-stem adjectives: -y (m), -a (f), -e (n). Soft-stem: -i (m), -ia/-a (f), -ie/-e (n).",
-      "After jest (predicate): Ten film jest dobry. = This film is good. (no case change needed for predicate)"
+      "Masculine nominative: -y (dobry, nowy, stary). After k/g: -i (wielki → wielki, drogi → drogi)",
+      "Feminine nominative: always -a: dobra, nowa, mała, duża, ciekawa",
+      "Neuter nominative: always -e: dobre, nowe, małe, duże, ciekawe",
+      "Accusative: m animate → -ego (dobrego psa); f → -ą (dobrą kawę); n → same as nom (dobre mleko)"
     ]
   },
-  "explanation_fa": "صفات در لهستانی با اسم از نظر جنسیت، حالت و تعداد تطبیق می‌یابند. در حالت فاعلی مفرد: مذکر: -y/-i (duży dom)، مؤنث: -a (duża szkoła)، خنثی: -e (duże okno). جمع مذکر جاندار: -i/-y (duzi chłopcy)، سایر جمع‌ها: -e (duże domy، duże okna).",
+  "explanation_fa": "## تطبیق صفت در حالت فاعلی\n\nصفات لهستانی باید با اسمی که توصیف می‌کنند از نظر **جنسیت، تعداد و حالت** تطبیق داشته باشند. در حالت فاعلی (فاعل جمله)، پسوندها از یک الگوی واضح پیروی می‌کنند.\n\n### پسوندهای صفت فاعلی مفرد\n\n| جنسیت | پسوند | مثال‌ها |\n|--------|-------|----------|\n| مذکر | **-y** (ریشه سخت) | dobry، nowy، stary، duży |\n| مذکر | **-i** (ریشه نرم) | wielki، tani |\n| مؤنث | **-a** | dobra، nowa، stara، ciekawa |\n| خنثی | **-e** | dobre، nowe، stare، ciekawe |\n\n### صفات کلیدی — هر سه جنسیت\n\n| مذکر | مؤنث | خنثی | فارسی |\n|------|------|------|-------|\n| **dobry** | **dobra** | **dobre** | خوب |\n| **nowy** | **nowa** | **nowe** | جدید |\n| **stary** | **stara** | **stare** | قدیمی |\n| **mały** | **mała** | **małe** | کوچک |\n| **duży** | **duża** | **duże** | بزرگ |\n| **piękny** | **piękna** | **piękne** | زیبا |\n| **ciekawy** | **ciekawa** | **ciekawe** | جالب |\n\n### مثال‌های صفت + اسم\n\n| لهستانی | جنسیت | فارسی |\n|---------|-------|-------|\n| **dobry** student | مذکر | دانشجوی خوب |\n| **dobra** studentka | مؤنث | دانشجوی خوب |\n| **dobre** dziecko | خنثی | بچه خوب |\n| **nowe** miasto | خنثی | شهر جدید |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *dobry studentka* | *dobr**a** studentka* | اسم مؤنث → صفت -a |\n| *nowy miasto* | *now**e** miasto* | اسم خنثی → صفت -e |\n| *Mam dobry psa.* | *Mam dobr**ego** psa.* | مفعولی مذکر جاندار → -ego |",
   "exercises": [
     {
       "id": "a1-ch10-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "To jest ___ film. (This is a good film.) [dobry → m]",
+      "prompt": "Tomek recommends a film to Kasia. Complete: To jest ___ film. (This is a good film.) [dobry → m]",
+      "prompt_fa": "تامک یک فیلم را به کاسیا توصیه می‌کند. کامل کنید: To jest ___ film. (این یک فیلم خوب است.) [dobry → م]",
       "options": [
         "dobry",
         "dobra",
@@ -30,24 +31,35 @@
         "dobrzy"
       ],
       "correctIndex": 0,
-      "explanation": "'Film' is masculine → adjective: 'dobry'. 'To jest dobry film' = This is a good film."
+      "explanation": "'Film' is masculine → nominative adjective: 'dobry'. 'To jest dobry film' = This is a good film. Masculine singular nominative: -y.",
+      "explanation_fa": "'Film' مذکر است → صفت فاعلی: 'dobry'. 'To jest dobry film' = این یک فیلم خوب است. فاعلی مفرد مذکر: -y."
     },
     {
       "id": "a1-ch10-l01-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "To jest ___ książka. (This is an interesting book.) [ciekawy → f]",
       "answer": "ciekawa",
       "acceptableAnswers": [
         "ciekawa"
       ],
-      "hint": "Feminine nominative adjective: -y → -a"
+      "hint": "Feminine nominative adjective: -y → -a: ciekawy → ciekawa",
+      "explanation": "'Książka' is feminine → adjective takes -a: 'ciekawa'. 'To jest ciekawa książka' = This is an interesting book.",
+      "explanation_fa": "'Książka' مؤنث است → صفت -a می‌گیرد: 'ciekawa'. 'To jest ciekawa książka' = این یک کتاب جالب است.",
+      "context": "Ania shows Marek her new book. Complete:",
+      "context_fa": "آنیا کتاب جدیدش را به ماریک نشان می‌دهد. کامل کنید:",
+      "sentence": "To jest ___ książka.",
+      "translation": "(This is an interesting book.) [ciekawy → f]",
+      "translation_fa": "(این یک کتاب جالب است.) [ciekawy → مؤنث]",
+      "prompt": "To jest ___ książka.",
+      "prompt_fa": "To jest ___ książka."
     },
     {
       "id": "a1-ch10-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch10/a1-ch10-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Mam nowe mieszkanie.",
         "Mam nowy mieszkanie.",
@@ -55,23 +67,20 @@
         "Mam nowych mieszkanie."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Mam nowe mieszkanie.' — I have a new flat. 'Mieszkanie' is neuter → adjective in accusative (= nominative for neuter): 'nowe'."
+      "explanation": "You heard: 'Mam nowe mieszkanie.' — I have a new flat. 'Mieszkanie' is neuter → adjective in accusative (= nominative for neuter): 'nowe'. Neuter acc = nom for adjectives.",
+      "explanation_fa": "شنیدید: 'Mam nowe mieszkanie.' — یک آپارتمان جدید دارم. 'Mieszkanie' خنثی است → صفت در مفعولی (= فاعلی برای خنثی): 'nowe'. مفعولی خنثی = فاعلی برای صفات."
     },
     {
       "id": "a1-ch10-l01-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: This is a beautiful city.",
+      "prompt": "Tap the words in order: This is a beautiful city.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: این یک شهر زیبا است.",
       "wordBank": [
         "To",
         "jest",
-        "są",
         "piękne",
-        "piękny",
-        "piękna",
-        "miasto",
-        "miastem",
-        "miastach"
+        "miasto"
       ],
       "correctSequences": [
         [
@@ -81,13 +90,15 @@
           "miasto"
         ]
       ],
-      "explanation": "'To jest piękne miasto' = This is a beautiful city. 'Miasto' is neuter → 'piękne' (neuter nominative)."
+      "explanation": "'To jest piękne miasto' = This is a beautiful city. 'Miasto' is neuter → 'piękne' (neuter nominative adjective ending -e).",
+      "explanation_fa": "'To jest piękne miasto' = این یک شهر زیبا است. 'Miasto' خنثی است → 'piękne' (پسوند صفت فاعلی خنثی -e)."
     },
     {
       "id": "a1-ch10-l01-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Mam ___ psa. (I have a good dog.) [dobry → accusative of m animate]",
+      "prompt": "Marek adopts a dog. Complete: Mam ___ psa. (I have a good dog.) [dobry → accusative of m animate]",
+      "prompt_fa": "ماریک یک سگ می‌پذیرد. کامل کنید: Mam ___ psa. (یک سگ خوب دارم.) [dobry → مفعولی مذکر جاندار]",
       "options": [
         "dobrego",
         "dobry",
@@ -95,7 +106,98 @@
         "dobre"
       ],
       "correctIndex": 0,
-      "explanation": "'Dobry' + masculine animate 'pies' → accusative: 'dobrego psa'. M animate accusative adjective: -ego."
+      "explanation": "'Dobry' + masculine animate 'pies' → accusative adjective: 'dobrego psa'. Masculine animate accusative adjective: -ego (not -y!).",
+      "explanation_fa": "'Dobry' + مذکر جاندار 'pies' → صفت مفعولی: 'dobrego psa'. صفت مفعولی مذکر جاندار: -ego (نه -y!)"
+    },
+    {
+      "id": "a1-ch10-l01-ex06",
+      "type": "fill_blank",
+      "order": 6,
+      "answer": "małe",
+      "acceptableAnswers": [
+        "małe"
+      ],
+      "hint": "Neuter adjective accusative = same as nominative: mały → małe",
+      "explanation": "'Mieszkanie' (neuter) → accusative = nominative for neuter: 'małe'. 'Mam małe mieszkanie' = I have a small flat. Neuter adjective: nominative and accusative both -e.",
+      "explanation_fa": "'Mieszkanie' (خنثی) → مفعولی = فاعلی برای خنثی: 'małe'. 'Mam małe mieszkanie' = یک آپارتمان کوچک دارم. صفت خنثی: فاعلی و مفعولی هر دو -e.",
+      "context": "Ania describes her flat. Complete:",
+      "context_fa": "آنیا آپارتمانش را توصیف می‌کند. کامل کنید:",
+      "sentence": "Mam ___ mieszkanie.",
+      "translation": "(I have a small flat.) [mały → neuter accusative]",
+      "translation_fa": "(یک آپارتمان کوچک دارم.) [mały → مفعولی خنثی]",
+      "prompt": "Mam ___ mieszkanie.",
+      "prompt_fa": "Mam ___ mieszkanie."
+    },
+    {
+      "id": "a1-ch10-l01-ex07",
+      "type": "multiple_choice",
+      "order": 7,
+      "prompt": "Tomek points to a new school. Complete: To jest ___ szkoła. (This is a new school.) [nowy → feminine]",
+      "prompt_fa": "تامک به یک مدرسه جدید اشاره می‌کند. کامل کنید: To jest ___ szkoła. (این یک مدرسه جدید است.) [nowy → مؤنث]",
+      "options": [
+        "nowa",
+        "nowy",
+        "nowe",
+        "nowej"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Szkoła' is feminine → nominative adjective: 'nowa' (-a). 'To jest nowa szkoła' = This is a new school. Feminine nominative adjective always ends in -a.",
+      "explanation_fa": "'Szkoła' مؤنث است → صفت فاعلی: 'nowa' (-a). 'To jest nowa szkoła' = این یک مدرسه جدید است. صفت فاعلی مؤنث همیشه به -a ختم می‌شود."
+    },
+    {
+      "id": "a1-ch10-l01-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Kasia recommends an expensive restaurant to Marek. Complete: To jest ___ restauracja. (This is an expensive restaurant.)",
+      "prompt_fa": "کاسیا یک رستوران گران را به ماریک توصیه می‌کند. کامل کنید: To jest ___ restauracja. (این یک رستوران گران است.)",
+      "options": [
+        "droga",
+        "drogi",
+        "drogie",
+        "drogiej"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Restauracja' is feminine → nominative adjective: 'droga' (-a). 'Drogi' → feminine 'droga'. 'To jest droga restauracja' = This is an expensive restaurant.",
+      "explanation_fa": "'Restauracja' مؤنث است → صفت فاعلی: 'droga' (-a). 'Drogi' → مؤنث 'droga'. 'To jest droga restauracja' = این یک رستوران گران است."
+    },
+    {
+      "id": "a1-ch10-l01-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tap the words in order: I have an interesting job.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: یک شغل جالب دارم.",
+      "wordBank": [
+        "Mam",
+        "ciekawą",
+        "pracę",
+        "ciekawa"
+      ],
+      "correctSequences": [
+        [
+          "Mam",
+          "ciekawą",
+          "pracę"
+        ]
+      ],
+      "explanation": "'Mam ciekawą pracę' = I have an interesting job. 'Praca' (f) → accusative 'pracę'; adjective 'ciekawy' → feminine accusative 'ciekawą' (-ą). 'Ciekawa' is nominative (distractor).",
+      "explanation_fa": "'Mam ciekawą pracę' = یک شغل جالب دارم. 'Praca' (مؤنث) → مفعولی 'pracę'؛ صفت 'ciekawy' → مفعولی مؤنث 'ciekawą' (-ą). 'Ciekawa' فاعلی است (گزینه اضافه)."
+    },
+    {
+      "id": "a1-ch10-l01-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch10/a1-ch10-l01-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Mam dobrego przyjaciela i dobrą przyjaciółkę.",
+        "Mam dobry przyjaciela i dobrą przyjaciółkę.",
+        "Mam dobrego przyjaciela i dobra przyjaciółkę.",
+        "Mam dobre przyjaciela i dobrą przyjaciółkę."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Mam dobrego przyjaciela i dobrą przyjaciółkę.' — I have a good (male) friend and a good (female) friend. 'Przyjaciel' (m animate acc) → dobrego; 'przyjaciółka' (f acc) → dobrą.",
+      "explanation_fa": "شنیدید: 'Mam dobrego przyjaciela i dobrą przyjaciółkę.' — یک دوست خوب (مذکر) و یک دوست خوب (مؤنث) دارم. 'Przyjaciel' (م جاندار مفعولی) → dobrego؛ 'przyjaciółka' (مؤنث مفعولی) → dobrą."
     }
   ],
   "xpReward": 20,

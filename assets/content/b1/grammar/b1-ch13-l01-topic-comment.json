@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch13-l01-topic-comment",
+  "chapter": 13,
+  "lessonOrder": 1,
+  "level": "b1",
+  "title": "Polish Word Order: Topic–Comment Structure",
+  "title_fa": "ترتیب کلمات در لهستانی: ساختار موضوع–توضیح",
+  "grammarPoint": "Polish word order is flexible but meaningful: topic (known info) comes first, comment (new info) comes last",
+  "grammarPoint_fa": "ترتیب کلمات در لهستانی انعطاف‌پذیر اما معنادار است: موضوع (اطلاعات شناخته‌شده) اول، توضیح (اطلاعات جدید) آخر",
+  "explanation": {
+    "text": "Polish has relatively **free word order**, but this freedom is used to signal what is known (topic) vs. what is new (comment).\n\n**Basic principle:**\n- **Topic** (what you're talking about — known, given information) → goes FIRST\n- **Comment** (what you say about it — new, important information) → goes LAST\n\n**Examples:**\n- Tomek **kupił nowy samochód**. (Tomek bought a new car — new info: what he bought)\n- Nowy samochód **kupił Tomek**. (The new car was bought by Tomek — new info: who bought it)\n- **Tomek** kupił nowy samochód. (It was Tomek who bought the new car — Tomek = new/contrastive info)\n\n**Neutral vs. emphatic:**\n- Neutral: Subject + Verb + Object (SVO)\n  → Marek czyta książkę. (Marek reads a book.)\n- Emphatic (what's new is moved to end):\n  → Książkę czyta Marek. (It's Marek who's reading the book.)\n  → Czyta Marek książkę. (Marek is reading — 'Marek' emphasized)\n\n**Discourse context:**\n- Q: Co Marek robi? A: Marek **czyta książkę**. (comment = czyta książkę)\n- Q: Kto czyta książkę? A: Książkę czyta **Marek**. (comment = Marek)\n- Q: Co czyta Marek? A: Marek czyta **książkę**. (comment = książkę)\n\n**Key:** The word carrying the most new/important information tends toward the END of the sentence.",
+    "notes": [
+      "Polish is a 'topic-prominent' language — what is known comes first",
+      "New/important information (focus) moves toward the end",
+      "No passive needed when word order itself highlights agency",
+      "Inflection marks grammatical roles, so word order can vary freely"
+    ]
+  },
+  "explanation_fa": "لهستانی ترتیب کلمات نسبتاً آزاد دارد، اما این آزادی برای بیان اطلاعات شناخته‌شده (موضوع) در مقابل اطلاعات جدید (توضیح) استفاده می‌شود. موضوع (اطلاعات قبلاً شناخته‌شده) اول می‌آید؛ توضیح (اطلاعات جدید و مهم) آخر می‌آید. مثال: 'Tomek kupił nowy samochód' (اطلاعات جدید: چه خرید) در مقابل 'Nowy samochód kupił Tomek' (اطلاعات جدید: کی خرید).",
+  "exercises": [
+    {
+      "id": "b1-ch13-l01-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "Someone asks 'Kto napisał tę książkę?' (Who wrote this book?). Which answer puts the focus correctly?",
+      "prompt_fa": "کسی می‌پرسد 'Kto napisał tę książkę؟' کدام پاسخ تمرکز را به‌درستی قرار می‌دهد؟",
+      "options": [
+        "Tę książkę napisał Adam Mickiewicz.",
+        "Adam Mickiewicz napisał tę książkę.",
+        "Napisał tę książkę Adam Mickiewicz.",
+        "Adam Mickiewicz tę książkę napisał."
+      ],
+      "correctIndex": 0,
+      "explanation": "The new info (who wrote it = Adam Mickiewicz) goes at the END. 'Tę książkę' is known (topic) → goes first. 'Adam Mickiewicz' is new info → goes last.",
+      "explanation_fa": "اطلاعات جدید (کی نوشت = Adam Mickiewicz) به آخر می‌رود. 'Tę książkę' شناخته‌شده (موضوع) است → اول می‌آید. 'Adam Mickiewicz' اطلاعات جدید است → آخر می‌آید."
+    },
+    {
+      "id": "b1-ch13-l01-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "Answer the question 'Co Ania kupiła?' (What did Ania buy?) — new info is the object:",
+      "context_fa": "به سؤال 'Co Ania kupiła؟' پاسخ دهید — اطلاعات جدید مفعول است:",
+      "sentence": "Ania kupiła ___.",
+      "prompt": "Ania kupiła ___.",
+      "prompt_fa": "Ania kupiła ___.",
+      "answer": "nową sukienkę",
+      "acceptableAnswers": ["nową sukienkę", "sukienkę", "nowe buty", "buty"],
+      "hint": "New information (what she bought) goes at the END — after the verb",
+      "explanation": "When 'Co kupiła?' is the question, the object (new info) goes last: 'Ania kupiła nową sukienkę.' The object is the comment.",
+      "explanation_fa": "وقتی سؤال 'Co kupiła؟' است، مفعول (اطلاعات جدید) آخر می‌آید: 'Ania kupiła nową sukienkę.' مفعول توضیح است."
+    },
+    {
+      "id": "b1-ch13-l01-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch13/b1-ch13-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Ten list napisała Kasia.",
+        "Kasia napisała ten list.",
+        "Ten list Kasia napisała.",
+        "Napisała Kasia ten list."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ten list napisała Kasia.' — This letter was written by Kasia. Topic (ten list = known) first; comment (Kasia = who wrote it = new) last.",
+      "explanation_fa": "'Ten list napisała Kasia.' — این نامه را کاسیا نوشت. موضوع (ten list = شناخته) اول؛ توضیح (Kasia = کی نوشت = جدید) آخر."
+    },
+    {
+      "id": "b1-ch13-l01-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build a sentence answering 'Kto czyta tę gazetę?' (Who reads this newspaper?) — focus on who.",
+      "prompt_fa": "جمله‌ای بسازید که به 'Kto czyta tę gazetę؟' پاسخ دهد — تمرکز روی کی.",
+      "wordBank": ["Tę", "gazetę", "czyta", "mój", "brat"],
+      "correctSequences": [["Tę", "gazetę", "czyta", "mój", "brat"]],
+      "explanation": "'Tę gazetę czyta mój brat.' — This newspaper is read by my brother. Known topic (tę gazetę) first; new info (mój brat = who) last.",
+      "explanation_fa": "'Tę gazetę czyta mój brat.' — این روزنامه را برادرم می‌خواند. موضوع شناخته (tę gazetę) اول؛ اطلاعات جدید (mój brat = کی) آخر."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["word-order", "topic-comment", "b1-core"],
+  "prerequisites": ["a2-ch11-l01"]
+}

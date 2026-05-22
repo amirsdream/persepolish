@@ -8,21 +8,22 @@
   "grammarPoint": "Forming nominative plural: -i/-y/-e/-owie endings by gender and type",
   "grammarPoint_fa": "پسوندهای جمع فاعلی: -i/-y (مذکر)، -y/-i/-e (مؤنث)، -a (خنثی)",
   "explanation": {
-    "text": "Polish nouns change their ending in the plural. The plural form depends on the noun's gender and its final consonant. Here are the main patterns:\n\n| Type | Singular → Plural | Example |\n|------|------------------|---------|\n| Masculine personal (virile) | consonant → **-i/-y** | student → studenci |\n| Masculine non-personal | consonant → **-y/-i** | kot → koty |\n| Feminine -a | -a → **-y/-i** | kobieta → kobiety |\n| Neuter -o | -o → **-a** | okno → okna |\n| Neuter -e | -e → **-a** | morze → morza |\n\nNote: masculine personal nouns (men, male animate beings) use **virile** plural — a special form that often triggers a consonant change (student → studenci, Polak → Polacy).",
+    "text": "## Nominative Plural — Nouns\n\nIn Polish, every noun changes its ending to form the plural. Which ending you add depends on the noun's **gender** and the **final consonant** of the stem. There are two main systems: **virile** and **non-virile**.\n\n### The virile / non-virile distinction\n\nThis is unique to Polish (and Slavic languages generally):\n\n- **Virile** (personal masculine) = groups that include at least one adult male person\n- **Non-virile** = everything else (women only, children, animals, objects, mixed groups with no men)\n\n> 🌍 *Polacy są przyjaźni* (The Poles are friendly — group includes men) → virile\n> 🌍 *Kobiety są mądre* (The women are wise — all female) → non-virile\n\n### Non-virile plural patterns (simpler — start here)\n\n| Gender | Singular ending | Plural ending | Examples |\n|--------|----------------|---------------|----------|\n| Masculine inanimate | consonant | **-y** | stół → stoły, dom → domy, kot → koty |\n| Masculine inanimate (soft) | consonant | **-e** | koń → konie, tydzień → tygodnie |\n| Feminine -a | **-a** | **-y** | mama → mamy, kobieta → kobiety, siostra → siostry |\n| Feminine -a (after k/g) | **-ka/-ga** | **-ki/-gi** | córka → córki, kolega → koledzy |\n| Neuter -o | **-o** | **-a** | okno → okna, słowo → słowa, miasto → miasta |\n| Neuter -e | **-e** | **-a** | morze → morza, pole → pola |\n\n### Virile plural — consonant softening\n\nMasculine personal nouns (men) take special endings and often **soften the final consonant**. This is called the **virile plural**:\n\n| Softening | Examples |\n|-----------|----------|\n| **t → c** | student → studenci, brat → bracia |\n| **k → c** | Polak → Polacy, Niemiec → Niemcy |\n| **d → dz** | sąsiad → sąsiedzi, (neighbor) |\n| **r → rz** | doktor → doktorzy, autor → autorzy |\n| **n → ni** | pan → panowie (irregular) |\n| **-ec → -cy** | Niemiec → Niemcy |\n\n#### Common virile plurals you need now:\n\n| Singular | Plural | Meaning |\n|----------|--------|---------|\n| student | **studenci** | students (male/mixed) |\n| Polak | **Polacy** | Poles (men/mixed) |\n| chłopiec | **chłopcy** | boys |\n| mężczyzna | **mężczyźni** | men |\n| syn | **synowie** | sons |\n| pan | **panowie** | gentlemen / Mr. |\n\n### Feminine plurals — easy!\n\n| Singular | Plural | Meaning |\n|----------|--------|---------|\n| siostra | **siostry** | sisters |\n| mama | **mamy** | mums |\n| kobieta | **kobiety** | women |\n| córka | **córki** | daughters |\n| studentka | **studentki** | female students |\n\n### Neuter plurals — also easy!\n\n| Singular | Plural | Meaning |\n|----------|--------|---------|\n| okno | **okna** | windows |\n| miasto | **miasta** | cities |\n| dziecko | **dzieci** | children *(irregular!)* |\n| słowo | **słowa** | words |\n\n> ⚠️ **Dziecko → dzieci** is a very irregular plural. Learn it by heart!\n\n### Irregular plurals to memorise\n\n| Singular | Plural | Note |\n|----------|--------|------|\n| człowiek | **ludzie** | person → people (completely different stem) |\n| dziecko | **dzieci** | child → children |\n| rok | **lata** | year → years (in some contexts) |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *studenty* | *studenci* | masculine personal → virile plural (t→c) |\n| *kobietki* | *kobiety* | -a feminine → -y, no -ki |\n| *okny* | *okna* | neuter -o → -a |\n| *Polaki* | *Polacy* | masculine personal → k softens to c |",
     "notes": [
-      "Virile plural (masculine personal) often causes a consonant softening: t→c, k→c, d→dz, r→rz.",
-      "Non-virile masculine and feminine -a nouns take -y or -i (after soft/k/g consonants).",
-      "Neuter -o nouns simply change -o → -a in the plural.",
-      "Irregular plurals must be learned individually (e.g. człowiek → ludzie)."
+      "Virile plural (groups with men) often triggers consonant softening: t→c, k→c, d→dz, r→rz",
+      "Non-virile masculine and all feminine nouns in -a take -y or -i (after k/g/soft consonants)",
+      "Neuter -o nouns simply swap -o for -a in the plural",
+      "Dziecko → dzieci and człowiek → ludzie are the most important irregular plurals — learn them now"
     ]
   },
-  "explanation_fa": "برای ساختن جمع اسم‌ها: اسم‌های مذکر غیرجاندار + -y/-i (stoły، koty)، اسم‌های مؤنث: -a → -y/-i (kobiety، siostry)، اسم‌های خنثی: -o → -a (okna، słowa). اسم‌های جاندار مذکر قواعد خاص دارند.",
+  "explanation_fa": "## جمع فاعلی — اسم‌ها\n\nدر لهستانی، هر اسم برای جمع‌بندی پسوندش را عوض می‌کند. اینکه کدام پسوند اضافه می‌شود به **جنسیت** اسم و **حرف آخر** ریشه بستگی دارد. دو سیستم اصلی وجود دارد: **virile** و **non-virile**.\n\n### تمایز virile و non-virile\n\nاین ویژگی منحصر به فرد لهستانی است:\n\n- **Virile** (مذکر شخصی) = گروه‌هایی که حداقل یک مرد بالغ دارند\n- **Non-virile** = همه چیز دیگر (فقط زنان، بچه‌ها، حیوانات، اشیاء، گروه‌های مختلط بدون مرد)\n\n> 🌍 *Polacy są przyjaźni* (لهستانی‌ها دوستانه هستند — گروه شامل مرد) → virile\n> 🌍 *Kobiety są mądre* (زنان باهوش هستند — همه مؤنث) → non-virile\n\n### الگوهای جمع non-virile (ساده‌تر — از اینجا شروع کنید)\n\n| جنسیت | پسوند مفرد | پسوند جمع | مثال |\n|--------|-----------|-----------|------|\n| مذکر غیرجاندار | مصوت نیست | **-y** | stół → stoły، dom → domy، kot → koty |\n| مذکر نرم | مصوت نیست | **-e** | koń → konie |\n| مؤنث -a | **-a** | **-y** | mama → mamy، kobieta → kobiety، siostra → siostry |\n| مؤنث بعد از k/g | **-ka/-ga** | **-ki/-gi** | córka → córki |\n| خنثی -o | **-o** | **-a** | okno → okna، słowo → słowa، miasto → miasta |\n| خنثی -e | **-e** | **-a** | morze → morza، pole → pola |\n\n### جمع virile — نرم‌شدن مصوت\n\nاسم‌های مذکر شخصی (مردان) پسوندهای خاص می‌گیرند و اغلب **حرف آخر نرم می‌شود**:\n\n| نرم‌شدن | مثال‌ها |\n|---------|--------|\n| **t → c** | student → studenci، brat → bracia |\n| **k → c** | Polak → Polacy |\n| **d → dz** | sąsiad → sąsiedzi |\n| **r → rz** | doktor → doktorzy |\n\n#### جمع‌های virile پرکاربرد:\n\n| مفرد | جمع | معنی |\n|------|-----|------|\n| student | **studenci** | دانشجویان (مذکر/مختلط) |\n| Polak | **Polacy** | لهستانی‌ها (مذکر/مختلط) |\n| chłopiec | **chłopcy** | پسرها |\n| mężczyzna | **mężczyźni** | مردان |\n| syn | **synowie** | پسران |\n\n### جمع مؤنث — آسان!\n\n| مفرد | جمع | معنی |\n|------|-----|------|\n| siostra | **siostry** | خواهران |\n| mama | **mamy** | مامان‌ها |\n| kobieta | **kobiety** | زنان |\n| córka | **córki** | دختران |\n\n### جمع خنثی — هم آسان!\n\n| مفرد | جمع | معنی |\n|------|-----|------|\n| okno | **okna** | پنجره‌ها |\n| miasto | **miasta** | شهرها |\n| dziecko | **dzieci** | بچه‌ها *(نامنظم!)* |\n\n> ⚠️ **Dziecko → dzieci** بسیار نامنظم است. حفظ کنید!\n\n### جمع‌های نامنظم مهم\n\n| مفرد | جمع | توضیح |\n|------|-----|-------|\n| człowiek | **ludzie** | شخص ← مردم (ریشه کاملاً متفاوت) |\n| dziecko | **dzieci** | بچه ← بچه‌ها |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *studenty* | *studenci* | مذکر شخصی → جمع virile (t→c) |\n| *kobietki* | *kobiety* | مؤنث -a → -y، نه -ki |\n| *okny* | *okna* | خنثی -o → -a |\n| *Polaki* | *Polacy* | مذکر شخصی → k نرم می‌شود به c |",
   "exercises": [
     {
       "id": "a1-ch02-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "What is the nominative plural of 'okno' (window)?",
+      "prompt": "There are three windows in the classroom. What is the plural of 'okno' (window)?",
+      "prompt_fa": "در کلاس درس سه پنجره وجود دارد. جمع 'okno' (پنجره) چیست؟",
       "options": [
         "okna",
         "okny",
@@ -30,24 +31,35 @@
         "oknie"
       ],
       "correctIndex": 0,
-      "explanation": "Neuter nouns ending in -o form the plural with -a: okno → okna."
+      "explanation": "Neuter nouns ending in -o simply swap -o for -a in the plural: okno → okna. The same trick works for słowo → słowa and miasto → miasta.",
+      "explanation_fa": "اسم‌های خنثی که به -o ختم می‌شوند در جمع -o را با -a عوض می‌کنند: okno → okna. همین قانون برای słowo → słowa و miasto → miasta هم کار می‌کند."
     },
     {
       "id": "a1-ch02-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Te ___ są bardzo miłe. (These women are very nice.) [kobieta → ?]",
       "answer": "kobiety",
       "acceptableAnswers": [
         "kobiety"
       ],
-      "hint": "Feminine noun ending -a → -y in the plural"
+      "hint": "Feminine noun ending -a → -y in the plural",
+      "explanation": "Feminine -a nouns drop -a and add -y in the plural: kobieta → kobiety. The same rule gives you siostra → siostry and mama → mamy.",
+      "explanation_fa": "اسم‌های مؤنث -a در جمع -a را حذف می‌کنند و -y اضافه می‌کنند: kobieta → kobiety. همین قانون: siostra → siostry و mama → mamy.",
+      "context": "You meet a group of friendly women. Complete:",
+      "context_fa": "شما با گروهی از زنان مهربان آشنا می‌شوید. کامل کنید:",
+      "sentence": "Te ___ są bardzo miłe.",
+      "translation": "[kobieta → nominative plural]",
+      "translation_fa": "[kobieta → جمع فاعلی]",
+      "prompt": "Te ___ są bardzo miłe.",
+      "prompt_fa": "Te ___ są bardzo miłe."
     },
     {
       "id": "a1-ch02-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch02/a1-ch02-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Studenci są tutaj.",
         "Studentki są tutaj.",
@@ -55,20 +67,20 @@
         "Studenta są tutaj."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Studenci są tutaj.' — The students (male/mixed) are here. Virile plural: student → studenci."
+      "explanation": "You heard: 'Studenci są tutaj.' — The (male/mixed) students are here. The virile plural of student is studenci — the t softens to c before -i.",
+      "explanation_fa": "شنیدید: 'Studenci są tutaj.' — دانشجویان (مذکر/مختلط) اینجا هستند. جمع virile student می‌شود studenci — t قبل از -i نرم می‌شود به c."
     },
     {
       "id": "a1-ch02-l02-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: The cats are black. [kot → koty, czarny → czarne]",
+      "prompt": "Arrange: The cats are black. [kot → koty, czarny → czarne]",
+      "prompt_fa": "کلمات را به ترتیب بزنید: گربه‌ها سیاه هستند. [kot → koty، czarny → czarne]",
       "wordBank": [
         "Koty",
-        "Kota",
+        "czarny",
         "są",
-        "jest",
-        "czarne",
-        "czarny"
+        "czarne"
       ],
       "correctSequences": [
         [
@@ -77,13 +89,15 @@
           "czarne"
         ]
       ],
-      "explanation": "'Koty są czarne' = The cats are black. 'Koty' is the non-virile masculine plural of 'kot'. Adjective 'czarne' agrees in plural non-virile."
+      "explanation": "'Koty są czarne' = The cats are black. Cats are inanimate, so they use the non-virile plural: kot → koty. The adjective also takes the non-virile ending: czarny → czarne.",
+      "explanation_fa": "'Koty są czarne' = گربه‌ها سیاه هستند. گربه‌ها غیرجاندار هستند پس از جمع non-virile استفاده می‌شود: kot → koty. صفت هم پسوند non-virile می‌گیرد: czarny → czarne."
     },
     {
       "id": "a1-ch02-l02-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "What is the correct virile plural of 'Polak' (a Polish man)?",
+      "prompt": "A group of Polish men are introduced at a conference. What is the virile plural of 'Polak'?",
+      "prompt_fa": "گروهی از مردان لهستانی در یک کنفرانس معرفی می‌شوند. جمع virile 'Polak' چیست؟",
       "options": [
         "Polacy",
         "Polaki",
@@ -91,7 +105,98 @@
         "Polaku"
       ],
       "correctIndex": 0,
-      "explanation": "'Polak' → 'Polacy' — the k softens to c in the virile plural. This is a common pattern with nouns ending in -k."
+      "explanation": "'Polak' → 'Polacy': the final -k softens to -c in the virile plural. This consonant shift (k → c) is a regular Polish pattern you will see often.",
+      "explanation_fa": "'Polak' → 'Polacy': در جمع virile -k پایانی به -c نرم می‌شود. این تغییر مصوت (k → c) یک الگوی منظم لهستانی است که زیاد می‌بینید."
+    },
+    {
+      "id": "a1-ch02-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Tomek asks about his male classmates. What is the nominative plural of 'student' (m personal)?",
+      "prompt_fa": "تامک درباره هم‌کلاسی‌های مذکرش می‌پرسد. جمع فاعلی 'student' (مذکر شخصی) چیست؟",
+      "options": [
+        "studenci",
+        "studenty",
+        "studentów",
+        "studentem"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Student' → 'studenci' (virile plural): the -t softens to -c before -i. Virile plural marks male personal nouns and requires softening of the final consonant.",
+      "explanation_fa": "'Student' → 'studenci' (جمع virile): -t قبل از -i به -c نرم می‌شود. جمع virile اسم‌های مذکر شخصی را مشخص می‌کند و نیاز به نرم شدن مصوت پایانی دارد."
+    },
+    {
+      "id": "a1-ch02-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "są",
+      "acceptableAnswers": [
+        "są"
+      ],
+      "hint": "Plural subject → 3rd person plural of być",
+      "explanation": "Koty (cats, pl.) → są. Any plural subject takes są (they are). 'Koty są małe' = The cats are small.",
+      "explanation_fa": "Koty (گربه‌ها، جمع) → są. هر فاعل جمعی są می‌گیرد (هستند). 'Koty są małe' = گربه‌ها کوچک هستند.",
+      "context": "Ania sees cats outside. Complete:",
+      "context_fa": "آنیا گربه‌هایی بیرون می‌بیند. کامل کنید:",
+      "sentence": "Koty ___ małe.",
+      "translation": "(The cats are small.)",
+      "translation_fa": "(گربه‌ها کوچک هستند.)",
+      "prompt": "Koty ___ małe.",
+      "prompt_fa": "Koty ___ małe."
+    },
+    {
+      "id": "a1-ch02-l02-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Marek talks about his male teachers. Which is the correct virile plural of 'nauczyciel'?",
+      "prompt_fa": "مارک درباره معلمان مذکرش صحبت می‌کند. کدام جمع virile درست برای 'nauczyciel' است؟",
+      "options": [
+        "nauczyciele",
+        "nauczycielki",
+        "nauczycielem",
+        "nauczyciela"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nauczyciel' → 'nauczyciele' (virile plural with -e ending). Some masculine personal nouns take -e rather than softening: nauczyciel → nauczyciele.",
+      "explanation_fa": "'Nauczyciel' → 'nauczyciele' (جمع virile با پسوند -e). برخی اسم‌های مذکر شخصی به جای نرم شدن پسوند -e می‌گیرند: nauczyciel → nauczyciele."
+    },
+    {
+      "id": "a1-ch02-l02-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Kasia says the books are on the table. Arrange the words.",
+      "prompt_fa": "کاسیا می‌گوید کتاب‌ها روی میز هستند. کلمات را به ترتیب بزنید.",
+      "wordBank": [
+        "Książki",
+        "są",
+        "na stole",
+        "stołem"
+      ],
+      "correctSequences": [
+        [
+          "Książki",
+          "są",
+          "na stole"
+        ]
+      ],
+      "explanation": "'Książki są na stole' = The books are on the table. 'Książki' = books (f pl. nominative). 'Na stole' = on the table (locative).",
+      "explanation_fa": "'Książki są na stole' = کتاب‌ها روی میز هستند. 'Książki' = کتاب‌ها (مؤنث جمع فاعلی). 'Na stole' = روی میز (مکانی)."
+    },
+    {
+      "id": "a1-ch02-l02-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch02/a1-ch02-l02-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Polacy są bardzo gościnni.",
+        "Polki są bardzo gościnni.",
+        "Polacy są bardzo gościnne.",
+        "Polska jest bardzo gościnny."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Polacy są bardzo gościnni.' — Polish people (male/mixed) are very hospitable. 'Polacy' = virile plural of Polak. 'Gościnni' = hospitable (virile plural adjective).",
+      "explanation_fa": "شنیدید: 'Polacy są bardzo gościnni.' — لهستانی‌ها (مذکر/مختلط) خیلی مهمان‌نوازند. 'Polacy' = جمع virile از Polak. 'Gościnni' = مهمان‌نواز (صفت جمع virile)."
     }
   ],
   "xpReward": 20,
@@ -100,6 +205,7 @@
     "nominative",
     "plural",
     "noun-declension",
+    "virile",
     "a1-core"
   ],
   "prerequisites": [

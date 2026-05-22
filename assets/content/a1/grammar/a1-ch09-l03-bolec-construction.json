@@ -6,23 +6,24 @@
   "title": "The boleć Construction — Body Pain",
   "title_fa": "ساختار boleć — درد بدن",
   "grammarPoint": "Boli mnie + body part (dative of person + nominative of pain); boli vs. bolą",
-  "grammarPoint_fa": "Boli mnie + اسم عضو بدن (مفعولی) — درد ... می‌کند",
+  "grammarPoint_fa": "Boli mnie + عضو بدن — درد ... می‌کند؛ boli (مفرد) / bolą (جمع)",
   "explanation": {
-    "text": "To express pain or aches in Polish, use the special **boleć** (to hurt/ache) construction:\n\n**Structure:** [body part] boli/bolą [person in accusative]\n\nOr equivalently: boli/bolą **mnie/cię/go/ją** [body part]\n\n**Personal pronouns in accusative (after boli):**\n\n| Person | Accusative |\n|--------|----------|\n| mnie/ja | **mnie** (or: boli mnie) |\n| ty | **cię** (or: boli cię) |\n| on/ona | **go / ją** |\n| nas | **nas** |\n| was | **was** |\n| ich/je | **ich / je** |\n\n**boli vs. bolą:**\n- **Boli** mnie głowa. = My head **aches**. (singular body part)\n- **Bolą** mnie nogi. = My legs **ache**. (plural body part)\n\n**Common body parts:**\n- głowa (head), żołądek (stomach), gardło (throat), ząb (tooth), noga (leg), ręka (hand/arm), plecy (back, plural), ucho (ear)\n\n**Examples:**\n- Boli mnie głowa. = I have a headache.\n- Boli ją żołądek. = She has a stomach ache.\n- Bolą mnie nogi. = My legs hurt.\n- Boli cię gardło? = Does your throat hurt?",
+    "text": "## The boleć Construction — Body Pain\n\nTo express pain or aches in Polish, use the special **boleć** (to hurt/ache) construction. This is different from English — in Polish, the body part is the grammatical subject!\n\n### Structure\n\n```\n[body part] + boli/bolą + [person in accusative]\n```\n\nOr equivalently:\n```\nboli/bolą + [person in accusative] + [body part]\n```\n\n> 🔑 **Key fact:** The *body part* is the subject. The *person* experiencing pain is in the **accusative** — NOT the dative!\n\n### boli vs. bolą — singular or plural?\n\n| Body part | Form | Example | English |\n|-----------|------|---------|----------|\n| głowa (singular) | **boli** | Boli mnie głowa. | My head hurts. |\n| żołądek (singular) | **boli** | Boli go żołądek. | His stomach hurts. |\n| gardło (singular) | **boli** | Boli cię gardło? | Does your throat hurt? |\n| nogi (plural) | **bolą** | Bolą mnie nogi. | My legs hurt. |\n| plecy (plural) | **bolą** | Bolą ją plecy. | Her back hurts. |\n| zęby (plural) | **bolą** | Bolą mnie zęby. | My teeth hurt. |\n\n### Personal pronouns — accusative (pain receiver)\n\n| Nominative | Accusative | Example |\n|-----------|------------|----------|\n| ja | **mnie** | Boli **mnie** głowa. |\n| ty | **cię** | Boli **cię** gardło? |\n| on | **go** | Boli **go** żołądek. |\n| ona | **ją** | Bolą **ją** nogi. |\n| my | **nas** | Bolą **nas** plecy. |\n| wy | **was** | Boli **was** głowa? |\n\n### Common body parts for health complaints\n\n| Polish | English | Gender |\n|--------|---------|--------|\n| głowa | head | f |\n| żołądek | stomach | m |\n| gardło | throat | n |\n| ząb / zęby | tooth / teeth | m |\n| noga / nogi | leg / legs | f |\n| ręka / ręce | hand/arm / hands | f |\n| plecy | back (always plural) | pl |\n| ucho / uszy | ear / ears | n |\n| szyja | neck | f |\n\n### Full examples in context\n\n| Polish | English |\n|--------|---------|\n| Boli mnie głowa. | I have a headache. |\n| Boli ją żołądek. | She has a stomach ache. |\n| Bolą mnie nogi. | My legs hurt. |\n| Boli cię gardło? | Does your throat hurt? |\n| Bolą nas plecy. | Our backs hurt. |\n| Boli go ząb. | He has a toothache. |\n\n### Other health phrases\n\n| Polish | English |\n|--------|---------|\n| Jestem przeziębiony/a. | I have a cold. |\n| Mam gorączkę. | I have a fever. |\n| Czuję się źle. | I feel bad. |\n| Potrzebuję lekarza. | I need a doctor. |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Boli mi głowa.* | *Boli **mnie** głowa.* | accusative (mnie), not dative (mi) |\n| *Bolę głowę.* | *Boli mnie głowa.* | boleć is impersonal — not conjugated with 'ja' |\n| *Boli mnie nogi.* | ***Bolą** mnie nogi.* | plural body part → bolą |\n| *Bola mnie głowa.* | ***Boli** mnie głowa.* | correct form is boli (not bola) |",
     "notes": [
-      "This is a special impersonal construction — the body part is the grammatical subject.",
-      "boli (singular) vs. bolą (plural) depending on how many body parts: głowa boli, nogi bolą.",
-      "The person experiencing the pain is in accusative: mnie (me), cię (you), go (him), ją (her).",
-      "Common A1 health: Jestem przeziębiony/a (I have a cold), Mam gorączkę (I have a fever), Czuję się źle (I feel bad)."
+      "boli (singular) when ONE body part: głowa, żołądek, gardło, ząb",
+      "bolą (plural) when MULTIPLE body parts: nogi, plecy, ręce, zęby, uszy",
+      "The PERSON experiencing pain = accusative: mnie, cię, go, ją, nas, was, ich",
+      "This is an impersonal construction — boleć is conjugated as 3rd person, not as 'ja'"
     ]
   },
-  "explanation_fa": "برای بیان درد از ساختار خاص boleć استفاده می‌شود: Boli mnie głowa (سرم درد می‌کند). ضمیر به حالت مفعولی می‌آید: mnie (مرا)، cię (ترا)، go/ją (او را). جمع: Bolą mnie nogi (پاهایم درد می‌کنند). این ساختار برعکس فارسی است.",
+  "explanation_fa": "## ساختار boleć — درد بدن\n\nبرای بیان درد یا ناراحتی در لهستانی، از ساختار خاص **boleć** (دردیدن/درد کردن) استفاده می‌شود. این با فارسی متفاوت است — در لهستانی، عضو بدن فاعل دستوری است!\n\n### ساختار\n\n```\n[عضو بدن] + boli/bolą + [شخص به مفعولی]\n```\n\n> 🔑 **نکته کلیدی:** *عضو بدن* فاعل است. *شخصی* که درد دارد به حالت **مفعولی** می‌آید — نه دادی!\n\n### boli در مقابل bolą — مفرد یا جمع؟\n\n| عضو بدن | شکل | مثال | فارسی |\n|---------|-----|------|-------|\n| głowa (مفرد) | **boli** | Boli mnie głowa. | سرم درد می‌کند. |\n| żołądek (مفرد) | **boli** | Boli go żołądek. | شکمش درد می‌کند. |\n| nogi (جمع) | **bolą** | Bolą mnie nogi. | پاهایم درد می‌کنند. |\n| plecy (جمع) | **bolą** | Bolą ją plecy. | کمرش درد می‌کند. |\n\n### ضمایر شخصی — مفعولی (دریافت‌کننده درد)\n\n| فاعلی | مفعولی | مثال |\n|--------|--------|------|\n| ja | **mnie** | Boli **mnie** głowa. — سرم درد می‌کند. |\n| ty | **cię** | Boli **cię** gardło? — گلویت درد می‌کند؟ |\n| on | **go** | Boli **go** żołądek. — شکمش درد می‌کند. |\n| ona | **ją** | Bolą **ją** nogi. — پاهایش درد می‌کنند. |\n\n### اعضای رایج بدن برای شکایت سلامتی\n\n| لهستانی | فارسی | جنسیت |\n|---------|-------|--------|\n| głowa | سر | مؤنث |\n| żołądek | معده/شکم | مذکر |\n| gardło | گلو | خنثی |\n| ząb / zęby | دندان / دندان‌ها | مذکر |\n| noga / nogi | پا / پاها | مؤنث |\n| plecy | کمر/پشت (همیشه جمع) | جمع |\n| ucho / uszy | گوش / گوش‌ها | خنثی |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Boli mi głowa.* | *Boli **mnie** głowa.* | مفعولی (mnie)، نه دادی (mi) |\n| *Bolę głowę.* | *Boli mnie głowa.* | boleć غیرشخصی است — با 'ja' صرف نمی‌شود |\n| *Boli mnie nogi.* | ***Bolą** mnie nogi.* | عضو جمع → bolą |",
   "exercises": [
     {
       "id": "a1-ch09-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "My head hurts. Which is correct in Polish?",
+      "prompt": "Kasia wakes up feeling terrible. How does she say 'My head hurts'?",
+      "prompt_fa": "کاسیا با حال بدی بیدار می‌شود. چطور می‌گوید 'سرم درد می‌کند'؟",
       "options": [
         "Boli mnie głowa.",
         "Bola mnie głowa.",
@@ -30,13 +31,13 @@
         "Bolę głowę."
       ],
       "correctIndex": 0,
-      "explanation": "'Boli mnie głowa.' = My head hurts. 'Boli' (singular) for single body part. 'Mnie' = accusative of 'ja' (me)."
+      "explanation": "'Boli mnie głowa.' = My head hurts. 'Boli' (singular) for one body part. 'Mnie' = accusative of 'ja' (NOT dative 'mi'!). The body part (głowa) is the subject.",
+      "explanation_fa": "'Boli mnie głowa.' = سرم درد می‌کند. 'Boli' (مفرد) برای یک عضو. 'Mnie' = مفعولی ja (نه دادی 'mi'!). عضو بدن (głowa) فاعل است."
     },
     {
       "id": "a1-ch09-l03-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Bolą ___ nogi. (My legs hurt.) [person in accusative]",
       "answer": "mnie",
       "acceptableAnswers": [
         "mnie",
@@ -46,13 +47,24 @@
         "nas",
         "was"
       ],
-      "hint": "Person experiencing pain = accusative: mnie (me), cię (you), go (him), ją (her)"
+      "hint": "Person experiencing pain = accusative: mnie (me), cię (you), go (him), ją (her)",
+      "explanation": "'Bolą mnie nogi' = My legs hurt. 'Nogi' = plural → bolą. Person = accusative: mnie. Multiple acceptable answers since any person can have leg pain.",
+      "explanation_fa": "'Bolą mnie nogi' = پاهایم درد می‌کنند. 'Nogi' = جمع → bolą. شخص = مفعولی: mnie. پاسخ‌های متعددی قابل قبول هستند چون هر کسی ممکن است درد پا داشته باشد.",
+      "context": "Tomek has been walking all day. Complete:",
+      "context_fa": "تامک تمام روز راه رفته. کامل کنید:",
+      "sentence": "Bolą ___ nogi.",
+      "translation": "(My legs hurt.) [person in accusative]",
+      "translation_fa": "(پاهایم درد می‌کنند.) [شخص به مفعولی]",
+      "prompt": "Bolą ___ nogi.",
+      "prompt_fa": "Bolą ___ nogi."
     },
     {
       "id": "a1-ch09-l03-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch09/a1-ch09-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Boli mnie gardło i głowa.",
         "Bola mnie gardło i głowa.",
@@ -60,22 +72,20 @@
         "Boli mnie gardło i głowy."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Boli mnie gardło i głowa.' — My throat and head hurt. Two singular body parts listed together — 'boli' used for the first item; both are singular."
+      "explanation": "You heard: 'Boli mnie gardło i głowa.' — My throat and head hurt. Two singular body parts listed with 'i' — 'boli' is used since each item is singular.",
+      "explanation_fa": "شنیدید: 'Boli mnie gardło i głowa.' — گلو و سرم درد می‌کنند. دو عضو مفرد با 'i' ذکر شدند — از 'boli' استفاده می‌شود چون هر کدام مفرد هستند."
     },
     {
       "id": "a1-ch09-l03-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: His stomach hurts.",
+      "prompt": "Tap the words in order: His stomach hurts.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: شکمش درد می‌کند.",
       "wordBank": [
         "Boli",
-        "Bolą",
         "go",
-        "mu",
-        "jego",
         "żołądek",
-        "żołądka",
-        "żołądkiem"
+        "mu"
       ],
       "correctSequences": [
         [
@@ -84,21 +94,114 @@
           "żołądek"
         ]
       ],
-      "explanation": "'Boli go żołądek.' = His stomach hurts. 'Go' = accusative of 'on' (him). 'Żołądek' = singular, so 'boli'."
+      "explanation": "'Boli go żołądek.' = His stomach hurts. 'Go' = accusative of 'on' (him). 'Żołądek' = singular → boli. 'Mu' is the dative form — wrong here!",
+      "explanation_fa": "'Boli go żołądek.' = شکمش درد می‌کند. 'Go' = مفعولی on (او). 'Żołądek' = مفرد → boli. 'Mu' شکل دادی است — اینجا اشتباه است!"
     },
     {
       "id": "a1-ch09-l03-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Does your throat hurt? (asking 'ty') Which is correct?",
+      "prompt": "Ania notices Tomek keeps clearing his throat. She asks: Boli cię ___ ? (Does your throat hurt?)",
+      "prompt_fa": "آنیا متوجه می‌شود تامک دائم گلویش را صاف می‌کند. می‌پرسد: Boli cię ___ ? (گلویت درد می‌کند؟)",
       "options": [
-        "Boli cię gardło?",
-        "Boli ci gardło?",
-        "Bola cię gardło?",
-        "Bolisz gardło?"
+        "gardło?",
+        "gardła?",
+        "gardłem?",
+        "gardłowi?"
       ],
       "correctIndex": 0,
-      "explanation": "'Boli cię gardło?' = Does your throat hurt? 'Cię' = accusative of 'ty'. 'Gardło' (neuter, singular) → 'boli'."
+      "explanation": "'Boli cię gardło?' = Does your throat hurt? 'Cię' = accusative of 'ty'. 'Gardło' (neuter, singular nominative) is the subject → 'boli'.",
+      "explanation_fa": "'Boli cię gardło?' = گلویت درد می‌کند؟ 'Cię' = مفعولی ty. 'Gardło' (خنثی، فاعلی مفرد) فاعل است → 'boli'."
+    },
+    {
+      "id": "a1-ch09-l03-ex06",
+      "type": "fill_blank",
+      "order": 6,
+      "answer": "go",
+      "acceptableAnswers": [
+        "go"
+      ],
+      "hint": "Accusative of 'on' (him): go",
+      "explanation": "'Bolą go nogi i plecy' = His legs and back hurt. 'Go' = accusative of 'on'. 'Nogi' and 'plecy' are both plural → bolą.",
+      "explanation_fa": "'Bolą go nogi i plecy' = پاها و کمرش درد می‌کنند. 'Go' = مفعولی on. 'Nogi' و 'plecy' هر دو جمع هستند → bolą.",
+      "context": "Marek ran a marathon yesterday. Complete:",
+      "context_fa": "ماریک دیروز ماراتن دوید. کامل کنید:",
+      "sentence": "Bolą ___ nogi i plecy.",
+      "translation": "(His legs and back hurt.) [person — accusative 'him']",
+      "translation_fa": "(پاها و کمرش درد می‌کنند.) [شخص — مفعولی 'او']",
+      "prompt": "Bolą ___ nogi i plecy.",
+      "prompt_fa": "Bolą ___ nogi i plecy."
+    },
+    {
+      "id": "a1-ch09-l03-ex07",
+      "type": "multiple_choice",
+      "order": 7,
+      "prompt": "Kasia stares at a screen all day. Which is correct: 'My eyes hurt.'?",
+      "prompt_fa": "کاسیا تمام روز به صفحه نمایش خیره می‌شود. کدام درست است: 'چشم‌هایم درد می‌کنند.'؟",
+      "options": [
+        "Bolą mnie oczy.",
+        "Boli mnie oczy.",
+        "Bolą mnie oko.",
+        "Boli mnie oko."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Oczy' = eyes (plural). Plural body part → 'bolą'. 'Bolą mnie oczy' = My eyes hurt. 'Oko' (singular eye) → boli, but here we have multiple eyes.",
+      "explanation_fa": "'Oczy' = چشم‌ها (جمع). عضو جمع بدن → 'bolą'. 'Bolą mnie oczy' = چشم‌هایم درد می‌کنند. 'Oko' (چشم مفرد) → boli، اما اینجا چند چشم داریم."
+    },
+    {
+      "id": "a1-ch09-l03-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Tomek asks Ania at the pharmacy. She says she has a fever. Which sentence is correct?",
+      "prompt_fa": "تامک از آنیا در داروخانه می‌پرسد. او می‌گوید تب دارد. کدام جمله درست است؟",
+      "options": [
+        "Mam gorączkę.",
+        "Boli mnie gorączka.",
+        "Jestem gorączka.",
+        "Mam gorączki."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mam gorączkę' = I have a fever. 'Gorączka' (f) → accusative 'gorączkę'. 'Mieć gorączkę' is the set phrase for having a fever — not the boleć construction.",
+      "explanation_fa": "'Mam gorączkę' = تب دارم. 'Gorączka' (مؤنث) → مفعولی 'gorączkę'. 'Mieć gorączkę' عبارت ثابت برای داشتن تب است — نه ساختار boleć."
+    },
+    {
+      "id": "a1-ch09-l03-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tap the words in order: Her back hurts.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: کمرش درد می‌کند.",
+      "wordBank": [
+        "Bolą",
+        "ją",
+        "plecy",
+        "plecami"
+      ],
+      "correctSequences": [
+        [
+          "Bolą",
+          "ją",
+          "plecy"
+        ]
+      ],
+      "explanation": "'Bolą ją plecy' = Her back hurts. 'Plecy' is always plural → bolą. 'Ją' = accusative of 'ona' (her). 'Plecami' is instrumental — distractor.",
+      "explanation_fa": "'Bolą ją plecy' = کمرش درد می‌کند. 'Plecy' همیشه جمع است → bolą. 'Ją' = مفعولی ona (او، مؤنث). 'Plecami' ابزاری است — گزینه اضافه."
+    },
+    {
+      "id": "a1-ch09-l03-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch09/a1-ch09-l03-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Boli mnie głowa i boli mnie żołądek.",
+        "Boli mnie głowa i bolą mnie żołądek.",
+        "Bolą mnie głowa i boli mnie żołądek.",
+        "Bola mnie głowa i bola mnie żołądek."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Boli mnie głowa i boli mnie żołądek.' — I have a headache and a stomach ache. Both 'głowa' and 'żołądek' are singular → boli each time.",
+      "explanation_fa": "شنیدید: 'Boli mnie głowa i boli mnie żołądek.' — سردرد و دل‌درد دارم. هم 'głowa' و هم 'żołądek' مفرد هستند → هر بار boli."
     }
   ],
   "xpReward": 20,
@@ -106,7 +209,7 @@
   "tags": [
     "bolec",
     "health",
-    "dative",
+    "accusative",
     "body",
     "a1-core"
   ],

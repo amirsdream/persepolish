@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch12-l02-wedlug-podczas",
+  "chapter": 12,
+  "lessonOrder": 2,
+  "level": "b1",
+  "title": "według + Genitive vs. podczas + Genitive",
+  "title_fa": "według + مضاف‌الیه در مقابل podczas + مضاف‌الیه",
+  "grammarPoint": "według + genitive (according to) vs. podczas + genitive (during)",
+  "grammarPoint_fa": "według + مضاف‌الیه (طبق، بر اساس) در مقابل podczas + مضاف‌الیه (در طول، حین)",
+  "explanation": {
+    "text": "Two essential B1 prepositions that both take the genitive:\n\n**według + GENITIVE — 'according to':**\n- **Według mnie** to dobry pomysł. (According to me / In my opinion, it's a good idea.)\n- Według prawa musisz zapłacić podatek. (According to the law, you must pay tax.)\n- Według planu spotkanie zaczyna się o 10. (According to the plan, the meeting starts at 10.)\n- Według eksperta sytuacja jest poważna. (According to the expert, the situation is serious.)\n- Według raportu wyniki są pozytywne. (According to the report, the results are positive.)\n\n**Common uses:** według mnie/ciebie/niego/niej, według prawa, według planu, według eksperta, według danych\n\n**podczas + GENITIVE — 'during':**\n- **Podczas lekcji** nie wolno używać telefonu. (During the lesson, you may not use your phone.)\n- Podczas wycieczki zrobiłam dużo zdjęć. (During the trip, I took many photos.)\n- Podczas konferencji poznałem wielu ludzi. (During the conference, I met many people.)\n- Podczas gdy ty spałeś, pracowałam. (While you were sleeping, I was working.)\n\n**podczas gdy** = while (introducing a simultaneous contrasting clause)\n\n**Both take genitive:**\n- według + gen: według mnie, według planu, według raportu\n- podczas + gen: podczas lekcji, podczas wycieczki, podczas spotkania",
+    "notes": [
+      "według mnie = according to me = in my opinion (very common colloquially)",
+      "podczas + noun (genitive): podczas lekcji, podczas obiadu, podczas przerwy",
+      "podczas gdy + clause = while (contrast or simultaneity)",
+      "Do NOT confuse with 'przez' (through/for duration) — podczas = 'during' (within a period)"
+    ]
+  },
+  "explanation_fa": "دو حرف اضافه مهم B1 که هر دو مضاف‌الیه می‌گیرند: 'według' + مضاف‌الیه = طبق، بر اساس: według mnie (به نظر من)، według prawa (طبق قانون)، według planu (طبق برنامه). 'podczas' + مضاف‌الیه = در طول، حین: podczas lekcji (در طول درس)، podczas wycieczki (در طول گردش). 'podczas gdy' = در حالی که (برای تضاد همزمان).",
+  "exercises": [
+    {
+      "id": "b1-ch12-l02-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "How do you say 'According to the plan, we leave at noon'?",
+      "prompt_fa": "چطور می‌گویید 'طبق برنامه، ظهر حرکت می‌کنیم'؟",
+      "options": [
+        "Według planu wyjeżdżamy w południe.",
+        "Podczas planu wyjeżdżamy w południe.",
+        "Wbrew planu wyjeżdżamy w południe.",
+        "Mimo planu wyjeżdżamy w południe."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Według planu' = according to the plan. 'Według' + genitive for sources of information/authority.",
+      "explanation_fa": "'Według planu' = طبق برنامه. 'Według' + مضاف‌الیه برای منابع اطلاعات/اقتدار."
+    },
+    {
+      "id": "b1-ch12-l02-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "During the conference, she gave a presentation. Complete:",
+      "context_fa": "در طول کنفرانس، او ارائه داد. کامل کنید:",
+      "sentence": "___ konferencji wygłosiła prezentację.",
+      "prompt": "___ konferencji wygłosiła prezentację.",
+      "prompt_fa": "___ konferencji wygłosiła prezentację.",
+      "answer": "Podczas",
+      "acceptableAnswers": ["Podczas", "podczas"],
+      "hint": "during a period/event → podczas + genitive",
+      "explanation": "'Podczas konferencji' = during the conference. 'Podczas' + genitive for 'during' a period or event.",
+      "explanation_fa": "'Podczas konferencji' = در طول کنفرانس. 'Podczas' + مضاف‌الیه برای 'در طول' یک دوره یا رویداد."
+    },
+    {
+      "id": "b1-ch12-l02-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch12/b1-ch12-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Według ekspertów sytuacja się poprawia.",
+        "Podczas ekspertów sytuacja się poprawia.",
+        "Według ekspertem sytuacja się poprawia.",
+        "Wbrew ekspertom sytuacja się poprawia."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Według ekspertów' = according to the experts. 'Ekspert' → genitive plural: 'ekspertów'.",
+      "explanation_fa": "'Według ekspertów' = طبق نظر متخصصان. 'Ekspert' → مضاف‌الیه جمع: 'ekspertów'."
+    },
+    {
+      "id": "b1-ch12-l02-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: During the exam, you cannot use a dictionary.",
+      "prompt_fa": "بسازید: در طول امتحان نمی‌توانید از دیکشنری استفاده کنید.",
+      "wordBank": ["Podczas", "Według", "egzaminu", "nie", "można", "używać", "słownika"],
+      "correctSequences": [["Podczas", "egzaminu", "nie", "można", "używać", "słownika"]],
+      "explanation": "'Podczas egzaminu nie można używać słownika.' — During the exam, you cannot use a dictionary. 'Podczas' + genitive 'egzaminu'.",
+      "explanation_fa": "'Podczas egzaminu nie można używać słownika.' — در طول امتحان نمی‌توانید از دیکشنری استفاده کنید. 'Podczas' + مضاف‌الیه 'egzaminu'."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["prepositions", "wedlug", "podczas", "genitive", "b1-core"],
+  "prerequisites": ["b1-ch12-l01"]
+}

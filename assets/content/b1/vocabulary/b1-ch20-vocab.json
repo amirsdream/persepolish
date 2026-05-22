@@ -1,0 +1,262 @@
+{
+  "id": "b1-ch20-vocab",
+  "chapter": 20,
+  "level": "b1",
+  "title": "B1 Review: Essential Connectors & Academic Vocabulary",
+  "title_fa": "مرور B1: کانکتورهای ضروری و واژگان تحصیلی",
+  "cards": [
+    {
+      "id": "b1-ch20-w001",
+      "polish": "ponieważ",
+      "english": "because, since (formal)",
+      "pronunciation": "poh-NYEH-vash",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Nie przyszedł, ponieważ był chory.",
+      "exampleEnglish": "He didn't come because he was ill."
+    },
+    {
+      "id": "b1-ch20-w002",
+      "polish": "jednak",
+      "english": "however, yet",
+      "pronunciation": "YED-nak",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "To trudne, jednak możliwe.",
+      "exampleEnglish": "It's difficult, however possible."
+    },
+    {
+      "id": "b1-ch20-w003",
+      "polish": "mimo że",
+      "english": "although, even though",
+      "pronunciation": "MEE-moh zheh",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Mimo że padało, wyszłam na spacer.",
+      "exampleEnglish": "Although it was raining, I went for a walk."
+    },
+    {
+      "id": "b1-ch20-w004",
+      "polish": "z jednej strony... z drugiej strony",
+      "english": "on one hand... on the other hand",
+      "pronunciation": "z YED-ney STROH-ny",
+      "gender": null,
+      "category": "connector_pair",
+      "examplePolish": "Z jednej strony jest drogie, z drugiej — warte tej ceny.",
+      "exampleEnglish": "On one hand it's expensive, on the other — worth the price."
+    },
+    {
+      "id": "b1-ch20-w005",
+      "polish": "po pierwsze... po drugie",
+      "english": "firstly... secondly",
+      "pronunciation": "poh PYER-vsheh",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Po pierwsze, jestem zmęczony. Po drugie, nie mam czasu.",
+      "exampleEnglish": "Firstly, I'm tired. Secondly, I don't have time."
+    },
+    {
+      "id": "b1-ch20-w006",
+      "polish": "następnie",
+      "english": "next, then, subsequently",
+      "pronunciation": "nas-TEMP-nyeh",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Przeczytaj tekst, następnie odpowiedz na pytania.",
+      "exampleEnglish": "Read the text, then answer the questions."
+    },
+    {
+      "id": "b1-ch20-w007",
+      "polish": "w związku z tym",
+      "english": "in connection with this, therefore",
+      "pronunciation": "v ZVYOWN-zkoo z teem",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "W związku z tym proszę o odpowiedź.",
+      "exampleEnglish": "In connection with this, I request a response."
+    },
+    {
+      "id": "b1-ch20-w008",
+      "polish": "z tego powodu",
+      "english": "for this reason, therefore",
+      "pronunciation": "z TEH-goh poh-VOH-doo",
+      "gender": null,
+      "category": "connector",
+      "examplePolish": "Z tego powodu nie mogę przyjść.",
+      "exampleEnglish": "For this reason I cannot come."
+    },
+    {
+      "id": "b1-ch20-w009",
+      "polish": "niechęć",
+      "english": "unwillingness, reluctance",
+      "pronunciation": "NYEH-kench",
+      "gender": "f",
+      "category": "abstract_noun",
+      "examplePolish": "Wyraził niechęć do współpracy.",
+      "exampleEnglish": "He expressed reluctance to cooperate."
+    },
+    {
+      "id": "b1-ch20-w010",
+      "polish": "osiągnąć / osiągać",
+      "english": "to achieve, reach (perf/imperf)",
+      "pronunciation": "oh-SYONG-nownch",
+      "gender": null,
+      "category": "verb_pair",
+      "examplePolish": "Osiągnęła rekordowy wynik.",
+      "exampleEnglish": "She achieved a record result."
+    },
+    {
+      "id": "b1-ch20-w011",
+      "polish": "wymaganie",
+      "english": "requirement, demand",
+      "pronunciation": "vy-mah-GAH-nyeh",
+      "gender": "n",
+      "category": "noun",
+      "examplePolish": "Egzamin ma wysokie wymagania.",
+      "exampleEnglish": "The exam has high requirements."
+    },
+    {
+      "id": "b1-ch20-w012",
+      "polish": "umiejętność",
+      "english": "skill, ability, competence",
+      "pronunciation": "oo-myeh-YENT-noshch",
+      "gender": "f",
+      "category": "abstract_noun",
+      "examplePolish": "Ważna umiejętność to czytanie ze zrozumieniem.",
+      "exampleEnglish": "An important skill is reading comprehension."
+    },
+    {
+      "id": "b1-ch20-w013",
+      "polish": "popełnić błąd",
+      "english": "to make a mistake",
+      "pronunciation": "poh-PEW-nyich bwownd",
+      "gender": null,
+      "category": "verb_phrase",
+      "examplePolish": "Popełniłem błąd w zadaniu.",
+      "exampleEnglish": "I made a mistake in the exercise."
+    },
+    {
+      "id": "b1-ch20-w014",
+      "polish": "unikać / uniknąć",
+      "english": "to avoid (imperf/perf)",
+      "pronunciation": "oo-NEE-kach",
+      "gender": null,
+      "category": "verb_pair",
+      "examplePolish": "Unikaj błędów aspektowych.",
+      "exampleEnglish": "Avoid aspect errors."
+    },
+    {
+      "id": "b1-ch20-w015",
+      "polish": "zrozumienie",
+      "english": "understanding, comprehension",
+      "pronunciation": "zroh-zoo-MYEH-nyeh",
+      "gender": "n",
+      "category": "verbal_noun",
+      "examplePolish": "Czytanie ze zrozumieniem jest ważne.",
+      "exampleEnglish": "Reading comprehension is important."
+    },
+    {
+      "id": "b1-ch20-w016",
+      "polish": "ćwiczenie",
+      "english": "exercise, practice",
+      "pronunciation": "chvee-CHEH-nyeh",
+      "gender": "n",
+      "category": "verbal_noun",
+      "examplePolish": "Zrób to ćwiczenie na piśmie.",
+      "exampleEnglish": "Do this exercise in writing."
+    },
+    {
+      "id": "b1-ch20-w017",
+      "polish": "opanować",
+      "english": "to master, to learn thoroughly (perf)",
+      "pronunciation": "oh-pah-NOH-vach",
+      "gender": null,
+      "category": "verb",
+      "examplePolish": "Opanowałam aspekt na poziomie B1.",
+      "exampleEnglish": "I mastered aspect at B1 level."
+    },
+    {
+      "id": "b1-ch20-w018",
+      "polish": "poziom",
+      "english": "level",
+      "pronunciation": "POH-zyom",
+      "gender": "m",
+      "category": "noun",
+      "examplePolish": "Zdałam egzamin na poziomie B1.",
+      "exampleEnglish": "I passed the exam at B1 level."
+    },
+    {
+      "id": "b1-ch20-w019",
+      "polish": "zdać egzamin",
+      "english": "to pass an exam",
+      "pronunciation": "ZDACH eg-ZAH-meen",
+      "gender": null,
+      "category": "verb_phrase",
+      "examplePolish": "Zdałam egzamin z wynikiem celującym.",
+      "exampleEnglish": "I passed the exam with an excellent result."
+    },
+    {
+      "id": "b1-ch20-w020",
+      "polish": "oblać egzamin",
+      "english": "to fail an exam",
+      "pronunciation": "ob-LACH eg-ZAH-meen",
+      "gender": null,
+      "category": "verb_phrase",
+      "examplePolish": "Nie chcę oblać egzaminu.",
+      "exampleEnglish": "I don't want to fail the exam."
+    },
+    {
+      "id": "b1-ch20-w021",
+      "polish": "gramatyka",
+      "english": "grammar",
+      "pronunciation": "grah-MAH-ty-kah",
+      "gender": "f",
+      "category": "noun",
+      "examplePolish": "Gramatyka polska jest trudna, ale ciekawa.",
+      "exampleEnglish": "Polish grammar is difficult but interesting."
+    },
+    {
+      "id": "b1-ch20-w022",
+      "polish": "słownictwo",
+      "english": "vocabulary",
+      "pronunciation": "swov-NEETS-tvoh",
+      "gender": "n",
+      "category": "noun",
+      "examplePolish": "Mam bogate słownictwo na poziomie B1.",
+      "exampleEnglish": "I have a rich vocabulary at B1 level."
+    },
+    {
+      "id": "b1-ch20-w023",
+      "polish": "rozumienie ze słuchu",
+      "english": "listening comprehension",
+      "pronunciation": "roh-zoo-MYEH-nyeh zeh SWOO-khoo",
+      "gender": null,
+      "category": "phrase",
+      "examplePolish": "Rozumienie ze słuchu to część egzaminu.",
+      "exampleEnglish": "Listening comprehension is part of the exam."
+    },
+    {
+      "id": "b1-ch20-w024",
+      "polish": "sprawność",
+      "english": "fluency, proficiency, skill",
+      "pronunciation": "SPRAV-noshch",
+      "gender": "f",
+      "category": "abstract_noun",
+      "examplePolish": "Sprawność językowa rośnie z praktyką.",
+      "exampleEnglish": "Language proficiency grows with practice."
+    },
+    {
+      "id": "b1-ch20-w025",
+      "polish": "certyfikat",
+      "english": "certificate",
+      "pronunciation": "ser-ty-FEE-kat",
+      "gender": "m",
+      "category": "noun",
+      "examplePolish": "Chcę zdobyć certyfikat językowy B1.",
+      "exampleEnglish": "I want to obtain a B1 language certificate."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 12,
+  "tags": ["b1-review", "connectors", "academic-vocabulary", "exam-prep"]
+}

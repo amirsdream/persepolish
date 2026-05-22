@@ -33,6 +33,9 @@ dependencies:
   # Fonts
   google_fonts: ^6.2.1
 
+  # Markdown rendering
+  flutter_markdown: ^0.7.4
+
   # Utilities
   intl: ^0.20.0
   path: ^1.9.0
@@ -76,10 +79,23 @@ flutter:
   assets:
     - assets/icon/
     - assets/content/
+
+    # A1
     - assets/content/a1/
     - assets/content/a1/grammar/
     - assets/content/a1/vocabulary/
     - assets/content/a1/exam/
+
+    # A2
+    - assets/content/a2/
+    - assets/content/a2/grammar/
+    - assets/content/a2/vocabulary/
+    - assets/content/a2/exam/
+
+    # B1
+    - assets/content/b1/
+    - assets/content/b1/grammar/
+    - assets/content/b1/vocabulary/
 
   # Audio assets are loaded lazily — do not bundle here; use just_audio AssetAudioSource
 

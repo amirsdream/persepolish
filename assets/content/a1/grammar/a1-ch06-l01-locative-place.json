@@ -8,21 +8,22 @@
   "grammarPoint": "Locative case (miejscownik) with w and na for location: w domu, w szkole, na rynku",
   "grammarPoint_fa": "حالت مکانی (miejscownik) با حروف اضافه w، na، o، przy",
   "explanation": {
-    "text": "The **locative case** (miejscownik) is used to express location — where someone or something **is**. It always follows certain prepositions.\n\n**Key prepositions + locative:**\n- **w** = in (enclosed space): w domu, w szkole, w Polsce\n- **na** = on / at (open space or set expressions): na stole, na ulicy, na rynku\n\n**Locative singular endings:**\n\n| Gender | Nominative | Locative | Examples |\n|--------|-----------|---------|----------|\n| Masculine | -consonant | **-e / -u** | dom → domu, sklep → sklepie |\n| Feminine -a | -a | **-ie / -y / -i** | szkoła → szkole, ulica → ulicy |\n| Neuter -o | -o | **-e** | miasto → mieście, okno → oknie |\n\n**Very common locative forms:**\n- w domu = at home\n- w szkole = at school\n- w pracy = at work\n- w Polsce = in Poland\n- w Warszawie = in Warsaw\n- na rynku = in the market square\n- na ulicy = on the street\n- na stole = on the table",
+    "text": "## Locative Case — Expressing Place\n\nThe **locative case** (miejscownik) is used to express location — where someone or something **is**. It ALWAYS follows certain prepositions and never appears alone.\n\n### Key prepositions + locative\n\n| Preposition | Meaning | Use | Example |\n|------------|---------|-----|----------|\n| **w** | in, inside | enclosed spaces | w domu = at home |\n| **na** | on, at | surfaces, open areas, set expressions | na stole = on the table |\n| **o** | about | topics | o Polsce = about Poland |\n| **przy** | next to, by | position near | przy oknie = by the window |\n\n### Locative singular endings — nouns\n\n| Gender | Nominative | Locative | Rule |\n|--------|-----------|---------|------|\n| Masculine | dom | **domu** | many masc → -u |\n| Masculine | sklep | **sklepie** | most masc → -e (soft) |\n| Masculine | bank | **banku** | k/g/ch stems → -u |\n| Feminine -a | szkoła | **szkole** | -a → -e (with softening) |\n| Feminine -a | ulica | **ulicy** | -ca → -cy |\n| Feminine -a | praca | **pracy** | -ca → -cy |\n| Neuter -o | miasto | **mieście** | -o → -e (stem change!) |\n| Neuter -o | okno | **oknie** | -o → -e |\n| Neuter -o | kino | **kinie** | -o → -e |\n\n### Essential locative phrases — by heart\n\n| Polish | English |\n|--------|---------|\n| **w domu** | at home |\n| **w szkole** | at school |\n| **w pracy** | at work |\n| **w Polsce** | in Poland |\n| **w Warszawie** | in Warsaw |\n| **w Krakowie** | in Kraków |\n| **na rynku** | in/at the market square |\n| **na ulicy** | on the street |\n| **na stole** | on the table |\n| **na poczcie** | at the post office |\n\n### w vs. na — when to use which\n\n| Use **w** | Use **na** |\n|-----------|----------|\n| Countries: w Polsce, w Niemczech | Open spaces: na plaży (beach), na łące (meadow) |\n| Buildings (enclosed): w szkole, w banku | Fixed expressions: na poczcie, na dworcu, na rynku |\n| Rooms: w kuchni, w pokoju | Tables/surfaces: na stole, na podłodze |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Jestem w dom.* | *Jestem **w domu**.* | dom → domu in locative |\n| *Mieszkam w Warszawa.* | *Mieszkam **w Warszawie**.* | -a → -ie in locative |\n| *Jestem w miasto.* | *Jestem **w mieście**.* | miasto → mieście (stem change) |\n| *Jestem w ulica.* | *Jestem **na ulicy**.* | street uses na, not w |",
     "notes": [
-      "Masculine nouns mostly take -e (with softening): sklep → sklepie, stół → stole. Some take -u: dom → domu.",
-      "Feminine -a nouns: szkoła → szkole (soft -l), ulica → ulicy (soft -c), praca → pracy.",
-      "Neuter -o nouns: miasto → mieście (note stem change t→ć), okno → oknie.",
-      "w vs na: 'w' for enclosed spaces (rooms, buildings, countries); 'na' for open areas and fixed phrases (na rynku, na poczcie)."
+      "Locative never appears without a preposition — always w/na/o/przy + locative",
+      "dom → domu (exception), most masculine nouns take -ie with softening",
+      "miasto → mieście (t softens to ć): very important word, memorise the form",
+      "w vs na: w for enclosed/inside, na for surfaces and fixed expressions"
     ]
   },
-  "explanation_fa": "حالت مکانی (miejscownik) پس از حروف اضافه w (در)، na (روی/در)، o (درباره)، przy (کنار) استفاده می‌شود. این حالت هرگز به تنهایی نمی‌آید. تغییر اسم‌های مذکر/خنثی: -e/-ie پسوند می‌گیرند (dom → w domu، sklep → w sklepie). اسم‌های مؤنث: -a → -e/-ie (Polska → w Polsce).",
+  "explanation_fa": "## حالت مکانی — بیان مکان\n\n**حالت مکانی** (miejscownik) برای بیان مکان — جایی که کسی یا چیزی **هست** — استفاده می‌شود. همیشه بعد از حروف اضافه خاصی می‌آید و هرگز به تنهایی ظاهر نمی‌شود.\n\n### حروف اضافه کلیدی + مکانی\n\n| حرف اضافه | معنی | کاربرد | مثال |\n|-----------|------|--------|------|\n| **w** | در، داخل | فضاهای محصور | w domu = خانه هستم |\n| **na** | روی، در | سطوح، فضاهای باز | na stole = روی میز |\n| **o** | درباره | موضوعات | o Polsce = درباره لهستان |\n| **przy** | کنار، نزدیک | موقعیت نزدیک | przy oknie = کنار پنجره |\n\n### پسوندهای مکانی مفرد — اسم‌ها\n\n| جنسیت | فاعلی | مکانی | قانون |\n|--------|-------|-------|-------|\n| مذکر | dom | **domu** | بسیاری از مذکر → -u |\n| مذکر | sklep | **sklepie** | اکثر مذکر → -e |\n| مؤنث -a | szkoła | **szkole** | -a → -e |\n| مؤنث -a | ulica | **ulicy** | -ca → -cy |\n| خنثی -o | miasto | **mieście** | -o → -e (تغییر ریشه!) |\n| خنثی -o | okno | **oknie** | -o → -e |\n\n### عبارات مکانی ضروری — حفظ کنید\n\n| لهستانی | فارسی |\n|---------|-------|\n| **w domu** | خانه هستم |\n| **w szkole** | در مدرسه |\n| **w pracy** | سر کار |\n| **w Polsce** | در لهستان |\n| **w Warszawie** | در ورشو |\n| **na rynku** | در میدان اصلی |\n| **na ulicy** | در خیابان |\n| **na stole** | روی میز |\n\n### w در مقابل na — کِی کدام را استفاده کنیم\n\n| **w** استفاده کنید | **na** استفاده کنید |\n|--------------------|-----------------|\n| کشورها: w Polsce، w Niemczech | فضاهای باز: na plaży، na łące |\n| ساختمان‌ها: w szkole، w banku | عبارات ثابت: na poczcie، na dworcu |\n| اتاق‌ها: w kuchni، w pokoju | میز/سطوح: na stole |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Jestem w dom.* | *Jestem **w domu**.* | dom → domu در مکانی |\n| *Mieszkam w Warszawa.* | *Mieszkam **w Warszawie**.* | -a → -ie در مکانی |\n| *Jestem w miasto.* | *Jestem **w mieście**.* | miasto → mieście (تغییر ریشه) |",
   "exercises": [
     {
       "id": "a1-ch06-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Jestem ___ (at home). [dom → locative]",
+      "prompt": "Kasia finishes work and comes home. Complete: Jestem ___ (at home). [dom → locative]",
+      "prompt_fa": "کاسیا کارش تمام می‌شود و به خانه می‌آید. کامل کنید: Jestem ___ (خانه هستم). [dom → مکانی]",
       "options": [
         "w domu",
         "w dom",
@@ -30,24 +31,35 @@
         "na domu"
       ],
       "correctIndex": 0,
-      "explanation": "'Dom' (masculine) → locative 'domu'. 'Jestem w domu' = I am at home. Note: dom takes -u (not -ie)."
+      "explanation": "'Dom' (masculine) → locative 'domu'. 'Jestem w domu' = I am at home. Note: dom takes -u (not -ie — this is a special form).",
+      "explanation_fa": "'Dom' (مذکر) → مکانی 'domu'. 'Jestem w domu' = خانه هستم. توجه: dom پسوند -u می‌گیرد (نه -ie — این شکل خاصی است)."
     },
     {
       "id": "a1-ch06-l01-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Pracuję ___ szkole. (I work at school.) [w + locative of szkoła]",
       "answer": "w",
       "acceptableAnswers": [
         "w"
       ],
-      "hint": "Use 'w' for enclosed spaces like schools, offices, shops"
+      "hint": "Use 'w' for enclosed spaces like schools, offices, shops",
+      "explanation": "'W szkole' = at school. 'Szkoła' → locative 'szkole'. 'W' is used for enclosed/inside spaces like schools, banks, offices.",
+      "explanation_fa": "'W szkole' = در مدرسه. 'Szkoła' → مکانی 'szkole'. 'W' برای فضاهای محصور/داخل مثل مدارس، بانک‌ها، اداره‌ها استفاده می‌شود.",
+      "context": "Tomek teaches children. Complete:",
+      "context_fa": "تامک به بچه‌ها درس می‌دهد. کامل کنید:",
+      "sentence": "Pracuję ___ szkole.",
+      "translation": "(I work at school.)",
+      "translation_fa": "(در مدرسه کار می‌کنم.)",
+      "prompt": "Pracuję ___ szkole.",
+      "prompt_fa": "Pracuję ___ szkole."
     },
     {
       "id": "a1-ch06-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch06/a1-ch06-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Mieszkam w Warszawie.",
         "Mieszkam w Warszawa.",
@@ -55,23 +67,20 @@
         "Jestem w Warszawy."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Mieszkam w Warszawie.' — I live in Warsaw. 'Warszawa' → locative 'Warszawie'. 'Mieszkam w...' = I live in..."
+      "explanation": "You heard: 'Mieszkam w Warszawie.' — I live in Warsaw. 'Warszawa' (f) → locative 'Warszawie' (-a → -ie). 'W' for cities.",
+      "explanation_fa": "شنیدید: 'Mieszkam w Warszawie.' — در ورشو زندگی می‌کنم. 'Warszawa' (مؤ) → مکانی 'Warszawie' (-a → -ie). 'W' برای شهرها."
     },
     {
       "id": "a1-ch06-l01-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: The book is on the table.",
+      "prompt": "Tap the words in order: The book is on the table.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: کتاب روی میز است.",
       "wordBank": [
         "Książka",
-        "Książki",
         "jest",
-        "są",
         "na",
-        "w",
-        "stole",
-        "stół",
-        "stołu"
+        "stole"
       ],
       "correctSequences": [
         [
@@ -81,13 +90,15 @@
           "stole"
         ]
       ],
-      "explanation": "'Książka jest na stole' = The book is on the table. 'Stół' (masculine) → locative 'stole'. 'Na' + locative for 'on'."
+      "explanation": "'Książka jest na stole' = The book is on the table. 'Stół' (masculine) → locative 'stole'. 'Na' + locative for 'on a surface'.",
+      "explanation_fa": "'Książka jest na stole' = کتاب روی میز است. 'Stół' (مذکر) → مکانی 'stole'. 'Na' + مکانی برای 'روی سطح'."
     },
     {
       "id": "a1-ch06-l01-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "Ona jest ___ (in Poland). [Polska → locative]",
+      "prompt": "Marek has a job offer in Poland. Complete: Ona jest ___ (in Poland). [Polska → locative]",
+      "prompt_fa": "ماریک پیشنهاد کار در لهستان دارد. کامل کنید: Ona jest ___ (در لهستان). [Polska → مکانی]",
       "options": [
         "w Polsce",
         "w Polska",
@@ -95,7 +106,98 @@
         "w Polskę"
       ],
       "correctIndex": 0,
-      "explanation": "'Polska' (feminine) → locative 'Polsce'. 'Ona jest w Polsce' = She is in Poland. Countries use 'w + locative'."
+      "explanation": "'Polska' (feminine) → locative 'Polsce'. 'Ona jest w Polsce' = She is in Poland. Countries use 'w + locative'.",
+      "explanation_fa": "'Polska' (مؤنث) → مکانی 'Polsce'. 'Ona jest w Polsce' = او در لهستان است. کشورها از 'w + مکانی' استفاده می‌کنند."
+    },
+    {
+      "id": "a1-ch06-l01-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Kasia lives in Warsaw. Complete: Kasia mieszka ___ Warszawie.",
+      "prompt_fa": "کاسیا در ورشو زندگی می‌کند. کامل کنید: Kasia mieszka ___ Warszawie.",
+      "options": [
+        "w",
+        "na",
+        "do",
+        "z"
+      ],
+      "correctIndex": 0,
+      "explanation": "'W + locative' for location in cities and most countries. 'Kasia mieszka w Warszawie' = Kasia lives in Warsaw. 'Warszawie' = locative of Warszawa.",
+      "explanation_fa": "'W + مکانی' برای موقعیت در شهرها و اکثر کشورها. 'Kasia mieszka w Warszawie' = کاسیا در ورشو زندگی می‌کند. 'Warszawie' = مکانی Warszawa."
+    },
+    {
+      "id": "a1-ch06-l01-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "answer": "stole",
+      "acceptableAnswers": [
+        "stole"
+      ],
+      "hint": "Masculine noun stół → locative: stole",
+      "explanation": "'Stół' (m) → locative 'stole'. 'Na stole' = on the table. Masculine nouns: locative typically changes ó→o and adds -e or -ie.",
+      "explanation_fa": "'Stół' (م) → مکانی 'stole'. 'Na stole' = روی میز. اسم‌های مذکر: مکانی معمولاً ó→o تغییر می‌کند و -e یا -ie اضافه می‌شود.",
+      "context": "Tomek puts the book on the table:",
+      "context_fa": "تامک کتاب را روی میز می‌گذارد:",
+      "sentence": "Książka jest na ___.",
+      "translation": "[stół → locative]",
+      "translation_fa": "[stół → مکانی]",
+      "prompt": "Książka jest na ___.",
+      "prompt_fa": "Książka jest na ___."
+    },
+    {
+      "id": "a1-ch06-l01-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "'W szkole' means...",
+      "prompt_fa": "'W szkole' یعنی...",
+      "options": [
+        "at school",
+        "to school",
+        "from school",
+        "near school"
+      ],
+      "correctIndex": 0,
+      "explanation": "'W szkole' = at school / in school. Locative expresses location (where something IS). 'Do szkoły' = to school (genitive, direction).",
+      "explanation_fa": "'W szkole' = در مدرسه. مکانی موقعیت (اینکه چیزی کجا هست) را بیان می‌کند. 'Do szkoły' = به سمت مدرسه (مضاف‌الیهی، جهت)."
+    },
+    {
+      "id": "a1-ch06-l01-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Marek works in a hospital. Arrange the words.",
+      "prompt_fa": "مارک در یک بیمارستان کار می‌کند. کلمات را به ترتیب بزنید.",
+      "wordBank": [
+        "Marek",
+        "pracuje",
+        "w szpitalu",
+        "szpital"
+      ],
+      "correctSequences": [
+        [
+          "Marek",
+          "pracuje",
+          "w szpitalu"
+        ]
+      ],
+      "explanation": "'Marek pracuje w szpitalu' = Marek works in a hospital. 'Szpital' (m) → locative 'szpitalu'. W + locative for location.",
+      "explanation_fa": "'Marek pracuje w szpitalu' = مارک در بیمارستان کار می‌کند. 'Szpital' (م) → مکانی 'szpitalu'. w + مکانی برای موقعیت."
+    },
+    {
+      "id": "a1-ch06-l01-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch06/a1-ch06-l01-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Ania mieszka na Mokotowie i pracuje w centrum.",
+        "Ania mieszka w Mokotowie i pracuje w centrum.",
+        "Ania mieszka na Mokotowie i pracuje na centrum.",
+        "Ania mieszka na Mokotów i pracuje w centrum."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Ania mieszka na Mokotowie i pracuje w centrum.' — Ania lives in Mokotów (Warsaw district) and works in the centre. Districts use 'na + locative'; cities/areas use 'w + locative'.",
+      "explanation_fa": "شنیدید: 'Ania mieszka na Mokotowie i pracuje w centrum.' — آنیا در موکوتوف (منطقه ورشو) زندگی می‌کند و در مرکز کار می‌کند. محله‌ها از 'na + مکانی' استفاده می‌کنند؛ شهرها/مناطق از 'w + مکانی'."
     }
   ],
   "xpReward": 20,

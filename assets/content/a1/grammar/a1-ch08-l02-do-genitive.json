@@ -5,49 +5,61 @@
   "lessonOrder": 2,
   "title": "Direction with do + Genitive",
   "title_fa": "جهت با do + مضاف‌الیهی",
-  "grammarPoint": "Expressing destination: do + genitive (jadę do Warszawy, idę do sklepu, wracam do domu)",
-  "grammarPoint_fa": "حرف اضافه do (به سمت) + حالت مضاف‌الیهی برای بیان مقصد",
+  "grammarPoint": "Expressing destination: do + genitive; city and country names in genitive",
+  "grammarPoint_fa": "بیان مقصد: do + مضاف‌الیهی؛ نام شهرها و کشورها در حالت مضاف‌الیهی",
   "explanation": {
-    "text": "To say where you're going **to** in Polish, use **do + genitive case**.\n\n**do** = to, into (for destinations — cities, buildings, rooms)\n\n**Genitive singular endings (reminder):**\n\n| Gender | Nominative | Genitive | Examples |\n|--------|-----------|---------|----------|\n| Masculine | -consonant | **-a / -u** | sklep → sklepu, Kraków → Krakowa |\n| Feminine | -a | **-y / -i** | Polska → Polski, szkoła → szkoły |\n| Neuter | -o | **-a** | miasto → miasta, kino → kina |\n\n**Examples with do:**\n- Jadę **do Warszawy**. = I'm going to Warsaw. (Warszawa → Warszawy)\n- Idę **do sklepu**. = I'm going to the shop. (sklep → sklepu)\n- Wracam **do domu**. = I'm going back home. (dom → domu)\n- Idę **do szkoły**. = I'm going to school. (szkoła → szkoły)\n- Jadę **do Krakowa**. = I'm going to Kraków. (Kraków → Krakowa)\n- Idę **do kina**. = I'm going to the cinema. (kino → kina)\n\n**Common vs. na:**\n- **do** = most destinations (buildings, cities, countries)\n- **na** = open places and fixed expressions: na rynek, na pocztę, na dworzec",
+    "text": "## Direction with do + Genitive\n\nTo say where you are going **to**, use **do + genitive case**.\n\n> 🔑 **Rule:** do + genitive = movement towards a destination (city, building, country, room).\n\n### Genitive singular endings (reminder)\n\n| Gender | Nominative | Genitive | Example |\n|--------|-----------|---------|----------|\n| Masculine | consonant | **-a / -u** | sklep → sklepu, Kraków → Krakowa |\n| Feminine | **-a** | **-y / -i** | Polska → Polski, szkoła → szkoły |\n| Neuter | **-o** | **-a** | miasto → miasta, kino → kina |\n\n### Common destinations with do\n\n| Polish | English |\n|--------|---------|\n| *Jadę **do Warszawy**.* | I'm going to Warsaw. |\n| *Idę **do sklepu**.* | I'm going to the shop. |\n| *Wracam **do domu**.* | I'm going back home. |\n| *Idę **do szkoły**.* | I'm going to school. |\n| *Jadę **do Krakowa**.* | I'm going to Kraków. |\n| *Idę **do kina**.* | I'm going to the cinema. |\n| *Jadę **do Polski**.* | I'm going to Poland. |\n| *Idę **do pracy**.* | I'm going to work. |\n\n### do vs. na — when to use which\n\n| Use **do** | Use **na** |\n|-----------|----------|\n| Most cities/countries: do Warszawy, do Polski | Events/open spaces: na koncert, na plażę |\n| Buildings (entering): do sklepu, do szkoły, do kina | Fixed expressions: na pocztę, na dworzec, na rynek |\n| Rooms: do kuchni, do salonu | Mountains/islands: na Mazury, na Słowację |\n\n### w domu vs. do domu — essential distinction\n\n| Polish | Case | Meaning |\n|--------|------|----------|\n| *Jestem **w domu**.* | locative | I am at home (static location) |\n| *Idę **do domu**.* | genitive | I'm going home (direction) |\n\n### Common mistakes\n\n| ❌ Wrong | ✅ Correct | Why |\n|----------|-----------|-----|\n| *Jadę do Warszawa.* | *Jadę do **Warszawy**.* | do takes genitive |\n| *Idę do dom.* | *Idę do **domu**.* | dom → domu (masc. -u) |\n| *Jadę na Polska.* | *Jadę do **Polski**.* | country = do, not na |\n| *Jestem do domu.* | *Jestem **w** domu.* | location = w + locative |",
     "notes": [
-      "Masculine -a ending genitive: sklep → sklepu, dom → domu, Kraków → Krakowa.",
-      "Feminine genitive: Polska → Polski, Warszawa → Warszawy, szkoła → szkoły.",
-      "Neuter genitive: miasto → miasta, kino → kina, morze → morza.",
-      "'Do domu' = home (going home); 'w domu' = at home (being there). Key distinction!"
+      "do + genitive = movement TO a destination; w/na + locative = being AT a place",
+      "do domu = (going) home; w domu = at home — this distinction is essential",
+      "Most cities and countries use do: do Warszawy, do Polski, do Niemiec",
+      "Exceptions with na: na pocztę, na dworzec, na rynek, na Mazury"
     ]
   },
-  "explanation_fa": "برای بیان مقصد از do + حالت مضاف‌الیهی استفاده می‌شود: Idę do szkoły (دارم می‌روم مدرسه)، Jadę do Warszawy (دارم می‌روم ورشو). مقایسه: w + مکانی برای موقعیت (Jestem w szkole — در مدرسه هستم) در برابر do + مضاف‌الیهی برای حرکت.",
+  "explanation_fa": "## جهت با do + مضاف‌الیهی\n\nبرای گفتن اینکه به **کجا** می‌روید، از **do + حالت مضاف‌الیهی** استفاده کنید.\n\n> 🔑 **قانون:** do + مضاف‌الیهی = حرکت به سمت مقصد (شهر، ساختمان، کشور، اتاق).\n\n### پسوندهای مضاف‌الیهی مفرد (یادآوری)\n\n| جنسیت | فاعلی | مضاف‌الیهی | مثال |\n|--------|-------|------------|------|\n| مذکر | مصوت | **-a / -u** | sklep → sklepu، Kraków → Krakowa |\n| مؤنث | **-a** | **-y / -i** | Polska → Polski، szkoła → szkoły |\n| خنثی | **-o** | **-a** | miasto → miasta، kino → kina |\n\n### مقصدهای رایج با do\n\n| لهستانی | فارسی |\n|---------|-------|\n| *Jadę **do Warszawy**.* | دارم به ورشو می‌روم. |\n| *Idę **do sklepu**.* | دارم به مغازه می‌روم. |\n| *Wracam **do domu**.* | دارم برمی‌گردم خانه. |\n| *Jadę **do Polski**.* | دارم به لهستان می‌روم. |\n\n### do در مقابل na — کِی کدام را استفاده کنیم\n\n| **do** استفاده کنید | **na** استفاده کنید |\n|--------------------|--------------------|\n| اکثر شهرها/کشورها: do Warszawy | رویدادها: na koncert، na plażę |\n| ساختمان‌ها: do sklepu، do szkoły | عبارات ثابت: na pocztę، na dworzec |\n\n### w domu در مقابل do domu — تمایز ضروری\n\n| لهستانی | حالت | معنی |\n|---------|------|------|\n| *Jestem **w domu**.* | مکانی | خانه هستم (موقعیت ثابت) |\n| *Idę **do domu**.* | مضاف‌الیهی | دارم می‌روم خانه (جهت) |\n\n### اشتباهات رایج\n\n| ❌ اشتباه | ✅ درست | دلیل |\n|----------|---------|------|\n| *Jadę do Warszawa.* | *Jadę do **Warszawy**.* | do مضاف‌الیهی می‌طلبد |\n| *Idę do dom.* | *Idę do **domu**.* | dom → domu |\n| *Jadę na Polska.* | *Jadę do **Polski**.* | کشور = do، نه na |",
   "exercises": [
     {
       "id": "a1-ch08-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Jadę ___ (to Warsaw). [Warszawa → genitive]",
+      "prompt": "Ania is booking a ticket. She's going to Warsaw. Which is correct?",
+      "prompt_fa": "آنیا دارد بلیط می‌خرد. می‌رود به ورشو. کدام درست است؟",
       "options": [
-        "do Warszawy",
-        "do Warszawa",
-        "w Warszawie",
-        "na Warszawę"
+        "Jadę do Warszawy.",
+        "Jadę do Warszawa.",
+        "Jadę w Warszawie.",
+        "Jadę na Warszawę."
       ],
       "correctIndex": 0,
-      "explanation": "'Do + genitive': Warszawa (f) → Warszawy. 'Jadę do Warszawy' = I'm going to Warsaw."
+      "explanation": "'Do + genitive': Warszawa (f) → Warszawy. 'Jadę do Warszawy' = I'm going to Warsaw.",
+      "explanation_fa": "'Do + مضاف‌الیهی': Warszawa (مؤنث) → Warszawy. 'Jadę do Warszawy' = دارم به ورشو می‌روم."
     },
     {
       "id": "a1-ch08-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Idę do ___ (to the cinema). [kino → genitive]",
       "answer": "kina",
       "acceptableAnswers": [
         "kina"
       ],
-      "hint": "Neuter genitive: -o → -a"
+      "hint": "Neuter genitive: -o → -a (kino → kina)",
+      "explanation": "Neuter genitive: kino → kina. 'Idę do kina' = I'm going to the cinema. The -o ending becomes -a in genitive.",
+      "explanation_fa": "مضاف‌الیهی خنثی: kino → kina. 'Idę do kina' = دارم به سینما می‌روم. پسوند -o در مضاف‌الیهی به -a تبدیل می‌شود.",
+      "context": "Complete the sentence:",
+      "context_fa": "جمله را کامل کنید:",
+      "sentence": "Idę do ___.",
+      "translation": "(to the cinema) [kino → genitive]",
+      "translation_fa": "(به سینما) [kino → مضاف‌الیهی]",
+      "prompt": "Idę do ___.",
+      "prompt_fa": "Idę do ___."
     },
     {
       "id": "a1-ch08-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a1/ch08/a1-ch08-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Wracam do domu o szóstej.",
         "Wracam do dom o szóstej.",
@@ -55,42 +67,37 @@
         "Wracam do domie o szóstej."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Wracam do domu o szóstej.' — I come home at six. 'Dom' (m) → genitive 'domu'. 'Do domu' = home (direction)."
+      "explanation": "You heard: 'Wracam do domu o szóstej.' — I come home at six. 'Dom' (m) → genitive 'domu'. 'Do domu' = (going) home (direction).",
+      "explanation_fa": "شنیدید: 'Wracam do domu o szóstej.' — ساعت شش برمی‌گردم خانه. 'Dom' (مذکر) → مضاف‌الیهی 'domu'. 'Do domu' = (رفتن) خانه (جهت)."
     },
     {
       "id": "a1-ch08-l02-ex04",
       "type": "sentence_builder",
       "order": 4,
-      "prompt": "Build: I'm going to Poland.",
+      "prompt": "Tap the words in order: I'm going to Poland.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: دارم به لهستان می‌روم.",
       "wordBank": [
         "Jadę",
-        "Idę",
         "do",
-        "w",
         "Polski",
-        "Polska",
-        "Polsce",
-        "Poland"
+        "Polska"
       ],
       "correctSequences": [
         [
           "Jadę",
           "do",
           "Polski"
-        ],
-        [
-          "Idę",
-          "do",
-          "Polski"
         ]
       ],
-      "explanation": "'Jadę do Polski' = I'm going to Poland. 'Polska' (f) → genitive 'Polski'. 'Do + genitive' for country destinations."
+      "explanation": "'Jadę do Polski' = I'm going to Poland. 'Polska' (f) → genitive 'Polski'. 'Do + genitive' for country destinations. 'Polska' is a distractor (nominative form).",
+      "explanation_fa": "'Jadę do Polski' = دارم به لهستان می‌روم. 'Polska' (مؤنث) → مضاف‌الیهی 'Polski'. 'Do + مضاف‌الیهی' برای مقصد کشور. 'Polska' گزینه اضافه است (شکل فاعلی)."
     },
     {
       "id": "a1-ch08-l02-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "What is the difference? Jestem w domu vs. Idę do domu.",
+      "prompt": "What is the difference? 'Jestem w domu' vs. 'Idę do domu.'",
+      "prompt_fa": "تفاوت چیست؟ 'Jestem w domu' در مقابل 'Idę do domu.'",
       "options": [
         "I'm at home vs. I'm going home.",
         "I'm going home vs. I'm at home.",
@@ -98,7 +105,98 @@
         "I was home vs. I went home."
       ],
       "correctIndex": 0,
-      "explanation": "'Jestem w domu' = I am at home (location, locative). 'Idę do domu' = I'm going home (direction, genitive). This w/do distinction is essential!"
+      "explanation": "'Jestem w domu' = I am at home (locative, static location). 'Idę do domu' = I'm going home (genitive, direction). This w/do distinction is essential!",
+      "explanation_fa": "'Jestem w domu' = خانه هستم (مکانی، موقعیت ثابت). 'Idę do domu' = دارم می‌روم خانه (مضاف‌الیهی، جهت). این تمایز w/do ضروری است!"
+    },
+    {
+      "id": "a1-ch08-l02-ex06",
+      "type": "fill_blank",
+      "order": 6,
+      "answer": "lotnisko",
+      "acceptableAnswers": [
+        "lotnisko"
+      ],
+      "hint": "Lotnisko (neuter) uses 'na' preposition; neuter -o stays -o? No — check: na lotnisko uses accusative (movement towards), NOT genitive",
+      "explanation": "'Na lotnisko' = to the airport. Note: 'lotnisko' uses 'na' (not 'do'). With 'na' + accusative for direction: neuter -o stays unchanged in accusative. 'Jadę na lotnisko.'",
+      "explanation_fa": "'Na lotnisko' = به فرودگاه. توجه: 'lotnisko' از 'na' استفاده می‌کند (نه 'do'). با 'na' + مفعولی برای جهت: خنثی -o در مفعولی بدون تغییر می‌ماند. 'Jadę na lotnisko.'",
+      "context": "Marek is going to the airport. Complete:",
+      "context_fa": "ماریک دارد به فرودگاه می‌رود. کامل کنید:",
+      "sentence": "Jadę na ___.",
+      "translation": "(to the airport) [lotnisko → accusative after na]",
+      "translation_fa": "(به فرودگاه) [lotnisko → مفعولی بعد از na]",
+      "prompt": "Jadę na ___.",
+      "prompt_fa": "Jadę na ___."
+    },
+    {
+      "id": "a1-ch08-l02-ex07",
+      "type": "multiple_choice",
+      "order": 7,
+      "prompt": "Kasia is going to Germany. Which sentence is correct?",
+      "prompt_fa": "کاسیا دارد به آلمان می‌رود. کدام جمله درست است؟",
+      "options": [
+        "Jadę do Niemiec.",
+        "Jadę na Niemcy.",
+        "Jadę do Niemcy.",
+        "Jadę w Niemcy."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Niemcy' (plural f country) → genitive plural: 'Niemiec'. 'Do + genitive' for most countries. 'Jadę do Niemiec' = I'm going to Germany.",
+      "explanation_fa": "'Niemcy' (مؤنث جمع کشور) → مضاف‌الیهی جمع: 'Niemiec'. 'Do + مضاف‌الیهی' برای اکثر کشورها. 'Jadę do Niemiec' = دارم به آلمان می‌روم."
+    },
+    {
+      "id": "a1-ch08-l02-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Tomek tells his sister: I'm going to the post office. Which is correct?",
+      "prompt_fa": "تامک به خواهرش می‌گوید: دارم به اداره پست می‌روم. کدام درست است؟",
+      "options": [
+        "Idę na pocztę.",
+        "Idę do poczty.",
+        "Idę w poczcie.",
+        "Idę do pocztę."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Poczta' (post office) uses 'na' (not 'do') — this is a fixed exception! 'Na + accusative': poczta → pocztę. 'Idę na pocztę' = I'm going to the post office.",
+      "explanation_fa": "'Poczta' (اداره پست) از 'na' استفاده می‌کند (نه 'do') — این یک استثنای ثابت است! 'Na + مفعولی': poczta → pocztę. 'Idę na pocztę' = دارم به اداره پست می‌روم."
+    },
+    {
+      "id": "a1-ch08-l02-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Tap the words in order: I'm going to the restaurant.",
+      "prompt_fa": "کلمات را به ترتیب بزنید: دارم به رستوران می‌روم.",
+      "wordBank": [
+        "Idę",
+        "do",
+        "restauracji",
+        "restauracja"
+      ],
+      "correctSequences": [
+        [
+          "Idę",
+          "do",
+          "restauracji"
+        ]
+      ],
+      "explanation": "'Idę do restauracji' = I'm going to the restaurant. 'Restauracja' (f -cja) → genitive: 'restauracji' (-i). 'Do + genitive' for most buildings. 'Restauracja' is the nominative distractor.",
+      "explanation_fa": "'Idę do restauracji' = دارم به رستوران می‌روم. 'Restauracja' (مؤنث -cja) → مضاف‌الیهی: 'restauracji' (-i). 'Do + مضاف‌الیهی' برای اکثر ساختمان‌ها. 'Restauracja' گزینه اضافه فاعلی است."
+    },
+    {
+      "id": "a1-ch08-l02-ex10",
+      "type": "dictation_mc",
+      "order": 10,
+      "audioAsset": "assets/audio/a1/ch08/a1-ch08-l02-ex10.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Idę do kuchni po kawę.",
+        "Idę do kuchnia po kawę.",
+        "Idę w kuchni po kawę.",
+        "Idę do kuchni za kawę."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Idę do kuchni po kawę.' — I'm going to the kitchen to get a coffee. 'Kuchnia' (f -ia) → genitive 'kuchni'. 'Po + accusative' = to get/fetch something.",
+      "explanation_fa": "شنیدید: 'Idę do kuchni po kawę.' — دارم می‌روم آشپزخانه قهوه بیاورم. 'Kuchnia' (مؤنث -ia) → مضاف‌الیهی 'kuchni'. 'Po + مفعولی' = برای آوردن چیزی."
     }
   ],
   "xpReward": 20,

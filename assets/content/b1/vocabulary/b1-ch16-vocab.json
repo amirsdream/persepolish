@@ -1,0 +1,262 @@
+{
+  "id": "b1-ch16-vocab",
+  "chapter": 16,
+  "level": "b1",
+  "title": "Narrative & Storytelling Language",
+  "title_fa": "زبان روایی و داستان‌پردازی",
+  "cards": [
+    {
+      "id": "b1-ch16-w001",
+      "polish": "nagle",
+      "english": "suddenly, all of a sudden",
+      "pronunciation": "NAH-gleh",
+      "gender": null,
+      "category": "narrative_adverb",
+      "examplePolish": "Nagle zadzwonił telefon.",
+      "exampleEnglish": "Suddenly the phone rang."
+    },
+    {
+      "id": "b1-ch16-w002",
+      "polish": "pewnego dnia",
+      "english": "one day",
+      "pronunciation": "pev-NEH-goh DNYA",
+      "gender": null,
+      "category": "narrative_phrase",
+      "examplePolish": "Pewnego dnia spotkał starą przyjaciółkę.",
+      "exampleEnglish": "One day he met an old friend."
+    },
+    {
+      "id": "b1-ch16-w003",
+      "polish": "tymczasem",
+      "english": "meanwhile, in the meantime",
+      "pronunciation": "tim-CHA-sem",
+      "gender": null,
+      "category": "narrative_adverb",
+      "examplePolish": "Tymczasem w innym miejscu...",
+      "exampleEnglish": "Meanwhile, in another place..."
+    },
+    {
+      "id": "b1-ch16-w004",
+      "polish": "w końcu",
+      "english": "finally, in the end",
+      "pronunciation": "v KON-tsoo",
+      "gender": null,
+      "category": "narrative_phrase",
+      "examplePolish": "W końcu dotarli do celu.",
+      "exampleEnglish": "Finally they reached their destination."
+    },
+    {
+      "id": "b1-ch16-w005",
+      "polish": "zanim",
+      "english": "before (+ verb)",
+      "pronunciation": "ZAH-neem",
+      "gender": null,
+      "category": "conjunction",
+      "examplePolish": "Zanim wyszedł, zamknął okno.",
+      "exampleEnglish": "Before he left, he closed the window."
+    },
+    {
+      "id": "b1-ch16-w006",
+      "polish": "podczas gdy",
+      "english": "while, whereas",
+      "pronunciation": "POD-chas gdee",
+      "gender": null,
+      "category": "conjunction",
+      "examplePolish": "Podczas gdy ona gotowała, on czytał.",
+      "exampleEnglish": "While she was cooking, he was reading."
+    },
+    {
+      "id": "b1-ch16-w007",
+      "polish": "niespodziewanie",
+      "english": "unexpectedly, out of the blue",
+      "pronunciation": "nyeh-spoh-djeh-VAH-nyeh",
+      "gender": null,
+      "category": "narrative_adverb",
+      "examplePolish": "Niespodziewanie pojawił się znajomy.",
+      "exampleEnglish": "An acquaintance appeared unexpectedly."
+    },
+    {
+      "id": "b1-ch16-w008",
+      "polish": "opowiadanie",
+      "english": "short story, tale",
+      "pronunciation": "oh-poh-vyah-DAH-nyeh",
+      "gender": "n",
+      "category": "noun",
+      "examplePolish": "To interesujące opowiadanie.",
+      "exampleEnglish": "This is an interesting short story."
+    },
+    {
+      "id": "b1-ch16-w009",
+      "polish": "powieść",
+      "english": "novel",
+      "pronunciation": "POH-vyeshch",
+      "gender": "f",
+      "category": "noun",
+      "examplePolish": "Czytam nową powieść polskiego autora.",
+      "exampleEnglish": "I'm reading a new novel by a Polish author."
+    },
+    {
+      "id": "b1-ch16-w010",
+      "polish": "bohater / bohaterka",
+      "english": "hero / heroine, main character",
+      "pronunciation": "boh-HAH-ter / boh-hah-TER-kah",
+      "gender": "m/f",
+      "category": "noun",
+      "examplePolish": "Bohater tej historii to detektyw.",
+      "exampleEnglish": "The hero of this story is a detective."
+    },
+    {
+      "id": "b1-ch16-w011",
+      "polish": "rozległ się / rozległo się",
+      "english": "rang out, resounded (a sound)",
+      "pronunciation": "roz-LEGW sheh",
+      "gender": null,
+      "category": "verb_perf",
+      "examplePolish": "Nagle rozległ się strzał.",
+      "exampleEnglish": "Suddenly a shot rang out."
+    },
+    {
+      "id": "b1-ch16-w012",
+      "polish": "szumieć",
+      "english": "to rustle, murmur, hum (imperf)",
+      "pronunciation": "SHOO-myech",
+      "gender": null,
+      "category": "verb_imperf",
+      "examplePolish": "Wiatr szumiał w drzewach.",
+      "exampleEnglish": "The wind was murmuring in the trees."
+    },
+    {
+      "id": "b1-ch16-w013",
+      "polish": "zgasnąć",
+      "english": "to go out, to be extinguished (perf)",
+      "pronunciation": "ZGAHS-nownch",
+      "gender": null,
+      "category": "verb_perf",
+      "examplePolish": "Nagle zgasło światło.",
+      "exampleEnglish": "Suddenly the light went out."
+    },
+    {
+      "id": "b1-ch16-w014",
+      "polish": "rozlegać się",
+      "english": "to resound, echo (imperf)",
+      "pronunciation": "roz-leh-GACH sheh",
+      "gender": null,
+      "category": "verb_imperf",
+      "examplePolish": "W lesie rozlegały się głosy ptaków.",
+      "exampleEnglish": "Bird calls were resounding in the forest."
+    },
+    {
+      "id": "b1-ch16-w015",
+      "polish": "zachodziło słońce",
+      "english": "the sun was setting",
+      "pronunciation": "zah-khoh-DJEE-woh SWON-tseh",
+      "gender": null,
+      "category": "phrase_imperf",
+      "examplePolish": "Zachodziło słońce, gdy dotarli na plażę.",
+      "exampleEnglish": "The sun was setting when they reached the beach."
+    },
+    {
+      "id": "b1-ch16-w016",
+      "polish": "milczeć",
+      "english": "to be silent, to say nothing (imperf)",
+      "pronunciation": "MEEL-chech",
+      "gender": null,
+      "category": "verb_imperf",
+      "examplePolish": "Przez chwilę milczał, a potem odpowiedział.",
+      "exampleEnglish": "He was silent for a moment, then answered."
+    },
+    {
+      "id": "b1-ch16-w017",
+      "polish": "wybuchnąć",
+      "english": "to break out, explode (perf)",
+      "pronunciation": "vy-BOOKH-nownch",
+      "gender": null,
+      "category": "verb_perf",
+      "examplePolish": "W centrum wybuchł pożar.",
+      "exampleEnglish": "A fire broke out in the centre."
+    },
+    {
+      "id": "b1-ch16-w018",
+      "polish": "strzał",
+      "english": "shot, gunshot",
+      "pronunciation": "STZHAW",
+      "gender": "m",
+      "category": "noun",
+      "examplePolish": "Nagle rozległ się strzał.",
+      "exampleEnglish": "Suddenly a shot rang out."
+    },
+    {
+      "id": "b1-ch16-w019",
+      "polish": "rozłączyć się",
+      "english": "to hang up (phone), disconnect (perf)",
+      "pronunciation": "roz-WOWN-chich sheh",
+      "gender": null,
+      "category": "verb_perf",
+      "examplePolish": "Rozłączył się i odłożył telefon.",
+      "exampleEnglish": "He hung up and put down the phone."
+    },
+    {
+      "id": "b1-ch16-w020",
+      "polish": "wejść / wchodzić",
+      "english": "to enter / to be entering (perf/imperf)",
+      "pronunciation": "VEYSHCH / vKHO-djich",
+      "gender": null,
+      "category": "verb_pair",
+      "examplePolish": "Wszedł do pokoju i usiadł.",
+      "exampleEnglish": "He entered the room and sat down."
+    },
+    {
+      "id": "b1-ch16-w021",
+      "polish": "narrator",
+      "english": "narrator",
+      "pronunciation": "nar-RAH-tor",
+      "gender": "m",
+      "category": "noun",
+      "examplePolish": "Narrator opowiada historię w pierwszej osobie.",
+      "exampleEnglish": "The narrator tells the story in first person."
+    },
+    {
+      "id": "b1-ch16-w022",
+      "polish": "pauza",
+      "english": "pause, break",
+      "pronunciation": "PAH-oo-zah",
+      "gender": "f",
+      "category": "noun",
+      "examplePolish": "Zrobił pauzę i spojrzał przez okno.",
+      "exampleEnglish": "He paused and looked out the window."
+    },
+    {
+      "id": "b1-ch16-w023",
+      "polish": "klimat",
+      "english": "atmosphere, climate (literary)",
+      "pronunciation": "KLEE-mat",
+      "gender": "m",
+      "category": "noun",
+      "examplePolish": "Ten opis tworzy mroczny klimat.",
+      "exampleEnglish": "This description creates a dark atmosphere."
+    },
+    {
+      "id": "b1-ch16-w024",
+      "polish": "akcja",
+      "english": "plot, action (of a story)",
+      "pronunciation": "AK-tsyah",
+      "gender": "f",
+      "category": "noun",
+      "examplePolish": "Akcja powieści toczy się w Warszawie.",
+      "exampleEnglish": "The plot of the novel takes place in Warsaw."
+    },
+    {
+      "id": "b1-ch16-w025",
+      "polish": "wątek",
+      "english": "thread, storyline, subplot",
+      "pronunciation": "VON-tek",
+      "gender": "m",
+      "category": "noun",
+      "examplePolish": "W powieści jest kilka wątków.",
+      "exampleEnglish": "In the novel there are several storylines."
+    }
+  ],
+  "xpReward": 15,
+  "estimatedMinutes": 12,
+  "tags": ["narrative", "aspect", "storytelling", "b1-vocabulary"]
+}

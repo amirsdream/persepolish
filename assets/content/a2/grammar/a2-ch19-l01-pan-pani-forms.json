@@ -23,6 +23,7 @@
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Formal question to a man: Skąd ___ pochodzi? (Where are you from?)",
+      "prompt_fa": "سؤال رسمی به یک مرد: Skąd ___ pochodzi? (از کجا هستید؟)",
       "options": [
         "Pan",
         "Pani",
@@ -30,13 +31,15 @@
         "się"
       ],
       "correctIndex": 0,
-      "explanation": "Addressing a man formally: 'Pan' + 3rd person singular verb. 'Skąd Pan pochodzi?' = Where are you from? (to a man). 'Skąd Pani pochodzi?' = to a woman."
+      "explanation": "Addressing a man formally: 'Pan' + 3rd person singular verb. 'Skąd Pan pochodzi?' = Where are you from? (to a man). 'Skąd Pani pochodzi?' = to a woman.",
+      "explanation_fa": "خطاب رسمی به مرد: 'Pan' + فعل سوم شخص مفرد. 'Skąd Pan pochodzi?' یعنی «از کجا هستید؟» (به مرد). برای زن: 'Skąd Pani pochodzi?'"
     },
     {
       "id": "a2-ch19-l01-ex02",
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Formal to a woman: Czy ___ mówi po angielsku?",
+      "prompt_fa": "رسمی به یک زن: Czy ___ mówi po angielsku? (آیا انگلیسی صحبت می‌کنید؟)",
       "options": [
         "Pani",
         "Pan",
@@ -44,12 +47,15 @@
         "ty"
       ],
       "correctIndex": 0,
-      "explanation": "Addressing a woman formally: 'Pani' + 3rd person singular. 'Czy Pani mówi po angielsku?' = Do you speak English? (to a woman). Note: the verb 'mówi' is 3rd sg, not 'mówisz'."
+      "explanation": "Addressing a woman formally: 'Pani' + 3rd person singular. 'Czy Pani mówi po angielsku?' = Do you speak English? (to a woman). Note: the verb 'mówi' is 3rd sg, not 'mówisz'.",
+      "explanation_fa": "خطاب رسمی به زن: 'Pani' + سوم شخص مفرد. 'Czy Pani mówi po angielsku?' یعنی «آیا انگلیسی صحبت می‌کنید؟». توجه: فعل 'mówi' سوم شخص است نه 'mówisz' (دوم شخص)."
     },
     {
       "id": "a2-ch19-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "audioAsset": "assets/audio/a2/ch19/a2-ch19-l01-ex03.mp3",
       "options": [
         "Czy Pan może mi pomóc?",
@@ -58,13 +64,15 @@
         "Czy Pan mógłby mi pomóc?"
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Czy Pan może mi pomóc?' — Can you help me? (formal, to a man). 'Pan może' = 3rd sg formal. Compare informal: 'Czy ty możesz mi pomóc?' or 'Czy możesz mi pomóc?'"
+      "explanation": "You heard: 'Czy Pan może mi pomóc?' — Can you help me? (formal, to a man). 'Pan może' = 3rd sg formal. Compare informal: 'Czy ty możesz mi pomóc?' or 'Czy możesz mi pomóc?'",
+      "explanation_fa": "شنیدید: 'Czy Pan może mi pomóc?' — آیا می‌توانید به من کمک کنید؟ (رسمی، به مرد). 'Pan może' = سوم شخص رسمی. غیررسمی: 'Czy możesz mi pomóc?'"
     },
     {
       "id": "a2-ch19-l01-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Formal plural address to a mixed group: Dzień dobry ___! (Good morning, ladies and gentlemen!)",
+      "prompt_fa": "خطاب رسمی جمع به گروه مختلط: Dzień dobry ___! (صبح بخیر، آقایان و خانم‌ها!)",
       "options": [
         "Państwu",
         "Panowie",
@@ -72,13 +80,15 @@
         "Panie"
       ],
       "correctIndex": 0,
-      "explanation": "'Państwo' = formal plural (mixed group). In greetings with 'dzień dobry', use dative: 'Dzień dobry Państwu!' 'Panowie' = gentlemen (men only). 'Panie' = ladies (women only)."
+      "explanation": "'Państwo' = formal plural (mixed group). In greetings with 'dzień dobry', use dative: 'Dzień dobry Państwu!' 'Panowie' = gentlemen (men only). 'Panie' = ladies (women only).",
+      "explanation_fa": "'Państwo' = جمع رسمی (گروه مختلط). در سلام با 'dzień dobry' از حالت دادی استفاده می‌شود: 'Dzień dobry Państwu!' 'Panowie' = آقایان (فقط مردان). 'Panie' = خانم‌ها (فقط زنان)."
     },
     {
       "id": "a2-ch19-l01-ex05",
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build a formal question to a woman: What is your name? (Jak się Pani nazywa?)",
+      "prompt_fa": "یک سؤال رسمی به یک زن بسازید: اسمتان چیست؟ (Jak się Pani nazywa?)",
       "wordBank": [
         "Jak",
         "się",
@@ -89,15 +99,99 @@
         "?"
       ],
       "correctSequences": [
-        [
-          "Jak",
-          "się",
-          "Pani",
-          "nazywa",
-          "?"
-        ]
+        ["Jak", "się", "Pani", "nazywa", "?"]
       ],
-      "explanation": "'Jak się Pani nazywa?' — What is your name? (formal, to a woman). 'Pani' + 3rd singular: nazywa (not 'nazywasz' which is informal ty). To a man: 'Jak się Pan nazywa?'"
+      "explanation": "'Jak się Pani nazywa?' — What is your name? (formal, to a woman). 'Pani' + 3rd singular: nazywa (not 'nazywasz' which is informal ty). To a man: 'Jak się Pan nazywa?'",
+      "explanation_fa": "'Jak się Pani nazywa?' یعنی «اسمتان چیست؟» (رسمی، به زن). 'Pani' + سوم شخص: nazywa (نه 'nazywasz' که غیررسمی است). به مرد: 'Jak się Pan nazywa?'"
+    },
+    {
+      "id": "a2-ch19-l01-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Formal way to ask if Marek has a reservation: Czy ___ ma rezerwację?",
+      "prompt_fa": "روش رسمی برای پرسیدن از Marek که آیا رزرو دارد: Czy ___ ma rezerwację?",
+      "options": [
+        "Pan",
+        "ty",
+        "on",
+        "Pani"
+      ],
+      "correctIndex": 0,
+      "explanation": "Formal address to a man (Marek) = 'Pan' + 3rd person singular. 'Czy Pan ma rezerwację?' = Do you have a reservation? (formal). Using 'on' would be talking about him, not to him.",
+      "explanation_fa": "خطاب رسمی به مرد (Marek) = 'Pan' + سوم شخص مفرد. 'Czy Pan ma rezerwację?' یعنی «آیا رزرو دارید؟» (رسمی). استفاده از 'on' یعنی درباره‌اش صحبت می‌کنیم نه با او."
+    },
+    {
+      "id": "a2-ch19-l01-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Formal: You (f) know this word. Complete:",
+      "context_fa": "رسمی: شما (زن) این کلمه را می‌دانید. کامل کنید:",
+      "sentence": "Czy Pani ___ to słowo?",
+      "translation": "(Does Madam know this word?) [3rd person singular with Pani]",
+      "translation_fa": "(آیا خانم این کلمه را می‌دانią؟) [سوم شخص مفرد با Pani]",
+      "prompt": "Czy Pani ___ to słowo?",
+      "prompt_fa": "Czy Pani ___ to słowo?",
+      "answer": "zna",
+      "acceptableAnswers": ["zna"],
+      "hint": "znać → on/ona/Pani ___",
+      "explanation": "'Czy Pani zna to słowo?' = Do you know this word? (formal, f). Pani takes 3rd sg: zna (not znasz).",
+      "explanation_fa": "'Czy Pani zna to słowo?' یعنی «آیا این کلمه را می‌شناسید؟» (رسمی، زن). Pani سوم شخص مفرد می‌گیرد: zna (نه znasz)."
+    },
+    {
+      "id": "a2-ch19-l01-ex08",
+      "type": "dictation_mc",
+      "order": 8,
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "audioAsset": "assets/audio/a2/ch19/a2-ch19-l01-ex08.mp3",
+      "options": [
+        "Jak się Pani nazywa?",
+        "Jak się nazywasz?",
+        "Jak się Pan nazywa?",
+        "Jak masz na imię?"
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Jak się Pani nazywa?' — What is your name? (formal, to a woman). 'Pani' + 3rd sg 'nazywa'. Compare: 'Jak się Pan nazywa?' = to a man; 'Jak się nazywasz?' = informal.",
+      "explanation_fa": "شنیدید: 'Jak się Pani nazywa?' — اسمتان چیست؟ (رسمی، به زن). 'Pani' + سوم شخص 'nazywa'. مقایسه: 'Jak się Pan nazywa?' = به مرد؛ 'Jak się nazywasz?' = غیررسمی."
+    },
+    {
+      "id": "a2-ch19-l01-ex09",
+      "type": "sentence_builder",
+      "order": 9,
+      "prompt": "Build a formal question to a man: Do you want to order something? (Czy Pan chce zamówić?)",
+      "prompt_fa": "یک سؤال رسمی به یک مرد بسازید: آیا چیزی می‌خواهید سفارش دهید؟",
+      "wordBank": [
+        "Czy",
+        "Pan",
+        "Pani",
+        "chce",
+        "chcesz",
+        "zamówić",
+        "coś",
+        "?"
+      ],
+      "correctSequences": [
+        ["Czy", "Pan", "chce", "zamówić", "coś", "?"],
+        ["Czy", "Pan", "chce", "coś", "zamówić", "?"]
+      ],
+      "explanation": "'Czy Pan chce zamówić coś?' or 'Czy Pan chce coś zamówić?' — Do you want to order something? (formal, to a man). 'Pan chce' = 3rd sg formal. 'Chcesz' is informal.",
+      "explanation_fa": "'Czy Pan chce zamówić coś?' یعنی «آیا چیزی می‌خواهید سفارش دهید؟» (رسمی، به مرد). 'Pan chce' = سوم شخص رسمی. 'Chcesz' غیررسمی است."
+    },
+    {
+      "id": "a2-ch19-l01-ex10",
+      "type": "multiple_choice",
+      "order": 10,
+      "prompt": "Tomek is addressing his boss (a woman) formally. Which is correct?",
+      "prompt_fa": "Tomek دارد به رئیسش (یک زن) به شکل رسمی خطاب می‌کند. کدام درست است؟",
+      "options": [
+        "Czy Pani może mi pomóc?",
+        "Czy możesz mi pomóc?",
+        "Czy ona może mi pomóc?",
+        "Czy Państwo mogą mi pomóc?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Formal address to a woman = Pani + 3rd singular: 'Czy Pani może mi pomóc?' = Can you help me? (formal, f). 'Możesz' = informal. 'Ona' = 3rd person (not addressing her directly). 'Państwo' = plural.",
+      "explanation_fa": "خطاب رسمی به زن = Pani + سوم شخص مفرد: 'Czy Pani może mi pomóc?' یعنی «آیا می‌توانید به من کمک کنید؟» (رسمی). 'Możesz' غیررسمی است. 'Ona' سوم شخص است (نه خطاب مستقیم). 'Państwo' جمع است."
     }
   ],
   "xpReward": 20,

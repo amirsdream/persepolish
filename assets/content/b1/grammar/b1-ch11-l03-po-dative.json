@@ -1,0 +1,85 @@
+{
+  "id": "b1-ch11-l03-po-dative",
+  "chapter": 11,
+  "lessonOrder": 3,
+  "level": "b1",
+  "title": "po + Dative: Distributive and Iterative Meanings",
+  "title_fa": "po + دادی: معانی توزیعی و تکراری",
+  "grammarPoint": "Extended uses of po + dative: distributive (each), iterative (times a week), sequential (one after another)",
+  "grammarPoint_fa": "کاربردهای گسترده po + دادی: توزیعی (هر کدام)، تکراری (بار در هفته)، ترتیبی (یکی پس از دیگری)",
+  "explanation": {
+    "text": "The preposition **po** with the dative case has several B1-level uses beyond the basic distributive:\n\n**1. Distributive (covered in L02):**\n- Każdy dostał po jabłku. (Each got one apple — one each)\n- Note: po + singular dative for 'one each'\n\n**2. Iterative — frequency:**\n- Ćwiczę **po dwa razy** w tygodniu. (I exercise twice a week — each week)\n- Lekarz przychodzi **po dwa razy** w miesiącu.\n- Śpię **po osiem godzin** dziennie. (I sleep eight hours daily — each day)\n\n**3. Sequential — one after another:**\n- Wchodzili **po jednym**. (They entered one by one.)\n- Jedli **po kolei**. (They ate one after another / in turn.)\n- Szli **po dwóch**. (They walked in pairs/in twos.)\n\n**4. Surface/area (movement along):**\n- Spacerować **po parku**. (To stroll through/around the park.)\n- Chodzić **po górach**. (To walk in the mountains.)\n- Rozglądać się **po pokoju**. (To look around the room.)\n\n**5. After (temporal) — review:**\n- **Po lekcji** idę do domu. (After class I go home.)\n- **Po obiedzie** mamy kawę. (After dinner we have coffee.)\n\n**Key distinction:**\n- po jabłku = one apple each (distributive, singular dative)\n- po jabłka = pattern for 2+ (po dwa jabłka = two apples each)",
+    "notes": [
+      "po + singular dative = one each: po jabłku, po kanapce, po złotym",
+      "po + numeral = that many each: po dwa, po pięć",
+      "po kolei = in turn, one by one (fixed phrase)",
+      "po dwóch = in pairs, in twos (sequential movement)"
+    ]
+  },
+  "explanation_fa": "حرف اضافه 'po' با دادی کاربردهای متعددی دارد: توزیعی (po jabłku = هر کدام یک سیب)، تکراری (po dwa razy w tygodniu = دو بار در هفته)، ترتیبی (po jednym = یکی یکی، po kolei = به ترتیب)، و حرکت در سطح (po parku = در سرتاسر پارک). همچنین بعد از اسم زمانی: po lekcji = بعد از درس.",
+  "exercises": [
+    {
+      "id": "b1-ch11-l03-ex01",
+      "type": "multiple_choice",
+      "order": 1,
+      "prompt": "What does 'Wchodzili po jednym' mean?",
+      "prompt_fa": "'Wchodzili po jednym' چه معنایی دارد؟",
+      "options": [
+        "They entered one by one.",
+        "They entered together at once.",
+        "Each one entered after lunch.",
+        "They entered one room."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Po jednym' = one at a time, sequentially. 'Wchodzili po jednym' = they entered one by one.",
+      "explanation_fa": "'Po jednym' = یکی یکی، به ترتیب. 'Wchodzili po jednym' = یکی یکی وارد شدند."
+    },
+    {
+      "id": "b1-ch11-l03-ex02",
+      "type": "fill_blank",
+      "order": 2,
+      "context": "I go to the gym three times a week (each week). Complete:",
+      "context_fa": "من هر هفته سه بار به باشگاه می‌روم. کامل کنید:",
+      "sentence": "Chodzę na siłownię ___ trzy razy w tygodniu.",
+      "prompt": "Chodzę na siłownię ___ trzy razy w tygodniu.",
+      "prompt_fa": "Chodzę na siłownię ___ trzy razy w tygodniu.",
+      "answer": "po",
+      "acceptableAnswers": ["po"],
+      "hint": "po + numeral = iterative (each time / per period)",
+      "explanation": "'Po trzy razy w tygodniu' = three times per week (each week). 'Po' signals the repeated/iterative nature.",
+      "explanation_fa": "'Po trzy razy w tygodniu' = سه بار در هفته (هر هفته). 'Po' ماهیت تکراری را نشان می‌دهد."
+    },
+    {
+      "id": "b1-ch11-l03-ex03",
+      "type": "dictation_mc",
+      "order": 3,
+      "audioAsset": "assets/audio/b1/ch11/b1-ch11-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Rozglądałam się po pokoju i znalazłam klucze.",
+        "Rozglądałam się w pokoju i znalazłam klucze.",
+        "Rozglądałam się przez pokój i znalazłam klucze.",
+        "Rozglądałam się o pokoju i znalazłam klucze."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Rozglądać się po pokoju' = to look around the room (movement of gaze across a surface/space). 'Po' + dative for surface movement.",
+      "explanation_fa": "'Rozglądać się po pokoju' = در اتاق نگاه کردن (حرکت نگاه در سطح/فضا). 'Po' + دادی برای حرکت در سطح."
+    },
+    {
+      "id": "b1-ch11-l03-ex04",
+      "type": "sentence_builder",
+      "order": 4,
+      "prompt": "Build: They left the room one by one.",
+      "prompt_fa": "بسازید: یکی یکی از اتاق خارج شدند.",
+      "wordBank": ["Wychodzili", "po", "jednym", "razem", "z", "pokoju"],
+      "correctSequences": [["Wychodzili", "po", "jednym", "z", "pokoju"]],
+      "explanation": "'Wychodzili po jednym z pokoju.' — They left the room one by one. 'Po jednym' = one at a time (sequential).",
+      "explanation_fa": "'Wychodzili po jednym z pokoju.' — یکی یکی از اتاق خارج شدند. 'Po jednym' = یکی یکی (ترتیبی)."
+    }
+  ],
+  "xpReward": 20,
+  "estimatedMinutes": 10,
+  "tags": ["numerals", "po", "dative", "b1-core"],
+  "prerequisites": ["b1-ch11-l02"]
+}
