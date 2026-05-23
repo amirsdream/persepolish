@@ -8,13 +8,9 @@ final class ContentLoader {
     try {
       final String raw = await rootBundle.loadString(assetPath);
       return json.decode(raw) as Map<String, dynamic>;
-    } on Exception catch (e) {
+    } catch (e) {
       throw ContentLoadException(
         'Failed to load asset: $assetPath\n$e',
-      );
-    } on FormatException catch (e) {
-      throw ContentLoadException(
-        'Invalid JSON in asset: $assetPath\n${e.message}',
       );
     }
   }
@@ -23,7 +19,7 @@ final class ContentLoader {
     try {
       final String raw = await rootBundle.loadString(assetPath);
       return json.decode(raw) as List<dynamic>;
-    } on Exception catch (e) {
+    } catch (e) {
       throw ContentLoadException(
         'Failed to load asset: $assetPath\n$e',
       );

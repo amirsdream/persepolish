@@ -96,6 +96,7 @@ flutter:
     - assets/content/b1/
     - assets/content/b1/grammar/
     - assets/content/b1/vocabulary/
+    - assets/content/b1/exam/
 
   # Audio assets are loaded lazily — do not bundle here; use just_audio AssetAudioSource
 
