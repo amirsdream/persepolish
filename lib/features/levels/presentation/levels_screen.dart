@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 import 'package:go_router/go_router.dart';
 
 import '../../../core/l10n/app_localizations.dart';
@@ -135,7 +136,7 @@ class _BrandingHeaderDelegate extends SliverPersistentHeaderDelegate {
             child: Row(
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
-                // App icon badge
+                // App icon badge — uses the SVG logo
                 AnimatedContainer(
                   duration: AppDurations.fast,
                   width: lerpDouble(48, 36, t)!,
@@ -144,18 +145,18 @@ class _BrandingHeaderDelegate extends SliverPersistentHeaderDelegate {
                     borderRadius: BorderRadius.circular(12),
                     boxShadow: [
                       BoxShadow(
-                        color: AppColors.primary.withOpacity(0.3),
-                        blurRadius: 8,
+                        color: const Color(0xFFE8192C).withOpacity(0.35),
+                        blurRadius: 10,
                         offset: const Offset(0, 3),
                       ),
                     ],
                   ),
                   child: ClipRRect(
                     borderRadius: BorderRadius.circular(12),
-                    child: Image.asset(
-                      'assets/icon/icon_flat.png',
+                    child: SvgPicture.asset(
+                      'assets/icon/persepolish.svg',
                       fit: BoxFit.cover,
-                      errorBuilder: (_, __, ___) =>
+                      placeholderBuilder: (_) =>
                           _FallbackIconBadge(size: lerpDouble(48, 36, t)!),
                     ),
                   ),
@@ -224,20 +225,26 @@ class _FallbackIconBadge extends StatelessWidget {
         width: size,
         height: size,
         decoration: BoxDecoration(
+          // Polish flag: white top → red bottom
           gradient: const LinearGradient(
             begin: Alignment.topCenter,
             end: Alignment.bottomCenter,
-            colors: [Colors.white, Color(0xFFDC143C)],
+            colors: [Color(0xFFFFFFFF), Color(0xFFE8192C)],
           ),
-          borderRadius: BorderRadius.circular(size * 0.25),
+          borderRadius: BorderRadius.circular(size * 0.22),
+          border: Border.all(
+            color: const Color(0xFFFFD700),
+            width: size * 0.04,
+          ),
         ),
         child: Center(
           child: Text(
-            'P',
+            'PP',
             style: TextStyle(
               color: const Color(0xFF1A1A2E),
-              fontSize: size * 0.52,
+              fontSize: size * 0.30,
               fontWeight: FontWeight.w900,
+              letterSpacing: -1,
               height: 1,
             ),
           ),

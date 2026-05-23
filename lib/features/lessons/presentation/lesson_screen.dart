@@ -108,7 +108,12 @@ class _LessonView extends StatelessWidget {
       ),
       body: SafeArea(
         child: Padding(
-          padding: const EdgeInsets.all(Spacing.md),
+          // Horizontal padding on both views; vertical only on explanation card.
+          // ExerciseRunner manages its own bottom spacing so the pinned button
+          // clears the system navigation bar safely.
+          padding: showingExercises
+              ? const EdgeInsets.symmetric(horizontal: Spacing.md)
+              : const EdgeInsets.all(Spacing.md),
           child: AnimatedSwitcher(
             duration: AppDurations.medium,
             child: showingExercises

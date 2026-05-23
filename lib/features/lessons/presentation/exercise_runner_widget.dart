@@ -75,95 +75,113 @@ class _ExerciseRunnerWidgetState extends ConsumerState<ExerciseRunnerWidget> {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
       children: [
-        _ProgressIndicator(
-          current: session.currentIndex + 1,
-          total: widget.exercises.length,
-        ),
-        const SizedBox(height: Spacing.lg),
+        // ── Scrollable content area ─────────────────────────────────────────
+        // Wrapping in Expanded + SingleChildScrollView prevents bottom overflow
+        // on small screens (e.g. mobile Chrome) when the feedback banner
+        // appears alongside tall input widgets (4-option MC, sentence builder).
+        Expanded(
+          child: SingleChildScrollView(
+            padding: const EdgeInsets.only(bottom: Spacing.sm),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: [
+                _ProgressIndicator(
+                  current: session.currentIndex + 1,
+                  total: widget.exercises.length,
+                ),
+                const SizedBox(height: Spacing.lg),
 
-        // Prompt — fill_blank renders its own full sentence; skip the title here
-        if (exercise is DictationMcExercise)
-          _AudioPrompt(exercise: exercise, answered: _answered)
-        else if (exercise is! FillBlankExercise)
-          Semantics(
-            label: 'Question: $prompt',
-            child: Text(
-              prompt,
-              style: Theme.of(context).textTheme.titleLarge,
-              textDirection: isFa ? TextDirection.rtl : TextDirection.ltr,
-              textAlign: isFa ? TextAlign.right : TextAlign.left,
+                // Prompt — fill_blank renders its own sentence; skip title
+                if (exercise is DictationMcExercise)
+                  _AudioPrompt(exercise: exercise, answered: _answered)
+                else if (exercise is! FillBlankExercise)
+                  Semantics(
+                    label: 'Question: $prompt',
+                    child: Text(
+                      prompt,
+                      style: Theme.of(context).textTheme.titleLarge,
+                      textDirection:
+                          isFa ? TextDirection.rtl : TextDirection.ltr,
+                      textAlign: isFa ? TextAlign.right : TextAlign.left,
+                    ),
+                  ),
+                const SizedBox(height: Spacing.md),
+                const Divider(height: 1, thickness: 1, color: Color(0x1A000000)),
+                const SizedBox(height: Spacing.lg),
+
+                // Input widget per exercise type
+                AnimatedSwitcher(
+                  duration: AppDurations.fast,
+                  child: switch (exercise) {
+                    MultipleChoiceExercise mc => _MultipleChoiceInput(
+                        key: ValueKey(exercise.id),
+                        exercise: mc,
+                        teachingLang: teachingLang,
+                        selectedIndex: _selectedOption,
+                        answered: _answered,
+                        onSelect: _answered
+                            ? null
+                            : (i) => setState(() => _selectedOption = i),
+                      ),
+                    FillBlankExercise fill => _FillBlankInput(
+                        key: ValueKey(exercise.id),
+                        exercise: fill,
+                        teachingLang: teachingLang,
+                        controller: _textController,
+                        enabled: !_answered,
+                      ),
+                    DictationMcExercise dictation => _MultipleChoiceInput(
+                        key: ValueKey(exercise.id),
+                        exercise: MultipleChoiceExercise(
+                          id: dictation.id,
+                          prompt: dictation.prompt,
+                          explanation: dictation.explanation,
+                          options: dictation.options,
+                          correctIndex: dictation.correctIndex,
+                          promptFa: dictation.promptFa,
+                          explanationFa: dictation.explanationFa,
+                        ),
+                        teachingLang: teachingLang,
+                        selectedIndex: _selectedOption,
+                        answered: _answered,
+                        onSelect: _answered
+                            ? null
+                            : (i) => setState(() => _selectedOption = i),
+                      ),
+                    SentenceBuilderExercise builder => _SentenceBuilderInput(
+                        key: ValueKey(exercise.id),
+                        exercise: builder,
+                        teachingLang: teachingLang,
+                        chosenWords: _chosenWords,
+                        enabled: !_answered,
+                        onChanged: (words) =>
+                            setState(() => _chosenWords = words),
+                      ),
+                  },
+                ),
+                const SizedBox(height: Spacing.md),
+
+                // Feedback banner — slides up when answer is submitted.
+                // Lives inside the scroll area so it never pushes the button
+                // off-screen on short viewports.
+                if (_answered && _lastResult != null)
+                  _FeedbackBanner(
+                    result: _lastResult!,
+                    exercise: exercise,
+                    teachingLang: teachingLang,
+                  ).animate().slideY(
+                        begin: 0.3,
+                        duration: AppDurations.fast,
+                        curve: Curves.easeOut,
+                      ),
+              ],
             ),
           ),
-        const SizedBox(height: Spacing.md),
-        const Divider(height: 1, thickness: 1, color: Color(0x1A000000)),
-        const SizedBox(height: Spacing.lg),
-
-        // Input widget per exercise type
-        AnimatedSwitcher(
-          duration: AppDurations.fast,
-          child: switch (exercise) {
-            MultipleChoiceExercise mc => _MultipleChoiceInput(
-                key: ValueKey(exercise.id),
-                exercise: mc,
-                teachingLang: teachingLang,
-                selectedIndex: _selectedOption,
-                answered: _answered,
-                onSelect: _answered
-                    ? null
-                    : (i) => setState(() => _selectedOption = i),
-              ),
-            FillBlankExercise fill => _FillBlankInput(
-                key: ValueKey(exercise.id),
-                exercise: fill,
-                teachingLang: teachingLang,
-                controller: _textController,
-                enabled: !_answered,
-              ),
-            DictationMcExercise dictation => _MultipleChoiceInput(
-                key: ValueKey(exercise.id),
-                // reuse MC input — options are the written sentence choices
-                exercise: MultipleChoiceExercise(
-                  id: dictation.id,
-                  prompt: dictation.prompt,
-                  explanation: dictation.explanation,
-                  options: dictation.options,
-                  correctIndex: dictation.correctIndex,
-                  promptFa: dictation.promptFa,
-                  explanationFa: dictation.explanationFa,
-                ),
-                teachingLang: teachingLang,
-                selectedIndex: _selectedOption,
-                answered: _answered,
-                onSelect: _answered
-                    ? null
-                    : (i) => setState(() => _selectedOption = i),
-              ),
-            SentenceBuilderExercise builder => _SentenceBuilderInput(
-                key: ValueKey(exercise.id),
-                exercise: builder,
-                teachingLang: teachingLang,
-                chosenWords: _chosenWords,
-                enabled: !_answered,
-                onChanged: (words) => setState(() => _chosenWords = words),
-              ),
-          },
         ),
-        const SizedBox(height: Spacing.lg),
 
-        // Feedback
-        if (_answered && _lastResult != null)
-          _FeedbackBanner(
-            result: _lastResult!,
-            exercise: exercise,
-            teachingLang: teachingLang,
-          ).animate().slideY(
-                begin: 0.3,
-                duration: AppDurations.fast,
-                curve: Curves.easeOut,
-              ),
-
-        const Spacer(),
-
+        // ── Pinned action button ────────────────────────────────────────────
+        // Always visible at the bottom regardless of scroll position.
+        const SizedBox(height: Spacing.sm),
         _ActionButton(
           answered: _answered,
           onSubmit: _canSubmit(exercise) ? _onSubmit : null,

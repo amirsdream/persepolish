@@ -36,6 +36,9 @@ dependencies:
   # Markdown rendering
   flutter_markdown: ^0.7.4
 
+  # SVG rendering
+  flutter_svg: ^2.0.10+1
+
   # Utilities
   intl: ^0.20.0
   path: ^1.9.0
@@ -78,6 +81,7 @@ flutter:
 
   assets:
     - assets/icon/
+    - assets/icon/persepolish.svg
     - assets/content/
 
     # A1
