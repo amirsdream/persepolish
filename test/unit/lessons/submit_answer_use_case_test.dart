@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:lingualeap/features/lessons/domain/models/exercise.dart';
-import 'package:lingualeap/features/lessons/domain/use_cases/submit_answer_use_case.dart';
+import 'package:persepolish/features/lessons/domain/models/exercise.dart';
+import 'package:persepolish/features/lessons/domain/use_cases/submit_answer_use_case.dart';
 
 void main() {
   const useCase = SubmitAnswerUseCase();

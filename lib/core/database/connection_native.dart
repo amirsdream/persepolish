@@ -2,5 +2,5 @@ import 'package:drift/drift.dart';
 import 'package:drift_flutter/drift_flutter.dart';
 
 QueryExecutor openDatabaseConnection() {
-  return driftDatabase(name: 'lingualeap_db');
+  return driftDatabase(name: 'persepolish_db');
 }
