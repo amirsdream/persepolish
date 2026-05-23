@@ -4,15 +4,15 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import '../../../core/l10n/app_localizations.dart';
-import '../../../core/providers/locale_provider.dart';
-import '../../../core/theme/design_tokens.dart';
-import '../../gamification/data/gamification_repository.dart';
-import '../../gamification/domain/use_cases/award_xp_use_case.dart';
-import '../../gamification/presentation/gamification_provider.dart';
-import '../../gamification/presentation/star_burst_animation.dart';
-import '../../levels/presentation/levels_provider.dart';
-import '../domain/models/vocabulary_set.dart';
+import 'package:persepolish/core/l10n/app_localizations.dart';
+import 'package:persepolish/core/providers/locale_provider.dart';
+import 'package:persepolish/core/theme/design_tokens.dart';
+import 'package:persepolish/features/gamification/data/gamification_repository.dart';
+import 'package:persepolish/features/gamification/domain/use_cases/award_xp_use_case.dart';
+import 'package:persepolish/features/gamification/presentation/gamification_provider.dart';
+import 'package:persepolish/features/gamification/presentation/star_burst_animation.dart';
+import 'package:persepolish/features/levels/presentation/levels_provider.dart';
+import 'package:persepolish/features/vocabulary/domain/models/vocabulary_set.dart';
 
 // ── Provider ──────────────────────────────────────────────────────────────────
 

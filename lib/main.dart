@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'app.dart';
-import 'core/database/app_database.dart';
-import 'features/gamification/data/gamification_repository.dart';
-import 'features/gamification/domain/use_cases/update_streak_use_case.dart';
+import 'package:persepolish/app.dart';
+import 'package:persepolish/core/database/app_database.dart';
+import 'package:persepolish/features/gamification/data/gamification_repository.dart';
+import 'package:persepolish/features/gamification/domain/use_cases/update_streak_use_case.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

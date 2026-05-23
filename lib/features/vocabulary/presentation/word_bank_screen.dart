@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../../../core/l10n/app_localizations.dart';
-import '../../../core/theme/design_tokens.dart';
+import 'package:persepolish/core/l10n/app_localizations.dart';
+import 'package:persepolish/core/theme/design_tokens.dart';
 
 class WordBankScreen extends StatelessWidget {
   const WordBankScreen({super.key, this.filterLevel, this.filterCategory});
