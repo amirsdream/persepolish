@@ -13,8 +13,8 @@ final appDatabaseProvider = Provider<AppDatabase>((ref) {
   throw UnimplementedError('Override appDatabaseProvider in ProviderScope');
 });
 
-class LinguaLeapApp extends ConsumerWidget {
-  const LinguaLeapApp({super.key});
+class PersePolishApp extends ConsumerWidget {
+  const PersePolishApp({super.key});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
@@ -22,7 +22,7 @@ class LinguaLeapApp extends ConsumerWidget {
     final locale = ref.watch(localeProvider);
 
     return MaterialApp.router(
-      title: 'LinguaLeap',
+      title: 'PersePolish',
       theme: AppTheme.dark,
       routerConfig: router,
       debugShowCheckedModeBanner: false,

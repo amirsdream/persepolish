@@ -1,11 +1,11 @@
 {
-  "name": "Polska",
-  "short_name": "Polska",
+  "name": "PersePolish",
+  "short_name": "PersePolish",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#1a1a2e",
   "theme_color": "#DC143C",
-  "description": "Learn Polish from A1 to B2 — gamified language learning with exam prep.",
+  "description": "Learn Polish from A1 to B2 — gamified language learning with exam prep for Persian speakers.",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [

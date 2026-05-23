@@ -1,5 +1,5 @@
-name: lingualeap
-description: Polish language learning app (A1–B2) — Duolingo-style with gamification and exam prep.
+name: persepolish
+description: PersePolish — Learn Polish (A1–B2) with Persian support. Duolingo-style gamification and PKE exam prep.
 publish_to: 'none'
 version: 1.0.0+1
 

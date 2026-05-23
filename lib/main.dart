@@ -19,7 +19,7 @@ void main() async {
       overrides: [
         appDatabaseProvider.overrideWithValue(db),
       ],
-      child: const LinguaLeapApp(),
+      child: const PersePolishApp(),
     ),
   );
 }

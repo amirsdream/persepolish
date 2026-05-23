@@ -1,7 +1,7 @@
 {
   "@@locale": "en",
 
-  "appName": "Polska",
+  "appName": "PersePolish",
   "@appName": { "description": "Application name" },
 
   "tabLearn": "Learn",
