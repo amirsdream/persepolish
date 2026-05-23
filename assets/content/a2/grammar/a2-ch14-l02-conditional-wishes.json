@@ -16,13 +16,14 @@
       "Wolałbym...niż... = I would prefer...rather than... (comparison with 'niż')"
     ]
   },
-  "explanation_fa": "برای بیان آرزو و ترجیح از وجه شرطی استفاده می‌شود: Chciałbym pojechać do Paryża (دوست دارم به پاریس بروم). Wolałabym herbatę (ترجیح می‌دهم چای). Marzyłbym o... (آرزو دارم...). این ساختارها در لهستانی محاوره‌ای بسیار رایج هستند.",
+  "explanation_fa": "وجه شرطی در لهستانی برای بیان آرزو و ترجیح به شکل ادبانه استفاده می‌شود.\n\n**فعل chcieć (خواستن) — وجه شرطی:**\n- **chciałbym** (مذکر، اول شخص مفرد) = دوست داشتم / می‌خواستم\n- **chciałabym** (مؤنث، اول شخص مفرد) = دوست داشتم / می‌خواستم\n- **chciałbyś/chciałabyś** (دوم شخص مفرد) = دوست داشتی\n- **chciałby/chciałaby** (سوم شخص مفرد) = دوست داشت\n\n**ساختار:** chciałbym/chciałabym + مصدر فعل\n- Chciałbym zamówić kawę. = دوست دارم قهوه سفارش بدم. (مذکر)\n- Chciałabym pojechać do Paryża. = دوست دارم به پاریس بروم. (مؤنث)\n\n**فعل woleć (ترجیح دادن) — وجه شرطی:**\n- **wolałbym** (مذکر) = ترجیح می‌دادم\n- **wolałabym** (مؤنث) = ترجیح می‌دادم\n- **wolałby/wolałaby** (سوم شخص) = ترجیح می‌داد\n\n**ساختار:** wolałbym + مصدر یا اسم (حالت مفعولی)\n- Wolałbym zostać w domu. = ترجیح می‌دادم در خانه بمانم. (مذکر)\n- Wolałabym herbatę niż kawę. = ترجیح می‌دادم چای به جای قهوه. (مؤنث)\n- Wolałbym...niż... = ترجیح می‌دادم... به جای...\n\n**در رستوران و موقعیت‌های رسمی:**\n- Chciałbym poprosić o... = می‌خواستم بخواهم... (بسیار مودبانه)\n- این ساختارها از Chcę (می‌خواهم — حال ساده) مودبانه‌تر هستند.",
   "exercises": [
     {
       "id": "a2-ch14-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "___ zamówić stolik na dwie osoby. (I (f) would like to book a table for two.) [chcieć, ja f conditional]",
+      "prompt_fa": "جای خالی را با فرم درست فعل «chcieć» در وجه شرطی مؤنث پر کنید: ___ zamówić stolik na dwie osoby. (می‌خواستم یک میز برای دو نفر رزرو کنم — مؤنث)",
       "options": [
         "Chciałabym",
         "Chciałbym",
@@ -30,24 +31,33 @@
         "Chciałam"
       ],
       "correctIndex": 0,
-      "explanation": "Female speaker → 'chciałabym' (f conditional). 'Chciałbym' = masculine. 'Chcę' = present (less polite). 'Chciałam' = past (wanted, not conditional)."
+      "explanation": "Female speaker → 'chciałabym' (f conditional). 'Chciałbym' = masculine. 'Chcę' = present (less polite). 'Chciałam' = past (wanted, not conditional).",
+      "explanation_fa": "گوینده مؤنث است → 'chciałabym' (وجه شرطی مؤنث). 'Chciałbym' = مذکر (اشتباه). 'Chcę' = حال ساده (کمتر مودبانه). 'Chciałam' = گذشته (می‌خواستم، نه وجه شرطی)."
     },
     {
       "id": "a2-ch14-l02-ex02",
       "type": "fill_blank",
       "order": 2,
       "prompt": "___ pojechać nad morze niż w góry. (I (m) would prefer to go to the sea rather than to the mountains.)",
+      "prompt_fa": "جای خالی را پر کنید: ___ pojechać nad morze niż w góry. (ترجیح می‌دادم به دریا بروم تا به کوه‌ها — مذکر)",
+      "context": "A man is expressing his preference for a seaside vacation over a mountain trip.",
+      "context_fa": "یک مرد دارد ترجیح خود را برای تعطیلات در کنار دریا به جای کوه بیان می‌کند.",
+      "sentence": "___ pojechać nad morze niż w góry.",
       "answer": "Wolałbym",
       "acceptableAnswers": [
         "Wolałbym"
       ],
-      "hint": "Masculine preference conditional: wolałbym (woleć → wolał + bym)"
+      "hint": "Masculine preference conditional: wolałbym (woleć → wolał + bym)",
+      "explanation": "Masculine first-person conditional of 'woleć' (to prefer): wolałbym. The structure 'wolałbym + infinitive' = I would prefer to do something. 'Niż' = than/rather than for comparison.",
+      "explanation_fa": "وجه شرطی مذکر اول شخص از فعل 'woleć' (ترجیح دادن): wolałbym. ساختار 'wolałbym + مصدر' = ترجیح می‌دادم که... 'Niż' = به جای / تا (برای مقایسه)."
     },
     {
       "id": "a2-ch14-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch14/a2-ch14-l02-ex03.mp3",
+      "prompt": "Listen and choose the sentence you hear.",
+      "prompt_fa": "به صدا گوش دهید و جمله‌ای را که می‌شنوید انتخاب کنید.",
       "options": [
         "Chciałbym poprosić o rachunek.",
         "Chciałam poprosić o rachunek.",
@@ -55,13 +65,15 @@
         "Proszę o rachunek."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Chciałbym poprosić o rachunek.' — I (m) would like to ask for the bill. 'Chciałbym' + infinitive 'poprosić' = polite conditional request."
+      "explanation": "You heard: 'Chciałbym poprosić o rachunek.' — I (m) would like to ask for the bill. 'Chciałbym' + infinitive 'poprosić' = polite conditional request.",
+      "explanation_fa": "شنیدید: 'Chciałbym poprosić o rachunek.' — می‌خواستم صورت‌حساب را بخواهم. (مذکر) 'Chciałbym' + مصدر 'poprosić' = درخواست مودبانه در وجه شرطی."
     },
     {
       "id": "a2-ch14-l02-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "She would prefer tea. (wolałaby + noun) [woleć, ona conditional]",
+      "prompt_fa": "فرم صحیح 'woleć' در وجه شرطی مؤنث سوم شخص را انتخاب کنید: ___ herbatę. (او ترجیح می‌داد چای — مؤنث)",
       "options": [
         "Wolałaby herbatę.",
         "Wolałby herbatę.",
@@ -69,13 +81,15 @@
         "Wolała herbatę."
       ],
       "correctIndex": 0,
-      "explanation": "'Woleć' feminine conditional ona: wolałaby. 'Wolałby' = masculine. 'Woli' = present (she prefers). 'Wolała' = past (she preferred)."
+      "explanation": "'Woleć' feminine conditional ona: wolałaby. 'Wolałby' = masculine. 'Woli' = present (she prefers). 'Wolała' = past (she preferred).",
+      "explanation_fa": "وجه شرطی مؤنث سوم شخص از 'woleć': wolałaby. 'Wolałby' = مذکر (اشتباه). 'Woli' = حال (ترجیح می‌دهد). 'Wolała' = گذشته (ترجیح می‌داد — نه وجه شرطی)."
     },
     {
       "id": "a2-ch14-l02-ex05",
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: I (m) would like to order a soup and a salad.",
+      "prompt_fa": "جمله بسازید: می‌خواستم سوپ و سالاد سفارش بدم. (مذکر)",
       "wordBank": [
         "Chciałbym",
         "Chciałabym",
@@ -96,7 +110,110 @@
           "sałatkę"
         ]
       ],
-      "explanation": "'Chciałbym zamówić zupę i sałatkę.' — I (m) would like to order a soup and a salad. 'Chciałbym' + infinitive 'zamówić'. Accusative objects: zupę (f acc) + sałatkę (f acc)."
+      "explanation": "'Chciałbym zamówić zupę i sałatkę.' — I (m) would like to order a soup and a salad. 'Chciałbym' + infinitive 'zamówić'. Accusative objects: zupę (f acc) + sałatkę (f acc).",
+      "explanation_fa": "'Chciałbym zamówić zupę i sałatkę.' — می‌خواستم سوپ و سالاد سفارش بدم. (مذکر) 'Chciałbym' + مصدر 'zamówić'. مفعول‌ها در حالت مفعولی: zupę (مؤنث مفعولی) + sałatkę (مؤنث مفعولی)."
+    },
+    {
+      "id": "a2-ch14-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Could I have the menu, please? Choose the most polite form. [chcieć / móc, ja m conditional]",
+      "prompt_fa": "مودبانه‌ترین فرم درخواست منو را انتخاب کنید. [chcieć / móc، اول شخص مذکر وجه شرطی]",
+      "options": [
+        "Czy mógłbym prosić o menu?",
+        "Daj mi menu.",
+        "Chcę menu.",
+        "Mam menu?"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Czy mógłbym prosić o menu?' = Could I please have the menu? — the most polite form using conditional of 'móc' (mógłbym). 'Daj mi' = imperative (impolite in a restaurant). 'Chcę' = present tense (abrupt). 'Mam menu?' = incorrect in this context.",
+      "explanation_fa": "'Czy mógłbym prosić o menu?' = آیا می‌توانم لطفاً منو بخواهم؟ — مودبانه‌ترین فرم با استفاده از وجه شرطی 'móc' (mógłbym). 'Daj mi' = امری (بی‌ادبانه در رستوران). 'Chcę' = حال ساده (تند). 'Mam menu?' = غلط در این زمینه."
+    },
+    {
+      "id": "a2-ch14-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "prompt": "___ zostać w Krakowie jeszcze jeden dzień. (I (f) would prefer to stay in Kraków one more day.)",
+      "prompt_fa": "جای خالی را با فرم درست پر کنید: ___ zostać w Krakowie jeszcze jeden dzień. (ترجیح می‌دادم یک روز دیگر در کراکف بمانم — مؤنث)",
+      "context": "A female tourist is telling her friend she wishes she could extend her stay in Kraków.",
+      "context_fa": "یک توریست زن به دوستش می‌گوید که کاش می‌توانست اقامتش در کراکف را طولانی‌تر کند.",
+      "sentence": "___ zostać w Krakowie jeszcze jeden dzień.",
+      "answer": "Wolałabym",
+      "acceptableAnswers": [
+        "Wolałabym"
+      ],
+      "hint": "Feminine preference conditional: wolałabym (woleć → wolała + bym)",
+      "explanation": "Feminine first-person conditional of 'woleć': wolałabym. 'Zostać' = to stay (infinitive). 'Jeszcze jeden dzień' = one more day. Compare: wolałbym (m) vs wolałabym (f).",
+      "explanation_fa": "وجه شرطی مؤنث اول شخص از 'woleć': wolałabym. 'Zostać' = ماندن (مصدر). 'Jeszcze jeden dzień' = یک روز دیگر. مقایسه: wolałbym (مذکر) در مقابل wolałabym (مؤنث)."
+    },
+    {
+      "id": "a2-ch14-l02-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Which sentence correctly uses 'chciałbyś'? [chcieć, ty m conditional]",
+      "prompt_fa": "کدام جمله از 'chciałbyś' به درستی استفاده می‌کند؟ [chcieć، دوم شخص مذکر وجه شرطی]",
+      "options": [
+        "Chciałbyś iść na spacer?",
+        "Chciałbyś poszedł na spacer.",
+        "Chciałbyś idzie na spacer.",
+        "Chciałbyś spacerować się."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Chciałbyś iść na spacer?' = Would you (m) like to go for a walk? — correct: chciałbyś + infinitive 'iść'. Option B has a past form (wrong after chciałbyś). Option C has a conjugated verb (wrong — infinitive needed). Option D uses 'spacerować się' but incorrectly structured.",
+      "explanation_fa": "'Chciałbyś iść na spacer?' = آیا دوست داری پیاده‌روی کنی؟ (مذکر) — درست: chciałbyś + مصدر 'iść'. گزینه ب فرم گذشته دارد (اشتباه). گزینه ج فعل صرف‌شده دارد (اشتباه — باید مصدر باشد). گزینه د ساختار نادرست دارد."
+    },
+    {
+      "id": "a2-ch14-l02-ex09",
+      "type": "dictation_mc",
+      "order": 9,
+      "audioAsset": "assets/audio/a2/ch14/a2-ch14-l02-ex09.mp3",
+      "prompt": "Listen and choose the sentence you hear.",
+      "prompt_fa": "به صدا گوش دهید و جمله‌ای را که می‌شنوید انتخاب کنید.",
+      "options": [
+        "Wolałabym herbatę niż kawę.",
+        "Wolałbym herbatę niż kawę.",
+        "Wolę herbatę niż kawę.",
+        "Wolała herbatę niż kawę."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Wolałabym herbatę niż kawę.' — I (f) would prefer tea to coffee. 'Wolałabym' = feminine conditional of 'woleć'. 'Niż' = than/rather than. The object 'herbatę' is in the accusative.",
+      "explanation_fa": "شنیدید: 'Wolałabym herbatę niż kawę.' — ترجیح می‌دادم چای به جای قهوه. (مؤنث) 'Wolałabym' = وجه شرطی مؤنث از 'woleć'. 'Niż' = به جای / تا. مفعول 'herbatę' در حالت مفعولی است."
+    },
+    {
+      "id": "a2-ch14-l02-ex10",
+      "type": "sentence_builder",
+      "order": 10,
+      "prompt": "Build: I (f) would like to go to Italy and speak Italian.",
+      "prompt_fa": "جمله بسازید: دوست داشتم به ایتالیا بروم و ایتالیایی صحبت کنم. (مؤنث)",
+      "wordBank": [
+        "Chciałabym",
+        "Chciałbym",
+        "pojechać",
+        "pojechałam",
+        "do",
+        "Włoch",
+        "Włochy",
+        "i",
+        "mówić",
+        "mówiłam",
+        "po",
+        "włosku",
+        "włoski"
+      ],
+      "correctSequences": [
+        [
+          "Chciałabym",
+          "pojechać",
+          "do",
+          "Włoch",
+          "i",
+          "mówić",
+          "po",
+          "włosku"
+        ]
+      ],
+      "explanation": "'Chciałabym pojechać do Włoch i mówić po włosku.' — I (f) would like to go to Italy and speak Italian. 'Chciałabym' = female conditional. 'Do Włoch' = to Italy (genitive after 'do'). 'Mówić po włosku' = to speak Italian (lit. to speak in the Italian way).",
+      "explanation_fa": "'Chciałabym pojechać do Włoch i mówić po włosku.' — دوست داشتم به ایتالیا بروم و ایتالیایی صحبت کنم. (مؤنث) 'Chciałabym' = وجه شرطی مؤنث. 'Do Włoch' = به ایتالیا (مضاف‌الیه بعد از 'do'). 'Mówić po włosku' = ایتالیایی صحبت کردن (به معنای واقعی: به روش ایتالیایی صحبت کردن)."
     }
   ],
   "xpReward": 20,

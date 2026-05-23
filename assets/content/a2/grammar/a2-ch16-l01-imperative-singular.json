@@ -5,8 +5,8 @@
   "lessonOrder": 1,
   "title": "Imperative — Singular",
   "title_fa": "وجه امری — مفرد",
-  "grammarPoint": "Imperative singular (ty): formation rules — Group 1: stem + -aj; Group 2: stem; Group 3: drop -uje → stem; irregular: idź, bądź, jedz",
-  "grammarPoint_fa": "وجه امری مفرد: بن فعل حال + پسوند (-∅، -i/-y) — Idź!، Zrób!",
+  "grammarPoint": "Imperative singular (ty): formation rules — Group 1: stem + -aj; Group 2: consonant stem; Group 3: drop -uje → stem; irregular: idź, bądź, jedz, pij",
+  "grammarPoint_fa": "وجه امری مفرد (ty): گروه ۱: بن + -aj؛ گروه ۲: بن صامت؛ نامنظم: idź، bądź، jedz، pij",
   "explanation": {
     "text": "The **imperative** (tryb rozkazujący) is used for commands, requests, and instructions.\n\n**Forming the imperative (ty — singular informal):**\n\n**Step 1:** Take the 3rd person plural present (oni/one form)\n**Step 2:** Remove -ją or -ą ending to get the stem\n**Step 3:** Apply the rule:\n\n**Group 1 verbs** (-ają in 3rd pl):\n- czytać → czytaj**ą** → **czytaj!** (read!)\n- pracować → pracuj**ą** → **pracuj!** (work!)\n- słuchać → słuchaj**ą** → **słuchaj!** (listen!)\n\n**Group 2 verbs** (-ią/-ą in 3rd pl, consonant stem):\n- mówić → mówi**ą** → mów**!** (speak!)\n- robić → robi**ą** → rób**!** (do!)\n- pisać → piszą → pisz**!** (write!)\n\n**-ować verbs** (Group 3):\n- pracować → pracują → **pracuj!**\n- kupować → kupują → **kupuj!**\n\n**Key irregular imperatives:**\n\n| Infinitive | Imperative |\n|-----------|------------|\n| być | **bądź!** |\n| iść | **idź!** |\n| jechać | **jedź!** |\n| jeść | **jedz!** |\n| pić | **pij!** |\n\n**Negation:** Nie + imperative (same form)\n- **Nie mów** tak głośno! = Don't speak so loudly!\n- **Nie jedź** tak szybko! = Don't drive so fast!",
     "notes": [
@@ -16,13 +16,14 @@
       "Polite imperative: proszę + infinitive (see Ch16-l03)."
     ]
   },
-  "explanation_fa": "وجه امری مفرد معمولاً از بن فعل حال شخص سوم ساخته می‌شود: idzie → idź (برو!)، robi → rób (بکن!)، mówi → mów (بگو!). افعال گروه اول -aj نگه می‌دارند: czytaj (بخوان!). نفی: nie + وجه امری ناکامل: Nie idź! (نرو!).",
+  "explanation_fa": "وجه امری (tryb rozkazujący) در لهستانی برای دستور دادن، درخواست کردن و دادن دستورالعمل به کار می‌رود.\n\n**ساخت وجه امری مفرد (ty — دوم شخص مفرد غیررسمی):**\n\n**مرحله ۱:** فعل را در سوم شخص جمع حال (oni/one) بگیرید.\n**مرحله ۲:** پسوند -ją یا -ą را حذف کنید تا به بن فعل برسید.\n**مرحله ۳:** قانون مناسب را اعمال کنید:\n\n**گروه ۱ — افعال با -ają در سوم جمع:**\n- czytać → czytają → **czytaj!** (بخوان!)\n- słuchać → słuchają → **słuchaj!** (گوش بده!)\n- pracować → pracują → **pracuj!** (کار کن!)\n\n**گروه ۲ — افعال با بن صامت:**\n- mówić → mówią → **mów!** (بگو!)\n- robić → robią → **rób!** (بکن!)\n- pisać → piszą → **pisz!** (بنویس!)\n\n**افعال نامنظم کلیدی که باید حفظ شوند:**\n- być (بودن) → **bądź!** (باش!)\n- iść (رفتن پیاده) → **idź!** (برو!)\n- jechać (رفتن با وسیله نقلیه) → **jedź!** (برو!)\n- jeść (خوردن) → **jedz!** (بخور!)\n- pić (نوشیدن) → **pij!** (بنوش!)\n\n**نفی:** Nie + وجه امری (فرم ناکامل ترجیح داده می‌شود)\n- **Nie mów** tak głośno! = این‌قدر بلند حرف نزن!\n- **Nie jedź** tak szybko! = این‌قدر تند نران!",
   "exercises": [
     {
       "id": "a2-ch16-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "___ uważnie! (Listen carefully!) [słuchać, imperative ty]",
+      "prompt_fa": "___ با دقت! (با دقت گوش بده!) [słuchać، وجه امری مفرد]",
       "options": [
         "Słuchaj",
         "Słuchasz",
@@ -30,24 +31,33 @@
         "Słuchaj się"
       ],
       "correctIndex": 0,
-      "explanation": "'Słuchać' Group 1: słuchają → słuchaj! 'Słuchaj uważnie!' = Listen carefully! No reflexive 'się' needed here."
+      "explanation": "'Słuchać' Group 1: słuchają → słuchaj! 'Słuchaj uważnie!' = Listen carefully! No reflexive 'się' needed here.",
+      "explanation_fa": "فعل słuchać گروه ۱ است: słuchają → **słuchaj!** (گوش بده!) — پسوند -aj حفظ می‌شود. 'Słuchaj uważnie!' = با دقت گوش بده! ضمیر بازگشتی się در اینجا لازم نیست."
     },
     {
       "id": "a2-ch16-l01-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Nie ___ tak szybko! (Don't drive so fast!) [jechać — imperative, negation]",
+      "prompt": "Fill in the blank with the correct imperative form.",
+      "prompt_fa": "جای خالی را با فرم صحیح وجه امری پر کنید.",
+      "context": "Your friend is driving too fast on the highway. You warn them:",
+      "context_fa": "دوستت با سرعت زیاد در جاده رانندگی می‌کند. به او هشدار می‌دهی:",
+      "sentence": "Nie ___ tak szybko! (Don't drive so fast!)",
       "answer": "jedź",
       "acceptableAnswers": [
         "jedź"
       ],
-      "hint": "Irregular imperative of jechać: jedź! Negation: Nie jedź!"
+      "hint": "Irregular imperative of jechać: jedź! Negation: Nie jedź!",
+      "explanation": "'Jechać' (to go by vehicle) has an irregular imperative: jedź! The negated form is 'Nie jedź!' = Don't drive/go (so fast)!",
+      "explanation_fa": "فعل jechać (رفتن با وسیله نقلیه) وجه امری نامنظم دارد: **jedź!** (برو!/بران!) — این شکل باید حفظ شود. فرم منفی: **Nie jedź!** = نران!/نرو! جمله کامل: 'Nie jedź tak szybko!' = این‌قدر تند نران!"
     },
     {
       "id": "a2-ch16-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch16/a2-ch16-l01-ex03.mp3",
+      "prompt": "Listen and choose the sentence you hear.",
+      "prompt_fa": "گوش دهید و جمله‌ای که می‌شنوید را انتخاب کنید.",
       "options": [
         "Pisz maila do szefa!",
         "Pisze maila do szefa.",
@@ -55,13 +65,31 @@
         "Napisz maila do szefa!"
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Pisz maila do szefa!' — Write an email to the boss! 'Pisać' → pisz! (imperfective imperative — ongoing action). 'Napisz!' would be perfective (write and finish it)."
+      "explanation": "You heard: 'Pisz maila do szefa!' — Write an email to the boss! 'Pisać' → pisz! (imperfective imperative — ongoing action). 'Napisz!' would be perfective (write and finish it).",
+      "explanation_fa": "شنیدید: 'Pisz maila do szefa!' — به رئیس ایمیل بنویس! فعل pisać (نوشتن — ناکامل) وجه امری: **pisz!** — این دستور یک فرایند جاری را بیان می‌کند. 'Napisz!' (کامل) یعنی بنویس و تمامش کن. 'Maila' = ایمیل (حالت مفعولی از mail). 'Do szefa' = به رئیس."
     },
     {
       "id": "a2-ch16-l01-ex04",
-      "type": "sentence_builder",
+      "type": "multiple_choice",
       "order": 4,
+      "prompt": "Which is the correct imperative of 'robić' (to do/make)?",
+      "prompt_fa": "کدام وجه امری صحیح برای فعل robić (کردن/ساختن) است؟",
+      "options": [
+        "Rób!",
+        "Robij!",
+        "Robi!",
+        "Robisz!"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Robić' is a Group 2 verb: robią → remove -ą → rob- → but final consonant softens: **rób!** The ó/o alternation is regular (o → ó in stressed closed syllable).",
+      "explanation_fa": "فعل robić گروه ۲ است: robią → حذف -ą → bن- → **rób!** (بکن!) — در اینجا تبدیل o→ó اتفاق می‌افتد که در فارسی معادل ندارد ولی در لهستانی در هجاهای بسته استرس‌دار رایج است. 'Robij' و 'Robi' اشتباه هستند."
+    },
+    {
+      "id": "a2-ch16-l01-ex05",
+      "type": "sentence_builder",
+      "order": 5,
       "prompt": "Build: Don't eat so fast! (negated imperative — jeść)",
+      "prompt_fa": "بسازید: این‌قدر تند نخور! (وجه امری منفی — jeść)",
       "wordBank": [
         "Nie",
         "jedz",
@@ -79,13 +107,15 @@
           "szybko"
         ]
       ],
-      "explanation": "'Nie jedz tak szybko!' — Don't eat so fast! Imperative of 'jeść': jedz! (irregular). Negation: Nie jedz. 'Tak szybko' = so fast."
+      "explanation": "'Nie jedz tak szybko!' — Don't eat so fast! Imperative of 'jeść': jedz! (irregular). Negation: Nie jedz. 'Tak szybko' = so fast.",
+      "explanation_fa": "جمله صحیح: **'Nie jedz tak szybko!'** — این‌قدر تند نخور! وجه امری نامنظم jeść: **jedz!** (بخور!). فرم منفی: **Nie jedz** (نخور). 'Tak szybko' = این‌قدر سریع/تند. توجه: در نفی وجه امری، معمولاً فعل ناکامل استفاده می‌شود."
     },
     {
-      "id": "a2-ch16-l01-ex05",
+      "id": "a2-ch16-l01-ex06",
       "type": "multiple_choice",
-      "order": 5,
+      "order": 6,
       "prompt": "___ spokojny! (Be calm! / Stay calm!) [być — imperative ty]",
+      "prompt_fa": "___ آرام! (آرام باش!) [być — وجه امری مفرد]",
       "options": [
         "Bądź",
         "Jesteś",
@@ -93,11 +123,99 @@
         "Będziesz"
       ],
       "correctIndex": 0,
-      "explanation": "Irregular imperative of 'być': bądź! 'Bądź spokojny!' = Be calm! (m) / 'Bądź spokojna!' (f). Common in reassuring contexts."
+      "explanation": "Irregular imperative of 'być': bądź! 'Bądź spokojny!' = Be calm! (m) / 'Bądź spokojna!' (f). Common in reassuring contexts.",
+      "explanation_fa": "وجه امری نامنظم فعل być (بودن): **bądź!** (باش!) — این شکل را باید حفظ کرد زیرا هیچ قاعده منظمی ندارد. 'Bądź spokojny!' = آرام باش! (برای مذکر). 'Bądź spokojna!' = آرام باش! (برای مؤنث). در موقعیت‌های دلداری‌دادن بسیار رایج است."
+    },
+    {
+      "id": "a2-ch16-l01-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "prompt": "Fill in the blank with the correct imperative form.",
+      "prompt_fa": "جای خالی را با فرم صحیح وجه امری پر کنید.",
+      "context": "You see your younger sibling playing games instead of studying. You tell them:",
+      "context_fa": "برادر یا خواهر کوچکترت به جای درس خواندن بازی می‌کند. به او می‌گویی:",
+      "sentence": "___ lekcje przed wyjściem! (Do your homework before going out!) [robić]",
+      "answer": "Rób",
+      "acceptableAnswers": [
+        "Rób",
+        "rób"
+      ],
+      "hint": "robić → robią → rób! (Group 2 with vowel change o→ó)",
+      "explanation": "'Robić' imperative: rób! (o→ó vowel change in closed syllable). 'Rób lekcje!' = Do your homework! 'Przed wyjściem' = before going out.",
+      "explanation_fa": "فعل robić وجه امری: **rób!** — تبدیل واکه o→ó در هجای بسته اتفاق می‌افتد. 'Rób lekcje!' = تکالیفت را انجام بده! 'Lekcje' (جمع lekcja) = درس‌ها/تکالیف. 'Przed wyjściem' = قبل از رفتن بیرون. این دستور برای اشاره به یک فرایند جاری استفاده می‌شود."
+    },
+    {
+      "id": "a2-ch16-l01-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Which sentence uses the correct imperative of 'pić' (to drink)?",
+      "prompt_fa": "کدام جمله وجه امری صحیح برای فعل pić (نوشیدن) را دارد؟",
+      "options": [
+        "Pij więcej wody!",
+        "Pijesz więcej wody!",
+        "Pić więcej wody!",
+        "Piłeś więcej wody!"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Pić' → piją → remove -ją → pi- → **pij!** 'Pij więcej wody!' = Drink more water! 'Więcej' = more (genitive comparison). 'Wody' = water (genitive after 'więcej').",
+      "explanation_fa": "فعل pić (نوشیدن): piją → حذف -ją → pi- → **pij!** (بنوش!) — این وجه امری نامنظم است. 'Pij więcej wody!' = بیشتر آب بنوش! 'Więcej' = بیشتر (مقایسه‌ای). 'Wody' = آب در حالت مضاف‌الیهی (بعد از więcej حالت مضاف‌الیهی می‌آید)."
+    },
+    {
+      "id": "a2-ch16-l01-ex09",
+      "type": "dictation_mc",
+      "order": 9,
+      "audioAsset": "assets/audio/a2/ch16/a2-ch16-l01-ex09.mp3",
+      "prompt": "Listen and choose the sentence you hear.",
+      "prompt_fa": "گوش دهید و جمله‌ای که می‌شنوید را انتخاب کنید.",
+      "options": [
+        "Bądź cierpliwy, to się uda!",
+        "Byłeś cierpliwy, to się udało.",
+        "Jesteś cierpliwy, to się uda.",
+        "Będziesz cierpliwy, to się uda."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Bądź cierpliwy, to się uda!' — Be patient, it will work out! 'Bądź' = irregular imperative of 'być'. 'Cierpliwy' = patient (m adj). 'To się uda' = it will succeed/work out.",
+      "explanation_fa": "شنیدید: 'Bądź cierpliwy, to się uda!' — صبور باش، درست می‌شود! **Bądź** = وجه امری نامنظم być (بودن). 'Cierpliwy' = صبور (صفت مذکر). 'To się uda' = موفق خواهد شد/درست می‌شود — ساختار 'اگر...پس' در لهستانی بدون接続词 'jeśli' هم ممکن است."
+    },
+    {
+      "id": "a2-ch16-l01-ex10",
+      "type": "sentence_builder",
+      "order": 10,
+      "prompt": "Build: Read this book and tell me what you think! [czytać + powiedzieć imperatives]",
+      "prompt_fa": "بسازید: این کتاب را بخوان و بگو چه فکری می‌کنی! [وجه امری czytać + powiedzieć]",
+      "wordBank": [
+        "Czytaj",
+        "Czytasz",
+        "tę",
+        "tą",
+        "książkę",
+        "i",
+        "powiedz",
+        "powiedzieć",
+        "mi",
+        "co",
+        "myślisz",
+        "myślenie",
+        "!"
+      ],
+      "correctSequences": [
+        [
+          "Czytaj",
+          "tę",
+          "książkę",
+          "i",
+          "powiedz",
+          "mi",
+          "co",
+          "myślisz"
+        ]
+      ],
+      "explanation": "'Czytaj tę książkę i powiedz mi, co myślisz!' — Read this book and tell me what you think! 'Czytaj' = imperative of czytać (Group 1). 'Powiedz' = irregular imperative of powiedzieć. 'Tę książkę' = accusative this book (f). 'Co myślisz' = what you think.",
+      "explanation_fa": "جمله صحیح: **'Czytaj tę książkę i powiedz mi, co myślisz!'** — این کتاب را بخوان و به من بگو چه فکری می‌کنی! **Czytaj** = وجه امری گروه ۱ (czytać). **Powiedz** = وجه امری نامنظم powiedzieć (گفتن). 'Tę książkę' = این کتاب (حالت مفعولی مؤنث). 'Co myślisz' = چه فکری می‌کنی (جمله مستقل)."
     }
   ],
   "xpReward": 20,
-  "estimatedMinutes": 10,
+  "estimatedMinutes": 15,
   "tags": [
     "imperative",
     "commands",

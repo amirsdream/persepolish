@@ -4,25 +4,28 @@
   "chapter": 18,
   "lessonOrder": 1,
   "title": "Verbal Nouns with -nie",
-  "title_fa": "اسم مصدر با -nie",
+  "title_fa": "اسم مصدر با پسوند -nie",
   "grammarPoint": "Forming verbal nouns with the -nie suffix (czytanie, pisanie, mówienie, uczenie się) from imperfective verb stems",
-  "grammarPoint_fa": "ساختن اسم مصدر از افعال ناکامل: czytanie، pisanie، uczenie się",
+  "grammarPoint_fa": "ساختن اسم فعلی از افعال ناکامل با پسوند -nie: czytanie، pisanie، mówienie، uczenie się",
   "explanation": {
-    "text": "Polish forms abstract nouns from verbs using the suffix **-nie** (or **-enie** after soft consonants). These are called **rzeczowniki odczasownikowe** (verbal nouns).\n\n**Formation rule:**\n- Take the 3rd person singular past tense (neuter): czytało, pisało, mówiło\n- Replace -ło with -nie: czyta**nie**, pisa**nie**, mówi**enie**\n\nOr more simply:\n- Infinitive → remove -ć → add -nie\n- czyta**ć** → czyta**nie** (reading)\n- pisa**ć** → pisa**nie** (writing)\n- mówi**ć** → mówi**enie** (speaking)\n- uczy**ć** się → ucze**nie** się (learning)\n- słucha**ć** → słucha**nie** (listening)\n- gotowa**ć** → gotowa**nie** (cooking)\n- tańczy**ć** → tańcze**nie** (dancing)\n- śpiewa**ć** → śpiewa**nie** (singing)\n- ćwiczy**ć** → ćwicze**nie** (exercising)\n\n**Gender and declension:**\nAll -nie verbal nouns are **neuter** (like 'piękne pisanie').\nThey decline like neuter nouns:\n- Nom/Acc: czytanie\n- Gen: czytania\n- Dat: czytaniu\n- Instr: czytaniem\n- Loc: czytaniu\n\n**Usage — these nouns work like English gerunds (-ing):**\n- **Subject**: Czytanie jest ważne. (Reading is important.)\n- **Object**: Lubię czytanie. (I like reading.)\n- **After prepositions**: Uczę się przez słuchanie. (I learn through listening.)\n- **Genitive (partitive)**: Mam dużo czytania. (I have a lot of reading.)\n\n**Useful phrases:**\n- Lubię czytanie / Nie lubię gotowania.\n- Uczenie się języków jest trudne.\n- Słuchanie muzyki mi pomaga.\n- Dzięki ćwiczeniu mówię lepiej.",
+    "text": "Polish forms abstract nouns from verbs using the suffix **-nie** (or **-enie** after soft consonants). These are called **rzeczowniki odczasownikowe** (verbal nouns).\n\n**Formation rule:**\n- Take the 3rd person singular past tense (neuter): czytało, pisało, mówiło\n- Replace -ło with -nie: czyta**nie**, pisa**nie**, mówi**enie**\n\nOr more simply:\n- Infinitive → remove -ć → add -nie\n- czyta**ć** → czyta**nie** (reading)\n- pisa**ć** → pisa**nie** (writing)\n- mówi**ć** → mówi**enie** (speaking)\n- uczy**ć** się → ucze**nie** się (learning)\n- słucha**ć** → słucha**nie** (listening)\n- gotowa**ć** → gotowa**nie** (cooking)\n- tańczy**ć** → tańcze**nie** (dancing)\n- śpiewa**ć** → śpiewa**nie** (singing)\n- ćwiczy**ć** → ćwicze**nie** (exercising)\n- robi**ć** → robie**nie** (doing)\n- ogląda**ć** → ogląda**nie** (watching)\n\n**Gender and declension:**\nAll -nie verbal nouns are **neuter** (like 'piękne pisanie').\nThey decline like neuter nouns:\n- Nom/Acc: czytanie\n- Gen: czytania\n- Dat: czytaniu\n- Instr: czytaniem\n- Loc: czytaniu\n\n**Usage — these nouns work like English gerunds (-ing):**\n- **Subject**: Czytanie jest ważne. (Reading is important.)\n- **Object**: Lubię czytanie. (I like reading.)\n- **After prepositions**: Uczę się przez słuchanie. (I learn through listening.)\n- **Genitive after po** (after): Po czytaniu idę spać. (After reading I go to sleep.)\n- **Instrumental after przed** (before): Przed pisaniem myślę. (Before writing I think.)\n\n**Useful phrases:**\n- Lubię czytanie / Nie lubię gotowania.\n- Uczenie się języków jest trudne.\n- Słuchanie muzyki mi pomaga.\n- Dzięki ćwiczeniu mówię lepiej.",
     "notes": [
-      "Verbal nouns in -nie are always neuter: piękne czytanie, dobre pisanie.",
-      "Formation: infinitive → drop -ć → add -nie (czytać → czytanie). Soft stems get -enie: mówić → mówienie.",
+      "Verbal nouns in -nie are always neuter (rodzaj nijaki): piękne czytanie, dobre pisanie.",
+      "Formation: infinitive → drop -ć → add -nie (czytać → czytanie). Soft stems get -enie: mówić → mówienie, robić → robienie.",
       "They work like English gerunds: Lubię czytanie = I like reading.",
-      "Genitive of verbal noun is common: dużo czytania, mało ćwiczenia, trochę gotowania."
+      "Genitive of verbal noun is common: dużo czytania, mało ćwiczenia, trochę gotowania.",
+      "After preposition 'po' use genitive: po czytaniu (after reading), po pisaniu (after writing).",
+      "After preposition 'przed' use instrumental: przed pisaniem (before writing), przed mówienie → przed mówieniem."
     ]
   },
-  "explanation_fa": "اسم مصدر (rzeczownik odsłowny) از مصدر ناکامل با حذف -ć و افزودن -nie ساخته می‌شود: czytać → czytanie (خواندن)، pisać → pisanie (نوشتن)، mówić → mówienie (گفتن). اگر مصدر به -ać ختم شود و صدای آخر تغییر کند: uczyć → uczenie. این اسم‌ها مانند اسم‌های خنثی رفتار می‌کنند.",
+  "explanation_fa": "در زبان لهستانی، اسم فعلی (rzeczownik odczasownikowy) از مصدر ناکامل با حذف پسوند -ć و افزودن -nie ساخته می‌شود. این ساختار معادل مصدر به‌عنوان اسم در فارسی است.\n\n**قاعده ساخت:**\n- czytać (خواندن) → czytanie\n- pisać (نوشتن) → pisanie\n- mówić (گفتن/حرف زدن) → mówienie (با صدای نرم پسوند -enie می‌گیرد)\n- robić (انجام دادن) → robienie\n- oglądać (تماشا کردن) → oglądanie\n\n**جنس دستوری:** تمام اسم‌های فعلی با -nie از جنس خنثی (nijaki) هستند، مانند: piękne czytanie (خواندن زیبا).\n\n**تصریف در حالت‌های مختلف:**\n- حالت فاعلی/مفعولی: czytanie\n- حالت اضافه (مضاف‌الیه): czytania — مثال: dużo czytania (خواندن زیاد)\n- حالت داتیو: czytaniu\n- حالت ابزاری: czytaniem — مثال: przed pisaniem (قبل از نوشتن)\n- حالت مکانی: czytaniu\n\n**کاربردها:**\n- فاعل جمله: Czytanie jest ważne. (خواندن مهم است.)\n- مفعول: Lubię czytanie. (خواندن را دوست دارم.)\n- بعد از حرف اضافه «po» + اضافه: Po czytaniu... (بعد از خواندن...)\n- بعد از حرف اضافه «przed» + ابزاری: Przed pisaniem... (قبل از نوشتن...)\n- بعد از حرف اضافه «przez» + مفعولی: przez słuchanie (از طریق گوش دادن)\n\nاین اسم‌ها در لهستانی بسیار پرکاربردند و برابر «-ing» در انگلیسی یا مصدر اسمی در فارسی عمل می‌کنند.",
   "exercises": [
     {
       "id": "a2-ch18-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Form the verbal noun from 'czytać' (to read). Lubię ___.",
+      "prompt_fa": "اسم فعلی از 'czytać' (خواندن) بسازید. Lubię ___.",
       "options": [
         "czytanie",
         "czytać",
@@ -30,25 +33,34 @@
         "czytania"
       ],
       "correctIndex": 0,
-      "explanation": "czytać → czytanie (reading). This is the nominative/accusative form used after lubić. 'Lubię czytanie' = I like reading."
+      "explanation": "czytać → czytanie (reading). This is the nominative/accusative form used after lubić. 'Lubię czytanie' = I like reading. The verbal noun is neuter and used in accusative after the verb lubić.",
+      "explanation_fa": "czytać → czytanie (خواندن). این شکل حالت فاعلی/مفعولی است که بعد از فعل lubić (دوست داشتن) به‌کار می‌رود. 'Lubię czytanie' یعنی «خواندن را دوست دارم». اسم فعلی جنس خنثی دارد و در حالت مفعولی همانند حالت فاعلی است."
     },
     {
       "id": "a2-ch18-l01-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "___ języków jest trudne. (Learning languages is difficult.) [uczenie się]",
+      "context": "Anna talks about her hobbies: '___  języków jest trudne, ale bardzo lubię to robić.'",
+      "context_fa": "آنا درباره سرگرمی‌هایش صحبت می‌کند: '___ języków jest trudne, ale bardzo lubię to robić.'",
+      "prompt": "Fill in with the verbal noun of 'uczyć się' (to learn): ___ języków jest trudne.",
+      "prompt_fa": "با اسم فعلی 'uczyć się' (یاد گرفتن) جای خالی را پر کنید: ___ języków jest trudne.",
+      "sentence": "___ języków jest trudne.",
       "answer": "Uczenie się",
       "acceptableAnswers": [
         "Uczenie się",
         "uczenie się"
       ],
-      "hint": "uczyć się → uczenie się. Verbal noun as sentence subject."
+      "hint": "uczyć się → uczenie się. Verbal noun as sentence subject. Soft stem: -enie suffix.",
+      "explanation": "uczyć się → uczenie się (learning). The soft stem -yć triggers -enie instead of -nie. As the subject of the sentence, the nominative form is used. 'Uczenie się języków jest trudne' = Learning languages is difficult.",
+      "explanation_fa": "uczyć się → uczenie się (یاد گرفتن). بن نرم -yć باعث می‌شود پسوند -enie به‌جای -nie بیاید. چون فاعل جمله است، حالت فاعلی به‌کار می‌رود. 'Uczenie się języków jest trudne' یعنی «یاد گرفتن زبان‌ها سخت است»."
     },
     {
       "id": "a2-ch18-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch18/a2-ch18-l01-ex03.mp3",
+      "prompt": "Listen and choose the sentence you hear.",
+      "prompt_fa": "گوش دهید و جمله‌ای را که می‌شنوید انتخاب کنید.",
       "options": [
         "Słuchanie muzyki mi pomaga.",
         "Słucham muzyki mi pomaga.",
@@ -56,13 +68,15 @@
         "Słuchanie muzyki jest trudne."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Słuchanie muzyki mi pomaga.' — Listening to music helps me. Słuchać → słuchanie. 'Muzyki' = genitive (object of verbal noun)."
+      "explanation": "You heard: 'Słuchanie muzyki mi pomaga.' — Listening to music helps me. Słuchać → słuchanie. 'Muzyki' = genitive (object of verbal noun). 'Mi pomaga' = helps me (dative mi).",
+      "explanation_fa": "شنیدید: 'Słuchanie muzyki mi pomaga.' — گوش دادن به موسیقی به من کمک می‌کند. słuchać → słuchanie (گوش دادن). 'Muzyki' حالت اضافه است (مفعول اسم فعلی). 'Mi pomaga' یعنی به من کمک می‌کند (mi = به من، حالت داتیو)."
     },
     {
       "id": "a2-ch18-l01-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "What is the verbal noun from 'gotować' (to cook)?",
+      "prompt_fa": "اسم فعلی از 'gotować' (آشپزی کردن) چیست؟",
       "options": [
         "gotowanie",
         "gotowanie się",
@@ -70,13 +84,15 @@
         "gotowaniu"
       ],
       "correctIndex": 0,
-      "explanation": "gotować → gotowanie (cooking). Used like: 'Lubię gotowanie' = I like cooking, or 'Jestem dobra w gotowaniu' = I'm good at cooking (+ locative)."
+      "explanation": "gotować → gotowanie (cooking). The infinitive drops -ć and adds -nie, but here the stem ends in -ow-, giving gotowanie. Used like: 'Lubię gotowanie' = I like cooking, or 'Jestem dobra w gotowaniu' = I'm good at cooking (locative after 'w').",
+      "explanation_fa": "gotować → gotowanie (آشپزی). مصدر -ć را حذف می‌کنیم و -nie اضافه می‌کنیم؛ اما بن به -ow- ختم می‌شود، پس gotowanie می‌شود. کاربرد: 'Lubię gotowanie' = آشپزی را دوست دارم، یا 'Jestem dobra w gotowaniu' = در آشپزی خوب هستم (حالت مکانی بعد از 'w')."
     },
     {
       "id": "a2-ch18-l01-ex05",
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: I learn through listening. (przez + accusative of verbal noun)",
+      "prompt_fa": "جمله بسازید: از طریق گوش دادن یاد می‌گیرم. (przez + مفعولی اسم فعلی)",
       "wordBank": [
         "Uczę",
         "uczę",
@@ -104,7 +120,120 @@
           "."
         ]
       ],
-      "explanation": "'Uczę się przez słuchanie.' — I learn through listening. Przez + accusative: słuchanie (acc = nom for neuter). 'Przez słuchanie muzyki' = through listening to music."
+      "explanation": "'Uczę się przez słuchanie.' — I learn through listening. Przez + accusative: słuchanie (acc = nom for neuter nouns). The preposition 'przez' governs the accusative case. Adding muzyki: 'przez słuchanie muzyki' = through listening to music.",
+      "explanation_fa": "'Uczę się przez słuchanie.' — از طریق گوش دادن یاد می‌گیرم. حرف اضافه 'przez' (از طریق) حالت مفعولی می‌طلبد. برای اسم‌های خنثی، حالت مفعولی با فاعلی یکسان است: słuchanie. می‌توان گفت 'przez słuchanie muzyki' = از طریق گوش دادن به موسیقی."
+    },
+    {
+      "id": "a2-ch18-l01-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Which sentence correctly uses the verbal noun 'pisanie' after preposition 'po' (after)?",
+      "prompt_fa": "کدام جمله از اسم فعلی 'pisanie' بعد از حرف اضافه 'po' (بعد از) درست استفاده کرده است؟",
+      "options": [
+        "Po pisaniu idę na spacer.",
+        "Po pisanie idę na spacer.",
+        "Po pisania idę na spacer.",
+        "Po pisaniem idę na spacer."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Po + genitive': po pisaniu — after writing. The preposition 'po' meaning 'after' governs the locative/dative case (pisaniu). 'Idę na spacer' = I go for a walk. Full sentence: 'Po pisaniu idę na spacer' = After writing I go for a walk.",
+      "explanation_fa": "'Po' در معنای «بعد از» حالت داتیو/مکانی می‌طلبد: po pisaniu (بعد از نوشتن). پسوند -u نشانه این حالت است: pisanie → pisaniu. 'Po pisaniu idę na spacer' یعنی «بعد از نوشتن به پیاده‌روی می‌روم»."
+    },
+    {
+      "id": "a2-ch18-l01-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Marek explains his daily routine at the gym: 'Przed ___ zawsze się rozgrzewam.' (Before exercising I always warm up.)",
+      "context_fa": "مارک روتین روزانه‌اش را در باشگاه توضیح می‌دهد: 'Przed ___ zawsze się rozgrzewam.' (قبل از ورزش کردن همیشه گرم می‌کنم.)",
+      "prompt": "Fill in the correct form of 'ćwiczenie' (exercising) after 'przed' (before).",
+      "prompt_fa": "شکل درست 'ćwiczenie' (ورزش کردن) را بعد از 'przed' (قبل از) بنویسید.",
+      "sentence": "Przed ___ zawsze się rozgrzewam.",
+      "answer": "ćwiczeniem",
+      "acceptableAnswers": [
+        "ćwiczeniem"
+      ],
+      "hint": "Przed + instrumental case. Neuter nouns in -nie → -niem in instrumental: czytanie → czytaniem.",
+      "explanation": "'Przed + instrumental': ćwiczenie → ćwiczeniem. The preposition 'przed' (before) governs the instrumental case. Neuter -nie nouns form the instrumental by adding -m: czytanie → czytaniem, pisanie → pisaniem, ćwiczenie → ćwiczeniem.",
+      "explanation_fa": "'Przed' (قبل از) حالت ابزاری می‌طلبد: ćwiczenie → ćwiczeniem. اسم‌های خنثی با -nie در حالت ابزاری پسوند -m می‌گیرند: czytanie → czytaniem، pisanie → pisaniem، ćwiczenie → ćwiczeniem. جمله کامل: 'Przed ćwiczeniem zawsze się rozgrzewam' = قبل از ورزش کردن همیشه گرم می‌کنم."
+    },
+    {
+      "id": "a2-ch18-l01-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "What is the verbal noun from 'mówić' (to speak)?",
+      "prompt_fa": "اسم فعلی از 'mówić' (صحبت کردن) چیست؟",
+      "options": [
+        "mówienie",
+        "mówinie",
+        "mówić",
+        "mówieniu"
+      ],
+      "correctIndex": 0,
+      "explanation": "mówić → mówienie. The stem ends in a soft consonant (wi-), so the suffix is -enie (not plain -nie): mów- + ienie = mówienie. This pattern applies to all -ić/-yć verbs: robić → robienie, uczyć → uczenie, chodzić → chodzenie.",
+      "explanation_fa": "mówić → mówienie. بن به یک همخوان نرم (wi-) ختم می‌شود، پس پسوند -enie (نه -nie ساده) می‌گیرد: mów + ienie = mówienie. این الگو برای تمام افعال -ić/-yć صدق می‌کند: robić → robienie (انجام دادن)، uczyć → uczenie (یاد دادن)، chodzić → chodzenie (راه رفتن)."
+    },
+    {
+      "id": "a2-ch18-l01-ex09",
+      "type": "dictation_mc",
+      "order": 9,
+      "audioAsset": "assets/audio/a2/ch18/a2-ch18-l01-ex09.mp3",
+      "prompt": "Listen and choose the sentence you hear.",
+      "prompt_fa": "گوش دهید و جمله‌ای را که می‌شنوید انتخاب کنید.",
+      "options": [
+        "Robienie zakupów zajmuje mi dużo czasu.",
+        "Robię zakupy, zajmuję dużo czasu.",
+        "Zakupy robię i dużo czasu zajmuję.",
+        "Robienie zakupów jest łatwe."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Robienie zakupów zajmuje mi dużo czasu.' — Doing shopping takes me a lot of time. Robić → robienie (doing). 'Zakupów' = genitive plural of zakupy (shopping/purchases — object of verbal noun). 'Zajmuje mi dużo czasu' = takes a lot of my time.",
+      "explanation_fa": "شنیدید: 'Robienie zakupów zajmuje mi dużo czasu.' — خرید کردن خیلی از وقتم را می‌گیرد. robić → robienie (انجام دادن/کردن). 'Zakupów' حالت اضافه جمع zakupy (خرید) است که مفعول اسم فعلی است. 'Zajmuje mi dużo czasu' یعنی خیلی از وقتم را می‌گیرد."
+    },
+    {
+      "id": "a2-ch18-l01-ex10",
+      "type": "sentence_builder",
+      "order": 10,
+      "prompt": "Build: Watching TV in the evening is my favourite hobby. (oglądanie + wieczorem)",
+      "prompt_fa": "جمله بسازید: تماشای تلویزیون در شب سرگرمی مورد علاقه‌ام است. (oglądanie + wieczorem)",
+      "wordBank": [
+        "Oglądanie",
+        "telewizji",
+        "telewizja",
+        "wieczorem",
+        "wieczór",
+        "jest",
+        "moim",
+        "moje",
+        "ulubionym",
+        "ulubione",
+        "hobby",
+        "zajęciem",
+        "."
+      ],
+      "correctSequences": [
+        [
+          "Oglądanie",
+          "telewizji",
+          "wieczorem",
+          "jest",
+          "moim",
+          "ulubionym",
+          "hobby",
+          "."
+        ],
+        [
+          "Oglądanie",
+          "telewizji",
+          "wieczorem",
+          "jest",
+          "moim",
+          "ulubionym",
+          "zajęciem",
+          "."
+        ]
+      ],
+      "explanation": "'Oglądanie telewizji wieczorem jest moim ulubionym hobby.' — Watching TV in the evening is my favourite hobby. Oglądać → oglądanie (watching). 'Telewizji' = genitive (object of verbal noun). 'Moim ulubionym' = instrumental of moje ulubione (agreeing with subject via predicate instrumental).",
+      "explanation_fa": "'Oglądanie telewizji wieczorem jest moim ulubionym hobby.' — تماشای تلویزیون در شب سرگرمی مورد علاقه‌ام است. oglądać → oglądanie (تماشا کردن). 'Telewizji' حالت اضافه است (مفعول اسم فعلی). 'Moim ulubionym' حالت ابزاری است که بعد از فعل 'być' (بودن) در جملات توصیفی استفاده می‌شود."
     }
   ],
   "xpReward": 20,
