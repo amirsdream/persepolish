@@ -16,7 +16,7 @@
       "Duration expressions (przez rok, całą noc) usually take imperfective."
     ]
   },
-  "explanation_fa": "نشانه‌های انتخاب وجه: ناکامل با: często (اغلب)، zawsze (همیشه)، przez godzinę (یک ساعت). کامل با: raz (یک بار)، w końcu (بالاخره)، szybko (سریع). در آینده: ناکامل با będę + مصدر، کامل صرف مستقیم می‌شود.",
+  "explanation_fa": "**وجه در بافت — نشانه‌های انتخاب**\n\nکلمات زمانی و بافت جمله به انتخاب وجه درست کمک می‌کنند:\n\n**نشانه‌های ناکامل — مستمر، تکراری، یا پس‌زمینه:**\n\n| نشانه | معنا | مثال |\n|-------|------|------|\n| codziennie | هر روز | Codziennie **pisałem** |\n| zawsze | همیشه | Zawsze **kupowała** |\n| często | اغلب | Często **czytałem** |\n| kiedy... | وقتی/در حالی که | Kiedy **spałem**... |\n| przez (مدت) | برای (مدت) | Przez godzinę **gotowałam** |\n| długo | مدت زیادی | Długo **pracowali** |\n\n**نشانه‌های کامل — یک رویداد تکمیل‌شده:**\n\n| نشانه | معنا | مثال |\n|-------|------|------|\n| nagle | ناگهان | Nagle **zadzwonił** |\n| w końcu | بالاخره | W końcu **napisałem** |\n| już | قبلاً | Już **zjadłam** |\n| raz | یک بار | Raz **przeczytałem** |\n| wczoraj (یک رویداد) | دیروز | Wczoraj **kupiłem** bilet |\n\n**داستان کوچک با هر دو وجه:**\n- Codziennie **pisałam** listy. (ناکامل — عادت)\n- Wczoraj w końcu **napisałam** ważny list. (کامل — تکمیل‌شده)\n- Kiedy **pisałam**, zadzwonił telefon. (ناکامل — پس‌زمینه)\n- Potem szybko **skończyłam** i wysłałam. (کامل — توالی رویدادها)\n\n**قاعده مهم:** kiedy + ناکامل = «در حالی که» (پس‌زمینه). w końcu + کامل = بالاخره (نتیجه).",
   "exercises": [
     {
       "id": "a2-ch12-l04-ex01",

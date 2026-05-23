@@ -17,7 +17,7 @@
       "Jechać is REGULAR in past: jechał, jechała, jechali, jechały."
     ]
   },
-  "explanation_fa": "برخی افعال پرکاربرد بن‌های نامنظم در گذشته دارند: iść → szedł/szła/szli (رفت)، wziąć → wziął/wzięła (گرفت)، móc → mógł/mogła (توانست)، przyjść → przyszedł/przyszła (آمد)، znaleźć → znalazł/znalazła (پیدا کرد). این افعال را باید حفظ کرد.",
+  "explanation_fa": "**بن‌های نامنظم در زمان گذشته لهستانی**\n\nبیشتر افعال لهستانی گذشته منظم دارند. اما چند فعل بسیار رایج **بن‌های کاملاً نامنظم** در گذشته دارند که باید حفظ شوند:\n\n**جدول افعال نامنظم گذشته:**\n\n| مصدر | on (م مفرد) | ona (مؤنث مفرد) | oni (م جمع) | one (مؤنث جمع) | ترجمه |\n|-------|------------|-----------------|------------|-----------------|-------|\n| być | **był** | **była** | **byli** | **były** | بودن |\n| iść | **szedł** | **szła** | **szli** | **szły** | رفتن (پیاده) |\n| móc | **mógł** | **mogła** | **mogli** | **mogły** | توانستن |\n| nieść | **niósł** | **niosła** | **nieśli** | **niosły** | حمل کردن |\n| wziąć | **wziął** | **wzięła** | **wzięli** | **wzięły** | گرفتن |\n\n**پسوندهای شخصی به این بن‌ها اضافه می‌شوند:**\n- ja م: byłem، szedłem، mogłem\n- ja مؤنث: byłam، szłam، mogłam\n- ty م: byłeś، szedłeś، mogłeś\n- ty مؤنث: byłaś، szłaś، mogłaś\n\n**نکته مهم درباره iść:** بن کاملاً عوض می‌شود:\n- on **szedł** / ona **szła** / oni **szli** / one **szły**\n- ja م: **szedłem** / ja مؤنث: **szłam**\n\n**جملات نمونه:**\n- Wczoraj **byłem** w kinie. = دیروز (من/م) در سینما بودم.\n- Ona **szła** do pracy. = داشت (پیاده) به سر کار می‌رفت.\n- Nie **mogłem** zasnąć. = نتوانستم بخوابم (م).\n- **Wzięli** taksówkę. = آن‌ها (م/مختلط) تاکسی گرفتند.",
   "exercises": [
     {
       "id": "a2-ch11-l04-ex01",

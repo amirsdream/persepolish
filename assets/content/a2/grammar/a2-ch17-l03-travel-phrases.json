@@ -17,7 +17,7 @@
       "Na lotnisku / na dworcu = at the airport / at the station (na + locative)."
     ]
   },
-  "explanation_fa": "عبارات سفر با ساختارهای دستوری: rezerwować pokój (اتاق رزرو کردن)، pytać o drogę (راه پرسیدن)، wsiadać do + مضاف‌الیهی (سوار شدن به)، wysiadać z + مضاف‌الیهی (پیاده شدن از)، przesiadać się na + مفعولی (عوض کردن وسیله)، dojechać do + مضاف‌الیهی (رسیدن به)، na lotnisku (در فرودگاه)، na dworcu (در ایستگاه).",
+  "explanation_fa": "**عبارات سفر با ساختارهای دستوری**\n\nعبارات کاربردی سفر با ساختارهای دستوری درست:\n\n**در فرودگاه / ایستگاه:**\n- Jestem **na lotnisku**. = در فرودگاه هستم. [na + مکانی]\n- Jestem **na dworcu**. = در ایستگاه هستم. [na + مکانی]\n- Odprawiam **bagaż**. = چمدان چک می‌کنم. [مفعول مستقیم]\n- Wsiadać **do** pociągu/autobusu. = سوار قطار/اتوبوس شدن. [do + مضاف‌الیهی]\n- Wysiadać **z** pociągu/autobusu. = از قطار/اتوبوس پیاده شدن. [z + مضاف‌الیهی]\n\n**خرید بلیت:**\n- Poproszę bilet **do** Krakowa. = یک بلیت به کراکوف. [bilet do + مضاف‌الیهی]\n- Bilet **na** pociąg/samolot. = بلیت قطار/هواپیما. [bilet na + مفعولی]\n- Bilet w jedną stronę / bilet powrotny. = بلیت یک‌طرفه / رفت‌وبرگشت.\n\n**رزرو:**\n- Zarezerwować pokój **w** hotelu. = اتاق در هتل رزرو کردن. [w + مکانی]\n- Rezerwuję stolik **na** dwie osoby. = برای دو نفر میز رزرو می‌کنم. [na + مفعولی]\n- Mam rezerwację **na** nazwisko... = رزرو به نام... [na + مفعولی]\n\n**حرکت:**\n- Skąd odjeżdża autobus **do** centrum? = اتوبوس به مرکز از کجا حرکت می‌کند؟ [do + مضاف‌الیهی]\n- Z którego peronu? = از کدام سکو؟ [z + مضاف‌الیهی]\n\n**برگشت:**\n- Wróciłam **z** Paryża wczoraj. = دیروز از پاریس برگشتم. [z + مضاف‌الیهی]\n- Jak dojść/dojechać **do** muzeum? = چطور به موزه برسم؟ [do + مضاف‌الیهی]",
   "exercises": [
     {
       "id": "a2-ch17-l03-ex01",

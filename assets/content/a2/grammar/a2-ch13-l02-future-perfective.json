@@ -16,7 +16,7 @@
       "Use imperfective future for: ongoing/habitual/background future activity."
     ]
   },
-  "explanation_fa": "افعال کامل فقط آینده دارند (نه حال). صرف مستقیم: zrobię (خواهم کرد)، zrobisz (خواهی کرد)، zrobi (خواهد کرد)، zrobimy، zrobicie، zrobią. این ساختار برای بیان عمل کامل‌شده در آینده استفاده می‌شود: Jutro zrobię zadanie (فردا تکلیفم را تمام خواهم کرد).",
+  "explanation_fa": "**زمان آینده کامل در لهستانی**\n\nافعال کامل **حال واقعی ندارند**. شکل به‌ظاهر حال آن‌ها در واقع **آینده** است!\n\n**مثال‌های صرف آینده کامل:**\n\n| مصدر | ja | ty | on/ona | my | wy | oni/one |\n|-------|----|----|--------|----|----|--------|\n| napisać | **napiszę** | **napiszesz** | **napisze** | **napiszemy** | **napiszecie** | **napiszą** |\n| zrobić | **zrobię** | **zrobisz** | **zrobi** | **zrobimy** | **zrobicie** | **zrobią** |\n| kupić | **kupię** | **kupisz** | **kupi** | **kupimy** | **kupicie** | **kupią** |\n| pójść | **pójdę** | **pójdziesz** | **pójdzie** | **pójdziemy** | **pójdziecie** | **pójdą** |\n\n**مقایسه آینده ناکامل در برابر کامل:**\n\n| | آینده ناکامل | آینده کامل |\n|-|-------------|------------|\n| ساختار | będę + مصدر | صرف مستقیم |\n| معنا | در حال انجام (مستمر) | تکمیل‌شده (یک بار) |\n| مثال | Będę czytać | Przeczytam |\n| ترجمه | دارم می‌خوانم | می‌خوانم (تمامش می‌کنم) |\n\n**مثال‌های در بافت:**\n- Jutro **napiszę** e-mail. = فردا ایمیل را می‌نویسم [و می‌فرستم]. (کامل)\n- Jutro będę pisać e-maile. = فردا دارم ایمیل می‌نویسم. (ناکامل، چندتا)\n- **Zrobię** to dziś wieczorem. = امشب این را انجام می‌دهم. (وعده کامل)\n- Gdzie **pójdziemy** w weekend? = آخر هفته کجا می‌رویم؟\n\n**هشدار:** برای آینده کامل نیازی به «będę» نیست — خود صرف معنای آینده دارد!",
   "exercises": [
     {
       "id": "a2-ch13-l02-ex01",
