@@ -5,24 +5,25 @@
   "lessonOrder": 3,
   "title": "Noun Derivation Patterns",
   "title_fa": "الگوهای اشتقاق اسم",
-  "grammarPoint": "Forming abstract nouns with -ość (qualities), -stwo (collectives/professions), and -anie/-enie (verbal) — key Polish word-building suffixes",
-  "grammarPoint_fa": "اشتقاق اسم با پسوندها: -ość، -anie/-enie، -nik/-nica، -arz/-arka",
+  "grammarPoint": "Forming abstract nouns with -ość (qualities), -stwo (collectives/states), and compound patterns — key Polish word-building suffixes",
+  "grammarPoint_fa": "ساختن اسم انتزاعی با پسوند -ość (ویژگی‌ها) و -stwo (حالت/جمعی) — الگوهای کلیدی ساخت کلمه در لهستانی",
   "explanation": {
-    "text": "Polish is a highly derivational language — new nouns are regularly formed from adjectives and verbs using standard suffixes. Learning these patterns lets you build thousands of new words.\n\n## Suffix -ość (feminine): Quality → Abstract Noun\n\nAdds to adjective stem to make abstract nouns (like English -ness, -ity):\n\n| Adjective | Abstract Noun | Meaning |\n|-----------|--------------|--------|\n| wolny (free) | wolność (f) | freedom |\n| szczęśliwy (happy) | szczęśliwość (f) | happiness |\n| piękny (beautiful) | piękność (f) | beauty |\n| możliwy (possible) | możliwość (f) | possibility |\n| trudny (difficult) | trudność (f) | difficulty |\n| ciekaw(y) | ciekawość (f) | curiosity |\n| miły (nice) | miłość (f)* | love* |\n| pewny (certain) | pewność (f) | certainty / confidence |\n| gotowy (ready) | gotowość (f) | readiness |\n\n*Note: miłość originally from 'miły' but now means love specifically.\n\n## Suffix -stwo (neuter): State / Collective / Profession\n\n| Base | Derived Noun | Meaning |\n|------|-------------|--------|\n| przyjaciel (friend) | przyjaźń → przyjaźń... | friendship |\n| państwo | państwo (n) | state / Mr+Mrs |\n| małżeństwo (married) | małżeństwo (n) | marriage / married couple |\n| rodzeństwo | rodzeństwo (n) | siblings (collective) |\n| lekarstwo | lekarstwo (n) | medicine (drug) |\n\n## Suffix -anie / -enie (neuter): Verbal nouns (review)\n\n- pisanie, czytanie, gotowanie (from -ać verbs)\n- mówienie, myślenie, ćwiczenie (from -ić/-yć verbs)\n- rozumienie, zrozumienie (from -eć verbs)\n\n## Using derived nouns:\n- Mam możliwość podróżowania. (I have the possibility of travelling.)\n- Wolność jest ważna. (Freedom is important.)\n- Masz gotowość do pracy? (Are you ready to work?)\n- To jest trudność z tym zadaniem. (That's the difficulty with this task.)",
+    "text": "Polish is a highly derivational language — new nouns are regularly formed from adjectives and verbs using standard suffixes. Learning these patterns lets you build thousands of new words.\n\n## Suffix -ość (feminine): Quality → Abstract Noun\n\nAdds to adjective stem to make abstract nouns (like English -ness, -ity):\n\n| Adjective | Abstract Noun | Meaning |\n|-----------|--------------|--------|\n| wolny (free) | wolność (f) | freedom |\n| szczęśliwy (happy) | szczęśliwość (f) | happiness |\n| piękny (beautiful) | piękność (f) | beauty |\n| możliwy (possible) | możliwość (f) | possibility |\n| trudny (difficult) | trudność (f) | difficulty |\n| ciekawy (curious) | ciekawość (f) | curiosity |\n| pewny (certain) | pewność (f) | certainty / confidence |\n| gotowy (ready) | gotowość (f) | readiness |\n| chory (sick) | chorobliwość (f) | sickliness |\n\n## Suffix -stwo (neuter): State / Collective / Activity\n\n| Base | Derived Noun | Meaning |\n|------|-------------|--------|\n| małżeństwo | małżeństwo (n) | marriage / married couple |\n| rodzeństwo | rodzeństwo (n) | siblings (collective) |\n| lekarstwo | lekarstwo (n) | medicine (drug) |\n| zwycięstwo | zwycięstwo (n) | victory |\n| państwo | państwo (n) | state / Mr+Mrs |\n\n## Using derived nouns:\n- Mam możliwość podróżowania. (I have the possibility of travelling.)\n- Wolność jest ważna. (Freedom is important.)\n- Masz gotowość do pracy? (Are you ready to work?)\n- To jest trudność z tym zadaniem. (That's the difficulty with this task.)\n- Ciekawość to pierwszy stopień do wiedzy. (Curiosity is the first step to knowledge.)",
     "notes": [
       "-ość (f) suffix turns adjectives into abstract nouns: wolny → wolność, trudny → trudność.",
       "Most -ość nouns are feminine and decline like kość: wolności (gen), wolnością (instr).",
       "-stwo (n) forms collective/state nouns: małżeństwo = marriage, rodzeństwo = siblings.",
-      "Already learned -anie/-enie verbal nouns in L01-L02 — they are the most productive suffix family."
+      "'Możliwość' is extremely useful: mam możliwość = I have the opportunity/chance."
     ]
   },
-  "explanation_fa": "الگوهای رایج اشتقاق اسم: صفت + -ość = اسم انتزاعی: ważny → ważność (اهمیت). فعل + -nik: uczyć → ucznik (دانش‌آموز — قدیمی). پسوند -arz/-arka برای مشاغل: piekarz/piekarka (نانوا). -nia برای مکان: kawiarnia (کافه)، księgarnia (کتابفروشی).",
+  "explanation_fa": "**الگوهای اشتقاق اسم در لهستانی:**\n\n## پسوند -ość (مؤنث): صفت → اسم انتزاعی\n\nمثل پسوند -ness یا -ity در انگلیسی — به ریشه صفت اضافه می‌شود:\n\n| صفت | اسم انتزاعی | معنا |\n|-----|------------|------|\n| wolny (آزاد) | wolność (f) | آزادی |\n| piękny (زیبا) | piękność (f) | زیبایی |\n| możliwy (ممکن) | możliwość (f) | امکان/فرصت |\n| trudny (سخت) | trudność (f) | دشواری |\n| ciekawy (کنجکاو) | ciekawość (f) | کنجکاوی |\n| pewny (مطمئن) | pewność (f) | اطمینان |\n| gotowy (آماده) | gotowość (f) | آمادگی |\n\n**قانون:** ریشه صفت + -ość = اسم انتزاعی مؤنث\n- woln- + ość = wolność\n- możliw- + ość = możliwość\n- trudn- + ość = trudność\n\n## پسوند -stwo (خنثی): حالت / جمعی\n\n| اسم | معنا |\n|-----|------|\n| małżeństwo | ازدواج / زوج متأهل |\n| rodzeństwo | خواهر و برادر (جمعی) |\n| lekarstwo | دارو |\n| zwycięstwo | پیروزی |\n| państwo | کشور / آقا و خانم |\n\n**مثال در جمله:**\n- *Mam możliwość podróżowania.* = فرصت سفر دارم.\n- *Wolność jest ważna.* = آزادی مهم است.\n- *To jest trudność z tym zadaniem.* = این دشواری این تکلیف است.",
   "exercises": [
     {
       "id": "a2-ch18-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Derive the abstract noun from 'wolny' (free). ___ jest ważna.",
+      "prompt": "Derive the abstract noun from 'wolny' (free). '___ jest ważna.'",
+      "prompt_fa": "اسم انتزاعی از 'wolny' (آزاد) بسازید. '___ jest ważna.'",
       "options": [
         "Wolność",
         "Wolny",
@@ -30,27 +31,32 @@
         "Wolno"
       ],
       "correctIndex": 0,
-      "explanation": "wolny → wolność (f) = freedom. The -ość suffix attaches to the adjective stem: woln- + ość. 'Wolność jest ważna' = Freedom is important. (Note: feminine noun → 'ważna')"
+      "explanation": "wolny → wolność (f) = freedom. The -ość suffix attaches to the adjective stem: woln- + ość = wolność. 'Wolność jest ważna' = Freedom is important. Feminine noun → 'ważna'.",
+      "explanation_fa": "wolny → wolność (ف) = آزادی. پسوند -ość به ریشه صفت اضافه می‌شود: woln- + ość = wolność. 'Wolność jest ważna' = آزادی مهم است. اسم مؤنث → 'ważna' (مؤنث)."
     },
     {
       "id": "a2-ch18-l03-ex02",
       "type": "multiple_choice",
       "order": 2,
       "prompt": "What does 'możliwość' mean?",
+      "prompt_fa": "'możliwość' چه معنایی دارد؟",
       "options": [
         "possibility / opportunity",
         "impossibility",
-        "ability (physical)",
+        "physical ability",
         "readiness"
       ],
       "correctIndex": 0,
-      "explanation": "'Możliwość' (f) = possibility / opportunity. From 'możliwy' (possible) + -ość. Very common: 'Mam możliwość...' = I have the opportunity to... 'Nie ma możliwości' = It's impossible / There is no possibility."
+      "explanation": "'Możliwość' (f) = possibility / opportunity. From 'możliwy' (possible) + -ość. Very common: 'Mam możliwość...' = I have the opportunity to... 'Nie ma możliwości' = It's impossible / There is no possibility.",
+      "explanation_fa": "'Możliwość' (ف) = امکان / فرصت. از 'możliwy' (ممکن) + -ość. خیلی رایج: 'Mam możliwość...' = فرصت دارم که... 'Nie ma możliwości' = امکان ندارد."
     },
     {
       "id": "a2-ch18-l03-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch18/a2-ch18-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Mam możliwość podróżowania po Europie.",
         "Mam możliwość podróżować po Europie.",
@@ -58,63 +64,119 @@
         "Mam możliwości podróż po Europie."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Mam możliwość podróżowania po Europie.' — I have the opportunity to travel around Europe. 'Możliwość + genitive of verbal noun': możliwość podróżowania. 'Po Europie' = around Europe (po + locative)."
+      "explanation": "You heard: 'Mam możliwość podróżowania po Europie.' — I have the opportunity to travel around Europe. 'Możliwość + genitive of verbal noun': możliwość podróżowania. 'Po Europie' = around Europe (po + locative).",
+      "explanation_fa": "شنیدید: 'Mam możliwość podróżowania po Europie.' — فرصت سفر در اروپا را دارم. 'Możliwość + مضاف‌الیه اسم مصدر': możliwość podróżowania. 'Po Europie' = در سراسر اروپا (po + مکانی)."
     },
     {
       "id": "a2-ch18-l03-ex04",
       "type": "fill_blank",
       "order": 4,
-      "prompt": "___ z tym zadaniem jest trudna. (The difficulty with this task is hard.) [trudność]",
+      "context": "Describing a problem with a task — using a -ość noun:",
+      "context_fa": "توصیف مشکل یک تکلیف — با استفاده از اسم -ość:",
+      "sentence": "___ z tym zadaniem jest duża.",
+      "prompt": "___ z tym zadaniem jest duża. (The difficulty with this task is great.)",
+      "prompt_fa": "___ z tym zadaniem jest duża. (دشواری این تکلیف زیاد است.)",
       "answer": "Trudność",
-      "acceptableAnswers": [
-        "Trudność",
-        "trudność"
-      ],
-      "hint": "trudny (difficult) → trudność (f, difficulty). Subject of the sentence → nominative."
+      "acceptableAnswers": ["Trudność", "trudność"],
+      "hint": "trudny (difficult) → trudność (f, difficulty). Subject of sentence → nominative.",
+      "explanation": "'Trudność z tym zadaniem jest duża.' — The difficulty with this task is great. Trudny → trudność (f). Feminine subject → 'duża' (f adj). 'Z tym zadaniem' = with this task (z + instrumental).",
+      "explanation_fa": "'Trudność z tym zadaniem jest duża.' — دشواری این تکلیف زیاد است. Trudny → trudność (ف). فاعل مؤنث → 'duża' (صفت مؤنث). 'Z tym zadaniem' = با این تکلیف (z + ابزاری)."
     },
     {
       "id": "a2-ch18-l03-ex05",
       "type": "sentence_builder",
       "order": 5,
-      "prompt": "Build: Freedom is the most important thing. (wolność + najważniejszy)",
-      "wordBank": [
-        "Wolność",
-        "jest",
-        "najważniejsza",
-        "najważniejszy",
-        "najważniejsze",
-        "rzeczą",
-        "rzecz",
-        "ważna",
-        "."
-      ],
+      "prompt": "Build: Freedom is the most important thing.",
+      "prompt_fa": "بسازید: آزادی مهم‌ترین چیز است.",
+      "wordBank": ["Wolność", "jest", "najważniejsza", "najważniejszy", "najważniejsze", "rzeczą", "rzecz", "ważna", "."],
       "correctSequences": [
-        [
-          "Wolność",
-          "jest",
-          "najważniejsza",
-          "."
-        ],
-        [
-          "Wolność",
-          "jest",
-          "najważniejszą",
-          "rzeczą",
-          "."
-        ]
+        ["Wolność", "jest", "najważniejsza", "."],
+        ["Wolność", "jest", "najważniejszą", "rzeczą", "."]
       ],
-      "explanation": "'Wolność jest najważniejsza.' — Freedom is the most important (thing). Wolność (f) → superlative: najważniejsza. Alternative: 'Wolność jest najważniejszą rzeczą' = Freedom is the most important thing (rzeczą = instrumental of rzecz, used after być with adjective)."
+      "explanation": "'Wolność jest najważniejsza.' — Freedom is the most important (thing). Wolność (f) → superlative: najważniejsza (f). Alternative: 'Wolność jest najważniejszą rzeczą' = Freedom is the most important thing.",
+      "explanation_fa": "'Wolność jest najważniejsza.' — آزادی مهم‌ترین است. Wolność (ف) → عالی: najważniejsza (ف). جایگزین: 'Wolność jest najważniejszą rzeczą' = آزادی مهم‌ترین چیز است."
+    },
+    {
+      "id": "a2-ch18-l03-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Which -ość noun means 'curiosity'?",
+      "prompt_fa": "کدام اسم -ość به معنای 'کنجکاوی' است؟",
+      "options": [
+        "ciekawość",
+        "ciekawie",
+        "ciekawotka",
+        "ciekawość się"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ciekawość' (f) = curiosity. From 'ciekawy' (curious/interesting) + -ość. Polish proverb: 'Ciekawość to pierwszy stopień do wiedzy' = Curiosity is the first step to knowledge.",
+      "explanation_fa": "'Ciekawość' (ف) = کنجکاوی. از 'ciekawy' (کنجکاو/جالب) + -ość. ضرب‌المثل لهستانی: 'Ciekawość to pierwszy stopień do wiedzy' = کنجکاوی اولین قدم به سوی دانش است."
+    },
+    {
+      "id": "a2-ch18-l03-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "Asking if someone is ready for an important meeting:",
+      "context_fa": "می‌پرسید آیا کسی برای یک جلسه مهم آماده است:",
+      "sentence": "Masz ___ do pracy?",
+      "prompt": "Masz ___ do pracy? (Are you ready to work? — using -ość noun from 'gotowy')",
+      "prompt_fa": "Masz ___ do pracy? (آیا آمادگی کار داری؟ — با اسم -ość از 'gotowy')",
+      "answer": "gotowość",
+      "acceptableAnswers": ["gotowość"],
+      "hint": "gotowy (ready) → gotowość (f, readiness/preparedness)",
+      "explanation": "'Masz gotowość do pracy?' — Are you ready to work? 'Gotowy' → 'gotowość' (f). 'Do pracy' = for work (do + genitive). 'Masz gotowość' = you have readiness.",
+      "explanation_fa": "'Masz gotowość do pracy?' — آیا آمادگی کار داری؟ 'Gotowy' → 'gotowość' (ف). 'Do pracy' = برای کار (do + مضاف‌الیه). 'Masz gotowość' = آمادگی داری."
+    },
+    {
+      "id": "a2-ch18-l03-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "What does 'rodzeństwo' mean?",
+      "prompt_fa": "'rodzeństwo' چه معنایی دارد؟",
+      "options": [
+        "siblings (brothers and sisters collectively)",
+        "parents",
+        "relatives (general)",
+        "children"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Rodzeństwo' (n) = siblings (collective noun). 'Mam troje rodzeństwa' = I have three siblings. Uses the -stwo suffix for collective meaning. Note: collective, so use numerals + genitive.",
+      "explanation_fa": "'Rodzeństwo' (خنثی) = خواهر و برادر (اسم جمعی). 'Mam troje rodzeństwa' = سه خواهر/برادر دارم. پسوند -stwo برای معنای جمعی. توجه: جمعی است، پس از عدد + مضاف‌الیه استفاده می‌شود."
+    },
+    {
+      "id": "a2-ch18-l03-ex09",
+      "type": "dictation_mc",
+      "order": 9,
+      "audioAsset": "assets/audio/a2/ch18/a2-ch18-l03-ex09.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Pewność siebie jest ważna w pracy.",
+        "Pewny siebie jest ważny w pracy.",
+        "Być pewnym siebie jest ważne w pracy.",
+        "Pewność jest ważna dla pracy."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Pewność siebie jest ważna w pracy.' — Self-confidence is important at work. 'Pewność siebie' = self-confidence (literally: certainty of oneself). 'Ważna' = feminine adj (agrees with pewność, f).",
+      "explanation_fa": "شنیدید: 'Pewność siebie jest ważna w pracy.' — اعتماد به نفس در کار مهم است. 'Pewność siebie' = اعتماد به نفس (به معنای تحت‌اللفظی: اطمینان از خود). 'Ważna' = صفت مؤنث (مطابقت با pewność، مؤنث)."
+    },
+    {
+      "id": "a2-ch18-l03-ex10",
+      "type": "sentence_builder",
+      "order": 10,
+      "prompt": "Build: Happiness doesn't come from money.",
+      "prompt_fa": "بسازید: خوشبختی از پول نمی‌آید.",
+      "wordBank": ["Szczęście", "Szczęśliwość", "nie", "pochodzi", "od", "z", "pieniędzy", "pieniądze", "pieniądzmi"],
+      "correctSequences": [
+        ["Szczęście", "nie", "pochodzi", "od", "pieniędzy"],
+        ["Szczęśliwość", "nie", "pochodzi", "od", "pieniędzy"]
+      ],
+      "explanation": "'Szczęście nie pochodzi od pieniędzy.' — Happiness doesn't come from money. 'Szczęście' (n) = happiness (also used as general happiness). 'Szczęśliwość' = formal happiness. 'Od pieniędzy' = from money (od + genitive).",
+      "explanation_fa": "'Szczęście nie pochodzi od pieniędzy.' — خوشبختی از پول نمی‌آید. 'Szczęście' (خنثی) = خوشبختی. 'Szczęśliwość' = خوشبختی رسمی. 'Od pieniędzy' = از پول (od + مضاف‌الیه)."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": [
-    "word-formation",
-    "derivation",
-    "a2-core"
-  ],
-  "prerequisites": [
-    "a2-ch18-l01",
-    "a2-ch18-l02"
-  ]
+  "tags": ["word-formation", "derivation", "a2-core"],
+  "prerequisites": ["a2-ch18-l01", "a2-ch18-l02"]
 }

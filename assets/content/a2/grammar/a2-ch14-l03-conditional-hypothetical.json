@@ -6,7 +6,7 @@
   "title": "Conditional — Hypothetical Situations",
   "title_fa": "وجه شرطی — موقعیت‌های فرضی",
   "grammarPoint": "Hypothetical conditions with gdyby + conditional clause; unreal present/future: Gdybym miał..., zrobiłbym...",
-  "grammarPoint_fa": "جملات شرطی: Jeśli/Jeżeli + وجه شرطی در هر دو بند",
+  "grammarPoint_fa": "جملات شرطی فرضی با gdyby: ساختار gdybym + گذشته در بند شرط + وجه شرطی در بند نتیجه",
   "explanation": {
     "text": "**Gdyby** is the key word for hypothetical 'if' clauses in Polish. It combines **gdy** (when/if) + **by** (conditional marker).\n\n**Structure:**\n**Gdyby** + past form (conditional protasis) **→** conditional (apodosis)\n\n**Gdyby + conditional forms:**\n\n| Person | Form |\n|--------|------|\n| ja (m) | **gdybym** |\n| ja (f) | **gdybym** |\n| ty (m) | **gdybyś** |\n| ty (f) | **gdybyś** |\n| on/ona | **gdyby** |\n| my | **gdybyśmy** |\n| wy | **gdybyście** |\n| oni/one | **gdyby** |\n\n**Full hypothetical sentence pattern:**\n- **Gdybym** miał pieniądze, **pojechałbym** do Japonii.\n  = If I had money, I would go to Japan.\n- **Gdybyś** była tutaj, **byłoby** mi lepiej.\n  = If you were here, I would feel better.\n- **Gdyby** padało, **zostalibyśmy** w domu.\n  = If it were raining, we would stay at home.\n\n**Word order:** Gdyby clause can come first or second:\n- Pojechałbym do Japonii, **gdybym** miał pieniądze. (same meaning)",
     "notes": [
@@ -16,13 +16,14 @@
       "For real conditions (open): jeśli/jeżeli + present/future → future."
     ]
   },
-  "explanation_fa": "جملات شرطی فرضی: Gdybym miał pieniądze, kupiłbym dom (اگر پول داشتم، خانه می‌خریدم). ساختار: gdyby + فعل گذشته در بند شرط + وجه شرطی در بند جواب. این برای موقعیت‌های غیرواقعی یا بعید استفاده می‌شود.",
+  "explanation_fa": "**جملات شرطی فرضی با gdyby:**\n\nکلمه **gdyby** برای موقعیت‌های فرضی و غیرواقعی استفاده می‌شود — مانند 'اگر' در فارسی برای چیزی که واقعی نیست.\n\n**ساختار جمله:**\n**gdyby + فعل گذشته** در بند شرط + **وجه شرطی** در بند نتیجه\n\n**صرف gdyby:**\n- من (ja): **gdybym** — اگر من...\n- تو (ty): **gdybyś** — اگر تو...\n- او (on/ona): **gdyby** — اگر او...\n- ما (my): **gdybyśmy** — اگر ما...\n- شما (wy): **gdybyście** — اگر شما...\n- آن‌ها (oni/one): **gdyby** — اگر آن‌ها...\n\n**مثال‌ها:**\n- *Gdybym miał pieniądze, pojechałbym do Japonii.* (اگر پول داشتم، به ژاپن می‌رفتم.)\n- *Gdybyś była tutaj, byłoby mi lepiej.* (اگر اینجا بودی، بهتر بودم.)\n- *Gdyby padało, zostalibyśmy w domu.* (اگر باران می‌بارید، خانه می‌ماندیم.)\n\n**تفاوت با jeśli:** jeśli برای شرط واقعی/محتمل است؛ gdyby برای فرضی/بعید.",
   "exercises": [
     {
       "id": "a2-ch14-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "___ wiedział, zadzwoniłby do nas. (If he knew, he would call us.) [gdyby, on]",
+      "prompt": "___ wiedział, zadzwoniłby do nas. (If he knew, he would call us.)",
+      "prompt_fa": "___ می‌دانست، به ما زنگ می‌زد. کدام کلمه شرطی فرضی درست است؟",
       "options": [
         "Gdyby",
         "Jeśli",
@@ -30,38 +31,31 @@
         "Że"
       ],
       "correctIndex": 0,
-      "explanation": "Hypothetical/unreal condition → 'gdyby' (not 'jeśli'). 'Gdyby wiedział' = if he knew (but he doesn't). 'Zadzwoniłby' = he would call (conditional)."
+      "explanation": "Hypothetical/unreal condition → 'gdyby' (not 'jeśli'). 'Gdyby wiedział' = if he knew (but he doesn't). 'Zadzwoniłby' = he would call (conditional).",
+      "explanation_fa": "برای شرط فرضی/غیرواقعی از 'gdyby' استفاده می‌کنیم، نه 'jeśli'. 'Gdyby wiedział' = اگر می‌دانست (ولی نمی‌داند). 'Zadzwoniłby' = زنگ می‌زد (وجه شرطی)."
     },
     {
       "id": "a2-ch14-l03-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Gdybym miała więcej czasu, ___ się polskim. (If I had more time, I would study Polish — f.) [uczyć się, ja f conditional]",
-      "answer": "uczyłabym się",
-      "acceptableAnswers": [
-        "uczyłabym się"
-      ],
-      "hint": "Feminine conditional ja: uczyła + bym + się = uczyłabym się"
+      "context": "A female student says: If I had more time, I would study Polish. Complete the main clause:",
+      "context_fa": "یک دانشجوی دختر می‌گوید: اگر وقت بیشتری داشتم، لهستانی می‌خواندم. بند نتیجه را کامل کنید:",
+      "sentence": "Gdybym miała więcej czasu, ___ się polskim.",
+      "prompt": "Gdybym miała więcej czasu, ___ się polskim.",
+      "prompt_fa": "Gdybym miała więcej czasu, ___ się polskim.",
+      "answer": "uczyłabym",
+      "acceptableAnswers": ["uczyłabym", "uczyłabym się"],
+      "hint": "uczyć się, ja f conditional: uczyła + bym = uczyłabym (się)",
+      "explanation": "Female conditional ja: 'uczyłabym się'. Stem: uczyła + bym = uczyłabym. The 'się' comes after the verb.",
+      "explanation_fa": "وجه شرطی مؤنث برای ja: uczyłabym się. ریشه: uczyła + bym = uczyłabym. 'Się' بعد از فعل می‌آید."
     },
     {
       "id": "a2-ch14-l03-ex03",
-      "type": "multiple_choice",
-      "order": 3,
-      "prompt": "Gdybyśmy mieli samochód, ___ na wycieczke. (If we had a car, we (m-pers) would go on a trip.) [pojechać, my m-pers conditional]",
-      "options": [
-        "pojechalibyśmy",
-        "pojechałybyśmy",
-        "pojademy",
-        "pojechaliśmy"
-      ],
-      "correctIndex": 0,
-      "explanation": "'My' virile (m-pers) conditional: pojechalibyśmy. 'Pojechałybyśmy' = non-virile (women only). 'Pojademy' is not a word — 'pojedziemy' is the future."
-    },
-    {
-      "id": "a2-ch14-l03-ex04",
       "type": "dictation_mc",
-      "order": 4,
-      "audioAsset": "assets/audio/a2/ch14/a2-ch14-l03-ex04.mp3",
+      "order": 3,
+      "audioAsset": "assets/audio/a2/ch14/a2-ch14-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Gdybyś była w Warszawie, spotkalibyśmy się.",
         "Jeśli będziesz w Warszawie, spotkamy się.",
@@ -69,33 +63,114 @@
         "Gdy była w Warszawie, spotkaliśmy się."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Gdybyś była w Warszawie, spotkalibyśmy się.' — If you were in Warsaw, we would meet. Unreal hypothetical: gdybyś (ty f) + spotkalibyśmy się (my m-pers conditional)."
+      "explanation": "You heard: 'Gdybyś była w Warszawie, spotkalibyśmy się.' — If you (f) were in Warsaw, we would meet. Unreal hypothetical: gdybyś (ty f) + spotkalibyśmy się (we, m-pers conditional).",
+      "explanation_fa": "شنیدید: 'Gdybyś była w Warszawie, spotkalibyśmy się.' — اگر (f) در ورشو بودی، همدیگر را می‌دیدیم. فرضی غیرواقعی: gdybyś (ty مؤنث) + spotkalibyśmy się (ما، شرطی مذکر شخصی)."
+    },
+    {
+      "id": "a2-ch14-l03-ex04",
+      "type": "multiple_choice",
+      "order": 4,
+      "prompt": "Gdybyśmy mieli samochód, ___ na wycieczkę. (If we had a car, we (m-pers) would go on a trip.)",
+      "prompt_fa": "Gdybyśmy mieli samochód, ___ na wycieczkę. اگر ماشین داشتیم، به گردش می‌رفتیم. فرم درست کدام است؟",
+      "options": [
+        "pojechalibyśmy",
+        "pojechałybyśmy",
+        "pojademy",
+        "pojechaliśmy"
+      ],
+      "correctIndex": 0,
+      "explanation": "'My' virile (m-pers) conditional: pojechalibyśmy. 'Pojechałybyśmy' = non-virile (women only). 'Pojademy' is not a word — 'pojedziemy' is the future. 'Pojechaliśmy' = we went (past).",
+      "explanation_fa": "شرطی my مذکر شخصی (virile): pojechalibyśmy. 'Pojechałybyśmy' = غیرمذکر شخصی (فقط زنان). 'Pojechaliśmy' = گذشته (ما رفتیم)."
     },
     {
       "id": "a2-ch14-l03-ex05",
       "type": "multiple_choice",
       "order": 5,
-      "prompt": "What is the difference between 'jeśli' and 'gdyby'?",
+      "prompt": "What is the key difference between 'jeśli' and 'gdyby'?",
+      "prompt_fa": "تفاوت اصلی بین 'jeśli' و 'gdyby' چیست؟",
       "options": [
-        "jeśli = real/possible; gdyby = hypothetical/unreal",
-        "jeśli = past; gdyby = future",
+        "jeśli = real/possible condition; gdyby = hypothetical/unreal",
+        "jeśli = past condition; gdyby = future condition",
         "jeśli = polite; gdyby = informal",
         "They mean exactly the same thing"
       ],
       "correctIndex": 0,
-      "explanation": "'Jeśli/jeżeli' introduces a real, open condition: 'Jeśli przyjdziesz, zadzwonię' (If you come [and you might], I'll call). 'Gdyby' = hypothetical/unreal: 'Gdybyś przyszedł' = If you were to come [but you probably won't]."
+      "explanation": "'Jeśli/jeżeli' introduces a real, open condition: 'Jeśli przyjdziesz, zadzwonię' (If you come [and you might], I'll call). 'Gdyby' = hypothetical/unreal: 'Gdybyś przyszedł' = If you were to come [but you probably won't].",
+      "explanation_fa": "'jeśli/jeżeli' برای شرط واقعی/محتمل: 'Jeśli przyjdziesz, zadzwonię' (اگر بیایی [و شاید بیایی]، زنگ می‌زنم). 'gdyby' برای فرضی/بعید: 'Gdybyś przyszedł' = اگر می‌آمدی [ولی احتمالاً نمی‌آیی]."
+    },
+    {
+      "id": "a2-ch14-l03-ex06",
+      "type": "fill_blank",
+      "order": 6,
+      "context": "Tomek says: If I won the lottery, I would buy a house. Complete:",
+      "context_fa": "تامک می‌گوید: اگر در لاتاری برنده می‌شدم، خانه می‌خریدم. کامل کنید:",
+      "sentence": "Gdybym wygrał na loterii, ___ dom.",
+      "prompt": "Gdybym wygrał na loterii, ___ dom.",
+      "prompt_fa": "Gdybym wygrał na loterii, ___ dom.",
+      "answer": "kupiłbym",
+      "acceptableAnswers": ["kupiłbym"],
+      "hint": "kupić, ja m conditional: kupił + bym = kupiłbym",
+      "explanation": "'Gdybym wygrał na loterii, kupiłbym dom.' — If I won the lottery, I would buy a house. Masculine conditional ja: kupił + bym = kupiłbym.",
+      "explanation_fa": "'Gdybym wygrał na loterii, kupiłbym dom.' — اگر در لاتاری برنده می‌شدم، خانه می‌خریدم. شرطی مذکر ja: kupił + bym = kupiłbym."
+    },
+    {
+      "id": "a2-ch14-l03-ex07",
+      "type": "multiple_choice",
+      "order": 7,
+      "prompt": "Gdyby on ___ po polsku, rozmawialibyśmy z nim. (If he spoke Polish, we would talk to him.)",
+      "prompt_fa": "Gdyby on ___ po polsku, rozmawialibyśmy z nim. فعل درست کدام است؟",
+      "options": [
+        "mówił",
+        "mówi",
+        "będzie mówił",
+        "mówił się"
+      ],
+      "correctIndex": 0,
+      "explanation": "In gdyby clauses the verb takes the past form: 'mówił' (on, past masculine). This is the standard pattern: gdyby + past = hypothetical condition.",
+      "explanation_fa": "در بندهای gdyby فعل به شکل گذشته می‌آید: 'mówił' (on، گذشته مذکر). این الگوی استاندارد است: gdyby + گذشته = شرط فرضی."
+    },
+    {
+      "id": "a2-ch14-l03-ex08",
+      "type": "sentence_builder",
+      "order": 8,
+      "prompt": "Build: If it rained, we would stay at home.",
+      "prompt_fa": "بسازید: اگر باران می‌بارید، خانه می‌ماندیم.",
+      "wordBank": ["Gdyby", "padało", "padał", "zostalibyśmy", "zostaliśmy", "w", "domu", "dom"],
+      "correctSequences": [["Gdyby", "padało", "zostalibyśmy", "w", "domu"]],
+      "explanation": "'Gdyby padało, zostalibyśmy w domu.' — If it rained, we would stay at home. 'Gdyby padało' = if it were raining (3rd person impersonal past). 'Zostalibyśmy' = we would stay (m-pers conditional).",
+      "explanation_fa": "'Gdyby padało, zostalibyśmy w domu.' — اگر باران می‌بارید، خانه می‌ماندیم. 'Gdyby padało' = اگر باران می‌بارید (گذشته غیرشخصی). 'Zostalibyśmy' = خانه می‌ماندیم (شرطی)."
+    },
+    {
+      "id": "a2-ch14-l03-ex09",
+      "type": "dictation_mc",
+      "order": 9,
+      "audioAsset": "assets/audio/a2/ch14/a2-ch14-l03-ex09.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Gdybym miała czas, poszłabym do kina.",
+        "Jeśli mam czas, idę do kina.",
+        "Gdybym miała czas, idę do kina.",
+        "Gdybyś miała czas, poszłabyś do kina."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Gdybym miała czas, poszłabym do kina.' — If I (f) had time, I would go to the cinema. Hypothetical: gdybym (f) + poszłabym (f conditional of pójść).",
+      "explanation_fa": "شنیدید: 'Gdybym miała czas, poszłabym do kina.' — اگر وقت داشتم (f)، به سینما می‌رفتم. فرضی: gdybym (مؤنث) + poszłabym (شرطی مؤنث از pójść)."
+    },
+    {
+      "id": "a2-ch14-l03-ex10",
+      "type": "sentence_builder",
+      "order": 10,
+      "prompt": "Build: If you (m) studied more, you would pass the exam.",
+      "prompt_fa": "بسازید: اگر بیشتر درس می‌خواندی (م)، در آزمون قبول می‌شدی.",
+      "wordBank": ["Gdybyś", "uczył", "uczyłeś", "więcej", "zdałbyś", "zdałeś", "egzamin", "egzaminu"],
+      "correctSequences": [["Gdybyś", "uczył", "więcej", "zdałbyś", "egzamin"]],
+      "explanation": "'Gdybyś uczył więcej, zdałbyś egzamin.' — If you (m) studied more, you would pass the exam. 'Gdybyś' = ty hypothetical if. 'Uczył' = past m form. 'Zdałbyś' = ty m conditional of zdać.",
+      "explanation_fa": "'Gdybyś uczył więcej, zdałbyś egzamin.' — اگر بیشتر درس می‌خواندی (م)، در آزمون قبول می‌شدی. 'Gdybyś' = شرط فرضی برای ty. 'Uczył' = گذشته مذکر. 'Zdałbyś' = شرطی ty م از zdać."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": [
-    "conditional",
-    "hypothetical",
-    "gdyby",
-    "a2-core"
-  ],
-  "prerequisites": [
-    "a2-ch14-l01",
-    "a2-ch14-l02"
-  ]
+  "tags": ["conditional", "hypothetical", "gdyby", "a2-core"],
+  "prerequisites": ["a2-ch14-l01", "a2-ch14-l02"]
 }

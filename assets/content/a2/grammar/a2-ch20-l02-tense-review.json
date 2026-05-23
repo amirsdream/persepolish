@@ -6,7 +6,7 @@
   "title": "Tense Review — Past, Present, Future",
   "title_fa": "مرور زمان‌ها — گذشته، حال، آینده",
   "grammarPoint": "Complete A2 tense system review: past tense forms (all genders/numbers), present tense groups, imperfective future (będę + inf), perfective future (present-looking), and conditional",
-  "grammarPoint_fa": "مرور زمان‌های سه‌گانه با هر دو وجه",
+  "grammarPoint_fa": "مرور کامل سیستم زمانی A2: صرف گذشته (همه جنس‌ها/اعداد)، گروه‌های حال، آینده ناکامل (będę + مصدر)، آینده کامل (شبیه حال)، و وجه التزامی",
   "explanation": {
     "text": "A complete overview of the Polish tense system covered in A1–A2.\n\n## PRESENT TENSE (Czas teraźniejszy)\n\n**Group 1** (-am/-asz): czytać, pracować, mówić\n**Group 2** (-ę/-esz / -ę/-isz): pisać (piszę/piszesz), mieć (mam/masz)\n\n| | Group 1 (czytać) | Group 2 (pisać) |\n|--|--|--|\n| ja | czyt**am** | pisz**ę** |\n| ty | czyt**asz** | pisz**esz** |\n| on/ona | czyt**a** | pisz**e** |\n| my | czyt**amy** | pisz**emy** |\n| wy | czyt**acie** | pisz**ecie** |\n| oni/one | czyt**ają** | pisz**ą** |\n\n## PAST TENSE (Czas przeszły)\n\n| Person | Masculine | Feminine | Neuter |\n|--------|----------|---------|-------|\n| ja | czytał**em** | czytał**am** | — |\n| ty | czytał**eś** | czytał**aś** | — |\n| on/ona/ono | czytał | czytał**a** | czytał**o** |\n| my | czytali**śmy** | czytały**śmy** | — |\n| wy | czytali**ście** | czytały**ście** | — |\n| oni/one | czyta**li** | czyta**ły** | — |\n\n## IMPERFECTIVE FUTURE (będę + inf or l-form)\n\n- Jutro **będę czytać** gazetę. (I will be reading)\n- Będę **czytał/czytała** (l-form variant — same meaning)\n\n## PERFECTIVE FUTURE (present-looking conjugation)\n\n- **Napiszę** jutro ten email. (I will write — completed)\n- **Zrobię** to zaraz. (I will do it right away)\n\n## CONDITIONAL (Tryb warunkowy)\n\n- Masc: chciał**bym**, pisał**bym**, szedł**bym**\n- Fem: chciała**bym**, pisała**bym**, szła**bym**\n- + gdyby clauses for hypotheticals\n\n## Key Time Expressions\n\n| Past | Present | Future |\n|------|---------|--------|\n| wczoraj | teraz | jutro |\n| w zeszłym tygodniu | w tej chwili | w przyszłym tygodniu |\n| dawno temu | zwykle | za tydzień |\n| ostatnio | codziennie | wkrótce |",
     "notes": [
@@ -16,13 +16,14 @@
       "Time words help: jutro + perfective future; codziennie + imperfective (any tense)."
     ]
   },
-  "explanation_fa": "جدول کامل زمان‌ها: حال (فقط ناکامل): czytam. گذشته کامل: przeczytałem/przeczytałam. گذشته ناکامل: czytałem/czytałam. آینده ناکامل: będę czytać / będę czytał(a). آینده کامل: przeczytam. این جدول را با افعال مختلف تمرین کنید.",
+  "explanation_fa": "**مرور کامل سیستم زمانی لهستانی — سطح A1-A2**\n\n**۱. زمان حال (Czas teraźniejszy)**\nفقط با افعال ناکامل — دو گروه اصلی:\n\n| ضمیر | گروه ۱ (czytać) | گروه ۲ (pisać) | معنا |\n|------|----------------|----------------|------|\n| ja | czyt**am** | pisz**ę** | می‌خوانم / می‌نویسم |\n| ty | czyt**asz** | pisz**esz** | می‌خوانی / می‌نویسی |\n| on/ona | czyt**a** | pisz**e** | می‌خواند / می‌نویسد |\n| my | czyt**amy** | pisz**emy** | می‌خوانیم / می‌نویسیم |\n| wy | czyt**acie** | pisz**ecie** | می‌خوانید / می‌نویسید |\n| oni/one | czyt**ają** | pisz**ą** | می‌خوانند / می‌نویسند |\n\n**۲. زمان گذشته (Czas przeszły) — توافق جنسیتی اجباری**\n\n| شخص | مذکر | مؤنث | خنثی |\n|------|------|------|------|\n| ja | czytał**em** | czytał**am** | — |\n| ty | czytał**eś** | czytał**aś** | — |\n| on/ona/ono | czytał | czytał**a** | czytał**o** |\n| my | czytali**śmy** | czytały**śmy** | — |\n| wy | czytali**ście** | czytały**ście** | — |\n| oni/one | czyta**li** (مذکر جمع) | czyta**ły** (غیرمذکر) | — |\n\n**نکته مهم:** جمع مذکر (حداقل یک مرد) = **-li**. جمع غیرمذکر (فقط زنان/اشیاء) = **-ły**\n\n**۳. آینده ناکامل (będę + مصدر یا l-form)**\n- Jutro będę **czytać** gazetę. (فردا روزنامه می‌خوانم — فرآیند)\n- Będę **czytał/czytała** (فرم l — همان معنا)\n\n**۴. آینده کامل (شبیه حال — اما آینده!)**\n- **Napiszę** jutro ten email. (فردا این ایمیل را می‌نویسم — تکمیل‌شده)\n- **Zrobię** to zaraz. (این کار را همین الان می‌کنم)\n\n**هشدار:** napiszę ظاهراً مثل حال است اما معنای آینده کامل دارد!\n\n**۵. وجه التزامی (Tryb warunkowy)**\n- مذکر: chciał**bym**، pisał**bym**\n- مؤنث: chciała**bym**، pisała**bym**\n\n**کلمات کلیدی زمان:**\n\n| گذشته | حال | آینده |\n|-------|-----|-------|\n| wczoraj (دیروز) | teraz (الان) | jutro (فردا) |\n| w zeszłym tygodniu (هفته پیش) | codziennie (هر روز) | za tydzień (یک هفته دیگر) |\n| dawno temu (مدت‌هاست) | w tej chwili (همین لحظه) | wkrótce (به زودی) |",
   "exercises": [
     {
       "id": "a2-ch20-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Wczoraj ona ___ list. (Yesterday she wrote a letter.) [past fem sg]",
+      "prompt_fa": "Wczoraj ona ___ list. (دیروز او (مؤنث) نامه نوشت.) [گذشته مؤنث مفرد]",
       "options": [
         "napisała",
         "napisał",
@@ -30,13 +31,15 @@
         "napisali"
       ],
       "correctIndex": 0,
-      "explanation": "Feminine singular past tense: -ła ending. 'Ona napisała list' = She wrote a letter. 'Napisał' = masc sg (he). 'Napisało' = neuter sg. 'Napisali' = virile plural (they, men group)."
+      "explanation": "Feminine singular past tense: -ła ending. 'Ona napisała list' = She wrote a letter. 'Napisał' = masc sg (he). 'Napisało' = neuter sg. 'Napisali' = virile plural (they, men group).",
+      "explanation_fa": "گذشته مفرد مؤنث: پسوند -ła. 'Ona napisała list' = او نامه نوشت. 'Napisał' = مفرد مذکر (او/مرد). 'Napisało' = مفرد خنثی. 'Napisali' = جمع مذکر (آن‌ها، گروه مردان)."
     },
     {
       "id": "a2-ch20-l02-ex02",
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Jutro ___ ten raport. (Tomorrow I will finish this report.) [perf future, 1st sg]",
+      "prompt_fa": "Jutro ___ ten raport. (فردا این گزارش را تمام می‌کنم.) [آینده کامل، اول شخص مفرد]",
       "options": [
         "skończę",
         "będę kończyć",
@@ -44,13 +47,16 @@
         "kończę"
       ],
       "correctIndex": 0,
-      "explanation": "'Skończę' = perfective future (I will finish/complete). Tomorrow + perfective = completed result. 'Będę kończyć' = imperfective future (I will be in the process of finishing). 'Skończyłem' = past. 'Kończę' = present."
+      "explanation": "'Skończę' = perfective future (I will finish/complete). Tomorrow + perfective = completed result. 'Będę kończyć' = imperfective future (I will be in the process of finishing). 'Skończyłem' = past. 'Kończę' = present.",
+      "explanation_fa": "'Skończę' = آینده کامل (تمام خواهم کرد). فردا + کامل = نتیجه تکمیل‌شده. 'Będę kończyć' = آینده ناکامل (در فرآیند تمام کردن خواهم بود). 'Skończyłem' = گذشته. 'Kończę' = حال."
     },
     {
       "id": "a2-ch20-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch20/a2-ch20-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "W zeszłym roku mieszkałam w Krakowie.",
         "W zeszłym roku będę mieszkać w Krakowie.",
@@ -58,13 +64,15 @@
         "W zeszłym roku mieszkam w Krakowie."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'W zeszłym roku mieszkałam w Krakowie.' — Last year I (f) lived in Kraków. 'W zeszłym roku' = last year → past tense. 'Mieszkałam' = imperfective past fem sg (I was living / I lived — duration)."
+      "explanation": "You heard: 'W zeszłym roku mieszkałam w Krakowie.' — Last year I (f) lived in Kraków. 'W zeszłym roku' = last year → past tense. 'Mieszkałam' = imperfective past fem sg (I was living / I lived — duration).",
+      "explanation_fa": "شنیدید: 'W zeszłym roku mieszkałam w Krakowie.' — پارسال (مؤنث) در کراکوف زندگی می‌کردم. 'W zeszłym roku' = سال پیش → زمان گذشته. 'Mieszkałam' = گذشته ناکامل مؤنث مفرد (زندگی می‌کردم — مدت)."
     },
     {
       "id": "a2-ch20-l02-ex04",
       "type": "multiple_choice",
       "order": 4,
-      "prompt": "Moi rodzice ___ do Polski w 1990 roku. (My parents (men+women) moved to Poland in 1990.) [virile plural past]",
+      "prompt": "Moi rodzice ___ do Polski w 1990 roku. (My parents moved to Poland in 1990.) [virile plural past]",
+      "prompt_fa": "Moi rodzice ___ do Polski w 1990 roku. (والدینم در سال ۱۹۹۰ به لهستان آمدند.) [جمع مذکر گذشته]",
       "options": [
         "przyjechali",
         "przyjechały",
@@ -72,49 +80,104 @@
         "przyjechał"
       ],
       "correctIndex": 0,
-      "explanation": "'Moi rodzice' = my parents (mixed gender group = virile plural) → -li ending: 'przyjechali'. If it were all women: 'przyjechały'. Virile (at least one man) always takes -li. 'Rodzice' (parents) is virile by default."
+      "explanation": "'Moi rodzice' = my parents (mixed gender group = virile plural) → -li ending: 'przyjechali'. If it were all women: 'przyjechały'. Virile (at least one man) always takes -li. 'Rodzice' (parents) is virile by default.",
+      "explanation_fa": "'Moi rodzice' = والدینم (گروه جنسیت مختلط = جمع مذکر) → پسوند -li: 'przyjechali'. اگر فقط زنان بودند: 'przyjechały'. جمع مذکر (حداقل یک مرد) همیشه -li می‌گیرد. 'Rodzice' (والدین) به طور پیش‌فرض مذکر جمع است."
     },
     {
       "id": "a2-ch20-l02-ex05",
-      "type": "sentence_builder",
+      "type": "fill_blank",
       "order": 5,
+      "context": "Your Polish friend asks what you will do next week — you plan to read a new book:",
+      "context_fa": "دوست لهستانی‌ات می‌پرسد هفته آینده چه می‌کنی — قرار است کتاب جدیدی بخوانی:",
+      "sentence": "W przyszłym tygodniu ___ nową książkę.",
+      "prompt": "W przyszłym tygodniu ___ nową książkę. (Next week I will read a new book — ongoing activity) [będę czytać]",
+      "prompt_fa": "W przyszłym tygodniu ___ nową książkę. (هفته آینده کتاب جدیدی می‌خوانم — فعالیت مستمر) [będę czytać]",
+      "answer": "będę czytać",
+      "acceptableAnswers": ["będę czytać", "będę czytał", "będę czytała"],
+      "hint": "Ongoing future activity → imperfective future: będę + infinitive",
+      "explanation": "'Będę czytać nową książkę' = I will be reading a new book (imperfective future — the activity, not the completion). If you wanted to say 'I will finish reading it', use perfective: 'przeczytam'.",
+      "explanation_fa": "'Będę czytać nową książkę' = کتاب جدیدی می‌خوانم (آینده ناکامل — فعالیت، نه تکمیل). اگر بخواهید بگویید «تمامش می‌کنم»، از کامل استفاده کنید: 'przeczytam'."
+    },
+    {
+      "id": "a2-ch20-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Which form means 'I (f) was writing every day last year'? [habitual past, feminine]",
+      "prompt_fa": "کدام فرم به معنای «من (مؤنث) پارسال هر روز می‌نوشتم» است؟ [گذشته عادتی، مؤنث]",
+      "options": [
+        "pisałam",
+        "napisałam",
+        "piszę",
+        "napiszę"
+      ],
+      "correctIndex": 0,
+      "explanation": "Habitual past (codziennie) + feminine speaker → imperfective past fem: 'pisałam' (from pisać, imperf). 'Napisałam' = I wrote (completed, once). 'Piszę' = I write (present). 'Napiszę' = I will write (perf future).",
+      "explanation_fa": "گذشته عادتی (codziennie) + گوینده مؤنث → گذشته ناکامل مؤنث: 'pisałam' (از pisać، ناکامل). 'Napisałam' = نوشتم (تکمیل‌شده، یک‌بار). 'Piszę' = می‌نویسم (حال). 'Napiszę' = خواهم نوشت (آینده کامل)."
+    },
+    {
+      "id": "a2-ch20-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "You promise to call your friend as soon as you finish work today:",
+      "context_fa": "قول می‌دهی به محض اینکه کارت تمام شد امروز زنگ بزنی:",
+      "sentence": "___ do ciebie, jak tylko skończę pracę.",
+      "prompt": "___ do ciebie, jak tylko skończę pracę. (I will call you as soon as I finish work.) [zadzwonić — perf future]",
+      "prompt_fa": "___ do ciebie, jak tylko skończę pracę. (به محض اینکه کارم تمام شد زنگ می‌زنم.) [zadzwonić — آینده کامل]",
+      "answer": "Zadzwonię",
+      "acceptableAnswers": ["Zadzwonię"],
+      "hint": "Perfective future of zadzwonić (to call once) — looks like present tense conjugation",
+      "explanation": "'Zadzwonię do ciebie' = I will call you (once, perfective future). 'Zadzwonić' (perf of dzwonić) → zadzwonię. 'Jak tylko skończę' = as soon as I finish (jak tylko + perf future for sequence).",
+      "explanation_fa": "'Zadzwonię do ciebie' = به تو زنگ می‌زنم (یک‌بار، آینده کامل). 'Zadzwonić' (کامل dzwonić) → zadzwonię. 'Jak tylko skończę' = به محض اینکه تمام کنم (jak tylko + آینده کامل برای توالی)."
+    },
+    {
+      "id": "a2-ch20-l02-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "What is WRONG in: 'Oni poszły do sklepu wczoraj'?",
+      "prompt_fa": "خطا در «Oni poszły do sklepu wczoraj» چیست؟",
+      "options": [
+        "'Oni' (virile group) needs -li ending: 'Oni poszli'",
+        "The tense is wrong — should be future",
+        "'Do sklepu' should be 'w sklepie'",
+        "There is no error"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Oni' = they (virile — group including at least one man) → needs -li ending: 'poszli'. 'Poszły' = non-virile (women/animals/objects only). 'Oni poszli do sklepu' = They (mixed/men group) went to the shop.",
+      "explanation_fa": "'Oni' = آن‌ها (مذکر — گروه شامل حداقل یک مرد) → به پسوند -li نیاز دارد: 'poszli'. 'Poszły' = غیرمذکر (فقط زنان/حیوانات/اشیاء). 'Oni poszli do sklepu' = آن‌ها (گروه مختلط/مردان) به مغازه رفتند."
+    },
+    {
+      "id": "a2-ch20-l02-ex09",
+      "type": "dictation_mc",
+      "order": 9,
+      "audioAsset": "assets/audio/a2/ch20/a2-ch20-l02-ex09.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Gdybym miał więcej czasu, nauczyłbym się grać na gitarze.",
+        "Gdybym miała więcej czasu, nauczyłabym się grać na gitarze.",
+        "Jeśli mam więcej czasu, uczę się grać na gitarze.",
+        "Kiedy miałem więcej czasu, uczyłem się grać na gitarze."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Gdybym miał więcej czasu, nauczyłbym się grać na gitarze.' — If I had more time, I would learn to play guitar. Male speaker: 'miał' (not 'miała'), 'nauczyłbym' (not 'nauczyłabym'). Gdyby = hypothetical conditional.",
+      "explanation_fa": "شنیدید: 'Gdybym miał więcej czasu, nauczyłbym się grać na gitarze.' — اگر وقت بیشتری داشتم، گیتار یاد می‌گرفتم. گوینده مذکر: 'miał' (نه 'miała')، 'nauczyłbym' (نه 'nauczyłabym'). Gdyby = شرطی فرضی."
+    },
+    {
+      "id": "a2-ch20-l02-ex10",
+      "type": "sentence_builder",
+      "order": 10,
       "prompt": "Build: She was reading when the phone rang. (imperfective background / perfective event)",
-      "wordBank": [
-        "Kiedy",
-        "czytała",
-        "czytała",
-        ",",
-        "zadzwonił",
-        "zadzwoniła",
-        "telefon",
-        "telefonem",
-        "."
-      ],
+      "prompt_fa": "بسازید: داشت می‌خواند که تلفن زنگ زد. (ناکامل پس‌زمینه / کامل رویداد)",
+      "wordBank": ["Kiedy", "czytała", "czytała", ",", "zadzwonił", "zadzwoniła", "telefon", "telefonem", "."],
       "correctSequences": [
-        [
-          "Kiedy",
-          "czytała",
-          ",",
-          "zadzwonił",
-          "telefon",
-          "."
-        ]
+        ["Kiedy", "czytała", ",", "zadzwonił", "telefon", "."]
       ],
-      "explanation": "'Kiedy czytała, zadzwonił telefon.' — When she was reading, the phone rang. 'Czytała' = imperfective past fem (ongoing background). 'Zadzwonił' = perfective past masc (telefon = m, one-time event). Classic Polish aspect contrast."
+      "explanation": "'Kiedy czytała, zadzwonił telefon.' — When she was reading, the phone rang. 'Czytała' = imperfective past fem (ongoing background). 'Zadzwonił' = perfective past masc (telefon = m, one-time event). Classic Polish aspect contrast.",
+      "explanation_fa": "'Kiedy czytała, zadzwonił telefon.' — وقتی داشت می‌خواند، تلفن زنگ زد. 'Czytała' = گذشته ناکامل مؤنث (فعالیت پس‌زمینه مستمر). 'Zadzwonił' = گذشته کامل مذکر (telefon = مذکر، رویداد یک‌بار). تضاد کلاسیک وجه لهستانی."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": [
-    "tense",
-    "review",
-    "a2-core"
-  ],
-  "prerequisites": [
-    "a2-ch11-l01",
-    "a2-ch11-l02",
-    "a2-ch11-l03",
-    "a2-ch13-l01",
-    "a2-ch13-l02"
-  ]
+  "tags": ["tense", "review", "a2-core"],
+  "prerequisites": ["a2-ch11-l01", "a2-ch11-l02", "a2-ch11-l03", "a2-ch13-l01", "a2-ch13-l02"]
 }

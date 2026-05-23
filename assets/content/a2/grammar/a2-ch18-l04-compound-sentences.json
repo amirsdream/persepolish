@@ -6,7 +6,7 @@
   "title": "Compound & Complex Sentences",
   "title_fa": "جملات مرکب و پیچیده",
   "grammarPoint": "Coordinating conjunctions (i, ale, lub, ani, a) and subordinating conjunctions (że, bo/ponieważ, żeby, kiedy, chociaż) to build longer Polish sentences",
-  "grammarPoint_fa": "حروف ربط: że، żeby، kiedy، ponieważ، chociaż، jeśli",
+  "grammarPoint_fa": "حروف ربط همپایه (i، a، ale، lub، ani، więc، jednak) و حروف ربط وابسته (że، bo/ponieważ، żeby، kiedy، jeśli، chociaż، zanim) برای ساخت جملات مرکب لهستانی",
   "explanation": {
     "text": "Connecting clauses is essential for fluent Polish. There are two types of connectors:\n\n## Coordinating Conjunctions (łączniki współrzędne)\n\nThese join two independent clauses of equal status:\n\n| Conjunction | Meaning | Example |\n|-------------|---------|--------|\n| **i** | and | Pracuję i uczę się. |\n| **a** | and / but (contrast) | Ona pracuje, a ja studiuję. |\n| **ale** | but | Chcę iść, ale jestem zmęczony. |\n| **lub / albo** | or | Herbata lub kawa? |\n| **ani...ani** | neither...nor | Ani nie jem, ani nie śpię. |\n| **więc** | so / therefore | Jestem chory, więc zostanę w domu. |\n| **jednak** | however | Chciałam iść, jednak zostałam. |\n\n**'i' vs 'a':**\n- **i** = pure addition (and): Piszę i czytam. (I write and read.)\n- **a** = contrast or parallel comparison: Ona pije kawę, **a** ja herbatę. (She drinks coffee, and I drink tea.)\n\n## Subordinating Conjunctions (łączniki podrzędne)\n\nThese introduce a dependent clause:\n\n| Conjunction | Meaning | Example |\n|-------------|---------|--------|\n| **że** | that | Myślę, że masz rację. |\n| **bo / ponieważ** | because | Zostałem w domu, bo byłem chory. |\n| **żeby** | so that / in order to | Uczę się, żeby zdać egzamin. |\n| **kiedy / gdy** | when | Kiedy skończyłem, zadzwoniłem. |\n| **jeśli / jeżeli** | if (real) | Jeśli masz czas, chodź! |\n| **chociaż / choć** | although | Chociaż jest zmęczona, pracuje. |\n| **zanim** | before | Zadzwoń, zanim przyjdziesz. |\n| **odkąd** | since (time) | Odkąd tu mieszkam, jestem szczęśliwy. |\n\n**Word order with że:**\nThe verb can go to position 2 in the subordinate clause:\n- Myślę, że **on jest** dobry. OR Myślę, że **jest** dobry.\n\n**Żeby + infinitive (subject same):**\n- Uczę się, żeby zdać egzamin. (I study in order to pass.)\n\n**Żeby + past tense (different subjects):**\n- Chcę, żeby on przyszedł. (I want him to come.)",
     "notes": [
@@ -16,13 +16,14 @@
       "Comma before subordinating conjunctions is standard in Polish: Myślę, że...; Zostałem, bo..."
     ]
   },
-  "explanation_fa": "حروف ربط پرکاربرد در جملات پیچیده: że (که — برای بیان): Wiem, że masz rację. żeby (تا — هدف): Uczę się, żeby zdać egzamin. kiedy (وقتی): Kiedy byłem młody... ponieważ/bo (چون): Nie przyszedłem, bo byłem chory. chociaż (اگرچه): Chociaż jest późno, pracuję.",
+  "explanation_fa": "**جملات مرکب در لهستانی — حروف ربط همپایه و وابسته**\n\nبرای بیان ایده‌های پیچیده‌تر، باید جملات را با حروف ربط به هم وصل کنیم. دو نوع حرف ربط اصلی وجود دارد:\n\n**۱. حروف ربط همپایه (łączniki współrzędne)**\nاین‌ها دو جمله مستقل هم‌ارزش را به هم وصل می‌کنند:\n\n| حرف ربط | معنا | مثال | ترجمه |\n|---------|------|------|-------|\n| **i** | و (افزودن) | Pracuję i uczę się. | کار می‌کنم و درس می‌خوانم. |\n| **a** | و / اما (تقابل موازی) | Ona pracuje, a ja studiuję. | او کار می‌کند و من درس می‌خوانم. |\n| **ale** | اما (تضاد) | Chcę iść, ale jestem zmęczony. | می‌خواهم بروم اما خسته‌ام. |\n| **lub / albo** | یا | Herbata lub kawa? | چای یا قهوه؟ |\n| **ani...ani** | نه...نه | Ani nie jem, ani nie śpię. | نه می‌خورم نه می‌خوابم. |\n| **więc** | پس / بنابراین | Jestem chory, więc zostanę. | مریضم پس می‌مانم. |\n| **jednak** | با این حال | Chciałam iść, jednak zostałam. | می‌خواستم بروم، با این حال ماندم. |\n\n**تفاوت مهم: «i» در برابر «a»**\n- **i** = افزودن ساده: Piszę i czytam. (می‌نویسم و می‌خوانم.)\n- **a** = تقابل موازی دو نفر/چیز: Ona pije kawę, **a** ja herbatę. (او قهوه می‌نوشد، و من چای.)\n\n**۲. حروف ربط وابسته (łączniki podrzędne)**\nاین‌ها جمله فرعی وابسته می‌سازند:\n\n| حرف ربط | معنا | مثال | ترجمه |\n|---------|------|------|-------|\n| **że** | که (بیان) | Myślę, że masz rację. | فکر می‌کنم که حق داری. |\n| **bo / ponieważ** | چون / زیرا | Zostałem, bo byłem chory. | ماندم چون مریض بودم. |\n| **żeby** | تا / برای اینکه | Uczę się, żeby zdać egzamin. | درس می‌خوانم تا امتحان بدهم. |\n| **kiedy / gdy** | وقتی | Kiedy skończyłem, zadzwoniłem. | وقتی تمام کردم، زنگ زدم. |\n| **jeśli / jeżeli** | اگر (واقعی) | Jeśli masz czas, chodź! | اگر وقت داری، بیا! |\n| **chociaż / choć** | اگرچه | Chociaż jest zmęczona, pracuje. | اگرچه خسته است، کار می‌کند. |\n| **zanim** | قبل از اینکه | Zadzwoń, zanim przyjdziesz. | زنگ بزن قبل از اینکه بیایی. |\n\n**نکته: żeby + مصدر (فاعل یکی)**\n- Uczę się, żeby zdać egzamin. = درس می‌خوانم تا امتحان بدهم.\n\n**نکته: żeby + زمان گذشته (فاعل‌های متفاوت)**\n- Chcę, żeby on przyszedł. = می‌خواهم که او بیاید.\n\n**نکته: bo (محاوره‌ای) در برابر ponieważ (رسمی)**\n- هر دو یعنی «چون» — bo در مکالمه، ponieważ در نوشتار رسمی",
   "exercises": [
     {
       "id": "a2-ch18-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Chcę iść, ___ jestem zmęczony. (I want to go, but I'm tired.)",
+      "prompt_fa": "Chcę iść, ___ jestem zmęczony. (می‌خواهم بروم اما خسته‌ام.)",
       "options": [
         "ale",
         "i",
@@ -30,13 +31,15 @@
         "więc"
       ],
       "correctIndex": 0,
-      "explanation": "'Ale' = but (adversative — contrasting two opposing ideas). 'I' = and (addition). 'Więc' = so/therefore. 'Chcę iść, ale jestem zmęczony' = I want to go, but I'm tired."
+      "explanation": "'Ale' = but (adversative — contrasting two opposing ideas). 'I' = and (addition). 'Więc' = so/therefore. 'Chcę iść, ale jestem zmęczony' = I want to go, but I'm tired.",
+      "explanation_fa": "'Ale' = اما (تضاد — دو ایده مخالف). 'I' = و (افزودن). 'Więc' = پس/بنابراین. 'Chcę iść, ale jestem zmęczony' = می‌خواهم بروم اما خسته‌ام."
     },
     {
       "id": "a2-ch18-l04-ex02",
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Uczę się, ___ zdać egzamin. (I study in order to pass the exam.) [purpose]",
+      "prompt_fa": "Uczę się, ___ zdać egzamin. (درس می‌خوانم تا امتحان بدهم.) [هدف]",
       "options": [
         "żeby",
         "że",
@@ -44,13 +47,16 @@
         "kiedy"
       ],
       "correctIndex": 0,
-      "explanation": "'Żeby + infinitive' = in order to (purpose, same subject): uczę się, żeby zdać. 'Że' = that (introduces a statement). 'Bo' = because (reason). 'Kiedy' = when (time)."
+      "explanation": "'Żeby + infinitive' = in order to (purpose, same subject): uczę się, żeby zdać. 'Że' = that (introduces a statement). 'Bo' = because (reason). 'Kiedy' = when (time).",
+      "explanation_fa": "'Żeby + مصدر' = تا / برای اینکه (هدف، فاعل یکی): uczę się, żeby zdać. 'Że' = که (بیان مطلب). 'Bo' = چون (دلیل). 'Kiedy' = وقتی (زمان)."
     },
     {
       "id": "a2-ch18-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch18/a2-ch18-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Zostałem w domu, ponieważ byłem chory.",
         "Zostałem w domu, żeby być chory.",
@@ -58,13 +64,15 @@
         "Zostałem w domu, kiedy byłem chory."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Zostałem w domu, ponieważ byłem chory.' — I stayed at home because I was sick. 'Ponieważ' = because (formal). 'Bo' would also be correct but informal. 'Chociaż' = although (opposite meaning)."
+      "explanation": "You heard: 'Zostałem w domu, ponieważ byłem chory.' — I stayed at home because I was sick. 'Ponieważ' = because (formal). 'Bo' would also be correct but informal. 'Chociaż' = although (opposite meaning).",
+      "explanation_fa": "شنیدید: 'Zostałem w domu, ponieważ byłem chory.' — در خانه ماندم چون مریض بودم. 'Ponieważ' = چون (رسمی). 'Bo' هم درست است اما محاوره‌ای. 'Chociaż' = اگرچه (معنای مخالف)."
     },
     {
       "id": "a2-ch18-l04-ex04",
       "type": "multiple_choice",
       "order": 4,
-      "prompt": "Ona pije kawę, ___ ja herbatę. (She drinks coffee, and I drink tea.) [contrast/parallel]",
+      "prompt": "Ona pije kawę, ___ ja herbatę. (She drinks coffee, and I drink tea.) [parallel contrast]",
+      "prompt_fa": "Ona pije kawę, ___ ja herbatę. (او قهوه می‌نوشد، و من چای.) [تقابل موازی]",
       "options": [
         "a",
         "ale",
@@ -72,60 +80,105 @@
         "lub"
       ],
       "correctIndex": 0,
-      "explanation": "'A' expresses parallel contrast (not adversarial): two people doing different things. 'Ale' = adversarial but. 'I' = simple addition. 'Ona pije kawę, a ja herbatę' — classic 'a' contrast pattern."
+      "explanation": "'A' expresses parallel contrast (not adversarial): two people doing different things. 'Ale' = adversarial but. 'I' = simple addition. 'Ona pije kawę, a ja herbatę' — classic 'a' contrast pattern.",
+      "explanation_fa": "'A' تقابل موازی را نشان می‌دهد (نه تضاد): دو نفر کارهای متفاوت می‌کنند. 'Ale' = اما تضادی. 'I' = افزودن ساده. 'Ona pije kawę, a ja herbatę' — الگوی کلاسیک 'a' در لهستانی."
     },
     {
       "id": "a2-ch18-l04-ex05",
-      "type": "sentence_builder",
+      "type": "fill_blank",
       "order": 5,
-      "prompt": "Build: Although she's tired, she keeps working. (chociaż + present)",
-      "wordBank": [
+      "context": "Your friend says they don't understand Polish, but you know they've been studying for years:",
+      "context_fa": "دوستت می‌گوید لهستانی نمی‌فهمد، اما می‌دانی سال‌هاست درس می‌خواند:",
+      "sentence": "Myślę, ___ rozumiesz po polsku!",
+      "prompt": "Myślę, ___ rozumiesz po polsku! (I think that you understand Polish!) [że]",
+      "prompt_fa": "Myślę, ___ rozumiesz po polsku! (فکر می‌کنم که لهستانی می‌فهمی!) [że]",
+      "answer": "że",
+      "acceptableAnswers": ["że"],
+      "hint": "'Że' introduces a statement or belief after verbs of thinking/saying.",
+      "explanation": "'Że' = that — used after verbs of thought and speech: myślę że (I think that), wiem że (I know that), mówię że (I say that). Always followed by a full clause.",
+      "explanation_fa": "'Że' = که — بعد از افعال فکر و گفتار می‌آید: myślę że (فکر می‌کنم که)، wiem że (می‌دانم که)، mówię że (می‌گویم که). همیشه جمله کامل پشت آن می‌آید."
+    },
+    {
+      "id": "a2-ch18-l04-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "___ jest późno, muszę wracać do domu. (Although it's late, I must go back home.)",
+      "prompt_fa": "___ jest późno, muszę wracać do domu. (اگرچه دیر وقت است، باید به خانه برگردم.)",
+      "options": [
         "Chociaż",
-        "ona",
-        "jest",
-        "zmęczona",
-        "zmęczony",
-        ",",
-        "pracuje",
-        "pracują",
-        "dalej",
-        "jednak",
-        "."
+        "Ponieważ",
+        "Więc",
+        "Żeby"
       ],
+      "correctIndex": 0,
+      "explanation": "'Chociaż' = although/even though (concessive — the second clause contradicts expectations). 'Ponieważ' = because (would give the reason, opposite logic). 'Więc' = so/therefore. 'Żeby' = in order to.",
+      "explanation_fa": "'Chociaż' = اگرچه/با وجود اینکه (تنازلی — جمله دوم خلاف انتظار است). 'Ponieważ' = چون (دلیل می‌دهد، معنای مخالف). 'Więc' = پس/بنابراین. 'Żeby' = تا/برای اینکه."
+    },
+    {
+      "id": "a2-ch18-l04-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "You want to warn your friend to call before visiting:",
+      "context_fa": "می‌خواهی دوستت را هشدار دهی که قبل از آمدن زنگ بزند:",
+      "sentence": "Zadzwoń, ___ przyjdziesz!",
+      "prompt": "Zadzwoń, ___ przyjdziesz! (Call before you come!) [zanim]",
+      "prompt_fa": "Zadzwoń, ___ przyjdziesz! (قبل از اینکه بیایی زنگ بزن!) [zanim]",
+      "answer": "zanim",
+      "acceptableAnswers": ["zanim"],
+      "hint": "'Zanim' = before (something happens). It introduces a clause about an event that hasn't occurred yet.",
+      "explanation": "'Zanim' = before (time conjunction). Zadzwoń, zanim przyjdziesz = Call before you come. 'Zanim' always refers to a future event relative to the main clause.",
+      "explanation_fa": "'Zanim' = قبل از اینکه (حرف ربط زمانی). Zadzwoń, zanim przyjdziesz = قبل از اینکه بیایی زنگ بزن. 'Zanim' همیشه به رویدادی اشاره دارد که نسبت به جمله اصلی در آینده است."
+    },
+    {
+      "id": "a2-ch18-l04-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Nie mam czasu, ___ nie mogę przyjść na spotkanie. (I don't have time, so I can't come to the meeting.)",
+      "prompt_fa": "Nie mam czasu, ___ nie mogę przyjść na spotkanie. (وقت ندارم، پس نمی‌توانم به جلسه بیایم.)",
+      "options": [
+        "więc",
+        "ale",
+        "chociaż",
+        "żeby"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Więc' = so/therefore (result/consequence). The second clause is the logical result of the first. 'Ale' = but (contrast). 'Chociaż' = although (concession). 'Żeby' = in order to (purpose).",
+      "explanation_fa": "'Więc' = پس/بنابراین (نتیجه/پیامد). جمله دوم نتیجه منطقی جمله اول است. 'Ale' = اما (تضاد). 'Chociaż' = اگرچه (تنازل). 'Żeby' = تا/برای اینکه (هدف)."
+    },
+    {
+      "id": "a2-ch18-l04-ex09",
+      "type": "dictation_mc",
+      "order": 9,
+      "audioAsset": "assets/audio/a2/ch18/a2-ch18-l04-ex09.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Jeśli masz czas, chodź do nas!",
+        "Żeby masz czas, chodź do nas!",
+        "Kiedy masz czas, chodźmy!",
+        "Chociaż masz czas, chodź do nas!"
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Jeśli masz czas, chodź do nas!' — If you have time, come to our place! 'Jeśli' = if (real conditional — a genuine possibility). 'Chodź do nas' = come to us/our place.",
+      "explanation_fa": "شنیدید: 'Jeśli masz czas, chodź do nas!' — اگر وقت داری، پیش ما بیا! 'Jeśli' = اگر (شرطی واقعی — احتمال واقعی). 'Chodź do nas' = پیش ما بیا."
+    },
+    {
+      "id": "a2-ch18-l04-ex10",
+      "type": "sentence_builder",
+      "order": 10,
+      "prompt": "Build: Although she's tired, she keeps working.",
+      "prompt_fa": "بسازید: اگرچه خسته است، به کار کردن ادامه می‌دهد.",
+      "wordBank": ["Chociaż", "ona", "jest", "zmęczona", "zmęczony", ",", "pracuje", "pracują", "dalej", "jednak", "."],
       "correctSequences": [
-        [
-          "Chociaż",
-          "ona",
-          "jest",
-          "zmęczona",
-          ",",
-          "pracuje",
-          "dalej",
-          "."
-        ],
-        [
-          "Chociaż",
-          "jest",
-          "zmęczona",
-          ",",
-          "pracuje",
-          "dalej",
-          "."
-        ]
+        ["Chociaż", "ona", "jest", "zmęczona", ",", "pracuje", "dalej", "."],
+        ["Chociaż", "jest", "zmęczona", ",", "pracuje", "dalej", "."]
       ],
-      "explanation": "'Chociaż ona jest zmęczona, pracuje dalej.' — Although she's tired, she keeps working. 'Chociaż' = although (concessive). 'Zmęczona' = fem adj (tired). 'Dalej' = further/still/keeps on."
+      "explanation": "'Chociaż ona jest zmęczona, pracuje dalej.' — Although she's tired, she keeps working. 'Chociaż' = although (concessive). 'Zmęczona' = fem adj (tired). 'Dalej' = further/still/keeps on.",
+      "explanation_fa": "'Chociaż ona jest zmęczona, pracuje dalej.' — اگرچه خسته است، به کار کردن ادامه می‌دهد. 'Chociaż' = اگرچه (تنازلی). 'Zmęczona' = صفت مؤنث (خسته). 'Dalej' = ادامه/هنوز/همچنان."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": [
-    "conjunctions",
-    "complex-sentences",
-    "a2-core"
-  ],
-  "prerequisites": [
-    "a2-ch18-l01",
-    "a2-ch18-l02",
-    "a2-ch18-l03"
-  ]
+  "tags": ["conjunctions", "complex-sentences", "a2-core"],
+  "prerequisites": ["a2-ch18-l01", "a2-ch18-l02", "a2-ch18-l03"]
 }

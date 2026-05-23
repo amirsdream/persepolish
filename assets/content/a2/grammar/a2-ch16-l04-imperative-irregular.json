@@ -6,7 +6,7 @@
   "title": "Irregular Imperatives",
   "title_fa": "وجه امری نامنظم",
   "grammarPoint": "Irregular and tricky imperatives: bądź, idź, jedź, jedz, pij, weź, daj, powiedz, chodź, wróć",
-  "grammarPoint_fa": "وجه امری نامنظم: być → bądź، wiedzieć → wiedz، jeść → jedz",
+  "grammarPoint_fa": "وجه امری نامنظم که باید حفظ شوند: bądź، idź، jedź، jedz، pij، weź، daj، powiedz، chodź، wróć",
   "explanation": {
     "text": "Some of the most common Polish verbs have **irregular imperatives** that must be memorized.\n\n**Essential irregular imperatives:**\n\n| Infinitive | Imperative (ty) | Plural (wy) | 1st pl (my) | Meaning |\n|-----------|----------------|------------|------------|--------|\n| być | **bądź!** | bądźcie! | bądźmy! | be! |\n| iść | **idź!** | idźcie! | idźmy! | go/walk! |\n| jechać | **jedź!** | jedźcie! | jedźmy! | go (vehicle)! |\n| jeść | **jedz!** | jedzcie! | jedzmy! | eat! |\n| pić | **pij!** | pijcie! | pijmy! | drink! |\n| wziąć | **weź!** | weźcie! | weźmy! | take! |\n| dać | **daj!** | dajcie! | dajmy! | give! |\n| powiedzieć | **powiedz!** | powiedzcie! | powiedzmy! | say/tell! |\n| przyjść | **przyjdź!** | przyjdźcie! | przyjdźmy! | come! |\n| chodzić | **chodź!** | chodźcie! | chodźmy! | come (habit)! |\n| wrócić | **wróć!** | wróćcie! | wróćmy! | come back! |\n\n**In common phrases:**\n- **Chodź ze mną!** = Come with me!\n- **Wróć do domu!** = Come back home!\n- **Weź lekarstwo!** = Take the medicine!\n- **Powiedz mi prawdę.** = Tell me the truth.\n- **Daj mi spokój!** = Leave me alone! (literally: give me peace)",
     "notes": [
@@ -16,13 +16,14 @@
       "Daj mi spokój! = Leave me alone! — a very common colloquial expression."
     ]
   },
-  "explanation_fa": "برخی افعال رایج وجه امری نامنظم دارند: być → bądź/bądźcie (باش/باشید)، wiedzieć → wiedz/wiedzcie (بدان/بدانید)، jeść → jedz/jedzcie (بخور/بخورید)، mieć → miej/miejcie (داشته باش/داشته باشید)، wziąć → weź/weźcie (بگیر/بگیرید).",
+  "explanation_fa": "**وجه امری نامنظم — جدول کامل:**\n\nبرخی از رایج‌ترین افعال لهستانی وجه امری نامنظم دارند که باید حفظ شوند:\n\n| مصدر | وجه امری (ty) | جمع (wy) | اول جمع (my) | معنا |\n|------|----------------|----------|--------------|------|\n| być | **bądź!** | bądźcie! | bądźmy! | باش/باشید! |\n| iść | **idź!** | idźcie! | idźmy! | برو/بروید! |\n| jechać | **jedź!** | jedźcie! | jedźmy! | برو (با وسیله)! |\n| jeść | **jedz!** | jedzcie! | jedzmy! | بخور/بخورید! |\n| pić | **pij!** | pijcie! | pijmy! | بنوش/بنوشید! |\n| wziąć | **weź!** | weźcie! | weźmy! | بگیر/بگیرید! |\n| dać | **daj!** | dajcie! | dajmy! | بده/بدهید! |\n| powiedzieć | **powiedz!** | powiedzcie! | powiedzmy! | بگو/بگویید! |\n| przyjść | **przyjdź!** | przyjdźcie! | przyjdźmy! | بیا/بیایید! |\n| chodzić | **chodź!** | chodźcie! | chodźmy! | بیا (دعوت)! |\n| wrócić | **wróć!** | wróćcie! | wróćmy! | برگرد/برگردید! |\n\n**عبارات رایج:**\n- *Chodź ze mną!* = با من بیا!\n- *Wróć do domu!* = به خانه برگرد!\n- *Weź lekarstwo!* = دارو بخور!\n- *Daj mi spokój!* = ولم کن! (به معنای: آرامش بده به من)",
   "exercises": [
     {
       "id": "a2-ch16-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "___ ze mną do kina! (Come with me to the cinema!) [chodzić, imperative ty]",
+      "prompt": "___ ze mną do kina! (Come with me to the cinema!) [chodzić, imperative ty — invitation]",
+      "prompt_fa": "___ ze mną do kina! (با من به سینما بیا! — دعوت) [chodzić، وجه امری ty]",
       "options": [
         "Chodź",
         "Idź",
@@ -30,38 +31,47 @@
         "Pójdź"
       ],
       "correctIndex": 0,
-      "explanation": "'Chodź ze mną' = Come with me (invitation). 'Chodź' is the imperative of 'chodzić' (habitual go). It's an invitation to accompany. 'Idź' = go (direction — away from speaker)."
+      "explanation": "'Chodź ze mną' = Come with me (invitation). 'Chodź' is the imperative of 'chodzić' (habitual go). Used to invite someone to come along. 'Idź' = go (directional — away from speaker, not an invitation).",
+      "explanation_fa": "'Chodź ze mną' = با من بیا (دعوت). 'Chodź' وجه امری 'chodzić' است. برای دعوت کردن کسی به همراهی استفاده می‌شود. 'Idź' = برو (جهت‌دار — دور از گوینده، دعوت نیست)."
     },
     {
       "id": "a2-ch16-l04-ex02",
       "type": "fill_blank",
       "order": 2,
+      "context": "Your friend is lying to you. You want them to tell the truth:",
+      "context_fa": "دوستت دارد دروغ می‌گوید. می‌خواهی راست بگوید:",
+      "sentence": "___ mi prawdę!",
       "prompt": "___ mi prawdę! (Tell me the truth!) [powiedzieć, imperative ty]",
+      "prompt_fa": "___ mi prawdę! (راستش را به من بگو!) [powiedzieć، وجه امری ty]",
       "answer": "Powiedz",
-      "acceptableAnswers": [
-        "Powiedz"
-      ],
-      "hint": "Irregular imperative of 'powiedzieć': powiedz!"
+      "acceptableAnswers": ["Powiedz"],
+      "hint": "Irregular imperative of 'powiedzieć': powiedz! (not *powiedź or *powiedzij)",
+      "explanation": "'Powiedz mi prawdę!' — Tell me the truth! Irregular imperative of 'powiedzieć': powiedz. Must be memorized — not derived by regular rules.",
+      "explanation_fa": "'Powiedz mi prawdę!' — راستش را به من بگو! وجه امری نامنظم 'powiedzieć': powiedz. باید حفظ شود — از قوانین منظم قابل استنتاج نیست."
     },
     {
       "id": "a2-ch16-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch16/a2-ch16-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Weź parasol, bo pada deszcz!",
         "Bierz parasol, bo pada deszcz!",
-        "Weź ze sobą parasol!",
-        "Bierz ze sobą parasol!"
+        "Weźcie parasole!",
+        "Bierzcie parasole!"
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Weź parasol, bo pada deszcz!' — Take an umbrella, because it's raining! 'Wziąć' irregular imperative: weź! 'Bo pada deszcz' = because it's raining."
+      "explanation": "You heard: 'Weź parasol, bo pada deszcz!' — Take an umbrella, because it's raining! 'Wziąć' irregular imperative: weź! 'Bo' = because. 'Pada deszcz' = it's raining.",
+      "explanation_fa": "شنیدید: 'Weź parasol, bo pada deszcz!' — چتر بگیر، چون باران می‌بارد! وجه امری نامنظم 'wziąć': weź! 'Bo' = چون. 'Pada deszcz' = باران می‌بارد."
     },
     {
       "id": "a2-ch16-l04-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "___ do domu przed ósmą! (Come back home before eight!) [wrócić, imperative ty]",
+      "prompt_fa": "___ do domu przed ósmą! (قبل از ساعت هشت به خانه برگرد!) [wrócić، وجه امری ty]",
       "options": [
         "Wróć",
         "Wracaj",
@@ -69,50 +79,101 @@
         "Wracasz"
       ],
       "correctIndex": 0,
-      "explanation": "'Wrócić' (perfective) → imperative: wróć! 'Wracaj' = imperfective imperative (come back — ongoing/habitual). 'Wróć' = come back once (perfective command)."
+      "explanation": "'Wrócić' (perfective) → imperative: wróć! 'Wracaj' = imperfective imperative (keep coming back). 'Wróć' = come back once (perfective single event). 'Wróćcie' = plural form.",
+      "explanation_fa": "'Wrócić' (کامل) → وجه امری: wróć! 'Wracaj' = وجه امری ناکامل (عادتاً برگرد). 'Wróć' = یک بار برگرد (رویداد کامل). 'Wróćcie' = جمع."
     },
     {
       "id": "a2-ch16-l04-ex05",
       "type": "sentence_builder",
       "order": 5,
-      "prompt": "Build: Let's all go to the park! [idźmy + destination]",
-      "wordBank": [
-        "Idźmy",
-        "Chodźmy",
-        "wszyscy",
-        "do",
-        "parku",
-        "park",
-        "na",
-        "!"
-      ],
+      "prompt": "Build: Let's all go to the park!",
+      "prompt_fa": "بسازید: همه بریم به پارک!",
+      "wordBank": ["Idźmy", "Chodźmy", "wszyscy", "do", "parku", "park", "na", "!"],
       "correctSequences": [
-        [
-          "Idźmy",
-          "wszyscy",
-          "do",
-          "parku"
-        ],
-        [
-          "Chodźmy",
-          "wszyscy",
-          "do",
-          "parku"
-        ]
+        ["Idźmy", "wszyscy", "do", "parku"],
+        ["Chodźmy", "wszyscy", "do", "parku"]
       ],
-      "explanation": "'Idźmy wszyscy do parku!' or 'Chodźmy wszyscy do parku!' — Let's all go to the park! Both work: idźmy (go, directional) / chodźmy (let's go, inviting). 'Do parku' = genitive destination."
+      "explanation": "'Idźmy wszyscy do parku!' or 'Chodźmy wszyscy do parku!' — Let's all go to the park! Both work. 'Do parku' = genitive after 'do' (to the park).",
+      "explanation_fa": "'Idźmy wszyscy do parku!' یا 'Chodźmy wszyscy do parku!' — همه بریم به پارک! هر دو درست‌اند. 'Do parku' = مضاف‌الیه بعد از 'do'."
+    },
+    {
+      "id": "a2-ch16-l04-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Your child is sick and won't take medicine. You say: '___ lekarstwo!'",
+      "prompt_fa": "بچه‌ات مریض است و دارو نمی‌خورد. می‌گویی: '___ lekarstwo!'",
+      "options": [
+        "Weź",
+        "Bierz",
+        "Weźcie",
+        "Wziął"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Weź lekarstwo!' — Take the medicine! Irregular imperative of 'wziąć': weź. Perfective (take it now, once). 'Bierz' = imperfective (keep taking — used for repeated doses).",
+      "explanation_fa": "'Weź lekarstwo!' — دارو بخور! وجه امری نامنظم 'wziąć': weź. کامل (الان بگیر، یک بار). 'Bierz' = ناکامل (مدام بگیر — برای دوزهای تکراری)."
+    },
+    {
+      "id": "a2-ch16-l04-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "You're at dinner and want everyone to drink a toast together:",
+      "context_fa": "سر شام هستید و می‌خواهید همه با هم نوشیدنی سر بکشند:",
+      "sentence": "___ za zdrowie!",
+      "prompt": "___ za zdrowie! (Let's drink to health! — 1st person plural)",
+      "prompt_fa": "___ za zdrowie! (به سلامتی بنوشیم! — اول شخص جمع)",
+      "answer": "Pijmy",
+      "acceptableAnswers": ["Pijmy"],
+      "hint": "pić → pij (ty imperative) + my = Pijmy! (let's drink)",
+      "explanation": "'Pijmy za zdrowie!' — Let's drink to health! 'Pić' irregular imperative: pij (ty). 1st person plural: pij + my = pijmy.",
+      "explanation_fa": "'Pijmy za zdrowie!' — به سلامتی بنوشیم! وجه امری نامنظم 'pić': pij (ty). اول شخص جمع: pij + my = pijmy."
+    },
+    {
+      "id": "a2-ch16-l04-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Someone is annoying you and won't stop. You say: '___ mi spokój!'",
+      "prompt_fa": "کسی دارد اذیتت می‌کند و تمام نمی‌شود. می‌گویی: '___ mi spokój!'",
+      "options": [
+        "Daj",
+        "Dawaj",
+        "Dajcie",
+        "Dałeś"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Daj mi spokój!' = Leave me alone! (literally: give me peace). Irregular imperative of 'dać': daj! A very common colloquial expression of frustration.",
+      "explanation_fa": "'Daj mi spokój!' = ولم کن! (به معنای تحت‌اللفظی: آرامش به من بده). وجه امری نامنظم 'dać': daj! یک عبارت محاوره‌ای خیلی رایج برای بیان خستگی."
+    },
+    {
+      "id": "a2-ch16-l04-ex09",
+      "type": "dictation_mc",
+      "order": 9,
+      "audioAsset": "assets/audio/a2/ch16/a2-ch16-l04-ex09.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Bądź cierpliwy, to zajmie chwilę.",
+        "Bądźcie cierpliwi, to zajmie chwilę.",
+        "Byłeś cierpliwy, to zajęło chwilę.",
+        "Bądźmy cierpliwi, to zajmie chwilę."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Bądź cierpliwy, to zajmie chwilę.' — Be patient (m, singular), it will take a moment. 'Bądź' = irregular imperative of być (ty). 'Cierpliwy' = patient (m adj).",
+      "explanation_fa": "شنیدید: 'Bądź cierpliwy, to zajmie chwilę.' — صبور باش (م، مفرد)، یک لحظه طول می‌کشد. 'Bądź' = وجه امری نامنظم być (ty). 'Cierpliwy' = صبور (صفت مذکر)."
+    },
+    {
+      "id": "a2-ch16-l04-ex10",
+      "type": "sentence_builder",
+      "order": 10,
+      "prompt": "Build: Come back before midnight! (singular, perfective)",
+      "prompt_fa": "بسازید: قبل از نیمه‌شب برگرد! (مفرد، کامل)",
+      "wordBank": ["Wróć", "Wracaj", "przed", "po", "północą", "północy", "do", "domu"],
+      "correctSequences": [["Wróć", "przed", "północą"]],
+      "explanation": "'Wróć przed północą!' — Come back before midnight! 'Wróć' = irregular imperative of wrócić (perfective, ty). 'Przed' + instrumental: przed północą = before midnight.",
+      "explanation_fa": "'Wróć przed północą!' — قبل از نیمه‌شب برگرد! 'Wróć' = وجه امری نامنظم wrócić (کامل، ty). 'Przed' + ابزاری: przed północą = قبل از نیمه‌شب."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": [
-    "imperative",
-    "irregular",
-    "commands",
-    "a2-core"
-  ],
-  "prerequisites": [
-    "a2-ch16-l01",
-    "a2-ch16-l02"
-  ]
+  "tags": ["imperative", "irregular", "commands", "a2-core"],
+  "prerequisites": ["a2-ch16-l01", "a2-ch16-l02"]
 }

@@ -5,10 +5,10 @@
   "lessonOrder": 2,
   "title": "Imperative — Plural",
   "title_fa": "وجه امری — جمع",
-  "grammarPoint": "Imperative plural (wy): singular stem + -cie; pan/pani/państwo imperatives: proszę + infinitive",
-  "grammarPoint_fa": "وجه امری جمع: پسوند -cie — Idźcie!، Zróbcie!",
+  "grammarPoint": "Imperative plural (wy): singular stem + -cie; 1st person plural (let's): singular + -my",
+  "grammarPoint_fa": "وجه امری جمع (wy): وجه امری مفرد + -cie | اول شخص جمع (بیایید با هم): مفرد + -my",
   "explanation": {
-    "text": "The **plural imperative** (for addressing 'wy' — multiple people informally) is formed from the singular imperative + **-cie**.\n\n**Plural imperative = singular imperative + -cie:**\n\n| Infinitive | Singular (ty) | Plural (wy) |\n|-----------|--------------|-------------|\n| czytać | czytaj! | czytaj**cie**! |\n| pracować | pracuj! | pracuj**cie**! |\n| słuchać | słuchaj! | słuchaj**cie**! |\n| mówić | mów! | mów**cie**! |\n| robić | rób! | rób**cie**! |\n| pisać | pisz! | pisz**cie**! |\n| być | bądź! | bądź**cie**! |\n| iść | idź! | idź**cie**! |\n| jeść | jedz! | jedz**cie**! |\n\n**1st person plural imperative (let's...):**\nAdd -my to the plural form:\n- Idź**my**! = Let's go!\n- Jedz**my**! = Let's eat!\n- Pracuj**my**! = Let's work!\n\n**Negation (plural):**\n- Nie mów**cie** tak głośno! = Don't speak (pl) so loudly!\n- Nie jedź**cie** tak szybko! = Don't drive (pl) so fast!\n\n**Examples:**\n- **Chodźcie** tutaj, dzieci! = Come here, children!\n- **Słuchajcie** uważnie! = Listen (all of you) carefully!\n- **Idźmy** do kina! = Let's go to the cinema!",
+    "text": "The **plural imperative** (for addressing 'wy' — multiple people informally) is formed from the singular imperative + **-cie**.\n\n**Plural imperative = singular imperative + -cie:**\n\n| Infinitive | Singular (ty) | Plural (wy) |\n|-----------|--------------|-------------|\n| czytać | czytaj! | czytaj**cie**! |\n| pracować | pracuj! | pracuj**cie**! |\n| słuchać | słuchaj! | słuchaj**cie**! |\n| mówić | mów! | mów**cie**! |\n| robić | rób! | rób**cie**! |\n| pisać | pisz! | pisz**cie**! |\n| być | bądź! | bądź**cie**! |\n| iść | idź! | idź**cie**! |\n| jeść | jedz! | jedz**cie**! |\n\n**1st person plural imperative (let's...):**\nAdd -my to the singular form:\n- Idź**my**! = Let's go!\n- Jedz**my**! = Let's eat!\n- Pracuj**my**! = Let's work!\n\n**Negation (plural):**\n- Nie mów**cie** tak głośno! = Don't speak (pl) so loudly!\n- Nie jedź**cie** tak szybko! = Don't drive (pl) so fast!\n\n**Examples:**\n- **Chodźcie** tutaj, dzieci! = Come here, children!\n- **Słuchajcie** uważnie! = Listen (all of you) carefully!\n- **Idźmy** do kina! = Let's go to the cinema!",
     "notes": [
       "Plural imperative = singular + -cie. Very regular rule.",
       "1st person plural (let's): add -my to singular form (idźmy, jedzmy).",
@@ -16,13 +16,14 @@
       "Idźmy! = Let's go! — one of the most useful expressions."
     ]
   },
-  "explanation_fa": "وجه امری جمع با افزودن -cie به وجه امری مفرد ساخته می‌شود: idź → idźcie (بروید!)، czytaj → czytajcie (بخوانید!)، mów → mówcie (بگویید!). برای «بیایید با هم»: Chodźmy! (بیا بریم — ما).",
+  "explanation_fa": "**وجه امری جمع در لهستانی:**\n\nبرای دستور دادن به چند نفر (wy — شما، جمع) وجه امری جمع به کار می‌رود. قانون بسیار منظم است:\n\n**قانون:** وجه امری مفرد + پسوند **-cie**\n\n| مصدر | مفرد (ty) | جمع (wy) | معنا |\n|------|-----------|-----------|------|\n| czytać | czytaj! | czytaj**cie**! | بخوانید! |\n| pracować | pracuj! | pracuj**cie**! | کار کنید! |\n| słuchać | słuchaj! | słuchaj**cie**! | گوش کنید! |\n| mówić | mów! | mów**cie**! | بگویید! |\n| robić | rób! | rób**cie**! | بکنید! |\n| pisać | pisz! | pisz**cie**! | بنویسید! |\n| być | bądź! | bądź**cie**! | باشید! |\n| iść | idź! | idź**cie**! | بروید! |\n| jeść | jedz! | jedz**cie**! | بخورید! |\n\n**اول شخص جمع (بیایید با هم / Let's...):**\nوجه امری مفرد + **-my**\n- Idź**my**! = بریم! / Let's go!\n- Jedz**my**! = بخوریم! / Let's eat!\n- Pracuj**my**! = کار کنیم! / Let's work!\n\n**نفی (جمع):** nie + وجه امری جمع\n- Nie mówcie tak głośno! = آنقدر بلند حرف نزنید!\n- Nie idźcie tamtędy! = از آن طرف نروید!",
   "exercises": [
     {
       "id": "a2-ch16-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "___ uważnie, dzieci! (Listen carefully, children!) [słuchać, imperative plural]",
+      "prompt_fa": "___ با دقت، بچه‌ها! (słuchać، وجه امری جمع)",
       "options": [
         "Słuchajcie",
         "Słuchaj",
@@ -30,24 +31,31 @@
         "Słuchają"
       ],
       "correctIndex": 0,
-      "explanation": "Plural informal imperative: słuchajcie (słuchaj + cie). 'Słuchaj' = singular. 'Słuchajmy' = let's listen. 'Słuchają' = they listen (present)."
+      "explanation": "Plural informal imperative: słuchajcie (słuchaj + cie). 'Słuchaj' = singular. 'Słuchajmy' = let's listen. 'Słuchają' = they listen (present).",
+      "explanation_fa": "وجه امری جمع غیررسمی: słuchajcie (słuchaj + cie). 'Słuchaj' = مفرد. 'Słuchajmy' = بیایید گوش کنیم (اول شخص جمع). 'Słuchają' = آن‌ها گوش می‌کنند (حال ساده)."
     },
     {
       "id": "a2-ch16-l02-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "___ do kina! (Let's go to the cinema!) [iść, 1st person plural imperative]",
+      "context": "You are inviting your friends to go to the cinema together. Use the 'let's' form:",
+      "context_fa": "دارید دوستانتان را دعوت می‌کنید که با هم به سینما بروید. از شکل 'بریم' استفاده کنید:",
+      "sentence": "___ do kina!",
+      "prompt": "___ do kina! (Let's go to the cinema!)",
+      "prompt_fa": "___ do kina! (بریم به سینما!)",
       "answer": "Idźmy",
-      "acceptableAnswers": [
-        "Idźmy"
-      ],
-      "hint": "1st person plural imperative: idź + my = Idźmy!"
+      "acceptableAnswers": ["Idźmy", "Chodźmy"],
+      "hint": "1st person plural imperative of iść: idź + my = Idźmy!",
+      "explanation": "'Idźmy do kina!' or 'Chodźmy do kina!' — Let's go to the cinema! Both mean 'let's go'. Idźmy = directional go; chodźmy = come along (inviting).",
+      "explanation_fa": "'Idźmy do kina!' یا 'Chodźmy do kina!' — بریم به سینما! هر دو درست‌اند. Idźmy = برویم (جهت‌دار)؛ chodźmy = بیایید برویم (دعوت)."
     },
     {
       "id": "a2-ch16-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch16/a2-ch16-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Chodźcie tutaj, proszę!",
         "Chodź tutaj, proszę!",
@@ -55,13 +63,15 @@
         "Chodzą tutaj."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Chodźcie tutaj, proszę!' — Come here please (all of you)! Plural informal imperative: chodźcie (chodź + cie)."
+      "explanation": "You heard: 'Chodźcie tutaj, proszę!' — Come here please (all of you)! Plural informal imperative: chodźcie (chodź + cie).",
+      "explanation_fa": "شنیدید: 'Chodźcie tutaj, proszę!' — لطفاً بیایید اینجا (همه شما)! وجه امری جمع غیررسمی: chodźcie (chodź + cie)."
     },
     {
       "id": "a2-ch16-l02-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Nie ___ tak głośno! (Don't speak so loudly — addressing multiple people!)",
+      "prompt_fa": "Nie ___ tak głośno! (آنقدر بلند حرف نزنید — خطاب به چند نفر!)",
       "options": [
         "mówcie",
         "mów",
@@ -69,41 +79,98 @@
         "mówią"
       ],
       "correctIndex": 0,
-      "explanation": "Negated plural imperative: nie mówcie! (mów + cie, then negate). 'Nie mów' = singular. 'Nie mówmy' = let's not speak."
+      "explanation": "Negated plural imperative: nie mówcie! (mów + cie, then negate). 'Nie mów' = singular. 'Nie mówmy' = let's not speak.",
+      "explanation_fa": "نفی وجه امری جمع: nie mówcie! (mów + cie سپس نفی). 'Nie mów' = مفرد. 'Nie mówmy' = بیایید حرف نزنیم (اول شخص جمع)."
     },
     {
       "id": "a2-ch16-l02-ex05",
       "type": "sentence_builder",
       "order": 5,
-      "prompt": "Build: Let's eat! The food is getting cold. (jedzmy + present observation)",
-      "wordBank": [
-        "Jedzmy",
-        "Jedźmy",
-        "Jedzcie",
-        "Jedzenie",
-        "stygnie",
-        "wystygło",
-        "!"
+      "prompt": "Build: Let's eat! The food is getting cold.",
+      "prompt_fa": "بسازید: بخوریم! غذا دارد سرد می‌شود.",
+      "wordBank": ["Jedzmy", "Jedźmy", "Jedzcie", "Jedzenie", "stygnie", "wystygło", "!"],
+      "correctSequences": [["Jedzmy", "Jedzenie", "stygnie"]],
+      "explanation": "'Jedzmy! Jedzenie stygnie.' — Let's eat! The food is getting cold. 'Jedzmy' = 1st person plural imperative of jeść. 'Stygnie' = it's getting cold (present).",
+      "explanation_fa": "'Jedzmy! Jedzenie stygnie.' — بخوریم! غذا دارد سرد می‌شود. 'Jedzmy' = اول شخص جمع وجه امری از jeść. 'Stygnie' = دارد سرد می‌شود (حال مستمر)."
+    },
+    {
+      "id": "a2-ch16-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "The teacher says to the whole class: '___ ten tekst!' (Read this text!)",
+      "prompt_fa": "معلم به کل کلاس می‌گوید: '___ ten tekst!' (این متن را بخوانید!)",
+      "options": [
+        "Czytajcie",
+        "Czytaj",
+        "Czytajmy",
+        "Czytacie"
       ],
-      "correctSequences": [
-        [
-          "Jedzmy",
-          "Jedzenie",
-          "stygnie"
-        ]
+      "correctIndex": 0,
+      "explanation": "Addressing the whole class (wy): czytajcie (czytaj + cie). 'Czytaj' = singular. 'Czytajmy' = let's read (includes the teacher too). 'Czytacie' = you are reading (present).",
+      "explanation_fa": "خطاب به کل کلاس (wy): czytajcie (czytaj + cie). 'Czytaj' = مفرد. 'Czytajmy' = بخوانیم (معلم هم شامل می‌شود). 'Czytacie' = شما دارید می‌خوانید (حال)."
+    },
+    {
+      "id": "a2-ch16-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "A parent tells the children: Don't eat in the living room!",
+      "context_fa": "یک والدین به بچه‌ها می‌گوید: در اتاق نشیمن غذا نخورید!",
+      "sentence": "Nie ___ w salonie!",
+      "prompt": "Nie ___ w salonie! (Don't eat in the living room — plural)",
+      "prompt_fa": "Nie ___ w salonie! (در اتاق نشیمن غذا نخورید — جمع)",
+      "answer": "jedzcie",
+      "acceptableAnswers": ["jedzcie"],
+      "hint": "jeść plural imperative: jedz + cie = jedzcie; negation: nie jedzcie",
+      "explanation": "'Nie jedzcie w salonie!' — Don't eat in the living room (you all)! Plural imperative of jeść: jedz + cie = jedzcie. Negated: nie jedzcie.",
+      "explanation_fa": "'Nie jedzcie w salonie!' — در اتاق نشیمن غذا نخورید! وجه امری جمع از jeść: jedz + cie = jedzcie. نفی: nie jedzcie."
+    },
+    {
+      "id": "a2-ch16-l02-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Which is the correct 'let's work' form for a group to say together?",
+      "prompt_fa": "کدام شکل درست 'بیایید کار کنیم' برای گفتن با هم در گروه است؟",
+      "options": [
+        "Pracujmy!",
+        "Pracujcie!",
+        "Pracuj!",
+        "Pracują!"
       ],
-      "explanation": "'Jedzmy! Jedzenie stygnie.' — Let's eat! The food is getting cold. 'Jedzmy' = 1st person plural imperative of jeść. 'Stygnie' = it's getting cold (present)."
+      "correctIndex": 0,
+      "explanation": "'Pracujmy!' = Let's work! (1st person plural: pracuj + my). 'Pracujcie!' = Work! (you all — 2nd person plural). 'Pracuj!' = singular command. 'Pracują' = they work.",
+      "explanation_fa": "'Pracujmy!' = بیایید کار کنیم! (اول شخص جمع: pracuj + my). 'Pracujcie!' = کار کنید! (شما، دوم شخص جمع). 'Pracuj!' = مفرد. 'Pracują' = آن‌ها کار می‌کنند."
+    },
+    {
+      "id": "a2-ch16-l02-ex09",
+      "type": "dictation_mc",
+      "order": 9,
+      "audioAsset": "assets/audio/a2/ch16/a2-ch16-l02-ex09.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Piszcie wypracowanie na jutro!",
+        "Napisz wypracowanie na jutro!",
+        "Piszmy wypracowanie na jutro!",
+        "Piszecie wypracowanie na jutro."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Piszcie wypracowanie na jutro!' — Write the essay for tomorrow (you all)! Plural imperative: piszcie (pisz + cie). 'Napisz' = singular perfective imperative.",
+      "explanation_fa": "شنیدید: 'Piszcie wypracowanie na jutro!' — انشا را برای فردا بنویسید (همه شما)! وجه امری جمع: piszcie (pisz + cie). 'Napisz' = مفرد کامل."
+    },
+    {
+      "id": "a2-ch16-l02-ex10",
+      "type": "sentence_builder",
+      "order": 10,
+      "prompt": "Build: Be (pl) quiet and listen carefully!",
+      "prompt_fa": "بسازید: ساکت باشید (جمع) و با دقت گوش کنید!",
+      "wordBank": ["Bądźcie", "Bądź", "cicho", "i", "słuchajcie", "słuchaj", "uważnie"],
+      "correctSequences": [["Bądźcie", "cicho", "i", "słuchajcie", "uważnie"]],
+      "explanation": "'Bądźcie cicho i słuchajcie uważnie!' — Be quiet (pl) and listen carefully! 'Bądźcie' = plural imperative of być. 'Słuchajcie' = plural imperative of słuchać.",
+      "explanation_fa": "'Bądźcie cicho i słuchajcie uważnie!' — ساکت باشید و با دقت گوش کنید! 'Bądźcie' = وجه امری جمع از być. 'Słuchajcie' = وجه امری جمع از słuchać."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": [
-    "imperative",
-    "plural",
-    "commands",
-    "a2-core"
-  ],
-  "prerequisites": [
-    "a2-ch16-l01"
-  ]
+  "tags": ["imperative", "plural", "commands", "a2-core"],
+  "prerequisites": ["a2-ch16-l01"]
 }

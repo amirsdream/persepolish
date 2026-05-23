@@ -4,9 +4,9 @@
   "chapter": 19,
   "lessonOrder": 4,
   "title": "Register Comparison — Full Sentences",
-  "title_fa": "مقایسه سبک رسمی و غیررسمی",
+  "title_fa": "مقایسه سبک رسمی و غیررسمی — جملات کامل",
   "grammarPoint": "Comparing formal and informal Polish in complete dialogues: same meaning expressed at different register levels — real-world application",
-  "grammarPoint_fa": "تبدیل جملات غیررسمی به رسمی و برعکس",
+  "grammarPoint_fa": "مقایسه لهستانی رسمی و غیررسمی در مکالمات و نوشتارهای کامل — کاربرد واقعی: تبدیل جملات محاوره‌ای به رسمی",
   "explanation": {
     "text": "Let's see formal vs informal register in full conversational and written contexts.\n\n## Scenario 1: Making a complaint\n\n**Informal**: Hej, chcę powiedzieć, że wasze jedzenie było niedobre.\n**Formal**: Szanowni Państwo, pragnę złożyć skargę na jakość podanego posiłku.\n\n## Scenario 2: Asking for help\n\n**Informal**: Przepraszam, możesz mi powiedzieć, gdzie jest toaleta?\n**Formal**: Przepraszam, czy mógłby Pan wskazać mi drogę do toalety?\n\n## Scenario 3: Requesting information\n\n**Informal**: Chcę wiedzieć, ile kosztuje bilet.\n**Formal**: Uprzejmie proszę o informację dotyczącą ceny biletu.\n\n## Scenario 4: Applying for a job (written)\n\n**Informal**: Hej, chcę pracować w waszej firmie. Jestem dobry w marketingu.\n**Formal**: Szanowni Państwo, zwracam się z prośbą o rozważenie mojej kandydatury na stanowisko specjalisty ds. marketingu. Posiadam trzyletnie doświadczenie w tej dziedzinie.\n\n## Scenario 5: Declining an invitation\n\n**Informal**: Nie mogę przyjść, bo mam inne plany.\n**Formal**: Niestety, nie będę w stanie uczestniczyć w spotkaniu ze względu na wcześniejsze zobowiązania.\n\n## Key Formal Patterns to Remember\n\n| Pattern | Example | Meaning |\n|---------|---------|--------|\n| ze względu na + acc | ze względu na chorobę | due to illness |\n| w związku z + instr | w związku z Pańskim pismem | regarding your letter |\n| uprzejmie proszę o + acc | uprzejmie proszę o odpowiedź | I kindly request a reply |\n| nie będę w stanie + inf | nie będę w stanie przyjść | I will not be able to come |\n| zwracam się z prośbą o + acc | zwracam się z prośbą o informację | I am writing to request information |",
     "notes": [
@@ -16,13 +16,14 @@
       "Full register switch = change pronoun (ty→Pan/Pani), vocabulary (gadać→rozmawiać), structure (simple→complex)."
     ]
   },
-  "explanation_fa": "تمرین تبدیل سبک: جمله غیررسمی «Chcę żebyś mi pomógł» (می‌خواهم کمکم کنی) در سبک رسمی: «Uprzejmie proszę o udzielenie mi pomocy» (مؤدبانه تقاضا می‌کنم به من کمک فرمایید). شناخت سطح رسمیت برای ارتباطات حرفه‌ای و اداری در لهستان ضروری است.",
+  "explanation_fa": "**مقایسه سبک رسمی و غیررسمی — موقعیت‌های کامل**\n\nدر این درس همان پیام را در سطوح رسمیت مختلف می‌بینیم. چهار عامل اصلی سبک را تغییر می‌دهند:\n\n**۱. ضمیر مخاطب**\n- غیررسمی: ty (تو) ← با دوستان و خانواده\n- رسمی: Pan (آقا) / Pani (خانم) ← با غریبه‌ها، مسن‌ترها، مقامات\n\n**۲. واژگان**\n| غیررسمی | رسمی | معنا |\n|---------|------|------|\n| chcę | pragnę / uprzejmie proszę | می‌خواهم |\n| nie mogę | nie będę w stanie | نمی‌توانم |\n| bo / dlatego że | ze względu na / w związku z | چون / به دلیل |\n| przyjść | przybyć / uczestniczyć | آمدن / شرکت کردن |\n| zażalenie | skarga | شکایت |\n\n**۳. الگوهای رسمی کلیدی**\n| الگو | مثال | ترجمه |\n|------|------|-------|\n| ze względu na + مفعول | ze względu na chorobę | به دلیل بیماری |\n| w związku z + ابزاری | w związku z Pańskim pismem | در ارتباط با نامه شما |\n| uprzejmie proszę o + مفعول | uprzejmie proszę o odpowiedź | مؤدبانه تقاضای پاسخ دارم |\n| nie będę w stanie + مصدر | nie będę w stanie przyjść | قادر به آمدن نخواهم بود |\n| zwracam się z prośbą o + مفعول | zwracam się z prośbą o informację | تقاضای اطلاعات دارم |\n\n**۴. موقعیت‌های نمونه:**\n- شکایت: *pragnę złożyć skargę* (رسمی) ← *chcę powiedzieć, że...* (غیررسمی)\n- رد دعوت: *nie będę w stanie uczestniczyć ze względu na wcześniejsze zobowiązania* (رسمی) ← *nie mogę przyjść, bo mam inne plany* (غیررسمی)\n- درخواست اطلاعات: *uprzejmie proszę o informację dotyczącą ceny biletu* (رسمی) ← *chcę wiedzieć, ile kosztuje bilet* (غیررسمی)\n\n**نکته مهم:** تبدیل کامل سبک = تغییر ضمیر (ty→Pan/Pani) + تغییر واژه + تغییر ساختار جمله",
   "exercises": [
     {
       "id": "a2-ch19-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Formal version of 'Nie mogę przyjść, bo jestem chory.' Choose the most formal alternative:",
+      "prompt_fa": "معادل رسمی «Nie mogę przyjść, bo jestem chory» کدام است؟ رسمی‌ترین گزینه را انتخاب کنید:",
       "options": [
         "Niestety, nie będę w stanie przybyć ze względu na chorobę.",
         "Niestety, nie mogę przyjść, bo jestem chory.",
@@ -30,13 +31,15 @@
         "Nie przyjdę, bo choruję."
       ],
       "correctIndex": 0,
-      "explanation": "The most formal: 'Niestety, nie będę w stanie przybyć ze względu na chorobę.' Uses: 'nie będę w stanie' (formal can't), 'przybyć' (formal arrive), 'ze względu na' (formal due to), 'chorobę' (illness - acc of choroba)."
+      "explanation": "The most formal: 'Niestety, nie będę w stanie przybyć ze względu na chorobę.' Uses: 'nie będę w stanie' (formal can't), 'przybyć' (formal arrive), 'ze względu na' (formal due to), 'chorobę' (illness - acc of choroba).",
+      "explanation_fa": "رسمی‌ترین: 'Niestety, nie będę w stanie przybyć ze względu na chorobę.' — متأسفانه قادر به حضور نخواهم بود به دلیل بیماری. عناصر رسمی: 'nie będę w stanie' (قادر نخواهم بود)، 'przybyć' (حضور یافتن — رسمی)، 'ze względu na' (به دلیل)."
     },
     {
       "id": "a2-ch19-l04-ex02",
       "type": "multiple_choice",
       "order": 2,
       "prompt": "What does 'ze względu na' mean in formal Polish?",
+      "prompt_fa": "«ze względu na» در لهستانی رسمی چه معنایی دارد؟",
       "options": [
         "due to / owing to",
         "in relation to",
@@ -44,13 +47,16 @@
         "next to"
       ],
       "correctIndex": 0,
-      "explanation": "'Ze względu na + accusative' = due to / owing to (formal reason phrase). 'Ze względu na chorobę' = due to illness. Informal equivalent: 'bo jestem chory' (because I'm sick). Very common in formal letters."
+      "explanation": "'Ze względu na + accusative' = due to / owing to (formal reason phrase). 'Ze względu na chorobę' = due to illness. Informal equivalent: 'bo jestem chory' (because I'm sick). Very common in formal letters.",
+      "explanation_fa": "'Ze względu na + مفعول' = به دلیل / به خاطر (عبارت دلیل در سبک رسمی). 'Ze względu na chorobę' = به دلیل بیماری. معادل غیررسمی: 'bo jestem chory' (چون مریضم). بسیار رایج در نامه‌های رسمی."
     },
     {
       "id": "a2-ch19-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch19/a2-ch19-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Uprzejmie proszę o odpowiedź do piątku.",
         "Proszę odpowiedzieć do piątku.",
@@ -58,13 +64,15 @@
         "Odpiszcie do piątku, proszę."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Uprzejmie proszę o odpowiedź do piątku.' — I kindly request a reply by Friday. 'Uprzejmie proszę o + accusative' = formal request structure. 'Odpowiedź' = reply/answer (f). 'Do piątku' = by Friday (do + genitive of deadline)."
+      "explanation": "You heard: 'Uprzejmie proszę o odpowiedź do piątku.' — I kindly request a reply by Friday. 'Uprzejmie proszę o + accusative' = formal request structure. 'Odpowiedź' = reply/answer (f). 'Do piątku' = by Friday (do + genitive of deadline).",
+      "explanation_fa": "شنیدید: 'Uprzejmie proszę o odpowiedź do piątku.' — مؤدبانه تقاضای پاسخ تا روز جمعه دارم. 'Uprzejmie proszę o + مفعول' = ساختار درخواست رسمی. 'Odpowiedź' = پاسخ (مؤنث). 'Do piątku' = تا جمعه (do + مضاف‌الیه)."
     },
     {
       "id": "a2-ch19-l04-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Formal way to say 'I'm sorry I can't come to the meeting':",
+      "prompt_fa": "راه رسمی برای گفتن «متأسفم، نمی‌توانم به جلسه بیایم» کدام است؟",
       "options": [
         "Niestety, nie będę w stanie uczestniczyć w spotkaniu.",
         "Niestety, nie mogę przyjść na spotkanie.",
@@ -72,55 +80,104 @@
         "Przykro mi, mam inne sprawy."
       ],
       "correctIndex": 0,
-      "explanation": "Most formal: 'Niestety, nie będę w stanie uczestniczyć w spotkaniu.' Key formal elements: 'nie będę w stanie' (cannot), 'uczestniczyć w + locative' (participate in). Less formal but acceptable: 'nie mogę przyjść na spotkanie'."
+      "explanation": "Most formal: 'Niestety, nie będę w stanie uczestniczyć w spotkaniu.' Key formal elements: 'nie będę w stanie' (cannot), 'uczestniczyć w + locative' (participate in). Less formal but acceptable: 'nie mogę przyjść na spotkanie'.",
+      "explanation_fa": "رسمی‌ترین: 'Niestety, nie będę w stanie uczestniczyć w spotkaniu.' — متأسفانه قادر به شرکت در جلسه نخواهم بود. عناصر رسمی: 'nie będę w stanie' (قادر نخواهم بود)، 'uczestniczyć w + مکانی' (شرکت کردن در). کمتر رسمی: 'nie mogę przyjść na spotkanie'."
     },
     {
       "id": "a2-ch19-l04-ex05",
-      "type": "sentence_builder",
+      "type": "fill_blank",
       "order": 5,
-      "prompt": "Build a formal request: I am writing to request information about your offer. (zwracać się z prośbą)",
-      "wordBank": [
-        "Zwracam",
-        "się",
-        "z",
-        "prośbą",
-        "prośby",
-        "o",
-        "informację",
-        "informacji",
-        "dotyczącą",
-        "Państwa",
-        "oferty",
-        "ofertą",
-        "."
+      "context": "You are writing a formal complaint to a restaurant about poor food quality:",
+      "context_fa": "در حال نوشتن شکایت رسمی به رستوران درباره کیفیت پایین غذا هستید:",
+      "sentence": "Szanowni Państwo, ___ złożyć skargę na jakość podanego posiłku.",
+      "prompt": "Szanowni Państwo, ___ złożyć skargę na jakość podanego posiłku. (Dear Sir/Madam, I wish to lodge a complaint...)",
+      "prompt_fa": "Szanowni Państwo, ___ złożyć skargę na jakość podanego posiłku. (آقا/خانم محترم، مایلم شکایتی ثبت کنم...)",
+      "answer": "pragnę",
+      "acceptableAnswers": ["pragnę", "chciałbym", "chciałabym"],
+      "hint": "Formal equivalent of 'chcę' — 'pragnę' or conditional 'chciałbym/chciałabym'",
+      "explanation": "'Pragnę złożyć skargę' = I wish to lodge a complaint (formal). 'Pragnąć' is the formal/literary equivalent of 'chcieć'. 'Złożyć skargę' = to lodge a complaint. Alternative: 'chciałbym złożyć' (conditional, also formal).",
+      "explanation_fa": "'Pragnę złożyć skargę' = مایلم شکایتی ثبت کنم (رسمی). 'Pragnąć' معادل رسمی/ادبی 'chcieć' (خواستن) است. 'Złożyć skargę' = ثبت شکایت. گزینه دیگر: 'chciałbym złożyć' (وجه التزامی، هم رسمی است)."
+    },
+    {
+      "id": "a2-ch19-l04-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Which is the correct formal translation of 'I want to know the price of the ticket'?",
+      "prompt_fa": "کدام ترجمه رسمی صحیح «می‌خواهم قیمت بلیت را بدانم» است؟",
+      "options": [
+        "Uprzejmie proszę o informację dotyczącą ceny biletu.",
+        "Chcę wiedzieć, ile kosztuje bilet.",
+        "Powiedz mi, ile kosztuje bilet.",
+        "Ile kosztuje bilet, proszę?"
       ],
+      "correctIndex": 0,
+      "explanation": "Formal: 'Uprzejmie proszę o informację dotyczącą ceny biletu.' — I kindly request information regarding the price of the ticket. 'Dotyczącą' = concerning/regarding (participle). Informal: 'Chcę wiedzieć, ile kosztuje bilet.'",
+      "explanation_fa": "رسمی: 'Uprzejmie proszę o informację dotyczącą ceny biletu.' — مؤدبانه تقاضای اطلاعاتی درباره قیمت بلیت دارم. 'Dotyczącą' = درباره/مربوط به (اسم فعل). غیررسمی: 'Chcę wiedzieć, ile kosztuje bilet.'"
+    },
+    {
+      "id": "a2-ch19-l04-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "You're declining a business meeting formally due to prior commitments:",
+      "context_fa": "دارید یک جلسه کاری را به خاطر تعهدات قبلی به صورت رسمی رد می‌کنید:",
+      "sentence": "Niestety, nie będę w stanie uczestniczyć w spotkaniu ___ wcześniejsze zobowiązania.",
+      "prompt": "Niestety, nie będę w stanie uczestniczyć w spotkaniu ___ wcześniejsze zobowiązania. (due to prior commitments)",
+      "prompt_fa": "Niestety, nie będę w stanie uczestniczyć w spotkaniu ___ wcześniejsze zobowiązania. (به دلیل تعهدات قبلی)",
+      "answer": "ze względu na",
+      "acceptableAnswers": ["ze względu na"],
+      "hint": "Formal phrase meaning 'due to' — takes accusative case",
+      "explanation": "'Ze względu na wcześniejsze zobowiązania' = due to prior commitments. 'Ze względu na + accusative' is the formal way to give a reason. Informal equivalent: 'bo mam inne plany' (because I have other plans).",
+      "explanation_fa": "'Ze względu na wcześniejsze zobowiązania' = به دلیل تعهدات قبلی. 'Ze względu na + مفعول' روش رسمی برای بیان دلیل است. معادل غیررسمی: 'bo mam inne plany' (چون برنامه‌های دیگری دارم)."
+    },
+    {
+      "id": "a2-ch19-l04-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "What is the formal equivalent of 'Hej, chcę pracować w waszej firmie'?",
+      "prompt_fa": "معادل رسمی «Hej, chcę pracować w waszej firmie» چیست؟",
+      "options": [
+        "Zwracam się z prośbą o rozważenie mojej kandydatury.",
+        "Chciałbym pracować w Państwa firmie.",
+        "Jestem zainteresowany pracą u was.",
+        "Szukam pracy w waszej firmie."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Zwracam się z prośbą o rozważenie mojej kandydatury.' = I am writing to request consideration of my candidacy. The most formal job application phrase. 'Zwracać się z prośbą o + accusative' = to formally request. 'Kandydatura' = candidacy.",
+      "explanation_fa": "'Zwracam się z prośbą o rozważenie mojej kandydatury.' = تقاضای بررسی نامزدی‌ام را دارم. رسمی‌ترین عبارت درخواست شغل. 'Zwracać się z prośbą o + مفعول' = به طور رسمی درخواست کردن. 'Kandydatura' = نامزدی/کاندیداتوری."
+    },
+    {
+      "id": "a2-ch19-l04-ex09",
+      "type": "dictation_mc",
+      "order": 9,
+      "audioAsset": "assets/audio/a2/ch19/a2-ch19-l04-ex09.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "W związku z Pańskim pismem, uprzejmie informuję...",
+        "W związku z Panem, proszę o informację...",
+        "Z powodu Pańskiego pisma, chcę powiedzieć...",
+        "Przez Pańskie pismo, uprzejmie informuję..."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'W związku z Pańskim pismem, uprzejmie informuję...' — Regarding your letter, I kindly inform you... 'W związku z + instrumental' = regarding/in connection with. 'Pańskim pismem' = your letter (formal, instrumental of Pan's pismo).",
+      "explanation_fa": "شنیدید: 'W związku z Pańskim pismem, uprzejmie informuję...' — در ارتباط با نامه شما، مؤدبانه اطلاع می‌دهم... 'W związku z + ابزاری' = در ارتباط با / درباره. 'Pańskim pismem' = نامه شما (رسمی، حالت ابزاری)."
+    },
+    {
+      "id": "a2-ch19-l04-ex10",
+      "type": "sentence_builder",
+      "order": 10,
+      "prompt": "Build a formal request: I am writing to request information about your offer.",
+      "prompt_fa": "یک درخواست رسمی بسازید: تقاضای اطلاعات درباره پیشنهاد شما دارم.",
+      "wordBank": ["Zwracam", "się", "z", "prośbą", "prośby", "o", "informację", "informacji", "dotyczącą", "Państwa", "oferty", "ofertą", "."],
       "correctSequences": [
-        [
-          "Zwracam",
-          "się",
-          "z",
-          "prośbą",
-          "o",
-          "informację",
-          "dotyczącą",
-          "Państwa",
-          "oferty",
-          "."
-        ]
+        ["Zwracam", "się", "z", "prośbą", "o", "informację", "dotyczącą", "Państwa", "oferty", "."]
       ],
-      "explanation": "'Zwracam się z prośbą o informację dotyczącą Państwa oferty.' — I am writing to request information about your offer. 'Zwracać się z prośbą o + accusative' = to write requesting. 'Dotyczącą' = concerning (participle agreeing with informację, f acc). 'Państwa oferty' = your offer (genitive)."
+      "explanation": "'Zwracam się z prośbą o informację dotyczącą Państwa oferty.' — I am writing to request information about your offer. 'Zwracać się z prośbą o + accusative' = to write requesting. 'Dotyczącą' = concerning (participle agreeing with informację, f acc). 'Państwa oferty' = your offer (genitive).",
+      "explanation_fa": "'Zwracam się z prośbą o informację dotyczącą Państwa oferty.' — تقاضای اطلاعاتی درباره پیشنهاد شما دارم. 'Zwracać się z prośbą o + مفعول' = درخواست رسمی نوشتاری. 'Dotyczącą' = درباره (اسم فعل هماهنگ با informację، مؤنث مفعول). 'Państwa oferty' = پیشنهاد شما (مضاف‌الیه)."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": [
-    "formal-register",
-    "comparison",
-    "a2-core"
-  ],
-  "prerequisites": [
-    "a2-ch19-l01",
-    "a2-ch19-l02",
-    "a2-ch19-l03"
-  ]
+  "tags": ["formal-register", "comparison", "a2-core"],
+  "prerequisites": ["a2-ch19-l01", "a2-ch19-l02", "a2-ch19-l03"]
 }

@@ -6,7 +6,7 @@
   "title": "Polite Requests",
   "title_fa": "درخواست مؤدبانه",
   "grammarPoint": "Polite requests: proszę + infinitive; czy mógłby Pan / mogłaby Pani + infinitive; czy mógłbyś + infinitive",
-  "grammarPoint_fa": "درخواست مؤدبانه: Proszę + مصدر و Czy mógłby pan/pani...؟",
+  "grammarPoint_fa": "درخواست مؤدبانه: proszę + مصدر؛ Czy mógłby Pan/mogłaby Pani + مصدر؛ Czy mógłbyś/mogłabyś + مصدر",
   "explanation": {
     "text": "Polish has several levels of politeness for making requests.\n\n**Level 1 — Most common polite form:**\n**Proszę + infinitive** (please + do...)\n- **Proszę** mówić wolniej. = Please speak more slowly.\n- **Proszę** otworzyć okno. = Please open the window.\n- **Proszę** tutaj usiąść. = Please sit here.\n\n**Level 2 — Informal polite (ty relationship):**\n**Czy mógłbyś / mogłabyś + infinitive?** (Could you...?)\n- **Czy mógłbyś** mi pomóc? = Could you (m) help me?\n- **Czy mogłabyś** to sprawdzić? = Could you (f) check this?\n\n**Level 3 — Formal (Pan/Pani):**\n**Czy mógłby Pan / mogłaby Pani + infinitive?** (Could you [formal] ...?)\n- **Czy mógłby Pan** powtórzyć? = Could you (m formal) repeat that?\n- **Czy mogłaby Pani** podpisać tutaj? = Could you (f formal) sign here?\n\n**In service contexts:**\n- Proszę o... + accusative (Please give me...)\n  - Proszę o kawę. = A coffee please.\n  - Proszę o rachunek. = The bill, please.\n\n**Czy + conditional is the most polite question form:**\n- Czy mógłbyś mi pożyczyć pióro? = Could you lend me a pen?\n- Czy mogłaby Pani nam pomóc? = Could you (f formal) help us?",
     "notes": [
@@ -16,13 +16,14 @@
       "'Proszę o' + accusative = please give me / I'd like (ordering/requesting things)."
     ]
   },
-  "explanation_fa": "برای درخواست مؤدبانه: Proszę + مصدر: Proszę zadzwonić (لطفاً تلفن بزنید). Czy możesz/możecie...? (می‌توانی/می‌توانید؟). Czy mógłbyś/mogłabyś...? (آیا امکان داری...؟ — بسیار مؤدبانه). Byłby pan tak uprzejmy...? (آیا لطف می‌فرمایید؟).",
+  "explanation_fa": "**سطح‌های مؤدبانه درخواست در لهستانی:**\n\n**سطح ۱ — رایج‌ترین شکل مؤدبانه:**\n**Proszę + مصدر** (لطفاً + فعل)\n- *Proszę mówić wolniej.* = لطفاً آهسته‌تر صحبت کنید.\n- *Proszę otworzyć okno.* = لطفاً پنجره را باز کنید.\n- *Proszę tutaj usiąść.* = لطفاً اینجا بنشینید.\n\n**سطح ۲ — مؤدبانه غیررسمی (رابطه ty):**\n**Czy mógłbyś (م) / mogłabyś (ف) + مصدر؟** (آیا می‌توانی...؟)\n- *Czy mógłbyś mi pomóc?* = آیا می‌توانی (م) کمکم کنی؟\n- *Czy mogłabyś to sprawdzić?* = آیا می‌توانی (ف) این را چک کنی؟\n\n**سطح ۳ — رسمی (Pan/Pani):**\n**Czy mógłby Pan / mogłaby Pani + مصدر؟** (آیا می‌توانید [رسمی]...؟)\n- *Czy mógłby Pan powtórzyć?* = آیا می‌توانید (آقا) تکرار کنید؟\n- *Czy mogłaby Pani podpisać tutaj?* = آیا می‌توانید (خانم) اینجا امضا کنید؟\n\n**در موقعیت‌های خدماتی (رستوران، فروشگاه):**\n- *Proszę o kawę.* = یک قهوه لطفاً. (Proszę o + مفعول)\n- *Proszę o rachunek.* = صورتحساب لطفاً.",
   "exercises": [
     {
       "id": "a2-ch16-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "___ mówić wolniej, proszę. (Please speak more slowly.) [proszę + infinitive]",
+      "prompt_fa": "___ mówić wolniej. (لطفاً آهسته‌تر صحبت کنید.) [proszę + مصدر]",
       "options": [
         "Proszę",
         "Proszę o",
@@ -30,24 +31,31 @@
         "Mów"
       ],
       "correctIndex": 0,
-      "explanation": "'Proszę + infinitive': Proszę mówić wolniej. This is a polite request — less abrupt than the bare imperative 'mów'. 'Proszę o' is used before a noun."
+      "explanation": "'Proszę + infinitive': Proszę mówić wolniej. This is a polite request — less abrupt than the bare imperative 'mów'. 'Proszę o' is used before a noun (not infinitive).",
+      "explanation_fa": "'Proszę + مصدر': Proszę mówić wolniej. این درخواست مؤدبانه‌تر از وجه امری مستقیم 'mów' است. 'Proszę o' قبل از اسم استفاده می‌شود، نه مصدر."
     },
     {
       "id": "a2-ch16-l03-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Czy ___ Pan powtórzyć to pytanie? (Could you (m formal) repeat that question?) [formal polite request]",
+      "context": "Formal request: you're asking a male doctor to repeat the question. Complete:",
+      "context_fa": "درخواست رسمی: از یک دکتر مرد می‌خواهید سؤال را تکرار کند. کامل کنید:",
+      "sentence": "Czy ___ Pan powtórzyć to pytanie?",
+      "prompt": "Czy ___ Pan powtórzyć to pytanie? (Could you (m formal) repeat that question?)",
+      "prompt_fa": "Czy ___ Pan powtórzyć to pytanie? (آیا می‌توانید (آقا/رسمی) آن سؤال را تکرار کنید؟)",
       "answer": "mógłby",
-      "acceptableAnswers": [
-        "mógłby"
-      ],
-      "hint": "Formal: Czy mógłby Pan + infinitive (móc → conditional m 3rd: mógłby)"
+      "acceptableAnswers": ["mógłby"],
+      "hint": "Formal: Czy mógłby Pan + infinitive (móc → conditional m 3rd: mógłby)",
+      "explanation": "'Czy mógłby Pan powtórzyć?' — Could you (m formal) repeat? 'Mógłby' = conditional of 'móc', masculine 3rd person. Used with Pan (formal male address).",
+      "explanation_fa": "'Czy mógłby Pan powtórzyć?' — آیا می‌توانید (آقا) تکرار کنید؟ 'Mógłby' = شرطی فعل 'móc'، سوم شخص مذکر. با Pan (خطاب رسمی مذکر) استفاده می‌شود."
     },
     {
       "id": "a2-ch16-l03-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch16/a2-ch16-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Czy mogłabyś mi pomóc z tym zadaniem?",
         "Czy mogłaby mi Pani pomóc z tym zadaniem?",
@@ -55,62 +63,114 @@
         "Pomóż mi z tym zadaniem."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Czy mogłabyś mi pomóc z tym zadaniem?' — Could you (f, informal) help me with this task? 'Mogłabyś' = feminine informal conditional (móc, ty f)."
+      "explanation": "You heard: 'Czy mogłabyś mi pomóc z tym zadaniem?' — Could you (f, informal) help me with this task? 'Mogłabyś' = feminine informal conditional (móc, ty f).",
+      "explanation_fa": "شنیدید: 'Czy mogłabyś mi pomóc z tym zadaniem?' — آیا می‌توانی (ف، غیررسمی) در این تکلیف کمکم کنی؟ 'Mogłabyś' = شرطی مؤنث غیررسمی (móc، ty مؤنث)."
     },
     {
       "id": "a2-ch16-l03-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "At a restaurant: ___ dwie kawy i jeden sok. (Two coffees and one juice, please.)",
+      "prompt_fa": "در رستوران: ___ dwie kawy i jeden sok. (دو قهوه و یک آب‌میوه لطفاً.)",
       "options": [
         "Proszę o",
         "Chcę",
-        "Poproszę",
-        "Proszę"
+        "Życzę sobie",
+        "Biorę"
       ],
       "correctIndex": 0,
-      "explanation": "Both 'proszę o' and 'poproszę' (without 'o') work for ordering. 'Proszę o dwie kawy' = I'd like two coffees. 'Poproszę dwie kawy' is also very common (no 'o')."
+      "explanation": "'Proszę o dwie kawy' = Two coffees, please (I request). 'Proszę o' + accusative = please give me / I'd like. Most polite ordering form. 'Chcę' = I want (less polite).",
+      "explanation_fa": "'Proszę o dwie kawy' = دو قهوه لطفاً. 'Proszę o' + مفعول = لطفاً بدهید / می‌خواهم. مؤدبانه‌ترین شکل سفارش. 'Chcę' = می‌خواهم (کمتر مؤدبانه)."
     },
     {
       "id": "a2-ch16-l03-ex05",
       "type": "sentence_builder",
       "order": 5,
-      "prompt": "Build: Could you (m, informal) lend me your pen? [czy mógłbyś + infinitive]",
-      "wordBank": [
-        "Czy",
-        "mógłbyś",
-        "mogłbyś",
-        "mi",
-        "pożyczyć",
-        "pożyczyłeś",
-        "swoje",
-        "swój",
-        "pióro",
-        "pióra"
+      "prompt": "Build: Could you (m, informal) lend me your pen?",
+      "prompt_fa": "بسازید: آیا می‌توانی (م، غیررسمی) قلمت را به من قرض بدهی؟",
+      "wordBank": ["Czy", "mógłbyś", "mogłbyś", "mi", "pożyczyć", "pożyczyłeś", "swoje", "swój", "pióro", "pióra"],
+      "correctSequences": [["Czy", "mógłbyś", "mi", "pożyczyć", "swoje", "pióro"]],
+      "explanation": "'Czy mógłbyś mi pożyczyć swoje pióro?' — Could you (m, informal) lend me your pen? 'Mógłbyś' = conditional of 'móc', ty m. 'Pożyczyć' = to lend. 'Swoje pióro' = accusative.",
+      "explanation_fa": "'Czy mógłbyś mi pożyczyć swoje pióro?' — آیا می‌توانی قلمت را به من قرض بدهی؟ 'Mógłbyś' = شرطی 'móc'، ty مذکر. 'Pożyczyć' = قرض دادن. 'Swoje pióro' = مفعول."
+    },
+    {
+      "id": "a2-ch16-l03-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Which is the most formal way to ask a female professor to wait?",
+      "prompt_fa": "کدام مؤدبانه‌ترین شکل برای درخواست از یک استاد زن است که صبر کند؟",
+      "options": [
+        "Czy mogłaby Pani chwilę poczekać?",
+        "Czy mogłabyś chwilę poczekać?",
+        "Proszę poczekać chwilę.",
+        "Poczekaj chwilę!"
       ],
-      "correctSequences": [
-        [
-          "Czy",
-          "mógłbyś",
-          "mi",
-          "pożyczyć",
-          "swoje",
-          "pióro"
-        ]
+      "correctIndex": 0,
+      "explanation": "'Czy mogłaby Pani chwilę poczekać?' is the most formal: conditional + Pani (formal female address). 'Mogłabyś' = informal. 'Proszę poczekać' = also polite but not as formal. 'Poczekaj!' = direct imperative, impolite to a professor.",
+      "explanation_fa": "'Czy mogłaby Pani chwilę poczekać?' رسمی‌ترین است: شرطی + Pani (خطاب رسمی مؤنث). 'Mogłabyś' = غیررسمی. 'Proszę poczekać' = مؤدبانه است ولی کمتر رسمی. 'Poczekaj!' = وجه امری مستقیم، نامؤدبانه برای استاد."
+    },
+    {
+      "id": "a2-ch16-l03-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "In a pharmacy, asking for aspirin politely:",
+      "context_fa": "در داروخانه، مؤدبانه آسپرین می‌خواهید:",
+      "sentence": "___ aspirynę.",
+      "prompt": "___ aspirynę. (An aspirin, please — polite shop request)",
+      "prompt_fa": "___ aspirynę. (یک آسپرین لطفاً — درخواست مؤدبانه)",
+      "answer": "Proszę o",
+      "acceptableAnswers": ["Proszę o", "Poproszę"],
+      "hint": "Proszę o + accusative OR poproszę (+ accusative without 'o')",
+      "explanation": "'Proszę o aspirynę.' or 'Poproszę aspirynę.' — An aspirin, please. Both are very common in shops/pharmacies. 'Proszę o' + accusative = please give me.",
+      "explanation_fa": "'Proszę o aspirynę.' یا 'Poproszę aspirynę.' — یک آسپرین لطفاً. هر دو در مغازه/داروخانه خیلی رایج‌اند. 'Proszę o' + مفعول = لطفاً بدهید."
+    },
+    {
+      "id": "a2-ch16-l03-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "A male friend asks you to turn down the music. Which is the natural informal polite form?",
+      "prompt_fa": "یک دوست مذکر از شما می‌خواهد موسیقی را کم کنید. کدام شکل طبیعی غیررسمی مؤدبانه است؟",
+      "options": [
+        "Czy mógłbyś ściszyć muzykę?",
+        "Czy mógłby Pan ściszyć muzykę?",
+        "Proszę ściszyć muzykę.",
+        "Ścisz muzykę!"
       ],
-      "explanation": "'Czy mógłbyś mi pożyczyć swoje pióro?' — Could you (m, informal) lend me your pen? 'Mógłbyś' = conditional of 'móc', ty m. 'Pożyczyć' = to lend. 'Swoje pióro' = accusative (your pen)."
+      "correctIndex": 0,
+      "explanation": "'Czy mógłbyś ściszyć muzykę?' = Could you (m, informal) turn down the music? 'Mógłbyś' = ty masculine informal conditional. 'Mógłby Pan' = formal. 'Proszę' = neutral polite. 'Ścisz!' = abrupt command.",
+      "explanation_fa": "'Czy mógłbyś ściszyć muzykę?' = آیا می‌توانی (م، غیررسمی) موسیقی را کم کنی؟ 'Mógłbyś' = شرطی ty مذکر غیررسمی. 'Mógłby Pan' = رسمی. 'Proszę' = مؤدبانه خنثی. 'Ścisz!' = دستور مستقیم."
+    },
+    {
+      "id": "a2-ch16-l03-ex09",
+      "type": "dictation_mc",
+      "order": 9,
+      "audioAsset": "assets/audio/a2/ch16/a2-ch16-l03-ex09.mp3",
+      "prompt": "Which polite request did you hear?",
+      "prompt_fa": "کدام درخواست مؤدبانه را شنیدید؟",
+      "options": [
+        "Proszę tutaj usiąść.",
+        "Usiądź tutaj.",
+        "Czy możesz tu usiąść?",
+        "Proszę o siedzenie tutaj."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Proszę tutaj usiąść.' — Please sit here. 'Proszę + infinitive' = polite instruction. Used by doctors, teachers, receptionists. Less direct than the imperative 'usiądź!'",
+      "explanation_fa": "شنیدید: 'Proszę tutaj usiąść.' — لطفاً اینجا بنشینید. 'Proszę + مصدر' = دستور مؤدبانه. توسط دکتر، معلم، منشی استفاده می‌شود. کمتر مستقیم از وجه امری 'usiądź!'."
+    },
+    {
+      "id": "a2-ch16-l03-ex10",
+      "type": "sentence_builder",
+      "order": 10,
+      "prompt": "Build: Could you (f, formal — Pani) sign here, please?",
+      "prompt_fa": "بسازید: آیا می‌توانید (ف، رسمی — Pani) اینجا امضا کنید، لطفاً؟",
+      "wordBank": ["Czy", "mogłaby", "mogłabyś", "Pani", "podpisać", "podpisała", "tutaj", "tu", "proszę"],
+      "correctSequences": [["Czy", "mogłaby", "Pani", "podpisać", "tutaj"]],
+      "explanation": "'Czy mogłaby Pani podpisać tutaj?' — Could you (f formal) sign here? 'Mogłaby Pani' = formal feminine conditional request. 'Podpisać' = to sign (perfective infinitive).",
+      "explanation_fa": "'Czy mogłaby Pani podpisać tutaj?' — آیا می‌توانید (خانم/رسمی) اینجا امضا کنید؟ 'Mogłaby Pani' = شرطی مؤنث رسمی. 'Podpisać' = امضا کردن (مصدر کامل)."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": [
-    "imperative",
-    "politeness",
-    "requests",
-    "a2-core"
-  ],
-  "prerequisites": [
-    "a2-ch16-l01",
-    "a2-ch14-l01"
-  ]
+  "tags": ["imperative", "politeness", "requests", "a2-core"],
+  "prerequisites": ["a2-ch16-l01", "a2-ch14-l01"]
 }

@@ -4,9 +4,9 @@
   "chapter": 20,
   "lessonOrder": 3,
   "title": "Cases Review — All 7 Cases",
-  "title_fa": "مرور حالت‌ها — هفت حالت",
+  "title_fa": "مرور حالت‌ها — هفت حالت دستوری",
   "grammarPoint": "Complete review of all 7 Polish cases: functions, key prepositions, and most common patterns encountered in A1–A2",
-  "grammarPoint_fa": "مرور جامع هفت حالت دستوری لهستانی و کاربرد هر کدام",
+  "grammarPoint_fa": "مرور جامع هفت حالت دستوری لهستانی: کارکرد، حروف اضافه کلیدی، و رایج‌ترین الگوهای A1-A2",
   "explanation": {
     "text": "Polish has 7 grammatical cases. Here is a complete A2-level review.\n\n## The 7 Cases at a Glance\n\n| Case | Polish Name | Core Function | Key Prepositions |\n|------|------------|--------------|------------------|\n| **Nominative** | Mianownik | Subject | — |\n| **Genitive** | Dopełniacz | Possession, negation, after numbers | do, z, bez, dla, od, po, koło |\n| **Dative** | Celownik | Indirect object, beneficiary | dla (purpose), — |\n| **Accusative** | Biernik | Direct object, direction | na, w (direction), przez, za |\n| **Instrumental** | Narzędnik | With, by means of, profession | z, przed, za, między, nad |\n| **Locative** | Miejscownik | Location (always with preposition) | w, na, przy, o |\n| **Vocative** | Wołacz | Direct address | — |\n\n## Key Patterns (Summary)\n\n### GENITIVE — most frequent case\n- Possession: książka **mamy** (mum's book)\n- After negation: nie ma **czasu** (no time)\n- After numbers 5+: pięć **dni** (five days)\n- After do/z/bez/dla/od/po/koło\n- Genitive plural = extremely common: dużo **studentów**\n\n### DATIVE — the 'to/for' case\n- Indirect object: Daję **mamie** prezent. (I give mum a present)\n- Podoba **mi się** (I like it) — dative of interest\n- Zimno **mi** jest. (I'm cold) — dative of feeling\n\n### ACCUSATIVE — direct object + direction\n- Direct object: Czytam **książkę**. (I'm reading a book)\n- With na/w for direction: idę **na** rynek (to the market square)\n- Duration: przez **tydzień** (for a week)\n\n### INSTRUMENTAL — 'with', tools, professions\n- With: kawa **z mlekiem** (coffee with milk)\n- Profession after być: Jestem **studentem**. (I am a student)\n- Manner: **pociągiem** (by train)\n\n### LOCATIVE — location only (always with preposition)\n- w **Warszawie** (in Warsaw)\n- na **stole** (on the table)\n- o **ósmej** (at eight o'clock)\n\n## Noun Endings Quick Reference (masculine example: student)\n\n| Case | Singular | Plural |\n|------|---------|-------|\n| Nom | student | studenci |\n| Gen | student**a** | student**ów** |\n| Dat | student**owi** | student**om** |\n| Acc | student**a** (animate) | student**ów** |\n| Instr | student**em** | student**ami** |\n| Loc | student**cie** | student**ach** |\n| Voc | student**cie** | studenci |",
     "notes": [
@@ -16,13 +16,14 @@
       "Instrumental after 'być' for profession: 'Jestem nauczycielem' (not nominative after być!)."
     ]
   },
-  "explanation_fa": "هفت حالت: فاعلی (mianownik) — فاعل. مضاف‌الیهی (dopełniacz) — مالکیت، نبود، بعد از nie. دادی (celownik) — مفعول غیرمستقیم. مفعولی (biernik) — مفعول مستقیم. ابزاری (narzędnik) — ابزار، همراهی، هویت. مکانی (miejscownik) — مکان با حرف اضافه. ندایی (wołacz) — خطاب مستقیم.",
+  "explanation_fa": "**مرور جامع هفت حالت دستوری لهستانی**\n\nلهستانی ۷ حالت دستوری دارد. هر حالت کارکرد، پایانه‌ها و حروف اضافه مخصوص خود را دارد:\n\n| حالت | نام لهستانی | کارکرد اصلی | حروف اضافه کلیدی |\n|------|------------|-------------|------------------|\n| **فاعلی** | Mianownik | فاعل جمله | — |\n| **مضاف‌الیهی** | Dopełniacz | مالکیت، نفی، بعد از اعداد | do، z، bez، dla، od، po، koło |\n| **دادی** | Celownik | مفعول غیرمستقیم، ذی‌نفع | — |\n| **مفعولی** | Biernik | مفعول مستقیم، جهت | na، w (جهت)، przez، za |\n| **ابزاری** | Narzędnik | با، وسیله، شغل | z، przed، za، między، nad |\n| **مکانی** | Miejscownik | مکان (همیشه با حرف اضافه) | w، na، przy، o |\n| **ندایی** | Wołacz | خطاب مستقیم | — |\n\n**الگوهای کلیدی هر حالت:**\n\n**مضاف‌الیهی — پرکاربردترین حالت:**\n- مالکیت: książka **mamy** (کتاب مادر)\n- بعد از نفی: Nie ma **czasu**. (وقت ندارد)\n- بعد از اعداد ۵+: pięć **dni** (پنج روز)\n- بعد از do/z/bez/dla/od/po/koło\n\n**دادی — حالت «به/برای»:**\n- مفعول غیرمستقیم: Daję **mamie** prezent. (به مادرم هدیه می‌دهم)\n- Podoba **mi się** (دوست دارم) — دادی علاقه\n- Zimno **mi**. (سردم است) — دادی احساس\n\n**مفعولی — مفعول مستقیم + جهت:**\n- Czytam **książkę**. (کتاب می‌خوانم)\n- Idę **na** rynek. (به بازار می‌روم)\n- Przez **tydzień**. (یک هفته — مدت)\n\n**ابزاری — «با»، ابزار، شغل:**\n- Kawa **z mlekiem**. (قهوه با شیر)\n- Jestem **studentem**. (دانشجو هستم — بعد از być)\n- **Pociągiem**. (با قطار)\n\n**مکانی — فقط مکان (همیشه با حرف اضافه):**\n- w **Warszawie** (در ورشو)\n- na **stole** (روی میز)\n- o **ósmej** (ساعت هشت)\n\n**جدول پایانه‌ها (مثال مذکر: student):**\n\n| حالت | مفرد | جمع |\n|------|------|-----|\n| فاعلی | student | studenci |\n| مضاف‌الیهی | student**a** | student**ów** |\n| دادی | student**owi** | student**om** |\n| مفعولی | student**a** (جاندار) | student**ów** |\n| ابزاری | student**em** | student**ami** |\n| مکانی | student**cie** | student**ach** |",
   "exercises": [
     {
       "id": "a2-ch20-l03-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "Nie ma ___ w domu. (There is no time at home.) [genitive after negation]",
+      "prompt_fa": "Nie ma ___ w domu. (در خانه وقت نیست.) [مضاف‌الیهی بعد از نفی]",
       "options": [
         "czasu",
         "czas",
@@ -30,13 +31,15 @@
         "czasie"
       ],
       "correctIndex": 0,
-      "explanation": "After negation 'nie ma' → genitive: czas (m) → genitive: czasu. 'Nie ma czasu' = There is no time. Contrast: 'Jest czas' (nominative). Negation always triggers genitive of the object."
+      "explanation": "After negation 'nie ma' → genitive: czas (m) → genitive: czasu. 'Nie ma czasu' = There is no time. Contrast: 'Jest czas' (nominative). Negation always triggers genitive of the object.",
+      "explanation_fa": "بعد از نفی 'nie ma' → مضاف‌الیهی: czas (مذکر) → مضاف‌الیهی: czasu. 'Nie ma czasu' = وقت نیست. مقایسه: 'Jest czas' (فاعلی). نفی همیشه مضاف‌الیهی مفعول را فعال می‌کند."
     },
     {
       "id": "a2-ch20-l03-ex02",
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Daję ___ prezent. (I'm giving mum a present.) [dative — indirect object]",
+      "prompt_fa": "Daję ___ prezent. (به مادرم هدیه می‌دهم.) [دادی — مفعول غیرمستقیم]",
       "options": [
         "mamie",
         "mama",
@@ -44,13 +47,16 @@
         "mamą"
       ],
       "correctIndex": 0,
-      "explanation": "Indirect object (to whom?) → dative: mama → mamie (f dat: -a → -ie). 'Daję mamie prezent' = I give mum a present. 'Mamy' = genitive (mum's). 'Mamą' = instrumental (with mum)."
+      "explanation": "Indirect object (to whom?) → dative: mama → mamie (f dat: -a → -ie). 'Daję mamie prezent' = I give mum a present. 'Mamy' = genitive (mum's). 'Mamą' = instrumental (with mum).",
+      "explanation_fa": "مفعول غیرمستقیم (به چه کسی؟) → دادی: mama → mamie (مؤنث دادی: -a → -ie). 'Daję mamie prezent' = به مادرم هدیه می‌دهم. 'Mamy' = مضاف‌الیهی (کتاب مادر). 'Mamą' = ابزاری (با مادر)."
     },
     {
       "id": "a2-ch20-l03-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch20/a2-ch20-l03-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Jestem studentem na Uniwersytecie Jagiellońskim.",
         "Jestem student na Uniwersytecie Jagiellońskim.",
@@ -58,13 +64,15 @@
         "Jestem studiuję na Uniwersytecie Jagiellońskim."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Jestem studentem na Uniwersytecie Jagiellońskim.' — I am a student at the Jagiellonian University. After 'być' (profession/identity) → instrumental: student → studentem. 'Na Uniwersytecie' = locative (at/on the university)."
+      "explanation": "You heard: 'Jestem studentem na Uniwersytecie Jagiellońskim.' — I am a student at the Jagiellonian University. After 'być' (profession/identity) → instrumental: student → studentem. 'Na Uniwersytecie' = locative (at/on the university).",
+      "explanation_fa": "شنیدید: 'Jestem studentem na Uniwersytecie Jagiellońskim.' — دانشجوی دانشگاه یاگیلونی هستم. بعد از 'być' (شغل/هویت) → ابزاری: student → studentem. 'Na Uniwersytecie' = مکانی (در/روی دانشگاه)."
     },
     {
       "id": "a2-ch20-l03-ex04",
       "type": "multiple_choice",
       "order": 4,
-      "prompt": "Jadę ___ Kraków jutro. (I'm going to Kraków tomorrow.) [direction — accusative]",
+      "prompt": "Jadę ___ Krakowa jutro. (I'm going to Kraków tomorrow.) [destination — do + genitive]",
+      "prompt_fa": "Jadę ___ Krakowa jutro. (فردا به کراکوف می‌روم.) [مقصد — do + مضاف‌الیهی]",
       "options": [
         "do",
         "w",
@@ -72,48 +80,104 @@
         "z"
       ],
       "correctIndex": 0,
-      "explanation": "'Do + genitive' = to (destination, cities/places). 'Jadę do Krakowa' (Kraków → gen: Krakowa). Note: 'do' takes genitive not accusative, but it expresses direction. 'Na' + acc = direction to open spaces/events."
+      "explanation": "'Do + genitive' = to (destination, cities/places). 'Jadę do Krakowa' (Kraków → gen: Krakowa). Note: 'do' takes genitive not accusative, but it expresses direction. 'Na' + acc = direction to open spaces/events.",
+      "explanation_fa": "'Do + مضاف‌الیهی' = به (مقصد، شهرها/مکان‌ها). 'Jadę do Krakowa' (Kraków → مضاف‌الیهی: Krakowa). توجه: 'do' مضاف‌الیهی می‌گیرد نه مفعولی، اما جهت را بیان می‌کند. 'Na + مفعولی' = جهت به فضاهای باز/رویدادها."
     },
     {
       "id": "a2-ch20-l03-ex05",
-      "type": "sentence_builder",
+      "type": "fill_blank",
       "order": 5,
-      "prompt": "Build: I travel to work by train. (instrumental — manner of transport)",
-      "wordBank": [
-        "Jadę",
-        "do",
-        "pracy",
-        "praca",
-        "pociągiem",
-        "pociąg",
+      "context": "You're describing what you see on the desk:",
+      "context_fa": "دارید توصیف می‌کنید که روی میز چه می‌بینید:",
+      "sentence": "Książka leży na ___.",
+      "prompt": "Książka leży na ___. (The book is lying on the table.) [locative of stół]",
+      "prompt_fa": "Książka leży na ___. (کتاب روی میز است.) [مکانی stół]",
+      "answer": "stole",
+      "acceptableAnswers": ["stole"],
+      "hint": "Locative of stół (m): stół → stole. Location 'na' always requires locative.",
+      "explanation": "'Na stole' = on the table. Locative of 'stół' (m inanimate): stół → stole (alternation ó→o). Locative case always appears with a preposition: w, na, przy, o.",
+      "explanation_fa": "'Na stole' = روی میز. مکانی 'stół' (مذکر غیرجاندار): stół → stole (تغییر ó→o). حالت مکانی همیشه با حرف اضافه می‌آید: w، na، przy، o."
+    },
+    {
+      "id": "a2-ch20-l03-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Piszę list ___ mamy. (I'm writing a letter without mum's [help].) [bez + genitive]",
+      "prompt_fa": "Piszę list ___ mamy. (نامه را بدون (کمک) مادرم می‌نویسم.) [bez + مضاف‌الیهی]",
+      "options": [
+        "bez",
         "z",
-        "pociągu",
-        "."
+        "dla",
+        "od"
       ],
+      "correctIndex": 0,
+      "explanation": "'Bez + genitive' = without. 'Bez mamy' = without mum. 'Z + genitive' = from / with (from a source). 'Dla + genitive' = for (beneficiary). 'Od + genitive' = from (a person).",
+      "explanation_fa": "'Bez + مضاف‌الیهی' = بدون. 'Bez mamy' = بدون مادر. 'Z + مضاف‌الیهی' = از (منشأ). 'Dla + مضاف‌الیهی' = برای (ذی‌نفع). 'Od + مضاف‌الیهی' = از (یک شخص)."
+    },
+    {
+      "id": "a2-ch20-l03-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "You're at the coffee shop and describe your order:",
+      "context_fa": "در کافه هستید و سفارشتان را توصیف می‌کنید:",
+      "sentence": "Poproszę kawę ___ mlekiem.",
+      "prompt": "Poproszę kawę ___ mlekiem. (I'd like a coffee with milk.) [instrumental — with]",
+      "prompt_fa": "Poproszę kawę ___ mlekiem. (یک قهوه با شیر لطفاً.) [ابزاری — با]",
+      "answer": "z",
+      "acceptableAnswers": ["z"],
+      "hint": "'Z + instrumental' = with (accompaniment). Mleko → mlekiem (instrumental).",
+      "explanation": "'Z mlekiem' = with milk. 'Z + instrumental' expresses accompaniment (with something). 'Mleko' → instrumental: mlekiem. 'Kawa z mlekiem' = coffee with milk (common order).",
+      "explanation_fa": "'Z mlekiem' = با شیر. 'Z + ابزاری' همراهی را بیان می‌کند (با چیزی). 'Mleko' → ابزاری: mlekiem. 'Kawa z mlekiem' = قهوه با شیر (سفارش رایج)."
+    },
+    {
+      "id": "a2-ch20-l03-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Which case does 'przez' take? As in: 'Przez tydzień byłem chory.'",
+      "prompt_fa": "«przez» کدام حالت می‌گیرد؟ مثل: «Przez tydzień byłem chory.»",
+      "options": [
+        "Accusative (Biernik)",
+        "Genitive (Dopełniacz)",
+        "Instrumental (Narzędnik)",
+        "Locative (Miejscownik)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Przez + accusative' = for (duration) / through / because of. 'Przez tydzień' = for a week (tydzień = m acc, no change for masc inanimate). Other przez uses: 'przez miasto' (through the city), 'przez ciebie' (because of you).",
+      "explanation_fa": "'Przez + مفعولی' = برای (مدت) / از میان / به خاطر. 'Przez tydzień' = یک هفته (tydzień = مذکر مفعولی، بدون تغییر برای مذکر غیرجاندار). کاربردهای دیگر przez: 'przez miasto' (از میان شهر)، 'przez ciebie' (به خاطر تو)."
+    },
+    {
+      "id": "a2-ch20-l03-ex09",
+      "type": "dictation_mc",
+      "order": 9,
+      "audioAsset": "assets/audio/a2/ch20/a2-ch20-l03-ex09.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Podoba mi się ta muzyka.",
+        "Lubię ta muzyka.",
+        "Podoba mnie ta muzyka.",
+        "Ta muzyka podoba mnie się."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Podoba mi się ta muzyka.' — I like this music. 'Podoba mi się' = dative of interest (mi = dative of ja). 'Ta muzyka' = nominative subject (the music 'pleases' me). NOT 'lubię' + accusative here — 'podoba się' is the construction.",
+      "explanation_fa": "شنیدید: 'Podoba mi się ta muzyka.' — این موسیقی را دوست دارم. 'Podoba mi się' = دادی علاقه (mi = دادی ja). 'Ta muzyka' = فاعلی (موسیقی برایم «خوشایند» است). اینجا از 'lubię' + مفعولی استفاده نمی‌شود — ساختار 'podoba się' است."
+    },
+    {
+      "id": "a2-ch20-l03-ex10",
+      "type": "sentence_builder",
+      "order": 10,
+      "prompt": "Build: I travel to work by train.",
+      "prompt_fa": "بسازید: با قطار سر کار می‌روم.",
+      "wordBank": ["Jadę", "do", "pracy", "praca", "pociągiem", "pociąg", "z", "pociągu", "."],
       "correctSequences": [
-        [
-          "Jadę",
-          "do",
-          "pracy",
-          "pociągiem",
-          "."
-        ]
+        ["Jadę", "do", "pracy", "pociągiem", "."]
       ],
-      "explanation": "'Jadę do pracy pociągiem.' — I travel to work by train. 'Do pracy' = to work (do + genitive: praca → pracy). 'Pociągiem' = by train (instrumental: pociąg → pociągiem). Means of transport always uses instrumental in Polish."
+      "explanation": "'Jadę do pracy pociągiem.' — I travel to work by train. 'Do pracy' = to work (do + genitive: praca → pracy). 'Pociągiem' = by train (instrumental: pociąg → pociągiem). Means of transport always uses instrumental in Polish.",
+      "explanation_fa": "'Jadę do pracy pociągiem.' — با قطار سر کار می‌روم. 'Do pracy' = به سر کار (do + مضاف‌الیهی: praca → pracy). 'Pociągiem' = با قطار (ابزاری: pociąg → pociągiem). وسیله نقلیه همیشه در لهستانی ابزاری می‌گیرد."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": [
-    "cases",
-    "review",
-    "a2-core"
-  ],
-  "prerequisites": [
-    "a1-ch06-l01",
-    "a1-ch07-l01",
-    "a1-ch08-l01",
-    "a1-ch09-l01",
-    "a2-ch17-l02"
-  ]
+  "tags": ["cases", "review", "a2-core"],
+  "prerequisites": ["a1-ch06-l01", "a1-ch07-l01", "a1-ch08-l01", "a1-ch09-l01", "a2-ch17-l02"]
 }

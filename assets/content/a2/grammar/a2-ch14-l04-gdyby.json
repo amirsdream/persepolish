@@ -5,8 +5,8 @@
   "lessonOrder": 4,
   "title": "Gdyby Clauses in Context",
   "title_fa": "جملات gdyby در بافت",
-  "grammarPoint": "Extended gdyby constructions: Gdybym mógł..., Gdybym wiedział..., Na twoim miejscu + conditional, Żałuję, że...",
-  "grammarPoint_fa": "gdyby در جملات پیچیده: Gdyby + گذشته... به‌علاوه by",
+  "grammarPoint": "Extended gdyby constructions: Gdybym mógł..., Na twoim miejscu + conditional, Żałuję że..., Chciałbym żeby...",
+  "grammarPoint_fa": "ساختارهای گسترده gdyby: Gdybym mógł...، Na twoim miejscu + شرطی، Żałuję że...، Chciałbym żeby...",
   "explanation": {
     "text": "Here we practise **gdyby** in richer contexts, including common set expressions.\n\n**Common gdyby constructions:**\n\n**1. Gdybym mógł/mogła (if I could):**\n- **Gdybym mógł**, pojechałbym wszędzie. = If I could, I'd go everywhere.\n- **Gdybym mogła**, zostałabym tu na zawsze. = If I could, I'd stay here forever.\n\n**2. Gdybym wiedział/wiedziała (if I knew):**\n- **Gdybym wiedział**, zadzwoniłbym wcześniej. = If I'd known, I'd have called earlier.\n\n**3. Na twoim miejscu + conditional (In your place / If I were you):**\n- **Na twoim miejscu** pojechałbym do lekarza. = If I were you, I'd go to the doctor.\n- **Na twoim miejscu** nie robiłabym tego. = If I were you, I wouldn't do that.\n\n**4. Żałuję, że... / Szkoda, że... (I'm sorry that / It's a pity that):**\n- **Żałuję, że** nie przyszedłeś. = I'm sorry you didn't come.\n- **Szkoda, że** nie ma cię tutaj. = It's a pity you're not here.\n\n**5. Chciałbym żeby... (I wish that...):**\n- **Chciałbym, żeby** pogoda była lepsza. = I wish the weather were better.\n- **Chciałabym, żeby** on wrócił. = I wish he'd come back.",
     "notes": [
@@ -16,13 +16,14 @@
       "Gdyby constructions are the heart of Polish conditional — master these set phrases."
     ]
   },
-  "explanation_fa": "gdyby (اگر — فرضی) با فعل گذشته در بند شرط ترکیب می‌شود: Gdybyś zadzwonił, przyszłabym (اگر زنگ می‌زدی، می‌آمدم). تفاوت با jeśli/jeżeli: jeśli برای شرط واقعی (Jeśli masz czas, przyjdź — اگر وقت داری بیا) و gdyby برای فرضی.",
+  "explanation_fa": "**ساختارهای رایج gdyby در بافت واقعی:**\n\n**۱. Gdybym mógł/mogła (اگر می‌توانستم):**\n- *Gdybym mógł, pojechałbym wszędzie.* = اگر می‌توانستم، همه‌جا می‌رفتم. (م)\n- *Gdybym mogła, zostałabym tu na zawsze.* = اگر می‌توانستم، اینجا می‌ماندم. (ف)\n\n**۲. Gdybym wiedział/wiedziała (اگر می‌دانستم):**\n- *Gdybym wiedział, zadzwoniłbym wcześniej.* = اگر می‌دانستم، زودتر زنگ می‌زدم.\n\n**۳. Na twoim miejscu (جای تو بودم / اگر جای تو بودم):**\n- *Na twoim miejscu pojechałbym do lekarza.* = جای تو بودم، پیش دکتر می‌رفتم.\n- *Na twoim miejscu nie robiłabym tego.* = جای تو بودم، این کار را نمی‌کردم. (ف)\n\n**۴. Żałuję że / Szkoda że (متأسفم که / حیف که):**\n- *Żałuję, że nie przyszedłeś.* = متأسفم که نیامدی.\n- *Szkoda, że nie ma cię tutaj.* = حیف که اینجا نیستی.\n\n**۵. Chciałbym żeby (آرزو دارم که / کاش):**\n- *Chciałbym, żeby pogoda była lepsza.* = کاش هوا بهتر بود.\n- *Chciałabym, żeby on wrócił.* = آرزو دارم او برگردد. (ف)",
   "exercises": [
     {
       "id": "a2-ch14-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "___ mógł, spałbym do południa. (If I could, I'd sleep till noon.) [gdyby, ja m]",
+      "prompt_fa": "___ می‌توانستم، تا ظهر می‌خوابیدم. [gdyby، ja م]",
       "options": [
         "Gdybym",
         "Gdybyś",
@@ -30,24 +31,30 @@
         "Gdybyśmy"
       ],
       "correctIndex": 0,
-      "explanation": "'Gdybym' = if I (1st person singular conditional 'if'). 'Gdybym mógł' = if I could. 'Spałbym' = I would sleep (conditional)."
+      "explanation": "'Gdybym' = if I (1st person singular conditional 'if'). 'Gdybym mógł' = if I could. 'Spałbym' = I would sleep (m conditional).",
+      "explanation_fa": "'Gdybym' = اگر من (اول شخص مفرد شرطی). 'Gdybym mógł' = اگر می‌توانستم. 'Spałbym' = می‌خوابیدم (شرطی مذکر)."
     },
     {
       "id": "a2-ch14-l04-ex02",
       "type": "fill_blank",
       "order": 2,
-      "prompt": "Na twoim miejscu ___ do lekarza. (If I were you, I (m) would go to the doctor.) [pójść, ja m conditional]",
+      "context": "Your friend looks unwell. You advise: If I were you, I (m) would go to the doctor:",
+      "context_fa": "دوستت حالش خوب نیست. توصیه می‌کنی: جای تو بودم، پیش دکتر می‌رفتم:",
+      "sentence": "Na twoim miejscu ___ do lekarza.",
+      "prompt": "Na twoim miejscu ___ do lekarza. (If I were you, I (m) would go to the doctor.)",
+      "prompt_fa": "Na twoim miejscu ___ do lekarza. (جای تو بودم، به دکتر می‌رفتم — م)",
       "answer": "poszedłbym",
-      "acceptableAnswers": [
-        "poszedłbym"
-      ],
-      "hint": "pójść → szedł (m l-form) + bym = poszedłbym"
+      "acceptableAnswers": ["poszedłbym"],
+      "hint": "pójść → szedł (m past form) + bym = poszedłbym (m conditional)",
+      "explanation": "'Na twoim miejscu poszedłbym do lekarza.' — If I were you, I'd go to the doctor. 'Pójść' m past: szedł → poszedłbym (conditional). 'Na twoim miejscu' = in your place.",
+      "explanation_fa": "'Na twoim miejscu poszedłbym do lekarza.' — جای تو بودم، پیش دکتر می‌رفتم. گذشته مذکر 'pójść': szedł → poszedłbym (شرطی). 'Na twoim miejscu' = جای تو."
     },
     {
       "id": "a2-ch14-l04-ex03",
       "type": "multiple_choice",
       "order": 3,
-      "prompt": "Chciałabym, żeby ___ tu z nami. (I wish he were here with us.) [być, on — żeby + past form]",
+      "prompt": "Chciałabym, żeby ___ tu z nami. (I (f) wish he were here with us.) [być, on — żeby + past]",
+      "prompt_fa": "آرزو دارم ___ اینجا با ما بود. [być، on — żeby + گذشته]",
       "options": [
         "był",
         "jest",
@@ -55,13 +62,16 @@
         "byłby"
       ],
       "correctIndex": 0,
-      "explanation": "'Chciałabym, żeby + past form': żeby był. The 'żeby + past' pattern expresses a wish about present/future. 'Żeby był tu' = (for him) to be here."
+      "explanation": "'Chciałabym, żeby + past form': żeby był. The 'żeby + past' pattern expresses a wish about present/future. 'Żeby był tu' = (for him) to be here / I wish he were here.",
+      "explanation_fa": "'Chciałabym, żeby + شکل گذشته': żeby był. الگوی 'żeby + گذشته' آرزو درباره حال/آینده را بیان می‌کند. 'Żeby był tu' = کاش اینجا بود."
     },
     {
       "id": "a2-ch14-l04-ex04",
       "type": "dictation_mc",
       "order": 4,
       "audioAsset": "assets/audio/a2/ch14/a2-ch14-l04-ex04.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Szkoda, że nie mogłeś przyjść.",
         "Szkoda, że nie możesz przyjść.",
@@ -69,48 +79,98 @@
         "Szkoda, że nie przyszedłeś."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Szkoda, że nie mogłeś przyjść.' — It's a pity you couldn't come. 'Szkoda, że' + past tense of real event: 'mogłeś' (ty m, past of móc)."
+      "explanation": "You heard: 'Szkoda, że nie mogłeś przyjść.' — It's a pity you (m) couldn't come. 'Szkoda, że' + past: 'mogłeś' (ty m, past of móc = to be able). Expresses regret about past inability.",
+      "explanation_fa": "شنیدید: 'Szkoda, że nie mogłeś przyjść.' — حیف که نتوانستی بیایی (م). 'Szkoda, że' + گذشته: 'mogłeś' (ty م، گذشته از móc = توانستن). تأسف از عدم توانایی در گذشته."
     },
     {
       "id": "a2-ch14-l04-ex05",
       "type": "sentence_builder",
       "order": 5,
       "prompt": "Build: If I were you, I (f) wouldn't do that.",
-      "wordBank": [
-        "Na",
-        "twoim",
-        "miejscu",
-        "nie",
-        "robiłabym",
-        "robiłbym",
-        "tego",
-        "to",
-        "temu"
+      "prompt_fa": "بسازید: جای تو بودم، این کار را نمی‌کردم (ف).",
+      "wordBank": ["Na", "twoim", "miejscu", "nie", "robiłabym", "robiłbym", "tego", "to", "temu"],
+      "correctSequences": [["Na", "twoim", "miejscu", "nie", "robiłabym", "tego"]],
+      "explanation": "'Na twoim miejscu nie robiłabym tego.' — If I were you, I (f) wouldn't do that. 'Robiłabym' = f conditional of robić. 'Tego' = genitive after negation (nie + gen).",
+      "explanation_fa": "'Na twoim miejscu nie robiłabym tego.' — جای تو بودم، این کار را نمی‌کردم (ف). 'Robiłabym' = شرطی مؤنث از robić. 'Tego' = مضاف‌الیه بعد از نفی."
+    },
+    {
+      "id": "a2-ch14-l04-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "What does 'Żałuję, że...' express?",
+      "prompt_fa": "'Żałuję, że...' چه احساسی را بیان می‌کند؟",
+      "options": [
+        "Regret about something real that happened (or didn't happen)",
+        "A future wish about something possible",
+        "A hypothetical condition about the present",
+        "A preference between two options"
       ],
-      "correctSequences": [
-        [
-          "Na",
-          "twoim",
-          "miejscu",
-          "nie",
-          "robiłabym",
-          "tego"
-        ]
+      "correctIndex": 0,
+      "explanation": "'Żałuję, że...' = I'm sorry that / I regret that. Used for real past events: 'Żałuję, że nie przyszedłeś' = I'm sorry you didn't come. Different from 'Chciałbym, żeby...' which expresses a wish.",
+      "explanation_fa": "'Żałuję, że...' = متأسفم که / پشیمانم از. برای رویدادهای واقعی گذشته استفاده می‌شود: 'Żałuję, że nie przyszedłeś' = متأسفم که نیامدی. با 'Chciałbym, żeby...' که آرزو را بیان می‌کند فرق دارد."
+    },
+    {
+      "id": "a2-ch14-l04-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "A female speaker expresses a wish about the weather:",
+      "context_fa": "یک گوینده زن آرزو می‌کند درباره هوا:",
+      "sentence": "Chciałabym, żeby pogoda ___ lepsza.",
+      "prompt": "Chciałabym, żeby pogoda ___ lepsza. (I (f) wish the weather were better.)",
+      "prompt_fa": "Chciałabym, żeby pogoda ___ lepsza. (کاش هوا بهتر بود — ف)",
+      "answer": "była",
+      "acceptableAnswers": ["była"],
+      "hint": "żeby + past form: być → była (f, 3rd person past of być)",
+      "explanation": "'Chciałabym, żeby pogoda była lepsza.' — I (f) wish the weather were better. 'Żeby + past': być → była (f singular). 'Lepsza' = comparative of dobry, f form.",
+      "explanation_fa": "'Chciałabym, żeby pogoda była lepsza.' — کاش هوا بهتر بود (ف). 'żeby + گذشته': być → była (مؤنث مفرد). 'Lepsza' = مقایسه‌ای از dobry، شکل مؤنث."
+    },
+    {
+      "id": "a2-ch14-l04-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "Gdybym wiedział o tym wcześniej, ___ ci pomógł. (If I'd known about this earlier, I (m) would have helped you.)",
+      "prompt_fa": "Gdybym wiedział o tym wcześniej, ___ ci pomógł. (اگر زودتر می‌دانستم، کمکت می‌کردم — م)",
+      "options": [
+        "byłbym",
+        "jestem",
+        "będę",
+        "byłem"
       ],
-      "explanation": "'Na twoim miejscu nie robiłabym tego.' — If I were you, I (f) wouldn't do that. 'Na twoim miejscu' = in your place. 'Robiłabym' = f conditional. 'Tego' = genitive after negation (nie robić + gen)."
+      "correctIndex": 0,
+      "explanation": "Past counterfactual: 'byłbym pomógł' = I would have helped (past conditional: byłbym + past participle). 'Gdybym wiedział' = if I had known (past). This is a completed past hypothetical.",
+      "explanation_fa": "فرضی گذشته: 'byłbym pomógł' = کمک می‌کردم (شرطی گذشته: byłbym + شاهد گذشته). 'Gdybym wiedział' = اگر می‌دانستم (گذشته). این یک فرضی گذشته تکمیل‌شده است."
+    },
+    {
+      "id": "a2-ch14-l04-ex09",
+      "type": "dictation_mc",
+      "order": 9,
+      "audioAsset": "assets/audio/a2/ch14/a2-ch14-l04-ex09.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Na twoim miejscu zadzwoniłbym do nich.",
+        "Na twoim miejscu zadzwoń do nich.",
+        "Na twoim miejscu zadzwonię do nich.",
+        "Na twoim miejscu dzwoniłbym do nich."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Na twoim miejscu zadzwoniłbym do nich.' — If I were you, I (m) would call them. 'Na twoim miejscu' + conditional perfective: 'zadzwoniłbym' (zadzwonić, ja m conditional).",
+      "explanation_fa": "شنیدید: 'Na twoim miejscu zadzwoniłbym do nich.' — جای تو بودم، به آن‌ها زنگ می‌زدم (م). 'Na twoim miejscu' + شرطی کامل: 'zadzwoniłbym' (zadzwonić، ja م شرطی)."
+    },
+    {
+      "id": "a2-ch14-l04-ex10",
+      "type": "sentence_builder",
+      "order": 10,
+      "prompt": "Build: It's a pity she couldn't stay longer.",
+      "prompt_fa": "بسازید: حیف که نتوانست بیشتر بماند.",
+      "wordBank": ["Szkoda", "że", "nie", "mogła", "mógł", "zostać", "zostać", "dłużej", "długo"],
+      "correctSequences": [["Szkoda", "że", "nie", "mogła", "zostać", "dłużej"]],
+      "explanation": "'Szkoda, że nie mogła zostać dłużej.' — It's a pity she couldn't stay longer. 'Szkoda, że' = it's a pity that. 'Mogła' = she was able to (ona, past of móc). 'Zostać' = to stay. 'Dłużej' = longer (comparative of długo).",
+      "explanation_fa": "'Szkoda, że nie mogła zostać dłużej.' — حیف که نتوانست بیشتر بماند. 'Szkoda, że' = حیف که. 'Mogła' = توانست (ona، گذشته از móc). 'Zostać' = ماندن. 'Dłużej' = بیشتر (مقایسه‌ای از długo)."
     }
   ],
   "xpReward": 25,
   "estimatedMinutes": 12,
-  "tags": [
-    "conditional",
-    "gdyby",
-    "wishes",
-    "a2-core"
-  ],
-  "prerequisites": [
-    "a2-ch14-l01",
-    "a2-ch14-l02",
-    "a2-ch14-l03"
-  ]
+  "tags": ["conditional", "gdyby", "wishes", "a2-core"],
+  "prerequisites": ["a2-ch14-l01", "a2-ch14-l02", "a2-ch14-l03"]
 }

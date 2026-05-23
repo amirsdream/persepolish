@@ -6,7 +6,7 @@
   "title": "Aspect Review — Perfective vs Imperfective",
   "title_fa": "مرور وجه — کامل در برابر ناکامل",
   "grammarPoint": "Comprehensive review of verbal aspect choice in past, future, and conditional: context signals, sequential events, and common aspect pair errors",
-  "grammarPoint_fa": "مرور جامع وجه: قواعد انتخاب و کاربرد در بافت‌های مختلف",
+  "grammarPoint_fa": "مرور جامع انتخاب وجه فعل در گذشته، آینده و وجه التزامی: نشانه‌های بافتی، رویدادهای متوالی و خطاهای رایج",
   "explanation": {
     "text": "Aspect is one of the most important (and most difficult) features of Polish grammar. This lesson reviews all the key rules.\n\n## The Core Distinction\n\n- **Imperfective (niedokonany)**: ongoing, repeated, habitual, process\n- **Perfective (dokonany)**: completed, one-time, result achieved, sequential\n\n## Context Signal Words (Review)\n\n**Use IMPERFECTIVE with:**\n\n| Signal | Meaning |\n|--------|--------|\n| **codziennie** | every day |\n| **zawsze / nigdy** | always / never |\n| **często / rzadko** | often / rarely |\n| **kiedy** (when = background) | when (I was doing X, Y happened) |\n| **przez + acc** | for (duration) |\n| **właśnie** (in progress) | just (doing) |\n\n**Use PERFECTIVE with:**\n\n| Signal | Meaning |\n|--------|--------|\n| **nagle** | suddenly |\n| **w końcu / wreszcie** | finally / at last |\n| **już** (completed) | already (done) |\n| **raz / dwa razy** | once / twice |\n| **zaraz / za chwilę** | immediately / in a moment |\n| **sequential: najpierw...potem** | first...then |\n\n## In Different Tenses\n\n**PAST TENSE:**\n- Codziennie **czytałem** gazetę. (imperf — habit)\n- Wczoraj **przeczytałem** całą gazetę. (perf — completed)\n- Kiedy **czytałem**, zadzwonił telefon. (imperf background / perf event)\n\n**FUTURE TENSE:**\n- Będę **czytać** / będę **czytał** gazetę. (imperf = ongoing activity)\n- **Przeczytam** gazetę przed śniadaniem. (perf = completed before another event)\n\n**CONDITIONAL:**\n- Chciałbym **czytać** tę książkę. (imperf = enjoy the activity)\n- Chciałbym **przeczytać** tę książkę. (perf = complete/finish reading it)\n\n## Common Mistakes\n\n❌ Codziennie **napisałem** list. → ✅ Codziennie **pisałem** list.\n❌ W końcu **pisałem** raport. → ✅ W końcu **napisałem** raport.\n❌ Nagle **rozmawiałem** z szefem. → ✅ Nagle **porozmawiałem** z szefem.",
     "notes": [
@@ -16,13 +16,14 @@
       "After nagle/w końcu/wreszcie → almost always perfective: 'Nagle zrozumiałem.' 'Wreszcie napisałam list.'"
     ]
   },
-  "explanation_fa": "مرور قواعد وجه: ناکامل برای: فرآیند (był gotowany)، تکرار (jadał codziennie)، حال (czytam)، آینده تکراری (będę czytać). کامل برای: نتیجه (ugotował)، یک بار (przeczytał)، آینده کامل (przeczytam). در گفتگوی روزمره وجه اغلب از روی بافت تشخیص داده می‌شود.",
+  "explanation_fa": "**مرور جامع وجه فعل در لهستانی**\n\nوجه فعل یکی از مهم‌ترین و دشوارترین ویژگی‌های دستور زبان لهستانی است. دو نوع وجه وجود دارد:\n\n**وجه ناکامل (niedokonany):** فرآیند، تکرار، عادت، پس‌زمینه\n**وجه کامل (dokonany):** تکمیل‌شده، یک‌بار، نتیجه حاصل‌شده، توالی رویدادها\n\n**نشانه‌های بافتی — با وجه ناکامل:**\n\n| نشانه | معنا | مثال |\n|-------|------|------|\n| codziennie | هر روز | Codziennie czytałem gazetę. |\n| zawsze / nigdy | همیشه / هرگز | Zawsze pił kawę rano. |\n| często / rzadko | اغلب / به ندرت | Często rozmawiałem z nim. |\n| kiedy (پس‌زمینه) | وقتی (پس‌زمینه) | Kiedy czytałem, zadzwonił. |\n| przez + مفعول | برای (مدت) | Przez godzinę czekałem. |\n\n**نشانه‌های بافتی — با وجه کامل:**\n\n| نشانه | معنا | مثال |\n|-------|------|------|\n| nagle | ناگهان | Nagle zrozumiałem problem. |\n| w końcu / wreszcie | بالاخره | W końcu napisałem raport. |\n| już (تکمیل‌شده) | قبلاً / دیگر | Już przeczytałem tę książkę. |\n| raz / dwa razy | یک‌بار / دوبار | Raz przyszedł do mnie. |\n| najpierw...potem | اول...سپس | Najpierw zjadłem, potem wyszedłem. |\n\n**در زمان‌های مختلف:**\n- گذشته ناکامل (عادت): Codziennie **czytałem** gazetę.\n- گذشته کامل (تمام‌شده): Wczoraj **przeczytałem** całą gazetę.\n- پس‌زمینه + رویداد: Kiedy **czytałem**, **zadzwonił** telefon.\n- آینده ناکامل (فعالیت): Będę **czytać** gazetę.\n- آینده کامل (نتیجه): **Przeczytam** gazetę przed śniadaniem.\n\n**خطاهای رایج:**\n❌ Codziennie napisałem list. → ✅ Codziennie **pisałem** list.\n❌ W końcu pisałem raport. → ✅ W końcu **napisałem** raport.",
   "exercises": [
     {
       "id": "a2-ch20-l01-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Codziennie ___ kawę rano. (Every day I drink coffee in the morning.) [habit]",
+      "prompt": "Codziennie ___ kawę rano. (Every day I drank coffee in the morning.) [habit — past]",
+      "prompt_fa": "Codziennie ___ kawę rano. (هر روز صبح قهوه می‌خوردم.) [عادت — گذشته]",
       "options": [
         "piłem",
         "wypiłem",
@@ -30,13 +31,15 @@
         "wypiję"
       ],
       "correctIndex": 0,
-      "explanation": "Habit (codziennie) → imperfective past: 'piłem' (from pić, imperf). 'Wypiłem' = I drank (up) / finished drinking — perfective, implies single completed event. In present: 'piję' (habit), 'wypiję' (future perf)."
+      "explanation": "Habit (codziennie) → imperfective past: 'piłem' (from pić, imperf). 'Wypiłem' = I drank (up) / finished drinking — perfective, implies single completed event. In present: 'piję' (habit), 'wypiję' (future perf).",
+      "explanation_fa": "عادت (codziennie) → گذشته ناکامل: 'piłem' (از pić، ناکامل). 'Wypiłem' = نوشیدم (تمام‌شده) — کامل، یک رویداد تکمیل‌شده. در حال: 'piję' (عادت)، 'wypiję' (آینده کامل)."
     },
     {
       "id": "a2-ch20-l01-ex02",
       "type": "multiple_choice",
       "order": 2,
       "prompt": "W końcu ___ tę książkę! (I finally finished reading this book!) [completed result]",
+      "prompt_fa": "W końcu ___ tę książkę! (بالاخره این کتاب را خواندم!) [نتیجه تکمیل‌شده]",
       "options": [
         "przeczytałem",
         "czytałem",
@@ -44,13 +47,16 @@
         "będę czytać"
       ],
       "correctIndex": 0,
-      "explanation": "'W końcu' (finally) signals a completed result → perfective: 'przeczytałem' (from przeczytać, perf). 'Czytałem' = was reading (process/imperf). 'W końcu czytałem' would be ungrammatical in this context."
+      "explanation": "'W końcu' (finally) signals a completed result → perfective: 'przeczytałem' (from przeczytać, perf). 'Czytałem' = was reading (process/imperf). 'W końcu czytałem' would be ungrammatical in this context.",
+      "explanation_fa": "'W końcu' (بالاخره) نشانه نتیجه تکمیل‌شده → کامل: 'przeczytałem' (از przeczytać، کامل). 'Czytałem' = داشتم می‌خواندم (فرآیند/ناکامل). 'W końcu czytałem' در این بافت دستوری نیست."
     },
     {
       "id": "a2-ch20-l01-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch20/a2-ch20-l01-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Kiedy gotowałam obiad, zadzwonił telefon.",
         "Kiedy ugotowałam obiad, zadzwonił telefon.",
@@ -58,13 +64,15 @@
         "Gdy ugotowałam obiad, zadzwonił telefon."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Kiedy gotowałam obiad, zadzwonił telefon.' — When I was cooking dinner, the phone rang. 'Gotowałam' = imperfective background action. 'Zadzwonił' = perfective event interrupting. Classic kiedy + imperf / perf pattern."
+      "explanation": "You heard: 'Kiedy gotowałam obiad, zadzwonił telefon.' — When I was cooking dinner, the phone rang. 'Gotowałam' = imperfective background action. 'Zadzwonił' = perfective event interrupting. Classic kiedy + imperf / perf pattern.",
+      "explanation_fa": "شنیدید: 'Kiedy gotowałam obiad, zadzwonił telefon.' — وقتی داشتم ناهار درست می‌کردم، تلفن زنگ زد. 'Gotowałam' = فعالیت پس‌زمینه ناکامل. 'Zadzwonił' = رویداد کامل که مداخله کرد. الگوی کلاسیک kiedy + ناکامل / کامل."
     },
     {
       "id": "a2-ch20-l01-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "Najpierw ___ list, a potem ___ go. (First I wrote the letter, then I sent it.) [sequential]",
+      "prompt_fa": "Najpierw ___ list, a potem ___ go. (اول نامه نوشتم، سپس فرستادم.) [توالی رویدادها]",
       "options": [
         "napisałem / wysłałem",
         "pisałem / wysyłałem",
@@ -72,57 +80,105 @@
         "pisałem / wysłałem"
       ],
       "correctIndex": 0,
-      "explanation": "Sequential completed events → both perfective: 'napisałem' (finished writing) then 'wysłałem' (sent = completed). Imperfective would suggest ongoing/habitual, not sequence of completed events."
+      "explanation": "Sequential completed events → both perfective: 'napisałem' (finished writing) then 'wysłałem' (sent = completed). Imperfective would suggest ongoing/habitual, not sequence of completed events.",
+      "explanation_fa": "رویدادهای متوالی تکمیل‌شده → هر دو کامل: 'napisałem' (نوشتن تمام شد) سپس 'wysłałem' (فرستادم = تکمیل). ناکامل نشانه فرآیند/عادت است، نه توالی رویدادهای تکمیل‌شده."
     },
     {
       "id": "a2-ch20-l01-ex05",
-      "type": "sentence_builder",
+      "type": "fill_blank",
       "order": 5,
+      "context": "Your friend asks if you've read the book yet — you just finished it:",
+      "context_fa": "دوستت می‌پرسد آیا کتاب را خوانده‌ای — تازه تمام کرده‌ای:",
+      "sentence": "Tak, już ___ tę książkę wczoraj wieczorem.",
+      "prompt": "Tak, już ___ tę książkę wczoraj wieczorem. (Yes, I already read this book yesterday evening.) [przeczytać — perf]",
+      "prompt_fa": "Tak, już ___ tę książkę wczoraj wieczorem. (بله، این کتاب را دیشب خوانده‌ام.) [przeczytać — کامل]",
+      "answer": "przeczytałem",
+      "acceptableAnswers": ["przeczytałem", "przeczytałam"],
+      "hint": "'Już' (already, completed) + 'wczoraj' → perfective past of przeczytać",
+      "explanation": "'Już przeczytałem' = I already read (completed, result). 'Już' with a completed action always takes perfective. 'Przeczytałem' (m) / 'przeczytałam' (f) = perfective past of przeczytać.",
+      "explanation_fa": "'Już przeczytałem' = قبلاً خوانده‌ام (تمام‌شده، نتیجه). 'Już' با فعالیت تکمیل‌شده همیشه کامل می‌گیرد. 'Przeczytałem' (مذکر) / 'przeczytałam' (مؤنث) = گذشته کامل przeczytać."
+    },
+    {
+      "id": "a2-ch20-l01-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "Przez godzinę ___ na autobus. (For an hour I waited for the bus.) [duration]",
+      "prompt_fa": "Przez godzinę ___ na autobus. (یک ساعت منتظر اتوبوس ماندم.) [مدت زمان]",
+      "options": [
+        "czekałem",
+        "poczekałem",
+        "zaczekałem",
+        "będę czekać"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Przez + accusative' (for a duration) → imperfective: 'czekałem' (was waiting, ongoing process). 'Poczekałem / zaczekałem' = waited (briefly/completed) — perfective, doesn't pair naturally with 'przez godzinę'.",
+      "explanation_fa": "'Przez + مفعول' (برای مدتی) → ناکامل: 'czekałem' (داشتم منتظر می‌ماندم، فرآیند مستمر). 'Poczekałem / zaczekałem' = منتظر ماندم (کوتاه/تکمیل) — کامل، با 'przez godzinę' ترکیب طبیعی ندارد."
+    },
+    {
+      "id": "a2-ch20-l01-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "You made a plan for tomorrow morning — sequential actions:",
+      "context_fa": "برنامه‌ای برای فردا صبح ریختید — اقدامات متوالی:",
+      "sentence": "Najpierw ___ śniadanie, a potem ___ do pracy.",
+      "prompt": "Najpierw ___ śniadanie, a potem ___ do pracy. (First I'll eat breakfast, then I'll go to work.) [sequential future perf]",
+      "prompt_fa": "Najpierw ___ śniadanie, a potem ___ do pracy. (اول صبحانه می‌خورم، سپس می‌روم سر کار.) [آینده کامل — توالی]",
+      "answer": "zjem / pójdę",
+      "acceptableAnswers": ["zjem / pójdę", "zjem, pójdę"],
+      "hint": "Sequential future events → perfective: zjeść (perf of jeść) → zjem; pójść (perf of iść) → pójdę",
+      "explanation": "'Najpierw zjem śniadanie, a potem pójdę do pracy.' — sequential completed events in future. 'Zjeść' (perf, to eat up) → zjem. 'Pójść' (perf, to go once) → pójdę. Both perfective = clear sequence.",
+      "explanation_fa": "'Najpierw zjem śniadanie, a potem pójdę do pracy.' — رویدادهای متوالی تکمیل‌شده در آینده. 'Zjeść' (کامل، خوردن تا تمام) → zjem. 'Pójść' (کامل، رفتن یک‌بار) → pójdę. هر دو کامل = توالی واضح."
+    },
+    {
+      "id": "a2-ch20-l01-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "What aspect error is in: 'Nagle rozmawiałem z szefem'?",
+      "prompt_fa": "خطای وجه در این جمله چیست: «Nagle rozmawiałem z szefem»؟",
+      "options": [
+        "'Nagle' (suddenly) requires perfective: 'Nagle porozmawiałem z szefem'",
+        "The tense is wrong — should be present tense",
+        "'Nagle' should be replaced with 'codziennie'",
+        "There is no error — the sentence is correct"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nagle' (suddenly) signals a sudden, one-time event → perfective required. 'Rozmawiałem' = was talking (imperfective, ongoing). Correct: 'Nagle porozmawiałem z szefem' = Suddenly I (briefly) talked to my boss.",
+      "explanation_fa": "'Nagle' (ناگهان) نشانه یک رویداد ناگهانی یک‌بار است → کامل لازم است. 'Rozmawiałem' = داشتم صحبت می‌کردم (ناکامل، مستمر). درست: 'Nagle porozmawiałem z szefem' = ناگهان با رئیسم صحبت کردم."
+    },
+    {
+      "id": "a2-ch20-l01-ex09",
+      "type": "dictation_mc",
+      "order": 9,
+      "audioAsset": "assets/audio/a2/ch20/a2-ch20-l01-ex09.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Chciałbym przeczytać tę książkę przed wyjazdem.",
+        "Chciałbym czytać tę książkę przed wyjazdem.",
+        "Chciałabym przeczytać tę książkę przed wyjazdem.",
+        "Chciałbym przeczytać tę książkę po wyjeździe."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Chciałbym przeczytać tę książkę przed wyjazdem.' — I would like to finish reading this book before leaving. 'Przeczytać' (perf) = to finish reading. 'Przed wyjazdem' = before the departure (przed + instr). Male speaker form: chciałbym.",
+      "explanation_fa": "شنیدید: 'Chciałbym przeczytać tę książkę przed wyjazdem.' — می‌خواستم این کتاب را قبل از سفر تمام بخوانم. 'Przeczytać' (کامل) = خواندن تا انتها. 'Przed wyjazdem' = قبل از سفر (przed + ابزاری). فرم مذکر: chciałbym."
+    },
+    {
+      "id": "a2-ch20-l01-ex10",
+      "type": "sentence_builder",
+      "order": 10,
       "prompt": "Build: I would like to finish this report today. (perfective — complete/finish)",
-      "wordBank": [
-        "Chciałbym",
-        "Chciałabym",
-        "skończyć",
-        "kończyć",
-        "ten",
-        "tego",
-        "raport",
-        "raportu",
-        "dzisiaj",
-        "."
-      ],
+      "prompt_fa": "بسازید: می‌خواهم این گزارش را امروز تمام کنم. (کامل — به پایان رسانیدن)",
+      "wordBank": ["Chciałbym", "Chciałabym", "skończyć", "kończyć", "ten", "tego", "raport", "raportu", "dzisiaj", "."],
       "correctSequences": [
-        [
-          "Chciałbym",
-          "skończyć",
-          "ten",
-          "raport",
-          "dzisiaj",
-          "."
-        ],
-        [
-          "Chciałabym",
-          "skończyć",
-          "ten",
-          "raport",
-          "dzisiaj",
-          "."
-        ]
+        ["Chciałbym", "skończyć", "ten", "raport", "dzisiaj", "."],
+        ["Chciałabym", "skończyć", "ten", "raport", "dzisiaj", "."]
       ],
-      "explanation": "'Chciałbym/Chciałabym skończyć ten raport dzisiaj.' — I would like to finish this report today. 'Skończyć' (perf) = to complete/finish. 'Kończyć' (imperf) would mean wanting to be in the process of finishing, less natural here."
+      "explanation": "'Chciałbym/Chciałabym skończyć ten raport dzisiaj.' — I would like to finish this report today. 'Skończyć' (perf) = to complete/finish. 'Kończyć' (imperf) would mean wanting to be in the process of finishing, less natural here.",
+      "explanation_fa": "'Chciałbym/Chciałabym skończyć ten raport dzisiaj.' — می‌خواهم این گزارش را امروز تمام کنم. 'Skończyć' (کامل) = تمام کردن/به پایان رسانیدن. 'Kończyć' (ناکامل) یعنی در فرآیند تمام کردن بودن، که اینجا طبیعی نیست."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": [
-    "aspect",
-    "review",
-    "a2-core"
-  ],
-  "prerequisites": [
-    "a2-ch12-l01",
-    "a2-ch12-l02",
-    "a2-ch12-l03",
-    "a2-ch12-l04"
-  ]
+  "tags": ["aspect", "review", "a2-core"],
+  "prerequisites": ["a2-ch12-l01", "a2-ch12-l02", "a2-ch12-l03", "a2-ch12-l04"]
 }

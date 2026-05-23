@@ -5,10 +5,10 @@
   "lessonOrder": 2,
   "title": "Verbal Nouns with -cie",
   "title_fa": "اسم مصدر با -cie",
-  "grammarPoint": "Verbal nouns formed with -cie suffix: życie, wyjście, przyjście, spotkanie, myślenie — when -cie appears and key vocabulary",
-  "grammarPoint_fa": "اسم مصدر با -cie: znalezienie، przyjście، powiedzenie",
+  "grammarPoint": "Verbal nouns formed with -cie suffix: życie, wyjście, przyjście, wzięcie, znalezienie, otwarcie, zrozumienie",
+  "grammarPoint_fa": "اسم مصدر با پسوند -cie: życie، wyjście، przyjście، wzięcie، zrozumienie — از افعال کامل و ریشه‌های خاص",
   "explanation": {
-    "text": "A smaller group of Polish verbal nouns ends in **-cie** rather than -nie. These come from verbs whose stem ends in certain consonants or from perfective verbs with prefix + -jść / -jechać roots.\n\n**Common -cie verbal nouns:**\n\n| Verb | Verbal Noun | Meaning |\n|------|------------|--------|\n| żyć | życie | life / living |\n| wyjść | wyjście | exit / leaving |\n| przyjść | przyjście | arrival / coming |\n| wziąć | wzięcie | taking |\n| znaleźć | znalezienie | finding |\n| otworzyć | otwarcie | opening |\n| zamknąć | zamknięcie | closing / closure |\n| skończyć | skończenie | finishing |\n| zacząć | zaczęcie | beginning |\n| zrozumieć | zrozumienie | understanding |\n\n**Note**: Many of these are from **perfective** verbs — they name the completed event rather than the ongoing activity.\n\n**Life vocabulary built on 'życie':**\n- życie codzienne = everyday life\n- styl życia = lifestyle\n- jakość życia = quality of life\n- sposób na życie = way of life\n\n**Directional -cie nouns:**\n- wyjście = exit (also: way out of a situation)\n- wejście = entrance\n- przyjście = arrival (by foot)\n- przyjazd = arrival (by vehicle)\n- wyjazd = departure (by vehicle)\n\n**Usage:**\n- Zrozumienie gramatyki wymaga czasu. (Understanding grammar takes time.)\n- Wyjście jest po lewej. (The exit is on the left.)\n- Życie w Polsce jest interesujące. (Life in Poland is interesting.)\n- To jest poza moim zasięgiem / poza moim zrozumieniem. (It's beyond my understanding.)",
+    "text": "A smaller group of Polish verbal nouns ends in **-cie** rather than -nie. These come from verbs whose stem ends in certain consonants or from perfective verbs with prefix + -jść / -jechać roots.\n\n**Common -cie verbal nouns:**\n\n| Verb | Verbal Noun | Meaning |\n|------|------------|--------|\n| żyć | życie | life / living |\n| wyjść | wyjście | exit / leaving |\n| przyjść | przyjście | arrival / coming |\n| wziąć | wzięcie | taking |\n| znaleźć | znalezienie | finding |\n| otworzyć | otwarcie | opening |\n| zamknąć | zamknięcie | closing / closure |\n| skończyć | skończenie | finishing |\n| zacząć | zaczęcie | beginning |\n| zrozumieć | zrozumienie | understanding |\n\n**Life vocabulary built on 'życie':**\n- życie codzienne = everyday life\n- styl życia = lifestyle\n- jakość życia = quality of life\n- sposób na życie = way of life\n\n**Directional -cie nouns:**\n- wyjście = exit (also: way out of a situation)\n- wejście = entrance\n- przyjście = arrival (by foot)\n- przyjazd = arrival (by vehicle)\n- wyjazd = departure (by vehicle)\n\n**Usage:**\n- Zrozumienie gramatyki wymaga czasu. (Understanding grammar takes time.)\n- Wyjście jest po lewej. (The exit is on the left.)\n- Życie w Polsce jest interesujące. (Life in Poland is interesting.)\n- Dziękuję za zrozumienie. (Thank you for your understanding.)",
     "notes": [
       "Life = życie (n). Decline it: gen. życia, dat. życiu, instr. życiem, loc. życiu.",
       "Wyjście = exit (physical door) AND the verbal noun 'leaving'. Context tells you which.",
@@ -16,27 +16,30 @@
       "Zrozumienie (understanding) is very useful: 'Dziękuję za zrozumienie' = Thank you for your understanding."
     ]
   },
-  "explanation_fa": "برخی اسم مصدرها به -cie ختم می‌شوند، معمولاً از افعال با بن‌های خاص: znaleźć → znalezienie (پیدا کردن)، przyjść → przyjście (آمدن)، powiedzieć → powiedzenie (گفتن). این ساختار در جملات رسمی بیشتر دیده می‌شود: Po przyjściu do domu... (بعد از رسیدن به خانه...).",
+  "explanation_fa": "**اسم مصدر با پسوند -cie:**\n\nگروهی از اسم مصدرهای لهستانی به **-cie** ختم می‌شوند (نه -nie). اینها معمولاً از افعال کامل یا از افعالی با ریشه خاص می‌آیند.\n\n**جدول رایج‌ترین اسم مصدرهای -cie:**\n\n| فعل | اسم مصدر | معنا |\n|-----|----------|------|\n| żyć | życie | زندگی |\n| wyjść | wyjście | خروج / رفتن |\n| przyjść | przyjście | ورود / آمدن |\n| wziąć | wzięcie | گرفتن |\n| znaleźć | znalezienie | پیدا کردن |\n| otworzyć | otwarcie | باز کردن |\n| zamknąć | zamknięcie | بستن / تعطیلی |\n| zrozumieć | zrozumienie | فهمیدن / درک |\n\n**واژگان مرتبط با 'życie' (زندگی):**\n- życie codzienne = زندگی روزمره\n- styl życia = سبک زندگی\n- jakość życia = کیفیت زندگی\n\n**اسم‌های جهت‌دار با -cie:**\n- wyjście = خروجی (درب) / رفتن\n- wejście = ورودی / آمدن\n- przyjście = رسیدن (پیاده)\n- wyjazd = رفتن (با وسیله)\n\n**مثال در جمله:**\n- *Zrozumienie gramatyki wymaga czasu.* = درک دستور زبان وقت می‌برد.\n- *Dziękuję za zrozumienie.* = ممنون از درک شما.",
   "exercises": [
     {
       "id": "a2-ch18-l02-ex01",
       "type": "multiple_choice",
       "order": 1,
-      "prompt": "Verbal noun from 'żyć' (to live). ___ w Polsce jest interesujące.",
+      "prompt": "Verbal noun from 'żyć' (to live): '___ w Polsce jest interesujące.'",
+      "prompt_fa": "اسم مصدر از 'żyć' (زندگی کردن): '___ w Polsce jest interesujące.'",
       "options": [
         "Życie",
-        "Życie",
+        "Żyjąc",
         "Żyć",
-        "Żyjąc"
+        "Żyje"
       ],
       "correctIndex": 0,
-      "explanation": "żyć → życie (life/living). This is an irregular verbal noun — the ż softens before the suffix: żyć → życie. 'Życie w Polsce jest interesujące' = Life in Poland is interesting."
+      "explanation": "żyć → życie (n) = life/living. 'Życie w Polsce jest interesujące' = Life in Poland is interesting. This is an irregular -cie verbal noun from żyć.",
+      "explanation_fa": "żyć → życie (خنثی) = زندگی. 'Życie w Polsce jest interesujące' = زندگی در لهستان جالب است. این اسم مصدر نامنظم -cie از żyć است."
     },
     {
       "id": "a2-ch18-l02-ex02",
       "type": "multiple_choice",
       "order": 2,
       "prompt": "Which word means 'exit' (the door you leave through)?",
+      "prompt_fa": "کدام کلمه به معنای 'خروجی' (دری که از آن خارج می‌شوید) است؟",
       "options": [
         "wyjście",
         "wejście",
@@ -44,13 +47,16 @@
         "wyjazd"
       ],
       "correctIndex": 0,
-      "explanation": "'Wyjście' = exit (way out — on foot). 'Wejście' = entrance. Note the wy-/we- prefix direction: wy- = out, we-/w- = in. 'Wyjazd' = departure by vehicle."
+      "explanation": "'Wyjście' = exit/way out (on foot). 'Wejście' = entrance. The wy-/we- prefix shows direction: wy- = out, w-/we- = in. 'Wyjazd' = departure by vehicle.",
+      "explanation_fa": "'Wyjście' = خروجی/راه خروج (پیاده). 'Wejście' = ورودی. پیشوند wy-/we- جهت را نشان می‌دهد: wy- = بیرون، w-/we- = داخل. 'Wyjazd' = رفتن با وسیله."
     },
     {
       "id": "a2-ch18-l02-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch18/a2-ch18-l02-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Zrozumienie gramatyki wymaga czasu.",
         "Zrozumiałam gramatykę przez czas.",
@@ -58,59 +64,113 @@
         "Rozumiem gramatykę z czasem."
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Zrozumienie gramatyki wymaga czasu.' — Understanding grammar takes time. 'Zrozumienie' = verbal noun from zrozumieć (perf). 'Gramatyki' = genitive (object of verbal noun). 'Wymaga + genitive' = requires."
+      "explanation": "You heard: 'Zrozumienie gramatyki wymaga czasu.' — Understanding grammar takes time. 'Zrozumienie' = verbal noun from zrozumieć (perf). 'Gramatyki' = genitive (object of verbal noun). 'Wymaga + gen' = requires.",
+      "explanation_fa": "شنیدید: 'Zrozumienie gramatyki wymaga czasu.' — درک دستور زبان وقت می‌برد. 'Zrozumienie' = اسم مصدر از zrozumieć (کامل). 'Gramatyki' = مضاف‌الیه (مفعول اسم مصدر). 'Wymaga + gen' = نیاز دارد."
     },
     {
       "id": "a2-ch18-l02-ex04",
       "type": "fill_blank",
       "order": 4,
-      "prompt": "Dziękuję za ___. (Thank you for your understanding.) [zrozumienie]",
+      "context": "Politely thanking someone for understanding your situation:",
+      "context_fa": "مؤدبانه از کسی برای درک موقعیت‌تان تشکر می‌کنید:",
+      "sentence": "Dziękuję za ___.",
+      "prompt": "Dziękuję za ___. (Thank you for your understanding.)",
+      "prompt_fa": "Dziękuję za ___. (ممنون از درک شما.)",
       "answer": "zrozumienie",
-      "acceptableAnswers": [
-        "zrozumienie"
-      ],
-      "hint": "zrozumieć (perf) → zrozumienie. 'Za + accusative': zrozumienie (acc = nom for neuter)."
+      "acceptableAnswers": ["zrozumienie"],
+      "hint": "zrozumieć (perf) → zrozumienie. 'Za + accusative': zrozumienie (acc = nom for neuter).",
+      "explanation": "'Dziękuję za zrozumienie.' — Thank you for your understanding. A very common polite phrase. 'Za + accusative': neuter nouns like 'zrozumienie' don't change in accusative.",
+      "explanation_fa": "'Dziękuję za zrozumienie.' — ممنون از درک شما. یک عبارت مؤدبانه خیلی رایج. 'Za + مفعول': اسم‌های خنثی مثل 'zrozumienie' در مفعول تغییر نمی‌کنند."
     },
     {
       "id": "a2-ch18-l02-ex05",
       "type": "sentence_builder",
       "order": 5,
-      "prompt": "Build: Quality of life in the city is high. (jakość życia)",
-      "wordBank": [
-        "Jakość",
-        "życia",
-        "życie",
-        "w",
-        "mieście",
-        "miasta",
-        "jest",
-        "wysoka",
-        "wysoki",
-        "wysokie",
-        "."
+      "prompt": "Build: Quality of life in the city is high.",
+      "prompt_fa": "بسازید: کیفیت زندگی در شهر بالاست.",
+      "wordBank": ["Jakość", "życia", "życie", "w", "mieście", "miasta", "jest", "wysoka", "wysokie", "."],
+      "correctSequences": [["Jakość", "życia", "w", "mieście", "jest", "wysoka", "."]],
+      "explanation": "'Jakość życia w mieście jest wysoka.' — Quality of life in the city is high. 'Jakość' (f) = quality → 'wysoka' (f adj). 'Życia' = genitive of życie. 'W mieście' = locative.",
+      "explanation_fa": "'Jakość życia w mieście jest wysoka.' — کیفیت زندگی در شهر بالاست. 'Jakość' (مؤنث) = کیفیت → 'wysoka' (صفت مؤنث). 'Życia' = مضاف‌الیه از życie. 'W mieście' = مکانی."
+    },
+    {
+      "id": "a2-ch18-l02-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "From 'otworzyć' (to open), what is the verbal noun (the act of opening)?",
+      "prompt_fa": "از 'otworzyć' (باز کردن)، اسم مصدر (عمل باز کردن) کدام است؟",
+      "options": [
+        "otwarcie",
+        "otworzenie",
+        "otwarcie się",
+        "otwieranie"
       ],
-      "correctSequences": [
-        [
-          "Jakość",
-          "życia",
-          "w",
-          "mieście",
-          "jest",
-          "wysoka",
-          "."
-        ]
+      "correctIndex": 0,
+      "explanation": "'Otworzyć' (perf) → 'otwarcie' (n) = opening/inauguration. 'Otwieranie' = from imperfective 'otwierać' (ongoing opening process). 'Otwarcie' is the completed event noun (used for grand openings, store openings, etc.)",
+      "explanation_fa": "'Otworzyć' (کامل) → 'otwarcie' (خنثی) = افتتاح/باز شدن. 'Otwieranie' = از ناکامل 'otwierać' (فرآیند باز کردن مداوم). 'Otwarcie' برای افتتاحیه، باز شدن فروشگاه و غیره استفاده می‌شود."
+    },
+    {
+      "id": "a2-ch18-l02-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "At the conference hall: The opening of the exhibition is at 6pm:",
+      "context_fa": "در سالن کنفرانس: افتتاح نمایشگاه ساعت ۶ بعدازظهر است:",
+      "sentence": "___ wystawy jest o osiemnastej.",
+      "prompt": "___ wystawy jest o osiemnastej. (The opening of the exhibition is at 6pm.)",
+      "prompt_fa": "___ wystawy jest o osiemnastej. (افتتاح نمایشگاه ساعت ۶ بعدازظهر است.)",
+      "answer": "Otwarcie",
+      "acceptableAnswers": ["Otwarcie"],
+      "hint": "otworzyć → otwarcie (n) = opening/inauguration",
+      "explanation": "'Otwarcie wystawy jest o osiemnastej.' — The opening of the exhibition is at 6pm. 'Otwarcie' = verbal noun from otworzyć (opening). 'Wystawy' = genitive (of the exhibition).",
+      "explanation_fa": "'Otwarcie wystawy jest o osiemnastej.' — افتتاح نمایشگاه ساعت ۶ بعدازظهر است. 'Otwarcie' = اسم مصدر از otworzyć (باز کردن/افتتاح). 'Wystawy' = مضاف‌الیه (نمایشگاه)."
+    },
+    {
+      "id": "a2-ch18-l02-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "What is the difference between 'wyjście' and 'wyjazd'?",
+      "prompt_fa": "تفاوت بین 'wyjście' و 'wyjazd' چیست؟",
+      "options": [
+        "wyjście = leaving on foot; wyjazd = departure by vehicle",
+        "wyjście = going in; wyjazd = going out",
+        "wyjście = future departure; wyjazd = past departure",
+        "They mean exactly the same thing"
       ],
-      "explanation": "'Jakość życia w mieście jest wysoka.' — Quality of life in the city is high. 'Jakość' (f) = quality → 'wysoka' (f adj). 'Życia' = genitive of życie. 'W mieście' = in the city (w + locative)."
+      "correctIndex": 0,
+      "explanation": "'Wyjście' = exit/leaving on foot (from wyjść — go out walking). 'Wyjazd' = departure by vehicle (from wyjechać — go out by transport). Also: wyjście = physical exit door in a building.",
+      "explanation_fa": "'Wyjście' = خروج پیاده (از wyjść — پیاده رفتن). 'Wyjazd' = رفتن با وسیله (از wyjechać — رفتن با وسیله نقلیه). همچنین: wyjście = درب خروج فیزیکی در ساختمان."
+    },
+    {
+      "id": "a2-ch18-l02-ex09",
+      "type": "dictation_mc",
+      "order": 9,
+      "audioAsset": "assets/audio/a2/ch18/a2-ch18-l02-ex09.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Zamknięcie sklepu nastąpi o dziewiętnastej.",
+        "Sklep jest zamknięty od dziewiętnastej.",
+        "Zamykamy sklep o dziewiętnastej.",
+        "Sklep zamknie się o dziewiętnastej."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Zamknięcie sklepu nastąpi o dziewiętnastej.' — The closing of the store will happen at 7pm. 'Zamknięcie' = verbal noun from zamknąć (closing). 'Nastąpi' = will happen (formal). 'O dziewiętnastej' = at 19:00.",
+      "explanation_fa": "شنیدید: 'Zamknięcie sklepu nastąpi o dziewiętnastej.' — بستن فروشگاه ساعت ۱۹ انجام می‌شود. 'Zamknięcie' = اسم مصدر از zamknąć (بستن). 'Nastąpi' = اتفاق خواهد افتاد (رسمی). 'O dziewiętnastej' = ساعت ۱۹."
+    },
+    {
+      "id": "a2-ch18-l02-ex10",
+      "type": "sentence_builder",
+      "order": 10,
+      "prompt": "Build: Everyday life in a big city is tiring.",
+      "prompt_fa": "بسازید: زندگی روزمره در شهر بزرگ خسته‌کننده است.",
+      "wordBank": ["Życie", "codzienne", "codzienny", "w", "dużym", "dużego", "mieście", "miastem", "jest", "męczące", "męczący"],
+      "correctSequences": [["Życie", "codzienne", "w", "dużym", "mieście", "jest", "męczące"]],
+      "explanation": "'Życie codzienne w dużym mieście jest męczące.' — Everyday life in a big city is tiring. 'Życie' (n) → 'codzienne' (n adj). 'W dużym mieście' = locative (w + dative-looking form). 'Męczące' = tiring (n adj).",
+      "explanation_fa": "'Życie codzienne w dużym mieście jest męczące.' — زندگی روزمره در شهر بزرگ خسته‌کننده است. 'Życie' (خنثی) → 'codzienne' (صفت خنثی). 'W dużym mieście' = مکانی. 'Męczące' = خسته‌کننده (صفت خنثی)."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": [
-    "verbal-nouns",
-    "word-formation",
-    "a2-core"
-  ],
-  "prerequisites": [
-    "a2-ch18-l01"
-  ]
+  "tags": ["verbal-nouns", "word-formation", "a2-core"],
+  "prerequisites": ["a2-ch18-l01"]
 }

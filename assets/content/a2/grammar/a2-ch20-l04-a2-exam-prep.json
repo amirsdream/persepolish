@@ -6,7 +6,7 @@
   "title": "A2 Exam Preparation",
   "title_fa": "آمادگی برای آزمون A2",
   "grammarPoint": "PKE-style A2 exam strategies: question types (grammar, reading comprehension, dictation), time management, and mixed practice exercises",
-  "grammarPoint_fa": "مرور مهارت‌های چهارگانه برای آزمون A2: خواندن، نوشتن، گوش دادن، صحبت کردن",
+  "grammarPoint_fa": "استراتژی‌های آزمون PKE سطح A2: انواع سؤالات (دستور، درک مطلب، دیکته)، مدیریت زمان، و تمرینات ترکیبی",
   "explanation": {
     "text": "The Polish State Language Exam (Państwowe Egzaminy Certyfikatowe z Języka Polskiego — PKE) at A2 level tests four areas. Here is what to expect and how to prepare.\n\n## PKE A2 Exam Structure\n\n| Section | Weight | Types of Tasks |\n|---------|--------|---------------|\n| **Grammar** | 35% | Fill-in-blank, multiple choice, error correction |\n| **Reading** | 35% | True/false, short answer, multiple choice |\n| **Listening** | 20% | Dictation, multiple choice, note-taking |\n| **Writing** | 10% | Short texts (postcard, note, simple email) |\n\n**Pass threshold**: 50% overall, 40% in each section\n**Time**: 160 minutes total\n\n## Grammar Section Tips\n\n- Focus on: verb conjugation (all tenses), cases after prepositions, aspect choice\n- Common trap: wrong aspect (perf vs imperf) and gender agreement in past tense\n- Read the whole sentence before choosing — context determines aspect\n\n## Reading Section Tips\n\n- Skim for topic first, then read questions, then re-read for answers\n- Watch for synonyms — the text may paraphrase the question\n- For True/False: 'Nie wiadomo' (unknown) is sometimes an option — use it only if completely absent\n\n## Listening Section Tips\n\n- In dictation_mc: listen for stress patterns and case endings\n- Multiple choice: listen for the main verb and key nouns\n- Common trap: distractors that are grammatically correct but factually wrong\n\n## Writing Section Tips\n\n- Postcard (kartka pocztowa): informal register, short, 50–80 words\n- Note (notatka): clear, direct, informal\n- Simple email: semi-formal, use Cześć/Pozdrowienia\n- Always include: greeting, main message, closing\n\n## Key A2 Grammar to Review\n\n1. **Verbal aspect** — codziennie vs w końcu\n2. **Past tense gender** — -łem/-łam/-li/-ły\n3. **Conditional** — chciałbym/chciałabym + inf\n4. **Genitive plural** — studentów, kobiet, okien\n5. **Formal Pan/Pani** — 3rd person singular\n6. **Prepositions + cases** — do/z (gen); w/na (loc vs acc)\n7. **Verbal nouns** — czytanie, życie",
     "notes": [
@@ -16,13 +16,14 @@
       "Listening: don't panic if you miss a word — context often lets you reconstruct meaning."
     ]
   },
-  "explanation_fa": "برای آزمون A2: خواندن — متون کوتاه با واژگان آشنا. گوش دادن — مکالمات روزمره ساده. نوشتن — نامه یا ایمیل کوتاه با دستور درست. صحبت کردن — معرفی خود، توصیف خانواده و محیط. نکات کلیدی: وجه فعل، زمان گذشته و آینده، حالت‌های اصلی.",
+  "explanation_fa": "**آزمون PKE سطح A2 — ساختار و راهکارها**\n\nآزمون دولتی زبان لهستانی (PKE) در سطح A2 چهار بخش دارد:\n\n| بخش | وزن | نوع سؤالات |\n|-----|-----|------------|\n| **دستور زبان** | ۳۵٪ | جای‌خالی، چند گزینه‌ای، تصحیح خطا |\n| **خواندن** | ۳۵٪ | درست/نادرست، پاسخ کوتاه، چند گزینه‌ای |\n| **گوش دادن** | ۲۰٪ | دیکته، چند گزینه‌ای، یادداشت‌برداری |\n| **نوشتن** | ۱۰٪ | متون کوتاه (کارت پستال، یادداشت، ایمیل) |\n\n**آستانه قبولی:** ۵۰٪ کل، ۴۰٪ در هر بخش جداگانه\n**زمان کل:** ۱۶۰ دقیقه\n\n**۷ موضوع دستوری کلیدی برای مرور:**\n\n۱. **وجه فعل** — codziennie (ناکامل) در برابر w końcu (کامل)\n۲. **توافق جنسیتی گذشته** — -łem/-łam/-li/-ły\n۳. **وجه التزامی** — chciałbym/chciałabym + مصدر\n۴. **مضاف‌الیهی جمع** — studentów، kobiet، okien\n۵. **فرم رسمی Pan/Pani** — فعل سوم شخص مفرد\n۶. **حروف اضافه + حالت** — do/z (مضاف‌الیهی)؛ w/na (مکانی در برابر مفعولی)\n۷. **اسم فعل** — czytanie، życie\n\n**نکات بخش دستور:** قبل از انتخاب جواب کل جمله را بخوانید — وجه بستگی به بافت دارد.\n\n**نکات بخش خواندن:** ابتدا موضوع را بخوانید، سپس سؤالات، سپس برای پاسخ برگردید.\n\n**نکات بخش نوشتن:** کارت پستال = ۵۰-۸۰ کلمه، سبک غیررسمی، سلام + پیام اصلی + خداحافظی.\n\n**نکات بخش گوش دادن:** اگر کلمه‌ای را نشنیدید نگران نشوید — بافت اغلب به شما کمک می‌کند معنا را بازسازی کنید.",
   "exercises": [
     {
       "id": "a2-ch20-l04-ex01",
       "type": "multiple_choice",
       "order": 1,
       "prompt": "PKE-style: Mam rezerwację ___ nazwisko Nowak. [fixed phrase]",
+      "prompt_fa": "سبک PKE: Mam rezerwację ___ nazwisko Nowak. [عبارت ثابت — رزرواسیون به نام نواک]",
       "options": [
         "na",
         "pod",
@@ -30,13 +31,15 @@
         "do"
       ],
       "correctIndex": 0,
-      "explanation": "'Rezerwacja na nazwisko' = reservation under the name (fixed phrase). 'Na + accusative': na nazwisko Nowak. This is a very common travel/accommodation phrase tested at A2."
+      "explanation": "'Rezerwacja na nazwisko' = reservation under the name (fixed phrase). 'Na + accusative': na nazwisko Nowak. This is a very common travel/accommodation phrase tested at A2.",
+      "explanation_fa": "'Rezerwacja na nazwisko' = رزرواسیون به نام (عبارت ثابت). 'Na + مفعولی': na nazwisko Nowak. این یک عبارت بسیار رایج در حوزه سفر/اقامت است که در A2 آزمون می‌گیرند."
     },
     {
       "id": "a2-ch20-l04-ex02",
       "type": "multiple_choice",
       "order": 2,
       "prompt": "PKE-style: Kiedy ___ do pracy, zaczął padać deszcz. (When I was going to work, it started to rain.) [aspect]",
+      "prompt_fa": "سبک PKE: Kiedy ___ do pracy, zaczął padać deszcz. (وقتی داشتم می‌رفتم سر کار، باران شروع کرد.) [وجه]",
       "options": [
         "szłam",
         "poszłam",
@@ -44,13 +47,16 @@
         "pójdę"
       ],
       "correctIndex": 0,
-      "explanation": "'Kiedy szłam' = when I was walking (ongoing background, imperfective). 'Poszłam' = I went (completed — wrong here, the rain started during the walking). Classic kiedy + imperfective pattern tested in PKE."
+      "explanation": "'Kiedy szłam' = when I was walking (ongoing background, imperfective). 'Poszłam' = I went (completed — wrong here, the rain started during the walking). Classic kiedy + imperfective pattern tested in PKE.",
+      "explanation_fa": "'Kiedy szłam' = وقتی داشتم می‌رفتم (پس‌زمینه مستمر، ناکامل). 'Poszłam' = رفتم (تکمیل‌شده — اینجا غلط است، باران در حین رفتن شروع کرد). الگوی کلاسیک kiedy + ناکامل که در PKE آزمون می‌گیرند."
     },
     {
       "id": "a2-ch20-l04-ex03",
       "type": "dictation_mc",
       "order": 3,
       "audioAsset": "assets/audio/a2/ch20/a2-ch20-l04-ex03.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
       "options": [
         "Czy mógłby Pan powtórzyć, proszę?",
         "Czy możesz powtórzyć, proszę?",
@@ -58,13 +64,15 @@
         "Czy Pan może powtarzać, proszę?"
       ],
       "correctIndex": 0,
-      "explanation": "You heard: 'Czy mógłby Pan powtórzyć, proszę?' — Could you please repeat that? (formal, to a man). 'Mógłby Pan' = formal conditional request (Pan + 3rd sg conditional). 'Powtórzyć' = perf (repeat once). Compare informal: 'Czy możesz powtórzyć?'"
+      "explanation": "You heard: 'Czy mógłby Pan powtórzyć, proszę?' — Could you please repeat that? (formal, to a man). 'Mógłby Pan' = formal conditional request (Pan + 3rd sg conditional). 'Powtórzyć' = perf (repeat once). Compare informal: 'Czy możesz powtórzyć?'",
+      "explanation_fa": "شنیدید: 'Czy mógłby Pan powtórzyć, proszę?' — آیا می‌توانید تکرار کنید، لطفاً؟ (رسمی، به مرد). 'Mógłby Pan' = درخواست وجه التزامی رسمی (Pan + وجه التزامی سوم شخص). 'Powtórzyć' = کامل (یک‌بار تکرار). غیررسمی: 'Czy możesz powtórzyć?'"
     },
     {
       "id": "a2-ch20-l04-ex04",
       "type": "multiple_choice",
       "order": 4,
       "prompt": "PKE-style error correction: 'Jestem student na UJ.' — What is wrong?",
+      "prompt_fa": "تصحیح خطای سبک PKE: «Jestem student na UJ.» — خطا کجاست؟",
       "options": [
         "Should be: Jestem studentem (instrumental after być)",
         "Nothing is wrong",
@@ -72,49 +80,105 @@
         "Should be: Jestem studiuję"
       ],
       "correctIndex": 0,
-      "explanation": "After 'być' (to be) with professions/identities → instrumental: student → studentem. 'Jestem studentem' = I am a student. Using nominative after 'być' is one of the most common A2-level errors."
+      "explanation": "After 'być' (to be) with professions/identities → instrumental: student → studentem. 'Jestem studentem' = I am a student. Using nominative after 'być' is one of the most common A2-level errors.",
+      "explanation_fa": "بعد از 'być' (بودن) با مشاغل/هویت‌ها → ابزاری: student → studentem. 'Jestem studentem' = دانشجو هستم. استفاده از فاعلی بعد از 'być' یکی از رایج‌ترین خطاهای سطح A2 است."
     },
     {
       "id": "a2-ch20-l04-ex05",
-      "type": "sentence_builder",
+      "type": "fill_blank",
       "order": 5,
-      "prompt": "Build a PKE writing-section sentence: I have been learning Polish for two years. (uczyć się + przez + accusative)",
-      "wordBank": [
-        "Uczę",
-        "się",
-        "polskiego",
-        "polskim",
-        "przez",
-        "dwa",
-        "dwóch",
-        "lata",
-        "lat",
-        "."
+      "context": "PKE Writing section: You're writing a postcard to a friend about your trip. Describe your hotel reservation:",
+      "context_fa": "بخش نوشتن PKE: دارید به دوستت کارت پستال می‌نویسید درباره سفرتان. رزرو هتلتان را توصیف کنید:",
+      "sentence": "Mam rezerwację ___ nazwisko Kowalski w hotelu centrum.",
+      "prompt": "Mam rezerwację ___ nazwisko Kowalski w hotelu centrum. (I have a reservation under the name Kowalski at the hotel downtown.)",
+      "prompt_fa": "Mam rezerwację ___ nazwisko Kowalski w hotelu centrum. (رزرواسیونی به نام کووالسکی در هتل مرکز شهر دارم.)",
+      "answer": "na",
+      "acceptableAnswers": ["na"],
+      "hint": "Fixed phrase: rezerwacja ___ nazwisko = reservation under the name",
+      "explanation": "'Rezerwacja na nazwisko' = reservation under the name. Fixed phrase using 'na + accusative'. Very common in hotel/travel contexts and tested in PKE A2 reading and writing sections.",
+      "explanation_fa": "'Rezerwacja na nazwisko' = رزرواسیون به نام. عبارت ثابت با 'na + مفعولی'. بسیار رایج در بافت هتل/سفر و در بخش‌های خواندن و نوشتن PKE A2 آزمون می‌گیرند."
+    },
+    {
+      "id": "a2-ch20-l04-ex06",
+      "type": "multiple_choice",
+      "order": 6,
+      "prompt": "PKE-style: 'Czy ___ Pani powiedzieć mi, gdzie jest dworzec?' (Could you tell me where the train station is?) [formal request to a woman]",
+      "prompt_fa": "سبک PKE: «Czy ___ Pani powiedzieć mi, gdzie jest dworzec?» (آیا می‌توانید (خانم) به من بگویید ایستگاه قطار کجاست؟) [درخواست رسمی از خانم]",
+      "options": [
+        "mogłaby",
+        "może",
+        "możesz",
+        "mógłby"
       ],
+      "correctIndex": 0,
+      "explanation": "Formal conditional to a woman (Pani) → 'mogłaby Pani': 3rd person sg feminine conditional of móc. 'Mógłby' = masculine (for Pan). 'Może' = present indicative (can). 'Mogłaby Pani powiedzieć' = Could you (f) tell me.",
+      "explanation_fa": "وجه التزامی رسمی به خانم (Pani) → 'mogłaby Pani': وجه التزامی مفرد مؤنث سوم شخص از móc. 'Mógłby' = مذکر (برای Pan). 'Może' = اخباری حال (می‌تواند). 'Mogłaby Pani powiedzieć' = آیا شما (خانم) می‌توانید بگویید."
+    },
+    {
+      "id": "a2-ch20-l04-ex07",
+      "type": "fill_blank",
+      "order": 7,
+      "context": "PKE Grammar section: Choose the correct aspect. You are describing a completed action with a specific time:",
+      "context_fa": "بخش دستور PKE: وجه درست را انتخاب کنید. دارید یک فعالیت تکمیل‌شده با زمان مشخص توصیف می‌کنید:",
+      "sentence": "Wczoraj wieczorem ___ całą książkę. (I finished reading the whole book last night.)",
+      "prompt": "Wczoraj wieczorem ___ całą książkę. (I finished reading the whole book last night.) [przeczytać — perfective past, 1st sg m]",
+      "prompt_fa": "Wczoraj wieczorem ___ całą książkę. (دیشب تمام کتاب را خواندم.) [przeczytać — گذشته کامل، اول شخص مفرد مذکر]",
+      "answer": "przeczytałem",
+      "acceptableAnswers": ["przeczytałem", "przeczytałam"],
+      "hint": "Completed action (entire book, last night) → perfective past of przeczytać",
+      "explanation": "'Przeczytałem/Przeczytałam całą książkę' = I finished reading the whole book. 'Całą' (whole/entire, f acc) + perfective = completed result. 'Czytałem' would imply ongoing reading, not completion.",
+      "explanation_fa": "'Przeczytałem/Przeczytałam całą książkę' = تمام کتاب را خواندم. 'Całą' (تمام، مؤنث مفعولی) + کامل = نتیجه تکمیل‌شده. 'Czytałem' نشان می‌دهد که در حال خواندن بودم، نه اینکه تمام کردم."
+    },
+    {
+      "id": "a2-ch20-l04-ex08",
+      "type": "multiple_choice",
+      "order": 8,
+      "prompt": "PKE-style error correction: 'Ona pojechała do sklep po mleko.' — What is wrong?",
+      "prompt_fa": "تصحیح خطای سبک PKE: «Ona pojechała do sklep po mleko.» — خطا کجاست؟",
+      "options": [
+        "'Do' requires genitive: 'do sklepu' (not 'do sklep')",
+        "Should be 'poszła' not 'pojechała'",
+        "'Po mleko' should be 'dla mleko'",
+        "There is no error"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Do + genitive': sklep (m) → genitive: sklepu. 'Do sklepu' = to the shop. This is the most common error with 'do' — learners forget the genitive ending. 'Pojechała' vs 'poszła': both possible depending on how she went.",
+      "explanation_fa": "'Do + مضاف‌الیهی': sklep (مذکر) → مضاف‌الیهی: sklepu. 'Do sklepu' = به مغازه. این رایج‌ترین خطا با 'do' است — یادگیرندگان پایانه مضاف‌الیهی را فراموش می‌کنند. 'Pojechała' در برابر 'poszła': هر دو ممکن است بسته به نوع رفتن."
+    },
+    {
+      "id": "a2-ch20-l04-ex09",
+      "type": "dictation_mc",
+      "order": 9,
+      "audioAsset": "assets/audio/a2/ch20/a2-ch20-l04-ex09.mp3",
+      "prompt": "Which sentence did you hear?",
+      "prompt_fa": "کدام جمله را شنیدید؟",
+      "options": [
+        "Uczę się polskiego od dwóch lat.",
+        "Uczę się polskiego przez dwa lata.",
+        "Uczę się polskim od dwóch lat.",
+        "Uczyłam się polskiego od dwóch lat."
+      ],
+      "correctIndex": 0,
+      "explanation": "You heard: 'Uczę się polskiego od dwóch lat.' — I have been learning Polish for two years (ongoing since). 'Od + genitive of time': od dwóch lat = since two years ago / for two years (ongoing). 'Przez dwa lata' = for two years (duration, often completed). 'Polskiego' = genitive of polski.",
+      "explanation_fa": "شنیدید: 'Uczę się polskiego od dwóch lat.' — دو سال است لهستانی یاد می‌گیرم (از دو سال پیش تاکنون). 'Od + مضاف‌الیهی زمان': od dwóch lat = از دو سال پیش / برای دو سال (مستمر). 'Przez dwa lata' = به مدت دو سال (اغلب تکمیل‌شده). 'Polskiego' = مضاف‌الیهی polski."
+    },
+    {
+      "id": "a2-ch20-l04-ex10",
+      "type": "sentence_builder",
+      "order": 10,
+      "prompt": "Build a PKE writing-section sentence: I have been learning Polish for two years.",
+      "prompt_fa": "جمله‌ای برای بخش نوشتن PKE بسازید: دو سال است لهستانی یاد می‌گیرم.",
+      "wordBank": ["Uczę", "się", "polskiego", "polskim", "przez", "od", "dwa", "dwóch", "lata", "lat", "."],
       "correctSequences": [
-        [
-          "Uczę",
-          "się",
-          "polskiego",
-          "przez",
-          "dwa",
-          "lata",
-          "."
-        ]
+        ["Uczę", "się", "polskiego", "przez", "dwa", "lata", "."],
+        ["Uczę", "się", "polskiego", "od", "dwóch", "lat", "."]
       ],
-      "explanation": "'Uczę się polskiego przez dwa lata.' — I have been learning Polish for two years. 'Uczyć się + genitive': polskiego (polski → gen). 'Przez + accusative': dwa lata (acc of dwa lata). Note: 'dwa' takes nominative/accusative form 'dwa', not 'dwóch'."
+      "explanation": "'Uczę się polskiego przez dwa lata.' (for two years, duration) or 'Uczę się polskiego od dwóch lat.' (for two years, ongoing since). 'Uczyć się + genitive': polskiego. 'Przez + accusative': dwa lata. 'Od + genitive': dwóch lat.",
+      "explanation_fa": "'Uczę się polskiego przez dwa lata.' (به مدت دو سال) یا 'Uczę się polskiego od dwóch lat.' (دو سال است، از گذشته تاکنون). 'Uczyć się + مضاف‌الیهی': polskiego. 'Przez + مفعولی': dwa lata. 'Od + مضاف‌الیهی': dwóch lat."
     }
   ],
   "xpReward": 20,
   "estimatedMinutes": 10,
-  "tags": [
-    "exam-prep",
-    "pke",
-    "a2-core"
-  ],
-  "prerequisites": [
-    "a2-ch20-l01",
-    "a2-ch20-l02",
-    "a2-ch20-l03"
-  ]
+  "tags": ["exam-prep", "pke", "a2-core"],
+  "prerequisites": ["a2-ch20-l01", "a2-ch20-l02", "a2-ch20-l03"]
 }
